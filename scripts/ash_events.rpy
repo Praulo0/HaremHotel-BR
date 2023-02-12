@@ -7642,7 +7642,7 @@ translate pt_br ash_birthday_4ef9f455:
 translate pt_br ash_birthday_c57919df:
 
     # a "Why wouldn't [botname] let me into the kitchen? Is Lin cooking something special?"
-    a "Por que a [botname] não me deixou ir á cozinha? A Lin está cozinhando alguma coisa especial?"
+    a "Por que [botname] não me deixou ir á cozinha? A Lin está cozinhando alguma coisa especial?"
 
 # game/scripts/ash_events.rpy:2076
 translate pt_br ash_birthday_76c0a13e:
@@ -7654,7 +7654,7 @@ translate pt_br ash_birthday_76c0a13e:
 translate pt_br ash_birthday_84c47f95:
 
     # m "You know [botname], she can be so weird sometimes... maybe her programming went haywire?"
-    m "Você conhece a [botname], ela pode ser bem estranha as vezes... talvez a programação dela tenha bagunçado? "
+    m "Você conhece [botname], ela pode ser bem estranha as vezes... talvez a programação dela tenha bagunçado? "
 
 # game/scripts/ash_events.rpy:2079
 translate pt_br ash_birthday_924ed52a:
@@ -7918,7 +7918,7 @@ translate pt_br ash_birthday_e5e40781:
 translate pt_br ash_birthday_0408da70:
 
     # au "[botname]? Are you in h- Oh my goodness!"
-    au "[botname]? Você est- Ai minhas deusas?"
+    au "[botname]? Você est- Ai Meu Deus!"
 
 # game/scripts/ash_events.rpy:2146
 translate pt_br ash_birthday_86e56dcd:
@@ -7930,7 +7930,7 @@ translate pt_br ash_birthday_86e56dcd:
 translate pt_br ash_birthday_9e4123af:
 
     # l "[botname] keeps bugging me, I can't get anything done! It's her fault I fell..."
-    l "A [botname] fica me incomodando, eu não consigo terminar nada! É culpa dela que eu caí..."
+    l "[botname] fica me incomodando, eu não consigo terminar nada! É culpa dela que eu caí..."
 
 # game/scripts/ash_events.rpy:2148
 translate pt_br ash_birthday_957f3a01:
@@ -9424,7 +9424,7 @@ translate pt_br ash_birthday_965b970f:
 translate pt_br ash_birthday_fab0e088:
 
     # a "And you threw me a party? \n{w}So that's why [botname] stopped me from going into the kitchen!"
-    a "E vocês fizeram uma festa para mim? \n{w}Então era por isso que a [botname] não me deixou ir para a cozinha?"
+    a "E vocês fizeram uma festa para mim? \n{w}Então era por isso que [botname] não me deixou ir para a cozinha?"
 
 # game/scripts/ash_events.rpy:2485
 translate pt_br ash_birthday_a7cc3cea:
