@@ -4,559 +4,560 @@
 translate pt_br skip_a27367e9:
 
     # "Skip the intro?"
-    ""
+    "Pular a intro?"
 
 # game/script.rpy:376
 translate pt_br skip_aaa47156:
 
     # "Since you are on Android, you may need to download {b}google keyboard{/b} to enter your name."
-    ""
+    "Visto que você está usando um Android, você pode precisar baixar {b}google keyboard{/b} para escrever seu nome."
 
 # game/script.rpy:388
 translate pt_br intro_443a9488:
 
     # "16 years ago..."
-    ""
+    "16 anos atrás..."
 
 # game/script.rpy:390
 translate pt_br intro_402a59b9:
 
     # yg "Today, the hard work over these past few decades will finally pay off. I have big plans, and you girls will be the first thing customers see."
-    yg ""
+    yg "Hoje, o trabalho duro feito nessas últimas décadas finalmente vai ser compensado. Eu tenho grandes planos, e vocês garotas serão a primeira coisa que os clientes vão ver.  "
 
 # game/script.rpy:391
 translate pt_br intro_9664af3c:
 
     # lika "I'm so excited, Master!"
-    lika ""
+    lika "Eu estou tão animada, Mestre!"
 
 # game/script.rpy:393
 translate pt_br intro_c3faeeb9:
 
     # yg "I'm glad, Lika. You'll be working out front today and we'll need that enthusiasm. Do anything you can to bring in customers. In fact, it may be best for you to wear nothing at all."
-    yg ""
+    yg "Fico contente, Lika. Hoje você vai estar trabalhando na frente hoje e nós precisamos desse entusiasmo. Faça o que puder para trazer clientes. Na verdade pode ser maté melhor para você não vestir nada."
 
 # game/script.rpy:395
 translate pt_br intro_87d74243:
 
     # lika "Oh, one of {i}those{/i} jobs..."
-    lika ""
+    lika "AH, um {i}desses{/i} trabalhos..." 
 
 # game/script.rpy:396
 translate pt_br intro_7ad58750:
 
     # yg "I'm sorry, but you know how much debt we're in."
-    yg ""
+    yg "Sinto muito, mas você sabe o quanto estamos endividados."
 
 # game/script.rpy:397
 translate pt_br intro_dd517148:
 
     # lika "Yes, I understand, Master..."
-    lika ""
+    lika "Sim, eu entendo, Mestre..."
 
 # game/script.rpy:399
 translate pt_br intro_2ef7e57b:
 
     # yg "Sophie, you'll be preparing a buffet for our opening ceremony. Can I trust you to cook everything necessary for our guests?"
-    yg ""
+    yg "Sophie, hoje você vai preparar um buffet para nossa cerimônia de abertura. Eu posso contar com você para cozinhar tudo o que é necessário para nossos convidados?"
 
 # game/script.rpy:400
 translate pt_br intro_f629f8ab:
 
     # so "Of course, Master! Anything you need."
-    so ""
+    so "É claro, Mestre! Qualquer coisa que você precise."
 
 # game/script.rpy:402
 translate pt_br intro_2950b4cb:
 
     # yg "And Ellen... I need you to make sure this place is spotless. We don't need any poor reviews on our very first day."
-    yg ""
+    yg "E Ellen... Eu preciso que você tenha certeza que esse lugar esteja impecável. Nós não precisamos de nenhuma crítica negativa logo no nosso primeiro dia."
 
 # game/script.rpy:403
 translate pt_br intro_437126a5:
 
     # e "{size=-10}{i}I'm not your slave...{/i}{/size}"
-    e ""
+    e "{size=-10}{i}Não sou sua escrava...{/i}{/size}"
 
 # game/script.rpy:404
 translate pt_br intro_2f64dd92:
 
     # yg "Speak up."
-    yg ""
+    yg "Fala alto."
 
 # game/script.rpy:406
 translate pt_br intro_c8757f43:
 
     # e "You're really making me do an elf's job? I'm human! Not some slave."
-    e ""
+    e "Você realmente vai me obrigar a fazer um trabalho de elfo? Eu sou humana! Não uma escrava. "
 
 # game/script.rpy:407
 translate pt_br intro_280da457:
 
     # yg "Ellen, we need to be a team today."
-    yg ""
+    yg "Ellen, nós precisamos ser um time hoje."
 
 # game/script.rpy:408
 translate pt_br intro_ad624bb2:
 
     # e "Then let me be the receptionist! Don't reduce me to their level. I shouldn't be a maid, give me something with dignity!"
-    e ""
+    e "Então deixe eu ser a recepcionista! Não me rebaixe ao nível deles. Eu não devia ser uma empregada, me dê algo com dignidade!"
 
 # game/script.rpy:409
 translate pt_br intro_e232e700:
 
     # yg "Though it may take some time and training, you'll become a fine maid. Anything can be accomplished through hard work and dedication."
-    yg ""
+    yg "Com tempo e treinamento, você vai ser uma ótima empregada. Qualquer coisa pode ser realizada através de trabalho duro e dedicação."
 
 # game/script.rpy:411
 translate pt_br intro_c318831e:
 
     # e "Whatever... It's not like I have much of a choice..."
-    e ""
+    e "Que seja... Não é como se eu tivesse muita escolha..."
 
 # game/script.rpy:413
 translate pt_br intro_3b2a34b0:
 
     # yg "Now then, get to it girls! We're expecting a lot of traffic, so do your part and we might just succeed."
-    yg ""
+    yg "Agora vamos ao que interessa, garotas! Nós esperamos muito movimento, então façam a parte de vocês e talvez tenhamos sucesso."
 
 # game/script.rpy:414
 translate pt_br intro_9fc1043f:
 
     # so "Yes Master!"
-    so ""
+    so "Sim Mestre!"
 
 # game/script.rpy:415
 translate pt_br intro_f3dd56ad:
 
     # lika "Yes Master..."
-    lika ""
+    lika "Sim Mestre..."
 
 # game/script.rpy:460
 translate pt_br intro_021efa4e:
 
     # yg "...{w}*sigh*..."
-    yg ""
+    yg "...{w}*suspiro*..."
 
 # game/script.rpy:461
 translate pt_br intro_08033034:
 
     # yg "...I've done so much... I've worked so hard... is this really all I have to show for it? After all these years..."
-    yg ""
+    yg "...Eu fiz tanto... Eu trabalhei tão duro... Isso é  realmente tudo o que eu posso mostrar? Depois de todos esses anos...
+"
 
 # game/script.rpy:462
 translate pt_br intro_617de26f:
 
     # yg "A little far from the paradise I had envisioned... At this pace, I won't be able to see it for myself... I'm too old..."
-    yg ""
+    yg "Está um pouco longe do paraíso que eu havia imaginado... Nesse ritmo, não serei capaz de ver por mim mesmo... Estou muito velho..."
 
 # game/script.rpy:463
 translate pt_br intro_cbfde8c0:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:464
 translate pt_br intro_95608ae1:
 
     # yg "No, I can't give up yet. I've already given up on family, fortune, and fame..."
-    yg ""
+    yg "Não, eu não posso desistir ainda. Eu já desisti da fortuna, família e fama."
 
 # game/script.rpy:466
 translate pt_br intro_9e4a916d:
 
     # yg "I can't give up on you, too..."
-    yg ""
+    yg "Eu não posso desistir de você, também."
 
 # game/script.rpy:470
 translate pt_br intro_15cfc189:
 
     # "Today..."
-    ""
+    "Hoje..."
 
 # game/script.rpy:474
 translate pt_br intro_d83d22e6:
 
     # comms "*ding dong*\nGood morning passengers! It's your captain speaking. I hope you're awake and ready, because we've just arrived in Syl'anar airspace! Please find a seat and buckle in, we'll be landing shortly!"
-    comms ""
+    comms "*ding dong*\nBom dia passageiros! É seu capitão falando. Eu eespero que vocês estejam acordados e prontos, porque nós acabamos de chegar no espaço aéreo de Syl'anar! Por favor, encontrem um assento e coloquem o cinto, nós iremos pousar em breve."
 
 # game/script.rpy:475
 translate pt_br intro_56e4e34e:
 
     # you "Hmm...? Did I fall asleep...?"
-    you ""
+    you "Hmm...? Eu acabei dormindo...?"
 
 # game/script.rpy:476
 translate pt_br intro_44522476:
 
     # you "Urgh... what time is it?"
-    you ""
+    you "Urgh... que horas são?"
 
 # game/script.rpy:478
 translate pt_br intro_a22938ea:
 
     # tv "Welcome to Syl'anar! Home of opportunity!"
-    tv ""
+    tv "Bem vindos a Syl'anar! Casa das oportunidades!"
 
 # game/script.rpy:479
 translate pt_br intro_bfee764e:
 
     # you "Oh?"
-    you ""
+    you "Oh?"
 
 # game/script.rpy:481
 translate pt_br intro_2854280d:
 
     # you "What's this? Some kind of ad?"
-    you ""
+    you "O que é isso? Algum tipo de anúncio?"
 
 # game/script.rpy:483
 translate pt_br intro_4805441e:
 
     # tv "Here at Syl'anar, we pride ourselves in being the world's number one economy. In only 300 years, the formation of our four kingdoms into one great republic has achieved feats that were once believed to be impossible!"
-    tv ""
+    tv "Aqui em Syl'anar, nós nos orgulhamos de ser a economia número um do mundo. Em apenas 300 anos, a formação de nossos quatro reinos em uma grande república atingiu feitos que já foram considerados impossíveis!"
 
 # game/script.rpy:485
 translate pt_br intro_6e1a8a22:
 
     # tv "And you, valued human, are welcome to join us in our place in history. We do hope you enjoy your stay!"
-    tv ""
+    tv "E você, prezado humano, é bem-vindo para se juntar em nosso lugar na história. Nós esperamos que você aproveite sua estadia."
 
 # game/script.rpy:487
 translate pt_br intro_db775536:
 
     # tv "Are you a tourist, immigrant, or return citizen?" nointeract
-    tv "" nointeract
+    tv "Você é um turista, imigrate ou um cidadão de retorno?" nointeract
 
 # game/script.rpy:490
 translate pt_br intro_90f731c9:
 
     # tv "Then you're in luck! Stop by any Happy Home Academy and you will receive a 10 percent discount on any slave of your choosing with purchase of a slave license. We want to make your dreams reality!"
-    tv ""
+    tv "Então você está com sorte! Pare em qualquer Academia Casa Feliz e você irá receber um desconto de 10 por cento em qualquer escravo que você comprar com sua licença para escravos. Nós queremos tornar os seus sonhos realidade!"
 
 # game/script.rpy:491
 translate pt_br intro_c2e08acd:
 
     # you "A slave, hm? It's that easy?"
-    you ""
+    you "Um escravo, hm? É tão fácil assim?"
 
 # game/script.rpy:492
 translate pt_br intro_f0ac3430:
 
     # tv "WARNING! It is strictly prohibited by international law to bring any elf or half elf assets outside the borders of Syl'anar."
-    tv ""
+    tv "AVISO! É extritamente proibido pela legislação internacional trazer qualquer ativos elfos ou meio-elfos para fora das fronteiras de Syl'anar."
 
 # game/script.rpy:495
 translate pt_br intro_74d448d5:
 
     # tv "Are you an influencer, idol, politician, or simply wishing to tour Syl'anar's greatest vistas?" nointeract
-    tv "" nointeract
+    tv "Você é um influencer, ídolo ou político ou simplesmente deseja visitar as melhores vistas de Syl'anar?" nointeract
 
 # game/script.rpy:498
 translate pt_br intro_9e629ee7:
 
     # tv "Great! Then please ask for a tour guide on your way out. Visit attractions such as: The Pyramids of Syl'tin! The tallest mountain in the world, located in our very own Syl'tali! Or perhaps the infamous brothels of Corpus city would interest you?"
-    tv ""
+    tv "Ótimo! Então por favor peça por um guia de visitantes em sua saída. Visite atrações como: AS Pirâmides de Syl'tin! A montanha mais alta do mundo, localizadas em nosso próprio Syl'tali! Ou talvez os infâmes bordéis da cidade Corpus sejam de seu interesse?"
 
 # game/script.rpy:499
 translate pt_br intro_0b2e838e:
 
     # you "They've got everything, don't they?"
-    you ""
+    you "Eles têm de tudo, hein?"
 
 # game/script.rpy:500
 translate pt_br intro_25e6315f:
 
     # tv "Syl'anar is vast, and it's biogeography is diverse. Our land can accomodate you, no matter your tastes. From the jungles of Syl'tin, to the deserts of Syl'tali. Or the temperate forests of Syl'ari and tundras of Syl'osi!"
-    tv ""
+    tv "Syl'anar é vasto, e sua biogeografia é diversa. Nossa terra pode te acomodar, não importam seus gostos. Das florestas de Syl'tin, aos desertos de Syl'tali. Ou as florestas temperadas de Syl'ari e tundras de Syl'osi!"
 
 # game/script.rpy:501
 translate pt_br intro_38972a8b:
 
     # you "Syl'ari, that's where I'm headed."
-    you ""
+    you "Syl'ari, é para lá onde estou indo. "
 
 # game/script.rpy:504
 translate pt_br intro_6a5698e7:
 
     # tv "How unfortunate. But if you change your mind, please ask for a tour guide on your way out."
-    tv ""
+    tv "Que pena. Mas caso mude de ideia, por favor pergunte por algum guia de visitantes em sua saída."
 
 # game/script.rpy:506
 translate pt_br intro_5032a963:
 
     # you "I'm not going to fall for any sales pitches. Better I just turn this off."
-    you ""
+    you "Eu não vou cair em nenhum discurso de venda. É melhor eu apenas desligar isso."
 
 # game/script.rpy:507
 translate pt_br intro_bd4d3cfc:
 
     # "*knock, knock, knock*"
-    ""
+    "*knck, knock, knock*"
 
 # game/script.rpy:509
 translate pt_br intro_dd042525:
 
     # fat "Hello~ We're so happy to have you flying on Syl-Air, sir! It will no doubt be a better place with you immigrating here!"
-    fat ""
+    fat "Olá~Nós estamos tão felizes por ter você voando em Syl'air, senhor! Eu não tenho duvidas qua será um lugar melhor com você imigrando para cá!"
 
 # game/script.rpy:510
 translate pt_br intro_598ae166:
 
     # you "How did you..."
-    you ""
+    you "Como você..."
 
 # game/script.rpy:511
 translate pt_br intro_5eb6a5e7:
 
     # fat "Here at Syl-Air, we make it our mission to set up immigrants for success! Are you a student? Or a business owner perhaps?"
-    fat ""
+    fat "Aqui em Syl'air, nossa missão preparar os imigrantees para o sucesso! Você é um estudante? Ou talvez o dono de um negócio?"
 
 # game/script.rpy:512
 translate pt_br intro_f53f5d93:
 
     # you "No, I- \nActually, yes. I just became a business owner. My grandfather recently passed..."
-    you ""
+    you "Não, E- \nNa verdade, sim. Eu acabei de me tornar o dono de um negócio. Meu avô faleceu recentemente..."
 
 # game/script.rpy:513
 translate pt_br intro_fa642051:
 
     # fat "Wonderful! The government would like to offer you a 15 percent discount on your first business' slave. Together with your immigration discount, that's 25 percent in total!"
-    fat ""
+    fat "Maravilhoso! O governo gostaria de te oferecer um desconto de 15 por cento em seu primeiro escravo de negócios. Junto com seu desconto de imigrante, são 25 por cento no total!"
 
 # game/script.rpy:516
 translate pt_br intro_f51060df:
 
     # fat "You're very welcome! Good luck!"
-    fat ""
+    fat "Você é muito bem vindo! Boa sorte!"
 
 # game/script.rpy:518
 translate pt_br intro_2ab7ceba:
 
     # fat "Happy? Yes, I'm very happy!"
-    fat ""
+    fat "Feliz? Sim, eu sou muito feliz!"
 
 # game/script.rpy:519
 translate pt_br intro_24cd2c64:
 
     # you "Okay... \n{i}(There's definitely something off about her...){/i}"
-    you ""
+    you "Certo... \n{i}(Com certeza tem alguma coisa errada com ela...){/i}"
 
 # game/script.rpy:521
 translate pt_br intro_c9ac2da4:
 
     # fat "The offer remains on your account, whether you take it or not!"
-    fat ""
+    fat "A oferta continua em sua conta, quer você aceite ou não!"
 
 # game/script.rpy:523
 translate pt_br intro_8da668cf:
 
     # comms "*ding dong*\nHello passengers! This is your pilot speaking. We'll be landing in 5 minutes, please buckle up immediately."
-    comms ""
+    comms "*ding dong*\nOlá passageiros! Esse é o seu piloto falando. Nós iremos aterrissar em 5 minutos, por favor coloquem seus cintos imediatamente."
 
 # game/script.rpy:525
 translate pt_br intro_4e5e025b:
 
     # fat "Time to take our seats. Enjoy your new life in Syl'anar, {i}Master...{/i}"
-    fat ""
+    fat "Hora de irem a seus assentos. Aproveite sua nova vida em Syl'anar, {i}Mestre...{/i}
 
 # game/script.rpy:527
 translate pt_br intro_dae0ec55:
 
     # you "..."
-    you ""
+    you "..."
 
 # game/script.rpy:529
 translate pt_br intro_2ad58eb0:
 
     # "You arrive in Syl'anar, a strange and foreign land. But it's not pleasure that calls you here, it's business... {w}Or maybe a bit of both..."
-    ""
+    "Você chega em Syl'anaar, uma terra estranha e estrangeira. Mas não é o prazer que traz você aqui, é o trabalho... {w}Ou talvez um pouco dos dois...
 
 # game/script.rpy:531
 translate pt_br intro_66a69780:
 
     # you "So this is the place, huh? Not bad. A bit out of the way though..."
-    you ""
+    you "Então esse é o lugar, hein? Não é ruim. Mas é um pouco fora de mão..."
 
 # game/script.rpy:532
 translate pt_br intro_91265989:
 
     # you "I was told the hotel is going to need some repairs to become fully operational. It looks well kept though, someone must be inside."
-    you ""
+    you "Me disseram que o hotel iria precisar de alguns repares para se tornar completamente operacional. Mas até que parece bem conservado, alguem deve estar dentro."
 
 # game/script.rpy:533
 translate pt_br intro_ec0b7bf8:
 
     # you "Well, I better go introduce myself as the new boss."
-    you ""
+    you "Bem, é melhor eu me apresentar como o novo chefe."
 
 # game/script.rpy:535
 translate pt_br intro_7069eb00:
 
     # you "Oh, that's right. Grandpa left me a letter to read when I got here..."
-    you ""
+    you "Ah, é mesmo. Vovô me deixou uma carta para que eu lesse quando eu chegasse aqui..."
 
 # game/script.rpy:539
 translate pt_br intro_11d21152:
 
     # you "He's really giving me this hotel..."
-    you ""
+    you "Ele está realmente me dando esse hotel..."
 
 # game/script.rpy:540
 translate pt_br intro_2fd15e80:
 
     # you "Thanks Grandpa, wish I knew you better."
-    you ""
+    you "Obrigado Vovô, eu gostaria de ter te conhecido melhor."
 
 # game/script.rpy:548
 translate pt_br start2_2660a911:
 
     # q "Oh, hello. Welcome to-"
-    q ""
+    q "Ah, olá. Bem-vindo a~"
 
 # game/script.rpy:550
 translate pt_br start2_f5e0482e:
 
     # q "Oh! You're him, aren't you? The new owner!"
-    q ""
+    q "Ah, você é ele, não é? O novo dono!"
 
 # game/script.rpy:552
 translate pt_br start2_88b4ebf0:
 
     # q "I could recognize your grandfather's eyes anywhere! My name is Ellen, nice to finally meet you."
-    q ""
+    q "Eu poderia reconhecer os olhos de seu avô em qualquer lugar! Meu nome é Ellen, é bom finalmente te conhecer."
 
 # game/script.rpy:553
 translate pt_br start2_4ce2d4c3:
 
     # e "What was your name again?"
-    e ""
+    e "Qual é o seu nome mesmo?"
 
 # game/script.rpy:571
 translate pt_br start2_68d76243:
 
     # e "[name], right. Sorry, your grandfather didn't mention you much..."
-    e ""
+    e "[name], certo. Desculpe, seu avô nunca mencionou muito você..."
 
 # game/script.rpy:572
 translate pt_br start2_6d99bbe3:
 
     # e "Now that I think about it, you've never been here, have you? Your grandfather was a very busy man... but at least he cared enough about you to give you this place."
-    e ""
+    e "Agora que eu pensei nisso, você nunca esteve aqui, não é? Seu avô era um homem muito ocupado... mas pelo menos ele se importou com você o suficiente para te dar esse lugar."
 
 # game/script.rpy:574
 translate pt_br start2_5f34b80f:
 
     # e "In case you hadn't guessed it, this place is a luxury hotel of sorts, and you're the new owner!"
-    e ""
+    e "No caso de você não ter percebido, esse é um tipo de hotel de luxo, e você é o novo dono!"
 
 # game/script.rpy:575
 translate pt_br start2_035cf35b:
 
     # e "Each guest pays you $5 a day. So the more residents you have, the more money you will make."
-    e ""
+    e "Cada hóspede paga $5 por dia. Então quanto mais moradores você tiver, mais dinheiro vai conseguir."
 
 # game/script.rpy:577
 translate pt_br start2_74a73740:
 
     # e "Unfortunately... most of the maids were let go when your grandfather died. We were all so close to him... but one maid did stay, she's new too, so you may have to teach her a thing or two."
-    e ""
+    e "Infelizmente... a maioria de nossas empregadas foram embora quando o seu avô morreu. Nós todas éramos tão próximas dele... mas uma empregada ficou, ela é nova também, então talvez vocÊ vá precisar ensinar a ela uma coisa ou duas."
 
 # game/script.rpy:579
 translate pt_br start2_eb411d22:
 
     # e "Lin, come out now! The new owner is here!"
-    e ""
+    e "Lin, apareça! O novo dono está aqui!"
 
 # game/script.rpy:581
 translate pt_br start2_8e04dc5f:
 
     # l "{i}The... new owner?{/i}"
-    l ""
+    l "{i}O... novo dono?{/i}"
 
 # game/script.rpy:582
 translate pt_br start2_f9e4fa0c:
 
     # l "...Okay."
-    l ""
+    l "...Tudo bem."
 
 # game/script.rpy:584
 translate pt_br start2_cc7e8303:
 
     # e "This poor elf was recently taken in as of a couple weeks ago. As I'm sure you can tell, Lin is a slave. Your slave!"
-    e ""
+    e "Essa pobre elfa foi recentemente acolhida a algumas semanas. Como tenho certeza que você sabe, Lin é uma escrava. Sua escrava!"
 
 # game/script.rpy:585
 translate pt_br start2_372dd3d5:
 
     # e "And as your slave, you may have her call you whatever you would like. What would you like her to call you?"
-    e ""
+    e "E como sua escrava, você pode fazer com que ela te chame como você quiser. Como você quer que ela te chame?"
 
 # game/script.rpy:592
 translate pt_br start2_3b222a09:
 
     # r "You've unlocked some special dialog ;)"
-    r ""
+    r "Você desbloqueou alguns diálogos especiais ;)"
 
 # game/script.rpy:593
 translate pt_br start2_7d2e64e7:
 
     # e "Ohh~ Daddy? Well that's kinky. But who am I to say otherwise."
-    e ""
+    e "Ohh~ Papai? Bem isso é pervertido. Mas quem sou eu para dizer alguma coisa."
 
 # game/script.rpy:594
 translate pt_br start2_f0d16405:
 
     # e "Lin, you'll be calling him Daddy from now on. Understand?"
-    e ""
+    e "Lin, você vai chamá-lo de Papai para de agora em diante. Entendido?"
 
 # game/script.rpy:595
 translate pt_br start2_361aaa69:
 
     # l "D-Daddy...? But you're not my father..."
-    l ""
+    l "P-Papai...? Mas você não é o meu pai..."
 
 # game/script.rpy:596
 translate pt_br start2_211a2ee4:
 
     # e "Lin..."
-    e ""
+    e "Lin..."
 
 # game/script.rpy:597
 translate pt_br start2_79e86c7a:
 
     # l "Nnn... Okay, I'll call you Daddy..."
-    l ""
+    l "Nnn... Tudo bem, irei te chamar de Papai"
 
 # game/script.rpy:599
 translate pt_br start2_e7211d5b:
 
     # e "Very well, Lin, you'll be calling him by his name from now on. Understand?"
-    e ""
+    e "Muito bem, Lin, você mai chamá-lo pelo seu nome de agora em diante. Entendido?"
 
 # game/script.rpy:600
 translate pt_br start2_a6ff1fe6:
 
     # l "By your name...? Um... Okay [linoname]."
-    l ""
+    l "Mas seu nome...? Um... Tudo bem [linoname]"
 
 # game/script.rpy:602
 translate pt_br start2_35f49707:
 
     # e "Very well, Lin, you'll be calling him [linoname] from now on. Understand?"
-    e ""
+    e "Muito bem, Lin, você vai chamá-lo de [linoname] de agora em diante. Entendido?"
 
 # game/script.rpy:603
 translate pt_br start2_7925567d:
 
     # l "Yes, I will call you [linoname]."
-    l ""
+    l "Sim, irei te chamar de [linoname]"
 
 # game/script.rpy:636
 translate pt_br start2_88492ccb:
 
     # e "Feel free to use her however you would like. She may not be the best cook, but she can be useful in... other areas."
-    e ""
+    e "Sinta se livre para usá-la como você quiser. Ela pode não ser a melhor cozinheira, mas ela pode ser útil em... outras áreas."
 
 # game/script.rpy:637
 translate pt_br start2_ec06078f:
@@ -568,91 +569,91 @@ translate pt_br start2_ec06078f:
 translate pt_br start2_b9e33e06:
 
     # l "Yes [linoname], whatever you need."
-    l ""
+    l "Sim [linoname], o que você precisar."
 
 # game/script.rpy:640
 translate pt_br start2_0961e477:
 
     # e "Now run off to the kitchen, Lin. Why don't you cook [linoname] something nice?"
-    e ""
+    e "Agora corra para a cozinha, Lin. Por que você não cozinha para [linoname] algo bom?"
 
 # game/script.rpy:642
 translate pt_br start2_34f2089e:
 
     # e "Now run off to the kitchen, Lin. Why don't you cook your new [linoname] something nice?"
-    e ""
+    e "Agora corra para a cozinha, Lin. Por que você não cozinha para seu novo [linoname] algo bom?"
 
 # game/script.rpy:643
 translate pt_br start2_636e40a3:
 
     # e "And sweetie... don't burn it this time..."
-    e ""
+    e "E querida... não queime dessa vez...."
 
 # game/script.rpy:644
 translate pt_br start2_91175aec:
 
     # l "Yes ma'am..."
-    l ""
+    l "Sim, madame..."
 
 # game/script.rpy:646
 translate pt_br start2_e7e2d655:
 
     # e "I'm so happy to have you with us, [name]! I'm sure you'll turn this hotel into something amazing!"
-    e ""
+    e "Eu estou tão feliz em ter você conosco, [name]! Eu tenho certeza de que você vai tornar esse hotel algo incrível!"
 
 # game/script.rpy:647
 translate pt_br start2_5a3133a2:
 
     # e "Oh, that reminds me... we do have one guest currently living here. I believe her name was... Kali? She joined yesterday."
-    e ""
+    e "Ah, isso me lembra... nós temos um  hóspede vivendo aqui atualmente. Eu acredito que seu nome era... Kali? Ela se juntou a nós ontem."
 
 # game/script.rpy:648
 translate pt_br start2_34c3dba4:
 
     # e "Why don't you go introduce yourself? She lives on the first floor, room 2."
-    e ""
+    e "Por que você não vai se apresentar? Ela mora no primeiro andar, sala 2."
 
 # game/script.rpy:649
 translate pt_br start2_de3957be:
 
     # e "You should talk to Lin as well, she works in the kitchen each morning and noon. Otherwise, she's usually in her room."
-    e ""
+    e "Você também devia falar com Lin, ela trabalha na cozinha todas as manhãs e meio-dia. Quando não, ela costuma ficar no quarto dela."
 
 # game/script.rpy:650
 translate pt_br start2_53aa19aa:
 
     # e "As for me, you can find me right here. I'm here all day."
-    e ""
+    e "E quanto a mim, você pode me encontrar aqui mesmo. Eu estou aqui o dia todo."
 
 # game/script.rpy:651
 translate pt_br start2_a4fb49ed:
 
     # e "Enjoy your new hotel, [name]! I'll be seeing you."
-    e ""
+    e "Aproveite seu novo hotel, [name]! Até logo.."
 
 # game/script.rpy:653
 translate pt_br start2_9f87b393:
 
     # "TIP: Some side content is locked and hidden behind character stats and traits, such as training, outfits, and more. So be sure to check back on characters often."
-    ""
+    "DICA: Alguns conteúdos alternativos estão trancados e escondidos por trás das estatísticas e características dos personagens, como treinamentos, roupas e mais. Então tenha certeza de estar sempre verificando novamente."
 
 # game/script.rpy:654
 translate pt_br start2_0383b281:
 
     # "TIP: 'Talk' dialogue choices on the doors to character's rooms are story events. Story events appear after a short cooldown, and character stats and traits are not required. Have fun!"
-    ""
+    "DICA: As opções de diálogo 'Conversa' nas portas para os quartos dos personagens Eventos de história aparecem depois de um curto tempo de espera, e as estatísticas e características não são um requisito. Divirta-se!
 
 # game/script.rpy:679
 translate pt_br start2_2fbbce15:
 
     # "TIP: Some things are locked and hidden behind character stats and traits, such as events, outfits, and more. So be sure to check on characters often."
-    ""
+    "DICA: Algumas coisas estão trancadas e escondidas atrás das estatísticas e características dos personagens, como eventos, roupas e mais. Então tenha certeza de estar sempre verificando."
 
 # game/script.rpy:680
 translate pt_br start2_4738f380:
 
     # "TIP: 'Talk' dialogue choices on the doors to character's rooms are unique events. Have fun!"
-    ""
+    "DICA: As opções de diálogo 'Conversa' nas portas para os quartos dos personagens são eventos únicos. Divirta-se!"
 
 # game/script.rpy:698
 translate pt_br advanceday_56f4aa1b:
