@@ -1415,7 +1415,7 @@ translate pt_br lobby2_6c197210_2:
 translate pt_br lobby2_6243348c_1:
 
     # bot "I want to visit the cafe! Can you take me [botown]?"
-    bot "Eu quero ir a cafeteria! Vocêe pode me levar [botown]?"
+    bot "Eu quero ir à cafeteria! Vocêe pode me levar [botown]?"
 
 # game/script.rpy:1844
 translate pt_br lobby2_362eb8ee_3:
@@ -1685,7 +1685,7 @@ translate pt_br lobby2_900d740c:
 translate pt_br lobby2_274d85a0:
 
     # l "I really want to go to the beach!"
-    l "Eu realmente quero ir a praia"
+    l "Eu realmente quero ir à praia"
 
 # game/script.rpy:1977
 translate pt_br lobby2_951bbbe9_1:
@@ -2177,7 +2177,7 @@ translate pt_br lobby2_b9876676:
 translate pt_br lobby2_5ceff244:
 
     # a "Good morning [name]~"
-    a "Bim dia [name]~"
+    a "Bom dia [name]~"
 
 # game/script.rpy:2230
 translate pt_br lobby2_97dd9142:
@@ -2207,43 +2207,43 @@ translate pt_br lobby2_8876a7b4:
 translate pt_br lobby2_9ba94482:
 
     # a "They say rain helps you sleep better. Maybe I can make sure of that? Hehe~"
-    a ""
+    a "Eles dizem que a chuva te ajuda a dormir melhor. Talvez eu possa garantir isso? Hehe~"
 
 # game/script.rpy:2240
 translate pt_br lobby2_95be7c5b:
 
     # a "Nnn, [name]... Can we fuck today? I'm all slutty just for you~~~"
-    a ""
+    a "Nnn, [name]... Nós podemos foder hoje? Hoje estou toda putinha por você~~~"
 
 # game/script.rpy:2242
 translate pt_br lobby2_3d5529d7:
 
     # a "It's so sunny..."
-    a ""
+    a "Está tão ensolarado..."
 
 # game/script.rpy:2244
 translate pt_br lobby2_f3d965fb:
 
     # a "Hey [name]! If you walked in to the dungeon and saw me naked with a ball gag in my mouth, would you fuck me?"
-    a ""
+    a "Ei [name]! Se você entrasse no calabouço e me visse nua com uma mordaça de bola na minha boca, você iria me foder?"
 
 # game/script.rpy:2246
 translate pt_br lobby2_147d0d84:
 
     # a "Hehe... I'm such a slut, aren't I?"
-    a ""
+    a "Hehe... Eu sou uma vadia, não sou?"
 
 # game/script.rpy:2249
 translate pt_br lobby2_7703e1f0:
 
     # a "Sure! Let me change real quick though."
-    a ""
+    a "Claro. Deixa eu me trocar, vai ser bem rápido..."
 
 # game/script.rpy:2252
 translate pt_br lobby2_98ef3193:
 
     # a "Yeah! Let's go! Let me change real quick."
-    a ""
+    a "Sim, Vamos lá! Deixa eu me trocar, vai ser bem rápido."
 
 # game/script.rpy:2254
 translate pt_br lobby2_668060df_10:
@@ -2255,7 +2255,7 @@ translate pt_br lobby2_668060df_10:
 translate pt_br lobby2_a6e1bf31:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Oooh, o que vamos pedir?"
 
 # game/script.rpy:2258
 translate pt_br lobby2_370dae91_6:
@@ -2267,97 +2267,97 @@ translate pt_br lobby2_370dae91_6:
 translate pt_br lobby2_08db5f9b:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Isso foi delicioso! Vamos para casa agora."
 
 # game/script.rpy:2265
 translate pt_br lobby2_cb0823fe:
 
     # a "Yeah, sure!"
-    a ""
+    a "Sim, claro!"
 
 # game/script.rpy:2268
 translate pt_br lobby2_beb4446b:
 
     # a "The sun feels nice!"
-    a ""
+    a "O sol está tão gostoso!"
 
 # game/script.rpy:2270
 translate pt_br lobby2_c7fad9ef:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "  Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2274
 translate pt_br lobby2_cf23c3dc:
 
     # a "Yay!"
-    a ""
+    a "Yay!"
 
 # game/script.rpy:2279
 translate pt_br lobby2_960d59c0:
 
     # a "I love youuu~"
-    a ""
+    a "Eu te amooo~"
 
 # game/script.rpy:2281
 translate pt_br lobby2_6d8a9bf5:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    "passam um bom tempo relaxando e afastando seus estresses..."
+    "Você e Ashley passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2283
 translate pt_br lobby2_0e78715e:
 
     # a "Come on, let's go back inside..."
-    a ""
+    a "Vem, vamos voltar para dentro..."
 
 # game/script.rpy:2286
 translate pt_br lobby2_8bf62ab4:
 
     # a "Don't you want to shower in the waterfall?"
-    a ""
+    a "Você quer tomar banho na cachoeira?"
 
 # game/script.rpy:2288
 translate pt_br lobby2_6d8a9bf5_1:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    "passam um bom tempo relaxando e afastando seus estresses..."
+    "Você e Ashley passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2290
 translate pt_br lobby2_3628e674:
 
     # a "Come on, let's go back inside."
-    a ""
+    a "Vem, vamos voltar para dentro..."
 
 # game/script.rpy:2296
 translate pt_br lobby2_fa6c683e:
 
     # a "Let's watch some TV."
-    a ""
+    a "Vamos assistir um pouco de TV."
 
 # game/script.rpy:2299
 translate pt_br lobby2_a4a95dde:
 
     # a "I'm a bit hungry, want to eat?"
-    a ""
+    a "Eu estou com um pouco de fome, quer ir comer?"
 
 # game/script.rpy:2302
 translate pt_br lobby2_56990c4f:
 
     # a "Awesome! I'll change and we can go!"
-    a ""
+    a "Demais! Eu vou me trocar e já vamos!"
 
 # game/script.rpy:2304
 translate pt_br lobby2_8426c48d:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Vocês dois entram no seu carro, e vão à um restaurante chique..."
 
 # game/script.rpy:2306
 translate pt_br lobby2_a6e1bf31_1:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Oooh, o que vamos pedir?"
 
 # game/script.rpy:2308
 translate pt_br lobby2_370dae91_7:
@@ -2369,49 +2369,49 @@ translate pt_br lobby2_370dae91_7:
 translate pt_br lobby2_08db5f9b_1:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Isso foi delicioso! Vamos para casa agora."
 
 # game/script.rpy:2316
 translate pt_br lobby2_b155aa6d:
 
     # a "Aww, okay."
-    a ""
+    a "Aww, tá bom."
 
 # game/script.rpy:2319
 translate pt_br lobby2_1f5a5cbe:
 
     # a "Let's go to the beach!"
-    a ""
+    a "Vamos para a praia"
 
 # game/script.rpy:2322
 translate pt_br lobby2_beb4446b_1:
 
     # a "The sun feels nice!"
-    a ""
+    a "O sol está tão gostoso!"
 
 # game/script.rpy:2324
 translate pt_br lobby2_c7fad9ef_1:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    " Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2328
 translate pt_br lobby2_056525c8:
 
     # a "Later, okay?"
-    a ""
+    a "Depois, tudo bem?"
 
 # game/script.rpy:2332
 translate pt_br lobby2_216686ce:
 
     # a "Yeah! Let's do it!"
-    a ""
+    a "Sim, vamos fazer isso!"
 
 # game/script.rpy:2342
 translate pt_br lobby2_ab03bd57:
 
     # a "Good morning~ Like what I'm wearing?"
-    a ""
+    a "Bom dia~ Gostou do que estou usando?"
 
 # game/script.rpy:2344
 translate pt_br lobby2_97dd9142_1:
@@ -2441,43 +2441,43 @@ translate pt_br lobby2_8876a7b4_1:
 translate pt_br lobby2_9ba94482_1:
 
     # a "They say rain helps you sleep better. Maybe I can make sure of that? Hehe~"
-    a ""
+    a "Eles dizem que a chuva te ajuda a dormir melhor. Talvez eu possa garantir isso? Hehe~"
 
 # game/script.rpy:2354
 translate pt_br lobby2_800211ca:
 
     # a "Nnn, [name]... Can we fuck today? We could do it in this cute outfit!"
-    a ""
+    a "Nnn, [name]... Nós podemos foder hoje? Eu quero fazer usando essa roupa fofa!"
 
 # game/script.rpy:2356
 translate pt_br lobby2_3d5529d7_1:
 
     # a "It's so sunny..."
-    a ""
+    a "Está tão ensolarado..."
 
 # game/script.rpy:2358
 translate pt_br lobby2_f3d965fb_1:
 
     # a "Hey [name]! If you walked in to the dungeon and saw me naked with a ball gag in my mouth, would you fuck me?"
-    a ""
+    a "Ei [name]! Se você entrasse no calabouço e me visse nua com uma mordaça de bola na minha boca, você iria me foder?"
 
 # game/script.rpy:2360
 translate pt_br lobby2_665081dd:
 
     # a "Hey [name]!"
-    a ""
+    a "Ei [name]!"
 
 # game/script.rpy:2363
 translate pt_br lobby2_46c17595:
 
     # a "Sure!"
-    a ""
+    a "Claro!"
 
 # game/script.rpy:2366
 translate pt_br lobby2_98ef3193_1:
 
     # a "Yeah! Let's go! Let me change real quick."
-    a ""
+    a "Sim, Vamos lá! Deixa eu me trocar, vai ser bem rápido."
 
 # game/script.rpy:2368
 translate pt_br lobby2_668060df_11:
@@ -2489,7 +2489,7 @@ translate pt_br lobby2_668060df_11:
 translate pt_br lobby2_a6e1bf31_2:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Oooh, o que você vai pedir?"
 
 # game/script.rpy:2372
 translate pt_br lobby2_370dae91_8:
@@ -2501,37 +2501,37 @@ translate pt_br lobby2_370dae91_8:
 translate pt_br lobby2_08db5f9b_2:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Isso foi delicioso! Vamos para casa agora."
 
 # game/script.rpy:2379
 translate pt_br lobby2_cb0823fe_1:
 
     # a "Yeah, sure!"
-    a ""
+    a "Sim, claro!"
 
 # game/script.rpy:2382
 translate pt_br lobby2_beb4446b_2:
 
     # a "The sun feels nice!"
-    a ""
+    a "O sol está tão gostoso!"
 
 # game/script.rpy:2384
 translate pt_br lobby2_c7fad9ef_2:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    " Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2388
 translate pt_br lobby2_cf23c3dc_1:
 
     # a "Yay!"
-    a ""
+    a "Yay!"
 
 # game/script.rpy:2393
 translate pt_br lobby2_960d59c0_1:
 
     # a "I love youuu~"
-    a ""
+    a "Eu te amooo~"
 
 # game/script.rpy:2395
 translate pt_br lobby2_6d8a9bf5_2:
@@ -2543,13 +2543,13 @@ translate pt_br lobby2_6d8a9bf5_2:
 translate pt_br lobby2_0e78715e_1:
 
     # a "Come on, let's go back inside..."
-    a ""
+    a "Vem, vamos voltar para dentro..."
 
 # game/script.rpy:2400
 translate pt_br lobby2_8bf62ab4_1:
 
     # a "Don't you want to shower in the waterfall?"
-    a ""
+    a "Você quer tomar banho na cachoeira?"
 
 # game/script.rpy:2402
 translate pt_br lobby2_6d8a9bf5_3:
@@ -2561,37 +2561,37 @@ translate pt_br lobby2_6d8a9bf5_3:
 translate pt_br lobby2_3628e674_1:
 
     # a "Come on, let's go back inside."
-    a ""
+    a "Vem, vamos voltar para dentro."
 
 # game/script.rpy:2410
 translate pt_br lobby2_fa6c683e_1:
 
     # a "Let's watch some TV."
-    a ""
+    a "Vamos assistir um pouco de TV."
 
 # game/script.rpy:2413
 translate pt_br lobby2_a4a95dde_1:
 
     # a "I'm a bit hungry, want to eat?"
-    a ""
+    a "Eu estou com um pouco de fome, quer ir comer?"
 
 # game/script.rpy:2416
 translate pt_br lobby2_56990c4f_1:
 
     # a "Awesome! I'll change and we can go!"
-    a ""
+    a "Demais! Eu vou me trocar e já vamos!"
 
 # game/script.rpy:2418
 translate pt_br lobby2_8426c48d_1:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Vocês dois entram no seu carro, e vão a um restaurante chique..."
 
 # game/script.rpy:2420
 translate pt_br lobby2_a6e1bf31_3:
 
     # a "Oooh, what are you gonna get?"
-    a ""
+    a "Oooh, o que vamos pedir?"
 
 # game/script.rpy:2422
 translate pt_br lobby2_370dae91_9:
@@ -2603,13 +2603,13 @@ translate pt_br lobby2_370dae91_9:
 translate pt_br lobby2_08db5f9b_3:
 
     # a "That was delicious! Let's go home now."
-    a ""
+    a "Isso foi delicioso! Vamos para casa agora."
 
 # game/script.rpy:2430
 translate pt_br lobby2_b155aa6d_1:
 
     # a "Aww, okay."
-    a ""
+    a "Aww, tudo bem."
 
 # game/script.rpy:2433
 translate pt_br lobby2_1f5a5cbe_1:
@@ -2621,13 +2621,13 @@ translate pt_br lobby2_1f5a5cbe_1:
 translate pt_br lobby2_beb4446b_3:
 
     # a "The sun feels nice!"
-    a ""
+    a "O sol está tão gostoso!"
 
 # game/script.rpy:2438
 translate pt_br lobby2_c7fad9ef_3:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2442
 translate pt_br lobby2_67e3110b:
@@ -2729,7 +2729,7 @@ translate pt_br lobby2_3233283c:
 translate pt_br lobby2_8426c48d_2:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Vocês dois entram no seu carro, e vão a um restaurante chique..."
 
 # game/script.rpy:2488
 translate pt_br lobby2_ab98b23e:
@@ -2825,7 +2825,7 @@ translate pt_br lobby2_fd047d6a:
 translate pt_br lobby2_ab1a2dea:
 
     # m "I'm a bit hungry, want to eat?"
-    m ""
+    m "Eu estou com um pouco de fome, quer ir comer?"
 
 # game/script.rpy:2539
 translate pt_br lobby2_563950a8:
@@ -2837,7 +2837,7 @@ translate pt_br lobby2_563950a8:
 translate pt_br lobby2_8426c48d_3:
 
     # "You both hop in your car, and drive to a fancy restaurant..."
-    ""
+    "Vocês dois entram no seu carro, e vão a um restaurante chique..."
 
 # game/script.rpy:2543
 translate pt_br lobby2_ab98b23e_1:
@@ -5057,7 +5057,7 @@ translate pt_br floor2menu_9aa7a3a2:
 translate pt_br floor2menu_d6040254:
 
     # bot "Yay! I'll try it on!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:4660
 translate pt_br floor2menu_6417464d:
@@ -5099,7 +5099,7 @@ translate pt_br floor2menu_943da464:
 translate pt_br floor2menu_b86dedc9:
 
     # bot "Yay! Thank you so much [botown]! I can't wait to drive in your car again!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:4677
 translate pt_br floor2menu_ba070653:
@@ -11477,7 +11477,7 @@ translate pt_br kcreep_009315ca:
 translate pt_br kcreep_d06b3575:
 
     # a "Yay! Let's go!"
-    a ""
+    a "Yay!"
 
 # game/script.rpy:8095
 translate pt_br kcreep_8859403f:
@@ -23825,7 +23825,7 @@ translate pt_br shower_1da390d2:
 translate pt_br shower_e0bd6f85:
 
     # l "Yay!"
-    l ""
+    l "Yay!"
 
 # game/script.rpy:12657
 translate pt_br shower_f10a8163:
@@ -23921,7 +23921,7 @@ translate pt_br shower_b7448cc7:
 translate pt_br shower_049944b8:
 
     # a "Yay! Join me~"
-    a ""
+    a "Yay!"
 
 # game/script.rpy:12706
 translate pt_br shower_36ac1670:
@@ -27143,7 +27143,7 @@ translate pt_br kitchen_7cfa97cb:
 translate pt_br kitchen_5d2a93f3:
 
     # l "Really? Yay!"
-    l ""
+    l "Yay!"
 
 # game/script.rpy:14164
 translate pt_br kitchen_747c2e99:
@@ -27611,7 +27611,7 @@ translate pt_br linkchoice_514736dd:
 translate pt_br linkchoice_a93bcfda:
 
     # l "Yay! I'm glad!"
-    l ""
+    l "Yay!"
 
 # game/script.rpy:14623
 translate pt_br linkchoice_0953525d_1:
@@ -30527,7 +30527,7 @@ translate pt_br yourroom_3a6ca30e:
 translate pt_br yourroom_e0bd6f85:
 
     # l "Yay!"
-    l ""
+    l "Yay!"
 
 # game/script.rpy:15890
 translate pt_br yourroom_13b33f1b:
@@ -34877,7 +34877,7 @@ translate pt_br bot_sick_eb3f131c:
 translate pt_br bot_sick_2c694e69:
 
     # ally "Yay!"
-    ally ""
+    ally "Yay!"
 
 # game/script.rpy:17955
 translate pt_br bot_sick_279bb989:
@@ -52607,7 +52607,7 @@ translate pt_br botcasual_4e8c7062:
 translate pt_br botcasual_32ce1d18:
 
     # bot "Yay!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:22858
 translate pt_br botcasual_5103dc73:
@@ -53693,7 +53693,7 @@ translate pt_br botpinups_03d84bb5:
 translate pt_br botpinups_5f68d27c:
 
     # bot "Yay! Good luck [botown]!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:23315
 translate pt_br botpinups_1c8d0c20:
@@ -53885,7 +53885,7 @@ translate pt_br botpinups_5d47f6a5:
 translate pt_br botpinups_f22b6338:
 
     # bot "Yay! Those should sell for so much!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:23441
 translate pt_br botpinnudedone_70cef9a0:
@@ -57803,7 +57803,7 @@ translate pt_br bothangdone_4d98cfaf:
 translate pt_br bothangdone_14c2e5b0:
 
     # bot "Yay! Hurry!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:24574
 translate pt_br bothangdone_fecad308:
@@ -57821,7 +57821,7 @@ translate pt_br bothangdone_e7c8e577:
 translate pt_br bothangdone_14c2e5b0_1:
 
     # bot "Yay! Hurry!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:24592
 translate pt_br bothangdone_fecad308_1:
@@ -58115,7 +58115,7 @@ translate pt_br botcity_0c000bcd:
 translate pt_br botcity_32ce1d18:
 
     # bot "Yay!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:24686
 translate pt_br botcity_0885f60d:
@@ -58283,7 +58283,7 @@ translate pt_br botcity_a4e8b7b6:
 translate pt_br botcity_6669dcbd:
 
     # bot "Yay! I can't wait!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:24728
 translate pt_br botcity_06cd4b30:
@@ -61841,7 +61841,7 @@ translate pt_br bottop1_6f02ee18:
 translate pt_br bottop1_6297abf9:
 
     # bot "Yay! I'm glad you like my body [botown]!"
-    bot ""
+    bot "Yay!"
 
 # game/script.rpy:25798
 translate pt_br bottop1_1e060393:
@@ -62381,7 +62381,7 @@ translate pt_br cookoff_97f51bb4:
 translate pt_br cookoff_a9feeee1:
 
     # bot "*gasp*! Yay!"
-    bot ""
+    bot "*espanto*! Yay!"
 
 # game/script.rpy:25943
 translate pt_br cookoff_cdea2d32:
