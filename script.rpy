@@ -659,577 +659,577 @@ translate pt_br start2_4738f380:
 translate pt_br advanceday_56f4aa1b:
 
     # a "Hey, going to sleep?"
-    a ""
+    a "Ei, está indo dormir?"
 
 # game/script.rpy:699
 translate pt_br advanceday_02e373a5:
 
     # c "I was."
-    c ""
+    c "Eu estava."
 
 # game/script.rpy:700
 translate pt_br advanceday_54e79446:
 
     # a "Instead of that, why don't you follow me?"
-    a ""
+    a "Ao invés disso, por que não vem comigo?"
 
 # game/script.rpy:701
 translate pt_br advanceday_14901c18:
 
     # c "At this time of night?"
-    c ""
+    c "À essa hora da noite?"
 
 # game/script.rpy:702
 translate pt_br advanceday_97016968:
 
     # a "Mhm."
-    a ""
+    a "Mhm."
 
 # game/script.rpy:703
 translate pt_br advanceday_e96098cb:
 
     # c "Where would we go?"
-    c ""
+    c "E para onde iríamos?"
 
 # game/script.rpy:704
 translate pt_br advanceday_07082a0c:
 
     # a "To a special place of mine."
-    a ""
+    a "A um lugar especial para mim."
 
 # game/script.rpy:705
 translate pt_br advanceday_5eb5b5bc:
 
     # c "I'm going to need directions to drive there."
-    c ""
+    c "Eu vou precisar de instruções para dirigir até lá."
 
 # game/script.rpy:706
 translate pt_br advanceday_6267f0ee:
 
     # a "We'll be walking, silly."
-    a ""
+    a "Nós vamos andando, bobo."
 
 # game/script.rpy:707
 translate pt_br advanceday_14901c18_1:
 
     # c "At this time of night?"
-    c ""
+    c "À essa hora da noite?"
 
 # game/script.rpy:710
 translate pt_br advanceday_e6df983b:
 
     # a "You already said that, what are you so scared of?"
-    a ""
+    a "Você já disse isso, de que você tem tanto medo?"
 
 # game/script.rpy:711
 translate pt_br advanceday_0b3d70fe:
 
     # c "I'm scared of going outside in the middle of the night with my crazy girlfriend who keeps her knife in an unspecified location."
-    c ""
+    c "Eu estou com medo de sair no meio da noite com minha namorada louca que carrega a faca dela em um lugar inespecificado."
 
 # game/script.rpy:714
 translate pt_br advanceday_294e16f3:
 
     # a "You're funny..."
-    a ""
+    a "Que engraçado..."
 
 # game/script.rpy:715
 translate pt_br advanceday_5672c80c:
 
     # a "Come on already!"
-    a ""
+    a "Vem logo!"
 
 # game/script.rpy:716
 translate pt_br advanceday_eec7ed34:
 
     # c "Alright..."
-    c ""
+    c "Certo..."
 
 # game/script.rpy:727
 translate pt_br advancedaymenu_24a54e89:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Eu quero que você me acorde todas as manhãs com um boquete."
 
 # game/script.rpy:730
 translate pt_br advancedaymenu_554c0125:
 
     # l "[linoname]... I would really prefer not to..."
-    l ""
+    l "[linoname]... Eu realmente preferiria não fazer... "
 
 # game/script.rpy:734
 translate pt_br advancedaymenu_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Eu preciso aumentar o Nível de Relacionamento dela."
 
 # game/script.rpy:739
 translate pt_br advancedaymenu_32ffad71:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Eu já tenho Lin e [botname] como meu alarme."
 
 # game/script.rpy:742
 translate pt_br advancedaymenu_038aa701:
 
     # "I already have [botname] as my alarm."
-    ""
+    "Eu já tenho [botname] como meu alarme."
 
 # game/script.rpy:745
 translate pt_br advancedaymenu_842862bf:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Eu já tenho Felicity & Emma como meu alarme."
 
 # game/script.rpy:748
 translate pt_br advancedaymenu_84d6ef1d:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Eu já tenho Sylvia como meu alarme."
 
 # game/script.rpy:752
 translate pt_br advancedaymenu_24a54e89_1:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Eu quero que você me acorde todas as manhãs com um boquete."
 
 # game/script.rpy:753
 translate pt_br advancedaymenu_029755c0:
 
     # l "Okay [linoname]!"
-    l ""
+    l "Tudo bem [linoname]!"
 
 # game/script.rpy:759
 translate pt_br advancedaymenu_5d400270:
 
     # c "I want you to stop waking me up every morning."
-    c ""
+    c "Eu quero que você pare de me acordar todas as manhãs."
 
 # game/script.rpy:760
 translate pt_br advancedaymenu_e12b3157:
 
     # l "Yes [linoname]."
-    l ""
+    l "Sim [linoname]."
 
 # game/script.rpy:777
 translate pt_br advancedaymenu_32ffad71_1:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Eu já tenho Lin e [botname] como meu alarme."
 
 # game/script.rpy:780
 translate pt_br advancedaymenu_0069e6e2:
 
     # "I already have Lin as my alarm."
-    ""
+    "Eu já tenho Lin como meu alarme."
 
 # game/script.rpy:783
 translate pt_br advancedaymenu_842862bf_1:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Eu já tenho Felicity & Emma como meu alarme."
 
 # game/script.rpy:786
 translate pt_br advancedaymenu_84d6ef1d_1:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Eu já tenho Sylvia como meu alarme."
 
 # game/script.rpy:790
 translate pt_br advancedaymenu_ed9e62f3:
 
     # c "I want you to wake me up every morning with a handjob."
-    c ""
+    c "Eu quero que você me acorde todas as manhãs com uma punheta."
 
 # game/script.rpy:791
 translate pt_br advancedaymenu_731a9a42:
 
     # bot "Okay [botown]!"
-    bot ""
+    bot "Okay [botown]!"
 
 # game/script.rpy:797
 translate pt_br advancedaymenu_5d400270_1:
 
     # c "I want you to stop waking me up every morning."
-    c ""
+    c "Eu quero que você pare de me acordar todas as manhãs."
 
 # game/script.rpy:798
 translate pt_br advancedaymenu_9ee88edb:
 
     # bot "Okay."
-    bot ""
+    bot "Okay."
 
 # game/script.rpy:827
 translate pt_br advancedaymenu_0069e6e2_1:
 
     # "I already have Lin as my alarm."
-    ""
+    "Eu já tenho Lin como meu alarme."
 
 # game/script.rpy:830
 translate pt_br advancedaymenu_842862bf_2:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Eu já tenho Felicity & Emma como meu alarme."
 
 # game/script.rpy:833
 translate pt_br advancedaymenu_038aa701_1:
 
     # "I already have [botname] as my alarm."
-    ""
+    "Eu já tenho [botname] como meu alarme."
 
 # game/script.rpy:836
 translate pt_br advancedaymenu_84d6ef1d_2:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Eu já tenho Sylvia como meu alarme."
 
 # game/script.rpy:842
 translate pt_br advancedaymenu_8fe13a78:
 
     # c "I want you two to wake me up every morning with a blowjob."
-    c ""
+    c "Eu quero que vocês duas me acordem todas as manhãs com um boquete."
 
 # game/script.rpy:843
 translate pt_br advancedaymenu_7de9f947:
 
     # l "We can do that!"
-    l ""
+    l "Nós podemos fazer isso!"
 
 # game/script.rpy:844
 translate pt_br advancedaymenu_731a9a42_1:
 
     # bot "Okay [botown]!"
-    bot ""
+    bot "Tudo bem [botown]!"
 
 # game/script.rpy:854
 translate pt_br advancedaymenu_a7f7d1fa:
 
     # c "I want you two to stop waking me up every morning."
-    c ""
+    c "Eu quero que vocês parem de me acordar todas as manhãs."
 
 # game/script.rpy:855
 translate pt_br advancedaymenu_c6285f19:
 
     # l "Very well."
-    l ""
+    l "Muito bem."
 
 # game/script.rpy:856
 translate pt_br advancedaymenu_9ee88edb_1:
 
     # bot "Okay."
-    bot ""
+    bot "Tudo bem."
 
 # game/script.rpy:866
 translate pt_br advancedaymenu_32ffad71_2:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Eu já tenho Lin e [botname] como meu alarme."
 
 # game/script.rpy:869
 translate pt_br advancedaymenu_0069e6e2_2:
 
     # "I already have Lin as my alarm."
-    ""
+    "Eu já tenho Lin como meu alarme."
 
 # game/script.rpy:872
 translate pt_br advancedaymenu_038aa701_2:
 
     # "I already have [botname] as my alarm."
-    ""
+    "Eu já tenho [botname] como meu alarme."
 
 # game/script.rpy:875
 translate pt_br advancedaymenu_84d6ef1d_3:
 
     # "I already have Sylvia as my alarm."
-    ""
+    "Eu já tenho Sylvia como meu alarme."
 
 # game/script.rpy:881
 translate pt_br advancedaymenu_24a54e89_2:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Eu quero que você me acorde todas as manhãs com um boquete."
 
 # game/script.rpy:882
 translate pt_br advancedaymenu_7cff55e6:
 
     # f "Sounds fun!"
-    f ""
+    f "Parece divertido!"
 
 # game/script.rpy:883
 translate pt_br advancedaymenu_a167e50d:
 
     # em "Okay!"
-    em ""
+    em "Tudo bem!"
 
 # game/script.rpy:893
 translate pt_br advancedaymenu_83ec5151:
 
     # f "Fine..."
-    f ""
+    f "Tá..."
 
 # game/script.rpy:894
 translate pt_br advancedaymenu_75083dcd:
 
     # em "I was kinda having fun, but... okay."
-    em ""
+    em "Eu estava meio que me divertindo, mas... okay. "
 
 # game/script.rpy:903
 translate pt_br advancedaymenu_32ffad71_3:
 
     # "I already have Lin and [botname] as my alarm."
-    ""
+    "Eu já tenho Lin e [botname] como meu alarme."
 
 # game/script.rpy:906
 translate pt_br advancedaymenu_0069e6e2_3:
 
     # "I already have Lin as my alarm."
-    ""
+    "Eu já tenho Lin como meu alarme."
 
 # game/script.rpy:909
 translate pt_br advancedaymenu_038aa701_3:
 
     # "I already have [botname] as my alarm."
-    ""
+    "Eu já tenho [botname] como meu alarme."
 
 # game/script.rpy:912
 translate pt_br advancedaymenu_842862bf_3:
 
     # "I already have Felicity & Emma as my alarm."
-    ""
+    "Eu já tenho Felicity & Emma como meu alarme."
 
 # game/script.rpy:916
 translate pt_br advancedaymenu_24a54e89_3:
 
     # c "I want you to wake me up every morning with a blowjob."
-    c ""
+    c "Eu quero que você me acorde todas as manhãs com um boquete."
 
 # game/script.rpy:917
 translate pt_br advancedaymenu_259e9597:
 
     # syl "Fine..."
-    syl ""
+    syl "Tá..."
 
 # game/script.rpy:923
 translate pt_br advancedaymenu_16d67f66:
 
     # syl "Is all you called me for? Good."
-    syl ""
+    syl "É só para isso que você me chamou? Tá bom."
 
 # game/script.rpy:935
 translate pt_br advancedaymenu_971351af:
 
     # "I'm not tired enough to sleep."
-    ""
+    "Eu não estou com sono o suficiente para dormir."
 
 # game/script.rpy:944
 translate pt_br sleepwithsomeone_f7d9de3f:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:945
 translate pt_br sleepwithsomeone_978e1d99:
 
     # l "Okay!"
-    l ""
+    l "Okay!"
 
 # game/script.rpy:956
 translate pt_br sleepwithsomeone_f7d9de3f_1:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:957
 translate pt_br sleepwithsomeone_04bdcbac:
 
     # k "Oh, okay!"
-    k ""
+    k "Ah, tudo bem!"
 
 # game/script.rpy:962
 translate pt_br sleepwithsomeone_f7d9de3f_2:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:963
 translate pt_br sleepwithsomeone_cf23c3dc:
 
     # a "Yay!"
-    a ""
+    a "Yay!"
 
 # game/script.rpy:968
 translate pt_br sleepwithsomeone_f7d9de3f_3:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:969
 translate pt_br sleepwithsomeone_e8c493cd:
 
     # m "Awesome!"
-    m ""
+    m "Ótimo"
 
 # game/script.rpy:975
 translate pt_br sleepwithsomeone_f7d9de3f_4:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:976
 translate pt_br sleepwithsomeone_9a02a6fc:
 
     # bot "I would love to!"
-    bot ""
+    bot "Eu adoraria!"
 
 # game/script.rpy:980
 translate pt_br sleepwithsomeone_f7d9de3f_5:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:981
 translate pt_br sleepwithsomeone_053432b7:
 
     # bot "Okay!"
-    bot ""
+    bot "Tudo bem!"
 
 # game/script.rpy:986
 translate pt_br sleepwithsomeone_f7d9de3f_6:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:987
 translate pt_br sleepwithsomeone_f273e2bb:
 
     # f "Alright."
-    f ""
+    f "Certo."
 
 # game/script.rpy:992
 translate pt_br sleepwithsomeone_f7d9de3f_7:
 
     # c "Let's sleep together."
-    c ""
+    c "Vamos dormir juntos."
 
 # game/script.rpy:993
 translate pt_br sleepwithsomeone_7d03f61d:
 
     # em "Perfect timing. I was just about to go to bed too."
-    em ""
+    em "Timing perfeito. Eu já estava para ir para a cama também."
 
 # game/script.rpy:999
 translate pt_br sleepwithsomeone_a403f657:
 
     # l "Are you getting tired, [linoname]...?"
-    l ""
+    l "Você está ficando cansado, [linoname]...?"
 
 # game/script.rpy:1000
 translate pt_br sleepwithsomeone_5e6f483c:
 
     # bot "We can snuggle~"
-    bot ""
+    bot "Nós podemos ficar abraçados~"
 
 # game/script.rpy:1006
 translate pt_br sleepwithsomeone_68e277c5:
 
     # em "Need someone to keep you warm?"
-    em ""
+    em "Precisa de alguem pra te manter aquecido?"
 
 # game/script.rpy:1007
 translate pt_br sleepwithsomeone_27bb01d7:
 
     # f "We can join you..."
-    f ""
+    f "Nós podemos ficar com você..."
 
 # game/script.rpy:1010
 translate pt_br sleepwithsomeone_62213eb1:
 
     # "Not yet implemented."
-    ""
+    "Ainda não foi implementado."
 
 # game/script.rpy:1722
 translate pt_br lobby2_42fb1d18:
 
     # bot "Good morning [botown]~"
-    bot ""
+    bot "Bom dia [botown]~"
 
 # game/script.rpy:1724
 translate pt_br lobby2_c9680a30:
 
     # bot "Hello [botown]!"
-    bot ""
+    bot "Olá [botown]!"
 
 # game/script.rpy:1726
 translate pt_br lobby2_522e2bb5:
 
     # bot "Having a good day [botown]?"
-    bot ""
+    bot "Tendo um bom dia [botown]?"
 
 # game/script.rpy:1728
 translate pt_br lobby2_f6031e2f:
 
     # bot "It's raining..."
-    bot ""
+    bot "Está chovendo..."
 
 # game/script.rpy:1730
 translate pt_br lobby2_2c23083b:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot ""
+    bot "Olá [botown]... eu realmente gostei da roupa de vaca que você comprou para mim! Ah! A roupa de gato também!"
 
 # game/script.rpy:1731
 translate pt_br lobby2_72495d6f:
 
     # bot "I can't decide which is better..."
-    bot ""
+    bot "Não consigo decidir qual é melhor..."
 
 # game/script.rpy:1733
 translate pt_br lobby2_49602c40:
 
     # bot "Like what I'm wearing? It's so slutty..."
-    bot ""
+    bot "Gostou do que estou usando? É tão vulgar..."
 
 # game/script.rpy:1735
 translate pt_br lobby2_8ed4e2a6:
 
     # bot "It's so sunny..."
-    bot ""
+    bot "Está tão ensolarado..."
 
 # game/script.rpy:1737
 translate pt_br lobby2_76f15520:
 
     # bot "[botown]! Can we go back to the city some time? It was so fun!"
-    bot ""
+    bot "[botown]! Nós podemos voltar para a cidade algum dia? Isso foi tão divertido!"
 
 # game/script.rpy:1739
 translate pt_br lobby2_369b534f:
 
     # bot "[botown]... My tits jiggle a lot in this outfit you know..."
-    bot ""
+    bot "[botown]... Minhas tetas balançam muito nessa roupa né..."
 
 # game/script.rpy:1742
 translate pt_br lobby2_9991c225:
 
     # bot "Oh, sure! I'll change in to something more comfortable and be right down."
-    bot ""
+    bot "Ah, claro! Eu vou colocar algo mais confortável e ja desço."
 
 # game/script.rpy:1745
 translate pt_br lobby2_362eb8ee:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Bem, eu não estou com muita fome... Mas eu não me incomodaria de passar o tempo com você!"
 
 # game/script.rpy:1747
 translate pt_br lobby2_668060df:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois sobem no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:1749
 translate pt_br lobby2_9521072d:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "Então o que vamos pedir [botown]?"
 
 # game/script.rpy:1751
 translate pt_br lobby2_b69b4539:
