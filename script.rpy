@@ -1223,985 +1223,985 @@ translate pt_br lobby2_362eb8ee:
 translate pt_br lobby2_668060df:
 
     # "You both hop in your car, and drive to the cafe..."
-    "Vocês dois sobem no seu carro, e vão até a cafeteria..."
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:1749
 translate pt_br lobby2_9521072d:
 
     # bot "So what are you going to get [botown]?"
-    bot "Então o que vamos pedir [botown]?"
+    bot "Então o que você vai pedir [botown]?"
 
 # game/script.rpy:1751
 translate pt_br lobby2_b69b4539:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Você pede algo para comer. Vocês conversam um pouco e eventualmente você termina sua refeição."
 
 # game/script.rpy:1753
 translate pt_br lobby2_20868fff:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Isso foi divertido! Sua comida estava boa?"
 
 # game/script.rpy:1760
 translate pt_br lobby2_6c197210:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Hmmm...Ah! Vamos assistir TV!"
 
 # game/script.rpy:1763
 translate pt_br lobby2_6243348c:
 
     # bot "I want to visit the cafe! Can you take me [botown]?"
-    bot ""
+    bot "Eu quero ir a cafeteria! Vocêe pode me levar [botown]?"
 
 # game/script.rpy:1766
 translate pt_br lobby2_362eb8ee_1:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Bem, eu não estou com muita fome... Mas eu não me incomodaria de passar o tempo com você!"
 
 # game/script.rpy:1768
 translate pt_br lobby2_668060df_1:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:1770
 translate pt_br lobby2_9521072d_1:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "Então o que você vai pedir [botown]?"
 
 # game/script.rpy:1772
 translate pt_br lobby2_b69b4539_1:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Você pede algo para comer. Vocês conversam um pouco e eventualmente você termina sua refeição."
 
 # game/script.rpy:1774
 translate pt_br lobby2_20868fff_1:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Isso foi divertido! Sua comida estava boa?"
 
 # game/script.rpy:1779
 translate pt_br lobby2_66d4d084:
 
     # bot "Oh... Okay [linoname]."
-    bot ""
+    bot "Ah... Tudo bem [linoname]."
 
 # game/script.rpy:1782
 translate pt_br lobby2_6c197210_1:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Hmmm...Ah! Vamos assistir TV!"
 
 # game/script.rpy:1785
 translate pt_br lobby2_f5c82de8:
 
     # bot "You're funny [botown]..."
-    bot ""
+    bot "Você é engraçado [botown]..."
 
 # game/script.rpy:1789
 translate pt_br lobby2_a41cdb04:
 
     # bot "Okay [botown]~"
-    bot ""
+    bot "Tudo bem [botown]~"
 
 # game/script.rpy:1800
 translate pt_br lobby2_8a82bb4a:
 
     # bot "Good morning [botown]!"
-    bot ""
+    bot "Bom dia [botown]!"
 
 # game/script.rpy:1802
 translate pt_br lobby2_c9680a30_1:
 
     # bot "Hello [botown]!"
-    bot ""
+    bot "Olá [botown]!"
 
 # game/script.rpy:1804
 translate pt_br lobby2_522e2bb5_1:
 
     # bot "Having a good day [botown]?"
-    bot ""
+    bot "Está tendo um bom dia [botown]?"
 
 # game/script.rpy:1806
 translate pt_br lobby2_f6031e2f_1:
 
     # bot "It's raining..."
-    bot ""
+    bot "Está chovendo..."
 
 # game/script.rpy:1808
 translate pt_br lobby2_2c23083b_1:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot ""
+    bot "Olá [botown]... eu realmente gostei da roupa de vaca que você comprou para mim! Ah! A roupa de gato também!"
 
 # game/script.rpy:1809
 translate pt_br lobby2_72495d6f_1:
 
     # bot "I can't decide which is better..."
-    bot ""
+    bot "Não consigo decidir qual é melhor..."
 
 # game/script.rpy:1811
 translate pt_br lobby2_39417d3f:
 
     # bot "Hehe... I'm not wearing anything!"
-    bot ""
+    bot "Hehe... Eu não estou vestindo nada!"
 
 # game/script.rpy:1813
 translate pt_br lobby2_8ed4e2a6_1:
 
     # bot "It's so sunny..."
-    bot ""
+    bot "Está tão ensolarado..."
 
 # game/script.rpy:1815
 translate pt_br lobby2_76f15520_1:
 
     # bot "[botown]! Can we go back to the city some time? It was so fun!"
-    bot ""
+    bot "[botown]! Nós podemos voltar para a cidade algum dia? Isso foi tão divertido!"
 
 # game/script.rpy:1817
 translate pt_br lobby2_d9dd22ef:
 
     # bot "Wearing nothing is really embarrassing! It makes me wet..."
-    bot ""
+    bot "Não vestir nada é realmente embaraçoso! Está me deixando excitada..."
 
 # game/script.rpy:1820
 translate pt_br lobby2_d8a24345:
 
     # bot "Oh, sure! I'll put some clothes on and be right down, heheh..."
-    bot ""
+    bot "Ah, claro! Vou apenas colocar algumas roupas e ja desço, heheh"
 
 # game/script.rpy:1823
 translate pt_br lobby2_362eb8ee_2:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Bem, eu não estou com muita fome... Mas eu não me incomodaria de passar o tempo com você!"
 
 # game/script.rpy:1825
 translate pt_br lobby2_668060df_2:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:1827
 translate pt_br lobby2_9521072d_2:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "Então o que você vai pedir [botown]?"
 
 # game/script.rpy:1829
 translate pt_br lobby2_b69b4539_2:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Você pede algo para comer. Vocês conversam um pouco e eventualmente você termina sua refeição."
 
 # game/script.rpy:1831
 translate pt_br lobby2_20868fff_2:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Isso foi divertido! Sua comida estava boa?"
 
 # game/script.rpy:1838
 translate pt_br lobby2_6c197210_2:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Hmmm...Ah! Vamos assistir TV!"
 
 # game/script.rpy:1841
 translate pt_br lobby2_6243348c_1:
 
     # bot "I want to visit the cafe! Can you take me [botown]?"
-    bot ""
+    bot "Eu quero ir a cafeteria! Vocêe pode me levar [botown]?"
 
 # game/script.rpy:1844
 translate pt_br lobby2_362eb8ee_3:
 
     # bot "Well, I'm not really hungry... But I wouldn't mind spending time with you!"
-    bot ""
+    bot "Bem, eu não estou com muita fome... Mas eu não me incomodaria de passar o tempo com você!"
 
 # game/script.rpy:1846
 translate pt_br lobby2_668060df_3:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:1848
 translate pt_br lobby2_9521072d_3:
 
     # bot "So what are you going to get [botown]?"
-    bot ""
+    bot "Então o que você vai pedir [botown]?"
 
 # game/script.rpy:1850
 translate pt_br lobby2_b69b4539_3:
 
     # "You order some to eat. You make small talk and eventually finish your meal."
-    ""
+    "Você pede algo para comer. Vocês conversam um pouco e eventualmente você termina sua refeição."
 
 # game/script.rpy:1852
 translate pt_br lobby2_20868fff_3:
 
     # bot "It was fun! Did you enjoy your food?"
-    bot ""
+    bot "Isso foi divertido! Sua comida estava boa?"
 
 # game/script.rpy:1857
 translate pt_br lobby2_0822ebd1:
 
     # bot "Oh... Okay [botown]."
-    bot ""
+    bot "Ah... Tudo bem [linoname]."
 
 # game/script.rpy:1860
 translate pt_br lobby2_6c197210_3:
 
     # bot "Hmmm... Oh! Let's watch TV!"
-    bot ""
+    bot "Hmmm...Ah! Vamos assistir TV!"
 
 # game/script.rpy:1863
 translate pt_br lobby2_f5c82de8_1:
 
     # bot "You're funny [botown]..."
-    bot ""
+    bot "Você é engraçado [botown]..."
 
 # game/script.rpy:1867
 translate pt_br lobby2_a41cdb04_1:
 
     # bot "Okay [botown]~"
-    bot ""
+    bot "Tudo bem [botown]~"
 
 # game/script.rpy:1879
 translate pt_br lobby2_4be16191:
 
     # l "Hello [linoname]..."
-    l ""
+    l "Olá [linoname]...."
 
 # game/script.rpy:1881
 translate pt_br lobby2_3a631fdd:
 
     # l "Hello!"
-    l ""
+    l "Olá!"
 
 # game/script.rpy:1883
 translate pt_br lobby2_c761afff:
 
     # l "Would you like me to cook something for you [linoname]?"
-    l ""
+    l "Você gostaria que eu cozinhasse algo para você [linoname]?"
 
 # game/script.rpy:1885
 translate pt_br lobby2_15f66a9b:
 
     # l "I love the rain... It's so calming."
-    l ""
+    l "Eu amo a chuva... É tão relaxante."
 
 # game/script.rpy:1887
 translate pt_br lobby2_5fa99b38:
 
     # l "Can we do it in the butt today [linoname]?"
-    l ""
+    l "Nós podemos fazer na bunda hoje [linoname]?"
 
 # game/script.rpy:1889
 translate pt_br lobby2_f8e48d1a:
 
     # l "We should go somewhere to eat today!"
-    l ""
+    l "Nós deviamos ir comer em algum lugar hoje!"
 
 # game/script.rpy:1891
 translate pt_br lobby2_c72ea88e:
 
     # l "So much to clean..."
-    l ""
+    l "Tanta coisa para limpar..."
 
 # game/script.rpy:1893
 translate pt_br lobby2_b066788f:
 
     # l "Hmmm.... [linoname]! My pussy..."
-    l ""
+    l "Hmmm... [linoname]! Minha buceta..."
 
 # game/script.rpy:1895
 translate pt_br lobby2_bded1f7c:
 
     # l "Hmmm... I wish it would rain soon..."
-    l ""
+    l "Hmmm... Eu gostaria que chovesse logo..."
 
 # game/script.rpy:1897
 translate pt_br lobby2_72b6765c:
 
     # l "Oh, [linoname]~..."
-    l ""
+    l "Ah, [linoname]~..."
 
 # game/script.rpy:1900
 translate pt_br lobby2_39e43dc6:
 
     # l "Oh, Okay. I'll change and be right down!"
-    l ""
+    l "Ah, Tudo bem. Eu vou me trocar e já desço!"
 
 # game/script.rpy:1903
 translate pt_br lobby2_0a6ec564:
 
     # l "*gasp*! Really? Of course! Let me get dressed, I can't wait!"
-    l ""
+    l "*espanto*! Sério? Com certeza! Deixa eu me trocar, mal posso esperar!"
 
 # game/script.rpy:1905
 translate pt_br lobby2_668060df_4:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:1907
 translate pt_br lobby2_34fac3c7:
 
     # l "What should I get [linoname]? A cookie? A sandwich? I can't decide!"
-    l ""
+    l "O que eu devo pedir [linoname]? Um cookie? Um sanduíche? Eu não consigo decidir!"
 
 # game/script.rpy:1909
 translate pt_br lobby2_370dae91:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:1911
 translate pt_br lobby2_394060cd:
 
     # l "Ahh, that was amazing!"
-    l ""
+    l "Ahh, isso foi incrível!"
 
 # game/script.rpy:1916
 translate pt_br lobby2_b1c88753:
 
     # l "Oh, sure! I'll get dressed right now!"
-    l ""
+    l "Ah,  claro! Eu vou me trocar agora mesmo!"
 
 # game/script.rpy:1919
 translate pt_br lobby2_951bbbe9:
 
     # l "What should we do [linoname]?"
-    l ""
+    l "O que nós deveríamos fazer [linoname]?"
 
 # game/script.rpy:1921
 translate pt_br lobby2_54096183:
 
     # "You and Lin spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Você e Lin passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:1925
 translate pt_br lobby2_368c1b13:
 
     # l "Absolutely!"
-    l ""
+    l "Absolutamente!"
 
 # game/script.rpy:1930
 translate pt_br lobby2_ddcd99a8:
 
     # l "Ahh... The water feels so nice on my skin..."
-    l ""
+    l "Ahh... A água na minha pele é tão gostosa..."
 
 # game/script.rpy:1932
 translate pt_br lobby2_f4b4f181:
 
     # l "Good thing I didn't bring a swim suit, right [linoname]?"
-    l ""
+    l "Ainda bem que eu não trouxe um maiô, né [linoname]?"
 
 # game/script.rpy:1934
 translate pt_br lobby2_f54708f3:
 
     # l "Ahhhhh..."
-    l ""
+    l "Ahhhhh..."
 
 # game/script.rpy:1936
 translate pt_br lobby2_ec81936b:
 
     # "You and Lin spend a long while relaxing your stresses away..."
-    ""
+    "Você e Lin passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:1938
 translate pt_br lobby2_387673a9:
 
     # l "I think we should get out for a while..."
-    l ""
+    l "Eu acho que nós devemos sair um pouco..."
 
 # game/script.rpy:1943
 translate pt_br lobby2_f54708f3_1:
 
     # l "Ahhhhh..."
-    l ""
+    l "Ahhhhh..."
 
 # game/script.rpy:1945
 translate pt_br lobby2_ec81936b_1:
-
+meafls
     # "You and Lin spend a long while relaxing your stresses away..."
-    ""
+    "Você e Lin passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:1947
 translate pt_br lobby2_2f5edaf9:
 
     # l "We should go inside for a while, right [linoname]?"
-    l ""
+    l "Nós devemos entrar um pouco, não é [linoname]?"
 
 # game/script.rpy:1953
 translate pt_br lobby2_9dd76018:
 
     # l "Oh! Can we watch some TV?"
-    l ""
+    l "Ah! Nós podemos assistir TV um pouco?"
 
 # game/script.rpy:1956
 translate pt_br lobby2_0a00ef23:
 
     # l "Hmmm... I'm a bit hungry [linoname]... Can we get something to eat?"
-    l ""
+    l "Hmmm... Eu estou com um poouco de fome [linoname]... Nós podemos ir comer algo?"
 
 # game/script.rpy:1960
 translate pt_br lobby2_668060df_5:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:1962
 translate pt_br lobby2_34fac3c7_1:
 
     # l "What should I get [linoname]? A cookie? A sandwich? I can't decide!"
-    l ""
+    l "O que eu devo pedir [linoname]? Um cookie? Um sanduíche? Eu não consigo decidir!"
 
 # game/script.rpy:1964
 translate pt_br lobby2_370dae91_1:
 
-    # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    # "You each order some to eat. You make small talk and eventually finish your meafls."
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:1966
 translate pt_br lobby2_394060cd_1:
 
     # l "Ahh, that was amazing!"
-    l ""
+    l "Ahh, isso foi incrível!"
 
 # game/script.rpy:1971
 translate pt_br lobby2_900d740c:
 
     # l "Oh... Okay [linoname]."
-    l ""
+    l "Ah... Tudo bem [linoname]."
 
 # game/script.rpy:1974
 translate pt_br lobby2_274d85a0:
 
     # l "I really want to go to the beach!"
-    l ""
+    l "Eu realmente quero ir a praia"
 
 # game/script.rpy:1977
 translate pt_br lobby2_951bbbe9_1:
 
     # l "What should we do [linoname]?"
-    l ""
+    l "O que nós deveríamos fazer [linoname]?"
 
 # game/script.rpy:1979
 translate pt_br lobby2_54096183_1:
 
     # "You and Lin spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Você e Lin passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:1983
 translate pt_br lobby2_c0e33ef3:
 
     # l "I think I'll pass."
-    l ""
+    l "Eu acho que vou passar."
 
 # game/script.rpy:1987
 translate pt_br lobby2_b3f3b681:
 
     # l "Okay~"
-    l ""
+    l "Tudo bem~"
 
 # game/script.rpy:1999
 translate pt_br lobby2_2598a943:
 
     # k "Morning."
-    k ""
+    k "Bom dia."
 
 # game/script.rpy:2001
 translate pt_br lobby2_750c2be7:
 
     # k "Oh, Hey [name]!"
-    k ""
+    k "Ah, Ei [name]!"
 
 # game/script.rpy:2003
 translate pt_br lobby2_df794597:
 
     # k "Gotta get ready to work soon..."
-    k ""
+    k "Preciso ficar pronta para trabalhar logo..."
 
 # game/script.rpy:2005
 translate pt_br lobby2_8acb6bf4:
 
     # k "Hey, it's raining!"
-    k ""
+    k "Ei, está chovendo!"
 
 # game/script.rpy:2007
 translate pt_br lobby2_bf93f103:
 
     # k "It's raining... Wanna... Stay in for a while?"
-    k ""
+    k "Está chovendo... Quer... Ficar aqui por um tempo?"
 
 # game/script.rpy:2009
 translate pt_br lobby2_ce048c99:
 
     # k "I'm kind of hungry... Want to go somewhere to eat [name]?"
-    k ""
+    k "Eu estou com um pouco de fome... Quer ir comer em algum lugar [name]?"
 
 # game/script.rpy:2011
 translate pt_br lobby2_8583b129:
 
     # k "Lucy's been annoying..."
-    k ""
+    k "Lucy tem sido irritante..."
 
 # game/script.rpy:2013
 translate pt_br lobby2_c95a2109:
 
     # k "Hey... You wanna come to my room later?"
-    k ""
+    k "Ei... Quer vir para o meu quarto depois?"
 
 # game/script.rpy:2015
 translate pt_br lobby2_60bfc811:
 
     # k "I wish it would rain soon... I love the rain."
-    k ""
+    k "Eu queria que chovesse logo... Eu amo a chuva."
 
 # game/script.rpy:2017
 translate pt_br lobby2_d12543a9:
 
     # k "Hey [name]... Is it bad that it feels really good when you cum inside?"
-    k ""
+    k "Ei [name]... É um problema que eu me sinta tão bem quando você goza dentro?"
 
 # game/script.rpy:2019
 translate pt_br lobby2_6124354b:
 
     # k "Hey [name]."
-    k ""
+    k "Ei [name]."
 
 # game/script.rpy:2022
 translate pt_br lobby2_f3c650ff:
 
     # k "Yeah, sure."
-    k ""
+    k "Sim, claro."
 
 # game/script.rpy:2025
 translate pt_br lobby2_71fbaff9:
 
     # k "Oh, sure."
-    k ""
+    k "Ah, claro."
 
 # game/script.rpy:2027
 translate pt_br lobby2_668060df_6:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:2029
 translate pt_br lobby2_e5e00581:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Hm, o que nós vamos pedir?"
 
 # game/script.rpy:2031
 translate pt_br lobby2_370dae91_2:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2033
 translate pt_br lobby2_eed08fbd:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ufa, isso estava muito bom! Vamos sair daqui."
 
 # game/script.rpy:2038
 translate pt_br lobby2_03048d50:
 
     # k "Oh, the beach? Sure, I guess."
-    k ""
+    k "Ah, a praia? Claro, eu acho."
 
 # game/script.rpy:2041
 translate pt_br lobby2_8210ba91:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ah, está meio quente..."
 
 # game/script.rpy:2043
 translate pt_br lobby2_ac7e3d5b:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    "Você e Kali passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2047
 translate pt_br lobby2_745d0824:
 
     # k "Sure!"
-    k ""
+    k "Claro!"
 
 # game/script.rpy:2052
 translate pt_br lobby2_b5a3844d:
 
     # k "Look out!" with ssshake
-    k "" with ssshake
+    k "Cuidado!" with ssshake
 
 # game/script.rpy:2055
 translate pt_br lobby2_6af51ecd:
 
     # k "Hah!" with sshake
-    k "" with sshake
+    k "Hah!" with sshake
 
 # game/script.rpy:2058
 translate pt_br lobby2_964cbc37:
 
     # k "Looks like I got you a little wet..."
-    k ""
+    k "Parece que eu te molhei um pouco..."
 
 # game/script.rpy:2060
 translate pt_br lobby2_7bdea6a5:
 
     # "You and Kali spend a long while relaxing your stresses away..."
-    ""
+    "Você e Kali passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2062
 translate pt_br lobby2_abd2b138:
 
     # k "Phew... That was fun, but I'm really tired now."
-    k ""
+    k "Ufa... Isso foi divertido, mas eu estou realmente cansada agora."
 
 # game/script.rpy:2068
 translate pt_br lobby2_05e4b222:
 
     # k "Wanna see what's on TV?"
-    k ""
+    k "Quer ver o que está na TV?"
 
 # game/script.rpy:2071
 translate pt_br lobby2_bfe0064a:
 
     # k "Egh, I haven't eaten all day. You hungry?"
-    k ""
+    k "Egh, eu não comi nada o dia todo. Está com fome?"
 
 # game/script.rpy:2075
 translate pt_br lobby2_668060df_7:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:2077
 translate pt_br lobby2_e5e00581_1:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Hm, o que nós vamos pedir?"
 
 # game/script.rpy:2079
 translate pt_br lobby2_370dae91_3:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2081
 translate pt_br lobby2_eed08fbd_1:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ufa, isso estava muito bom! Vamos sair daqui."
 
 # game/script.rpy:2086
 translate pt_br lobby2_0481ecc1:
 
     # k "Oh, alright. Guess I'll see what Lin is cooking."
-    k ""
+    k "Ah, tudo bem. Acho que vou ver o que a Lin está cozinhando."
 
 # game/script.rpy:2089
 translate pt_br lobby2_70abf0e9:
 
     # k "I've kind of been wanting to relax at the beach lately. Interested?"
-    k ""
+    k "Eu meio que estou querendo relaxar na praia ultimamente. Esta interessado?"
 
 # game/script.rpy:2092
 translate pt_br lobby2_8210ba91_1:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ah, está meio quente..."
 
 # game/script.rpy:2094
 translate pt_br lobby2_ac7e3d5b_1:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2098
 translate pt_br lobby2_f848e5a1:
 
     # k "Haha, what? You're joking right?"
-    k ""
+    k "Haha, quê? Você está brincando né?"
 
 # game/script.rpy:2102
 translate pt_br lobby2_71fbaff9_1:
 
     # k "Oh, sure."
-    k ""
+    k "Ah, claro."
 
 # game/script.rpy:2110
 translate pt_br lobby2_52f69f96:
 
     # k "I'm such a slut..."
-    k ""
+    k "Eu sou tão vadia..."
 
 # game/script.rpy:2114
 translate pt_br lobby2_c6c984c2:
 
     # k "Oh hey, Morning."
-    k ""
+    k "Ah, ei, Bom dia."
 
 # game/script.rpy:2116
 translate pt_br lobby2_750c2be7_1:
 
     # k "Oh, Hey [name]!"
-    k ""
+    k "Ah, ei [name]!"
 
 # game/script.rpy:2118
 translate pt_br lobby2_df794597_1:
 
     # k "Gotta get ready to work soon..."
-    k ""
+    k "Preciso ficar pronta para trabalhar logo..."
 
 # game/script.rpy:2120
 translate pt_br lobby2_8acb6bf4_1:
 
     # k "Hey, it's raining!"
-    k ""
+    k "Ei, está chovendo!"
 
 # game/script.rpy:2122
 translate pt_br lobby2_bf93f103_1:
 
     # k "It's raining... Wanna... Stay in for a while?"
-    k ""
+    k "Está chovendo... Quer... Ficar aqui por um tempo?"
 
 # game/script.rpy:2124
 translate pt_br lobby2_ce048c99_1:
 
     # k "I'm kind of hungry... Want to go somewhere to eat [name]?"
-    k ""
+    k "Eu estou com um pouco de fome... Quer ir comer em algum lugar [name]?"
 
 # game/script.rpy:2126
 translate pt_br lobby2_8583b129_1:
 
     # k "Lucy's been annoying..."
-    k ""
+    k "Lucy tem sido irritante..."
 
 # game/script.rpy:2128
 translate pt_br lobby2_c95a2109_1:
 
     # k "Hey... You wanna come to my room later?"
-    k ""
+    k "Ei... Quer vir para o meu quarto depois?"
 
 # game/script.rpy:2130
 translate pt_br lobby2_60bfc811_1:
 
     # k "I wish it would rain soon... I love the rain."
-    k ""
+    k "Eu queria que chovesse logo... Eu amo a chuva."
 
 # game/script.rpy:2132
 translate pt_br lobby2_d12543a9_1:
 
     # k "Hey [name]... Is it bad that it feels really good when you cum inside?"
-    k ""
+    k "Ei [name]... É um problema que eu me sinta tão bem quando você goza dentro?"
 
 # game/script.rpy:2134
 translate pt_br lobby2_ac86fd36:
 
     # k "Oh, hey..."
-    k ""
+    k "Ah, ei..."
 
 # game/script.rpy:2137
 translate pt_br lobby2_f3c650ff_1:
 
     # k "Yeah, sure."
-    k ""
+    k "Sim, claro."
 
 # game/script.rpy:2140
 translate pt_br lobby2_e5c41bc5:
 
     # k "Oh, sure. Let me change real quick though..."
-    k ""
+    k "Ah, claro. Deixa eu me trocar, vai ser bem rápido..."
 
 # game/script.rpy:2142
 translate pt_br lobby2_668060df_8:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:2144
 translate pt_br lobby2_e5e00581_2:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Hm, o que nós vamos pedir?"
 
 # game/script.rpy:2146
 translate pt_br lobby2_370dae91_4:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2148
 translate pt_br lobby2_eed08fbd_2:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ufa, isso estava muito bom! Vamos sair daqui."
 
 # game/script.rpy:2153
 translate pt_br lobby2_03048d50_1:
 
     # k "Oh, the beach? Sure, I guess."
-    k ""
+    k "Ah, a praia? Claro, eu acho."
 
 # game/script.rpy:2156
 translate pt_br lobby2_8210ba91_2:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ah, está meio quente..."
 
 # game/script.rpy:2158
 translate pt_br lobby2_ac7e3d5b_2:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2162
 translate pt_br lobby2_745d0824_1:
 
     # k "Sure!"
-    k ""
+    k "Claro!"
 
 # game/script.rpy:2167
 translate pt_br lobby2_b5a3844d_1:
 
     # k "Look out!" with ssshake
-    k "" with ssshake
+    k "Cuidado!" with ssshake
 
 # game/script.rpy:2170
 translate pt_br lobby2_6af51ecd_1:
 
     # k "Hah!" with sshake
-    k "" with sshake
+    k "Hah!" with sshake
 
 # game/script.rpy:2173
 translate pt_br lobby2_964cbc37_1:
 
     # k "Looks like I got you a little wet..."
-    k ""
+    k "Parece que eu te molhei um pouco..."
 
 # game/script.rpy:2175
 translate pt_br lobby2_7bdea6a5_1:
 
     # "You and Kali spend a long while relaxing your stresses away..."
-    ""
+    "passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2177
 translate pt_br lobby2_abd2b138_1:
 
     # k "Phew... That was fun, but I'm really tired now."
-    k ""
+    k "Ufa... Isso foi divertido, mas eu estou realmente cansada agora."
 
 # game/script.rpy:2183
 translate pt_br lobby2_05e4b222_1:
 
     # k "Wanna see what's on TV?"
-    k ""
+    k "Quer ver o que está na TV?"
 
 # game/script.rpy:2186
 translate pt_br lobby2_bfe0064a_1:
 
     # k "Egh, I haven't eaten all day. You hungry?"
-    k ""
+    k "Egh, eu não comi nada o dia todo. Está com fome?"
 
 # game/script.rpy:2190
 translate pt_br lobby2_668060df_9:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:2192
 translate pt_br lobby2_e5e00581_3:
 
     # k "Hm, what're you going to get?"
-    k ""
+    k "Hm, o que nós vamos pedir?"
 
 # game/script.rpy:2194
 translate pt_br lobby2_370dae91_5:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2196
 translate pt_br lobby2_eed08fbd_3:
 
     # k "Phew, that was pretty good! Let's get out of here."
-    k ""
+    k "Ufa, isso estava muito bom! Vamos sair daqui."
 
 # game/script.rpy:2201
 translate pt_br lobby2_0481ecc1_1:
 
     # k "Oh, alright. Guess I'll see what Lin is cooking."
-    k ""
+    k "Ah, tudo bem. Acho que vou ver o que a Lin está cozinhando."
 
 # game/script.rpy:2204
 translate pt_br lobby2_70abf0e9_1:
 
     # k "I've kind of been wanting to relax at the beach lately. Interested?"
-    k ""
+    k "Eu meio que estou querendo relaxar na praia ultimamente. Esta interessado?"
 
 # game/script.rpy:2207
 translate pt_br lobby2_8210ba91_3:
 
     # k "Ah, it's kind of hot..."
-    k ""
+    k "Ah, está meio quente..."
 
 # game/script.rpy:2209
 translate pt_br lobby2_ac7e3d5b_3:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2213
 translate pt_br lobby2_d607d1c5:
 
     # k "Maybe later, okay?"
-    k ""
+    k "Talvez depois, tá bom?"
 
 # game/script.rpy:2217
 translate pt_br lobby2_b9876676:
 
     # k "Let's do it!"
-    k ""
+    k "Vamos fazer isso!"
 
 # game/script.rpy:2228
 translate pt_br lobby2_5ceff244:
 
     # a "Good morning [name]~"
-    a ""
+    a "Bim dia [name]~"
 
 # game/script.rpy:2230
 translate pt_br lobby2_97dd9142:
 
     # a "Hi baby~"
-    a ""
+    a "Oi bebê~"
 
 # game/script.rpy:2232
 translate pt_br lobby2_dcb145cb:
 
     # a "Hey [name], how's your evening?"
-    a ""
+    a "Ei [name], como está sendo sua noite?"
 
 # game/script.rpy:2234
 translate pt_br lobby2_6edff9f7:
 
     # a "Hey, it's raining! We should totally stay inside all day and have sex!"
-    a ""
+    a "Ei, está chovendo! Nós deviamos totalmente ficar aqui dentro e fazer sexo!"
 
 # game/script.rpy:2236
 translate pt_br lobby2_8876a7b4:
 
     # a "Hi [name]! We should go to the cafe today!"
-    a ""
+    a "Oi [name]! Nós deviamos ir ao café hoje!"
 
 # game/script.rpy:2238
 translate pt_br lobby2_9ba94482:
@@ -2249,7 +2249,7 @@ translate pt_br lobby2_98ef3193:
 translate pt_br lobby2_668060df_10:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:2256
 translate pt_br lobby2_a6e1bf31:
@@ -2261,7 +2261,7 @@ translate pt_br lobby2_a6e1bf31:
 translate pt_br lobby2_370dae91_6:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2260
 translate pt_br lobby2_08db5f9b:
@@ -2285,7 +2285,7 @@ translate pt_br lobby2_beb4446b:
 translate pt_br lobby2_c7fad9ef:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2274
 translate pt_br lobby2_cf23c3dc:
@@ -2303,7 +2303,7 @@ translate pt_br lobby2_960d59c0:
 translate pt_br lobby2_6d8a9bf5:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2283
 translate pt_br lobby2_0e78715e:
@@ -2321,7 +2321,7 @@ translate pt_br lobby2_8bf62ab4:
 translate pt_br lobby2_6d8a9bf5_1:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2290
 translate pt_br lobby2_3628e674:
@@ -2363,7 +2363,7 @@ translate pt_br lobby2_a6e1bf31_1:
 translate pt_br lobby2_370dae91_7:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2310
 translate pt_br lobby2_08db5f9b_1:
@@ -2393,7 +2393,7 @@ translate pt_br lobby2_beb4446b_1:
 translate pt_br lobby2_c7fad9ef_1:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2328
 translate pt_br lobby2_056525c8:
@@ -2417,25 +2417,25 @@ translate pt_br lobby2_ab03bd57:
 translate pt_br lobby2_97dd9142_1:
 
     # a "Hi baby~"
-    a ""
+    a "Oi bebê~"
 
 # game/script.rpy:2346
 translate pt_br lobby2_8e1c0450:
 
     # a "It's getting a bit hot out, huh?"
-    a ""
+    a "Está ficando um pouco quente, hein? "
 
 # game/script.rpy:2348
 translate pt_br lobby2_6edff9f7_1:
 
     # a "Hey, it's raining! We should totally stay inside all day and have sex!"
-    a ""
+    a "Ei, está chovendo! Nós deviamos totalmente ficar aqui dentro e fazer sexo!"
 
 # game/script.rpy:2350
 translate pt_br lobby2_8876a7b4_1:
 
     # a "Hi [name]! We should go to the cafe today!"
-    a ""
+    a "Oi [name]! Nós deviamos ir ao café hoje!"
 
 # game/script.rpy:2352
 translate pt_br lobby2_9ba94482_1:
@@ -2483,7 +2483,7 @@ translate pt_br lobby2_98ef3193_1:
 translate pt_br lobby2_668060df_11:
 
     # "You both hop in your car, and drive to the cafe..."
-    ""
+    "Vocês dois entram no seu carro, e vão até a cafeteria..."
 
 # game/script.rpy:2370
 translate pt_br lobby2_a6e1bf31_2:
@@ -2495,7 +2495,7 @@ translate pt_br lobby2_a6e1bf31_2:
 translate pt_br lobby2_370dae91_8:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2374
 translate pt_br lobby2_08db5f9b_2:
@@ -2519,7 +2519,7 @@ translate pt_br lobby2_beb4446b_2:
 translate pt_br lobby2_c7fad9ef_2:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2388
 translate pt_br lobby2_cf23c3dc_1:
@@ -2537,7 +2537,7 @@ translate pt_br lobby2_960d59c0_1:
 translate pt_br lobby2_6d8a9bf5_2:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2397
 translate pt_br lobby2_0e78715e_1:
@@ -2555,7 +2555,7 @@ translate pt_br lobby2_8bf62ab4_1:
 translate pt_br lobby2_6d8a9bf5_3:
 
     # "You and Ashley spend a long while relaxing your stresses away..."
-    ""
+    "passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2404
 translate pt_br lobby2_3628e674_1:
@@ -2597,7 +2597,7 @@ translate pt_br lobby2_a6e1bf31_3:
 translate pt_br lobby2_370dae91_9:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2424
 translate pt_br lobby2_08db5f9b_3:
@@ -2627,7 +2627,7 @@ translate pt_br lobby2_beb4446b_3:
 translate pt_br lobby2_c7fad9ef_3:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2442
 translate pt_br lobby2_67e3110b:
@@ -2741,7 +2741,7 @@ translate pt_br lobby2_ab98b23e:
 translate pt_br lobby2_370dae91_10:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2492
 translate pt_br lobby2_8ac21834:
@@ -2765,7 +2765,7 @@ translate pt_br lobby2_5b082de8:
 translate pt_br lobby2_c5bcc9ce:
 
     # "You and Maria spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2506
 translate pt_br lobby2_7843df01:
@@ -2789,7 +2789,7 @@ translate pt_br lobby2_d8fcb347:
 translate pt_br lobby2_54037059:
 
     # "You and Maria spend a long while relaxing your stresses away..."
-    ""
+    "passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2520
 translate pt_br lobby2_46684f58:
@@ -2807,7 +2807,7 @@ translate pt_br lobby2_4eb43846:
 translate pt_br lobby2_54037059_1:
 
     # "You and Maria spend a long while relaxing your stresses away..."
-    ""
+    "passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2527
 translate pt_br lobby2_f9036af5:
@@ -2849,7 +2849,7 @@ translate pt_br lobby2_ab98b23e_1:
 translate pt_br lobby2_370dae91_11:
 
     # "You each order some to eat. You make small talk and eventually finish your meals."
-    ""
+    "Vocês dois pedem algo para comer. Você dois conversam um pouco e eventualmente terminam suas refeições."
 
 # game/script.rpy:2547
 translate pt_br lobby2_8ac21834_1:
@@ -2879,7 +2879,7 @@ translate pt_br lobby2_5b082de8_1:
 translate pt_br lobby2_c5bcc9ce_1:
 
     # "You and Maria spend some time at the beach. Once you're both done, you head back..."
-    ""
+    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2564
 translate pt_br lobby2_55f8a2e3:
@@ -2999,7 +2999,7 @@ translate pt_br utilityroom_7347baca:
 translate pt_br utilityroom_97dd9142:
 
     # a "Hi baby~"
-    a ""
+    a "Oi bebê~"
 
 # game/script.rpy:3003
 translate pt_br utilityroom_665081dd:
@@ -3011,7 +3011,7 @@ translate pt_br utilityroom_665081dd:
 translate pt_br utilityroom_97dd9142_1:
 
     # a "Hi baby~"
-    a ""
+    a "Oi bebê~"
 
 # game/script.rpy:3013
 translate pt_br utilityroom_665081dd_1:
@@ -23897,7 +23897,7 @@ translate pt_br shower_6180a1c7:
 translate pt_br shower_a1625018:
 
     # l "Oh... okay [linoname]..."
-    l ""
+    l "Ah... tudo bem [linoname]."
 
 # game/script.rpy:12682
 translate pt_br shower_6d686373:
