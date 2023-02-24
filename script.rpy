@@ -2405,7 +2405,7 @@ translate pt_br lobby2_056525c8:
 translate pt_br lobby2_216686ce:
 
     # a "Yeah! Let's do it!"
-    a "Sim, vamos fazer isso!"
+    a "Sim! Vamos fazer isso!"
 
 # game/script.rpy:2342
 translate pt_br lobby2_ab03bd57:
@@ -2615,7 +2615,7 @@ translate pt_br lobby2_b155aa6d_1:
 translate pt_br lobby2_1f5a5cbe_1:
 
     # a "Let's go to the beach!"
-    a ""
+    a "Vamos para a praia!"
 
 # game/script.rpy:2436
 translate pt_br lobby2_beb4446b_3:
@@ -2633,97 +2633,97 @@ translate pt_br lobby2_c7fad9ef_3:
 translate pt_br lobby2_67e3110b:
 
     # a "Hmm... Nah."
-    a ""
+    a "Hmm... Nah."
 
 # game/script.rpy:2446
 translate pt_br lobby2_216686ce_1:
 
     # a "Yeah! Let's do it!"
-    a ""
+    a "Sim! Vamos fazer isso!"
 
 # game/script.rpy:2455
 translate pt_br lobby2_0510cf2b:
 
     # m "Mmmm..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:2459
 translate pt_br lobby2_e2186922:
 
     # m "Oh, hey cutie."
-    m ""
+    m "Ah, ei fofura."
 
 # game/script.rpy:2461
 translate pt_br lobby2_3777100f:
 
     # m "How's your morning been [name]?"
-    m ""
+    m "Como sua manhã está sendo [name]?"
 
 # game/script.rpy:2463
 translate pt_br lobby2_b8325929:
 
     # m "How's your day been [name]?"
-    m ""
+    m "Como seu dia está sendo [name]?"
 
 # game/script.rpy:2465
 translate pt_br lobby2_7c42c5fc:
 
     # m "Hmm... It's still raining..."
-    m ""
+    m "Hmm... Ainda está chovendo..."
 
 # game/script.rpy:2467
 translate pt_br lobby2_886db382:
 
     # m "Hey [name], when are we going back to the beach?"
-    m ""
+    m "Ei [name], quando vamos voltar para a praia?"
 
 # game/script.rpy:2469
 translate pt_br lobby2_893492a6:
 
     # m "I hate the rain..."
-    m ""
+    m "Eu odeio a chuva..."
 
 # game/script.rpy:2471
 translate pt_br lobby2_a89f17d4:
 
     # m "Hey [name], I've been a bit horny lately..."
-    m ""
+    m "Ei [name], eu tenho estado um pouco de tesão ultimamente..."
 
 # game/script.rpy:2472
 translate pt_br lobby2_7ce60053:
 
     # m "We should do something later..."
-    m ""
+    m "Nós devíamos fazer alguma coisa mais tarde..."
 
 # game/script.rpy:2474
 translate pt_br lobby2_43ad68be:
 
     # m "Nice weather today."
-    m ""
+    m "O clima está bom hoje."
 
 # game/script.rpy:2476
 translate pt_br lobby2_6466fcad:
 
     # m "Hey [name]... Up for some fun in the dungeon today?"
-    m ""
+    m "Ei [name]... Está a fim de se divertir um pouco no calabouço hoje?"
 
 # game/script.rpy:2478
 translate pt_br lobby2_168012b4:
 
     # m "Hey [name]."
-    m ""
+    m "Ei [name]."
 
 # game/script.rpy:2481
 translate pt_br lobby2_0c324a87:
 
     # m "Oh, sure. Let me change in to something more comfortable and I'll join you in a bit."
-    m ""
+    m "Ah, claro. Deixa eu vestir algo mais confortável e logo eu venho até você."
 
 # game/script.rpy:2484
 translate pt_br lobby2_3233283c:
 
     # m "Sure! I'll split the bill with you."
-    m ""
+    m "Claro. Eu divido a conta com você."
 
 # game/script.rpy:2486
 translate pt_br lobby2_8426c48d_2:
@@ -2735,7 +2735,7 @@ translate pt_br lobby2_8426c48d_2:
 translate pt_br lobby2_ab98b23e:
 
     # m "Thanks for taking me. So what are you going to eat?"
-    m ""
+    m "Obrigada por me trazer. Então o que você vai comer?"
 
 # game/script.rpy:2490
 translate pt_br lobby2_370dae91_10:
@@ -2747,43 +2747,43 @@ translate pt_br lobby2_370dae91_10:
 translate pt_br lobby2_8ac21834:
 
     # m "Whew... I'm full. We should head back now."
-    m ""
+    m "Whew... Esou cheia. Nós deviamos voltar agora."
 
 # game/script.rpy:2497
 translate pt_br lobby2_35a6eb36:
 
     # m "Yeah! That sounds fun. Let me change and I'll be ready to go."
-    m ""
+    m "Sim! Isso parece divertido. Deixa eu me trocar e vou estar pronta para ir."
 
 # game/script.rpy:2500
 translate pt_br lobby2_5b082de8:
 
     # m "Ahh, sunny days like these are great, aren't they?"
-    m ""
+    m "Ahh, dias ensolarados como esse são ótimos, não são?"
 
 # game/script.rpy:2503
 translate pt_br lobby2_c5bcc9ce:
 
     # "You and Maria spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Maria passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2506
 translate pt_br lobby2_7843df01:
 
     # m "Oh, sure!"
-    m ""
+    m "Ah, claro!"
 
 # game/script.rpy:2511
 translate pt_br lobby2_85a11105:
 
     # m "Wanna go skinny dipping with me? Heheh..."
-    m ""
+    m "Quer nadar pelado comigo? Heheh..."
 
 # game/script.rpy:2514
 translate pt_br lobby2_d8fcb347:
 
     # m "Like what you see...?"
-    m ""
+    m "Está gostando do que está vendo...?"
 
 # game/script.rpy:2518
 translate pt_br lobby2_54037059:
@@ -2795,31 +2795,31 @@ translate pt_br lobby2_54037059:
 translate pt_br lobby2_46684f58:
 
     # m "Come on, let's get out of here."
-    m ""
+    m "Vem, vamos dar o fora daqui."
 
 # game/script.rpy:2523
 translate pt_br lobby2_4eb43846:
 
     # m "Ahhh, the heat feels so good..."
-    m ""
+    m "Ah, o calor é tão gostoso..."
 
 # game/script.rpy:2525
 translate pt_br lobby2_54037059_1:
 
     # "You and Maria spend a long while relaxing your stresses away..."
-    "passam um bom tempo relaxando e afastando seus estresses..."
+    "Você e Maria passam um bom tempo relaxando e afastando seus estresses..."
 
 # game/script.rpy:2527
 translate pt_br lobby2_f9036af5:
 
     # m "I think I'm going to fall asleep... Wanna get out of here?"
-    m ""
+    m "Eu acho que vou acabar dormindo... Quer sair daqui?"
 
 # game/script.rpy:2533
 translate pt_br lobby2_fd047d6a:
 
     # m "Hmm, how about see what's on TV?"
-    m ""
+    m "Hmm, o que acha de ver o que está na TV?"
 
 # game/script.rpy:2536
 translate pt_br lobby2_ab1a2dea:
@@ -2831,7 +2831,7 @@ translate pt_br lobby2_ab1a2dea:
 translate pt_br lobby2_563950a8:
 
     # m "Cool, I'll change and we can be on our way."
-    m ""
+    m "Legal, eu vou me trocar e já vamos."
 
 # game/script.rpy:2541
 translate pt_br lobby2_8426c48d_3:
@@ -2843,7 +2843,7 @@ translate pt_br lobby2_8426c48d_3:
 translate pt_br lobby2_ab98b23e_1:
 
     # m "Thanks for taking me. So what are you going to eat?"
-    m ""
+    m "Obrigada por me trazer. Então o que vamos comer?"
 
 # game/script.rpy:2545
 translate pt_br lobby2_370dae91_11:
@@ -2855,25 +2855,25 @@ translate pt_br lobby2_370dae91_11:
 translate pt_br lobby2_8ac21834_1:
 
     # m "Whew... I'm full. We should head back now."
-    m ""
+    m "Caramba... Estou cheia. Nós devíamos voltar agora."
 
 # game/script.rpy:2552
 translate pt_br lobby2_81e9f3c9:
 
     # m "Oh, okay."
-    m ""
+    m "Ah, tudo bem."
 
 # game/script.rpy:2555
 translate pt_br lobby2_1e281c0c:
 
     # m "Hm, I've been wanting to go to the beach lately."
-    m ""
+    m "Hm, eu estive pensando em ir para a praia ultimamente."
 
 # game/script.rpy:2558
 translate pt_br lobby2_5b082de8_1:
 
     # m "Ahh, sunny days like these are great, aren't they?"
-    m ""
+    m "Ahh, dias ensolarados como esses são ótimos, não são?"
 
 # game/script.rpy:2561
 translate pt_br lobby2_c5bcc9ce_1:
@@ -2885,115 +2885,115 @@ translate pt_br lobby2_c5bcc9ce_1:
 translate pt_br lobby2_55f8a2e3:
 
     # m "Maybe later, okay?"
-    m ""
+    m "Talvez mais tade, tá bom?"
 
 # game/script.rpy:2568
 translate pt_br lobby2_7a0212f2:
 
     # m "Ooh! Are you serious? I would love to!"
-    m ""
+    m "Ooh! Está falando sério? Eu adoraria!"
 
 # game/script.rpy:2689
 translate pt_br lobby2_76676665:
 
     # e "Hello [name]. How can I help?"
-    e ""
+    e "Olá [name]. Como posso ajudar?"
 
 # game/script.rpy:2773
 translate pt_br utilityroom_6088fdcc:
 
     # "You hear some noises coming from the Laundry Room..."
-    ""
+    "Você ouve alguns barulhos vindo da Lavanderia..."
 
 # game/script.rpy:2960
 translate pt_br utilityroom_99654bc5:
 
     # em "Oh, [name]... I didn't think many people came in here..."
-    em ""
+    em "Ah, [name]... Eu não achava que muitas pessoas vinham aqui..."
 
 # game/script.rpy:2962
 translate pt_br utilityroom_3604dca3:
 
     # em "Did you want to watch...?"
-    em ""
+    em "Você quer assistir...?"
 
 # game/script.rpy:2966
 translate pt_br utilityroom_f3b2070d:
 
     # em "Hahhhh...! You came at a good time... I'm about to cum..."
-    em ""
+    em "Hahhhh...! Você chegou em boa hora... Eu já estou quase gozando..."
 
 # game/script.rpy:2967
 translate pt_br utilityroom_77d722a6:
 
     # em "I was... Ahn... I was thinking about you cumming on my tits..."
-    em ""
+    em "Eu estava... Ahn... Eu estava pensando em vocÊ gozando nos meus peitos..."
 
 # game/script.rpy:2968
 translate pt_br utilityroom_f9f66263:
 
     # em "Ahhh! Hnnn! Oh, I'm really close!"
-    em ""
+    em "Ahhh! Hnnn! Ah, eu estou quase lá!"
 
 # game/script.rpy:2969
 translate pt_br utilityroom_0bde6aa9:
 
     # em "Nnnn! I'm going to cum! AH! I'm cumming, I'm cumming!"
-    em ""
+    em "Nnnn! EU estou quase gozanado! AH1 Estou gozando, estou gozando!"
 
 # game/script.rpy:2971
 translate pt_br utilityroom_6e1f3a0f:
 
     # em "AHH!!!" with sshake
-    em "" with sshake
+    em "AHH!!!" with sshake
 
 # game/script.rpy:2973
 translate pt_br utilityroom_ba659925:
 
     # em "Ahhh... You watched me cum..."
-    em ""
+    em "Ah... Você me viu gozar..."
 
 # game/script.rpy:2984
 translate pt_br utilityroom_fb19edfa:
 
     # f "A-Ah! [name]... It's not what it looks like...!"
-    f ""
+    f "A-Ah! [name]... Isso não é o que parece...!"
 
 # game/script.rpy:2986
 translate pt_br utilityroom_415a6b2f:
 
     # f "I just... Got really horny..."
-    f ""
+    f "Eu só... Fiquei com muito tesão..."
 
 # game/script.rpy:2988
 translate pt_br utilityroom_6655c400:
 
     # f "Ahhh... I can't stop myself... Nnnn..."
-    f ""
+    f "Ahhh... Eu não consigo parar... Nnnn... "
 
 # game/script.rpy:2989
 translate pt_br utilityroom_9c60f9e9:
 
     # f "Hahh, ahh... Mmm... Can we fuck later? Please...?"
-    f ""
+    f "Hahh, ahh...Mmm... Nós podemos foder depois? Por favor...?"
 
 # game/script.rpy:2990
 translate pt_br utilityroom_e2f62530:
 
     # f "Ohh, ahh! I think I'm going to cummm!!!"
-    f ""
+    f "Ohh, ahh! Eu acho que já vou gozar!!!"
 
 # game/script.rpy:2992
 translate pt_br utilityroom_8e4d0d32:
 
     # f "HNNN!!!" with sshake
-    f "" with sshake
+    f "HNNN!!!" with sshake
 
 # game/script.rpy:2994
 translate pt_br utilityroom_7347baca:
 
     # f "Nnn... Sorry..."
-    f ""
+    f "Nnn... Desculpa..."
 
 # game/script.rpy:3001
 translate pt_br utilityroom_97dd9142:
@@ -3005,7 +3005,7 @@ translate pt_br utilityroom_97dd9142:
 translate pt_br utilityroom_665081dd:
 
     # a "Hey [name]!"
-    a ""
+    a "Ei [name]!"
 
 # game/script.rpy:3011
 translate pt_br utilityroom_97dd9142_1:
@@ -3017,73 +3017,73 @@ translate pt_br utilityroom_97dd9142_1:
 translate pt_br utilityroom_665081dd_1:
 
     # a "Hey [name]!"
-    a ""
+    a "Ei [name]!"
 
 # game/script.rpy:3019
 translate pt_br utilityroom_779eb7b1:
 
     # a "Oh... Hey [name]... What's up?"
-    a ""
+    a "Ah... Ei [name]...E aí?"
 
 # game/script.rpy:3020
 translate pt_br utilityroom_506c11b1:
 
     # c "What are you doing?"
-    c ""
+    c "O que você está fazendo?"
 
 # game/script.rpy:3021
 translate pt_br utilityroom_2f54bd43:
 
     # a "I got really horny so I just started masturbating..."
-    a ""
+    a "Eu fiquei com muito tesão então eu comecei a me masturbar..."
 
 # game/script.rpy:3022
 translate pt_br utilityroom_f9b1e069:
 
     # a "Hehe~ I'm really close... wanna watch me cum?"
-    a ""
+    a "Hehe~EU estou quase lá... quer me ver gozar?"
 
 # game/script.rpy:3026
 translate pt_br utilityroom_8a1a6bd1:
 
     # a "Nnn..."
-    a ""
+    a "Nnn..."
 
 # game/script.rpy:3027
 translate pt_br utilityroom_df426250:
 
     # a "Hehe~ You watching me just makes it better!"
-    a ""
+    a "Hehe~ Você estar me assistido só torna isso ainda melhor!
 
 # game/script.rpy:3028
 translate pt_br utilityroom_81effae1:
 
     # a "Ahhh... Hahhnn... Mmm..."
-    a ""
+    a "Ahhh... Hahhnn... Mmm..."
 
 # game/script.rpy:3031
 translate pt_br utilityroom_151e8c15:
 
     # a "Hahh! Are you still watching? Nnn! I'm close! I'm gonna cum!"
-    a ""
+    a "Hahh! Você ainda está vendo? Nnn! Eu estou quase lá! Eu vou gozar!"
 
 # game/script.rpy:3032
 translate pt_br utilityroom_9f131250:
 
     # a "Ah! Watch me cum [name]! Watch me cummm!"
-    a ""
+    a "Ah! Me veja gozar [name]! Me veja gozarrr! "
 
 # game/script.rpy:3034
 translate pt_br utilityroom_1e474251:
 
     # a "Ah, Ahhh!!!" with ssshake
-    a "" with ssshake
+    a "Ah, Ahh!!!" with ssshake
 
 # game/script.rpy:3036
 translate pt_br utilityroom_8cc5b028:
 
     # a "Ahhh... Hahhh... Hehe~ I came..."
-    a ""
+    a "Ahhh... Hahhh... Hehe~ Eu gozei..."
 
 # game/script.rpy:3046
 translate pt_br utilityroom_779eb7b1_1:
@@ -3395,7 +3395,7 @@ translate pt_br utilityroom_a74861c7:
 translate pt_br utilityroom_26d8aaf6:
 
     # m "Mmmm... Good choice..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:3191
 translate pt_br utilityroom_1fa0caac:
@@ -10451,7 +10451,7 @@ translate pt_br kcreep_fc54e19e:
 translate pt_br kcreep_3447bdb7:
 
     # k "Mmmm... A dirty whore..."
-    k ""
+    k "Mmmm..."
 
 # game/script.rpy:7527
 translate pt_br kcreep_bfe6f6dc:
@@ -23495,7 +23495,7 @@ translate pt_br shower_65c4a8fe:
 translate pt_br shower_53f79ef6:
 
     # f "Mmmm..."
-    f ""
+    f "Mmmm..."
 
 # game/script.rpy:12466
 translate pt_br shower_98d1ee0e:
@@ -23795,7 +23795,7 @@ translate pt_br shower_2464a20c:
 translate pt_br shower_659efe55:
 
     # k "Mmmm... that was so good... Now I'm going to shower again..."
-    k ""
+    k "Mmmm..."
 
 # game/script.rpy:12626
 translate pt_br shower_69bc7e51:
@@ -24029,7 +24029,7 @@ translate pt_br shower_1e37bff3:
 translate pt_br shower_0510cf2b:
 
     # m "Mmmm..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:12762
 translate pt_br shower_56a5a2b9:
@@ -24287,7 +24287,7 @@ translate pt_br shower_4f426f51:
 translate pt_br shower_cd6e768b:
 
     # au "Mmmm... there there, just relax... let me wash you..."
-    au ""
+    au "Mmmm..."
 
 # game/script.rpy:12886
 translate pt_br shower_18cdefaf:
@@ -24299,7 +24299,7 @@ translate pt_br shower_18cdefaf:
 translate pt_br shower_4b89e7e8:
 
     # au "Ahhh... yes... I love taking care of you, [name]... Mmmm..."
-    au ""
+    au "Mmmm..."
 
 # game/script.rpy:12888
 translate pt_br shower_647badde:
@@ -30461,7 +30461,7 @@ translate pt_br yourroom_28d0a903:
 translate pt_br yourroom_fb7fc379:
 
     # bot "Mmmm... I'm not sure abo-"
-    bot ""
+    bot "Mmmm..."
 
 # game/script.rpy:15855
 translate pt_br yourroom_a418899e:
@@ -39149,7 +39149,7 @@ translate pt_br bot_washingmachine_e76ce4fa:
 translate pt_br bot_washingmachine_b476c974:
 
     # bot "Ahh... Ahhhhh... Nnnng... Hahhh... Ahhh... Mmmm..."
-    bot ""
+    bot "Mmmm..."
 
 # game/script.rpy:19044
 translate pt_br bot_washingmachine_122f00d2:
@@ -56537,7 +56537,7 @@ translate pt_br botmar_646f0a21:
 translate pt_br botmar_808a697c:
 
     # bot "Mmmm... okay..."
-    bot ""
+    bot "Mmmm..."
 
 # game/script.rpy:24178
 translate pt_br botmar_df4c8f31:
@@ -56807,7 +56807,7 @@ translate pt_br botmar3_3cf64f07:
 translate pt_br botmar3_c22ac667:
 
     # bot "Mmmm... Maria..."
-    bot ""
+    bot "Mmmm..."
 
 # game/script.rpy:24249
 translate pt_br botmar3_c4fc9811:
@@ -56975,7 +56975,7 @@ translate pt_br botmar3_8f196afa:
 translate pt_br botmar3_f0722202:
 
     # m "Mmmm... that was so good [botname]... Thank you..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:24291
 translate pt_br botmar3_141e5679:
@@ -57221,7 +57221,7 @@ translate pt_br botmar2_914f755e:
 translate pt_br botmar2_0510cf2b:
 
     # m "Mmmm..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:24362
 translate pt_br botmar2_3c38ab2e:
@@ -57797,7 +57797,7 @@ translate pt_br bothangdone_64b70d3e:
 translate pt_br bothangdone_4d98cfaf:
 
     # bot "Mmmm... I've gotten really horny suddenly [botown]... Can we have sex? Please?"
-    bot ""
+    bot "Mmmm..."
 
 # game/script.rpy:24568
 translate pt_br bothangdone_14c2e5b0:
@@ -69905,7 +69905,7 @@ translate pt_br bdsmgirls_e271b45a:
 translate pt_br bdsmgirls_90412cab:
 
     # m "Mmmm... So what are we doing?"
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:28802
 translate pt_br bdsmgirls_995b3c21:
@@ -70079,7 +70079,7 @@ translate pt_br bdsmgirls_3b80352e:
 translate pt_br bdsmgirls_6e56b9c6:
 
     # bot "Y-Yeah! Let's do it!"
-    bot ""
+    bot "S-Sim! Vamos fazer isso!"
 
 # game/script.rpy:28887
 translate pt_br bdsmgirls_62cd3c65_2:
@@ -70499,7 +70499,7 @@ translate pt_br jinbdsmchoices_9e3c43c1:
 translate pt_br jinbdsmchoices_86a64279:
 
     # j "Hahhh... Hahhh... Mmmm... That was amazing [name]..."
-    j ""
+    j "Mmmm..."
 
 # game/script.rpy:29078
 translate pt_br jinbdsmchoices_836e3302_1:
@@ -72629,7 +72629,7 @@ translate pt_br marrope_c0a60098:
 translate pt_br marrope_d4b8a997:
 
     # m "Mmmm... Hahhh... Ah!"
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30033
 translate pt_br marrope_861474e7:
@@ -72965,7 +72965,7 @@ translate pt_br marbhandy_55ba8743:
 translate pt_br marbhandy_1de4b9f5:
 
     # m "Mmmm... I can't wait for you to cum all over me!"
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30185
 translate pt_br marbhandy_bb9952f8:
@@ -73067,13 +73067,13 @@ translate pt_br marbfinger_69a45441:
 translate pt_br marbfinger_464b20ba:
 
     # m "Mmmm... Yes..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30218
 translate pt_br marbfinger_545f4bf2:
 
     # m "Ahhh... Hahah... You're pretty good with you hands [name]... Mmmm..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30219
 translate pt_br marbfinger_b48c5e85:
@@ -73127,7 +73127,7 @@ translate pt_br marbfinger_5b953e9a:
 translate pt_br marbfinger_24fbc650:
 
     # m "Mmmm... That felt so good..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30237
 translate pt_br marbfinger_2a50bf9f:
@@ -73151,7 +73151,7 @@ translate pt_br marbfinger_41beaa6e:
 translate pt_br marbfinger_cd7f78d8:
 
     # m "Mmmm... Looks like I came... Haha... Oops."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30248
 translate pt_br marbfinger_2a71f5ca:
@@ -73205,7 +73205,7 @@ translate pt_br marbfinger_5b953e9a_1:
 translate pt_br marbfinger_24fbc650_1:
 
     # m "Mmmm... That felt so good..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30265
 translate pt_br marbfinger_2a50bf9f_1:
@@ -73229,7 +73229,7 @@ translate pt_br marbfinger_41beaa6e_1:
 translate pt_br marbfinger_cd7f78d8_1:
 
     # m "Mmmm... Looks like I came... Haha... Oops."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30279
 translate pt_br marbfinger_74bfe159:
@@ -73271,7 +73271,7 @@ translate pt_br marbfinger_5b953e9a_2:
 translate pt_br marbfinger_24fbc650_2:
 
     # m "Mmmm... That felt so good..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30291
 translate pt_br marbfinger_2a50bf9f_2:
@@ -73295,7 +73295,7 @@ translate pt_br marbfinger_41beaa6e_2:
 translate pt_br marbfinger_cd7f78d8_2:
 
     # m "Mmmm... Looks like I came... Haha... Oops."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30302
 translate pt_br marbfinger_2a71f5ca_1:
@@ -73349,7 +73349,7 @@ translate pt_br marbfinger_5b953e9a_3:
 translate pt_br marbfinger_24fbc650_3:
 
     # m "Mmmm... That felt so good..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30319
 translate pt_br marbfinger_2a50bf9f_3:
@@ -73397,7 +73397,7 @@ translate pt_br marbgspot_4d8bce56:
 translate pt_br marbgspot_17c8a9d8:
 
     # m "Ahh! Fuck... Mmmm..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30342
 translate pt_br marbgspot_ea27e624:
@@ -73475,7 +73475,7 @@ translate pt_br marbgspot_d4e943ea:
 translate pt_br marbgspot_93e93b50:
 
     # m "Mmmm... Looks like I came..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30371
 translate pt_br marbgspot_af018fec:
@@ -73547,7 +73547,7 @@ translate pt_br marbgspot_d4e943ea_1:
 translate pt_br marbgspot_93e93b50_1:
 
     # m "Mmmm... Looks like I came..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30402
 translate pt_br marbgspot_af018fec_1:
@@ -73619,7 +73619,7 @@ translate pt_br marbgspot_d4e943ea_2:
 translate pt_br marbgspot_93e93b50_2:
 
     # m "Mmmm... Looks like I came..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:30434
 translate pt_br marbgspot_af018fec_2:
@@ -74015,7 +74015,7 @@ translate pt_br linsidefuck_51629906:
 translate pt_br linsidefuck_dbc40027:
 
     # l "Ahhh... Mmmm... [linoname] you're always so rough with me..."
-    l ""
+    l "Mmmm..."
 
 # game/script.rpy:30608
 translate pt_br linsidefuck_db930832:
@@ -75221,7 +75221,7 @@ translate pt_br marbpunish_7d81b2ec:
 translate pt_br marbpunish_63050ee0:
 
     # m "Mmmm..." with ssshake
-    m "" with ssshake
+    m "Mmmm..." with ssshake
 
 # game/script.rpy:31112
 translate pt_br marbpunish_b7d9b768:
@@ -75299,7 +75299,7 @@ translate pt_br marbpunish_05981640_1:
 translate pt_br marbpunish_f7307585:
 
     # m "Mmmm... Thank you Sir..."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:31151
 translate pt_br marbpunish_ebdc02fd:
@@ -75587,7 +75587,7 @@ translate pt_br ashbdsm_d724424a:
 translate pt_br ashbsquirt_a17c1f2e:
 
     # a "Ahhh... Mmmm..."
-    a ""
+    a "Mmmm..."
 
 # game/script.rpy:31336
 translate pt_br ashbsquirt_6a83d187:
@@ -76391,7 +76391,7 @@ translate pt_br afbdsm_ed1c3908:
 translate pt_br afbdsm_931cc784:
 
     # a "Ahhh... Mmmm..." with ssshake
-    a "" with ssshake
+    a "Mmmm..." with ssshake
 
 # game/script.rpy:31589
 translate pt_br afbdsm_e34f6abc:
@@ -76649,7 +76649,7 @@ translate pt_br ashvibe_5d1b365e:
 translate pt_br ashvibe_931cc784:
 
     # a "Ahhh... Mmmm..." with ssshake
-    a "" with ssshake
+    a "Mmmm..." with ssshake
 
 # game/script.rpy:31690
 translate pt_br ashvibe_e34f6abc:
@@ -82751,7 +82751,7 @@ translate pt_br ash_insp_3b311620:
 translate pt_br ash_insp_9c66099f:
 
     # a "Llmmmn... Mmmm... Mmmmph..."
-    a ""
+    a "Mmmm..."
 
 # game/script.rpy:35422
 translate pt_br ash_insp_9fff4ee8:
@@ -83309,7 +83309,7 @@ translate pt_br ash_insp_9d5eecf0_1:
 translate pt_br ash_insp_cb7ac564:
 
     # l "Nnnhh... Mmmm... [linoname]...! Please fuck me! {size=-10}{i}I'm so horny...!{/i}{/size}"
-    l ""
+    l "Mmmm..."
 
 # game/script.rpy:35697
 translate pt_br llt2_fb032ce5:
@@ -84113,7 +84113,7 @@ translate pt_br mar_insp_33480161:
 translate pt_br mar_insp_bfbfe6ee:
 
     # m "Mmmm... that look in your eyes... I love it."
-    m ""
+    m "Mmmm..."
 
 # game/script.rpy:36079
 translate pt_br mar_insp_0540ec20:
@@ -85391,7 +85391,7 @@ translate pt_br bot_wordplay_mar_de49c0d1:
 translate pt_br bot_wordplay_mar_2721bf51:
 
     # bot "Ahh! Mmmm...!"
-    bot ""
+    bot "Mmmm..."
 
 # game/script.rpy:36989
 translate pt_br bot_wordplay_mar_f5afc76c:
