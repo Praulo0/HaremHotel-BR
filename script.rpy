@@ -3023,7 +3023,7 @@ translate pt_br utilityroom_665081dd_1:
 translate pt_br utilityroom_779eb7b1:
 
     # a "Oh... Hey [name]... What's up?"
-    a "Ah... Ei [name]...E aí?"
+    a "Ah... Ei [name]... E aí?"
 
 # game/script.rpy:3020
 translate pt_br utilityroom_506c11b1:
@@ -3041,7 +3041,7 @@ translate pt_br utilityroom_2f54bd43:
 translate pt_br utilityroom_f9b1e069:
 
     # a "Hehe~ I'm really close... wanna watch me cum?"
-    a "Hehe~EU estou quase lá... quer me ver gozar?"
+    a "Hehe~ Eu estou quase lá... quer me ver gozar?"
 
 # game/script.rpy:3026
 translate pt_br utilityroom_8a1a6bd1:
@@ -3053,7 +3053,7 @@ translate pt_br utilityroom_8a1a6bd1:
 translate pt_br utilityroom_df426250:
 
     # a "Hehe~ You watching me just makes it better!"
-    a "Hehe~ Você estar me assistido só torna isso ainda melhor!
+    a "Hehe~ Você estar me assistido só torna isso melhor ainda!"
 
 # game/script.rpy:3028
 translate pt_br utilityroom_81effae1:
@@ -3065,13 +3065,13 @@ translate pt_br utilityroom_81effae1:
 translate pt_br utilityroom_151e8c15:
 
     # a "Hahh! Are you still watching? Nnn! I'm close! I'm gonna cum!"
-    a "Hahh! Você ainda está vendo? Nnn! Eu estou quase lá! Eu vou gozar!"
+    a "Hahh! Você ainda está vendo? Nnn! Eu estou quase! Eu vou gozar!"
 
 # game/script.rpy:3032
 translate pt_br utilityroom_9f131250:
 
     # a "Ah! Watch me cum [name]! Watch me cummm!"
-    a "Ah! Me veja gozar [name]! Me veja gozarrr! "
+    a "Ah! Me veja gozar [name]! Me veja gozarrr!"
 
 # game/script.rpy:3034
 translate pt_br utilityroom_1e474251:
@@ -3089,223 +3089,223 @@ translate pt_br utilityroom_8cc5b028:
 translate pt_br utilityroom_779eb7b1_1:
 
     # a "Oh... Hey [name]... What's up?"
-    a ""
+    a "Ah... Ei [name]... E aí?"
 
 # game/script.rpy:3047
 translate pt_br utilityroom_506c11b1_1:
 
     # c "What are you doing?"
-    c ""
+    c "O que você está fazendo?"
 
 # game/script.rpy:3048
 translate pt_br utilityroom_2f54bd43_1:
 
     # a "I got really horny so I just started masturbating..."
-    a ""
+    a "Eu fiquei com muito tesão então eu comecei a me masturbar..."
 
 # game/script.rpy:3049
 translate pt_br utilityroom_f9b1e069_1:
 
     # a "Hehe~ I'm really close... wanna watch me cum?"
-    a ""
+    a "Hehe~ Eu estou quase lá... quer me ver gozar?"
 
 # game/script.rpy:3053
 translate pt_br utilityroom_8a1a6bd1_1:
 
     # a "Nnn..."
-    a ""
+    a "Hnn..."
 
 # game/script.rpy:3054
 translate pt_br utilityroom_df426250_1:
 
     # a "Hehe~ You watching me just makes it better!"
-    a ""
+    a "Hehe~ Você estar me assistido só torna isso melhor ainda!"
 
 # game/script.rpy:3055
 translate pt_br utilityroom_81effae1_1:
 
     # a "Ahhh... Hahhnn... Mmm..."
-    a ""
+    a "Ahhh... Hahhnn... Mmm..."
 
 # game/script.rpy:3058
 translate pt_br utilityroom_151e8c15_1:
 
     # a "Hahh! Are you still watching? Nnn! I'm close! I'm gonna cum!"
-    a ""
+    a "Hahh! Você ainda está vendo? Nnn! Eu estou quase! Eu vou gozar!"
 
 # game/script.rpy:3059
 translate pt_br utilityroom_9f131250_1:
 
     # a "Ah! Watch me cum [name]! Watch me cummm!"
-    a ""
+    a "Ah! Me veja gozar [name]! Me veja gozarrr!"
 
 # game/script.rpy:3061
 translate pt_br utilityroom_1e474251_1:
 
     # a "Ah, Ahhh!!!" with ssshake
-    a "" with ssshake
+    a "Ah, Ahh!!!" with ssshake
 
 # game/script.rpy:3063
 translate pt_br utilityroom_8cc5b028_1:
 
     # a "Ahhh... Hahhh... Hehe~ I came..."
-    a ""
+    a "Ahhh... Hahhh... Hehe~ Eu gozei..."
 
 # game/script.rpy:3075
 translate pt_br utilityroom_f493553c:
 
     # bot "Oh, hello [botown]~ Heheheh~"
-    bot ""
+    bot "Ah, olá [botown]~ Heheheh~"
 
 # game/script.rpy:3077
 translate pt_br utilityroom_785a8180:
 
     # bot "I hope you're having a good day [botown]!"
-    bot ""
+    bot "Eu espero que você esteja tendo um bom dia [botown]!"
 
 # game/script.rpy:3083
 translate pt_br utilityroom_8ba29bb8:
 
     # bot "O-Oh! [botown]..."
-    bot ""
+    bot "O-Oh! [botown]...."
 
 # game/script.rpy:3084
 translate pt_br utilityroom_506c11b1_2:
 
     # c "What are you doing?"
-    c ""
+    c "O que você está fazendo?"
 
 # game/script.rpy:3085
 translate pt_br utilityroom_fc2c5521:
 
     # bot "I was just relaxing and... I got really horny all of the sudden... Nnn..."
-    bot ""
+    bot "Eu estava só relaxando e... eu fiquei muito excitada de repente... Nnn..."
 
 # game/script.rpy:3087
 translate pt_br utilityroom_7530fd19:
 
     # bot "It's really hard to resist..."
-    bot ""
+    bot "É muito difícil resistir..."
 
 # game/script.rpy:3089
 translate pt_br utilityroom_75fe983e:
 
     # bot "Nnn..."
-    bot ""
+    bot "Nnn..."
 
 # game/script.rpy:3090
 translate pt_br utilityroom_fe31162b:
 
     # bot "We did so much naughty things together... It's making me horny all the time..."
-    bot ""
+    bot "Nós fizemos tantas safadezas juntos... Isso faz eu ficar com tesão o tempo todo..."
 
 # game/script.rpy:3093
 translate pt_br utilityroom_326014f7:
 
     # bot "Hahh... Nnn..."
-    bot ""
+    bot "Hahh... Nnn.."
 
 # game/script.rpy:3094
 translate pt_br utilityroom_06880f21:
 
     # bot "I... Hope you don't mind [botown]... I'm just going to... rub myself for a while... Nnn..."
-    bot ""
+    bot "Eu... Espero que você não se incomode [botown]... Eu vou só... me esfregar um pouquinho... Nnn..."
 
 # game/script.rpy:3101
 translate pt_br utilityroom_7cdcce1d:
 
     # l "Oh, [linoname]! It's so good to see you!"
-    l ""
+    l "Ah, [linoname]! É tão bom ver você!"
 
 # game/script.rpy:3103
 translate pt_br utilityroom_7dc58a1b:
 
     # l "Hello [linoname]!"
-    l ""
+    l "Olá [linoname]!"
 
 # game/script.rpy:3109
 translate pt_br utilityroom_6514f619:
 
     # l "[linoname]..."
-    l ""
+    l "[linoname]..."
 
 # game/script.rpy:3110
 translate pt_br utilityroom_506c11b1_3:
 
     # c "What are you doing?"
-    c ""
+    c "o que você está fazendo?"
 
 # game/script.rpy:3112
 translate pt_br utilityroom_37cb378b:
 
     # l "Nnn... I was cleaning... and I got really horny... thinking about you..."
-    l ""
+    l "Nnn... Eu estava limpando... e fiquei muito excitada... pensando em você..."
 
 # game/script.rpy:3113
 translate pt_br utilityroom_eaf48776:
 
     # l "Ahh... Don't worry [linoname]... I'll try... not to cum... Nnnn..."
-    l ""
+    l "Ahh... Não se preocupe [linoname]... Eu vou tentar... não gozar... Nnn..."
 
 # game/script.rpy:3114
 translate pt_br utilityroom_957b4b1c:
 
     # l "I just... Need to... For... a little... while..."
-    l ""
+    l "Eu só... Preciso... Por um... temponho"
 
 # game/script.rpy:3125
 translate pt_br utilityroom_790a8ede:
 
     # f "Hello [name]! Good to see you."
-    f ""
+    f "Olá [name]! É bom te ver."
 
 # game/script.rpy:3127
 translate pt_br utilityroom_3c6fac7b:
 
     # em "Hey [name]! What's up?"
-    em ""
+    em "Ei [name]! E aí?"
 
 # game/script.rpy:3131
 translate pt_br utilityroom_790a8ede_1:
 
     # f "Hello [name]! Good to see you."
-    f ""
+    f "Olá [name]! É bom te ver."
 
 # game/script.rpy:3133
 translate pt_br utilityroom_3c6fac7b_1:
 
     # em "Hey [name]! What's up?"
-    em ""
+    em "Ei [name]! E aí?"
 
 # game/script.rpy:3135
 translate pt_br utilityroom_e07e0d6b:
 
     # f "Oh, [name]."
-    f ""
+    f "Ah, [name]."
 
 # game/script.rpy:3136
 translate pt_br utilityroom_9e1a6984:
 
     # em "Need something?"
-    em ""
+    em "Precisa de alguma coisa?"
 
 # game/script.rpy:3143
 translate pt_br utilityroom_a5cd05d6:
 
     # k "Hey [name]!"
-    k ""
+    k "Ei [name]!"
 
 # game/script.rpy:3145
 translate pt_br utilityroom_83140101:
 
     # k "Oh, what's up?"
-    k ""
+    k "Ah, e aí?"
 
 # game/script.rpy:3151
 translate pt_br utilityroom_15c300f2:
 
     # k "Oh! [name]..."
-    k ""
+    k "Ah [name]..."
 
 # game/script.rpy:3152
 translate pt_br utilityroom_506c11b1_4:
