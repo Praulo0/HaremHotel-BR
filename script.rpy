@@ -563,7 +563,7 @@ translate pt_br start2_88492ccb:
 translate pt_br start2_ec06078f:
 
     # e "You'll do whatever he says, right Lin?"
-    e ""
+    e "Você fará tudo o que ele disser, certo Lin?"
 
 # game/script.rpy:638
 translate pt_br start2_b9e33e06:
@@ -2651,7 +2651,7 @@ translate pt_br lobby2_0510cf2b:
 translate pt_br lobby2_e2186922:
 
     # m "Oh, hey cutie."
-    m "Ah, ei fofura."
+    m "Ah, ei fofo."
 
 # game/script.rpy:2461
 translate pt_br lobby2_3777100f:
@@ -3311,97 +3311,97 @@ translate pt_br utilityroom_15c300f2:
 translate pt_br utilityroom_506c11b1_4:
 
     # c "What are you doing?"
-    c ""
+    c "O que você está fazendo?"
 
 # game/script.rpy:3154
 translate pt_br utilityroom_b4bfe569:
 
     # k "I may have gotten... a little horny today..."
-    k ""
+    k "Eu posso ter ficado... um pouco excitada hoje..."
 
 # game/script.rpy:3155
 translate pt_br utilityroom_59518525:
 
     # k "So I decided I would be a little risky and masturbate in public..."
-    k ""
+    k "Então eu decidi que iriaw me arriscar um pouco e me masturbar em público..."
 
 # game/script.rpy:3156
 translate pt_br utilityroom_bb443cbc:
 
     # k "Do... you want to watch?"
-    k ""
+    k "Você... quer assistir?"
 
 # game/script.rpy:3159
 translate pt_br utilityroom_4f3621b1:
 
     # k "...Cool..."
-    k ""
+    k "...Legal... "
 
 # game/script.rpy:3161
 translate pt_br utilityroom_aad26f02:
 
     # k "Mm..."
-    k ""
+    k "Hm..."
 
 # game/script.rpy:3162
 translate pt_br utilityroom_309bb503:
 
     # k "Being naked in public... is a real turn on..."
-    k ""
+    k "Estar nua em público... Isso me deixa com muito tesão..."
 
 # game/script.rpy:3163
 translate pt_br utilityroom_5b8e7760:
 
     # k "What did you do to me [name]... Ahhnnnn..."
-    k ""
+    k "O que você fez para mim [name]... Ahhnnnn..."
 
 # game/script.rpy:3174
 translate pt_br utilityroom_cc735746:
 
     # m "Hey cutie..."
-    m ""
+    m "Ei fofo..."
 
 # game/script.rpy:3176
 translate pt_br utilityroom_ae203947:
 
     # m "Hi [name]."
-    m ""
+    m "Oi [name]."
 
 # game/script.rpy:3182
 translate pt_br utilityroom_a6818d08:
 
     # m "Oh, Haha. Hello [name]..."
-    m ""
+    m "Ah, Haha. Olá [name]..."
 
 # game/script.rpy:3183
 translate pt_br utilityroom_506c11b1_5:
 
     # c "What are you doing?"
-    c ""
+    c "o que você está fazendo?"
 
 # game/script.rpy:3184
 translate pt_br utilityroom_3fb61b46:
 
     # m "What does it look like? I'm fucking a dildo..."
-    m ""
+    m "O que você acha que é? Eu estou fodendo um dildo..."
 
 # game/script.rpy:3185
 translate pt_br utilityroom_a74861c7:
 
     # m "I was pretty close to cumming before you interrupted me... So how about you watch and help me cum?"
-    m ""
+    m "Eu estava bem perto de gozar antes de você me interromper... Então o que acha de assistir e me ajudar a gozar?"
 
 # game/script.rpy:3189
 translate pt_br utilityroom_26d8aaf6:
 
     # m "Mmmm... Good choice..."
-    m "Mmmm..."
+    m "Mmmm... Boa escolha..."
 
 # game/script.rpy:3191
 translate pt_br utilityroom_1fa0caac:
 
     # m "Nnn... fuck... feels better when I have a crowd... Haha..."
-    m ""
+    m "Nnn... porra... Fica melhor quando tenho platéia... Haha... "
 
 # game/script.rpy:3192
 translate pt_br utilityroom_9256911d:
