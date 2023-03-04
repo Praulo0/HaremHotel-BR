@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-11 13:31
+# TODO: Translation updated at 2022-12-11 13:31
 
 # game/script.rpy:372
 translate pt_br skip_a27367e9:
@@ -3407,301 +3407,301 @@ translate pt_br utilityroom_1fa0caac:
 translate pt_br utilityroom_9256911d:
 
     # m "Ahhh... fuck, fuck! Are you getting hard [name]? From watching me? Mmm..."
-    m ""
+    m "Ahhh... porra, porra! Você está ficando duro [name]? Por me assistir? Mmm..."
 
 # game/script.rpy:3195
 translate pt_br utilityroom_3d53adee:
 
     # m "Ahhh shit... I'm close again... Mmmm! Ahh!"
-    m ""
+    m "Ahhh merda.. Estou perto de novo... Mmmm! Ahh!"
 
 # game/script.rpy:3196
 translate pt_br utilityroom_f93633ca:
 
     # m "I'm gonna cum! I'm gonna cum! Watch me cum [name]! Watch me CUM!"
-    m ""
+    m "Eu vou gozar! Eu vou gozar! Me veja gozar [name]! Me veja GOZAR!"
 
 # game/script.rpy:3198
 translate pt_br utilityroom_473eca7d:
 
     # m "FFFUUCK!" with ssshake
-    m "" with ssshake
+    m "PPPOORRA!" with ssshake
 
 # game/script.rpy:3200
 translate pt_br utilityroom_b484926e:
 
     # m "Ahhh... Hahahhh... Enjoy the show? Hahaha... Nnn..."
-    m ""
+    m "Ahhh... Hahahhhh... Gostou do show? Hahaha... Nnn..."
 
 # game/script.rpy:3204
 translate pt_br utilityroom_5a399a14:
 
     # m "Your loss."
-    m ""
+    m "Está perdendo."
 
 # game/script.rpy:3353
 translate pt_br ellentalk_22d453fe:
 
     # e "[name], it just occured to me that your grandfather never properly named this hotel. The building still isn't fully complete, but a name wouldn't be unjustified. What do you think? Want to give it a name?"
-    e ""
+    e "[name], acabei de lembrar que o seu avô nunca deu um nome a este hotel. O edifício ainda não está totalmente concluído, mas um nome não seria injustificado. O que você acha? Gostarua de dar um nome?"
 
 # game/script.rpy:3358
 translate pt_br ellentalk_cd5d5a0b:
 
     # e "Very well, this hotel will now be known as [hotelname]!"
-    e ""
+    e "Muito bem, esse hotel agora será conhecido como [hotelname]!"
 
 # game/script.rpy:3362
 translate pt_br ellentalk_a00bd1a3:
 
     # c "An email?"
-    c ""
+    c "Um email?"
 
 # game/script.rpy:3363
 translate pt_br ellentalk_c7f50457:
 
     # e "Yes, from the HHA. It seems you've made quite the impression on an elf named Peni, she chose you as her preferred master to live with and as a result is discounted by 25 percent only for you."
-    e ""
+    e "Sim, do HHA. Parece que você causou uma impressão muito boa a uma elfa chamada Peni, ela te escolheu como o mestre que ela mais gostaria de viver com, e como resultado, tem um desconto de 25 por cento apenas para você."
 
 # game/script.rpy:3364
 translate pt_br ellentalk_3a0ba53b:
 
     # c "I see... thank you."
-    c ""
+    c "Entendi... obrigado."
 
 # game/script.rpy:3365
 translate pt_br ellentalk_91c5422d:
 
     # e "If you would like to purchase her, the shop is available on your computer."
-    e ""
+    e "Se você quiser comprá-la, a loja está disponível no seu computador."
 
 # game/script.rpy:3368
 translate pt_br ellentalk_6c54400c:
 
     # e "Anything I can help you with?"
-    e ""
+    e "Posso te ajudar com alguma coisa?"
 
 # game/script.rpy:3372
 translate pt_br ellentalking_98e176cc:
 
     # e "Someone will come along eventually. We just need to give it time."
-    e ""
+    e "Alguem virá eventualmente. Nós só precisamos esperar um pouco."
 
 # game/script.rpy:3375
 translate pt_br ellentalking_d6556c05:
 
     # e "There are three main ways you can earn money:\n1. Sell pinups.\n2. Gigs in the city.\n3. Upgrade the hotel."
-    e ""
+    e "Existem três formas principais de como você pode ganhar dinheiro:\n1. Vender pinups.\n2 Fazer apresentações na cidade.\n3 Melhorar o hotel."
 
 # game/script.rpy:3377
 translate pt_br ellen_moneytalk_5fce860f:
 
     # e "Which would you like to learn about?" nointeract
-    e "" nointeract
+    e "Sobre qual você gostaria de aprender?" nointeract
 
 # game/script.rpy:3379
 translate pt_br ellen_moneytalk_fe2dd7a5:
 
     # e "Ah, that was something you grandfather had some of us do..."
-    e ""
+    e "Ah, isso foi algo que seu avô mandou alguns de nós fazer..."
 
 # game/script.rpy:3380
 translate pt_br ellen_moneytalk_9ee7b317:
 
     # e "Ah, *ahem*... Customers will pay more for skimpier outfits and multiple people. This way you could see each outfit you buy as an investment! So long as you're close enough for them to accept..."
-    e ""
+    e "Ah, *ahem*... Clientes vão pagar mais por roupas mais curtas e mais pessoas. Assim voce poderá ver ver cada roupa que você comprar como um investimento! Então desde que vocês forem próximoso suficiente para elas aceitarem..."
 
 # game/script.rpy:3383
 translate pt_br ellen_moneytalk_6e6035a2:
 
     # e "I hear Bernie's Bowling Bar has had trouble keeping delivery drivers recently... perhaps they would hire you. They're located in Caliber City."
-    e ""
+    e "Eu ouvi que o Bar de Boliche do Bernie está tendo problemas com a entrega das bebidas recentemente... Talvez eles te contratassem. Elesficam em na cidade Caliber. "
 
 # game/script.rpy:3386
 translate pt_br ellen_moneytalk_da042089:
 
     # e "As you may have noticed by now, each resident pays you rent, so the more doors you have the better! I would focus on building additional floors first."
-    e ""
+    e "Como você já deve ter percebido, cada hóspede te paga um aluguel, então quanto mais portas você tiver, melhor! Wu me concentraria em construir andares adicionais primeiro."
 
 # game/script.rpy:3387
 translate pt_br ellen_moneytalk_5024ca72:
 
     # e "But if you need more money, You can build a bar. It was always your grandfather's plan to build a bar to pay for the hotel and attract customers. A fully ugpraded bar would make even more money!"
-    e ""
+    e "Mas se você precisa de mais dinheiro, você pode construir um bar. Sempre foi o plano do seu avô construir um bar para pagar o hotel e atrair clientes. Um bar completamente atualizado poderia fazer mais dinheiro ainda!"
 
 # game/script.rpy:3395
 translate pt_br ellen_moneytalk_b84828c9:
 
     # e "I'm an accountant and receptionist, I sort out all the bills, make sure everybody is paying rent, welcome guests, that sort of thing."
-    e ""
+    e "Eu sou uma contadora e recepcionista, eu resolvo todas as contas, cuido para que todos paguem o aluguel, recebo hóspedes, esse tipo de coisa."
 
 # game/script.rpy:3398
 translate pt_br ellen_moneytalk_c7bb894b:
 
     # e "Oh... you came here for that, hm?"
-    e ""
+    e "Ah... você veio aqui por isso, hn?"
 
 # game/script.rpy:3399
 translate pt_br ellen_moneytalk_19a94368:
 
     # e "Well, you are the boss... if you need me to do something else for now, I would be more than willing..."
-    e ""
+    e "Bem, você é o chefe... se você precisar que eu faça outra coisa, eu estou mais que disposta..."
 
 # game/script.rpy:3402
 translate pt_br ellen_moneytalk_9d5dd3e4:
 
     # e "Right now? Well, okay... let's just try to be quiet, heheh..."
-    e ""
+    e "Agora mesmo? Bem, tudo bem... vamos apenas tentar ficar quietos, heheh..."
 
 # game/script.rpy:3405
 translate pt_br ellen_moneytalk_377985b3:
 
     # e "Ohh, okay. Follow me..."
-    e ""
+    e "Ahh, tudo bem. Venha comigo..."
 
 # game/script.rpy:3411
 translate pt_br ellen_moneytalk_f4c59136:
 
     # e "It seems you have no debt at the moment. Congratulations!"
-    e ""
+    e "Parece que você não tem dívidas no momento. Parabéns!"
 
 # game/script.rpy:3414
 translate pt_br ellen_moneytalk_1a78c105:
 
     # e "Very well... we should have just enough money in the savings account to pay this off. But I can only do this once. Are you sure?"
-    e ""
+    e "Muito bem... nós já devemos ter dinheiro o suficiente na conta poupança para pagar isso. Mas só posso fazer isso uma vez. Você tem certeza?"
 
 # game/script.rpy:3417
 translate pt_br ellen_moneytalk_5db9c210:
 
     # e "Your debt has been cleared!"
-    e ""
+    e "Sua dívida foi paga!"
 
 # game/script.rpy:3430
 translate pt_br upgrades_d72f2a77:
 
     # e "I hope you know what you're doing..."
-    e ""
+    e "Eu espero que você saiba o que está fazendo..."
 
 # game/script.rpy:3438
 translate pt_br upgrades_c2583b9c:
 
     # "The Elves' happiness went down..."
-    ""
+    "A felicidade das 'Elfas' diminuiu"
 
 # game/script.rpy:3444
 translate pt_br upgrades_c9e9c46b:
 
     # c "I'm already giving them bland food."
-    c ""
+    c "Eu já estou dando a elas comida sem graça."
 
 # game/script.rpy:3447
 translate pt_br upgrades_885254ba:
 
     # e "Very well."
-    e ""
+    e "Muito bem."
 
 # game/script.rpy:3452
 translate pt_br upgrades_d06a55e7:
 
     # "The Elves' happiness went up!"
-    ""
+    "A felicidade das 'Elfas' aumentou!"
 
 # game/script.rpy:3457
 translate pt_br upgrades_c2583b9c_1:
 
     # "The Elves' happiness went down..."
-    ""
+    "A felicidade das 'Elfas' diminuiu..."
 
 # game/script.rpy:3463
 translate pt_br upgrades_9f095d90:
 
     # c "I'm already giving them regular food."
-    c ""
+    c "Eu já estou dando a elas comida normal."
 
 # game/script.rpy:3466
 translate pt_br upgrades_b3b6ac09:
 
     # e "Wonderful!"
-    e ""
+    e "Maravilhoso!"
 
 # game/script.rpy:3474
 translate pt_br upgrades_d06a55e7_1:
 
     # "The Elves' happiness went up!"
-    ""
+    "A felicidade das 'Elfas' aumentou!"
 
 # game/script.rpy:3480
 translate pt_br upgrades_1bd817b9:
 
     # c "I'm already giving them luxury food."
-    c ""
+    c "Eu já estou dando a elas comida de luxo."
 
 # game/script.rpy:3493
 translate pt_br barupgrade_1d86075c:
 
     # e "Music would be the best decision!"
-    e ""
+    e "Musica pode ser a melhor decisão!"
 
 # game/script.rpy:3496
 translate pt_br barupgrade_bc53ee81:
 
     # e "Your first goal should be to buy at least 6 different drink types."
-    e ""
+    e "Seu primeiro objetico deve ser comprar pelo menos 6 tipos diferentes de bebidas."
 
 # game/script.rpy:3497
 translate pt_br barupgrade_d2721e60:
 
     # e "Drinks are a bar's main purpose, so having a wide variety of quality drinks are sure to increase your profits!"
-    e ""
+    e "Bebidas são o mutivo principal de um bar, então ter uma grande variedade de bebidas de qualidade com certeza vai aumentar seus lucros!"
 
 # game/script.rpy:3500
 translate pt_br barupgrade_a37d7922:
 
     # e "I would buy a surround sound system."
-    e ""
+    e "Eu compraria um sistema de som surround."
 
 # game/script.rpy:3503
 translate pt_br barupgrade_64b8dc7b:
 
     # e "I would recommend buying some seats. More seats, more money!"
-    e ""
+    e "Eu recomendaria comprar algumas cadeiras. Mais cadeiras, mais dinheiro!"
 
 # game/script.rpy:3506
 translate pt_br barupgrade_f37f1349:
 
     # e "Your next logical step is Mixology Training!"
-    e ""
+    e "Seu próximo passo lógico é Treino de Mixologia!"
 
 # game/script.rpy:3507
 translate pt_br barupgrade_e9153bd9:
 
     # e "Mixology Training will allow your bartender to become a little creative, meaning your bar will have custom drinks only available here!"
-    e ""
+    e "o Treino de Mixologia irá permitir que seu bartender se torne um pouco criativo, o que significa que seu bar poderá ter bebidas customizadas que são disponíveis apenas aqui!"
 
 # game/script.rpy:3513
 translate pt_br barupgrade_01aca1d2:
 
     # e "Now that you have the chairs, music, and drinks necessary to host large amount of patrons, I recommend we begin promoting Sports Day!"
-    e ""
+    e "Agora que você tem as cadeiras, músicas, e bebidas necessárias para hospedar uma grande quantia de patronos, eu recomendo que nós comecemos a promover um Dia dos Esportes!"
 
 # game/script.rpy:3519
 translate pt_br barupgrade_672dcfcb:
 
     # e "Every Sunday Evening, if we advertise it correctly, should be packed to the brim! It may be expensive up front, but once everything is in place I can guarantee you'll be paid back in full in at most 3 weeks."
-    e ""
+    e "em todas as Tardes de Domingo, se nós anunciarmos corretamente, deve ficar cheio até a borda! Isso pode ser caro a primeiro momento, mas uma vez que estiver tudo no lugar, eu posso te garantir que você será pago integralmente em no máximo 3 semanas.  "
 
 # game/script.rpy:3520
 translate pt_br barupgrade_a3a77ace:
 
     # e "Getting this many rowdy sports fans drunk is bound to cause damage though, so be prepared. Especially for tourney day..."
-    e ""
+    e "Mas deixar tantos fãs de esportes bebâdos vai trazer estragos, então esteja preparado. Especialmente em dias de torneio..."
 
 # game/script.rpy:3525
 translate pt_br sportsmenu_3d05d562:
 
     # "Wings, nuts, nachos, popcorn, pretzels, chips, water bottles, etc. People love to snack while being entertained. It may not seem expensive to the patron at first, but lucky it adds up..."
-    ""
+    "Asas, nozes, nachos, pipoca, pretzels, chips, garrafas de água, etc. As pessoas amam lanchar enquanto estão se entretendo. Isso pode não parecer caro para o patrono a princípio, mas, felizmente aumenta..."
 
 # game/script.rpy:3529
 translate pt_br sportsmenu_885254ba:
