@@ -3689,7 +3689,7 @@ translate pt_br barupgrade_01aca1d2:
 translate pt_br barupgrade_672dcfcb:
 
     # e "Every Sunday Evening, if we advertise it correctly, should be packed to the brim! It may be expensive up front, but once everything is in place I can guarantee you'll be paid back in full in at most 3 weeks."
-    e "em todas as Tardes de Domingo, se nós anunciarmos corretamente, deve ficar cheio até a borda! Isso pode ser caro a primeiro momento, mas uma vez que estiver tudo no lugar, eu posso te garantir que você será pago integralmente em no máximo 3 semanas.  "
+    e "em todas as Noites de Domingo, se nós anunciarmos corretamente, deve ficar cheio até a borda! Isso pode ser caro a primeiro momento, mas uma vez que estiver tudo no lugar, eu posso te garantir que você será pago integralmente em no máximo 3 semanas.  "
 
 # game/script.rpy:3520
 translate pt_br barupgrade_a3a77ace:
@@ -3701,133 +3701,133 @@ translate pt_br barupgrade_a3a77ace:
 translate pt_br sportsmenu_3d05d562:
 
     # "Wings, nuts, nachos, popcorn, pretzels, chips, water bottles, etc. People love to snack while being entertained. It may not seem expensive to the patron at first, but lucky it adds up..."
-    "Asas, nozes, nachos, pipoca, pretzels, chips, garrafas de água, etc. As pessoas amam lanchar enquanto estão se entretendo. Isso pode não parecer caro para o patrono a princípio, mas, felizmente aumenta..."
+    "Asas de frango, nozes, nachos, pipoca, pretzels, chips, garrafas de água, etc. As pessoas amam lanchar enquanto estão se entretendo. Isso pode não parecer caro para o patrono a princípio, mas, felizmente aumenta..."
 
 # game/script.rpy:3529
 translate pt_br sportsmenu_885254ba:
 
     # e "Very well."
-    e ""
+    e "Muito bem."
 
 # game/script.rpy:3534
 translate pt_br sportsmenu_22936f84:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Parabéns! Nós estamos ofeicialmente preparados para o Dia de Esportes!"
 
 # game/script.rpy:3535
 translate pt_br sportsmenu_e97a16f4:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "Com o seu investimento inicial feito, nos podemos esperar para ver os lucros subindo nas próximas semanas. Tenha certeza de prestar atenção em seu relatório semanal."
 
 # game/script.rpy:3536
 translate pt_br sportsmenu_4496a591:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "Ah, e não espere ser capaz de visita o bar nas noites de domingo. Vai estar lotado, eu recomendo você a deixar o trabalho para seus empregados..."
 
 # game/script.rpy:3544
 translate pt_br sportsmenu_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3549
 translate pt_br sportsmenu_05335707:
 
     # "You need TVs, obviously."
-    ""
+    "Você precisa de Tvs, obviamente."
 
 # game/script.rpy:3554
 translate pt_br sportsmenu_f5c6dd37:
 
     # e "Of course, I'll place the order immediately."
-    e ""
+    e "É claro, eu farei o pedido imediatamente."
 
 # game/script.rpy:3558
 translate pt_br sportsmenu_3ba747dd:
 
     # "One TV has been bought! Three more may be purchased. \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Uma TV foi comprada! Ainda podem ser compradas três. \nO pedido irá chegar amanhã de manhã, e será instalado para você."
 
 # game/script.rpy:3560
 translate pt_br sportsmenu_cc643b27:
 
     # "Two TVs have been bought! Two more may be purchased. \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Duas TVs foram compradas! Ainda podem ser compradas duas. \nO pedido irá chegar amanhã de manhã, e será instalado para você."
 
 # game/script.rpy:3562
 translate pt_br sportsmenu_4a3a8b19:
 
     # "Three TVs have been bought! One more may be purchased. \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Três TVs foram compradas! Ainda pode ser comprada uma. \nO pedido irá chegar amanhã de manhã, e será instalado para você."
 
 # game/script.rpy:3564
 translate pt_br sportsmenu_c1ace87f:
 
     # "All TVs have been bought! \nThe order will arrive tomorrow morning, and will be installed for you."
-    ""
+    "Todas as TVs foram compradas! \nO pedido irá chegar amanhã de manhã, e será instalado para você."
 
 # game/script.rpy:3567
 translate pt_br sportsmenu_22936f84_1:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
 
 # game/script.rpy:3568
 translate pt_br sportsmenu_e97a16f4_1:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "Com o seu investimento inicial feito, nos podemos esperar para ver os lucros subindo nas próximas semanas. Tenha certeza de prestar atenção em seu relatório semanal."
 
 # game/script.rpy:3569
 translate pt_br sportsmenu_4496a591_1:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "Ah, e não espere ser capaz de visita o bar nas noites de domingo. Vai estar lotado, eu recomendo você a deixar o trabalho para seus empregados..."
 
 # game/script.rpy:3576
 translate pt_br sportsmenu_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "É claro, eu farei o pedido imediatamente."
 
 # game/script.rpy:3580
 translate pt_br sportsmenu_1c8e11b4:
 
     # "Contract musicians to play at your bar. Every crowd needs live entertainment."
-    ""
+    "Contrate músicos para tocar no seu bar. Toda multidão precisa de entretenimento ao vivo."
 
 # game/script.rpy:3584
 translate pt_br sportsmenu_01d49e87:
 
     # e "Live performers? Oh, I'm so excited! Right away, [name]!"
-    e ""
+    e "Artistas ao vivo? Ah, estou tão animada! Agora mesmo, [name]!"
 
 # game/script.rpy:3589
 translate pt_br sportsmenu_22936f84_2:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
 
 # game/script.rpy:3590
 translate pt_br sportsmenu_e97a16f4_2:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "Com o seu investimento inicial feito, nos podemos esperar para ver os lucros subindo nas próximas semanas. Tenha certeza de prestar atenção em seu relatório semanal."
 
 # game/script.rpy:3591
 translate pt_br sportsmenu_4496a591_2:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "Ah, e não espere ser capaz de visita o bar nas noites de domingo. Vai estar lotado, eu recomendo você a deixar o trabalho para seus empregados..."
 
 # game/script.rpy:3598
 translate pt_br sportsmenu_bb22c8cb_2:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3602
 translate pt_br sportsmenu_409df091:
@@ -3845,7 +3845,7 @@ translate pt_br sportsmenu_6b7f6efb:
 translate pt_br sportsmenu_22936f84_3:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
 
 # game/script.rpy:3612
 translate pt_br sportsmenu_e97a16f4_3:
@@ -3857,13 +3857,13 @@ translate pt_br sportsmenu_e97a16f4_3:
 translate pt_br sportsmenu_4496a591_3:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "Ah, e não espere ser capaz de visita o bar nas noites de domingo. Vai estar lotado, eu recomendo você a deixar o trabalho para seus empregados..."
 
 # game/script.rpy:3621
 translate pt_br sportsmenu_bb22c8cb_3:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3627
 translate pt_br sportsmenu_6ebcd83a:
@@ -3881,7 +3881,7 @@ translate pt_br sportsmenu_9ca1872b:
 translate pt_br sportsmenu_22936f84_4:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e ""
+    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
 
 # game/script.rpy:3637
 translate pt_br sportsmenu_e97a16f4_4:
@@ -3893,13 +3893,13 @@ translate pt_br sportsmenu_e97a16f4_4:
 translate pt_br sportsmenu_4496a591_4:
 
     # e "Oh, and don't expect to be able to visit the bar sunday evenings anymore. It will be packed, I recommend leaving the work to your employees..."
-    e ""
+    e "Ah, e não espere ser capaz de visita o bar nas noites de domingo. Vai estar lotado, eu recomendo você a deixar o trabalho para seus empregados..."
 
 # game/script.rpy:3645
 translate pt_br sportsmenu_bb22c8cb_4:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3655
 translate pt_br sportsmenu_60f61b20:
@@ -3935,7 +3935,7 @@ translate pt_br bardrinks_54e8cbaf:
 translate pt_br bardrinks_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3687
 translate pt_br bardrinks_559cb611:
@@ -3971,7 +3971,7 @@ translate pt_br bardrinks_54e8cbaf_2:
 translate pt_br bardrinks_bb22c8cb_2:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3717
 translate pt_br bardrinks_a4ed1a4a:
@@ -4007,7 +4007,7 @@ translate pt_br bardrinks_54e8cbaf_4:
 translate pt_br bardrinks_bb22c8cb_4:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3747
 translate pt_br bardrinks_14cdd496:
@@ -4043,7 +4043,7 @@ translate pt_br bardrinks_54e8cbaf_6:
 translate pt_br bardrinks_bb22c8cb_6:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3781
 translate pt_br bardrinks_b9d6b2c2:
@@ -4073,7 +4073,7 @@ translate pt_br bardrinks_9e870068:
 translate pt_br bardrinks_1d180219:
 
     # c "I don't have enough money for that..."
-    c ""
+    c "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3801
 translate pt_br bartraining_f5d0a14f:
@@ -4121,7 +4121,7 @@ translate pt_br bartraining_2f720e80:
 translate pt_br bartraining_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3853
 translate pt_br bartraining_1793bfdc:
@@ -4157,7 +4157,7 @@ translate pt_br ellenmusic_52c9645c:
 translate pt_br ellenmusic_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3888
 translate pt_br ellenmusic_fccd04f8:
@@ -4271,7 +4271,7 @@ translate pt_br ellenmusic_7b519c4a_7:
 translate pt_br ellenmusic_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3998
 translate pt_br ellenmusic_fccd04f8_2:
@@ -4331,7 +4331,7 @@ translate pt_br ellenmusic_7b519c4a_11:
 translate pt_br ellenmusic_bb22c8cb_2:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4054
 translate pt_br ellenmusic_fccd04f8_3:
@@ -4391,7 +4391,7 @@ translate pt_br ellenmusic_7b519c4a_15:
 translate pt_br ellenmusic_bb22c8cb_3:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4110
 translate pt_br ellenmusic_fccd04f8_4:
@@ -4451,7 +4451,7 @@ translate pt_br ellenmusic_7b519c4a_19:
 translate pt_br ellenmusic_bb22c8cb_4:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4166
 translate pt_br ellenmusic_fccd04f8_5:
@@ -4511,7 +4511,7 @@ translate pt_br ellenmusic_7b519c4a_23:
 translate pt_br ellenmusic_bb22c8cb_5:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4232
 translate pt_br cellad_5a57c11f:
@@ -4559,7 +4559,7 @@ translate pt_br tvad_63cb3757:
 translate pt_br tvad_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4267
 translate pt_br tvad_c71cdaaf:
@@ -4589,7 +4589,7 @@ translate pt_br billad_63cb3757:
 translate pt_br billad_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4291
 translate pt_br billad_c71cdaaf:
@@ -4709,7 +4709,7 @@ translate pt_br billad_755696db:
 translate pt_br billad_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4350
 translate pt_br billad_d94e9fd4:
