@@ -3833,13 +3833,13 @@ translate pt_br sportsmenu_bb22c8cb_2:
 translate pt_br sportsmenu_409df091:
 
     # "Dart boards, ping pong balls, etc. Something to do between games."
-    ""
+    "Alvos, bolas de pingue pongue, etc. Cosas para fazer relacionadas a jogos."
 
 # game/script.rpy:3606
 translate pt_br sportsmenu_6b7f6efb:
 
     # e "Very well. I'll place the order."
-    e ""
+    e "Muito bem. Eu farei o pedido."
 
 # game/script.rpy:3611
 translate pt_br sportsmenu_22936f84_3:
@@ -3851,7 +3851,7 @@ translate pt_br sportsmenu_22936f84_3:
 translate pt_br sportsmenu_e97a16f4_3:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "Com o seu investimento inicial feito, nos podemos esperar para ver os lucros subindo nas próximas semanas. Tenha certeza de prestar atenção em seu relatório semanal."
 
 # game/script.rpy:3613
 translate pt_br sportsmenu_4496a591_3:
@@ -3869,13 +3869,13 @@ translate pt_br sportsmenu_bb22c8cb_3:
 translate pt_br sportsmenu_6ebcd83a:
 
     # "It's expensive to advertise in the sports industry, but we need to make it clear to everyone that YOUR bar is THE bar to go to for sports day, and ensure they know where to come during tournament season."
-    ""
+    "É caro fazer anúncios na indústria de esportes, mas nós precisamos deixar claro a todos que o SEU bar é o bar a ir para os dias de esportes, e ter a certeza de que eles sabem para onde ir durante as temporadas de torneio.                                                                                                 "
 
 # game/script.rpy:3631
 translate pt_br sportsmenu_9ca1872b:
 
     # e "Very well, I will contact a few advertisement agencies immediately."
-    e ""
+    e "Muito bem, irei contatar algumas agências de anúncios imediatamente."
 
 # game/script.rpy:3636
 translate pt_br sportsmenu_22936f84_4:
@@ -3887,7 +3887,7 @@ translate pt_br sportsmenu_22936f84_4:
 translate pt_br sportsmenu_e97a16f4_4:
 
     # e "With your initial investment in place, we can now expect to see profits soaring in within the next few weeks. Make sure you pay attention to your weekly report."
-    e ""
+    e "Com o seu investimento inicial feito, nos podemos esperar para ver os lucros subindo nas próximas semanas. Tenha certeza de prestar atenção em seu relatório semanal."
 
 # game/script.rpy:3638
 translate pt_br sportsmenu_4496a591_4:
@@ -3905,31 +3905,31 @@ translate pt_br sportsmenu_bb22c8cb_4:
 translate pt_br sportsmenu_60f61b20:
 
     # "More seats, more patrons, more money."
-    ""
+    "Mais assentos, mais clientes, mais dinheiro."
 
 # game/script.rpy:3661
 translate pt_br sportsmenu_bbf87a91:
 
     # e "Very well! I'll order more chairs immediately."
-    e ""
+    e "Muito bem! Irei pedir mais cadeiras imediatamente."
 
 # game/script.rpy:3666
 translate pt_br sportsmenu_bb22c8cb_5:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3672
 translate pt_br bardrinks_731a8906:
 
     # "Aged whisky is sure to bring in alcohol connoisseurs, resulting in them wanting to judge all of your product."
-    ""
+    "Uísque envelhecido com certeza vai trazer apreciadores de álcool, o que irá resultar em eles julgando todos os seus produtos."
 
 # game/script.rpy:3678
 translate pt_br bardrinks_54e8cbaf:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Muito bem! Irei preparar as coisas imediatamente."
 
 # game/script.rpy:3683
 translate pt_br bardrinks_bb22c8cb:
@@ -3941,31 +3941,31 @@ translate pt_br bardrinks_bb22c8cb:
 translate pt_br bardrinks_559cb611:
 
     # "Wines have an average of 12 percent alcohol, and are fairly expensive. Guaranteed to bring more snobby patrons."
-    ""
+    "Vinhos possuem uma média de 12 por cento de álcool, e é razoavelmente caro. É garantido que trará clientes mais esnobes.
 
 # game/script.rpy:3693
 translate pt_br bardrinks_54e8cbaf_1:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Muito bem! Irei preparar as coisas imediatamente."
 
 # game/script.rpy:3698
 translate pt_br bardrinks_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3702
 translate pt_br bardrinks_9ff8bd09:
 
     # "Tequila has an average of 50 percent alcohol, but the effects are likely just knock people out and make them wet themselves more often."
-    ""
+    "Tequila possui uma média de 50 por cento de álcool, mas os efeitos provavelmente apenas nocauteiam as pessoas e as fazem se molhar com mais frequência"
 
 # game/script.rpy:3708
 translate pt_br bardrinks_54e8cbaf_2:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Muito bem! Irei preparar as coisas imediatamente."
 
 # game/script.rpy:3713
 translate pt_br bardrinks_bb22c8cb_2:
@@ -3977,31 +3977,31 @@ translate pt_br bardrinks_bb22c8cb_2:
 translate pt_br bardrinks_a4ed1a4a:
 
     # "Vodka has an average of 67 percent alcohol, and isn't very expensive. Guaranteed to be the cause of bar fights."
-    ""
+    "Vodka possui uma média de álcool, e não émuito caro. É garantido que vai causar mais brigas de bar."
 
 # game/script.rpy:3723
 translate pt_br bardrinks_54e8cbaf_3:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Muito bem! Irei preparar as coisas imediatamente."
 
 # game/script.rpy:3728
 translate pt_br bardrinks_bb22c8cb_3:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3732
 translate pt_br bardrinks_0a5892a2:
 
     # "Gin has an average of 36 percent alcohol. While the alcohol percentage is high, the berries cause a soothing reaction. Guaranteed to cause sleepiness."
-    ""
+    "Gin possui uma média de 36 por cento de álcool. Enquanto a porcentagem de álcool seja alta, as bagas causam uma forma de reação calmante. É garantido que vai causar sonolência."
 
 # game/script.rpy:3738
 translate pt_br bardrinks_54e8cbaf_4:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Muito bem! Irei preparar as coisas imediatamente."
 
 # game/script.rpy:3743
 translate pt_br bardrinks_bb22c8cb_4:
@@ -4013,31 +4013,31 @@ translate pt_br bardrinks_bb22c8cb_4:
 translate pt_br bardrinks_14cdd496:
 
     # "Cider has an average of 5 percent alcohol. Sure to bring in some jolly fellows."
-    ""
+    "Cidra possui uma média de 5 por cento de álcool. Com certeza irá deixar as pessoas mais alegres. "
 
 # game/script.rpy:3753
 translate pt_br bardrinks_54e8cbaf_5:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Muito bem! Irei preparar as coisas imediatamente."
 
 # game/script.rpy:3758
 translate pt_br bardrinks_bb22c8cb_5:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3762
 translate pt_br bardrinks_3cb1a198:
 
     # "Spirits have an average of 50 percent alcohol, but are very expensive. Guaranteed more money, but may result in more bar fights."
-    ""
+    "Álcool destilado possui uma média de 50 por cento de álcool, mas é muito caro. É garantido que trará mais dinheiro, mas pode resulyar em mais brigas de bar."
 
 # game/script.rpy:3768
 translate pt_br bardrinks_54e8cbaf_6:
 
     # e "Very well! I'll set things up immediately."
-    e ""
+    e "Muito bem! Irei preparar as coisas imediatamente."
 
 # game/script.rpy:3773
 translate pt_br bardrinks_bb22c8cb_6:
@@ -4049,25 +4049,25 @@ translate pt_br bardrinks_bb22c8cb_6:
 translate pt_br bardrinks_b9d6b2c2:
 
     # "The Cat Maid Outfit is both cute and sexy! Sure to draw attention!"
-    ""
+    "A Roupa de Gata Empregada Doméstica é tanto fofa quanto sexy! Com certeza vai chamar atenção!"
 
 # game/script.rpy:3782
 translate pt_br bardrinks_f465daa1:
 
     # c "This could be good for Moon... I'll have to train her before she can use it though."
-    c ""
+    c "Isso pode ser bom para a Moon... Mas eu vou precisar treiná-la antes de ela poder usar."
 
 # game/script.rpy:3786
 translate pt_br bardrinks_5da4f0e8:
 
     # e "Very well!"
-    e ""
+    e "Muito bem!"
 
 # game/script.rpy:3787
 translate pt_br bardrinks_9e870068:
 
     # "You acquired Moon's Cat Maid Outfit!"
-    ""
+    "Você adquiriu a Roupa de Gata Empregada Doméstica da Moon"
 
 # game/script.rpy:3792
 translate pt_br bardrinks_1d180219:
@@ -4079,43 +4079,43 @@ translate pt_br bardrinks_1d180219:
 translate pt_br bartraining_f5d0a14f:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "O treinamento deve ser feito nas manhãs, quando o bar estiver menos ocupado."
 
 # game/script.rpy:3809
 translate pt_br bartraining_f5d0a14f_1:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "O treinamento deve ser feito nas manhãs, quando o bar estiver menos ocupado."
 
 # game/script.rpy:3817
 translate pt_br bartraining_f5d0a14f_2:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "O treinamento deve ser feito nas manhãs, quando o bar estiver menos ocupado."
 
 # game/script.rpy:3825
 translate pt_br bartraining_870ee9c8:
 
     # c "I need to buy her Maid Cat Outfit first."
-    c ""
+    c "Eu preciso comprar  a Roupa de Gata Empregada Doméstica primeiro."
 
 # game/script.rpy:3828
 translate pt_br bartraining_f5d0a14f_3:
 
     # "Training must be done in the mornings, when the bar is it's least busy."
-    ""
+    "O treinamento deve ser feito nas manhãs, quando o bar estiver menos ocupado."
 
 # game/script.rpy:3838
 translate pt_br bartraining_8e95d97b:
 
     # "It's about time Bart learns how to be a decent bartender..."
-    ""
+    "Já é hora do Bart aprender a se um bartender decente..."
 
 # game/script.rpy:3841
 translate pt_br bartraining_2f720e80:
 
     # e "Very well! I'll hire a bartender trainer right away."
-    e ""
+    e "Muito bem! Irei contratar um treinador de bartender agora mesmo."
 
 # game/script.rpy:3849
 translate pt_br bartraining_bb22c8cb:
@@ -4127,19 +4127,19 @@ translate pt_br bartraining_bb22c8cb:
 translate pt_br bartraining_1793bfdc:
 
     # "Mixology training will encourage the bartender to come up with their own unique alcohol mixes patrons can't get anywhere else."
-    ""
+    "Treino de mixoloogia irá encorajar o bartender a criar suas próprias misturas exclusivas de álcool que os clientes não serão capazes de encontrar em outro lugar nenhum."
 
 # game/script.rpy:3856
 translate pt_br bartraining_e8e07a0d:
 
     # e "Very well! I'll hire a mixologist trainer right away."
-    e ""
+    e "Muito bem! Irei contratar um treinadoor de mixologia imediatamente."
 
 # game/script.rpy:3864
 translate pt_br bartraining_bb22c8cb_1:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:3872
 translate pt_br ellenmusic_d703fe80:
@@ -4637,7 +4637,7 @@ translate pt_br billad_18d0696a:
 translate pt_br billad_afbfe99f:
 
     # c "I don't have enough money for that."
-    c ""
+    c "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4319
 translate pt_br billad_eb6036c8:
@@ -4727,7 +4727,7 @@ translate pt_br billad_fd73721e:
 translate pt_br billad_afbfe99f_1:
 
     # c "I don't have enough money for that."
-    c ""
+    c "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4362
 translate pt_br billad_9ddf83d0:
@@ -4739,7 +4739,7 @@ translate pt_br billad_9ddf83d0:
 translate pt_br billad_afbfe99f_2:
 
     # c "I don't have enough money for that."
-    c ""
+    c "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4373
 translate pt_br billad_d1a6d63b:
@@ -4751,7 +4751,7 @@ translate pt_br billad_d1a6d63b:
 translate pt_br billad_db28ec1d:
 
     # "I don't have enough money for that."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4386
 translate pt_br barmusic_9344e54c:
