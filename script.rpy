@@ -5063,85 +5063,85 @@ translate pt_br floor2menu_d6040254:
 translate pt_br floor2menu_6417464d:
 
     # bot "Hello [botown]! Could you take me to eat somewhere?"
-    bot ""
+    bot "Olá [botown]! Você pode me levar para comer em algum lugar?"
 
 # game/script.rpy:4661
 translate pt_br floor2menu_daaab86f:
 
     # c "Eat?"
-    c ""
+    c "Comer?"
 
 # game/script.rpy:4664
 translate pt_br floor2menu_e418d1d4:
 
     # bot "I know it's weird, but Lin made me something spicy! And it was amazing!"
-    bot ""
+    bot "Eu sei que é estranho, mas a Lin fez algo picante para eu comer! E foi incrível!"
 
 # game/script.rpy:4665
 translate pt_br floor2menu_67b7ed66:
 
     # c "You could taste it?"
-    c ""
+    c "Você pode sentir o gosto? "
 
 # game/script.rpy:4668
 translate pt_br floor2menu_0317b340:
 
     # bot "No, I can't taste, [botown], but I can feel! I felt my mouth all tingly!"
-    bot ""
+    bot "Não, não o sabor, [botwon], mas posso sentir! Eu senti toda a minha boca formigando!"
 
 # game/script.rpy:4669
 translate pt_br floor2menu_943da464:
 
     # bot "So what do you think [botown]? Can you take me somewhere?"
-    bot ""
+    bot "Então o que você acha [botown]? Você pode me levar para algum lugar?"
 
 # game/script.rpy:4672
 translate pt_br floor2menu_b86dedc9:
 
     # bot "Yay! Thank you so much [botown]! I can't wait to drive in your car again!"
-    bot "Yay!"
+    bot "Yay! Obrigadíssima [botown]! Mal posso esperar para andar no seu carro de novo!"
 
 # game/script.rpy:4677
 translate pt_br floor2menu_ba070653:
 
     # bot "I really want to go, [botown]..."
-    bot ""
+    bot "Eu realmente quero ir, [botown]..."
 
 # game/script.rpy:4683
 translate pt_br floor2menu_c9680a30:
 
     # bot "Hello [botown]!"
-    bot ""
+    bot "Olá [botown]!"
 
 # game/script.rpy:4686
 translate pt_br floor2menu_4a3f67f2:
 
     # bot "[botown]... Now that you're my administrator, you know you can tell me do to anything and I would have to do what you said, right...?"
-    bot ""
+    bot "[botown]... Agora que você é meu admnistrador, você sabe que pode me dizer qualquer coisa e eu vou ter que fazer o que você disser, né...?"
 
 # game/script.rpy:4687
 translate pt_br floor2menu_fdbf00f6:
 
     # bot "Like, I don't know..."
-    bot ""
+    bot "Tipo, eu não sei..."
 
 # game/script.rpy:4688
 translate pt_br floor2menu_45aea3f5:
 
     # bot "You could tell me to get down on all fours to fuck my ass and I would have no choice but to obey!"
-    bot ""
+    bot "Você poderia me falar para ficar de quatro para foder minha bunda e eu não teria escolha a não ser obedecer!"
 
 # game/script.rpy:4689
 translate pt_br floor2menu_58b860f9:
 
     # c "Couldn't I have done that before?"
-    c ""
+    c "Eu já não podia fazer isso antes?"
 
 # game/script.rpy:4690
 translate pt_br floor2menu_4cb4c033:
 
     # bot "{size=-10}{i}Shhh! Play along [botown]!{/i}{/size}"
-    bot ""
+    bot "{size=-10}{i}Shhh! Entra na brincadeira [botown]! {/i}{/size}"
 
 # game/script.rpy:4693
 translate pt_br floor2menu_4e48e980:
