@@ -4145,13 +4145,13 @@ translate pt_br bartraining_bb22c8cb_1:
 translate pt_br ellenmusic_d703fe80:
 
     # "The surround sound system will ensure all parts of the bar will equally receive the optimal volume of music, encouraging patrons to sit wherever they like."
-    ""
+    "O sistema de som surround vai garantir que todas as partes do bar irão receber o volume ideal de música, encorajando os clientees a sentar onde eles quiserem."
 
 # game/script.rpy:3876
 translate pt_br ellenmusic_52c9645c:
 
     # e "Very well! I'll get the surround sound system set up immediately."
-    e ""
+    e "Muito bem! Vou preparar o sistema de som surround imediatamente. "
 
 # game/script.rpy:3882
 translate pt_br ellenmusic_bb22c8cb:
@@ -4163,109 +4163,109 @@ translate pt_br ellenmusic_bb22c8cb:
 translate pt_br ellenmusic_fccd04f8:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Você gostaria de ouvir antes de comprá-la?"
 
 # game/script.rpy:3897
 translate pt_br ellenmusic_81f616cd:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "Então, você gostaria de comprá-lo?"
 
 # game/script.rpy:3900
 translate pt_br ellenmusic_5da4f0e8:
 
     # e "Very well!"
-    e ""
+    e "Muito bem!"
 
 # game/script.rpy:3904
 translate pt_br ellenmusic_6406a8d5:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:3907
 translate pt_br ellenmusic_7b519c4a:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:3917
 translate pt_br ellenmusic_7b519c4a_1:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]"
 
 # game/script.rpy:3925
 translate pt_br ellenmusic_6406a8d5_1:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:3928
 translate pt_br ellenmusic_7b519c4a_2:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:3937
 translate pt_br ellenmusic_7b519c4a_3:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:3942
 translate pt_br ellenmusic_fccd04f8_1:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Você gostaria de ouvir antes de comprá-la?"
 
 # game/script.rpy:3951
 translate pt_br ellenmusic_81f616cd_1:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "Então, você gostaria de comprá-lo?"
 
 # game/script.rpy:3954
 translate pt_br ellenmusic_5da4f0e8_1:
 
     # e "Very well!"
-    e ""
+    e "Muito bem!"
 
 # game/script.rpy:3958
 translate pt_br ellenmusic_6406a8d5_2:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:3961
 translate pt_br ellenmusic_7b519c4a_4:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:3970
 translate pt_br ellenmusic_7b519c4a_5:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:3978
 translate pt_br ellenmusic_6406a8d5_3:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:3981
 translate pt_br ellenmusic_7b519c4a_6:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:3991
 translate pt_br ellenmusic_7b519c4a_7:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:3994
 translate pt_br ellenmusic_bb22c8cb_1:
@@ -4277,55 +4277,55 @@ translate pt_br ellenmusic_bb22c8cb_1:
 translate pt_br ellenmusic_fccd04f8_2:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Você gostaria de ouvir antes de comprá-la?"
 
 # game/script.rpy:4007
 translate pt_br ellenmusic_81f616cd_2:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "Então, você gostaria de comprá-lo?"
 
 # game/script.rpy:4010
 translate pt_br ellenmusic_5da4f0e8_2:
 
     # e "Very well!"
-    e ""
+    e "Muito bem!"
 
 # game/script.rpy:4014
 translate pt_br ellenmusic_6406a8d5_4:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4017
 translate pt_br ellenmusic_7b519c4a_8:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4027
 translate pt_br ellenmusic_7b519c4a_9:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4035
 translate pt_br ellenmusic_6406a8d5_5:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4038
 translate pt_br ellenmusic_7b519c4a_10:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4047
 translate pt_br ellenmusic_7b519c4a_11:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4050
 translate pt_br ellenmusic_bb22c8cb_2:
@@ -4337,55 +4337,55 @@ translate pt_br ellenmusic_bb22c8cb_2:
 translate pt_br ellenmusic_fccd04f8_3:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4063
 translate pt_br ellenmusic_81f616cd_3:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "Então, você gostaria de comprá-lo?"
 
 # game/script.rpy:4066
 translate pt_br ellenmusic_5da4f0e8_3:
 
     # e "Very well!"
-    e ""
+    e "Muito bem!"
 
 # game/script.rpy:4070
 translate pt_br ellenmusic_6406a8d5_6:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4073
 translate pt_br ellenmusic_7b519c4a_12:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4083
 translate pt_br ellenmusic_7b519c4a_13:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4091
 translate pt_br ellenmusic_6406a8d5_7:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4094
 translate pt_br ellenmusic_7b519c4a_14:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4103
 translate pt_br ellenmusic_7b519c4a_15:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4106
 translate pt_br ellenmusic_bb22c8cb_3:
@@ -4397,55 +4397,55 @@ translate pt_br ellenmusic_bb22c8cb_3:
 translate pt_br ellenmusic_fccd04f8_4:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Você gostaria de ouvir antes de comprá-la?"
 
 # game/script.rpy:4119
 translate pt_br ellenmusic_81f616cd_4:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "Então, você gostaria de comprá-lo?"
 
 # game/script.rpy:4122
 translate pt_br ellenmusic_5da4f0e8_4:
 
     # e "Very well!"
-    e ""
+    e "Muito bem!"
 
 # game/script.rpy:4126
 translate pt_br ellenmusic_6406a8d5_8:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4129
 translate pt_br ellenmusic_7b519c4a_16:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4139
 translate pt_br ellenmusic_7b519c4a_17:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4147
 translate pt_br ellenmusic_6406a8d5_9:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4150
 translate pt_br ellenmusic_7b519c4a_18:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4159
 translate pt_br ellenmusic_7b519c4a_19:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4162
 translate pt_br ellenmusic_bb22c8cb_4:
@@ -4457,55 +4457,55 @@ translate pt_br ellenmusic_bb22c8cb_4:
 translate pt_br ellenmusic_fccd04f8_5:
 
     # e "Would you like to listen to it before you buy it?"
-    e ""
+    e "Você gostaria de ouvir antes de comprá-la?"
 
 # game/script.rpy:4175
 translate pt_br ellenmusic_81f616cd_5:
 
     # e "So, would you like to buy it?"
-    e ""
+    e "Então, você gostaria de comprá-lo?"
 
 # game/script.rpy:4178
 translate pt_br ellenmusic_5da4f0e8_5:
 
     # e "Very well!"
-    e ""
+    e "Muito bem!"
 
 # game/script.rpy:4182
 translate pt_br ellenmusic_6406a8d5_10:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4185
 translate pt_br ellenmusic_7b519c4a_20:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4195
 translate pt_br ellenmusic_7b519c4a_21:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4203
 translate pt_br ellenmusic_6406a8d5_11:
 
     # e "Would you like to play this music in the bar?"
-    e ""
+    e "Você gostaria de tocar essa música no bar?"
 
 # game/script.rpy:4206
 translate pt_br ellenmusic_7b519c4a_22:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4215
 translate pt_br ellenmusic_7b519c4a_23:
 
     # e "Alright, have a good day [name]."
-    e ""
+    e "Certo, tenha um bom dia [name]."
 
 # game/script.rpy:4218
 translate pt_br ellenmusic_bb22c8cb_5:
@@ -4517,43 +4517,43 @@ translate pt_br ellenmusic_bb22c8cb_5:
 translate pt_br cellad_5a57c11f:
 
     # e "Very well! We'll start advertising immediately!"
-    e ""
+    e "Muito bem! Vamos começar a anunciar imediatamente!"
 
 # game/script.rpy:4235
 translate pt_br cellad_63cb3757:
 
     # "Spending money on advertisements is a great way to bring in more patrons! The more money you spend, the more money you'll get!"
-    ""
+    "Gastar dinheiro em anúncios é uma ótima forma de trazer mais clientes! Quanto mais dinheiro você gasta, mais você consegue!"
 
 # game/script.rpy:4240
 translate pt_br cellad_bb22c8cb:
 
     # "I don't have enough money for that..."
-    ""
+    "Eu não tenho dinheiro suficiente para isso..."
 
 # game/script.rpy:4243
 translate pt_br cellad_c71cdaaf:
 
     # "I'm already advertising this."
-    ""
+    "Eu já estou anunciando isso."
 
 # game/script.rpy:4246
 translate pt_br cellad_40df535c:
 
     # "I'm already advertising something else."
-    ""
+    "Eu já estou anunciando outra coisa."
 
 # game/script.rpy:4256
 translate pt_br tvad_5a57c11f:
 
     # e "Very well! We'll start advertising immediately!"
-    e ""
+    e "Muito bem! Vamos começar a anunciar imediatamente!"
 
 # game/script.rpy:4259
 translate pt_br tvad_63cb3757:
 
     # "Spending money on advertisements is a great way to bring in more patrons! The more money you spend, the more money you'll get!"
-    ""
+    "Gastar dinheiro em anúncios é uma ótima forma de trazer mais clientes! Quanto mais dinheiro você gasta, mais você consegue!"
 
 # game/script.rpy:4264
 translate pt_br tvad_bb22c8cb:
@@ -4565,25 +4565,25 @@ translate pt_br tvad_bb22c8cb:
 translate pt_br tvad_c71cdaaf:
 
     # "I'm already advertising this."
-    ""
+    "Eu já estou anunciando isso."
 
 # game/script.rpy:4270
 translate pt_br tvad_40df535c:
 
     # "I'm already advertising something else."
-    ""
+    "Eu já estou anunciando outra coisa."
 
 # game/script.rpy:4280
 translate pt_br billad_5a57c11f:
 
     # e "Very well! We'll start advertising immediately!"
-    e ""
+    e "Muito bem! Vamos começar a anunciar imediatamente!"
 
 # game/script.rpy:4283
 translate pt_br billad_63cb3757:
 
     # "Spending money on advertisements is a great way to bring in more patrons! The more money you spend, the more money you'll get!"
-    ""
+    "Gastar dinheiro em anúncios é uma ótima forma de trazer mais clientes! Quanto mais dinheiro você gasta, mais você consegue!"
 
 # game/script.rpy:4288
 translate pt_br billad_bb22c8cb:
@@ -4595,43 +4595,43 @@ translate pt_br billad_bb22c8cb:
 translate pt_br billad_c71cdaaf:
 
     # "I'm already advertising this."
-    ""
+    "Eu já estou anunciando isso."
 
 # game/script.rpy:4294
 translate pt_br billad_40df535c:
 
     # "I'm already advertising something else."
-    ""
+    "Eu já estou anunciando outra coisa."
 
 # game/script.rpy:4299
 translate pt_br billad_388554f6:
 
     # e "Very well, I'll pull out on all of the advertisements."
-    e ""
+    e "Muito be, irei retirar todos os anúncios."
 
 # game/script.rpy:4308
 translate pt_br billad_016e0056:
 
     # e "Oh, someone is finally taking an interest in the old garden, wonderful!"
-    e ""
+    e "Ah, alguem finalmente está se interessando pelo antigo jardim, maravilhoso!"
 
 # game/script.rpy:4309
 translate pt_br billad_22b443a4:
 
     # e "With this money, we'll be able to buy furnishing for the seating area. Some tables, chairs, lighting, and so on."
-    e ""
+    e "Com esse dinheiro, nós seremos capazes de comprar móveis para a área de descanso. Algumas mesas, cadeiras, luzes, e etc."
 
 # game/script.rpy:4310
 translate pt_br billad_7f94ef9f:
 
     # c "Add raised garden beds to the list too. Lin wants to grow a few flowers."
-    c ""
+    c "Adicione alguns canteiros de jardim elevados também. A Lin gostaria de plantar algumas flores. "
 
 # game/script.rpy:4311
 translate pt_br billad_18d0696a:
 
     # e "We can absolutely do that. The renovation should take no longer than three or four days. Would you still like to make this purchase?"
-    e ""
+    e "Nós com certeza podemos fazer isso. A renovação não deve levar mais de três ou quatro dias. Você ainda gostaria de fazer essa compra?"
 
 # game/script.rpy:4315
 translate pt_br billad_afbfe99f:
@@ -4643,67 +4643,67 @@ translate pt_br billad_afbfe99f:
 translate pt_br billad_eb6036c8:
 
     # e "Very well! I'll make the necessary phone calls right away."
-    e ""
+    e "Muito bem! Irei fazer as chamadas telefônicas necessárias agora mesmo."
 
 # game/script.rpy:4329
 translate pt_br billad_68732bea:
 
     # e "Oh! The bar? I'm so happy you're finally buying it!"
-    e ""
+    e "Ah! O bar? Eu estou tão feliz que você finalmente vai comprá-lo!"
 
 # game/script.rpy:4330
 translate pt_br billad_b17a8e70:
 
     # e "Before it was depredated, I loved hanging out in there. So many interesting people would come by!"
-    e ""
+    e "Antes de isso ser destruído, eu amava passear aqui. Sempre apareciam pessoas tão interessantes!"
 
 # game/script.rpy:4331
 translate pt_br billad_a256b1a2:
 
     # e "And some of us girls would get a little tipsy from time to time... Haha..."
-    e ""
+    e "E umas de nós garotas ficavamos bêbadas de vez em quando... Haha..."
 
 # game/script.rpy:4333
 translate pt_br billad_78070575:
 
     # e "In any case, I'll contact a construction agency, they should have it done by tomorrow morning."
-    e ""
+    e "De qualquer forma, eu vou contatar a agência de construção, eles devem terminar tudo amanhã de manhã."
 
 # game/script.rpy:4334
 translate pt_br billad_97db9582:
 
     # e "I should warn you though, the bar is going to be fairly bare bones at the beginning, you may even lose some money. But once you start buying high quality alcohol and training the staff, it will definitely give you profits!"
-    e ""
+    e "Mas eu preciso te avisar, o bar vai ser bem básico no início, você pode até perder algum dinheiro. Mas uma vez que você começar a comprar álcool de alta qualidade e treinar a equipe, Com certeza vai te dar lucros!"
 
 # game/script.rpy:4335
 translate pt_br billad_3e09066e:
 
     # e "Speaking of that, the bar has a variety of upgrades you can purchase. From entertainment like music, to top shelf spirits."
-    e ""
+    e "Falando nisso, o bar possui uma variedade de melhorias que você pode comprar. Desde entretenimento como música, á destilados das melhores marcas servidas. "
 
 # game/script.rpy:4336
 translate pt_br billad_5e109c46:
 
     # e "You may also want to advertise the bar once you have all of these upgrades. It'll cost a pretty penny, but the profits should be worth it!"
-    e ""
+    e "Você também pode querer anunciar o bar depoois que você tiver todas essas melhorias. Isso vai ser bem caro, mas os lucros irão fazer valer a pena!"
 
 # game/script.rpy:4337
 translate pt_br billad_dec1967e:
 
     # e "You'll get an earnings report every Monday as well."
-    e ""
+    e "Você vai receber um relatório de ganho todas as Segundas-Feiras."
 
 # game/script.rpy:4338
 translate pt_br billad_659d6faf:
 
     # e "Oh, and don't worry about hiring staff, I'll do all of that work."
-    e ""
+    e "Ah, e não se preocupe em contratar a equipe, eu farei todo esse trabalho."
 
 # game/script.rpy:4339
 translate pt_br billad_755696db:
 
     # e "Well, I'll get to it then!"
-    e ""
+    e "Bem, irei começar tudo então!"
 
 # game/script.rpy:4345
 translate pt_br billad_bb22c8cb_1:
@@ -4715,13 +4715,13 @@ translate pt_br billad_bb22c8cb_1:
 translate pt_br billad_d94e9fd4:
 
     # e "Oh, a completely new building? Well, we have the property space for it, so why not."
-    e ""
+    e "Ah, uma construção completamente nova? Bem, nós temos o espaçõ de propriedade para isso, então por que não?"
 
 # game/script.rpy:4351
 translate pt_br billad_fd73721e:
 
     # e "I'll contact a carpentry agency right away, but a building this size may take a couple days."
-    e ""
+    e "Ire contatar uma agência de carpinteiros imediatamente, mas uma construir algo desse tamanho vai levar alguns dias."
 
 # game/script.rpy:4357
 translate pt_br billad_afbfe99f_1:
@@ -4733,7 +4733,7 @@ translate pt_br billad_afbfe99f_1:
 translate pt_br billad_9ddf83d0:
 
     # e "Oh you're interested in expanding the hotel? Very well, I'll contact a construction company right away! Everything should be done first thing in the morning!"
-    e ""
+    e "Então você está interessado em expandir o hotel? Muito bem, irei contatar uma companhia de construção imediatamente! Tudo deve estar pronto logo pela manhã!"
 
 # game/script.rpy:4368
 translate pt_br billad_afbfe99f_2:
@@ -4745,7 +4745,7 @@ translate pt_br billad_afbfe99f_2:
 translate pt_br billad_d1a6d63b:
 
     # e "Ohh~ The dungeon? I see you have some special plans for someone... Very well, I'll contact the cleaners. Everything should be ready in a couple of hours!"
-    e ""
+    e "Ahh~ O calabouço? Parece que voc~e tem planos especiais para alguem... Muito bem, irei contatar os faxineiros. Tudo dee estar pronto em algumas horas!"
 
 # game/script.rpy:4379
 translate pt_br billad_db28ec1d:
@@ -4757,307 +4757,307 @@ translate pt_br billad_db28ec1d:
 translate pt_br barmusic_9344e54c:
 
     # c "I need to buy all the music in order to shuffle them."
-    c ""
+    c "Eu preciso comprar todas as musicas em ordem para embaralhá-las."
 
 # game/script.rpy:4391
 translate pt_br barmusic_af3765f7:
 
     # e "Very well, the music will be shuffled."
-    e ""
+    e "Muito bem , as músicaas serão embaralhadas."
 
 # game/script.rpy:4398
 translate pt_br barmusic_b6d90cbe:
 
     # e "Very well, the music will not be shuffled. What music would you like to play?"
-    e ""
+    e "Muito bem, as músicas não serão embaralhadas. Qual música você gostaria de tocar?"
 
 # game/script.rpy:4403
 translate pt_br barmusic_3b406df6:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Muito bem, a música foi trocada."
 
 # game/script.rpy:4407
 translate pt_br barmusic_3b406df6_1:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Muito bem, a música foi trocada."
 
 # game/script.rpy:4411
 translate pt_br barmusic_3b406df6_2:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Muito bem, a música foi trocada."
 
 # game/script.rpy:4415
 translate pt_br barmusic_3b406df6_3:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Muito bem, a música foi trocada."
 
 # game/script.rpy:4419
 translate pt_br barmusic_3b406df6_4:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Muito bem, a música foi trocada."
 
 # game/script.rpy:4423
 translate pt_br barmusic_3b406df6_5:
 
     # e "Very well, the music has been changed."
-    e ""
+    e "Muito bem, a música foi trocada."
 
 # game/script.rpy:4430
 translate pt_br barmusic_75357321:
 
     # e "Are you sure? There's no backing out once you accept his challenge."
-    e ""
+    e "Você tem certeza. Não tem como voltar atrás depois que você aceitar o desafio dele. "
 
 # game/script.rpy:4433
 translate pt_br barmusic_1221f234:
 
     # e "Very well, I'll contact him right away."
-    e ""
+    e "Muito bem, irei contatar ele imediatamente."
 
 # game/script.rpy:4436
 translate pt_br barmusic_5099ecbb:
 
     # e "Alright, just let me know when you're ready."
-    e ""
+    e "Certo, apenas avise quando você estiver pronto."
 
 # game/script.rpy:4476
 translate pt_br prefloor2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu deveria ir dormir."
 
 # game/script.rpy:4492
 translate pt_br floor2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu deveria ir dormir."
 
 # game/script.rpy:4521
 translate pt_br floor2menu_35e2ae73:
 
     # "You are here."
-    ""
+    "Você está aqui."
 
 # game/script.rpy:4530
 translate pt_br floor2menu_7344295e:
 
     # c "I need to buy this upgrade first."
-    c ""
+    c "Eu preciso comprar essa melhoria primeiro."
 
 # game/script.rpy:4542
 translate pt_br floor2menu_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/script.rpy:4543
 translate pt_br floor2menu_9d7c40b2:
 
     # "You hear nothing but silence. You're not even sure if she's in there..."
-    ""
+    "Você não ouve nada além de silêncio. Você mal sabe se ela está alí..."
 
 # game/script.rpy:4546
 translate pt_br floor2menu_ecf18235_1:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/script.rpy:4547
 translate pt_br floor2menu_9d7c40b2_1:
 
     # "You hear nothing but silence. You're not even sure if she's in there..."
-    ""
+    "Você não ouve nada além de silêncio. Você mal sabe se ela está ali..."
 
 # game/script.rpy:4551
 translate pt_br floor2menu_398870a2:
 
     # m "AAAHHH! MMMMN!"
-    m ""
+    m "AAAHHH! MMMMN!"
 
 # game/script.rpy:4552
 translate pt_br floor2menu_233808d7:
 
     # "It sounds like something is going on in Maria's room..."
-    ""
+    "Parece que tem alguma coisa aacontecendo no quarto da Maria..."
 
 # game/script.rpy:4558
 translate pt_br floor2menu_4f1016b8:
 
     # c "She's not back yet."
-    c ""
+    c "Ela não voltou ainda."
 
 # game/script.rpy:4563
 translate pt_br floor2menu_d3aa724f:
 
     # bot "Go away! I hate you!"
-    bot ""
+    bot "Vai embora! Eu te odeio!"
 
 # game/script.rpy:4564
 translate pt_br floor2menu_4b987723:
 
     # c "I should raise her obedience in the kitchen."
-    c ""
+    c "Eu devo aumentar a obediência dela na cozinha."
 
 # game/script.rpy:4568
 translate pt_br floor2menu_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4569
 translate pt_br floor2menu_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:4574
 translate pt_br floor2menu_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4575
 translate pt_br floor2menu_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:4582
 translate pt_br floor2menu_cc425e1b:
 
     # "I should raise Lin's friendship."
-    ""
+    "Eu preciso aumentar a amizade da Lin."
 
 # game/script.rpy:4584
 translate pt_br floor2menu_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4585
 translate pt_br floor2menu_0f1ab147:
 
     # c "I think I saw her heading to the kitchen."
-    c ""
+    c "Acho que vi ela indo para a cozinha."
 
 # game/script.rpy:4590
 translate pt_br floor2menu_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4591
 translate pt_br floor2menu_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Ela provavelmente  está tomando banho."
 
 # game/script.rpy:4597
 translate pt_br floor2menu_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4598
 translate pt_br floor2menu_947378e7:
 
     # c "I think I saw her heading to Kali's room."
-    c ""
+    c "Eu acho que vi ela indo para o quarto da Kali."
 
 # game/script.rpy:4604
 translate pt_br floor2menu_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4605
 translate pt_br floor2menu_947378e7_1:
 
     # c "I think I saw her heading to Kali's room."
-    c ""
+    c "Eu acho que vi ela indo para o quarto da Kali."
 
 # game/script.rpy:4609
 translate pt_br floor2menu_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4610
 translate pt_br floor2menu_3590981d:
 
     # c "I think I saw her going into the hot springs."
-    c ""
+    c "Eu acho que vi ela indo para as fontes termais"
 
 # game/script.rpy:4614
 translate pt_br floor2menu_b5f50750_7:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4615
 translate pt_br floor2menu_4663eb93:
 
     # c "I think I saw her heading to the laundry room."
-    c ""
+    c "Eu acho que vi ela indo para a lavanderia"
 
 # game/script.rpy:4621
 translate pt_br floor2menu_debbd9b2:
 
     # c "[botname] is in the kitchen right now."
-    c ""
+    c "[botname] está na cozinha agora."
 
 # game/script.rpy:4624
 translate pt_br floor2menu_31abc389:
 
     # c "I think I saw [botname] heading towards Kali's room."
-    c ""
+    c "Eu acho que vi a [botname] indo para o quarto da Kali."
 
 # game/script.rpy:4630
 translate pt_br floor2menu_ac90ad65:
 
     # bot "Come in!"
-    bot ""
+    bot "Entre!"
 
 # game/script.rpy:4635
 translate pt_br floor2menu_3125404d:
 
     # "I should raise Kali's friendship..."
-    ""
+    "Eu preciso aumenatar a amizade da Kali..."
 
 # game/script.rpy:4639
 translate pt_br floor2menu_a9e0c1ae:
 
     # c "I need to wait for Maria."
-    c ""
+    c "Eu preciso esperar pela Maria."
 
 # game/script.rpy:4643
 translate pt_br floor2menu_e09cc6d8:
 
     # c "I need to buy the Human Kit on the computer."
-    c ""
+    c "Eu preciso comprar o Kit Humano no computador."
 
 # game/script.rpy:4650
 translate pt_br floor2menu_5cd044bf:
 
     # bot "Did you get it!?"
-    bot ""
+    bot "Você conseguiu!?"
 
 # game/script.rpy:4651
 translate pt_br floor2menu_9aa7a3a2:
 
     # c "I did."
-    c ""
+    c "Eu consegui."
 
 # game/script.rpy:4652
 translate pt_br floor2menu_d6040254:
 
     # bot "Yay! I'll try it on!"
-    bot "Yay!"
+    bot "Yay! Eu vou experimentar!"
 
 # game/script.rpy:4660
 translate pt_br floor2menu_6417464d:
@@ -5411,7 +5411,7 @@ translate pt_br floor2menu_053432b7:
 translate pt_br floor2menu_b5f50750_8:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:4805
 translate pt_br floor2menu_d3681452:
@@ -6143,7 +6143,7 @@ translate pt_br floor2menu_c872e953:
 translate pt_br floor2menu_b5f50750_9:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5127
 translate pt_br floor2menu_883e5c6a:
@@ -6155,7 +6155,7 @@ translate pt_br floor2menu_883e5c6a:
 translate pt_br floor2menu_b5f50750_10:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5132
 translate pt_br floor2menu_d19e7f54:
@@ -6347,7 +6347,7 @@ translate pt_br floor2menu_c872e953_1:
 translate pt_br floor2menu_b5f50750_11:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5223
 translate pt_br floor2menu_26e9581e:
@@ -6395,7 +6395,7 @@ translate pt_br floor2menu_f2317453_1:
 translate pt_br floor2menu_b5f50750_12:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5252
 translate pt_br floor2menu_883e5c6a_1:
@@ -6407,7 +6407,7 @@ translate pt_br floor2menu_883e5c6a_1:
 translate pt_br floor2menu_b5f50750_13:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5259
 translate pt_br floor2menu_f3e9fbf0:
@@ -6419,7 +6419,7 @@ translate pt_br floor2menu_f3e9fbf0:
 translate pt_br floor2menu_b5f50750_14:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5266
 translate pt_br floor2menu_b2619f63:
@@ -6431,7 +6431,7 @@ translate pt_br floor2menu_b2619f63:
 translate pt_br floor2menu_b5f50750_15:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5270
 translate pt_br floor2menu_b2619f63_1:
@@ -6443,7 +6443,7 @@ translate pt_br floor2menu_b2619f63_1:
 translate pt_br floor2menu_b5f50750_16:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5274
 translate pt_br floor2menu_eaff4787:
@@ -6455,7 +6455,7 @@ translate pt_br floor2menu_eaff4787:
 translate pt_br floor2menu_b5f50750_17:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5278
 translate pt_br floor2menu_eaff4787_1:
@@ -6467,7 +6467,7 @@ translate pt_br floor2menu_eaff4787_1:
 translate pt_br floor2menu_b5f50750_18:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5283
 translate pt_br floor2menu_cce1e909:
