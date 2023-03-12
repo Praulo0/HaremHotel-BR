@@ -5141,193 +5141,193 @@ translate pt_br floor2menu_58b860f9:
 translate pt_br floor2menu_4cb4c033:
 
     # bot "{size=-10}{i}Shhh! Play along [botown]!{/i}{/size}"
-    bot "{size=-10}{i}Shhh! Entra na brincadeira [botown]! {/i}{/size}"
+    bot "{size=-10}{i}Shhh! Entra no jogo [botown]! {/i}{/size}"
 
 # game/script.rpy:4693
 translate pt_br floor2menu_4e48e980:
 
     # bot "My butt has never been used before [botown]! And I definitely want to keep it like that!"
-    bot ""
+    bot "Meu traseiro nunca foi usado antes [botown]! E eu definitivamente quero mantê-lo assim!"
 
 # game/script.rpy:4696
 translate pt_br floor2menu_e9f678be:
 
     # bot "Sooo... Don't you ever make me do that!"
-    bot ""
+    bot "Entããão... Nunca me obrigue a fazer isso!"
 
 # game/script.rpy:4697
 translate pt_br floor2menu_4cda3cef:
 
     # bot "Because... Because it would feel really good for you! It's very tight, and always clean!"
-    bot ""
+    bot "Porquê... Porque isso seria muito gostoso pra você! É muito apertado, e sempre limpo!"
 
 # game/script.rpy:4700
 translate pt_br floor2menu_f0c97895:
 
     # bot "But would it feel good for me? I don't want to find out! A penis definitely doesn't belong there!"
-    bot ""
+    bot "Mas isso seria gostoso pra mim? Eu não quero descobrir! Um pênis definitivamente não pertence lá!"
 
 # game/script.rpy:4701
 translate pt_br floor2menu_45aee14e:
 
     # bot "You know that, right? It would be very naughty!"
-    bot ""
+    bot "Você sabe disso, né? Isso seria muito pervertido!"
 
 # game/script.rpy:4702
 translate pt_br floor2menu_18f2d1ae:
 
     # bot "And..."
-    bot ""
+    bot "E..."
 
 # game/script.rpy:4705
 translate pt_br floor2menu_5a462831:
 
     # bot "And... {size=-10}{i}And, um... And...{/i}{/size} And it would be too tight! {size=-10}{i}Did I already mention that?{/i}{/size}"
-    bot ""
+    bot "E... {size=-10}{i}E, hum... E {/i}{/size} E seria muito apertado! {size=-10}{-10}Eu já mencionei isso??{/i}{/size}"
 
 # game/script.rpy:4706
 translate pt_br floor2menu_7077dba0:
 
     # bot "{size=-10}{i}Ummmm... Hm. What else... I probably should have planned this better...{/i}{/size}"
-    bot ""
+    bot "{size=-q0}{i}Hummmm... Hm. O que mais... EU provavelmente dia ter planejado isso melhor...{/i}{/size}"
 
 # game/script.rpy:4711
 translate pt_br floor2menu_00a6134a:
 
     # bot "*gasp*! Oh! Oh no! I don't have any choice do I! Oh well... I have to obey!"
-    bot ""
+    bot "*espanto! Ah! Ah não! Eu não tenho nenhuma escolha, tenho? Enfim... Eu tenho que obedecer!"
 
 # game/script.rpy:4713
 translate pt_br floor2menu_c3472e19:
 
     # bot "Wait! Before we start, I want to take off my mask!"
-    bot ""
+    bot "Espera! Antes de começarmos, eu quero tirar a minha máscara!"
 
 # game/script.rpy:4715
 translate pt_br floor2menu_5f4911e2:
 
     # bot "Okay! You can fuck me now."
-    bot ""
+    bot "Tudo bem! Você pode me foder agora."
 
 # game/script.rpy:4718
 translate pt_br floor2menu_7cb42ce3:
 
     # bot "Hnnn, it's okay [botown]! You don't need to be gentle. It doesn't hurt me."
-    bot ""
+    bot "Hnnn, está tudo bem [botwon]! Você não precisa ser gentil. Isso não me machuca."
 
 # game/script.rpy:4719
 translate pt_br floor2menu_47fcb1c6:
 
     # bot "Just jam it in, [botown]! You can be as rough as you want!"
-    bot ""
+    bot "Só enfia dentro, [botown]! Você pode ser violento o quanto quiser!"
 
 # game/script.rpy:4721
 translate pt_br floor2menu_8a3c4b8a:
 
     # bot "Ahh! Hnn!"
-    bot ""
+    bot "Ahh! Hnn!"
 
 # game/script.rpy:4722
 translate pt_br floor2menu_8087233f:
 
     # bot "It feels good, right? It's a completely different texture! Ribbed for his pleasure, hehe!"
-    bot ""
+    bot "Isso é gostoso, né? É uma textura completamente diferente! É ajustado para o prazer do homem, hehe!"
 
 # game/script.rpy:4723
 translate pt_br floor2menu_03874dee:
 
     # bot "Nnn! It feels really good for me, too!"
-    bot ""
+    bot "Nnn! Isso é muito gostoso para mim, também!"
 
 # game/script.rpy:4724
 translate pt_br floor2menu_0396201b:
 
     # bot "Ahhh! Mmmm! [botown]!"
-    bot ""
+    bot "Ahhh! Mmmm! [botown]!"
 
 # game/script.rpy:4727
 translate pt_br floor2menu_9cc78dcb:
 
     # bot "Hahh! Mmm! You can't take it, right? It feels so good? Mmm!"
-    bot ""
+    bot "Hahh! Mmm! Não consegue aguentar, né? É tão bom assim? Mmm!"
 
 # game/script.rpy:4728
 translate pt_br floor2menu_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot ""
+    bot "[botown]! Ahh! [botown], isso! Fode a minha bunda com força!"
 
 # game/script.rpy:4729
 translate pt_br floor2menu_29c1d9cd:
 
     # bot "[botown]! I want you to cum inside... I want you to cum inside!"
-    bot ""
+    bot "[botown]! Eu quero que você goze dentro... Eu quero que você goze dentro!"
 
 # game/script.rpy:4731
 translate pt_br floor2menu_428b93a4:
 
     # bot "Treat me like your personal cum dumpster and cum inside!!!"
-    bot ""
+    bot "Me trata que nem seu depósito de porra e goza dentro!!!"
 
 # game/script.rpy:4735
 translate pt_br floor2menu_d45b331b:
 
     # bot "AHHH!" with ssshake
-    bot "" with ssshake
+    bot "AHHH!" with ssshake
 
 # game/script.rpy:4736
 translate pt_br floor2menu_0e33a937:
 
     # bot "NNN! HAH!" with ssshake
-    bot "" with ssshake
+    bot "NNN! HAH!" with ssshake
 
 # game/script.rpy:4737
 translate pt_br floor2menu_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "" with ssshake
+    bot "Me enche, [botown]!!!" with ssshake
 
 # game/script.rpy:4739
 translate pt_br floor2menu_62e50ac5:
 
     # bot "Ahhh... Hahhh... That was amazing!"
-    bot ""
+    bot "Ahhh... Hahhh... Isso foi incrível!"
 
 # game/script.rpy:4743
 translate pt_br floor2menu_842c6a7c:
 
     # bot "Ahhnnn!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahhnnn!!!" with ssshake
 
 # game/script.rpy:4744
 translate pt_br floor2menu_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot ""
+    bot "Ahh, [botown]... Seu gozo é tão quentinho..."
 
 # game/script.rpy:4749
 translate pt_br floor2menu_96ec7f09:
 
     # bot "Phew... That was fun!"
-    bot ""
+    bot "Ufa... Isso foi divertido!"
 
 # game/script.rpy:4750
 translate pt_br floor2menu_3a57fec1:
 
     # c "I'm surprised it wasn't uncomfortable for your first time."
-    c ""
+    c "Eu estou surpreso que não foi desconfortável para a sua primeira vez."
 
 # game/script.rpy:4752
 translate pt_br floor2menu_fc01ad95:
 
     # bot "That's really simple! My anus isn't real. I don't need food, after all."
-    bot ""
+    bot "Isso é muito simples! O meu ânus não é de verdade. Afinal, eu não preciso de comida."
 
 # game/script.rpy:4754
 translate pt_br floor2menu_3de4c05d:
 
     # bot "I guess you could think of my anus as a fleshlight, or an onahole. It's only purpose is pleasure..."
-    bot ""
+    bot "Eu acho que você pode pensar no meu ânus como uma fleshlight, ou um onahole. O único propósito dele é prazer..."
 
 # game/script.rpy:4756
 translate pt_br floor2menu_34ee2709:
