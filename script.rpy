@@ -5333,79 +5333,79 @@ translate pt_br floor2menu_3de4c05d:
 translate pt_br floor2menu_34ee2709:
 
     # bot "Your grandfather thought it would be nice to have a realistic texture, like my vagina, and a crazy texture! That's why he made my anus!"
-    bot ""
+    bot "O seu avô imaginou que serie legal ter uma textura realista, como minha vagina, e uma textura maluca! É por isso que ele fez o meu ânus!"
 
 # game/script.rpy:4757
 translate pt_br floor2menu_5bcf3e80:
 
     # bot "Maybe anus isn't the right word... You could call it a fuck hole! That's its only purpose after all!"
-    bot ""
+    bot "Talvez ânus não seja a palavra certa... Você poderia chamar isso de um buraco de foda! Afinal, esse é o único propósito!"
 
 # game/script.rpy:4758
 translate pt_br floor2menu_19fe25e0:
 
     # bot "You could even switch out the textures if you found some!"
-    bot ""
+    bot "Você pode até trocar as texturas se você encontrar alguma!"
 
 # game/script.rpy:4760
 translate pt_br floor2menu_49a2107b:
 
     # bot "That was really fun, [botown]... I hope we can do it again sometime."
-    bot ""
+    bot "Isso realmente foi divertido, [botown]... Eu espero que possamos fazer isso de novo alguma vez."
 
 # game/script.rpy:4767
 translate pt_br floor2menu_00dc9b11:
 
     # bot "What!? It didn't work!?"
-    bot ""
+    bot "O quê!? Não funcionou?!"
 
 # game/script.rpy:4779
 translate pt_br floor2menu_f24a38ee:
 
     # bot "[botown]!"
-    bot ""
+    bot "[botown]!"
 
 # game/script.rpy:4782
 translate pt_br floor2menu_a59b3321:
 
     # bot "Now that my body is water proof, I'd like to go to the beach!"
-    bot ""
+    bot "Agora que o meu corpo é a prova d'água,eu queria ir à praia!"
 
 # game/script.rpy:4783
 translate pt_br floor2menu_67a88a4a:
 
     # bot "Humans look like they have so much fun in the water, and I want to have fun as well!"
-    bot ""
+    bot "Os humanos parecem se divertir muito na água, e eu quero me divertir também!"
 
 # game/script.rpy:4784
 translate pt_br floor2menu_d7285aee:
 
     # bot "What do you think [botown]?"
-    bot ""
+    bot "O que você acha [botown]?"
 
 # game/script.rpy:4789
 translate pt_br floor2menu_3279b834:
 
     # bot "Thank you [botown]! I can't wait!"
-    bot ""
+    bot "Obrigada [botown]! Eu mal posso esperar!"
 
 # game/script.rpy:4792
 translate pt_br floor2menu_e46786b9:
 
     # bot "I'll change right away!"
-    bot ""
+    bot "Eu vou me trocar agora mesmo!"
 
 # game/script.rpy:4794
 translate pt_br floor2menu_d11a3a5b:
 
     # "You and [botname] hop in your car and drive to the beach..."
-    ""
+    "Você e [botname] entram no seu carro e vão até a praia..."
 
 # game/script.rpy:4797
 translate pt_br floor2menu_053432b7:
 
     # bot "Okay!"
-    bot ""
+    bot "Okay!"
 
 # game/script.rpy:4804
 translate pt_br floor2menu_b5f50750_8:
@@ -5417,373 +5417,373 @@ translate pt_br floor2menu_b5f50750_8:
 translate pt_br floor2menu_d3681452:
 
     # c "Hmmm... Where could she be? I better ask Lin."
-    c ""
+    c "Hmmm... Onde ela deve estar? É melhor eu perguntar para a Lin."
 
 # game/script.rpy:4811
 translate pt_br floor2menu_c817e13f:
 
     # bot "[botown]! I was just coming to see you!"
-    bot ""
+    bot "[botown]! Eu estava indo te ver!"
 
 # game/script.rpy:4814
 translate pt_br floor2menu_3b85ab66:
 
     # bot "Can you take me to the city? Please please please pleeeeeease?"
-    bot ""
+    bot "Você pode me levar para a cidade? Por favor por favor por favor por favoooooor?"
 
 # game/script.rpy:4817
 translate pt_br floor2menu_e71da562:
 
     # bot "I really want to see everything! I saw some pictures of a tower and it looked so big!"
-    bot ""
+    bot "Eu quero muito ver tudo! Eu vi algumas fotos de uma torre e parecia ser tãão grande!"
 
 # game/script.rpy:4818
 translate pt_br floor2menu_70d6be21:
 
     # bot "Pleeeeease?"
-    bot ""
+    bot "Por favooooor?"
 
 # game/script.rpy:4823
 translate pt_br floor2menu_fa65583a:
 
     # bot "YES! I knew you'd take me! Let's go!"
-    bot ""
+    bot "iSSO! Eu sabia que você me levaria! Vamos lá!"
 
 # game/script.rpy:4825
 translate pt_br floor2menu_ce5329ec:
 
     # "You and [botname] hop in your car and begin your journey to the city."
-    ""
+    "Vpocê e [botname] entram no seu carro e começam sua jornada até a cidade."
 
 # game/script.rpy:4826
 translate pt_br floor2menu_423b9f7f:
 
     # "[botname] acts like a kid in a candy store, she loves looking at all of the fauna and species of trees, the cars, the people, the birds, flowers, signs... The list goes on."
-    ""
+    "[botname] age como uma criança em uma loja de doces, adora olhar toda a fauna e espécies de árvores, os carros, as pessoas, os pássaros, flores, sinais... A lista continua. "
 
 # game/script.rpy:4827
 translate pt_br floor2menu_c12a4fb6:
 
     # "Soon enough, the horizon breaks into a vista of sprawling towers. [botname]'s eyes twinkle at the sight. As you get closer, the towers get bigger, and so do her eyes..."
-    ""
+    "Pouco tempo depois, o horizonte se abre em uma vista de torres que se espalham. Os olhos de [botname]'s brilham por um momento. Conforme você se aproxima, as torres ficam maiores, e os olhos dela também..."
 
 # game/script.rpy:4832
 translate pt_br floor2menu_39f56e41:
 
     # bot "Awwww... Okay..."
-    bot ""
+    bot "Awwww... Tudo bem..."
 
 # game/script.rpy:4838
 translate pt_br floor2menu_bbe38fd9:
 
     # bot "Hello [botown]! Did you need something?"
-    bot ""
+    bot "Olá [botown]! Você precisa de algo?"
 
 # game/script.rpy:4839
 translate pt_br floor2menu_dd598a90:
 
     # c "Interested in taking a break at the hot springs?"
-    c ""
+    c "Está interessada em passar um tempo nas fontes termais?"
 
 # game/script.rpy:4840
 translate pt_br floor2menu_d1c204c5:
 
     # bot "I would love to! I don't think I've ever explored that part of the hotel!"
-    bot ""
+    bot "Eu adoraria! Eu acho que nunca parei pra ver essa parte do hotel!"
 
 # game/script.rpy:4844
 translate pt_br floor2menu_1e11c6f3:
 
     # bot "Oh, right! Meet you there!"
-    bot ""
+    bot "Ah, certo! Te vejo lá!"
 
 # game/script.rpy:4849
 translate pt_br floor2menu_17047811:
 
     # bot "N-Nothing!? I can't do that!"
-    bot ""
+    bot "N-nada!? Eu não consigo fazer isso!"
 
 # game/script.rpy:4854
 translate pt_br floor2menu_d1a7e383:
 
     # bot "Nothing...?"
-    bot ""
+    bot "Nada...?"
 
 # game/script.rpy:4857
 translate pt_br floor2menu_02529d95:
 
     # bot "Uh, sure! I guess I don't mind!"
-    bot ""
+    bot "Uh, claro! Acho que não tem problema!"
 
 # game/script.rpy:4862
 translate pt_br floor2menu_ac90ad65_1:
 
     # bot "Come in!"
-    bot ""
+    bot "Entra!"
 
 # game/script.rpy:4868
 translate pt_br floor2menu_7b044aea:
 
     # bot "[botown], could I ask you a favor?"
-    bot ""
+    bot "[botown], posso te pedir um favor?"
 
 # game/script.rpy:4869
 translate pt_br floor2menu_df72d121:
 
     # c "What's that?"
-    c ""
+    c "O que é?"
 
 # game/script.rpy:4870
 translate pt_br floor2menu_809be560:
 
     # bot "Did you know that my manufacturer makes upgrades for me? Well they do! And I was thinking you could get the breast expansion module for me~"
-    bot ""
+    bot "Você sabia que o meus fabricantes fazem melhorias para mim? Bem, eles fazem! E eu estava pensando se você poderia pegar o módulo de expansão de seios para mim~"
 
 # game/script.rpy:4871
 translate pt_br floor2menu_1525a3fe:
 
     # bot "B-But don't read into it! It's definitely not for sexual purposes!"
-    bot ""
+    bot "M-Mas não leia isso! Definitivamente não é para propósitos sexuais!"
 
 # game/script.rpy:4872
 translate pt_br floor2menu_ac2bb9eb:
 
     # c "Well... alright, I'll get it."
-    c ""
+    c "Bem... tudo bem, eu vou pegar."
 
 # game/script.rpy:4873
 translate pt_br floor2menu_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/script.rpy:4876
 translate pt_br floor2menu_36ed5e98:
 
     # bot "Come in~~~!"
-    bot ""
+    bot "Pode entrar~~~!"
 
 # game/script.rpy:4885
 translate pt_br floor2menu_ac90ad65_2:
 
     # bot "Come in!"
-    bot ""
+    bot "Entre!"
 
 # game/script.rpy:4887
 translate pt_br floor2menu_abd62f78:
 
     # bot "Hello [botown]! Can I help you with anything?"
-    bot ""
+    bot "Olá [botown]! POsso te ajudar com alguma coisa?"
 
 # game/script.rpy:4888
 translate pt_br floor2menu_5b3b2ec3:
 
     # c "I'd like to take you out. We'll go somewhere in Caliber, maybe grab something to eat.\n...Do you eat?"
-    c ""
+    c "Eu gostaria de te levar para sair. Vamos para algum lugar em Caliber, talvez pegar alguma coisa para comer.\n... Você come?"
 
 # game/script.rpy:4890
 translate pt_br floor2menu_7c2a6bc3:
 
     # bot "Oh, um... [botown] that's very nice of you, but..."
-    bot ""
+    bot "Ah, hum... [botown] isso é muito legal da sua parte, mas..."
 
 # game/script.rpy:4891
 translate pt_br floor2menu_7ed7b36f:
 
     # bot "Well... *sigh*... I just don't think I'm ready."
-    bot ""
+    bot "Bem... *suspiro*... Eu só não me sinto pronta."
 
 # game/script.rpy:4892
 translate pt_br floor2menu_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "O que você quer dizer?"
 
 # game/script.rpy:4893
 translate pt_br floor2menu_8d2f17db:
 
     # bot "The hotel and everyone inside are already so much to consider. You have no idea how complex it is for me to understand so many dynamic social connections at once. It can be very overwhelming for me at times..."
-    bot ""
+    bot "O hotel e todo mundo aqui dentro já são tanta coisa pra eu levar em consideração. Você não faz ideia de como é complexo para mim entender tantas conexões sociais dinâmicas de uma vez. Isso pode me sobrecarregar muito as vezes..."
 
 # game/script.rpy:4894
 translate pt_br floor2menu_dfe7af99:
 
     # c "You don't have to consider random people in the same way you do your close friends. In fact, it's fine to forget them the moment they leave your sight."
-    c ""
+    c "Você não tem que considerar pessoas aleatórias da mesma forma que faz com seus amigos mais próximos. Na verdade, está tudo em esquecer deles assim que eles saírem da sua vista."
 
 # game/script.rpy:4895
 translate pt_br floor2menu_2bf4855f:
 
     # bot "R-Really? That seems so wasteful though..."
-    bot ""
+    bot "V-Verdade? Mas isso parece um desperdício..."
 
 # game/script.rpy:4896
 translate pt_br floor2menu_ad842c39:
 
     # bot "But I'm sorry... the answer is still no. For now...\nI've never been outside this hotel before so... I just need time."
-    bot ""
+    bot "Mas, sinto muito... a resposta ainda é não. Por enquanto...\nEu nunca estive fora deste hotel antes, então... Eu só preciso de tempo."
 
 # game/script.rpy:4897
 translate pt_br floor2menu_2b248946:
 
     # c "That's fine, I understand... I'd still like to take you on a date though."
-    c ""
+    c "Sem problemas, eu entendo... MAs eu ainda gostaria de te levar a um encontro."
 
 # game/script.rpy:4900
 translate pt_br floor2menu_49a507ba:
 
     # bot "The garden! That's the perfect spot for a date, don't you think? No one is using it right now!"
-    bot ""
+    bot "O jardim! É o lugar perfeito para um encontro, você não acha? Ninguém está usando ele agora!"
 
 # game/script.rpy:4901
 translate pt_br floor2menu_2be14845:
 
     # c "Sure. I'll meet you there in an hour."
-    c ""
+    c "Claro. Te encontro lá em uma hora."
 
 # game/script.rpy:4902
 translate pt_br floor2menu_01334364:
 
     # bot "Okay! See you!"
-    bot ""
+    bot "Entendido! Até lá!"
 
 # game/script.rpy:4907
 translate pt_br floor2menu_9171ffd2:
 
     # bot "Maybe that garden could be developed into something? We really do need somewhere nice in the hotel to hang out..."
-    bot ""
+    bot "Talvez o jardim pudesse ser desenvolvido em algo? Nós realmente precisamos de algum lugar legal no hotel para poder relaxar..."
 
 # game/script.rpy:4908
 translate pt_br floor2menu_f3acaaf7:
 
     # c "Hmm, you're right. I think I'll do that."
-    c ""
+    c "Hmm, você está certa. Acho que vou fazer isso."
 
 # game/script.rpy:4909
 translate pt_br floor2menu_fa02676d:
 
     # bot "Okay! Let me know when you're ready!"
-    bot ""
+    bot "Certo! Me avise quando estiver pronto!"
 
 # game/script.rpy:4915
 translate pt_br floor2menu_36ed5e98_1:
 
     # bot "Come in~~~!"
-    bot ""
+    bot "Pode entrar~~~!"
 
 # game/script.rpy:4921
 translate pt_br floor2menu_d1ada058:
 
     # bot "Hello [botown], was there something you needed?"
-    bot ""
+    bot "Olá [botown], está precisando de alguma coisa?"
 
 # game/script.rpy:4922
 translate pt_br floor2menu_6c493eb8:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:4926
 translate pt_br floor2menu_3d632b58:
 
     # bot "[botown]... I can't wear that! It shows my face a little..."
-    bot ""
+    bot "[botown]... Eu não posso vestir isso! Isso mostra um pouco o meu rosto..."
 
 # game/script.rpy:4927
 translate pt_br floor2menu_9cc9e4f7:
 
     # "I need to raise [botname]'s friendship.."
-    ""
+    "Eu preciso aumentar a amizade da [botname].."
 
 # game/script.rpy:4933
 translate pt_br floor2menu_697668e2:
 
     # bot "Wow! It's so cute! I would love to try this on!"
-    bot ""
+    bot "Uau! É tão fofo! Eu adoraria experimentar isso!"
 
 # game/script.rpy:4935
 translate pt_br floor2menu_34e05bae:
 
     # "[botname] goes into her room and changes her clothes to her newly bought veil outfit..."
-    ""
+    "[botname] entra no quarto deka e troca suas roupas por sua roupa nova de véu..."
 
 # game/script.rpy:4936
 translate pt_br floor2menu_ac90ad65_3:
 
     # bot "Come in!"
-    bot ""
+    bot "Entra!"
 
 # game/script.rpy:4938
 translate pt_br floor2menu_5ef55ec2:
 
     # bot "How do you like it [botown]?"
-    bot ""
+    bot "O que você achou [botown]?"
 
 # game/script.rpy:4942
 translate pt_br floor2menu_3daf2f3b:
 
     # bot "I think it's so beautiful!"
-    bot ""
+    bot "Eu achei tão bonito!"
 
 # game/script.rpy:4944
 translate pt_br floor2menu_64818b74:
 
     # bot "So, um..."
-    bot ""
+    bot "Então, um..."
 
 # game/script.rpy:4945
 translate pt_br floor2menu_ef73e3f4:
 
     # bot "Did you want to... test it out...?"
-    bot ""
+    bot "Você quer... testar...?"
 
 # game/script.rpy:4948
 translate pt_br floor2menu_161e4c76:
 
     # bot "Heheh... Okay..."
-    bot ""
+    bot "Heheh... Tudo bem..."
 
 # game/script.rpy:4951
 translate pt_br floor2menu_19b1fe09:
 
     # bot "Oh... Okay. Maybe next time..."
-    bot ""
+    bot "Ah... Tudo bem. Talvez na próxima..."
 
 # game/script.rpy:4957
 translate pt_br floor2menu_d1ada058_1:
 
     # bot "Hello [botown], was there something you needed?"
-    bot ""
+    bot "Olá [botown], está precisando de alguma coisa?"
 
 # game/script.rpy:4958
 translate pt_br floor2menu_6c493eb8_1:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:4962
 translate pt_br floor2menu_1e429923:
 
     # bot "W-What is that!? I can't wear that!"
-    bot ""
+    bot "O-O que é isso!? Eu não posso vestir isso!"
 
 # game/script.rpy:4963
 translate pt_br floor2menu_5415e8f2:
 
     # "[botname]'s sluttiness is too low..."
-    ""
+    "A safadeza de [botname] é muito baixa..."
 
 # game/script.rpy:4968
 translate pt_br floor2menu_1e429923_1:
 
     # bot "W-What is that!? I can't wear that!"
-    bot ""
+    bot "O-O que é isso!? Eu não posso vestir isso!"
 
 # game/script.rpy:4969
 translate pt_br floor2menu_9cc9e4f7_1:
 
     # "I need to raise [botname]'s friendship.."
-    ""
+    "Eu preciso aumentar a amizade da [botname].."
 
 # game/script.rpy:4975
 translate pt_br floor2menu_8a736f24:
