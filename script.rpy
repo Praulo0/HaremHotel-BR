@@ -5789,355 +5789,355 @@ translate pt_br floor2menu_9cc9e4f7_1:
 translate pt_br floor2menu_8a736f24:
 
     # bot "That's... a very slutty outfit [botown]..."
-    bot ""
+    bot "Essa... é uma roupa muito indecente [botown]..."
 
 # game/script.rpy:4978
 translate pt_br floor2menu_f9624506:
 
     # bot "And... It even comes with a slut module... Do you really want me to wear this?"
-    bot ""
+    bot "E... Vem até com um módulo de vadia... Você quer mesmo que eu vista isso?"
 
 # game/script.rpy:4979
 translate pt_br floor2menu_9d9fb6df:
 
     # c "I do."
-    c ""
+    c "Que bom."
 
 # game/script.rpy:4980
 translate pt_br floor2menu_c4099483:
 
     # bot "Well..."
-    bot ""
+    bot "Bem..."
 
 # game/script.rpy:4983
 translate pt_br floor2menu_c6f4f62f:
 
     # bot "Okay! I'll try it on for you!"
-    bot ""
+    bot "Tudo bem! Eu vou experimentar por você!"
 
 # game/script.rpy:4984
 translate pt_br floor2menu_ff2da85a:
 
     # bot "The slut module will also change both my appearance and personality, so don't be shocked!"
-    bot ""
+    bot "O módulo de vadia também vai mudar tanto minha aparência e personalidade, então não se assuste!"
 
 # game/script.rpy:4986
 translate pt_br floor2menu_06268ed4:
 
     # "[botname] goes into her room and changes her clothes to her newly bought slut outfit, and inserts the slut module..."
-    ""
+    "[botname] entra no quarto dela e troca suas roupas para a nova roupa de vadia, e insere o módulo de puta..."
 
 # game/script.rpy:4987
 translate pt_br floor2menu_d8bd047c:
 
     # bot "Come in..."
-    bot ""
+    bot "Entra..."
 
 # game/script.rpy:4989
 translate pt_br floor2menu_472c7122:
 
     # bot "I'm so slutty!"
-    bot ""
+    bot "Eu sou tão puta!"
 
 # game/script.rpy:4991
 translate pt_br floor2menu_47fcfe2c:
 
     # bot "You like it right? I'm ready for sex!"
-    bot ""
+    bot "Você gosta disso, né? Eu estou pronta pra fazer sexo!"
 
 # game/script.rpy:4995
 translate pt_br floor2menu_b2455bf4:
 
     # bot "Hey, you want to have sex right? We have to!"
-    bot ""
+    bot "Ei, você quer fazer sexo, né? Nós precisamos!"
 
 # game/script.rpy:4998
 translate pt_br floor2menu_2f320cf7:
 
     # bot "I can't wait!"
-    bot ""
+    bot "Eu mal posso esperar!"
 
 # game/script.rpy:5001
 translate pt_br floor2menu_fdf60f66:
 
     # bot "Awww... But I'm so horny now!"
-    bot ""
+    bot "Awww... Mas eu estou com tanto tesão agora!"
 
 # game/script.rpy:5008
 translate pt_br floor2menu_717b76fb:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Olá [botown]."
 
 # game/script.rpy:5009
 translate pt_br floor2menu_13a8e15f:
 
     # c "I got you something."
-    c ""
+    c "Eu comprei algo para você."
 
 # game/script.rpy:5012
 translate pt_br floor2menu_39f95f9c:
 
     # bot "Really? What is it?"
-    bot ""
+    bot "Sério! O que é?"
 
 # game/script.rpy:5013
 translate pt_br floor2menu_e8e359f3:
 
     # c "An egg vibe."
-    c ""
+    c "Um vibe de ovo."
 
 # game/script.rpy:5014
 translate pt_br floor2menu_c4b82cf3:
 
     # bot "Egg vibe? What does it do?"
-    bot ""
+    bot "Vibe de ovo? O que isso faz?"
 
 # game/script.rpy:5015
 translate pt_br floor2menu_8b132956:
 
     # c "It's a toy, you put it inside of you."
-    c ""
+    c "É um brinquedo, você coloca isso dentro de você."
 
 # game/script.rpy:5018
 translate pt_br floor2menu_f693b7fb:
 
     # bot "O-Oh... I see. I don't know if I'll ever use it..."
-    bot ""
+    bot "A-Ah... Entendi. Eu não sei se eu vou ter coragem de usar isso..."
 
 # game/script.rpy:5021
 translate pt_br floor2menu_fd0ab07b:
 
     # bot "But thank you for thinking of me [botown]!"
-    bot ""
+    bot "Mas obrigada por pensar em mim [botown]!"
 
 # game/script.rpy:5023
 translate pt_br floor2menu_69e9a139:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Novas cenas para [botname] foram desbloqueadas!"
 
 # game/script.rpy:5029
 translate pt_br floor2menu_717b76fb_1:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Olá [botowm]."
 
 # game/script.rpy:5030
 translate pt_br floor2menu_f25e56eb:
 
     # c "I got you an upgrade."
-    c ""
+    c "Eu consegui uma melhoria para você."
 
 # game/script.rpy:5033
 translate pt_br floor2menu_49f3bed6:
 
     # bot "Really? Thank you so much [botown]! What is it?"
-    bot ""
+    bot "Sério? Muito obrigada [botown]! O que é isso?"
 
 # game/script.rpy:5034
 translate pt_br floor2menu_a1f4b92f:
 
     # c "A breast reduction module. It'll let you reduce your breast size for much longer."
-    c ""
+    c "Um módulo de redução para seios. Vai te permitir diminuir o tamanho dos seus seios por muito mais tempo."
 
 # game/script.rpy:5035
 translate pt_br floor2menu_b0c0e2d5:
 
     # bot "Wow! Thank you [botown]! I'll install it right away!"
-    bot ""
+    bot "Uau! Obrigada [botown]! Eu vou instalar agora mesmo!"
 
 # game/script.rpy:5037
 translate pt_br floor2menu_69e9a139_1:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Novas cenas para [botname] foram desbloqueadas!"
 
 # game/script.rpy:5043
 translate pt_br floor2menu_717b76fb_2:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Olá [botown]."
 
 # game/script.rpy:5044
 translate pt_br floor2menu_f25e56eb_1:
 
     # c "I got you an upgrade."
-    c ""
+    c "Eu consegui uma melhoria para você."
 
 # game/script.rpy:5047
 translate pt_br floor2menu_49f3bed6_1:
 
     # bot "Really? Thank you so much [botown]! What is it?"
-    bot ""
+    bot "Sério? Muito obrigada [botown]! O que é isso?"
 
 # game/script.rpy:5048
 translate pt_br floor2menu_03038626:
 
     # c "A breast expansion module. It'll let you expand your breast size for much longer."
-    c ""
+    c "Um módulo de expansão de seios. Vai te permitir diminuir o tamanho dos seus seios por muito mais tempo."
 
 # game/script.rpy:5049
 translate pt_br floor2menu_b0c0e2d5_1:
 
     # bot "Wow! Thank you [botown]! I'll install it right away!"
-    bot ""
+    bot "Uau! Obrigada [botown]! EU vou instalar agora mesmo!"
 
 # game/script.rpy:5051
 translate pt_br floor2menu_69e9a139_2:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Novas cenas para [botname] foram desbloqueadas!"
 
 # game/script.rpy:5057
 translate pt_br floor2menu_717b76fb_3:
 
     # bot "Hello [botown]."
-    bot ""
+    bot "Olá [botown]."
 
 # game/script.rpy:5058
 translate pt_br floor2menu_f25e56eb_2:
 
     # c "I got you an upgrade."
-    c ""
+    c "Eu consegui uma melhoria para você."
 
 # game/script.rpy:5061
 translate pt_br floor2menu_49f3bed6_2:
 
     # bot "Really? Thank you so much [botown]! What is it?"
-    bot ""
+    bot "Sério? Muito obrigada [botown]! O que é isso?"
 
 # game/script.rpy:5062
 translate pt_br floor2menu_9dc120df:
 
     # c "A lactation module. It'll allow you to lactate."
-    c ""
+    c "Um módulo de lactação. Vai te permitir lactar."
 
 # game/script.rpy:5063
 translate pt_br floor2menu_b0c0e2d5_2:
 
     # bot "Wow! Thank you [botown]! I'll install it right away!"
-    bot ""
+    bot "Uau! Obrigada [botown]! Eu vou instalar agora mesmo!"
 
 # game/script.rpy:5065
 translate pt_br floor2menu_69e9a139_3:
 
     # "New scenes for [botname] have been unlocked!"
-    ""
+    "Novas cenas para [botname] foram desbloqueadas!"
 
 # game/script.rpy:5072
 translate pt_br floor2menu_70611b73:
 
     # bot "How can I serve you [botown]?"
-    bot ""
+    bot "Como eu posso te servir [botown]?"
 
 # game/script.rpy:5073
 translate pt_br floor2menu_c4ee6296:
 
     # c "I want to learn more about you, what commands do you come with?"
-    c ""
+    c "Eu quero aprender mais sobre você, você vem com quais comandos?"
 
 # game/script.rpy:5076
 translate pt_br floor2menu_19c291ac:
 
     # bot "Y-You want to learn more about me? Of course!"
-    bot ""
+    bot "V-Você quer aprender mais sobre mim? É claro!"
 
 # game/script.rpy:5079
 translate pt_br floor2menu_81066478:
 
     # bot "But... my commands aren't accessible to me... I'm sorry [botown]..."
-    bot ""
+    bot "Mas... meus comandos não são acessíveis para mim... Sinto muito [botown]..."
 
 # game/script.rpy:5080
 translate pt_br floor2menu_bfde9788:
 
     # c "Is there a manual somewhere?"
-    c ""
+    c "Existe algum manual em algum lugar?"
 
 # game/script.rpy:5083
 translate pt_br floor2menu_fce0b2ec:
 
     # bot "Oh yeah! There is!"
-    bot ""
+    bot "Ah sim! Existe!"
 
 # game/script.rpy:5086
 translate pt_br floor2menu_cc523c2d:
 
     # bot "But, *sigh*... Ellen has it..."
-    bot ""
+    bot "Mas, *suspiro*... É a Ellen quem está com ele..."
 
 # game/script.rpy:5087
 translate pt_br floor2menu_aa530d68:
 
     # c "Great, let's go get it."
-    c ""
+    c "Ótimo, vamos lá pegar."
 
 # game/script.rpy:5088
 translate pt_br floor2menu_010e4eca:
 
     # bot "Yes [botown]..."
-    bot ""
+    bot "Sim [botown]..."
 
 # game/script.rpy:5098
 translate pt_br floor2menu_b030b23e:
 
     # bot "Y-Yes [botown]?"
-    bot ""
+    bot "S-Sim [botown]?"
 
 # game/script.rpy:5099
 translate pt_br floor2menu_7912f6be:
 
     # c "Come with me, I want to introduce you to everyone else living here."
-    c ""
+    c "Vem comigo, eu quero te apresentar para todo mundo que vive aqui."
 
 # game/script.rpy:5102
 translate pt_br floor2menu_83f4a26b:
 
     # bot "Everyone else...? Can't I just sit in my room and be on the internet all day? I don't really like talking to people..."
-    bot ""
+    bot "Todo mundo...? Eu não posso só sentar no meu quarto e ficar na internet o dia todo? Eu realmente não gosto de falar com as pessoas..."
 
 # game/script.rpy:5103
 translate pt_br floor2menu_7e33664c:
 
     # c "You're going to have to meet them eventually. Come on, it won't be that bad."
-    c ""
+    c "Você vai ter conhecê-los em algum momento. Vamos, não vai ser tão ruim."
 
 # game/script.rpy:5106
 translate pt_br floor2menu_010e4eca_1:
 
     # bot "Yes [botown]..."
-    bot ""
+    bot "Sim [botown]..."
 
 # game/script.rpy:5110
 translate pt_br floor2menu_20fb46ed:
 
     # bot "Go away! *sob*"
-    bot ""
+    bot "Vai embora! *soluço*"
 
 # game/script.rpy:5111
 translate pt_br floor2menu_96ac885b:
 
     # c "[botname], are you okay in there?"
-    c ""
+    c "[botname], está tudo bem aí?"
 
 # game/script.rpy:5112
 translate pt_br floor2menu_343aec03:
 
     # bot "I'm fine! Go away! *sob*"
-    bot ""
+    bot "Eu estou bem! Vai embora! *soluço*"
 
 # game/script.rpy:5113
 translate pt_br floor2menu_29175253:
 
     # "You use your master key to unlock the door, and enter the room."
-    ""
+    "Você usa sua chave mestra para destrancar a porta, e entrar no quarto."
 
 # game/script.rpy:5120
 translate pt_br floor2menu_c872e953:
 
     # "Nobody lives here... yet."
-    ""
+    "Ninguém vive aqui... ainda."
 
 # game/script.rpy:5126
 translate pt_br floor2menu_b5f50750_9:
@@ -6149,7 +6149,7 @@ translate pt_br floor2menu_b5f50750_9:
 translate pt_br floor2menu_883e5c6a:
 
     # c "They're probably hanging around the hotel."
-    c ""
+    c "Elas provavelmente estão passeando pelo hotel."
 
 # game/script.rpy:5131
 translate pt_br floor2menu_b5f50750_10:
@@ -6161,187 +6161,187 @@ translate pt_br floor2menu_b5f50750_10:
 translate pt_br floor2menu_d19e7f54:
 
     # c "They're probably taking a shower."
-    c ""
+    c "Elas provavelmente estão tomando um banho."
 
 # game/script.rpy:5139
 translate pt_br floor2menu_28ea64e9:
 
     # f "Go away!"
-    f ""
+    f "Vai embora!"
 
 # game/script.rpy:5140
 translate pt_br floor2menu_18eb791a:
 
     # em "We don't want to talk!"
-    em ""
+    em "Nós não queremos conversar!"
 
 # game/script.rpy:5143
 translate pt_br floor2menu_bc0039ed:
 
     # c "I bought you a gift."
-    c ""
+    c "Eu comprei um presente para você."
 
 # game/script.rpy:5146
 translate pt_br floor2menu_c9d164ca:
 
     # f "Really?"
-    f ""
+    f "Sério?"
 
 # game/script.rpy:5147
 translate pt_br floor2menu_7cdc3eb6:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:5148
 translate pt_br floor2menu_9fc696f9:
 
     # f "Oh... thanks, I guess..."
-    f ""
+    f "Ah... obrigada, eu acho..."
 
 # game/script.rpy:5152
 translate pt_br floor2menu_0cd4823e:
 
     # "Felicity's affection was set to 1"
-    ""
+    "A afeição de Felicity foi ajustada para 1"
 
 # game/script.rpy:5155
 translate pt_br floor2menu_bc0039ed_1:
 
     # c "I bought you a gift."
-    c ""
+    c "Eu comprei um presente para você."
 
 # game/script.rpy:5158
 translate pt_br floor2menu_7c1b8830:
 
     # em "You did?"
-    em ""
+    em "Você comprou?"
 
 # game/script.rpy:5159
 translate pt_br floor2menu_7cdc3eb6_1:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:5160
 translate pt_br floor2menu_43244b2d:
 
     # em "Oh... thanks."
-    em ""
+    em "Ah... obrigada."
 
 # game/script.rpy:5164
 translate pt_br floor2menu_cfd1deed:
 
     # "Emma's affection was set to 1"
-    ""
+    "A afeição de Emma foi ajustada para 1"
 
 # game/script.rpy:5166
 translate pt_br floor2menu_95abcfb3:
 
     # c "They don't seem happy. Maybe I should buy them a gift."
-    c ""
+    c "Elas não parecem felizes. Talvez eu devesse comprar um presente para elas."
 
 # game/script.rpy:5170
 translate pt_br floor2menu_28ea64e9_1:
 
     # f "Go away!"
-    f ""
+    f "Vai embora!"
 
 # game/script.rpy:5172
 translate pt_br floor2menu_bc0039ed_2:
 
     # c "I bought you a gift."
-    c ""
+    c "Eu comprei um presente para você."
 
 # game/script.rpy:5175
 translate pt_br floor2menu_c9d164ca_1:
 
     # f "Really?"
-    f ""
+    f "Sério?"
 
 # game/script.rpy:5176
 translate pt_br floor2menu_7cdc3eb6_2:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:5177
 translate pt_br floor2menu_9fc696f9_1:
 
     # f "Oh... thanks, I guess..."
-    f ""
+    f "Ah... obrigada, eu acho..."
 
 # game/script.rpy:5182
 translate pt_br floor2menu_0cd4823e_1:
 
     # "Felicity's affection was set to 1"
-    ""
+    "A afeição de Felicity foi ajustada para 1"
 
 # game/script.rpy:5185
 translate pt_br floor2menu_93ba0410:
 
     # c "Felicity doesn't seem happy. Maybe I should buy her a gift."
-    c ""
+    c "Felicity não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:5188
 translate pt_br floor2menu_e14075b0:
 
     # em "Felicity doesn't want to see you right now. Did you want something?"
-    em ""
+    em "A Felicity não quer te ver agora. Você quer alguma coisa?"
 
 # game/script.rpy:5193
 translate pt_br floor2menu_1845f634:
 
     # em "Go away!"
-    em ""
+    em "Vai embora!"
 
 # game/script.rpy:5195
 translate pt_br floor2menu_bc0039ed_3:
 
     # c "I bought you a gift."
-    c ""
+    c "Eu comprei um presente para você."
 
 # game/script.rpy:5198
 translate pt_br floor2menu_7c1b8830_1:
 
     # em "You did?"
-    em ""
+    em "É verdade?"
 
 # game/script.rpy:5199
 translate pt_br floor2menu_7cdc3eb6_3:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:5200
 translate pt_br floor2menu_43244b2d_1:
 
     # em "Oh... thanks."
-    em ""
+    em "Ah... obrigada."
 
 # game/script.rpy:5205
 translate pt_br floor2menu_cfd1deed_1:
 
     # "Emma's affection was set to 1"
-    ""
+    "A afeição de Emma foi ajustada para 1"
 
 # game/script.rpy:5208
 translate pt_br floor2menu_ef2a7430:
 
     # c "Emma doesn't seem happy. Maybe I should buy her a gift."
-    c ""
+    c "Emma não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:5211
 translate pt_br floor2menu_b7eb71bb:
 
     # f "Emma doesn't want to talk to you right now. Did you want something?"
-    f ""
+    f "A Emma não quer conversar agora. Você quer alguma coisa?"
 
 # game/script.rpy:5217
 translate pt_br floor2menu_c872e953_1:
 
     # "Nobody lives here... yet."
-    ""
+    "Ningém vive aqui... ainda."
 
 # game/script.rpy:5222
 translate pt_br floor2menu_b5f50750_11:
@@ -6353,43 +6353,43 @@ translate pt_br floor2menu_b5f50750_11:
 translate pt_br floor2menu_26e9581e:
 
     # "I think I saw them heading to the hot springs."
-    ""
+    "Eu acho que vi elas indo para as fontes termais."
 
 # game/script.rpy:5228
 translate pt_br floor2menu_ca8f7666:
 
     # "I need to get closer to Ashley... raising her relationship level might help."
-    ""
+    "Eu preciso ficar mais próximo da Ashley... aumentar o relacionamento dela pode ajudar."
 
 # game/script.rpy:5231
 translate pt_br floor2menu_d962fd8f:
 
     # c "I should raise Ashley's relationship level."
-    c ""
+    c "Eu deveria aumentar o nível de relacionamento da Ashley."
 
 # game/script.rpy:5233
 translate pt_br floor2menu_d75ab7f2:
 
     # c "I wonder how they've been doing since they started going back to college? I should check up."
-    c ""
+    c "Eu me pergunto como elas tem passado desde que voltaram à faculdade? Eu deveria ir checar."
 
 # game/script.rpy:5236
 translate pt_br floor2menu_f2317453:
 
     # c "They're at college right now."
-    c ""
+    c "Elas estão na faculdade agora."
 
 # game/script.rpy:5242
 translate pt_br floor2menu_039c6b5f:
 
     # "You hop in your car, and visit Felicity and Emma during break times..."
-    ""
+    "Você entra no seu carro, e visita a Felicity e a Emma durante os intervalos..."
 
 # game/script.rpy:5248
 translate pt_br floor2menu_f2317453_1:
 
     # c "They're at college right now."
-    c ""
+    c "Elas estão na faculdade agora."
 
 # game/script.rpy:5251
 translate pt_br floor2menu_b5f50750_12:
@@ -6401,7 +6401,7 @@ translate pt_br floor2menu_b5f50750_12:
 translate pt_br floor2menu_883e5c6a_1:
 
     # c "They're probably hanging around the hotel."
-    c ""
+    c "Elas provavelmente estão passeando pelo hotel."
 
 # game/script.rpy:5258
 translate pt_br floor2menu_b5f50750_13:
@@ -6413,7 +6413,7 @@ translate pt_br floor2menu_b5f50750_13:
 translate pt_br floor2menu_f3e9fbf0:
 
     # c "I think I saw them heading to the laundry room."
-    c ""
+    c "Eu acho que vi elas indo para a lavanderia."
 
 # game/script.rpy:5265
 translate pt_br floor2menu_b5f50750_14:
@@ -6425,7 +6425,7 @@ translate pt_br floor2menu_b5f50750_14:
 translate pt_br floor2menu_b2619f63:
 
     # c "They're probably at the hot springs."
-    c ""
+    c "Elas provavelmente estão nas fontes termais."
 
 # game/script.rpy:5269
 translate pt_br floor2menu_b5f50750_15:
@@ -6437,7 +6437,7 @@ translate pt_br floor2menu_b5f50750_15:
 translate pt_br floor2menu_b2619f63_1:
 
     # c "They're probably at the hot springs."
-    c ""
+    c "Elas provavelmente estão nas fontes termais."
 
 # game/script.rpy:5273
 translate pt_br floor2menu_b5f50750_16:
@@ -6449,7 +6449,7 @@ translate pt_br floor2menu_b5f50750_16:
 translate pt_br floor2menu_eaff4787:
 
     # c "I think I saw them heading to the kitchen."
-    c ""
+    c "Eu acho que vi elas indo para a cozinha."
 
 # game/script.rpy:5277
 translate pt_br floor2menu_b5f50750_17:
@@ -6461,7 +6461,7 @@ translate pt_br floor2menu_b5f50750_17:
 translate pt_br floor2menu_eaff4787_1:
 
     # c "I think I saw them heading to the kitchen."
-    c ""
+    c "Eu acho que vi elas indo para a cozinha."
 
 # game/script.rpy:5282
 translate pt_br floor2menu_b5f50750_18:
@@ -6473,73 +6473,73 @@ translate pt_br floor2menu_b5f50750_18:
 translate pt_br floor2menu_cce1e909:
 
     # c "I should check the hot springs."
-    c ""
+    c "Eu deveria dar uma olhada nas fontes termais."
 
 # game/script.rpy:5286
 translate pt_br floor2menu_bf476c66:
 
     # c "Hm, that's strange... they're not here. They're probably at college still. I'll go check on them."
-    c ""
+    c "Hm, que estranho... elas não estão aqui. Elas provavelmente ainda estão na faculdade. Eu vou dar uma olhada nelas."
 
 # game/script.rpy:5289
 translate pt_br floor2menu_d75ab7f2_1:
 
     # c "I wonder how they've been doing since they started going back to college? I should check up."
-    c ""
+    c "Eu me pergunto como elas tem passado desde que voltaram à faculdade? Eu deveria dar uma olhada.."
 
 # game/script.rpy:5292
 translate pt_br floor2menu_c54cf6a0:
 
     # c "They're not here.\nI think I saw them heading to Ashley's room..."
-    c ""
+    c "Elas não estão aqui.\nEu acho que vi elas indo para o quarto da Ashley..."
 
 # game/script.rpy:5298
 translate pt_br floor2menu_7a2675ec:
 
     # f "Come in!"
-    f ""
+    f "Pode entrar!"
 
 # game/script.rpy:5301
 translate pt_br floor2menu_8b8b8264:
 
     # em "Come in!"
-    em ""
+    em "Pode entrar!"
 
 # game/script.rpy:5309
 translate pt_br floor2menu_238d854a:
 
     # "I need to wait on [botname]..."
-    ""
+    "Eu preciso esperar a [botname]..."
 
 # game/script.rpy:5311
 translate pt_br floor2menu_238d854a_1:
 
     # "I need to wait on [botname]..."
-    ""
+    "Eu preciso esperar a [botname]..."
 
 # game/script.rpy:5313
 translate pt_br floor2menu_ef8a73bd:
 
     # "Maria isn't ready for this yet..."
-    ""
+    "Maria não está pronta para isso ainda..."
 
 # game/script.rpy:5317
 translate pt_br floor2menu_8c2babf2:
 
     # c "I should check back around mid day, on a weekday."
-    c ""
+    c "Eu deveria dar uma olhada ao meio-dia, em um dia da semana."
 
 # game/script.rpy:5327
 translate pt_br floor2menu_9fa8a0f8:
 
     # em "Hey [name]!"
-    em ""
+    em "Ei [name]!"
 
 # game/script.rpy:5328
 translate pt_br floor2menu_6c493eb8_2:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:5332
 translate pt_br floor2menu_1b1f8c76:
