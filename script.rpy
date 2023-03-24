@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-12-11 13:31
+di # TODO: Translation updated at 2022-12-11 13:31
 
 # game/script.rpy:372
 translate pt_br skip_a27367e9:
@@ -7350,331 +7350,331 @@ translate pt_br lobby_a914fa92:
 translate pt_br lobby_2db6253c:
 
     # m "AAAHHH!! AAAHHH!!"
-    m ""
+    m "AAAHHH!! AAAHHH!!"
 
 # game/script.rpy:5911
 translate pt_br lobby_8afe065d:
 
     # bot "Louder! I want everyone to hear!"
-    bot ""
+    bot "Mais alto! Eu quero todo mundo ouvindo!"
 
 # game/script.rpy:5913
 translate pt_br lobby_1a7aa153:
 
     # c "I should come back in the evening..."
-    c ""
+    c "Eu deveria voltar à Noite..."
 
 # game/script.rpy:5916
 translate pt_br lobby_25361873:
 
     # "*knock knock knock*\nThere's no answer"
-    ""
+    "*knock knock knock*\nNinguém responde"
 
 # game/script.rpy:5917
 translate pt_br lobby_d4760284:
 
     # c "I think I saw her going to the bar."
-    c ""
+    c "Eu acho que vi ela indo ao bar."
 
 # game/script.rpy:5922
 translate pt_br lobby_45724055:
 
     # bot "Mmm, adorable..."
-    bot ""
+    bot "MMM, adorável..."
 
 # game/script.rpy:5926
 translate pt_br lobby_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/script.rpy:5927
 translate pt_br lobby_8dabd932:
 
     # m "I don't want to talk right now, [name]..."
-    m ""
+    m "Eu não quero conversar agora, [name]..."
 
 # game/script.rpy:5928
 translate pt_br lobby_d86f4520:
 
     # c "{i}(She's not in the mood to talk to me right now. I should give her some time...){/i}"
-    c ""
+    c "{i}(Ela não está com vontade de conversar agora... Eu deveria dar um tempo para ela...){/i}"
 
 # game/script.rpy:5932
 translate pt_br lobby_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5933
 translate pt_br lobby_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:5937
 translate pt_br lobby_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5938
 translate pt_br lobby_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:5944
 translate pt_br lobby_cdb5456b:
 
     # m "Go away!"
-    m ""
+    m "Vai embora!"
 
 # game/script.rpy:5945
 translate pt_br lobby_c93290d0:
 
     # c "I bought you a gift..."
-    c ""
+    c "Eu comprei um presente para você..."
 
 # game/script.rpy:5948
 translate pt_br lobby_b4b1b481:
 
     # m "Really?"
-    m ""
+    m "Sério?"
 
 # game/script.rpy:5949
 translate pt_br lobby_7cdc3eb6:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:5952
 translate pt_br lobby_32ed4449:
 
     # a "Awww, thanks [name]! Next time don't be so rude."
-    a ""
+    a "Awww, obrigada [name]! Não seja tão grosso na próxima vez."
 
 # game/script.rpy:5957
 translate pt_br lobby_6b5be2c5:
 
     # "Maria's affection was set to 1"
-    ""
+    "A afeição de Maria foi ajustada para 1"
 
 # game/script.rpy:5960
 translate pt_br lobby_cdb5456b_1:
 
     # m "Go away!"
-    m ""
+    m "Vai embora!"
 
 # game/script.rpy:5961
 translate pt_br lobby_ee958cfe:
 
     # c "Maria doesn't seem happy. Maybe I should buy her a gift."
-    c ""
+    c "Maria não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:5966
 translate pt_br lobby_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5967
 translate pt_br lobby_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Ela provvavelmente está tomando banho."
 
 # game/script.rpy:5972
 translate pt_br lobby_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5973
 translate pt_br lobby_a7a6f948:
 
     # c "I think I saw her heading to the hot springs."
-    c ""
+    c "EU acho que vi ela indo para as fontes termais."
 
 # game/script.rpy:5978
 translate pt_br lobby_034d63c3:
 
     # "Maria is currently working at the bar."
-    ""
+    "Maria está trabalhando no bar nesse momento."
 
 # game/script.rpy:5982
 translate pt_br lobby_97c75561:
 
     # c "I think I saw her heading to Lin's room..."
-    c ""
+    c "Eu acho que vi ela indo para o quarto da Lin..."
 
 # game/script.rpy:5984
 translate pt_br lobby_c892196f:
 
     # c "I should raise Lin's submission..."
-    c ""
+    c "Eu devo aumentar a subissão da Lin..."
 
 # game/script.rpy:5988
 translate pt_br lobby_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5989
 translate pt_br lobby_cce1e909:
 
     # c "I should check the hot springs."
-    c ""
+    c "Eu deveria dar uma olhada nas fontes termais."
 
 # game/script.rpy:5996
 translate pt_br lobby_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5997
 translate pt_br lobby_dc05cf42:
 
     # c "I think I saw her going into the garden."
-    c ""
+    c "Eu acho que vi ela indo ao jardim."
 
 # game/script.rpy:6001
 translate pt_br lobby_0f943ea2:
 
     # m "Come in!"
-    m ""
+    m "Pode entrar!"
 
 # game/script.rpy:6009
 translate pt_br lobby_83827bcd:
 
     # "I need to upgrade the garden's seating area."
-    ""
+    "Eu preciso melhorar a área de estar do jardim."
 
 # game/script.rpy:6014
 translate pt_br lobby_138ce778:
 
     # "I need to raise Kali's friendship..."
-    ""
+    "Eu preciso aumentar a amizade da Kali..."
 
 # game/script.rpy:6021
 translate pt_br lobby_140ea060:
 
     # "I need to raise Ashley's friendship..."
-    ""
+    "Eu preciso aumentar a amizade da Ashley..."
 
 # game/script.rpy:6025
 translate pt_br lobby_7dd348f9:
 
     # c "I heard she was making plans in the Afternoon. I should come back then."
-    c ""
+    c "Eu ouvi que ela estava fazendo planos à Tarde. Eu deveria voltar então."
 
 # game/script.rpy:6030
 translate pt_br lobby_c572aa3e:
 
     # "Maria needs to call her at work. She doesn't work on the weekends."
-    ""
+    "Maria precisa ligar para ela no trabalho. Ela não trabalha nos fins de semana."
 
 # game/script.rpy:6033
 translate pt_br lobby_af65ae04:
 
     # "Maria needs to call her at work. Come back at Noon."
-    ""
+    "Maria precisa ligar para ela no trabalho. Volte ao Meio-dia."
 
 # game/script.rpy:6041
 translate pt_br lobby_ee0f9226:
 
     # m "What's up?"
-    m ""
+    m "E aí?"
 
 # game/script.rpy:6042
 translate pt_br lobby_779568dc:
 
     # c "Your Bartender outfit came in."
-    c ""
+    c "Sua roupa de Bartender chegou."
 
 # game/script.rpy:6045
 translate pt_br lobby_cb1246b5:
 
     # m "It did!? Yes! Come on, let's go!"
-    m ""
+    m "Sério!? Isso! Venha, vamos lá!"
 
 # game/script.rpy:6049
 translate pt_br lobby_ac8d0b8a:
 
     # c "I should go to the bar."
-    c ""
+    c "Eu deveia ir ao bar."
 
 # game/script.rpy:6051
 translate pt_br lobby_7b79ab01:
 
     # c "I should buy the bar."
-    c ""
+    c "Eu deveria comprar o bar."
 
 # game/script.rpy:6070
 translate pt_br lobby_168012b4:
 
     # m "Hey [name]."
-    m ""
+    m "Ei [name]."
 
 # game/script.rpy:6073
 translate pt_br lobby_9c43a04a:
 
     # m "I could use your help with something..."
-    m ""
+    m "Eu gostaria da sua ajuda com algo..."
 
 # game/script.rpy:6074
 translate pt_br lobby_7615808c:
 
     # m "Well specifically, I want to use your master key to get in everyone's room."
-    m ""
+    m "Bem, especificamente, eu queria usar a sua chave mestra para entrar no quarto de todo mundo."
 
 # game/script.rpy:6075
 translate pt_br lobby_4e5a4202:
 
     # c "Why?"
-    c ""
+    c "Por que?"
 
 # game/script.rpy:6076
 translate pt_br lobby_c591ea9a:
 
     # m "Because it would be fun! And we could totally learn a thing or two about everyone."
-    m ""
+    m "Porque isso seria divertido!  E nós realmente poderiamos aprender uma coisa ou duas sobre todo mundo."
 
 # game/script.rpy:6079
 translate pt_br lobby_43abbc18:
 
     # m "So are you in?"
-    m ""
+    m "Então o que você acha?"
 
 # game/script.rpy:6082
 translate pt_br lobby_e8c493cd:
 
     # m "Awesome!"
-    m ""
+    m "Ótimo!"
 
 # game/script.rpy:6084
 translate pt_br lobby_e2d5449a:
 
     # m "For this to work though... I need to get everyone out of their rooms. Any ideas?"
-    m ""
+    m "Mas para isso funcionar... Eu preciso que todo mundo saia dos seus quartos. Tem alguma ideia?"
 
 # game/script.rpy:6087
 translate pt_br lobby_a706354f:
 
     # m "You could, and that would probably work..."
-    m ""
+    m "Poderia, e isso provavelmente funcionaria..."
 
 # game/script.rpy:6088
 translate pt_br lobby_48838f01:
 
     # m "But then the firemen would come... That's just too much of a hassle."
-    m ""
+    m "Mas aí os bombeiros viriam... Isso seria muito incômodo."
 
 # game/script.rpy:6090
 translate pt_br lobby_622e28ed:
 
     # m "Maybe that would work for some of them, but I doubt everyone would want to leave for no reason..."
-    m ""
+    m "Talvez até funcionasse no caso de alguns deles, mas eu duvido que todo mundo iria querer sair sem motivos..."
 
 # game/script.rpy:6092
 translate pt_br lobby_25716694:
