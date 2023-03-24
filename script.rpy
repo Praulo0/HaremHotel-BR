@@ -5021,7 +5021,7 @@ translate pt_br floor2menu_31abc389:
 translate pt_br floor2menu_ac90ad65:
 
     # bot "Come in!"
-    bot "Entre!"
+    bot "Pode entrar!"
 
 # game/script.rpy:4635
 translate pt_br floor2menu_3125404d:
@@ -5519,7 +5519,7 @@ translate pt_br floor2menu_02529d95:
 translate pt_br floor2menu_ac90ad65_1:
 
     # bot "Come in!"
-    bot "Entra!"
+    bot "Pode entrar!"
 
 # game/script.rpy:4868
 translate pt_br floor2menu_7b044aea:
@@ -5567,7 +5567,7 @@ translate pt_br floor2menu_36ed5e98:
 translate pt_br floor2menu_ac90ad65_2:
 
     # bot "Come in!"
-    bot "Entre!"
+    bot "Pode entrar!"
 
 # game/script.rpy:4887
 translate pt_br floor2menu_abd62f78:
@@ -5711,7 +5711,7 @@ translate pt_br floor2menu_34e05bae:
 translate pt_br floor2menu_ac90ad65_3:
 
     # bot "Come in!"
-    bot "Entra!"
+    bot "Pode entrar!"
 
 # game/script.rpy:4938
 translate pt_br floor2menu_5ef55ec2:
@@ -5831,7 +5831,7 @@ translate pt_br floor2menu_06268ed4:
 translate pt_br floor2menu_d8bd047c:
 
     # bot "Come in..."
-    bot "Entra..."
+    bot "Pode entrar..."
 
 # game/script.rpy:4989
 translate pt_br floor2menu_472c7122:
@@ -6137,7 +6137,7 @@ translate pt_br floor2menu_29175253:
 translate pt_br floor2menu_c872e953:
 
     # "Nobody lives here... yet."
-    "Ninguém vive aqui... ainda."
+    "Ninguém mora aqui... ainda."
 
 # game/script.rpy:5126
 translate pt_br floor2menu_b5f50750_9:
@@ -6341,7 +6341,7 @@ translate pt_br floor2menu_b7eb71bb:
 translate pt_br floor2menu_c872e953_1:
 
     # "Nobody lives here... yet."
-    "Ningém vive aqui... ainda."
+    "Ninguém mora aqui... ainda."
 
 # game/script.rpy:5222
 translate pt_br floor2menu_b5f50750_11:
@@ -7067,283 +7067,284 @@ translate pt_br floor2menu_8ae85c5d:
 translate pt_br floor2menu_6eb809b9:
 
     # au "Hey, [name]... my grandmother invited us to eat with her at a family reunion, would you like to go?"
-    au ""
+    au "Ei, [name]... minha avó nos convidou para comer com ela em uma reunião familiar, você gostaria de ir?"
 
 # game/script.rpy:5664
 translate pt_br floor2menu_cc0ef026:
 
     # au "Thank you, [name]."
-    au ""
+    au "Obrigada, [name]."
 
 # game/script.rpy:5667
 translate pt_br floor2menu_1e012c12:
 
     # au "Hurry, we have to get there before the food is gone!"
-    au ""
+    au "Rápido, nós temos que chegar lá amtes de a comida acabar!"
 
 # game/script.rpy:5670
 translate pt_br floor2menu_131c021f:
 
-    # c "There's a note taped to her door."
-    c ""
+    # c "Theree's a note taped to her door."
+    c "Há um bilhete colado na porta dela."
 
 # game/script.rpy:5671
 translate pt_br floor2menu_bd42e0f6:
 
     # "It reads:\nOrientation today! At the church. Stop by if you'd like."
-    ""
+    "Está escrito:\Orientação hoje! Na igreja. Passe lá se quiser.
 
 # game/script.rpy:5672
 translate pt_br floor2menu_7b1290bf:
 
     # c "Orientation day, hm? That could be interesting..."
-    c ""
+    c "Dia de orientação, hm? Isso pode ser interessante..."
 
 # game/script.rpy:5678
 translate pt_br floor2menu_52341a1c:
 
     # "You hop in your car and make your way to Caliber city..."
-    ""
+    "Você entra em seu carro e dirige até a cidade Caliber..."
 
 # game/script.rpy:5681
 translate pt_br floor2menu_6a506300:
 
     # c "Maybe later."
-    c ""
+    c "Talvez depois."
 
 # game/script.rpy:5686
 translate pt_br floor2menu_3a55d2f2:
 
     # au "Come in!"
-    au ""
+    au "Pode entrar!"
 
 # game/script.rpy:5697
 translate pt_br floor2menu_ed39d4e0:
 
     # c "I need to meet with her on Sunday."
-    c ""
+    c "Eu preciso ver ela no Domingo."
 
 # game/script.rpy:5700
 translate pt_br floor2menu_f94c216b:
 
     # c "Autumn goes to church in the Noon, I should meet with her then."
-    c ""
+    c "Autumn vai à igreja ao Meio-Dia, eu deveria ir ver ela então."
 
 # game/script.rpy:5707
 translate pt_br floor2menu_c6c78500:
 
     # au "Hello [name]! Um, do you have a moment to speak?"
-    au ""
+    au "Olá [name]! Hum, você tem algum tempo para conversarmos?"
 
 # game/script.rpy:5708
 translate pt_br floor2menu_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "E aí?"
 
 # game/script.rpy:5710
 translate pt_br floor2menu_ca0d6b15:
 
     # au "After everything we've done recently... don't you feel a little dirty?"
-    au ""
+    au "Depois de tudo o que temos feito ultimamente... Você não tem se sentido um pouco sujo? 
+    "
 
 # game/script.rpy:5711
 translate pt_br floor2menu_92b4a471:
 
     # c "That's natural, I guess."
-    c ""
+    c "Isso é normal, eu acho."
 
 # game/script.rpy:5712
 translate pt_br floor2menu_7afff9b0:
 
     # au "Good, then don't you think we should cleanse ourselves? To make sure our souls are healthy and strong?"
-    au ""
+    au "Bem, então você não acha que precisamos nos purificar? Para termos certeza de que nossas almas estão saudáveis e fortes?"
 
 # game/script.rpy:5713
 translate pt_br floor2menu_1a5e3092:
 
     # c "What are you suggesting?"
-    c ""
+    c "O que você está propondo?"
 
 # game/script.rpy:5715
 translate pt_br floor2menu_d5f4bef4:
 
     # au "I would like to take you to church, of course! At least once, so you know what it's like. You don't ever have to come again if you don't want to."
-    au ""
+    au "Eu gostaria de te levar para a igreja, é claro! Pelo menos uma vez, para você saber como é. Você não precisa ir mais se não gostar."
 
 # game/script.rpy:5716
 translate pt_br floor2menu_eb6917c9:
 
     # c "Oh... I thought you were going somewhere else with that."
-    c ""
+    c "Ah... Eu pensei que queria ir à outro lugar com isso."
 
 # game/script.rpy:5718
 translate pt_br floor2menu_0c94b81e:
 
     # au "A ritual called the Resonance of Souls will begin soon, and I would also like to confess a few of my sins while we're there."
-    au ""
+    au "Logo vai começar um ritual chamado Ressonância das Almas, e  eu também gostaria de confessar alguns dos meus pecados enquanto estamos lá."
 
 # game/script.rpy:5719
 translate pt_br floor2menu_c067b2c4:
 
     # c "Resonance of Souls? I've never heard of it."
-    c ""
+    c "Ressonância das Almas? Eu nunca ouvi falar."
 
 # game/script.rpy:5721
 translate pt_br floor2menu_8a08b5ef:
 
     # au "Really? I thought everyone knew. Don't worry, it's nothing scary. Unless you're afraid of blood... but it's actually very healthy for your soul!"
-    au ""
+    au "Sério? Eu pensei que todo mundo conhecesse. Não se preocupe, não é nada assustador. A não ser que você tenha medo de sangue... Mas é realmente muito saudável para a sua alma!"
 
 # game/script.rpy:5722
 translate pt_br floor2menu_5b944764:
 
     # au "Every ritual a human attends strengthens their soul. A strong soul will allow you to reach the afterlife, so don't be spirtually lazy okay? I expect to see you there on the other side, you know."
-    au ""
+    au "Todo ritual que um humano participa fortalece as suas almas. Uma alma forte te permite alcançar a pós-vida, então não seja espiritualmente preguiçoso, tá bom? Eu espero encontrar você lá no outro lado, sabe..."
 
 # game/script.rpy:5723
 translate pt_br floor2menu_b6a15be2:
 
     # c "Hm, that sounds interesting. I'll try it."
-    c ""
+    c "Hm, isso parece interessante. Eu vou experimentar."
 
 # game/script.rpy:5724
 translate pt_br floor2menu_6699fec3:
 
     # au "Oh good! I'm so happy!"
-    au ""
+    au "Que ótimo! Eu estou tão feliz!"
 
 # game/script.rpy:5725
 translate pt_br floor2menu_87a5708c:
 
     # au "Wear something smart, okay? We always dress up for church."
-    au ""
+    au "Vista algo elegante, entendido? Nós sempre nos arrumamos bem para a igreja."
 
 # game/script.rpy:5726
 translate pt_br floor2menu_a82e2f69:
 
     # c "Alright, I'll find something."
-    c ""
+    c "Tudo bem, eu vou encontrar alguma coisa."
 
 # game/script.rpy:5727
 translate pt_br floor2menu_205a75f0:
 
     # au "Great! We'll be going this upcoming Sunday Noon, don't forget it okay?"
-    au ""
+    au "Ótimo! Eu vou estar indo no próximo Domingo ao Meio-Dia, não esqueça, tá bom?"
 
 # game/script.rpy:5728
 translate pt_br floor2menu_343ccbb5:
 
     # c "Got it, won't forget."
-    c ""
+    c "Entendi, não vou esquecer."
 
 # game/script.rpy:5729
 translate pt_br floor2menu_d88e8563:
 
     # au "I'm so excited! See you then!"
-    au ""
+    au "Estou tão ansiosa! Até mais então!"
 
 # game/script.rpy:5741
 translate pt_br floor2menu_3efe29f2:
 
     # c "I should buy Nia."
-    c ""
+    c "Eu deveria comprar a Nia."
 
 # game/script.rpy:5743
 translate pt_br floor2menu_a26a2ff1:
 
     # c "I should buy Sylvia."
-    c ""
+    c "Eu deveria comprar a Sylvia."
 
 # game/script.rpy:5745
 translate pt_br floor2menu_f86e57cb:
 
     # c "I need to raise Lin's friendship."
-    c ""
+    c "Eu preciso aumentar a amizade da Lin."
 
 # game/script.rpy:5748
 translate pt_br floor2menu_233c7e25:
 
     # c "I should come back in the Evening..."
-    c ""
+    c "Eu deveria voltar à Noite..."
 
 # game/script.rpy:5752
 translate pt_br floor2menu_3a04fa5f:
 
     # c "I should come back a bit later..."
-    c ""
+    c "Eu deveria voltar um pouco mais tarde..."
 
 # game/script.rpy:5754
 translate pt_br floor2menu_6531daab:
 
     # c "I should come back a bit earlier..."
-    c ""
+    c "Eu deveria voltar um pouco mais cedo..."
 
 # game/script.rpy:5774
 translate pt_br floor2menu_401d4d21:
 
     # au "Hello Mr. [name]!"
-    au ""
+    au "Olá Sr. [name]!"
 
 # game/script.rpy:5775
 translate pt_br floor2menu_6c6ce83b:
 
     # au "Are you ready to get some coffee?"
-    au ""
+    au "Você está pronto para ir tomar um café?"
 
 # game/script.rpy:5778
 translate pt_br floor2menu_63001b2e:
 
     # au "Awesome! I'll meet you there."
-    au ""
+    au "Maravilha! Te encontro lá."
 
 # game/script.rpy:5780
 translate pt_br floor2menu_366989a3:
 
     # "You and Autumn head outside, when you open the car door for her, you notice she's already hopped in her car."
-    ""
+    "Você e Autumn vão para fora, quando você abre a porta para ela, você percebe que ela ja entrou no carro dela."
 
 # game/script.rpy:5781
 translate pt_br floor2menu_47e6e3a7:
 
     # "You hop in your car alone, Autumn leads the way to the cafe..."
-    ""
+    "Você entra em seu carro sozinho, Autumn te guia até a cafeteria..."
 
 # game/script.rpy:5784
 translate pt_br floor2menu_655ab10b:
 
     # au "Alright, whenever you're ready."
-    au ""
+    au "Tudo bem, quando você quiser."
 
 # game/script.rpy:5794
 translate pt_br floor2menu_c872e953_2:
 
     # "Nobody lives here... yet."
-    ""
+    "Ninguém mora aqui... ainda."
 
 # game/script.rpy:5801
 translate pt_br floor2menu_63bc906d:
 
     # "Not yet implemented"
-    ""
+    "Ainda não implementado"
 
 # game/script.rpy:5833
 translate pt_br prefloor1_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu devia ir dormir."
 
 # game/script.rpy:5855
 translate pt_br lobby_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu devia ir dormir."
 
 # game/script.rpy:5898
 translate pt_br lobby_a914fa92:
 
     # "The door is locked..."
-    ""
+    "A porta está trancada..."
 
 # game/script.rpy:5910
 translate pt_br lobby_2db6253c:
