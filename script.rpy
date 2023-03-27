@@ -6929,7 +6929,7 @@ translate pt_br floor2menu_01f4104e:
 translate pt_br floor2menu_b5f50750_19:
 
     # "*knock knock knock* \n There's no answer"
-    "*knock knock knock* \n Ninguém responde""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:5600
 translate pt_br floor2menu_8fbd983c_1:
@@ -7680,325 +7680,325 @@ translate pt_br lobby_622e28ed:
 translate pt_br lobby_25716694:
 
     # m "I doubt that would work..."
-    m ""
+    m ";eu duvido que isso fucionaria..."
 
 # game/script.rpy:6095
 translate pt_br lobby_5bc87eb4:
 
     # m "Oh I've got it! I'll ask Lin to cook something. Maybe pizza? Everyone loves pizza."
-    m ""
+    m "Ah, já sei! Eu vou perguntar para a Lin cozinhar algo para nós. Talvez pizza? Todo mundo ama pizza."
 
 # game/script.rpy:6096
 translate pt_br lobby_93b74300:
 
     # m "That should keep Lin out of her room for an hour or two."
-    m ""
+    m "Isso deve manter a Lin fora do quarto dela por uma hora ou duas."
 
 # game/script.rpy:6097
 translate pt_br lobby_be8a88c0:
 
     # c "Do you really think everybody is going to want to eat Lin's cooking?"
-    c ""
+    c "Você acha mesmo que todo mundo vai querer comer algo que a Lin cozinhou?"
 
 # game/script.rpy:6098
 translate pt_br lobby_f9710654:
 
     # m "Sure, why not?"
-    m ""
+    m "Claro, por que não?"
 
 # game/script.rpy:6099
 translate pt_br lobby_10b2a886:
 
     # m "Stop worrying! It'll work! Just give me some time, wait here."
-    m ""
+    m "Pare de se preocupar! Vai funcionar! Só me dê algum tempo, espere aqui."
 
 # game/script.rpy:6103
 translate pt_br lobby_3b6d396b:
 
     # l "Hello Maria, do you need help with something?"
-    l ""
+    l "Olá Maria, precisa de ajuda com alguma coisa?"
 
 # game/script.rpy:6104
 translate pt_br lobby_429714a7:
 
     # m "Could you cook everybody some food? Maybe pizza with a side of... everything?"
-    m ""
+    m "Você pode cozinhar alguma coisa para todo mundo? Talvez uma pizza com metade... tudo?"
 
 # game/script.rpy:6107
 translate pt_br lobby_d2441aea:
 
     # l "A side of {i}everything{/i}? Are we having a party or something?"
-    l ""
+    l "Uma metade de {i}tudo{/i}? Vamos fazer uma festa ou algo assim?"
 
 # game/script.rpy:6108
 translate pt_br lobby_f27b465b:
 
     # m "Oh good idea! Yeah let's all have a party in the kitchen! You can do it, right?"
-    m ""
+    m "Ah, boa ideia!! Isso, vamos todos fazer uma festa na cozinha! Você consegue fazer isso, né?"
 
 # game/script.rpy:6109
 translate pt_br lobby_f2156c1b:
 
     # l "That's going to take a long time! Do we even have enough food? Did [linoname] say this was okay?"
-    l ""
+    l "Isso vai levar bastante tempo! Nós temos comida o suficiente inclusive? O [linoname] disse que estava tudo bem?"
 
 # game/script.rpy:6110
 translate pt_br lobby_03a651d7:
 
     # m "Of course! [name] will be there too."
-    m ""
+    m "É claro! [name] vai estar lá também."
 
 # game/script.rpy:6113
 translate pt_br lobby_6e5b6125:
 
     # l "Oh, okay then! I should be able to make everything."
-    l ""
+    l "Ah, tudo bem entã! Acho que consigo fazer tudo."
 
 # game/script.rpy:6114
 translate pt_br lobby_d580f7fa:
 
     # m "Oh and make sure you let everyone know as soon as possible, have them watch you cook."
-    m ""
+    m "Ah e tenha certeza que todo mundo fique sabendo o quanto antes, deixe eles assistirem você cozinhando."
 
 # game/script.rpy:6117
 translate pt_br lobby_54a719f0:
 
     # l "Why do you have to watch me cook? Usually I let everyone know when it's done, not when I'm making it..."
-    l ""
+    l "por que que você quer me ver cozinhar? Eu geralmente aviso para todo mundo quando fica pronto, não quando estou preparando..."
 
 # game/script.rpy:6118
 translate pt_br lobby_4918eb8f:
 
     # m "Maybe they'll learn a thing or two from our 5 star chef!"
-    m ""
+    m "Talvez eles aprendam alguma coisa ou outra da nossa chefe 5 estrelas!"
 
 # game/script.rpy:6121
 translate pt_br lobby_b48c6cba:
 
     # l "Ohh, heheh okay! I can do that! I'll go get everyone now."
-    l ""
+    l "Ahh, heheh tudo bem! Eu posso fazer isso! Eu vou chamar todo mundo agora."
 
 # game/script.rpy:6122
 translate pt_br lobby_048bc274:
 
     # m "Awesome! Thanks Lin! And don't worry about [name], I've got that handled."
-    m ""
+    m "Maravilha! Obrigada Lin! E não se preocupe com o [name], eu já resolvi isso."
 
 # game/script.rpy:6125
 translate pt_br lobby_5f8606ec:
 
     # m "Okay, everything is in place. Now we wait..."
-    m ""
+    m "Certo, está tudo preparadp. Agora nós esperamos..."
 
 # game/script.rpy:6127
 translate pt_br lobby_c0a4eea5:
 
     # "You and Maria watch as Lin knocks on everyone's door and invites them to the 'party' in the kitchen..."
-    ""
+    "Você e Maria assistem enquanto Lin bate na porta de todo mundo e as convida para a 'festa' na cozinha..."
 
 # game/script.rpy:6128
 translate pt_br lobby_44419279:
 
     # m "Awesome, worked like a charm! How about we check Ashley's room first?"
-    m ""
+    m "Maravilha, funcionou direitinho! O que acha do quarto da Ashley primeiro?"
 
 # game/script.rpy:6129
 translate pt_br lobby_e0375aba:
 
     # "You attempt to open Ashley's room, but it's locked. So you use your master key instead..."
-    ""
+    "Você tenta abrir o quarto da Ashley, mas está trancado. Então ao invés disso você usa sua chave mestra..."
 
 # game/script.rpy:6133
 translate pt_br lobby_89a5ece5:
 
     # m "Okay. Well let me know when you have some time."
-    m ""
+    m "Tudo bem. Me avise quando você tiver algum tempo."
 
 # game/script.rpy:6138
 translate pt_br lobby_ecf18235_1:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/script.rpy:6142
 translate pt_br lobby_885f04e7:
 
     # m "Hey! What's up?"
-    m ""
+    m "Ei! E aí?"
 
 # game/script.rpy:6143
 translate pt_br lobby_9b02a66d:
 
     # c "Let's go to the beach."
-    c ""
+    c "Vamos para a praia."
 
 # game/script.rpy:6146
 translate pt_br lobby_6d6e24f2:
 
     # m "Ohh, another date at the beach? I would love to! I hope you have something exciting planned for us."
-    m ""
+    m "Ahh, outro encontro na praia? Eu adoraria! Eu espero que você tenha algo empolgante planejado para nós."
 
 # game/script.rpy:6147
 translate pt_br lobby_b62af26b:
 
     # c "I have something planned... I'm sure you'll love it."
-    c ""
+    c "Eu tenho algo planejado... Tenho certeza de que você vai amar."
 
 # game/script.rpy:6148
 translate pt_br lobby_8980e076:
 
     # m "Great, I'll meet you there!"
-    m ""
+    m "Ótimo, te encontro lá!"
 
 # game/script.rpy:6150
 translate pt_br lobby_337a75d7:
 
     # "You drive to the nearby public beach and meet up with Maria..."
-    ""
+    "Você dirige para perto da práia pública e se encontra com Maria..."
 
 # game/script.rpy:6165
 translate pt_br lobby_23c968c1:
 
     # m "Heey [name]! Wanna go on a date? I wanna get to know you a bit better..."
-    m ""
+    m "Eei [name]! Quer ter um encontro? Eu quero te conhecer um pouco melhor..."
 
 # game/script.rpy:6170
 translate pt_br lobby_1ffa4758:
 
     # m "Awesome! It's this super fancy place so wear something nice. But don't worry, I'll pay for everything."
-    m ""
+    m "Maravilha! É um lugar super luxuoso, então vista algo legal. Mas não fica preocupado, eu pago por tudo."
 
 # game/script.rpy:6172
 translate pt_br lobby_bd6084f9:
 
     # "You both hop in your car. Maria gives you directions and soon you arrive. She was right, it's very fancy. It's the kind of place that serves premium steak and lobster at marked up prices."
-    ""
+    "Vocês dois entram no seu carro. Maria vai te guiando e logo vocês chegam. Ela estava certa, é muito luxuoso. E é o tipo de uhar que serve bife e lagosta premium a preços altos. "
 
 # game/script.rpy:6176
 translate pt_br lobby_2d92837f:
 
     # m "I'm going to assume you're busy right now... Let me know when you're ready."
-    m ""
+    m "Eu vou assumir que você esteja ocupado agora... Me avise quando estiver pronto."
 
 # game/script.rpy:6181
 translate pt_br lobby_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ningém responde"
 
 # game/script.rpy:6182
 translate pt_br lobby_f024350a:
 
     # c "Hmm... I should check the shower..."
-    c ""
+    c "Hmm... Eu deveria dar uma olhada na sala de banho..."
 
 # game/script.rpy:6188
 translate pt_br lobby_ecbc8588:
 
     # c "I should buy the second floor and progress further."
-    c ""
+    c "Eu deveria comprar o segundo andar e progredir mais."
 
 # game/script.rpy:6191
 translate pt_br lobby_b32048cf:
 
     # c "I should increase [botname]'s friendship."
-    c ""
+    c "Eu deveria aumentar a amizade de [botname]."
 
 # game/script.rpy:6198
 translate pt_br lobby_e155d695:
 
     # m "Hey [name], interested in going to the beach? I was thinking of inviting everyone."
-    m ""
+    m "Ei [name], tem interesse em ir à praia? Eu estava pensando em convidar todo mudo."
 
 # game/script.rpy:6203
 translate pt_br lobby_fe480b83:
 
     # m "Awesome! Let's go invite everybody else!"
-    m ""
+    m "Maravilha! Vamos convidar o resto!"
 
 # game/script.rpy:6206
 translate pt_br lobby_d865a5ac:
 
     # m "Alright... but we may go without you..."
-    m ""
+    m "Certo... mas nós podemos ir sem você..."
 
 # game/script.rpy:6212
 translate pt_br lobby_2b08c85a:
 
     # m "[name]! I have a favor to ask."
-    m ""
+    m "[name]! Eu preciso pedir um favor."
 
 # game/script.rpy:6213
 translate pt_br lobby_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "O que é?"
 
 # game/script.rpy:6216
 translate pt_br lobby_d5a96581:
 
     # m "Could you buy me a succubus outfit? I would buy it myself, but I just upgraded the stream..."
-    m ""
+    m "Você pode comprar a roupa de súcubo? Eu mesmo compraria, mas acabei de melhorar o stream..."
 
 # game/script.rpy:6217
 translate pt_br lobby_33fd57ed:
 
     # c "Sure, I could do that."
-    c ""
+    c "Claro, posso sim."
 
 # game/script.rpy:6220
 translate pt_br lobby_f173d036:
 
     # m "Thanks [name]!"
-    m ""
+    m "Obrigada [name]!"
 
 # game/script.rpy:6223
 translate pt_br lobby_437bd60a:
 
     # m "And... rest assured... you'll have fun with it as well..."
-    m ""
+    m "E... você pode ter certeza... você vai se divertir muito com isso também..."
 
 # game/script.rpy:6224
 translate pt_br lobby_c4d93d4d:
 
     # m "Heheh, get to it [name]."
-    m ""
+    m "Heheh, vai lá [name]."
 
 # game/script.rpy:6230
 translate pt_br lobby_ee0f9226_1:
 
     # m "What's up?"
-    m ""
+    m "E aí?"
 
 # game/script.rpy:6231
 translate pt_br lobby_eb4057f4:
 
     # c "I got the succubus outfit for you."
-    c ""
+    c "Eu comprei a roupa de súcubo para você."
 
 # game/script.rpy:6234
 translate pt_br lobby_0620eb6c:
 
     # m "Yes! The stream is going to love this so much! And of course I'm sure you'll love it too..."
-    m ""
+    m "Isso! O pessoal da stream vai amar muito isso! E é claro que tenho certeza de que você vai amar também..."
 
 # game/script.rpy:6235
 translate pt_br lobby_5f87a5e0:
 
     # m "Be right back, let me put it on real quick."
-    m ""
+    m "Eu já volto, vou só colocar isso bem rápido."
 
 # game/script.rpy:6238
 translate pt_br lobby_999aa1ee:
 
     # m "Wow... I feel so powerfull in this... And a little slutty."
-    m ""
+    m "Uau... Eu me sinto tão poderosa com isso... E um pouco pervertida."
 
 # game/script.rpy:6241
 translate pt_br lobby_cd3edf70:
 
     # m "Thanks for getting this for me [name]. I'll definitely put this to good use."
-    m ""
+    m "Obrigada por pegar isso para mim [name]. Eu com certeza vou usar isso muito bem."
 
 # game/script.rpy:6242
 translate pt_br lobby_84d562ae:
