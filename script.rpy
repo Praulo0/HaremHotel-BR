@@ -8004,649 +8004,649 @@ translate pt_br lobby_cd3edf70:
 translate pt_br lobby_84d562ae:
 
     # m "...Speaking of which... if you want to test drive my new outfit just let me know..."
-    m ""
+    m "... Falando nisso... se você quiser fazer um test-drive da minha roupa é só me avisar..."
 
 # game/script.rpy:6243
 translate pt_br lobby_037d3b81:
 
     # m "Bye [name]."
-    m ""
+    m "Tchau [name]."
 
 # game/script.rpy:6258
 translate pt_br lobby_0453a601:
 
     # m "Oh hi [name]. Interested in going to the beach with me?"
-    m ""
+    m "Ah oi [name]. Está interessado em ir à praia comigo?"
 
 # game/script.rpy:6263
 translate pt_br lobby_bcc1cfb8:
 
     # m "Awesome! I'll meet you at your car after I'm dressed."
-    m ""
+    m "Maravilha! Eu te encontro no seu carro assim que eu me vestir."
 
 # game/script.rpy:6265
 translate pt_br lobby_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/script.rpy:6267
 translate pt_br lobby_dfb3ba65:
 
     # m "Glad you could make it [name]."
-    m ""
+    m "Que bom que você conseguiu [name]."
 
 # game/script.rpy:6269
 translate pt_br lobby_7b7963fe:
 
     # m "This place is great, isn't it?"
-    m ""
+    m "Esse lugar é ótimo, não é?"
 
 # game/script.rpy:6270
 translate pt_br lobby_992f40e8:
 
     # c "You've been here before?"
-    c ""
+    c "Você já esteve aqui antes?"
 
 # game/script.rpy:6272
 translate pt_br lobby_e99ca925:
 
     # m "I've been on every public beach in east Syl'anar. Some private ones too."
-    m ""
+    m "Eu já estive em todas as praias públicas do oeste de Syl'anar. Em algumas particulares também."
 
 # game/script.rpy:6274
 translate pt_br lobby_00ee82e6:
 
     # m "There are definitely better ones, but this one isn't as packed."
-    m ""
+    m "Elas definitivamente são melhores, mas essa não está tão cheia."
 
 # game/script.rpy:6276
 translate pt_br lobby_74b9d622:
 
     # m "Nnn..." with ssshake
-    m "" with ssshake
+    m "Nnn..." with ssshake
 
 # game/script.rpy:6277
 translate pt_br lobby_69b3084d:
 
     # c "What was that?"
-    c ""
+    c "O que foi isso?"
 
 # game/script.rpy:6279
 translate pt_br lobby_cbf804a4:
 
     # m "O-Oh nothing...! Just a... girl cramp!"
-    m ""
+    m "A-Ah nada...! É só... cólica menstrual! "
 
 # game/script.rpy:6280
 translate pt_br lobby_bd47619c:
 
     # c "Oh, I see..."
-    c ""
+    c "Ah, entendi..."
 
 # game/script.rpy:6282
 translate pt_br lobby_cfd90bc7:
 
     # m "So... did you do anything fun after you spied on me?"
-    m ""
+    m "Então... você fez alguma coisa divertida depois que me espionou?"
 
 # game/script.rpy:6283
 translate pt_br lobby_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "O que você quer dizer?"
 
 # game/script.rpy:6284
 translate pt_br lobby_48df2cb1:
 
     # m "You know what I mean..."
-    m ""
+    m "Você sabe do que estou falando..."
 
 # game/script.rpy:6285
 translate pt_br lobby_b17eeec9:
 
     # m "I couldn't help but n-"
-    m ""
+    m "Eu não pude deixar de-"
 
 # game/script.rpy:6287
 translate pt_br lobby_74b9d622_1:
 
     # m "Nnn..." with ssshake
-    m "" with ssshake
+    m "Nnn..." with ssshake
 
 # game/script.rpy:6288
 translate pt_br lobby_3fc15ae0:
 
     # c "Are you okay?"
-    c ""
+    c "Voê está bem?"
 
 # game/script.rpy:6289
 translate pt_br lobby_192e622d:
 
     # m "Yeah, of course..."
-    m ""
+    m "Sim, é claro..."
 
 # game/script.rpy:6291
 translate pt_br lobby_7bf3fe88:
 
     # m "Like I was saying... I couldn't help but notice a buldge before you left..."
-    m ""
+    m "Como eu estava dizendo... Eu não pude deixar de notar uma saliência depois que você saiu..."
 
 # game/script.rpy:6292
 translate pt_br lobby_c5a24f94:
 
     # m "If you don't want to admit, I will..."
-    m ""
+    m "Se você não for admitir, eu vou..."
 
 # game/script.rpy:6293
 translate pt_br lobby_b83a75f3:
 
     # m "I went right back to masturbating after you left, heheh..."
-    m ""
+    m "Eu voltei a me masturbar depois que você saiu, heheh..."
 
 # game/script.rpy:6294
 translate pt_br lobby_80fb3768:
 
     # c "Yeah, it sounded like you were making a ton of money."
-    c ""
+    c "Sim, parecia que você estava fazendo bastante dinheiro."
 
 # game/script.rpy:6295
 translate pt_br lobby_86f72800:
 
     # m "No silly... I didn't stream anything after that."
-    m ""
+    m "Não, bobo... Eu não fiz nenhum stream depois daquilo."
 
 # game/script.rpy:6296
 translate pt_br lobby_4bcb453b:
 
     # c "Oh."
-    c ""
+    c "Ah."
 
 # game/script.rpy:6297
 translate pt_br lobby_00850862:
 
     # m "Heheh, yup."
-    m ""
+    m "Heheh, sim."
 
 # game/script.rpy:6298
 translate pt_br lobby_2a1d83ab:
 
     # m "What can I say? It was hot..."
-    m ""
+    m "O que posso dizer? Foi excitante..."
 
 # game/script.rpy:6299
 translate pt_br lobby_475b5542:
 
     # m "Have you ever considered... you know... joining?"
-    m ""
+    m "Você ja pensou em... sabe... se juntar?"
 
 # game/script.rpy:6300
 translate pt_br lobby_d981c448:
 
     # m "You don't have to show your face... nobody would recognize you."
-    m ""
+    m "Você não precisa mostrar seu rosto... ninguém iria te reconhecer."
 
 # game/script.rpy:6301
 translate pt_br lobby_8e0b5ec7:
 
     # c "You want me to join your stream?"
-    c ""
+    c "Você quer que eu entre na sua stream?"
 
 # game/script.rpy:6302
 translate pt_br lobby_37986217:
 
     # m "All we do is masturbate..."
-    m ""
+    m "Nós só vamos nos masturbar..."
 
 # game/script.rpy:6303
 translate pt_br lobby_f766bda2:
 
     # m "Or maybe you could spank me, there's a huge audience for that."
-    m ""
+    m "Ou talvez você pudesse me espancar, tem um grande público para isso."
 
 # game/script.rpy:6304
 translate pt_br lobby_9436367c:
 
     # m "Hey, what's that weird look on your face? It's just for work... you would get a cut."
-    m ""
+    m "Ei, por que essa cara entranha? É só por trabalho... você poderia receber uma parte."
 
 # game/script.rpy:6305
 translate pt_br lobby_631f2bf2:
 
     # c "...I'll definitely have to think on it."
-    c ""
+    c "... Eu realmente preciso pensar nisso."
 
 # game/script.rpy:6306
 translate pt_br lobby_b0ea594d:
 
     # m "Heheh, alright."
-    m ""
+    m "Heheh, tudo bem."
 
 # game/script.rpy:6308
 translate pt_br lobby_d253fbc8:
 
     # m "Hey, we should get some drinks! There's a good bar here."
-    m ""
+    m "Ei, nós precisamos pegar algumas bebitas! Tem um bar bom aqui."
 
 # game/script.rpy:6309
 translate pt_br lobby_5145c461:
 
     # c "Sure, let's do it."
-    c ""
+    c "Claro, vamos pegar."
 
 # game/script.rpy:6312
 translate pt_br lobby_5dfd24cc:
 
     # ba "Sup, what can I do for ya?"
-    ba ""
+    ba "Eae, como posso te ajudar?"
 
 # game/script.rpy:6313
 translate pt_br lobby_39fc4fd7:
 
     # m "Hmmm... do you have tequila?"
-    m ""
+    m "Hmmm... você tem tequila?"
 
 # game/script.rpy:6314
 translate pt_br lobby_40eab776:
 
     # ba "Oh, hell yeah, absolutely! That'll be $5."
-    ba ""
+    ba "Ah, claro, tenho sim! Custa $5."
 
 # game/script.rpy:6315
 translate pt_br lobby_d9a47e93:
 
     # m "Hmmmm... I can think of a few other ways to pay for it..."
-    m ""
+    m "Hmmmm... Eu posso pensar em algumas outras formas de pagar por isso..."
 
 # game/script.rpy:6319
 translate pt_br lobby_326af496:
 
     # m "How about this instead...?"
-    m ""
+    m "O que acha disso no lugar...?"
 
 # game/script.rpy:6320
 translate pt_br lobby_7eb827e2:
 
     # ba "Oooo..."
-    ba ""
+    ba "Oooo..."
 
 # game/script.rpy:6321
 translate pt_br lobby_e01bdeea:
 
     # ba "Alright, deal! Be right back!"
-    ba ""
+    ba "Tudo bem, combinado! Já volto!"
 
 # game/script.rpy:6323
 translate pt_br lobby_c623a6df:
 
     # m "Works every time... men are so easy."
-    m ""
+    m "Funciona sempre... homens são tão fáceis."
 
 # game/script.rpy:6325
 translate pt_br lobby_61b7591f:
 
     # c "I can pay for it."
-    c ""
+    c "Eu posso pagar por isso."
 
 # game/script.rpy:6327
 translate pt_br lobby_d64c0a55:
 
     # ba "Cool!"
-    ba ""
+    ba "MManeiro!"
 
 # game/script.rpy:6328
 translate pt_br lobby_581795db:
 
     # c "Two please."
-    c ""
+    c "Duas, por favor."
 
 # game/script.rpy:6330
 translate pt_br lobby_03de75e8:
 
     # "You spend $5"
-    ""
+    "Você gastou $5"
 
 # game/script.rpy:6332
 translate pt_br lobby_50a3fbae:
 
     # m "You didn't have to do that... I was just going to flash him."
-    m ""
+    m "Você não precisava fazer isso... Eu estava querendo me exibir pra ele."
 
 # game/script.rpy:6334
 translate pt_br lobby_1c2c1714:
 
     # ba "Here ya go pretty lady."
-    ba ""
+    ba "Aqui está gatinha."
 
 # game/script.rpy:6335
 translate pt_br lobby_98c6141c:
 
     # m "Thank you..."
-    m ""
+    m "Obrigada..."
 
 # game/script.rpy:6337
 translate pt_br lobby_466d47d5:
 
     # m "Cheers!"
-    m ""
+    m "Saúde!"
 
 # game/script.rpy:6338
 translate pt_br lobby_660086d6:
 
     # "Maria chugs her entire drink before she even gets to her chair..."
-    ""
+    "Maria bebe tudo antes mesmo de chegar na cadeira dela..."
 
 # game/script.rpy:6340
 translate pt_br lobby_5c3ae0cd:
 
     # m "You should have bought a drink... they're really good!"
-    m ""
+    m "Você devia ter comprado uma bebida... elas são muito boas!"
 
 # game/script.rpy:6341
 translate pt_br lobby_04ceb18f:
 
     # c "Are you alright? You already look drunk."
-    c ""
+    c "Você está bem? Já parece bêbada."
 
 # game/script.rpy:6342
 translate pt_br lobby_21a367ad:
 
     # m "Heheh, yeah... I guess I am."
-    m ""
+    m "Heheh, sim... Acho que já estou."
 
 # game/script.rpy:6343
 translate pt_br lobby_50025fca:
 
     # m "What...? I just want to have some fun..."
-    m ""
+    m "O quê...? Eu só quero me divertir um pouco..."
 
 # game/script.rpy:6345
 translate pt_br lobby_f5b42010:
 
     # m "Aah!" with ssshake
-    m "" with ssshake
+    m "Aah!" with ssshake
 
 # game/script.rpy:6347
 translate pt_br lobby_cbf9ddf0:
 
     # m "Hehe, oops..."
-    m ""
+    m "Hehe, oops..."
 
 # game/script.rpy:6348
 translate pt_br lobby_bbba863a:
 
     # c "Another 'cramp'?"
-    c ""
+    c "Mais uma 'cólica'?"
 
 # game/script.rpy:6349
 translate pt_br lobby_64146d22:
 
     # m "...I've been keeping a secret..."
-    m ""
+    m "... Eu estou guardando um segredo..."
 
 # game/script.rpy:6351
 translate pt_br lobby_efa015a5:
 
     # m "In here..."
-    m ""
+    m "Bem aqui..."
 
 # game/script.rpy:6353
 translate pt_br lobby_579aa8f2:
 
     # m "But it's a secret..."
-    m ""
+    m "Mas é um segredo..."
 
 # game/script.rpy:6354
 translate pt_br lobby_8fc6a788:
 
     # c "Looks like you're enjoying it."
-    c ""
+    c "Parece que você está gostando disso."
 
 # game/script.rpy:6355
 translate pt_br lobby_30b7efdd:
 
     # m "Mhm, heheh...!"
-    m ""
+    m "Mhm, heheh...!"
 
 # game/script.rpy:6356
 translate pt_br lobby_248e343e:
 
     # m "Don't stare too much, though..."
-    m ""
+    m "Mas, não olhe demais!"
 
 # game/script.rpy:6357
 translate pt_br lobby_da6e4421:
 
     # m "It {i}really{/i} turns me on, heheh..."
-    m ""
+    m "Isso me excita {i}muito{/i}, heheh..."
 
 # game/script.rpy:6358
 translate pt_br lobby_4c40a36b:
 
     # m "Mmmmm, but..."
-    m ""
+    m "Mmmmm, mas..."
 
 # game/script.rpy:6360
 translate pt_br lobby_d43cbe64:
 
     # m "Maybe I'm overstepping... I don't want to get between you and Ash..."
-    m ""
+    m "Talvez eu esteja passando dos limites... Eu não quero ficar entre você e a Ash..."
 
 # game/script.rpy:6361
 translate pt_br lobby_b6c433da:
 
     # c " Oh, I'm polygamous..."
-    c ""
+    c "AH, eu sou polígamo.."
 
 # game/script.rpy:6363
 translate pt_br lobby_abba3c29:
 
     # m "Interesting...!"
-    m ""
+    m "Interessante...!"
 
 # game/script.rpy:6364
 translate pt_br lobby_61578cca:
 
     # m "I bet you've fucked that Kali girl already, hm?"
-    m ""
+    m "Eu aposto que você ja fodeu aquela menina, a Kali, hm?"
 
 # game/script.rpy:6366
 translate pt_br lobby_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "É claro."
 
 # game/script.rpy:6367
 translate pt_br lobby_012d2ac0:
 
     # m "Ooooh, how was it? Are her tits as big as they look?"
-    m ""
+    m "Ooooh, e como foi? As tetas dela são tão grandes quanto parecem?"
 
 # game/script.rpy:6368
 translate pt_br lobby_e503e883:
 
     # c "She's amazing."
-    c ""
+    c "Ela é incrível."
 
 # game/script.rpy:6370
 translate pt_br lobby_f41ba07d:
 
     # c "Not yet."
-    c ""
+    c "Ainda não."
 
 # game/script.rpy:6371
 translate pt_br lobby_a9724975:
 
     # m "Mmmh, yet, huh? Heheh..."
-    m ""
+    m "Mmmh, ainda, hum? Heheh..."
 
 # game/script.rpy:6373
 translate pt_br lobby_7c18dd41:
 
     # m "Well... now that we're both available, maybe we can see where this thing goes, hm?"
-    m ""
+    m "Bem... agora que nós dois estamos disponíveis, talvez devessemos ver para onde isso vai, hm?"
 
 # game/script.rpy:6374
 translate pt_br lobby_3c610f59:
 
     # c "I would like that."
-    c ""
+    c "Eu gostaria disso."
 
 # game/script.rpy:6375
 translate pt_br lobby_f5f51c33:
 
     # m "Good..."
-    m ""
+    m "Bom..."
 
 # game/script.rpy:6376
 translate pt_br lobby_89a20459:
 
     # m "And... I'm more than just a great piece of ass and tits, I'm actually really smart, ya know?"
-    m ""
+    m "E... Eu sou mais do que um grande pedaço de bunda e tetas, na verdade eu sou bem esperta, sabia?"
 
 # game/script.rpy:6377
 translate pt_br lobby_d0ae06d2:
 
     # c "Is that so?"
-    c ""
+    c "É mesmo?"
 
 # game/script.rpy:6378
 translate pt_br lobby_277032fe:
 
     # m "It is! I graduated with a 4.2 GPA!"
-    m ""
+    m "É sim! Eu me graduei com 4.2 GPA!"
 
 # game/script.rpy:6379
 translate pt_br lobby_32c8bfcb:
 
     # m "I've always had to work extra hard... my childhood wasn't all that great, so I get my attention in any way I can..."
-    m ""
+    m "Eu sempre tive que me esforçar mais que os outros... minha infância não foi tão boa, então eu consigo atenção de todas as formas que posso..."
 
 # game/script.rpy:6380
 translate pt_br lobby_76d15109:
 
     # m "Plus... it's not like I was going to get any advantages from my parents, soo..."
-    m ""
+    m "Inclusive... não é como se eu fosse conseguir qualquer vantagem dos meus pais, entãão..."
 
 # game/script.rpy:6381
 translate pt_br lobby_a42167bd:
 
     # c "Not on talking terms with them?"
-    c ""
+    c "Não tem estado bem com eles?"
 
 # game/script.rpy:6382
 translate pt_br lobby_73673e1d:
 
     # m "Yeah, you could say that..."
-    m ""
+    m "Sim, tipo isso..."
 
 # game/script.rpy:6386
 translate pt_br lobby_6ded932b:
 
     # m "Nnnh, fuck... I need to pee..."
-    m ""
+    m "Nnnnh, porra... Eu preciso mijar..."
 
 # game/script.rpy:6387
 translate pt_br lobby_1a77f02c:
 
     # m "Nngh, dammit, be right back..."
-    m ""
+    m "Nngh, droga, eu já volto..."
 
 # game/script.rpy:6389
 translate pt_br lobby_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:6391
 translate pt_br lobby_206f92d0:
 
     # m "Agh, fuck! The line is huge!"
-    m ""
+    m "Agh, porra! Essa fila é enorme!"
 
 # game/script.rpy:6392
 translate pt_br lobby_94418507:
 
     # m "Hnngh, hnnngh! Shit! This is happening one way or another, come with me!"
-    m ""
+    m "Hnngh, hnnngh! Merda! Isso vai acontecer de um jeito ou de outro, vem comigo!"
 
 # game/script.rpy:6394
 translate pt_br lobby_166ed804:
 
     # "Maria grabs you by the arm and runs you towards a secluded spot...."
-    ""
+    "Maria pega você pelo braço e corre com você até um lugar mais discreto..."
 
 # game/script.rpy:6396
 translate pt_br lobby_69035e74:
 
     # m "I'm going right here...!"
-    m ""
+    m "Eu vou fazer aqui mesmo...!"
 
 # game/script.rpy:6397
 translate pt_br lobby_7da63769:
 
     # c "Here? In public?"
-    c ""
+    c "Aqui? Em público?"
 
 # game/script.rpy:6398
 translate pt_br lobby_d9f66f24:
 
     # m "I don't have time to explain myself, I gotta go!"
-    m ""
+    m "Eu não tenho tempo pra explicar, preciso fazer isso logo!"
 
 # game/script.rpy:6400
 translate pt_br lobby_365b2b8f:
 
     # "You turn around as Maria releives herself..."
-    ""
+    "Você vira de costas enquanto Maria se alivia..."
 
 # game/script.rpy:6404
 translate pt_br lobby_e7c15a9d:
 
     # m "Ahhh..."
-    m ""
+    m "Ahhh..."
 
 # game/script.rpy:6405
 translate pt_br lobby_d6d47b45:
 
     # m "...Is it weird that this turns me on? It feels so much better to do it outside..."
-    m ""
+    m "... É estranho que isso me deixa excitada? É tão melhor fazer isso aqui fora..."
 
 # game/script.rpy:6411
 translate pt_br lobby_16ba1807:
 
     # m "Aaaaaaaahhhhhhhh..."
-    m ""
+    m "Aaaaaaaahhhhhhhh..."
 
 # game/script.rpy:6413
 translate pt_br lobby_a8491a84:
 
     # m "Okay, I'm done."
-    m ""
+    m "Beleza, acabei."
 
 # game/script.rpy:6414
 translate pt_br lobby_9242a583:
 
     # m "Well, at least nobody saw me... Although... I don't know which outcome I would have preferred more... Hm, maybe next time."
-    m ""
+    m "Bem, pelo menos ninguém me viu... Mesmo assim... Eu não sei de qual resultado eu iria preferir... Hm, quem sabe na próxima."
 
 # game/script.rpy:6415
 translate pt_br lobby_3f74f4ab:
 
     # m "We... should probably get back soon. Who knows if they have security cameras...?"
-    m ""
+    m "Nós... provavelmente deviamos voltar logo. Vai saber se eles têm câmeras de segurança...?"
 
 # game/script.rpy:6416
 translate pt_br lobby_4640bd96:
 
     # m "It was fun, let's come back again some time!"
-    m ""
+    m "Isso foi divertido, vamos voltar de novo em algum dia!"
 
 # game/script.rpy:6422
 translate pt_br lobby_1ea6c05e:
 
     # m "Oh well. Let me know when you have time."
-    m ""
+    m "Ah é. Me avise quando você tiver tempo."
 
 # game/script.rpy:6435
 translate pt_br lobby_3efb70eb:
