@@ -8514,7 +8514,7 @@ translate pt_br lobby_d0ae06d2:
 translate pt_br lobby_277032fe:
 
     # m "It is! I graduated with a 4.2 GPA!"
-    m "É sim! Eu me graduei com 4.2 GPA!"
+    m "É sim! Eu me graduei com uma média de 9.2!"
 
 # game/script.rpy:6379
 translate pt_br lobby_32c8bfcb:
@@ -8652,349 +8652,349 @@ translate pt_br lobby_1ea6c05e:
 translate pt_br lobby_3efb70eb:
 
     # m "[name], can I borrow you for a second? There's something I want your opinion on."
-    m ""
+    m "[name], posso te roubar por um segundo? Eu queria saber a sua opinião sobre algo."
 
 # game/script.rpy:6439
 translate pt_br lobby_c446cc6b:
 
     # m "THIS!"
-    m ""
+    m "ISSO!"
 
 # game/script.rpy:6441
 translate pt_br lobby_3b87febb:
 
     # m "So? What do you think? I got it yesterday, I think it's pretty cool."
-    m ""
+    m "E então? O que acha? Eu coloquei ontem, eu avhei bem legal."
 
 # game/script.rpy:6444
 translate pt_br lobby_f173d036_1:
 
     # m "Thanks [name]!"
-    m ""
+    m "Obrigada [name]!"
 
 # game/script.rpy:6446
 translate pt_br lobby_64bf7e81:
 
     # m "Well that sucks for you, doesn't it?"
-    m ""
+    m "Que pena pra você, né?"
 
 # game/script.rpy:6448
 translate pt_br lobby_845aac4d:
 
     # m "I wasn't too sure about getting it at first, but I'm beginning to like it..."
-    m ""
+    m "Eu não tinha certeza se queria colocar antes, mas estou começando a gostar..."
 
 # game/script.rpy:6449
 translate pt_br lobby_411e696b:
 
     # m "Besides, now it just draws more attention haha."
-    m ""
+    m "E além disso, isso só chama mais atenção haha."
 
 # game/script.rpy:6450
 translate pt_br lobby_e03738ed:
 
     # m "Oh, maybe I should get another one?"
-    m ""
+    m "Ah, talvez eu devesse colocar mais um?"
 
 # game/script.rpy:6452
 translate pt_br lobby_9ed6eebc:
 
     # a "WHAT ARE YOU DOING MARIA!?"
-    a ""
+    a "O QUE VOCÊ ESTÁ FAZENDO, MARIA?!"
 
 # game/script.rpy:6453
 translate pt_br lobby_32cf229d:
 
     # m "Oh, hello Ash."
-    m ""
+    m "Ah, olá Ash."
 
 # game/script.rpy:6454
 translate pt_br lobby_acac7ff8:
 
     # a "ARE YOU TRYING TO SEDUCE MY BOYFRIEND WITH YOUR BIG SLUTTY TITS!?"
-    a ""
+    a "ESTÁ TENTANDO SEDUZIR O MEU NAMORADO COM ESSAS SUAS TETAS DE VADIA!?"
 
 # game/script.rpy:6456
 translate pt_br lobby_05ab06b2:
 
     # m "What? No, I'm just showing him my new piercing!"
-    m ""
+    m "O quê? Não, eu estou só mostrando para ele o meu piercing novo!"
 
 # game/script.rpy:6458
 translate pt_br lobby_cc10be04:
 
     # a "Stop showing your slutty tits to my boyfriend! He's mine!"
-    a ""
+    a "Pare de mostrar essas suas tetas de vadia para o meu namorado! Ele é meu!"
 
 # game/script.rpy:6459
 translate pt_br lobby_d2ef9529:
 
     # m "Ashley! Where did you get that knife!"
-    m ""
+    m "Ashley! De onde você tirou essa faca!"
 
 # game/script.rpy:6460
 translate pt_br lobby_2b302a13:
 
     # a "STAY AWAY FROM HIM!"
-    a ""
+    a "FIQUE LONGE DELE!"
 
 # game/script.rpy:6462
 translate pt_br lobby_4e836ce6:
 
     # m "Okay! Oh my god Ashley what's gotten into you!?"
-    m ""
+    m "Tá bom! Mu deus Ashley, o que deu em você!?"
 
 # game/script.rpy:6463
 translate pt_br lobby_0c2641f6:
 
     # a "[name]'s soul is bound with mine, he took my virginity! We won't be separated!"
-    a ""
+    a "A alma do [name] está ligada a minha, ele tirou a minha virgindade! Não seremos separados!"
 
 # game/script.rpy:6464
 translate pt_br lobby_6fd7cf78:
 
     # m "You're crazy!"
-    m ""
+    m "Você é louca!"
 
 # game/script.rpy:6466
 translate pt_br lobby_f933bca6:
 
     # "Maria runs inside her room and locks the door."
-    ""
+    "Maria corre para dentro do quarto dela e tranca a porta."
 
 # game/script.rpy:6470
 translate pt_br lobby_1665ad46:
 
     # a "[name]~ She's gone now, you don't have to worry about her anymore..."
-    a ""
+    a "[name]~ Ela foi embora agora, você não precisa se preocupar com ela mais..."
 
 # game/script.rpy:6471
 translate pt_br lobby_4a07bc3c:
 
     # a "Can we fuck now~ I'm really horny! I want your baby!"
-    a ""
+    a "Nós podemos foder agora~ Eu estou com muito tesão! Eu quero o seu bebê!"
 
 # game/script.rpy:6476
 translate pt_br lobby_e6e63e17:
 
     # a "YES! HURRY!"
-    a ""
+    a "ISSO! RÁPIDO!"
 
 # game/script.rpy:6478
 translate pt_br lobby_a402ab28:
 
     # "You follow Ashley into her room..."
-    ""
+    "Você sehue Ashley até o quarto dela..."
 
 # game/script.rpy:6482
 translate pt_br lobby_3e7efa40:
 
     # a "Oh okay! After that then!"
-    a ""
+    a "Ah tudo bem! Depois disso então!"
 
 # game/script.rpy:6483
 translate pt_br lobby_bb1a612c:
 
     # c "Uh, yeah, sure."
-    c ""
+    c "Uh, sim, claro."
 
 # game/script.rpy:6486
 translate pt_br lobby_5a3c79a1:
 
     # m "Well, be sure to come back when you have time..."
-    m ""
+    m "BEm, tenha certeza de voltar quando tiver tempo..."
 
 # game/script.rpy:6504
 translate pt_br lobby_2947c302:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Ei [name], e aí?"
 
 # game/script.rpy:6505
 translate pt_br lobby_6c493eb8:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:6508
 translate pt_br lobby_7c688f5b:
 
     # m "Ohhh~ this is nice. Wanna see what it looks like on me? Come inside..."
-    m ""
+    m "Uhhh~ isso é legal. Quer ver como fica em mim? Entra aqui..."
 
 # game/script.rpy:6516
 translate pt_br lobby_2947c302_1:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Ei [name], e aí?"
 
 # game/script.rpy:6517
 translate pt_br lobby_6c493eb8_1:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:6520
 translate pt_br lobby_7c688f5b_1:
 
     # m "Ohhh~ this is nice. Wanna see what it looks like on me? Come inside..."
-    m ""
+    m "Uhhh~ isso é legal. Quer ver como fica em mim? Entra aqui..."
 
 # game/script.rpy:6528
 translate pt_br lobby_2947c302_2:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Ei [name], e aí?"
 
 # game/script.rpy:6529
 translate pt_br lobby_6c493eb8_2:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:6532
 translate pt_br lobby_7c688f5b_2:
 
     # m "Ohhh~ this is nice. Wanna see what it looks like on me? Come inside..."
-    m ""
+    m "Uhhh~ isso é legal. Quer ver como fica em mim? Entra aqui..."
 
 # game/script.rpy:6541
 translate pt_br lobby_2947c302_3:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Ei [name], e aí?"
 
 # game/script.rpy:6542
 translate pt_br lobby_6c493eb8_3:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:6546
 translate pt_br lobby_96242f38:
 
     # m "What? I'm not wearing that."
-    m ""
+    m "Quê? Eu não vou vestir isso."
 
 # game/script.rpy:6547
 translate pt_br lobby_e13abc04:
 
     # "Maria's sluttiness is too low..."
-    ""
+    "A safadeza de Maria é muito baixa..."
 
 # game/script.rpy:6552
 translate pt_br lobby_35886396:
 
     # m "What? No way..."
-    m ""
+    m "O quê? De jeito nenhum..."
 
 # game/script.rpy:6553
 translate pt_br lobby_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar o nível de amizade dela."
 
 # game/script.rpy:6559
 translate pt_br lobby_05082d8a:
 
     # m "Ohh, what is this? This is pretty slutty..."
-    m ""
+    m "Uhh, o que é isso? É bem vulgar..."
 
 # game/script.rpy:6560
 translate pt_br lobby_d6e6dc51:
 
     # m "Well I might as well try it on if you bought it just for me. Come inside, I'll show you how it looks..."
-    m ""
+    m "Bem, eu posso pelo menos tentar, já que você comprou só pra mim. Entra aqui, eu vou mostrar como fica..."
 
 # game/script.rpy:6562
 translate pt_br lobby_2dc5c6b7:
 
     # "Maria goes into her room and changes her clothes to her newly bought slut outfit..."
-    ""
+    "Maria entra no quarto dela e troca suas roupas pela sua nova roupa de vadia..."
 
 # game/script.rpy:6564
 translate pt_br lobby_9ead871d:
 
     # m "Wow... this is something..."
-    m ""
+    m "Uau... gostei disso... "
 
 # game/script.rpy:6565
 translate pt_br lobby_882d7ff6:
 
     # m "Makes me feel like a cheap whore..."
-    m ""
+    m "Faz eu me sentir uma puta barata..."
 
 # game/script.rpy:6567
 translate pt_br lobby_41ac32be:
 
     # m "So how do I look...?"
-    m ""
+    m "Então, como estou...?"
 
 # game/script.rpy:6571
 translate pt_br lobby_4e296d5c:
 
     # m "Did you want to try it out [name]?"
-    m ""
+    m "Você quer experimentar [name]?"
 
 # game/script.rpy:6577
 translate pt_br lobby_36ca608b:
 
     # m "Oh, maybe later then."
-    m ""
+    m "Ah, talvez depois então."
 
 # game/script.rpy:6584
 translate pt_br lobby_2947c302_4:
 
     # m "Hey [name], what's up?"
-    m ""
+    m "Ei [name], e aí?"
 
 # game/script.rpy:6585
 translate pt_br lobby_6c493eb8_4:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:6589
 translate pt_br lobby_96242f38_1:
 
     # m "What? I'm not wearing that."
-    m ""
+    m "o quê? Eu não vou vestir isso."
 
 # game/script.rpy:6590
 translate pt_br lobby_7504dff1:
 
     # "Maria's affection is too low..."
-    ""
+    "A afeição de Maria é muito baixo."
 
 # game/script.rpy:6596
 translate pt_br lobby_31516804:
 
     # m "Ohh, what is this? This is pretty cute..."
-    m ""
+    m "Ahh, o que é isso? É bem fofo..."
 
 # game/script.rpy:6597
 translate pt_br lobby_98c4d659:
 
     # m "Thanks, maybe we can... try it out sometime..."
-    m ""
+    m "Obrigada, talvez nós possamos... experimentar outra hora...."
 
 # game/script.rpy:6611
 translate pt_br floor1menu_7344295e:
 
     # c "I need to buy this upgrade first."
-    c ""
+    c "Eu preciso comprar essa melhoria antes."
 
 # game/script.rpy:6616
 translate pt_br floor1menu_35e2ae73:
 
     # "You are here."
-    ""
+    "Você está aqui."
 
 # game/script.rpy:6623
 translate pt_br floor1menu_7344295e_1:
 
     # c "I need to buy this upgrade first."
-    c ""
+    c "Eu preciso comprar essa melhoria antes."
 
 # game/script.rpy:6637
 translate pt_br floor1menu_b5f50750:
@@ -9534,7 +9534,7 @@ translate pt_br floor1menu_1e16cffd:
 translate pt_br floor1menu_6c493eb8:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:6971
 translate pt_br floor1menu_b41fad52:
@@ -9552,7 +9552,7 @@ translate pt_br floor1menu_1e16cffd_1:
 translate pt_br floor1menu_6c493eb8_1:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:6983
 translate pt_br floor1menu_b41fad52_1:
@@ -9588,7 +9588,7 @@ translate pt_br floor1menu_1e16cffd_3:
 translate pt_br floor1menu_6c493eb8_3:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:7008
 translate pt_br floor1menu_1b7074a1:
@@ -10068,7 +10068,7 @@ translate pt_br floor1menu_760620a7:
 translate pt_br floor1menu_2619b356:
 
     # k "Hey [name], what's up?"
-    k ""
+    k "Ei [name], e aí?"
 
 # game/script.rpy:7296
 translate pt_br floor1menu_ff32eb99:
