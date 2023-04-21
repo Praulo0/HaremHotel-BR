@@ -455,7 +455,7 @@ translate pt_br start2_5f34b80f:
 translate pt_br start2_035cf35b:
 
     # e "Each guest pays you $5 a day. So the more residents you have, the more money you will make."
-    e "Cada hóspede paga $5 por dia. Então quanto mais moradores você tiver, mais dinheiro vai conseguir."
+    e "Cada hóspede paga R$ 25,00 por dia. Então quanto mais moradores você tiver, mais dinheiro vai conseguir."
 
 # game/script.rpy:577
 translate pt_br start2_74a73740:
@@ -4955,7 +4955,7 @@ translate pt_br floor2menu_b5f50750_3:
 translate pt_br floor2menu_8fbd983c:
 
     # c "She's probably taking a shower."
-    c "Ela provavelmente  está tomando banho."
+    c "Ela provavelmente está tomando banho."
 
 # game/script.rpy:4597
 translate pt_br floor2menu_b5f50750_4:
@@ -7884,7 +7884,7 @@ translate pt_br lobby_2d92837f:
 translate pt_br lobby_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    "*knock knock knock* \n Ningém responde"
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:6182
 translate pt_br lobby_f024350a:
@@ -8250,7 +8250,7 @@ translate pt_br lobby_39fc4fd7:
 translate pt_br lobby_40eab776:
 
     # ba "Oh, hell yeah, absolutely! That'll be $5."
-    ba "Ah, claro, tenho sim! Custa $5."
+    ba "Ah, claro, tenho sim! Custa R$ 25,00."
 
 # game/script.rpy:6315
 translate pt_br lobby_d9a47e93:
@@ -8304,7 +8304,7 @@ translate pt_br lobby_581795db:
 translate pt_br lobby_03de75e8:
 
     # "You spend $5"
-    "Você gastou $5"
+    "Você gastou R$ 25,00"
 
 # game/script.rpy:6332
 translate pt_br lobby_50a3fbae:
@@ -8500,6 +8500,7 @@ translate pt_br lobby_f5f51c33:
 
 # game/script.rpy:6376
 translate pt_br lobby_89a20459:
+gt
 
     # m "And... I'm more than just a great piece of ass and tits, I'm actually really smart, ya know?"
     m "E... Eu sou mais do que um grande pedaço de bunda e tetas, na verdade eu sou bem esperta, sabia?"
@@ -9000,253 +9001,254 @@ translate pt_br floor1menu_7344295e_1:
 translate pt_br floor1menu_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:6638
 translate pt_br floor1menu_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:6643
 translate pt_br floor1menu_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:6644
 translate pt_br floor1menu_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:6648
 translate pt_br floor1menu_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:6649
 translate pt_br floor1menu_14e9f18f_2:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:6653
 translate pt_br floor1menu_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:6654
 translate pt_br floor1menu_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Ela provvavelmente está tomando banho."
 
 # game/script.rpy:6657
 translate pt_br floor1menu_62b8b64d:
 
     # "Lin is in the kitchen right now."
-    ""
+    "Lin está na cozinha agora."
 
 # game/script.rpy:6661
 translate pt_br floor1menu_62b8b64d_1:
 
     # "Lin is in the kitchen right now."
-    ""
+    "Lin está na cozinha agora."
 
 # game/script.rpy:6665
 translate pt_br floor1menu_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:6666
 translate pt_br floor1menu_14e9f18f_3:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:6669
 translate pt_br floor1menu_f965d7b1:
 
     # "I think I saw her heading to the Utility Room."
-    ""
+    "Eu acho que vi ela indo para a Despensa."
 
 # game/script.rpy:6675
 translate pt_br floor1menu_3efe29f2:
 
     # c "I should buy Nia."
-    c ""
+    c "Eu deveria comprar a Nia."
 
 # game/script.rpy:6677
 translate pt_br floor1menu_a26a2ff1:
 
     # c "I should buy Sylvia."
-    c ""
+    c "Eu deveria comprar a Sylvia."
 
 # game/script.rpy:6679
 translate pt_br floor1menu_50666834:
 
     # c "I should buy Ann."
-    c ""
+    c "EU deveria comprar a Ann."
 
 # game/script.rpy:6683
 translate pt_br floor1menu_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:6684
 translate pt_br floor1menu_1e29f957:
 
     # c "I think I saw her heading to The Sanctuary."
-    c ""
+    c "Eu acho que vi ela indo para o Santuáario."
 
 # game/script.rpy:6689
 translate pt_br floor1menu_a157d834:
 
     # c "They're not here... I think I saw them heading towards the hot springs."
-    c ""
+    c "Elas não estão aqui... Eu acho que vi elas indo para as fontes termais."
 
 # game/script.rpy:6692
 translate pt_br floor1menu_46cc20a7:
 
     # "Lin isn't here... I think I saw her heading to The Sanctuary."
-    ""
+    "Eu acho que vi ela indo para o Santuário."
 
 # game/script.rpy:6697
 translate pt_br floor1menu_e8978145:
 
     # "*knock knock knock* \nThere's no answer... I haven't seen her around the hotel much in the mornings recently. She must be in here..."
-    ""
+    "*knock knock knock* \nNinguém repode... Não tenho visto ela muito no hotel de manhã recentemente. Ela deve estar aqui..."
 
 # game/script.rpy:6699
 translate pt_br floor1menu_4cf88512:
 
     # l "Come in!"
-    l ""
+    l "There's no answer"
 
 # game/script.rpy:6711
 translate pt_br floor1menu_9d460a59:
 
     # l "[linoname]! I have a plan!"
-    l ""
+    l "[linoname]! Eu tenho um plano!"
 
 # game/script.rpy:6712
 translate pt_br floor1menu_3b11d017:
 
     # c "A plan? For what?"
-    c ""
+    c "Um plano? Para o quê?"
 
 # game/script.rpy:6713
 translate pt_br floor1menu_796f78ed:
 
     # l "You know what! You convinced me to get back on my feet after I failed convincing The High Elf Queen, so I made a plan. Don't you want to hear it?"
-    l ""
+    l "Você sabe o quê! Você me convenceu a me reerguer depois que eu falhei em covencer a Rainha dos ALtos Elfos, então eu fiz um plano. Você quer ouvir?"
 
 # game/script.rpy:6714
 translate pt_br floor1menu_9e25cf4d:
 
     # c "Absolutely."
-    c ""
+    c "Com certeza!"
 
 # game/script.rpy:6715
 translate pt_br floor1menu_3246deed:
 
     # l "Okay, I'll tell you but you should know a few things first, I don't want you to be confused."
-    l ""
+    l "Tudo bem, eu vou te contar, mas você precisa saber algumas coisas antes, eu não quero que você acabe confuso."
 
 # game/script.rpy:6716
 translate pt_br floor1menu_2dafcc9f:
 
     # l "92 years ago, when the last elvish uprising happened, I accidentally became involved."
-    l ""
+    l "A 92 anos atrás, quando a última relvota élfica aconteceu, eu acidentalmente acabei envolvida."
 
 # game/script.rpy:6717
 translate pt_br floor1menu_fa769ba7:
 
     # c "Wait, really? How were you involved? I didn't even know there was an elvish uprising at one point."
-    c ""
+    c "Espera, sério? Como você acabou envolvida? Eu nem sabia que havia uma revolta élfica."
 
 # game/script.rpy:6720
 translate pt_br floor1menu_94269e5f:
 
     # l "Oh, there's been three!"
-    l ""
+    l "Ah, já aconteceram três!"
 
 # game/script.rpy:6723
 translate pt_br floor1menu_d5c9730a:
 
     # l "But I didn't do anything, I was just... caught up in it. I was being auctioned off at this point because my previous master died of old age. When that happened, a group known as the Owl Clan attempted to liberate and recruit me. I was a bit too young to fight, but I did get to know them a bit for the two months we spent together."
-    l ""
+    l "Mas eu não fiz nada, eu só... parei no meio. Eu estava sendo leiloada naquele momento porque meu mestre anterior tinha morrido de velhice. Quando aquilo aconteceu, um grupo conhecido como o Clã das Corujas tentou me libertar e recrutar. Eu era um pouco jovem para lutar, mas eu pude conhecer eles um pouco pelos dois meses que passamos juntos."
 
 # game/script.rpy:6726
 translate pt_br floor1menu_2ea5df02:
 
     # l "Chief Iksa was their leader and she promised to take me to their homeland when the revolution was over, but... that never happened. The whole thing only lasted a few months. Once they found us, we split in all directions and never saw each other again..."
-    l ""
+    l "A Chefe Iksa era a líder deles, ela prometeu me levar para a terra natal dela quando a revolução terminasse, mas... isso nunca aconteceu. Aquilo tudo durou apenas alguns meses. Uma vez que eles nos encontraram, nós nos separamos para todas as direções e nunca mais nos vimos..."
 
 # game/script.rpy:6729
 translate pt_br floor1menu_02672e74:
 
     # l "But I remembered one thing she mentioned before we lost each other! Horseshoe Mountain!"
-    l ""
+    l "Mas eu me lembrei de uma coisa que ela mencionam antes de perdermos uma a outra! a Montanha Ferradura!"
 
 # game/script.rpy:6730
 translate pt_br floor1menu_69210ed4:
 
     # c "Horseshoe mountain?"
-    c ""
+    c "Montanha Ferradura?"
 
 # game/script.rpy:6731
 translate pt_br floor1menu_686f75c9:
 
     # l "I didn't know what it meant until I looked it up on the internet, it's a mountain in Syl'tali. That must be where they live! It's not too far from Rockport, I think we could get there by foot!"
-    l ""
+    l "Eu não sabia o que queria dizer até que eu procurei na internet, é uma montanha em Syl´tali. Deve ser onde eles vivrm! Não é muito longe de Rockport, eu acho que nós podemos chegar lá a pé!
+    "
 
 # game/script.rpy:6732
 translate pt_br floor1menu_59035e74:
 
     # c "You think they would still be there?"
-    c ""
+    c "Você acha que eles ainda estão lá?"
 
 # game/script.rpy:6733
 translate pt_br floor1menu_b8b533e2:
 
     # l "Of course! If we can find an uncharted island, I think we can find them too! I'm honestly not sure if Chief Iksa is still alive, but I'm sure their clan is still out there!"
-    l ""
+    l "É claro! Se nós conseguimos encontrar uma ilha desconhecida, eu acho que conseguimos encontrar eles também! Eu honestamente não sei se a Chefe Iksa está viva, mas com certeza o clã dela ainda deve estar por ali!"
 
 # game/script.rpy:6734
 translate pt_br floor1menu_86f611f8:
 
     # l "Once we're there, I would like to speak to Chief Iksa. You see [linoname], the desert elves live somewhat autonomously in Syl'tali. Their only master is the government, so they have their own communities out there!"
-    l ""
+    l "Uma vez que estivermos lá, eu gostaria de falar coma a Chefe Iksa. Sabe [linoname], os elfos do deserto vivem de forma um tanto autônoma em Syl'tali. Os seus únicos mestres são o governo, então eles devem ter suas próprias comunidades por ali!"
 
 # game/script.rpy:6735
 translate pt_br floor1menu_c7dea6bd:
 
     # l "Most humans don't know about them though, that's the issue. Since humans see us as animals, a community of elves prospering on their own would blow their mind! It would completely change how they see us!"
-    l ""
+    l "Apesar disso, a maioria dos humanos não sabe, sobre eles, esse é o problema. Como os humanos nos vêem como animais, uma comunidade de elfos prosperando por conta própria iria surpreendê-los muito! Isso iria mudar como eles nos vêem!"
 
 # game/script.rpy:6736
 translate pt_br floor1menu_adda3a92:
 
     # l "But since they know what we go through, I'm positive they will help us! Especially since they've helped me before! It's a great plan, don't you think [linoname]?"
-    l ""
+    l "Mas como eles sabem o que nós estamos passando, eu estou confiante de que eles vão nos ajudar! Especialmente depois de eles terem me ajudado antes! É um ótimo plano, não acha [linoname]?"
 
 # game/script.rpy:6737
 translate pt_br floor1menu_6fa275da:
 
     # c "Hmm, I'm sure it would change a few minds at least."
-    c ""
+    c "Hmm, tenho certeza de que mudaria a opinião de pelo menos algumas pessoas."
 
 # game/script.rpy:6738
 translate pt_br floor1menu_85a283d0:
 
     # l "That's right! All we gotta do is bring a camera and record them! If they let us..."
-    l ""
+    l "Você está certo! Tudo o que nós devemos fazer e levar uma câmera e gravá-los! Se eles nos permitirem..."
 
 # game/script.rpy:6741
 translate pt_br floor1menu_6e92e240:
@@ -9726,13 +9728,13 @@ translate pt_br floor1menu_d2e7f990:
 translate pt_br floor1menu_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7080
 translate pt_br floor1menu_14e9f18f_4:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:7091
 translate pt_br floor1menu_2a087c62:
@@ -9786,19 +9788,19 @@ translate pt_br floor1menu_b4c7db9b:
 translate pt_br floor1menu_b5f50750_7:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7113
 translate pt_br floor1menu_14e9f18f_5:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:7117
 translate pt_br floor1menu_b5f50750_8:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7118
 translate pt_br floor1menu_9e083317:
@@ -9810,49 +9812,49 @@ translate pt_br floor1menu_9e083317:
 translate pt_br floor1menu_b5f50750_9:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7127
 translate pt_br floor1menu_8fbd983c_1:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Ela provvavelmente está tomando banho."
 
 # game/script.rpy:7140
 translate pt_br floor1menu_a90fb508:
 
     # "Kali is at university right now."
-    ""
+    "Kali está na universidade agora."
 
 # game/script.rpy:7148
 translate pt_br floor1menu_ba254242:
 
     # "Kali is at work right now."
-    ""
+    "Kali estpa no trabalho agora."
 
 # game/script.rpy:7157
 translate pt_br floor1menu_f46015d4:
 
     # "You order your favorite pizza, and wait for Kali."
-    ""
+    "Você pede sua pizza favorita, e espera por Kali."
 
 # game/script.rpy:7159
 translate pt_br floor1menu_18941326:
 
     # k "One large pizza for..."
-    k ""
+    k "Uma pizza grande para..."
 
 # game/script.rpy:7161
 translate pt_br floor1menu_3130fa8d:
 
     # k "[name]!?" with ssshake
-    k "" with ssshake
+    k "[name]!?" with ssshake
 
 # game/script.rpy:7163
 translate pt_br floor1menu_8e3946bd:
 
     # k "So it was you who ordered... that'll be $5 please."
-    k ""
+    k "Então vou você que pediu... vao ficar R$ 24,00 por favor"
 
 # game/script.rpy:7164
 translate pt_br floor1menu_faf8f730:
@@ -9918,13 +9920,13 @@ translate pt_br floor1menu_335c3c89_1:
 translate pt_br floor1menu_b5f50750_10:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7227
 translate pt_br floor1menu_2f12ff34:
 
     # c "Hmm, she's probably at the hot spring"
-    c ""
+    c " fontes termais"
 
 # game/script.rpy:7233
 translate pt_br floor1menu_335c3c89_2:
@@ -10116,25 +10118,25 @@ translate pt_br floor1menu_a6a56d9d:
 translate pt_br floor1menu_b5f50750_11:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7331
 translate pt_br floor1menu_c8a554e6:
 
     # c "She's probably at the hot spring"
-    c ""
+    c " fontes termais"
 
 # game/script.rpy:7334
 translate pt_br floor1menu_b5f50750_12:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7335
 translate pt_br floor1menu_c8a554e6_1:
 
     # c "She's probably at the hot spring"
-    c ""
+    c " fontes termais"
 
 # game/script.rpy:7357
 translate pt_br floor1menu_335c3c89_3:
@@ -10878,13 +10880,13 @@ translate pt_br kcreep_335c3c89_1:
 translate pt_br kcreep_b5f50750:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7763
 translate pt_br kcreep_14e9f18f:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:7773
 translate pt_br kcreep_9194e4fd:
@@ -10938,13 +10940,13 @@ translate pt_br kcreep_13b286d1:
 translate pt_br kcreep_b5f50750_1:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7795
 translate pt_br kcreep_14e9f18f_1:
 
     # c "She's probably hanging around the hotel."
-    c ""
+    c "Ela provavelmente está passeando pelo hotel."
 
 # game/script.rpy:7807
 translate pt_br kcreep_6193f5a5:
@@ -11352,37 +11354,37 @@ translate pt_br kcreep_7beea144:
 translate pt_br kcreep_b5f50750_2:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7976
 translate pt_br kcreep_8fbd983c:
 
     # c "She's probably taking a shower."
-    c ""
+    c "Ela provvavelmente está tomando banho."
 
 # game/script.rpy:7988
 translate pt_br kcreep_b5f50750_3:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7989
 translate pt_br kcreep_2f12ff34:
 
     # c "Hmm, she's probably at the hot spring"
-    c ""
+    c " fontes termais"
 
 # game/script.rpy:7993
 translate pt_br kcreep_b5f50750_4:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:7994
 translate pt_br kcreep_4663eb93:
 
     # c "I think I saw her heading to the laundry room."
-    c ""
+    c "Eu acho que vi ela indo para"
 
 # game/script.rpy:8001
 translate pt_br kcreep_17166247:
@@ -11400,19 +11402,19 @@ translate pt_br kcreep_d78f3154:
 translate pt_br kcreep_b5f50750_5:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:8010
 translate pt_br kcreep_407d26d4:
 
     # c "I think I saw her heading to Maria's room."
-    c ""
+    c "Eu acho que vi ela indo para "
 
 # game/script.rpy:8014
 translate pt_br kcreep_b5f50750_6:
 
     # "*knock knock knock* \n There's no answer"
-    ""
+    "*knock knock knock* \n Ninguém responde"
 
 # game/script.rpy:8015
 translate pt_br kcreep_f8bfb49c:
