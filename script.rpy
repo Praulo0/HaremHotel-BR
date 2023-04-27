@@ -9254,163 +9254,163 @@ translate pt_br floor1menu_85a283d0:
 translate pt_br floor1menu_6e92e240:
 
     # l "So [linoname]... do you want to go on a hike with me?"
-    l ""
+    l "Então [linoname]... você quer caminhar comigo?"
 
 # game/script.rpy:6742
 translate pt_br floor1menu_f65eb918:
 
     # c "Sounds fun, let's do it."
-    c ""
+    c "Parece divertido, vamos lá."
 
 # game/script.rpy:6748
 translate pt_br floor1menu_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/script.rpy:6749
 translate pt_br floor1menu_64f65bc7:
 
     # l "Just let me sleep..."
-    l ""
+    l "Só me deixa dormir..."
 
 # game/script.rpy:6750
 translate pt_br floor1menu_1756dfb5:
 
     # c "Can I come in?"
-    c ""
+    c "Posso entrar?"
 
 # game/script.rpy:6751
 translate pt_br floor1menu_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:6752
 translate pt_br floor1menu_c6c955e3:
 
     # l "Okay..."
-    l ""
+    l "Tudo bem..."
 
 # game/script.rpy:6755
 translate pt_br floor1menu_ecf18235_1:
 
     # "*knock knock knock*"
-    ""
+    "*knock knock knock*"
 
 # game/script.rpy:6756
 translate pt_br floor1menu_ac58f6ff:
 
     # l "Come in..."
-    l ""
+    l "Pode entrar..."
 
 # game/script.rpy:6760
 translate pt_br floor1menu_ca3e8c66:
 
     # c "I wait for Maria to get back."
-    c ""
+    c "Eu vou esperar a Maria voltar."
 
 # game/script.rpy:6764
 translate pt_br floor1menu_33f1b40c:
 
     # "This event will lock you from the hotel for some time, are you sure?"
-    ""
+    "Esse evento vai trancá-lo do hotel por algum tempo, você tem certeza?"
 
 # game/script.rpy:6767
 translate pt_br floor1menu_ecf18235_2:
 
     # "*knock knock knock*"
-    ""
+    "*kcnock knock knock*"
 
 # game/script.rpy:6768
 translate pt_br floor1menu_e9c8d1ae:
 
     # c "Are you ready?"
-    c ""
+    c "Você está pronta?"
 
 # game/script.rpy:6772
 translate pt_br floor1menu_04dbbaf3:
 
     # l "Hello [linoname]! Let me grab a few things and I will be on the way!"
-    l ""
+    l "Olá [linoname]! Eu só vou pegar algumas coisas e já estarei a caminho!"
 
 # game/script.rpy:6777
 translate pt_br floor1menu_6e496a1c:
 
     # c "I can't afford a vacation..."
-    c ""
+    c "Eu não posso pagar umas férias..."
 
 # game/script.rpy:6789
 translate pt_br floor1menu_e3fd152b:
 
     # c "I should raise [botname]'s friendship."
-    c ""
+    c "Eu deveria aumentar a amizade de [botname]."
 
 # game/script.rpy:6791
 translate pt_br floor1menu_e3fd152b_1:
 
     # c "I should raise [botname]'s friendship."
-    c ""
+    c "Eu deveria aumentar a amizade de [botname]."
 
 # game/script.rpy:6797
 translate pt_br floor1menu_7f468e7e:
 
     # l "Hi [linoname]..."
-    l ""
+    l "Oi [linoname]..."
 
 # game/script.rpy:6798
 translate pt_br floor1menu_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "E aí?"
 
 # game/script.rpy:6801
 translate pt_br floor1menu_315ac068:
 
     # l "I was wondering if you could take me shopping! I've really been wanting to visit the city, and this maid outfit has been getting a bit boring..."
-    l ""
+    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho eestado com vontade de visitar a cidade, e essa roupa de empregada está ficando um pouco chata... "
 
 # game/script.rpy:6802
 translate pt_br floor1menu_54898fb8:
 
     # l "I think humans can build really cool buildings! They're so tall, and I've never actually been inside the human cities after they built tall buildings!"
-    l ""
+    l "Eu acho que os humanos conseguem fazer construções muito legais! Elas são tão altas, e eu nunca cheguei a estar em uma cidade humana depois que eles fizeram essas construções altas!"
 
 # game/script.rpy:6805
 translate pt_br floor1menu_9cc33776:
 
     # l "So can you take me shopping [linoname]?"
-    l ""
+    l "Então, você pode me levar ao shopping [linoname]?"
 
 # game/script.rpy:6808
 translate pt_br floor1menu_bccbf5c4:
 
     # l "Thank you [linoname]! Let's go!"
-    l ""
+    l "Obrigada [linoname]! Vamos!"
 
 # game/script.rpy:6810
 translate pt_br floor1menu_19478eb4:
 
     # "You and Lin jump in your car. After a somewhat long drive, you finally make your way to the city."
-    ""
+    "Você e Lin entram no seu carro. Depois de uma viagem relativamente linga, vocês finalmente chegam na cidade."
 
 # game/script.rpy:6811
 translate pt_br floor1menu_ae5f26bc:
 
     # "As you walk through the city, you get many, many stares from passersby. Lin looks worringly at you and is clearly offput by all of these glances. Eventually, she sticks to looking towards the ground."
-    ""
+    "Conforme vocês andam pela cidade, vocês recebem muitos, muitos olhares de transeuntes. Lin olha preocupada para você e claramente está incomodada com todos esses olhares. Eventualmente, ela se limita a olhar para o chão."
 
 # game/script.rpy:6812
 translate pt_br floor1menu_3ea52ebf:
 
     # "You and Lin continue walking around the city, glances seem to calm down as you enter a better part of town..."
-    ""
+    "Você eLin continuam andando pela cidade, os olhares parecem ir diminuindo conforme vocês vão indo para uma parte melhor da cidade..."
 
 # game/script.rpy:6815
 translate pt_br floor1menu_94ffd8c9:
 
     # l "Oh okay, no rush."
-    l ""
+    l "Ah, tudo bem, sem pressa."
 
 # game/script.rpy:6827
 translate pt_br floor1menu_dfdb2a17:
