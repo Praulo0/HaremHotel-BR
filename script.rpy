@@ -4097,7 +4097,7 @@ translate pt_br bartraining_f5d0a14f_2:
 translate pt_br bartraining_870ee9c8:
 
     # c "I need to buy her Maid Cat Outfit first."
-    c "Eu preciso comprar  a Roupa de Gata Empregada Doméstica primeiro."
+    c "Eu preciso comprar a Roupa de Gata Empregada Doméstica primeiro."
 
 # game/script.rpy:3828
 translate pt_br bartraining_f5d0a14f_3:
@@ -5705,7 +5705,7 @@ translate pt_br floor2menu_697668e2:
 translate pt_br floor2menu_34e05bae:
 
     # "[botname] goes into her room and changes her clothes to her newly bought veil outfit..."
-    "[botname] entra no quarto deka e troca suas roupas por sua roupa nova de véu..."
+    "[botname] entra no quarto dela e troca suas roupas por sua nova roupa de noiva..."
 
 # game/script.rpy:4936
 translate pt_br floor2menu_ac90ad65_3:
@@ -5789,7 +5789,7 @@ translate pt_br floor2menu_9cc9e4f7_1:
 translate pt_br floor2menu_8a736f24:
 
     # bot "That's... a very slutty outfit [botown]..."
-    bot "Essa... é uma roupa muito indecente [botown]..."
+    bot "Essa... é uma roupa muito vulgar [botown]..."
 
 # game/script.rpy:4978
 translate pt_br floor2menu_f9624506:
@@ -7590,7 +7590,7 @@ translate pt_br lobby_ee0f9226:
 translate pt_br lobby_779568dc:
 
     # c "Your Bartender outfit came in."
-    c "Sua roupa de Bartender chegou."
+    c "Sua roupa de Barman chegou."
 
 # game/script.rpy:6045
 translate pt_br lobby_cb1246b5:
@@ -8004,7 +8004,7 @@ translate pt_br lobby_cd3edf70:
 translate pt_br lobby_84d562ae:
 
     # m "...Speaking of which... if you want to test drive my new outfit just let me know..."
-    m "... Falando nisso... se você quiser fazer um test-drive da minha roupa é só me avisar..."
+    m "... Falando nisso... se você quiser fazer um test-drive da minha roupa nova é só me avisar..."
 
 # game/script.rpy:6243
 translate pt_br lobby_037d3b81:
@@ -9368,7 +9368,7 @@ translate pt_br floor1menu_48fc288b:
 translate pt_br floor1menu_315ac068:
 
     # l "I was wondering if you could take me shopping! I've really been wanting to visit the city, and this maid outfit has been getting a bit boring..."
-    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho eestado com vontade de visitar a cidade, e essa roupa de empregada está ficando um pouco chata... "
+    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho estado com vontade de visitar a cidade, e essa roupa de empregada está ficando um pouco chata... "
 
 # game/script.rpy:6802
 translate pt_br floor1menu_54898fb8:
@@ -9596,7 +9596,7 @@ translate pt_br floor1menu_6c493eb8_3:
 translate pt_br floor1menu_1b7074a1:
 
     # l "What!? That's too slutty, I can't wear that!"
-    l "O quê!? Isso é muito erótico, eu não posso vestir isso!"
+    l "O quê!? Isso é muito vulgar, eu não posso vestir isso!"
 
 # game/script.rpy:7009
 translate pt_br floor1menu_1f684cc8:
@@ -9620,7 +9620,7 @@ translate pt_br floor1menu_1f684cc8_1:
 translate pt_br floor1menu_2f320a32:
 
     # l "Wow... this outfit is really slutty!"
-    l "Uou... essa roupa é realmente erótica!"
+    l "Uou... essa roupa é realmente vulgar!"
 
 # game/script.rpy:7024
 translate pt_br floor1menu_1c06eb13:
@@ -10238,445 +10238,445 @@ translate pt_br floor1menu_bab8ce2c:
 translate pt_br floor1menu_b5687cd2:
 
     # k "Alright. The sooner the better though."
-    k ""
+    k "Entendido. Mas quanto mais cedo,  melhor."
 
 # game/script.rpy:7459
 translate pt_br floor1menu_61ee96a1:
 
     # "I need to raise Lin's friendship."
-    ""
+    "Eu preciso aumentar a amizade da Lin."
 
 # game/script.rpy:7469
 translate pt_br floor1menu_1726adcc:
 
     # k "Hey [name], I need your help..."
-    k ""
+    k "Ei [name], eu preciso da sua ajuda..."
 
 # game/script.rpy:7470
 translate pt_br floor1menu_3ca82132:
 
     # k "There's been this creepy guy who asks specifically for me to deliver his pizzas... I'm worried he might try something dangerous."
-    k ""
+    k "Tem um cara esquisitão que pede especificamente para eu esntregar as pizzas dele... Eu estou preocupada que ele possa tentar fazer algo perigoso."
 
 # game/script.rpy:7471
 translate pt_br floor1menu_6be9093a:
 
     # k "Can you come with me?"
-    k ""
+    k "Você pode ir comigo?"
 
 # game/script.rpy:7476
 translate pt_br kcreep_3784922f:
 
     # k "Awesome!"
-    k ""
+    k "Maravilha!"
 
 # game/script.rpy:7479
 translate pt_br kcreep_77400381:
 
     # k "Work starts in 10 minutes, he should be my first delivery if he keeps his schedule..."
-    k ""
+    k "O trabalho começa em 10 minutos, ele deve a minha primeira entrega se ele mantiver sua programação..."
 
 # game/script.rpy:7481
 translate pt_br kcreep_de1f081c:
 
     # "You and Kali exit the hotel, you enter her car and she drives you to Papa Rons."
-    ""
+    "Você e Kali saem do hotel, você entra no carro dela e ela dirige com você ao Papa Rons."
 
 # game/script.rpy:7482
 translate pt_br kcreep_c2f04909:
 
     # "Not long after, she's called to deliver a Pizza. Kali explains that, sure enough, the creepy guy is her first delivery..."
-    ""
+    "Pouco tempo depois, ela é chamada para entregar uma Pizza. Kali explica que, com certeza, o cara esquisitão era a sua primeira entrega..."
 
 # game/script.rpy:7484
 translate pt_br kcreep_4a1a4a82:
 
     # "After driving through some back roads, you arrive at his house."
-    ""
+    "Após dirigir por algumas estradas vicinais, vocês chegam na casa dele."
 
 # game/script.rpy:7486
 translate pt_br kcreep_a7a7e549:
 
     # k "Okay... we're here."
-    k ""
+    k "Tudo bem... chegamos."
 
 # game/script.rpy:7488
 translate pt_br kcreep_e7c09979:
 
     # k "There's a knife in the glove box just in case..."
-    k ""
+    k "Tem uma faca no porta luvas, só por precaução..."
 
 # game/script.rpy:7490
 translate pt_br kcreep_e0876ff0:
 
     # k "Pizza delivery!"
-    k ""
+    k "Entrega de pizza!"
 
 # game/script.rpy:7491
 translate pt_br kcreep_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:7493
 translate pt_br kcreep_798bba3f:
 
     # c "There he is..."
-    c ""
+    c "Aqui está ele..."
 
 # game/script.rpy:7494
 translate pt_br kcreep_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:7496
 translate pt_br kcreep_26c4af3a:
 
     # c "What are they talking about...?"
-    c ""
+    c "Do que eles estão falando...?"
 
 # game/script.rpy:7497
 translate pt_br kcreep_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:7499
 translate pt_br kcreep_954f38e0:
 
     # k "50 DOLLARS!?" with ssshake
-    k "" with ssshake
+    k "250 REAIS!?" with ssshake
 
 # game/script.rpy:7500
 translate pt_br kcreep_b7611eac:
 
     # c "What...?"
-    c ""
+    c "O quê...?"
 
 # game/script.rpy:7502
 translate pt_br kcreep_2541b8e2:
 
     # k "[name], he wants to give me $50..."
-    k ""
+    k "[name], ele quer me dar R$ 250,00..."
 
 # game/script.rpy:7503
 translate pt_br kcreep_da9f9277:
 
     # c "Why would he do that?"
-    c ""
+    c "Por que ele faria isso?"
 
 # game/script.rpy:7505
 translate pt_br kcreep_d8c9644e:
 
     # k "He wants me to masturbate on his porch..."
-    k ""
+    k "Ele quer que eu me masturbe na varanda dele..."
 
 # game/script.rpy:7506
 translate pt_br kcreep_7bc431ac:
 
     # k "He said he would go inside and watch me through the window... said he liked watching girls masturbate..."
-    k ""
+    k "Ele disse que  iria entrar e me assistir pela janela... disse que gostava de assistir meninas se masturbando..."
 
 # game/script.rpy:7507
 translate pt_br kcreep_f21fd40d:
 
     # k "But for $50? I don't know, it might be worth it... what do you think [name]?"
-    k ""
+    k "MAs por R$ 250,00? Eu não sei, pode valer a pena... o que você acha [name]?"
 
 # game/script.rpy:7510
 translate pt_br kcreep_2afb9284:
 
     # k "You think I should...?"
-    k ""
+    k "Você acha que eu deveria...?"
 
 # game/script.rpy:7511
 translate pt_br kcreep_7e75ad87:
 
     # k "Fuck, I need the money really bad..."
-    k ""
+    k "Porra, eu realmente preciso muito desse dinheiro..."
 
 # game/script.rpy:7512
 translate pt_br kcreep_279d0c12:
 
     # k "Egh, just... don't look, okay?"
-    k ""
+    k "Egh, só... não olha, tá bom?"
 
 # game/script.rpy:7514
 translate pt_br kcreep_a8a3d511:
 
     # c "Wow, she's actually doing it..."
-    c ""
+    c "Uau, ela realmente está fazendo isso..."
 
 # game/script.rpy:7515
 translate pt_br kcreep_dfef5fdc:
 
     # k "I'm really going to do this, aren't I?"
-    k ""
+    k "Eu vou isso de verdade, né?"
 
 # game/script.rpy:7516
 translate pt_br kcreep_95092035:
 
     # k "Masturbate outside... with [name] watching... and that creep..."
-    k ""
+    k "Me masturbar ao ar livre... com o [name] assistindo... e esse esquisitão..."
 
 # game/script.rpy:7518
 translate pt_br kcreep_0181f5c5:
 
     # k "God, I'm such a slut."
-    k ""
+    k "Deus, eu sou uma vadia."
 
 # game/script.rpy:7519
 translate pt_br kcreep_d57b2080:
 
     # k "...A dirty slut..."
-    k ""
+    k "... uma vadia suja..."
 
 # game/script.rpy:7521
 translate pt_br kcreep_8b09dd55:
 
     # k "Masturbating for money..."
-    k ""
+    k "Se masturbando por dinheiro..."
 
 # game/script.rpy:7522
 translate pt_br kcreep_249ff410:
 
     # k "Does this make me a whore...?"
-    k ""
+    k "Isso me torna uma puta...?"
 
 # game/script.rpy:7523
 translate pt_br kcreep_fc54e19e:
 
     # k "Nnnnh..."
-    k ""
+    k "Nnnnh..."
 
 # game/script.rpy:7525
 translate pt_br kcreep_3447bdb7:
 
     # k "Mmmm... A dirty whore..."
-    k "Mmmm..."
+    k "Mmmm... Uma puta suja..."
 
 # game/script.rpy:7527
 translate pt_br kcreep_bfe6f6dc:
 
     # k "Ahh... fuck..."
-    k ""
+    k "Ahh... porra..."
 
 # game/script.rpy:7528
 translate pt_br kcreep_0cc10941:
 
     # k "Are you proud now, Dad? Your daughter's a slut... Nnngh, asshole..."
-    k ""
+    k "Você está feliz agora, Pai? Sua filha é uam vadia... Nnnhg, cuzão..."
 
 # game/script.rpy:7529
 translate pt_br kcreep_07941222:
 
     # k "Ahhh, hahhh...! Why does this feel so much better than usual...? Mmmmn...!"
-    k ""
+    k "Ahhh, hahhh...! Por que isso parece ser tão melhor do que o normal...? Mmmmn...!"
 
 # game/script.rpy:7533
 translate pt_br kcreep_a9d4e038:
 
     # k "Hahhh... Are you watching [name]...? I hope you are..."
-    k ""
+    k "Hahhhh... Você está assistindo [name]...? Eu espero que esteja..."
 
 # game/script.rpy:7534
 translate pt_br kcreep_3793b492:
 
     # k "Ahhhn... Hnnngh! Fuck, I'm getting close...!"
-    k ""
+    k "Ahhhn... Hnnngh! Porra, estou quase lá...!"
 
 # game/script.rpy:7535
 translate pt_br kcreep_4677bd71:
 
     # k "Yessss! Mmmh!"
-    k ""
+    k "Simmmm! Mmmh!"
 
 # game/script.rpy:7538
 translate pt_br kcreep_d3fa7f44:
 
     # k "Ohhh my goooood...."
-    k ""
+    k "Ahhh meu deeeeeus...."
 
 # game/script.rpy:7539
 translate pt_br kcreep_f4710064:
 
     # k "Fuck...! I think I'm going to cum on this creeps porch... with [name] watching me... Ah!"
-    k ""
+    k "Porra...! Eu acho que vou gozar na varanda desse esquisitão... com o [name] me assistindo... Ah!"
 
 # game/script.rpy:7540
 translate pt_br kcreep_6410736a:
 
     # k "Fuck! Yes! I'm going to cum! MMMMM!"
-    k ""
+    k "Porra! Isso! Eu vou gozar! MMMMM!"
 
 # game/script.rpy:7544
 translate pt_br kcreep_bf8d5bcc:
 
     # k "AHHH!!!" with ssshake
-    k "" with ssshake
+    k "AHHH!!!" with ssshake
 
 # game/script.rpy:7545
 translate pt_br kcreep_19e24107:
 
     # k "Ahh!! Ahhhh!!!" with ssshake
-    k "" with ssshake
+    k "Ahh!! Ahhhh!!!" with ssshake
 
 # game/script.rpy:7547
 translate pt_br kcreep_2a3539b5:
 
     # k "Ohhh... oh fuck..." with ssshake
-    k "" with ssshake
+    k "Ohhh... ô porra..." with ssshake
 
 # game/script.rpy:7548
 translate pt_br kcreep_c7887b7c:
 
     # k "Ahhh... Shit... that was amazing..."
-    k ""
+    k "Ahhh... Merda... isso foi incrível..."
 
 # game/script.rpy:7549
 translate pt_br kcreep_007312cd:
 
     # k "Hahhh... Why did I cum so hard...? Mmmmm..."
-    k ""
+    k "Hahhh... Por que eu gozei tanto...? Mmmmm..."
 
 # game/script.rpy:7553
 translate pt_br kcreep_56a0cf9e:
 
     # cr "Here you go, girl."
-    cr ""
+    cr "Aqui está, garota."
 
 # game/script.rpy:7554
 translate pt_br kcreep_3cf88db8:
 
     # k "Oh, right... thanks..."
-    k ""
+    k "Ah, certo... obrigada..."
 
 # game/script.rpy:7558
 translate pt_br kcreep_b62f65d8:
 
     # k "Holy shit. [name] did you see that?"
-    k ""
+    k "Puta merda. [name] você viu isso?"
 
 # game/script.rpy:7560
 translate pt_br kcreep_85eb5f61:
 
     # k "B-Because you better not have..."
-    k ""
+    k "P-Porque é melhor você não ter..."
 
 # game/script.rpy:7561
 translate pt_br kcreep_7390c3cc:
 
     # k "I'm not a slut..."
-    k ""
+    k "Eu não sou uma vadia..."
 
 # game/script.rpy:7562
 translate pt_br kcreep_82091822:
 
     # k "..."
-    k ""
+    k "..."
 
 # game/script.rpy:7563
 translate pt_br kcreep_2392584c:
 
     # k "Thanks [name]... for having my back and everything..."
-    k ""
+    k "Obrigada [name]... por me apoiar e tudo..."
 
 # game/script.rpy:7564
 translate pt_br kcreep_fa004465:
 
     # k "Come on, let's go home."
-    k ""
+    k "Vamos, vamos pra casa."
 
 # game/script.rpy:7568
 translate pt_br kcreep_7ef175e1:
 
     # "You drive Kali back to the hotel."
-    ""
+    "Você e Kali dirigem de volta ao hotel."
 
 # game/script.rpy:7570
 translate pt_br kcreep_f010c328:
 
     # k "Well... that was something..."
-    k ""
+    k "Bem... isso foi meio..."
 
 # game/script.rpy:7572
 translate pt_br kcreep_73096e81:
 
     # k "But I got $50!"
-    k ""
+    k "Mas eu consegui R$ 250,00!"
 
 # game/script.rpy:7574
 translate pt_br kcreep_677b85d2:
 
     # k "Thanks [name], for everything..."
-    k ""
+    k "Obrigada [name], por tudo..."
 
 # game/script.rpy:7578
 translate pt_br kcreep_016b5bf6:
 
     # k "Yeah, okay, that's probably a good idea."
-    k ""
+    k "É, tá bom, deve ser uma boa ideia."
 
 # game/script.rpy:7580
 translate pt_br kcreep_7ef175e1_1:
 
     # "You drive Kali back to the hotel."
-    ""
+    "Você e Kali dirigem de volta ao hotel"
 
 # game/script.rpy:7582
 translate pt_br kcreep_cf03e793:
 
     # k "Well, that was creepy, but I kind of wish I got that money..."
-    k ""
+    k "Bem, isso foi bizarro, mas eu bem que gostaria de ficar com aquele dinheiro..."
 
 # game/script.rpy:7583
 translate pt_br kcreep_f755d123:
 
     # k "Anyway, thanks for that, it wasn't as bad with you there."
-    k ""
+    k "Enfim, obrigada por aquilo, não foi tão ruim com você lá."
 
 # game/script.rpy:7590
 translate pt_br kcreep_495341cf:
 
     # k "Oh... okay..."
-    k ""
+    k "Ah... tudo bem..."
 
 # game/script.rpy:7598
 translate pt_br kcreep_6ba2763a:
 
     # k "Oh, [name]... I was thinking of getting out for a bit... Are you interested in going to the beach with me?"
-    k ""
+    k "Ah, [name]... Eu estava pensando em sair um pouco... Está interessado em ir à praia comigo?"
 
 # game/script.rpy:7603
 translate pt_br kcreep_3784922f_1:
 
     # k "Awesome!"
-    k ""
+    k "Maravilha!"
 
 # game/script.rpy:7606
 translate pt_br kcreep_e1dbe713:
 
     # k "Ummm, yeah. Let's go..."
-    k ""
+    k "Hummm, sim. Vamos lá..."
 
 # game/script.rpy:7613
 translate pt_br kcreep_b16e1451:
 
     # k "Oh, yeah sure, whatever. I'm pretty busy as well..."
-    k ""
+    k "Ah, que sejan beleza. Eu tmbém estou bem ocupada..."
 
 # game/script.rpy:7619
 translate pt_br kcreep_29f7e3ea:
 
     # "I should buy her a bunny suit..."
-    ""
+    "Eu deveria comprar uma roupa de coelha para ela..."
 
 # game/script.rpy:7628
 translate pt_br kcreep_55838880:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí?"
 
 # game/script.rpy:7629
 translate pt_br kcreep_6c493eb8:
@@ -10688,31 +10688,31 @@ translate pt_br kcreep_6c493eb8:
 translate pt_br kcreep_9ffa6e11:
 
     # k "Oh wow, I like it! Thanks. Maybe I'll let you see me wear it some day..."
-    k ""
+    k "Ah uau, gostei disso! Obrigada. Talvez eu deixe você me ver usando isso algum dia..."
 
 # game/script.rpy:7638
 translate pt_br kcreep_55838880_1:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí?"
 
 # game/script.rpy:7639
 translate pt_br kcreep_6c493eb8_1:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:7640
 translate pt_br kcreep_9ffa6e11_1:
 
     # k "Oh wow, I like it! Thanks. Maybe I'll let you see me wear it some day..."
-    k ""
+    k "Ah uau, gostei disso! Obrigada. Talvez eu deixe você me ver usando isso algum dia..."
 
 # game/script.rpy:7648
 translate pt_br kcreep_55838880_2:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí?"
 
 # game/script.rpy:7649
 translate pt_br kcreep_6c493eb8_2:
@@ -10724,25 +10724,25 @@ translate pt_br kcreep_6c493eb8_2:
 translate pt_br kcreep_9ffa6e11_2:
 
     # k "Oh wow, I like it! Thanks. Maybe I'll let you see me wear it some day..."
-    k ""
+    k "Ah uau, gostei disso! Obrigada. Talvez eu deixe você me ver usando isso algum dia..."
 
 # game/script.rpy:7658
 translate pt_br kcreep_55838880_3:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí?"
 
 # game/script.rpy:7659
 translate pt_br kcreep_6c493eb8_3:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:7663
 translate pt_br kcreep_7f9645c7:
 
     # k "What? I'm not wearing that!"
-    k ""
+    k "O quê? Eu não vou vestir"
 
 # game/script.rpy:7664
 translate pt_br kcreep_99b307da:
@@ -10754,127 +10754,127 @@ translate pt_br kcreep_99b307da:
 translate pt_br kcreep_55905291:
 
     # k "I don't know... this is really slutty."
-    k ""
+    k "Eu não sei... isso é bem vulgar."
 
 # game/script.rpy:7673
 translate pt_br kcreep_b7a63e96:
 
     # k "Guess I'll just have to try it on and see for myself."
-    k ""
+    k "Acho que vou só experimentar e ver por mim mesma."
 
 # game/script.rpy:7675
 translate pt_br kcreep_35a40811:
 
     # "Kali removes her clothing and changes in to her slut outfit..."
-    ""
+    "Kali tira suas roupas e troca para a sua roupa de puta..."
 
 # game/script.rpy:7677
 translate pt_br kcreep_c2fe32fe:
 
     # k "This is pretty over the top, don't you think?"
-    k ""
+    k "Isso é bem fora dos limites, não acha?"
 
 # game/script.rpy:7679
 translate pt_br kcreep_97279d73:
 
     # k "Well? Do I look slutty enough for you?"
-    k ""
+    k "Bem? Eu pareço vulgar o suficiente para você?"
 
 # game/script.rpy:7683
 translate pt_br kcreep_f64ef459:
 
     # k "So I was thinking... want to try it out?"
-    k ""
+    k "Então eu estava pensando... quer experimentar?"
 
 # game/script.rpy:7689
 translate pt_br kcreep_d602af56:
 
     # k "Oh, okay... Later then?"
-    k ""
+    k "Ah, tudo bem... Depois então?"
 
 # game/script.rpy:7699
 translate pt_br kcreep_32452e75:
 
     # "I should raise Kali's submission and train her in anal a little bit more..."
-    ""
+    "Eu deveria aumentar a submissão da Kali e treinar ela em anal um pouco mais..."
 
 # game/script.rpy:7719
 translate pt_br kcreep_9fd9f52e:
 
     # c "I have a special mission for you..."
-    c ""
+    c "Eu tenho uma missão especial para você..."
 
 # game/script.rpy:7720
 translate pt_br kcreep_fcca7a9a:
 
     # k "Oh? What's up?"
-    k ""
+    k "Ah? O que é?"
 
 # game/script.rpy:7721
 translate pt_br kcreep_890baa82:
 
     # c "I'd like you to advertise the hot springs at your university as an {i}exotic hot springs with healing properties{/i}."
-    c ""
+    c "Eu gostaria que você anunciasse as nossas fontes termais na sua universidade como {i}fontes termais exóticas com propriedades de cura {/i}."
 
 # game/script.rpy:7722
 translate pt_br kcreep_32808963:
 
     # k "Do we really need the business?"
-    k ""
+    k "Nós precisamos mesmo desse trabalho?"
 
 # game/script.rpy:7723
 translate pt_br kcreep_2bcbba91:
 
     # c "We're not hurting, but that place could use some more traffic."
-    c ""
+    c "Nós não estamos passando por nenhum aperto, mas esse lugar poderia ter mais movimento."
 
 # game/script.rpy:7724
 translate pt_br kcreep_79800ef2:
 
     # k "Alright... so do you want me to make the flyer?"
-    k ""
+    k "Certo então... então você quer que eu faça a panfletagem?"
 
 # game/script.rpy:7725
 translate pt_br kcreep_a89a0d91:
 
     # c "That would be nice."
-    c ""
+    c "Isso seria bom."
 
 # game/script.rpy:7726
 translate pt_br kcreep_5030ebb2:
 
     # k "I'm not that great at it, but I can try."
-    k ""
+    k "Eu não sou tão boa nisso, mas posso tentar."
 
 # game/script.rpy:7727
 translate pt_br kcreep_f7772536:
 
     # c "Good luck."
-    c ""
+    c "Boa sorte."
 
 # game/script.rpy:7730
 translate pt_br kcreep_d71ee0e5:
 
     # c "If word gets out, I can expect them to come to my hot springs before school. I should check at noon."
-    c ""
+    c "Se isso der certo, eu posso esperar que elas venham para as minhas fontes termais depois da escola. Eu deveria dar uma olhada ao meio-dia."
 
 # game/script.rpy:7737
 translate pt_br kcreep_85e625c6:
 
     # "Kali is at work right now wearing the outfit you gave her."
-    ""
+    "Kali está trabalhando agora usando a roupa que você deu a ela."
 
 # game/script.rpy:7744
 translate pt_br kcreep_335c3c89:
 
     # k "Come in!"
-    k ""
+    k "Pode entrar!"
 
 # game/script.rpy:7754
 translate pt_br kcreep_335c3c89_1:
 
     # k "Come in!"
-    k ""
+    k "Pode entrar!"
 
 # game/script.rpy:7762
 translate pt_br kcreep_b5f50750:
