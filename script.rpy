@@ -6281,7 +6281,7 @@ translate pt_br floor2menu_0cd4823e_1:
 translate pt_br floor2menu_93ba0410:
 
     # c "Felicity doesn't seem happy. Maybe I should buy her a gift."
-    c "Felicity não parece feliz. Talvez eu devesse comprar um presente para ela."
+    c "A Felicity não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:5188
 translate pt_br floor2menu_e14075b0:
@@ -6329,7 +6329,7 @@ translate pt_br floor2menu_cfd1deed_1:
 translate pt_br floor2menu_ef2a7430:
 
     # c "Emma doesn't seem happy. Maybe I should buy her a gift."
-    c "Emma não parece feliz. Talvez eu devesse comprar um presente para ela."
+    c "A Emma não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:5211
 translate pt_br floor2menu_b7eb71bb:
@@ -6911,7 +6911,7 @@ translate pt_br floor2menu_41360cd6_1:
 translate pt_br floor2menu_1fd98d28:
 
     # c "Autumn doesn't seem happy. Maybe I should buy her a gift."
-    c "Autumn não parece feliz. Talvez eu devesse comprar um presente para ela."
+    c "A Autumn não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:5580
 translate pt_br floor2menu_fa340554:
@@ -7470,7 +7470,7 @@ translate pt_br lobby_cdb5456b_1:
 translate pt_br lobby_ee958cfe:
 
     # c "Maria doesn't seem happy. Maybe I should buy her a gift."
-    c "Maria não parece feliz. Talvez eu devesse comprar um presente para ela."
+    c "A Maria não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:5966
 translate pt_br lobby_b5f50750_2:
@@ -9782,7 +9782,7 @@ translate pt_br floor1menu_2a087c62_1:
 translate pt_br floor1menu_b4c7db9b:
 
     # c "Kali doesn't seem happy. Maybe I should buy her a gift."
-    c "A Kali não parece feliz. Talvez eu devesse comprar um presente para ele."
+    c "A Kali não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:7112
 translate pt_br floor1menu_b5f50750_7:
@@ -10892,49 +10892,49 @@ translate pt_br kcreep_14e9f18f:
 translate pt_br kcreep_9194e4fd:
 
     # a "Go away!"
-    a ""
+    a "Cai fora!"
 
 # game/script.rpy:7774
 translate pt_br kcreep_c93290d0:
 
     # c "I bought you a gift..."
-    c ""
+    c "Eu comprei um presente para você..."
 
 # game/script.rpy:7777
 translate pt_br kcreep_a7aa6170:
 
     # a "Really?"
-    a ""
+    a "Really?"
 
 # game/script.rpy:7778
 translate pt_br kcreep_7cdc3eb6:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:7781
 translate pt_br kcreep_eb72e12c:
 
     # a "Awww, thanks [name]! I could never stay mad at you..."
-    a ""
+    a "Awww, obrigada [name]! Eu nunca poderia ficar furiosa com você..."
 
 # game/script.rpy:7786
 translate pt_br kcreep_c85956c5:
 
     # "Ashley's affection was set to 1"
-    ""
+    "O afeto de Ashley foi ajustado para 1"
 
 # game/script.rpy:7789
 translate pt_br kcreep_9194e4fd_1:
 
     # a "Go away!"
-    a ""
+    a "Cai fora!"
 
 # game/script.rpy:7790
 translate pt_br kcreep_13b286d1:
 
     # c "Ashley doesn't seem happy. Maybe I should buy her a gift."
-    c ""
+    c "A Ashley não parece feliz. Talvez eu devesse comprar um presente para ela."
 
 # game/script.rpy:7794
 translate pt_br kcreep_b5f50750_1:
@@ -10952,403 +10952,403 @@ translate pt_br kcreep_14e9f18f_1:
 translate pt_br kcreep_6193f5a5:
 
     # c "Strange, she's usually here in the mornings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de manhã... Há um bilhete colado à porta.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      "
 
 # game/script.rpy:7808
 translate pt_br kcreep_37dd8991:
 
     # "Gonna be at school all day... you should come visit!"
-    ""
+    "Vou ficar na escola o dia todo... você devia vir visitar!"
 
 # game/script.rpy:7810
 translate pt_br kcreep_8fbca4e2:
 
     # c "Strange, there's a note taped to the door."
-    c ""
+    c "Que estranho, há um bilhete colado à porta."
 
 # game/script.rpy:7811
 translate pt_br kcreep_37dd8991_1:
 
     # "Gonna be at school all day... you should come visit!"
-    ""
+    "Vou ficar na escola o dia todo... você devia vir visitar!"
 
 # game/script.rpy:7813
 translate pt_br kcreep_ebc9d546:
 
     # c "Strange, she's usually here in the evenings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de noite... Há um bilhete colado à porta."
 
 # game/script.rpy:7814
 translate pt_br kcreep_37dd8991_2:
 
     # "Gonna be at school all day... you should come visit!"
-    ""
+    "Vou ficar na escola o dia todo... você devia vir visitar!"
 
 # game/script.rpy:7818
 translate pt_br kcreep_c5bb9f65:
 
     # "You hop in your car, and drive to Ashley's school."
-    ""
+    "Você entra em seu carro, e dirige até a escola de Ashley."
 
 # game/script.rpy:7819
 translate pt_br kcreep_45168ca4:
 
     # "After a while, you arrive and find Ashley."
-    ""
+    "Após algum tempo, você chega e encontra Ashley."
 
 # game/script.rpy:7833
 translate pt_br kcreep_6193f5a5_1:
 
     # c "Strange, she's usually here in the mornings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de manhã... Há um bilhete colado à porta."
 
 # game/script.rpy:7834
 translate pt_br kcreep_0ed8c7a1:
 
     # "Gonna be at school all day... need to catch up..."
-    ""
+    "Vou ficar na escola o dia todo... preciso colocar algumas coisas em dia!"
 
 # game/script.rpy:7836
 translate pt_br kcreep_8fbca4e2_1:
 
     # c "Strange, there's a note taped to the door."
-    c ""
+    c "Estranho, há um bilhete colado à porta."
 
 # game/script.rpy:7837
 translate pt_br kcreep_0ed8c7a1_1:
 
     # "Gonna be at school all day... need to catch up..."
-    ""
+    "Vou ficar na escola o dia todo... preciso colocar algumas coisas em dia!"
 
 # game/script.rpy:7839
 translate pt_br kcreep_ebc9d546_1:
 
     # c "Strange, she's usually here in the evenings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de noite... Há um bilhete colado à porta."
 
 # game/script.rpy:7840
 translate pt_br kcreep_0ed8c7a1_2:
 
     # "Gonna be at school all day... need to catch up..."
-    ""
+    "Vou ficar na escola o dia todo... preciso colocar algumas coisas em dia!"
 
 # game/script.rpy:7844
 translate pt_br kcreep_c5bb9f65_1:
 
     # "You hop in your car, and drive to Ashley's school."
-    ""
+    "Você entra em seu carro, e dirige até a escola de Ashley."
 
 # game/script.rpy:7845
 translate pt_br kcreep_8c35c5b9:
 
     # "After a while, you arrive. After asking around, you find Ashley."
-    ""
+    "Após algum tempo, você chega. Depois de perguntar por aí, você encontra Ashley."
 
 # game/script.rpy:7858
 translate pt_br kcreep_6193f5a5_2:
 
     # c "Strange, she's usually here in the mornings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de manhã... Há um bilhete colado à porta."
 
 # game/script.rpy:7859
 translate pt_br kcreep_0ed8c7a1_3:
 
     # "Gonna be at school all day... need to catch up..."
-    ""
+    "Vou ficar na escola o dia todo... preciso colocar algumas coisas em dia!"
 
 # game/script.rpy:7861
 translate pt_br kcreep_8fbca4e2_2:
 
     # c "Strange, there's a note taped to the door."
-    c ""
+    c "Estranho, há um bilhete colado à porta."
 
 # game/script.rpy:7862
 translate pt_br kcreep_0ed8c7a1_4:
 
     # "Gonna be at school all day... need to catch up..."
-    ""
+    "Vou ficar na escola o dia todo... preciso colocar algumas coisas em dia!"
 
 # game/script.rpy:7864
 translate pt_br kcreep_ebc9d546_2:
 
     # c "Strange, she's usually here in the evenings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de noite... Há um bilhete colado à porta."
 
 # game/script.rpy:7865
 translate pt_br kcreep_0ed8c7a1_5:
 
     # "Gonna be at school all day... need to catch up..."
-    ""
+    "Vou ficar na escola o dia todo... preciso colocar algumas coisas em dia!"
 
 # game/script.rpy:7869
 translate pt_br kcreep_c5bb9f65_2:
 
     # "You hop in your car, and drive to Ashley's school."
-    ""
+    "Você entra em seu carro, e dirige até a escola de Ashley."
 
 # game/script.rpy:7870
 translate pt_br kcreep_8c35c5b9_1:
 
     # "After a while, you arrive. After asking around, you find Ashley."
-    ""
+    "Após algum tempo, você chega. Depois de perguntar por aí, você encontra Ashley."
 
 # game/script.rpy:7883
 translate pt_br kcreep_6193f5a5_3:
 
     # c "Strange, she's usually here in the mornings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de manhã... Há um bilhete colado à porta."
 
 # game/script.rpy:7884
 translate pt_br kcreep_37dd8991_3:
 
     # "Gonna be at school all day... you should come visit!"
-    ""
+    "Vou ficar na escola o dia todo... você devia vir visitar!"
 
 # game/script.rpy:7886
 translate pt_br kcreep_8fbca4e2_3:
 
     # c "Strange, there's a note taped to the door."
-    c ""
+    c "Estranho, há um bilhete colado à porta."
 
 # game/script.rpy:7887
 translate pt_br kcreep_37dd8991_4:
 
     # "Gonna be at school all day... you should come visit!"
-    ""
+    "Vou ficar na escola o dia todo... você devia vir visitar!
 
 # game/script.rpy:7889
 translate pt_br kcreep_ebc9d546_3:
 
     # c "Strange, she's usually here in the evenings... There's a note taped to the door."
-    c ""
+    c "Que estranho, ela geralmente está aqui de noite... Há um bilhete colado à porta."
 
 # game/script.rpy:7890
 translate pt_br kcreep_37dd8991_5:
 
     # "Gonna be at school all day... you should come visit!"
-    ""
+    "Vou ficar na escola o dia todo... você devia vir visitar!"
 
 # game/script.rpy:7894
 translate pt_br kcreep_c5bb9f65_3:
 
     # "You hop in your car, and drive to Ashley's school."
-    ""
+    "Você entra em seu carro, e dirige até a escola de Ashley."
 
 # game/script.rpy:7895
 translate pt_br kcreep_8c35c5b9_2:
 
     # "After a while, you arrive. After asking around, you find Ashley."
-    ""
+    "Após algum tempo, você chega. Depois de perguntar por aí, você encontra Ashley."
 
 # game/script.rpy:7902
 translate pt_br kcreep_c872e953:
 
     # "Nobody lives here... yet."
-    ""
+    "Ninguém vive aqui... ainda."
 
 # game/script.rpy:7906
 translate pt_br kcreep_62cd3c65:
 
     # c "She's at college right now."
-    c ""
+    c "Ela esta´na faculdade agora."
 
 # game/script.rpy:7913
 translate pt_br kcreep_daa3b98e:
 
     # "You hop in your car, and visit Ashley during break times..."
-    ""
+    "Você entra no seu carro, e visita Ashley durante o intervalo..."
 
 # game/script.rpy:7916
 translate pt_br kcreep_fc1a4916:
 
     # "You call Ashley"
-    ""
+    "Você liga para Ashley"
 
 # game/script.rpy:7917
 translate pt_br kcreep_7c275486:
 
     # a "Hi [name]~ What's up?"
-    a ""
+    a "Oi [name]~ E aí?"
 
 # game/script.rpy:7918
 translate pt_br kcreep_b8e084f2:
 
     # c "Are you at school right now?"
-    c ""
+    c "Você está na escola agora?"
 
 # game/script.rpy:7919
 translate pt_br kcreep_b3984b25:
 
     # a "Yeah, the teacher is just talking about some boring stuff..."
-    a ""
+    a "Isso, a professora está só falando sobre algumas coisas chatas..."
 
 # game/script.rpy:7920
 translate pt_br kcreep_f3c969d4:
 
     # c "Great, send nudes."
-    c ""
+    c "Ótimo, manda nudes."
 
 # game/script.rpy:7921
 translate pt_br kcreep_c875c4e9:
 
     # a "Hehehehe~ someone might see..."
-    a ""
+    a "Hehehehe~ Alguem poderia ver..."
 
 # game/script.rpy:7922
 translate pt_br kcreep_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:7923
 translate pt_br kcreep_850fee5c:
 
     # a "Sent!"
-    a ""
+    a "Enviado!"
 
 # game/script.rpy:7928
 translate pt_br kcreep_b11d945d:
 
     # a "Teacher is looking, gotta go!"
-    a ""
+    a "A professora está olhando, preciso ir!"
 
 # game/script.rpy:7933
 translate pt_br kcreep_fc1a4916_1:
 
     # "You call Ashley"
-    ""
+    "Você liga para Ashley"
 
 # game/script.rpy:7934
 translate pt_br kcreep_aec79c58:
 
     # a "Hi [name]~"
-    a ""
+    a "Oi [name]~"
 
 # game/script.rpy:7935
 translate pt_br kcreep_30563767:
 
     # c "You're at school, right?"
-    c ""
+    c "Você está na escola, né?"
 
 # game/script.rpy:7936
 translate pt_br kcreep_3ab81655:
 
     # a "Yep, what's up?"
-    a ""
+    a "Uhum, o que foi?"
 
 # game/script.rpy:7937
 translate pt_br kcreep_da174bf5:
 
     # c "Put your butt plug in."
-    c ""
+    c "Coloca o seu plug anal."
 
 # game/script.rpy:7938
 translate pt_br kcreep_b863ff52:
 
     # a "But school just started! I'd be wearing it for so long..."
-    a ""
+    a "Mas as aulas acabaram de começar! Eu ficaria usando isso por tanto tempo..."
 
 # game/script.rpy:7939
 translate pt_br kcreep_5e0490b4:
 
     # a "...Okay! Be right back!"
-    a ""
+    a "... Tudo bem! Eu já volto!"
 
 # game/script.rpy:7940
 translate pt_br kcreep_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:7941
 translate pt_br kcreep_efbe9aa8:
 
     # a "It's in! Sent a pic~ Hehe~"
-    a ""
+    a "Está dentro! Eu estou mandando uma foto~ Hehe~"
 
 # game/script.rpy:7945
 translate pt_br kcreep_45e33578:
 
     # a "The teacher's probably wondering where I am, bye!"
-    a ""
+    a "A professora provavelmente está se perguntando onde eu estou, tchau!"
 
 # game/script.rpy:7949
 translate pt_br kcreep_fc1a4916_2:
 
     # "You call Ashley"
-    ""
+    "Você liga para Ashley"
 
 # game/script.rpy:7950
 translate pt_br kcreep_aec79c58_1:
 
     # a "Hi [name]~"
-    a ""
+    a "Oi [name]~"
 
 # game/script.rpy:7951
 translate pt_br kcreep_30563767_1:
 
     # c "You're at school, right?"
-    c ""
+    c "Você está na escola, né?"
 
 # game/script.rpy:7952
 translate pt_br kcreep_3ab81655_1:
 
     # a "Yep, what's up?"
-    a ""
+    a "Uhum, o que foi?"
 
 # game/script.rpy:7953
 translate pt_br kcreep_34315e0b:
 
     # c "Put your egg vibe in."
-    c ""
+    c "Coloca o seu ovo vibrador."
 
 # game/script.rpy:7954
 translate pt_br kcreep_33ac6aba:
 
     # a "But I'll go crazy with that thing inside of me!"
-    a ""
+    a "Mas eu vou enlouquecer com aquela coisa dentro de mim!"
 
 # game/script.rpy:7955
 translate pt_br kcreep_cfa07ee0:
 
     # a "Hmph, you better fuck the shit out of me when I get back!"
-    a ""
+    a "Hmph, é melhor você me foder quando eu voltar!"
 
 # game/script.rpy:7956
 translate pt_br kcreep_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:7957
 translate pt_br kcreep_850fee5c_1:
 
     # a "Sent!"
-    a ""
+    a "Enviado!"
 
 # game/script.rpy:7961
 translate pt_br kcreep_6b831cac:
 
     # a "Can you see it? Agh! It feels good..."
-    a ""
+    a "Você consegue ver? Ahg! Isso é bom..."
 
 # game/script.rpy:7962
 translate pt_br kcreep_05953153:
 
     # a "[name] I'm not wearing panties, everybody is going to see me soaking everywhere!"
-    a ""
+    a "[name] Eu não estou usando calcinha, todo mundo vai me ver escorrendo em todo lugar!"
 
 # game/script.rpy:7963
 translate pt_br kcreep_10e28266:
 
     # a "If I get in trouble it's your fault!"
-    a ""
+    a "Se eu me meter em problemas a culpa vai ser sua!"
 
 # game/script.rpy:7964
 translate pt_br kcreep_7beea144:
 
     # a "Well, the teacher's probably wondering where I am, bye!"
-    a ""
+    a "A professora provavelmente está se perguntando onde eu estou, tchau!"
 
 # game/script.rpy:7975
 translate pt_br kcreep_b5f50750_2:
@@ -11360,7 +11360,7 @@ translate pt_br kcreep_b5f50750_2:
 translate pt_br kcreep_8fbd983c:
 
     # c "She's probably taking a shower."
-    c "Ela provvavelmente está tomando banho."
+    c "Ela provavelmente está tomando banho."
 
 # game/script.rpy:7988
 translate pt_br kcreep_b5f50750_3:
@@ -11372,7 +11372,7 @@ translate pt_br kcreep_b5f50750_3:
 translate pt_br kcreep_2f12ff34:
 
     # c "Hmm, she's probably at the hot spring"
-    c " fontes termais"
+    c " Hmm, ela provavelmente está nas fontes termais"
 
 # game/script.rpy:7993
 translate pt_br kcreep_b5f50750_4:
@@ -11384,19 +11384,19 @@ translate pt_br kcreep_b5f50750_4:
 translate pt_br kcreep_4663eb93:
 
     # c "I think I saw her heading to the laundry room."
-    c "Eu acho que vi ela indo para"
+    c "Eu acho que vi ela indo para a lavanderia."
 
 # game/script.rpy:8001
 translate pt_br kcreep_17166247:
 
     # "Before you knock you can hear giggling coming from inside."
-    ""
+    "Antes mesmo de você bater, você consegue ouvir algumas risadas vindo de dentro."
 
 # game/script.rpy:8005
 translate pt_br kcreep_d78f3154:
 
     # "Ashley and Maria are sleeping right now."
-    ""
+    "Ashley e Maria estão dormindo agora."
 
 # game/script.rpy:8009
 translate pt_br kcreep_b5f50750_5:
@@ -11408,7 +11408,7 @@ translate pt_br kcreep_b5f50750_5:
 translate pt_br kcreep_407d26d4:
 
     # c "I think I saw her heading to Maria's room."
-    c "Eu acho que vi ela indo para "
+    c "Eu acho que vi ela indo para o quarto da Maria."
 
 # game/script.rpy:8014
 translate pt_br kcreep_b5f50750_6:
@@ -11420,19 +11420,19 @@ translate pt_br kcreep_b5f50750_6:
 translate pt_br kcreep_f8bfb49c:
 
     # c "I should check the kitchen."
-    c ""
+    c "Eu deveria conferir a cozinha."
 
 # game/script.rpy:8022
 translate pt_br kcreep_c872e953_1:
 
     # "Nobody lives here... yet."
-    ""
+    "Ninguém vive aqui... ainda."
 
 # game/script.rpy:8026
 translate pt_br kcreep_4affcf42:
 
     # a "Come in!"
-    a ""
+    a "Pode entrar!"
 
 # game/script.rpy:8034
 translate pt_br kcreep_a9e0c1ae:
