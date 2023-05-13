@@ -11438,331 +11438,331 @@ translate pt_br kcreep_4affcf42:
 translate pt_br kcreep_a9e0c1ae:
 
     # c "I need to wait for Maria."
-    c ""
+    c "Eu preciso esperar pela Maria."
 
 # game/script.rpy:8045
 translate pt_br kcreep_01b26f9a:
 
     # c "I should come back in the morning."
-    c ""
+    c "Eu deveria voltar de manhã."
 
 # game/script.rpy:8052
 translate pt_br kcreep_f3f5beb9:
 
     # c "I should increase Felicity & Emma's relationship level."
-    c ""
+    c "Eu deveria aumentar o nível de relacionamento da Felicity & Emma."
 
 # game/script.rpy:8081
 translate pt_br kcreep_cb69d196:
 
     # a "[name]! Let's go on a date!"
-    a ""
+    a "[name]! Vamos ir a um encontro!"
 
 # game/script.rpy:8082
 translate pt_br kcreep_297d93f3:
 
     # c "What?"
-    c ""
+    c "O quê?"
 
 # game/script.rpy:8083
 translate pt_br kcreep_30a930b7:
 
     # a "A date! A fancy one too! I want you to treat me like a princess! Plus, I have some questions for you."
-    a ""
+    a "Um encontro! E um bem elegante! Eu quero que você me trate como uma princesa! Além disso, eu tenho umas perguntas para você."
 
 # game/script.rpy:8084
 translate pt_br kcreep_009315ca:
 
     # a "You can afford it, right?"
-    a ""
+    a "Você pode pagar por isso, né?"
 
 # game/script.rpy:8090
 translate pt_br kcreep_d06b3575:
 
     # a "Yay! Let's go!"
-    a "Yay!"
+    a "Yay! Vamos lá!"
 
 # game/script.rpy:8095
 translate pt_br kcreep_8859403f:
 
     # a "It's okay~ I know you still love me! You're a very busy person, and that's okay!"
-    a ""
+    a "Sem problemas~ Eu sei que você ainda me ama! Você é uma pessoa muito ocupada, e está tudo bem!"
 
 # game/script.rpy:8099
 translate pt_br kcreep_f21bceb1:
 
     # a "Come in..."
-    a ""
+    a "Pode entrar..."
 
 # game/script.rpy:8117
 translate pt_br kcreep_aec79c58_2:
 
     # a "Hi [name]~"
-    a ""
+    a "Oi [name]~"
 
 # game/script.rpy:8118
 translate pt_br kcreep_02843aeb:
 
     # c "I bought you this."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:8121
 translate pt_br kcreep_f361fef5:
 
     # a "*gasp* an egg vibe! Maria has a ton of these, but I've never tried them out before!"
-    a ""
+    a "*espanto* um ovo vibrador! a Maria tem um monte desses, mas eu nunca experimentei eles antes."
 
 # game/script.rpy:8122
 translate pt_br kcreep_eaa718df:
 
     # a "Thank you [name]! I can't wait to try it out!"
-    a ""
+    a "Obrigada [name]! Eu mal posso esperar para experimentar!"
 
 # game/script.rpy:8131
 translate pt_br kcreep_aec79c58_3:
 
     # a "Hi [name]~"
-    a ""
+    a "Oi [name]~"
 
 # game/script.rpy:8132
 translate pt_br kcreep_02843aeb_1:
 
     # c "I bought you this."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:8135
 translate pt_br kcreep_cf532c07:
 
     # a "A butt plug!? Things are meant to go in and out of my ass... not stay in there... When am I ever going to use this?"
-    a ""
+    a "Um plug anal!? As coisas foram feitas para entrar e sair da minha bunda... não para ficarem lá... Quando é que eu vou usar isso?"
 
 # game/script.rpy:8136
 translate pt_br kcreep_aec4c9e8:
 
     # c "At your college maybe?"
-    c ""
+    c "Talvez na sua faculdade?"
 
 # game/script.rpy:8139
 translate pt_br kcreep_a70b3813:
 
     # a "That would be so naughty..."
-    a ""
+    a "Isso seria tão malcriado..."
 
 # game/script.rpy:8140
 translate pt_br kcreep_8bfef098:
 
     # a "Hehe~ Now I can't wait to try it out!"
-    a ""
+    a "Hehe~ Agora eu mal posso esperar para experimentar!"
 
 # game/script.rpy:8150
 translate pt_br kcreep_5da66939:
 
     # a "THE KIDS AT MY SCHOOL SUCK!"
-    a ""
+    a "AS CRIANÇAS DA MINHA ESCOLA SÃO UM SACO!"
 
 # game/script.rpy:8151
 translate pt_br kcreep_499819e9:
 
     # c "What happened?"
-    c ""
+    c "O que aconteceu?"
 
 # game/script.rpy:8152
 translate pt_br kcreep_978828e5:
 
     # a "The boys all ignore me, and the girls are all jealous of me!"
-    a ""
+    a "Todos os meninos me ignoram, e todas as meninas sentem ciúmes de mim!"
 
 # game/script.rpy:8153
 translate pt_br kcreep_f1c3033e:
 
     # a "Nobody will talk to me, I don't know why!"
-    a ""
+    a "Ninguém vem falar comigo, eu não sei o porquê!"
 
 # game/script.rpy:8154
 translate pt_br kcreep_425be729:
 
     # a "They all say I'm crazy! But I'm not crazy! I just want them to pay attention to me!"
-    a ""
+    a "Todos eles dizem que sou louca! Mas não sou louca! Eu só quero que prestem atenção em mim!"
 
 # game/script.rpy:8157
 translate pt_br kcreep_181cdb49:
 
     # a "I can't get attention like Maria... Everybody loved her before she left!"
-    a ""
+    a "Eu não consigo atenção que nem a MAria... Todo mundo amava ela antes de ela sair!"
 
 # game/script.rpy:8160
 translate pt_br kcreep_b28e6d29:
 
     # a "I bet it was because she showed her tits to everyone! Or sucked everyone's dick! I don't know, something!"
-    a ""
+    a "Eu aposto que é porque ela mostrou as tetas dela para todo mundo! Ou chupou o pau de todo mundo! Sei lá, alguma coisa assim!"
 
 # game/script.rpy:8161
 translate pt_br kcreep_79983d3a:
 
     # a "I'm way cuter than anyone who goes to my school! So why do they keep ignoring me!? I'm not crazy!"
-    a ""
+    a "Eu sou muito mais fofa que qualquer um que vai pra minha escola! Então por que eles continuam me ignorando? Eu não sou louca!"
 
 # game/script.rpy:8162
 translate pt_br kcreep_79f15a1e:
 
     # a "When I sit down to eat, everybody at the the table leaves! The girls point at me, and the boys won't look at me!"
-    a ""
+    a "Quando eu sento para comer, todo mundo na mesa vai embora! As meninas apontam para mim, e os meninos não olham para mim!"
 
 # game/script.rpy:8165
 translate pt_br kcreep_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:8166
 translate pt_br kcreep_f5b7e8db:
 
     # a "Ohh... it all makes sense! The boys don't want to talk to me because they know I'll hurt them if they try to take me away from you, and the girls are jealous because you're my boyfriend!"
-    a ""
+    a "Ohh... faz sentido! Os meninos não querem falar comigo porque eles sabem que eu machucaria eles se tentassem me afastar de você, e as meninas ficam com ciúmes porque você é o meu namorado!"
 
 # game/script.rpy:8167
 translate pt_br kcreep_0f2594aa:
 
     # a "Everyone is jealous because we're perfect for each other! Because you took my virginity and now our souls are bound for eternity!"
-    a ""
+    a "Todo mundo está com ciúmes porque nós somos perfeitos um para o outro! Porque você tirou minha virgindade e agora nossas almas estão ligadas para sempre!"
 
 # game/script.rpy:8168
 translate pt_br kcreep_8fc1aede:
 
     # a "Hehehehehehe~ Hehe~ Hehehehe~ You're the best boyfriend ever [name]! And we'll be together forever! And everyone at school is jealous!"
-    a ""
+    a "Hehehehehehe~ Hehe~ Hehehehe~ Você é o melhor naorado de todos [name]! E nós estaremos juntos para sempre! E todo mundo na escola está com ciúmes!"
 
 # game/script.rpy:8169
 translate pt_br kcreep_9dafd7d8:
 
     # a "Hehehe~ Bye [name]! Love youuu~"
-    a ""
+    a "Hehehe~Tchau [name]! Te amooo~"
 
 # game/script.rpy:8180
 translate pt_br kcreep_a72baea1:
 
     # a "Wow! What is this?"
-    a ""
+    a "Uau! O que é isso?"
 
 # game/script.rpy:8181
 translate pt_br kcreep_e8326cea:
 
     # c "A schoolgirl outfit."
-    c ""
+    c "Uma roupa de estudante."
 
 # game/script.rpy:8184
 translate pt_br kcreep_126106f7:
 
     # a "It looks so slutty... Are you trying to turn me into a whore [name]? Hehe~"
-    a ""
+    a "Parece tão pervertido... Você está tentando me transformar numa vadia [name]? Hehe~"
 
 # game/script.rpy:8186
 translate pt_br kcreep_261e1606:
 
     # "Ashley goes into her room, closes the door and changes clothes."
-    ""
+    "Ashley entra em seu quarto, fecha a porta e troca suas roupas."
 
 # game/script.rpy:8187
 translate pt_br kcreep_8be17b81:
 
     # a "Wooow~ it's so cuuute~!"
-    a ""
+    a "Uaaau~ é tão fofooo~!"
 
 # game/script.rpy:8188
 translate pt_br kcreep_69205209:
 
     # c "Can I see?"
-    c ""
+    c "Eu posso ver?"
 
 # game/script.rpy:8189
 translate pt_br kcreep_dcbcb66f:
 
     # a "Hehe~ Nope! I have plans for this..."
-    a ""
+    a "Hehe~ Não! Eu tenho planos para isso..."
 
 # game/script.rpy:8190
 translate pt_br kcreep_9d726143:
 
     # c "Hm...?"
-    c ""
+    c "Hm...?"
 
 # game/script.rpy:8191
 translate pt_br kcreep_7d3420e5:
 
     # a "See you tomorrow, [name]! Thanks!"
-    a ""
+    a "Te vejo amanhã, [name]! Obrigada!"
 
 # game/script.rpy:8200
 translate pt_br kcreep_dd719b78:
 
     # a "[name]! Let's go to the beach!"
-    a ""
+    a "[name]! Vamos à praia!"
 
 # game/script.rpy:8201
 translate pt_br kcreep_297d93f3_1:
 
     # c "What?"
-    c ""
+    c "O quê?"
 
 # game/script.rpy:8204
 translate pt_br kcreep_74b1fc03:
 
     # a "The beach! Maria showed me this amazing spot! We have to go!"
-    a ""
+    a "A praia! A Mariia me mostrou um lugar incrível! Nós temos que ir!"
 
 # game/script.rpy:8209
 translate pt_br kcreep_8d24592f:
 
     # a "See ya there!"
-    a ""
+    a "Te encontro lá!"
 
 # game/script.rpy:8214
 translate pt_br kcreep_9b0adb39:
 
     # a "Grr..."
-    a ""
+    a "Grr..."
 
 # game/script.rpy:8221
 translate pt_br kcreep_a40b2cde:
 
     # a "[name]! Just the person I wanted to talk to!"
-    a ""
+    a "[name]! Você é exatamente a pessoa com quem eu queria conversar!"
 
 # game/script.rpy:8224
 translate pt_br kcreep_8c4e9814:
 
     # a "Could you help me with my homework? Pleeease?"
-    a ""
+    a "Você pode me ajudar com a minha lição de casa? Por favooor?"
 
 # game/script.rpy:8227
 translate pt_br kcreep_5e5fc2b9:
 
     # a "Yaaay! Come in!"
-    a ""
+    a "Yaaay! Pode entrar!"
 
 # game/script.rpy:8232
 translate pt_br kcreep_55bad306:
 
     # a "Awww..."
-    a ""
+    a "Awww..."
 
 # game/script.rpy:8236
 translate pt_br kcreep_4affcf42_1:
 
     # a "Come in!"
-    a ""
+    a "Pode entrar!"
 
 # game/script.rpy:8240
 translate pt_br kcreep_f7c6d3eb:
 
     # a "[name], is that you? Hurry, come here!"
-    a ""
+    a "[name], é você? Rápido, vem aqui!"
 
 # game/script.rpy:8246
 translate pt_br kcreep_ab6d79f7:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Eeei [name]! E aí?"
 
 # game/script.rpy:8247
 translate pt_br kcreep_6c493eb8_4:
@@ -11774,31 +11774,31 @@ translate pt_br kcreep_6c493eb8_4:
 translate pt_br kcreep_e786a439:
 
     # a "*gasp*, thank you! This is amazing! Hehe~ come inside and I'll let you see it on me~"
-    a ""
+    a "*espanto*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
 
 # game/script.rpy:8258
 translate pt_br kcreep_ab6d79f7_1:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Eeei [name]! E aí?"
 
 # game/script.rpy:8259
 translate pt_br kcreep_6c493eb8_5:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:8262
 translate pt_br kcreep_e786a439_1:
 
     # a "*gasp*, thank you! This is amazing! Hehe~ come inside and I'll let you see it on me~"
-    a ""
+    a "*espanto*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
 
 # game/script.rpy:8270
 translate pt_br kcreep_ab6d79f7_2:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Eeei [name]! E aí?"
 
 # game/script.rpy:8271
 translate pt_br kcreep_6c493eb8_6:
@@ -11810,25 +11810,25 @@ translate pt_br kcreep_6c493eb8_6:
 translate pt_br kcreep_e786a439_2:
 
     # a "*gasp*, thank you! This is amazing! Hehe~ come inside and I'll let you see it on me~"
-    a ""
+    a "*espanto*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
 
 # game/script.rpy:8282
 translate pt_br kcreep_ab6d79f7_3:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Eeei [name]! E aí?"
 
 # game/script.rpy:8283
 translate pt_br kcreep_6c493eb8_7:
 
     # c "I bought this for you."
-    c ""
+    c "Eu comprei isso para você."
 
 # game/script.rpy:8287
 translate pt_br kcreep_43ee5f12:
 
     # a "What did you get me this for!? I'm not a slut!"
-    a ""
+    a "Pra quê você está me dando isso?! Eu não sou uma puta!"
 
 # game/script.rpy:8288
 translate pt_br kcreep_e78abf03:
@@ -11840,49 +11840,49 @@ translate pt_br kcreep_e78abf03:
 translate pt_br kcreep_36a094eb:
 
     # a "Hehe~ What's this? It's really slutty..."
-    a ""
+    a "Hehe~ O que é isso? É bem vulgar..."
 
 # game/script.rpy:8297
 translate pt_br kcreep_e642fc1a:
 
     # a "You want to see me wear it, right? Hurry inside!"
-    a ""
+    a "Você quer me ver usando isso, né? Entra logo!"
 
 # game/script.rpy:8299
 translate pt_br kcreep_de083f95:
 
     # "Ashley removes her clothing and puts on the slut outfit..."
-    ""
+    "Ashley remove sua roupa e coloca a roupa de vadia..."
 
 # game/script.rpy:8301
 translate pt_br kcreep_72b17ab4:
 
     # a "Wooow! This is so slutty!"
-    a ""
+    a "Uooou! Isso é tão vulgar!"
 
 # game/script.rpy:8303
 translate pt_br kcreep_72a89ca1:
 
     # a "Does it make you want to fuck me [name]?"
-    a ""
+    a "Isso faz você querer me foder [name]?"
 
 # game/script.rpy:8307
 translate pt_br kcreep_a2f82df7:
 
     # a "Hehe~ Come on, let's do it right now! You want to, right?"
-    a ""
+    a "Hehe~ Vem cá, vamos fazer isso agora mesmo! Você quer, né?"
 
 # game/script.rpy:8314
 translate pt_br kcreep_7c633c07:
 
     # a "Awww... but later, okay?"
-    a ""
+    a "Awww... mas depois, tá bom?"
 
 # game/script.rpy:8320
 translate pt_br kcreep_ab6d79f7_4:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Eeei [name]! E aí?"
 
 # game/script.rpy:8321
 translate pt_br kcreep_6c493eb8_8:
@@ -11894,7 +11894,7 @@ translate pt_br kcreep_6c493eb8_8:
 translate pt_br kcreep_43ee5f12_1:
 
     # a "What did you get me this for!? I'm not a slut!"
-    a ""
+    a "Pra quê você está me dando isso?! Eu não sou uma puta!"
 
 # game/script.rpy:8326
 translate pt_br kcreep_e78abf03_1:
@@ -11906,43 +11906,43 @@ translate pt_br kcreep_e78abf03_1:
 translate pt_br kcreep_3bbd173d:
 
     # a "Hehe~ What's this? It's really cute..."
-    a ""
+    a "Hehe~ O que é isso? É bem fofo..."
 
 # game/script.rpy:8335
 translate pt_br kcreep_2f452cbf:
 
     # a "Thanks [name]! Maybe we can try it out some time!"
-    a ""
+    a "Obrigada [name]! Talvez nós possamos experimentar outra hora!"
 
 # game/script.rpy:8351
 translate pt_br kcreep_c872e953_2:
 
     # "Nobody lives here... yet."
-    ""
+    "Ninguém vive aqui... ainda."
 
 # game/script.rpy:8379
 translate pt_br explore_bernie2_d0fdbe1f:
 
     # man "...Then I heard it, a sound coming from outside our tent. Since everyone else was too scared to check it out, I decided it was up to me to protect the camp. So I did, I grabbed my machete and a flashlight and walked into the forest in the dead of night. All alone..."
-    man ""
+    man "...Então eu ouvi isso, um som vindo de fora da nossa cabana. Como todo mundo estava muito assustado para ver o que era, eu decidi que ia ser a minha responsabilidade proteger o acampamento. E eu fiz, eu peguei o meu facão e uma laterna e andei floresta a dentro na calada da noite. Completamente sozinho..."
 
 # game/script.rpy:8380
 translate pt_br explore_bernie2_a268e0ff:
 
     # woman "Is that so..."
-    woman ""
+    woman "Isso foi tão..."
 
 # game/script.rpy:8381
 translate pt_br explore_bernie2_24af73c8:
 
     # man "I'm not even at the best part yet babe, listen to this...\nAs I got closer to the bush making all that noise, I could start to make out a really strange sound. It was an animal alright, but something small - something angry..."
-    man ""
+    man "Eu não estou nem na melhor parte gata, ouve isso...\nConforme eu fui me aproximando do arbusto que estava fazendo todo aquele barulho, eu coecei a perceber que o barulho era realmente estranho. Era um animal, tudo bem, mas era algo pequeno - algo irritado..."
 
 # game/script.rpy:8382
 translate pt_br explore_bernie2_867fc00d:
 
     # man "So I grabbed my knife, went into the bushes, then BOOM! Claws everywhere! Blood dripping down my face! I didn't even know whose it was! After I got ahold of its neck, I threw it on the ground, and then I saw it for what it really was... a honeybadger!"
-    man ""
+    man "Então eu peguei a minha faca, entrei no meio dos arbustos, e então BUM! Garras em todos os lugares! Sangue escorrendo pelo meu rosto! Eu nem sabia de quem era! Depois que eu peguei o pescoço deke, eu joguei no chão, e então eu consegui ver o que realmente era... um ratel!"
 
 # game/script.rpy:8383
 translate pt_br explore_bernie2_6ba19d66:
