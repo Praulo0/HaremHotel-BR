@@ -12278,7 +12278,7 @@ translate pt_br explore_bernie2_c4f5240b:
 translate pt_br explore_bernie2_528946ca:
 
     # c "Why not? It seems like a great place."
-    c "E por que não? ME parece um ótimo lugar."
+    c "E por que não? me parece um ótimo lugar."
 
 # game/script.rpy:8461
 translate pt_br explore_bernie2_d5f72325:
@@ -12356,301 +12356,301 @@ translate pt_br explore_bernie2_db2083aa:
 translate pt_br explore_bernie2_f8a6e4f3:
 
     # zara "Maybe I just won't even try to contact them and see what they say next time we run into each other. They should at least want to give me my stuff back, right?"
-    zara "Talvez eu simplesmente "
+    zara "Talvez eu nem tente entrar em contato com eles e ver o que eles dizem na próxima vez que nos encontrarmos. Eles vão pelo menos querer devolver minhas coisas, né?"
 
 # game/script.rpy:8481
 translate pt_br explore_bernie2_47e5b3ef:
 
     # c "Of course, any real friend would."
-    c ""
+    c "É claro, qualquer amigo de verdade iria."
 
 # game/script.rpy:8482
 translate pt_br explore_bernie2_6f36ccd4:
 
     # zara "*sigh*... I can't believe I'm even at the point of questioning that... that's not a good sign, is it?"
-    zara ""
+    zara "*suspiro*... Eu não consigo acreditar que cheguei ao ponto de questionar isso... Isso não é um bom sinal, né?"
 
 # game/script.rpy:8483
 translate pt_br explore_bernie2_d8bfc59d:
 
     # c "I would say no, it isn't."
-    c ""
+    c "Eu diria que não, não é."
 
 # game/script.rpy:8485
 translate pt_br explore_bernie2_1102b0ea_1:
 
     # zara "How many friends do you have, [name]?"
-    zara ""
+    zara "Quantos amigos você tem, [name]?"
 
 # game/script.rpy:8486
 translate pt_br explore_bernie2_e86f7f2c_1:
 
     # c "I just moved here actually. I left my old life back home."
-    c ""
+    c "Na verdade eu acabei de me mudar. Eu deixei minha vida antiga para trás."
 
 # game/script.rpy:8487
 translate pt_br explore_bernie2_c4f5240b_1:
 
     # zara "Really? Why would you want to move here?"
-    zara ""
+    zara "Sério? Por que você iria querer se mudar para cá?"
 
 # game/script.rpy:8488
 translate pt_br explore_bernie2_528946ca_1:
 
     # c "Why not? It seems like a great place."
-    c ""
+    c "E por que não? me parece um ótimo lugar."
 
 # game/script.rpy:8489
 translate pt_br explore_bernie2_d5f72325_1:
 
     # zara "Pff, how long have you been here? Anyone who's been here long enough to look around knows this place is fucked up."
-    zara ""
+    zara "Pff, por quanto tempo você esteve aqui? Qualquer um que esteve aqui por tempo o suficiente para olhar por aí sabe o quanto esse lugar é fodido."
 
 # game/script.rpy:8490
 translate pt_br explore_bernie2_8ec07481_1:
 
     # c "Well, it's not perfect but..."
-    c ""
+    c "Bem, não é perfeito mas..."
 
 # game/script.rpy:8491
 translate pt_br explore_bernie2_b8ef5a84_1:
 
     # zara "The people suck, the law sucks, everything is expensive, and there's nowhere to live. They just banned gum last year, like fuck, we can't even have that..."
-    zara ""
+    zara "As pessoas são um saco, a lei é um saco, tudo é caro, e não tem nenhum lugar para viver. Eles inclusive baniram os chicletes no ano passado, tipo, porra, não podemmos ter nem isso..."
 
 # game/script.rpy:8493
 translate pt_br explore_bernie2_e8b38203_1:
 
     # zara "Anyway, how are you doing now that you're all alone? Without friends and family. That must tough."
-    zara ""
+    zara "Enfim, como você está indo agora que está completamente sozinho? Sem amigos nem família. Isso deve ser duro."
 
 # game/script.rpy:8494
 translate pt_br explore_bernie2_8eedba0d_1:
 
     # c "I'm doing just fine. I've met a lot of interesting people so far. Maybe I'll even make a few new friends along the way."
-    c ""
+    c "Eu estou indo muito bem. Eu conheci várias pessoas interessantes até agora. Talvez até consiga fazer mais alguns por aí."
 
 # game/script.rpy:8495
 translate pt_br explore_bernie2_053b075a_1:
 
     # zara "Maybe you'll have better luck than me..."
-    zara ""
+    zara "Talvez você tenha mais sorte que eu..."
 
 # game/script.rpy:8504
 translate pt_br explore_bernie2_7c7408bc:
 
     # zara "Oh? I don't even know you."
-    zara ""
+    zara "Oh? Eu nem te conheço."
 
 # game/script.rpy:8505
 translate pt_br explore_bernie2_8576467c:
 
     # c "We have plenty of time to change that."
-    c ""
+    c "Nós temos muito tempo para mudar isso."
 
 # game/script.rpy:8507
 translate pt_br explore_bernie2_a037393c:
 
     # zara "I guess that's true. But don't even try to play me in bowling, I suck."
-    zara ""
+    zara "Acho que é verdade. Mas nem tente me chamar para jogar boliche. Eu sou terrível."
 
 # game/script.rpy:8508
 translate pt_br explore_bernie2_eace2850:
 
     # c "At least you know your limits."
-    c ""
+    c "Pelo menos você conhece os seus limites."
 
 # game/script.rpy:8510
 translate pt_br explore_bernie2_1102b0ea_2:
 
     # zara "How many friends do you have, [name]?"
-    zara ""
+    zara "Quantos amigos você tem, [name]?"
 
 # game/script.rpy:8511
 translate pt_br explore_bernie2_e86f7f2c_2:
 
     # c "I just moved here actually. I left my old life back home."
-    c ""
+    c "Na verdade eu acabei de me mudar. Eu deixei minha vida antiga para trás."
 
 # game/script.rpy:8512
 translate pt_br explore_bernie2_c4f5240b_2:
 
     # zara "Really? Why would you want to move here?"
-    zara ""
+    zara "Sério? Por que você iria querer se mudar para cá?"
 
 # game/script.rpy:8513
 translate pt_br explore_bernie2_528946ca_2:
 
     # c "Why not? It seems like a great place."
-    c ""
+    c "E por que não? me parece um ótimo lugar."
 
 # game/script.rpy:8514
 translate pt_br explore_bernie2_d5f72325_2:
 
     # zara "Pff, how long have you been here? Anyone who's been here long enough to look around knows this place is fucked up."
-    zara ""
+    zara "Pff, por quanto tempo você esteve aqui? Qualquer um que esteve aqui por tempo o suficiente para olhar por aí sabe o quanto esse lugar é fodido."
 
 # game/script.rpy:8515
 translate pt_br explore_bernie2_8ec07481_2:
 
     # c "Well, it's not perfect but..."
-    c ""
+    c "Bem, não é perfeito mas..."
 
 # game/script.rpy:8516
 translate pt_br explore_bernie2_b8ef5a84_2:
 
     # zara "The people suck, the law sucks, everything is expensive, and there's nowhere to live. They just banned gum last year, like fuck, we can't even have that..."
-    zara ""
+    zara "As pessoas são um saco, a lei é um saco, tudo é caro, e não tem nenhum lugar para viver. Eles inclusive baniram os chicletes no ano passado, tipo, porra, não podemmos ter nem isso..."
 
 # game/script.rpy:8518
 translate pt_br explore_bernie2_f2cc1404:
 
     # zara "Anyway, how are you doing now that you're all alone? Being without any friends and family must be tough."
-    zara ""
+    zara "Enfim, como você está indo agora que está completamente sozinho? Sem amigos nem família. Isso deve ser duro."
 
 # game/script.rpy:8519
 translate pt_br explore_bernie2_8eedba0d_2:
 
     # c "I'm doing just fine. I've met a lot of interesting people so far. Maybe I'll even make a few new friends along the way."
-    c ""
+    c "Eu estou indo muito bem. Eu conheci várias pessoas interessantes até agora. Talvez até consiga fazer mais alguns por aí."
 
 # game/script.rpy:8520
 translate pt_br explore_bernie2_053b075a_2:
 
     # zara "Maybe you'll have better luck than me..."
-    zara ""
+    zara "Talvez você tenha mais sorte que eu..."
 
 # game/script.rpy:8524
 translate pt_br explore_bernie2_be5f0196:
 
     # zara "You just had to make this sexual, didn't you? Are you even listening? Pouring your heart to a stranger is weird enough without the double entendres..."
-    zara ""
+    zara "Você tinha que tornar isso sexual, não tinha? Você está me ouvindo por acaso? Abrir o seu coração para um desconhecido já é estranho o suficiente sem os duplos sentidos..."
 
 # game/script.rpy:8525
 translate pt_br explore_bernie2_203092e2:
 
     # c "Sorry, please continue."
-    c ""
+    c "Desculpa, por favor continue."
 
 # game/script.rpy:8527
 translate pt_br explore_bernie2_f800d019:
 
     # zara "Forget it, you made it weird."
-    zara ""
+    zara "Esquece, você tornou isso estranho."
 
 # game/script.rpy:8532
 translate pt_br explore_bernie2_5818ab65:
 
     # man "Sup babe... have you ever heard of honeybadgers?"
-    man ""
+    man "Eae bebê... você já ouviu falar de ratéis?"
 
 # game/script.rpy:8533
 translate pt_br explore_bernie2_e91946e0:
 
     # woman "Yes I have, why?"
-    woman ""
+    woman "Sim, já ouvi, por que?"
 
 # game/script.rpy:8534
 translate pt_br explore_bernie2_9be1cf8c:
 
     # zara "{i}No way, he's still here... is this where he tries to pick up chicks or something?{/i}"
-    zara ""
+    zara "{i}Ah não, ele ainda está aqui... aqui é onde ele tenta pegar mulheres ou algo assim?{/i}"
 
 # game/script.rpy:8535
 translate pt_br explore_bernie2_e98f21b5:
 
     # c "{i}Looks like it.{/i}"
-    c ""
+    c "{i}É o que parece.{/i}"
 
 # game/script.rpy:8537
 translate pt_br explore_bernie2_4db16a44:
 
     # zara "I'll never understand guys like that... you know, the guys that feel like they always have something to prove. It's not like I even asked, he just came up to me listing off all of his {i}'achievements'{/i}... which are probably all lies anyway."
-    zara ""
+    zara "Eu nunca entendi caras assim... sabe,caras que parecem que sempre têm que provar alguma coisa. E não é como se eu tivesse perguntado, e ele só aparece fazendo uma lista de todas as suas {i}'conquistas'{/i}..."
 
 # game/script.rpy:8538
 translate pt_br explore_bernie2_87ccb2a8:
 
     # zara "He never even asked for my name, can you believe that?"
-    zara ""
+    zara "Ele nem chegou a perguntar o meu nome, consegue acreditar nisso?"
 
 # game/script.rpy:8539
 translate pt_br explore_bernie2_791d225f:
 
     # c "I actually can."
-    c ""
+    c "Eu realmente consigo."
 
 # game/script.rpy:8541
 translate pt_br explore_bernie2_56be489d:
 
     # man "What do you mean!? They can kill lions you know! And I killed one of them!"
-    man ""
+    man "Do que você está falando!? Eles conseguem matar leões! E eu matei um deles!"
 
 # game/script.rpy:8542
 translate pt_br explore_bernie2_65b64d2e:
 
     # woman "Oh, I believe you. I just don't care."
-    woman ""
+    woman "Ah, eu acredito em você. Eu só não ligo."
 
 # game/script.rpy:8544
 translate pt_br explore_bernie2_701391c9:
 
     # man "IT'S BECAUSE I'M SHORT, ISN'T IT!?" with ssshake
-    man "" with ssshake
+    man "É PORQUE EU SOU BAIXO, NÉ!?" with ssshake
 
 # game/script.rpy:8545
 translate pt_br explore_bernie2_1912bf10:
 
     # woman "Oh my god..."
-    woman ""
+    woman "Ai meu deus..."
 
 # game/script.rpy:8546
 translate pt_br explore_bernie2_304a65d5:
 
     # man "Come on, say it! Don't lie, you whore!"
-    man ""
+    man "Vamos, pode falar! Não precisa mentir, sua puta!"
 
 # game/script.rpy:8548
 translate pt_br explore_bernie2_a3986b28:
 
     # woman "Omigod, wait! How did you know?"
-    woman ""
+    woman "Ah não, espera! Como você sabe?"
 
 # game/script.rpy:8549
 translate pt_br explore_bernie2_31fd82c1_1:
 
     # man "What?"
-    man ""
+    man "O quê?"
 
 # game/script.rpy:8551
 translate pt_br explore_bernie2_8af3e845:
 
     # woman "Huh?"
-    woman ""
+    woman "Huh?"
 
 # game/script.rpy:8553
 translate pt_br explore_bernie2_67af5242:
 
     # man "STOP TRYING TO CONFUSE ME BITCH!" with ssshake
-    man "" with ssshake
+    man "PARA DE TENTAR ME CONFUNDIR, PUTA!" with ssshake
 
 # game/script.rpy:8554
 translate pt_br explore_bernie2_a2540129:
 
     # woman "Who are you!?"
-    woman ""
+    woman "Quem é você!?"
 
 # game/script.rpy:8555
 translate pt_br explore_bernie2_237d39fd:
 
     # man "You'll regret passing me up when I'm a billionaire!"
-    man ""
+    man "Você vai se arrepender de ter me rejeitado quando eu for um bilionário!"
 
 # game/script.rpy:8556
 translate pt_br explore_bernie2_f91082e3:
 
     # woman "What???"
-    woman ""
+    woman "O quÊ???"
 
 # game/script.rpy:8558
 translate pt_br explore_bernie2_fea97074:
