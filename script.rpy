@@ -12542,7 +12542,7 @@ translate pt_br explore_bernie2_f800d019:
 translate pt_br explore_bernie2_5818ab65:
 
     # man "Sup babe... have you ever heard of honeybadgers?"
-    man "Eae bebê... você já ouviu falar de ratéis?"
+    man "Eae bebê... você já ouviu falar de ratéis ?"
 
 # game/script.rpy:8533
 translate pt_br explore_bernie2_e91946e0:
@@ -12566,7 +12566,7 @@ translate pt_br explore_bernie2_e98f21b5:
 translate pt_br explore_bernie2_4db16a44:
 
     # zara "I'll never understand guys like that... you know, the guys that feel like they always have something to prove. It's not like I even asked, he just came up to me listing off all of his {i}'achievements'{/i}... which are probably all lies anyway."
-    zara "Eu nunca entendi caras assim... sabe,caras que parecem que sempre têm que provar alguma coisa. E não é como se eu tivesse perguntado, e ele só aparece fazendo uma lista de todas as suas {i}'conquistas'{/i}..."
+    zara "Eu nunca entendi caras assim... sabe, caras que parecem que sempre têm que provar alguma coisa. E não é como se eu tivesse perguntado, e ele só aparece fazendo uma lista de todas as suas {i}'conquistas'{/i}..."
 
 # game/script.rpy:8538
 translate pt_br explore_bernie2_87ccb2a8:
@@ -12650,79 +12650,79 @@ translate pt_br explore_bernie2_237d39fd:
 translate pt_br explore_bernie2_f91082e3:
 
     # woman "What???"
-    woman "O quÊ???"
+    woman "O quê???"
 
 # game/script.rpy:8558
 translate pt_br explore_bernie2_fea97074:
 
     # zara "I feel bad for her... but it looks like he's finally leaving."
-    zara ""
+    zara "Eu me sinto mal por ela... mas parece que ele está indo embora finalmente."
 
 # game/script.rpy:8559
 translate pt_br explore_bernie2_51f778ab:
 
     # c "He'll probably be back next week."
-    c ""
+    c "Ele provavelmente vai estar aqui de novo na semana que vem."
 
 # game/script.rpy:8560
 translate pt_br explore_bernie2_dfcddb2a:
 
     # zara "Yeah, probably."
-    zara ""
+    zara "É, provavelmente."
 
 # game/script.rpy:8562
 translate pt_br explore_bernie2_b36b0841:
 
     # zara "Well I should get home... thanks for the chat, [name]. And thanks for stopping me from drinking myself stupid. You're a hero."
-    zara ""
+    zara "Bem, eu deveria voltar para casa... obrigada pela conversa, [name]. E obrigada por não me deixar beber até ficar estúpida. Você é um herói."
 
 # game/script.rpy:8563
 translate pt_br explore_bernie2_12335e83:
 
     # c "I don't know about that."
-    c ""
+    c "Não tenho certeza sobre isso."
 
 # game/script.rpy:8565
 translate pt_br explore_bernie2_f1df3a0a:
 
     # zara "See you around, maybe... life has a way of working those things out if they're meant to be."
-    zara ""
+    zara "Te vejo por aí, talvez... a vida tem um jeito de resolver essas coisas, quando é para ser."
 
 # game/script.rpy:8566
 translate pt_br explore_bernie2_93b0756b:
 
     # c "See you around..."
-    c ""
+    c "Te vejo por aí..."
 
 # game/script.rpy:8568
 translate pt_br explore_bernie2_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:8571
 translate pt_br explore_bernie2_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8573
 translate pt_br explore_bernie2_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8575
 translate pt_br explore_bernie2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "Estou exausto... Eu vou votar para a minha casa agora.\n(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8589
 translate pt_br explore_bernie1_171a9aee:
 
     # jack "Hi! My name is Jack Rider and I'd like to tell you about my favorite Bowling Bar; Bernie's!"
-    jack ""
+    jack "Oi! O meu nome é "
 
 # game/script.rpy:8590
 translate pt_br explore_bernie1_0551e9a2:
