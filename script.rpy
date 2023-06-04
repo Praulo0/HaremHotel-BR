@@ -7590,7 +7590,7 @@ translate pt_br lobby_ee0f9226:
 translate pt_br lobby_779568dc:
 
     # c "Your Bartender outfit came in."
-    c "Sua roupa de Barman chegou."
+    c "Sua roupa de Bartender chegou."
 
 # game/script.rpy:6045
 translate pt_br lobby_cb1246b5:
@@ -12722,277 +12722,277 @@ translate pt_br explore_bernie2_875c529f:
 translate pt_br explore_bernie1_171a9aee:
 
     # jack "Hi! My name is Jack Rider and I'd like to tell you about my favorite Bowling Bar; Bernie's!"
-    jack "Oi! O meu nome é "
+    jack "Oi! O meu nome é Jack Rider e eu gostaria de te falar sobre o meu Bar de Boliche favorito; o do Bernie;"
 
 # game/script.rpy:8590
 translate pt_br explore_bernie1_0551e9a2:
 
     # jack "This human only establishment has been family owned and operated since '83! Enjoy ice cold drinks curated by our bartender, challenge your friends to a round or two of bowling, and kick back and relax to some of the hottest hits. It's a great place to bring a date or three too!"
-    jack ""
+    jack "Este estabelecimento exclusivo para humanos pertence e é operado por uma família desde 83! Desfrute de bebidas geladas com curadoria de nosso bartender, desafie seus amigos "
 
 # game/script.rpy:8591
 translate pt_br explore_bernie1_16db257f:
 
     # jack "Bernie's Bowling Bar! That's Bernie's Bowling Bar! On the corner of 27th and 3rd! We also do delivery!"
-    jack ""
+    jack "o Bar de Boliche do Bernie! Esse é o Bar de Boliche do Bernie! Na esquina da 27° com a 3°! Nós também fazemos entregas!"
 
 # game/script.rpy:8592
 translate pt_br explore_bernie1_af996b3e:
 
     # cam "...And cut."
-    cam ""
+    cam "... e corta."
 
 # game/script.rpy:8594
 translate pt_br explore_bernie1_c4cb9a55:
 
     # jack "How was that? Did I say the right words? I've never played this... what would you call it, a game? Hey, you didn't forget to unmute, did you?"
-    jack ""
+    jack "Como eu fui? E disse as palavras certas? Eu nunca joguei esse... do que você chama isso, um jogo? Ei, você lembrou de tirar do mudo, né?"
 
 # game/script.rpy:8595
 translate pt_br explore_bernie1_388a4a2b:
 
     # cam "Nah, we got it all."
-    cam ""
+    cam "Nah, nós gravamos tudo."
 
 # game/script.rpy:8596
 translate pt_br explore_bernie1_4b81f2c9:
 
     # jack "Great, let's get out of here before someone recognizes me. And make sure the owner pays me {i}before{/i} you send him anything, I'm not dealing with any bullshit this time. You know how busy I am..."
-    jack ""
+    jack "Ótimo, vamos sair daqui antes que alguém me reconheça. E garanta que o dono me pague {i}antes{/i} de você enviar pra ele qualquer coisa, eu não vou lidar com nenhuma encheção de saco dessa vez. Você sabe o quanto sou ocupado..."
 
 # game/script.rpy:8598
 translate pt_br explore_bernie1_e34fb588:
 
     # woman "JACK. RIDER." with ssshake
-    woman "" with ssshake
+    woman "JACK. RIDER." with ssshake
 
 # game/script.rpy:8599
 translate pt_br explore_bernie1_b9438814:
 
     # jack "Fuck sake..."
-    jack ""
+    jack "Puta merda..."
 
 # game/script.rpy:8601
 translate pt_br explore_bernie1_e99fdd25:
 
     # woman "What the hell is wrong with you, you piece of shit!?"
-    woman ""
+    woman "O que diabos há de errado com você, seu pedaço de merda!?"
 
 # game/script.rpy:8602
 translate pt_br explore_bernie1_9643f813:
 
     # cam "Who's the bitch in the swimsuit?"
-    cam ""
+    cam "Quem é essa vadia de maiô?"
 
 # game/script.rpy:8604
 translate pt_br explore_bernie1_ea399abd:
 
     # woman "This BITCH is his girlfriend, or so I fucking thought!"
-    woman ""
+    woman "Essa VADIA é a namorada dele, ou pelo menos eu pensei!"
 
 # game/script.rpy:8605
 translate pt_br explore_bernie1_5a82bf7f:
 
     # jack "What? I don't even know who you are..."
-    jack ""
+    jack "O quê? Eu nem sei quem você é..."
 
 # game/script.rpy:8607
 translate pt_br explore_bernie1_902a322e:
 
     # woman "Shut the fuck up, don't even try that bullshit! You ghosted me, and now I hear you're dating some other whore!? FROM THE NEWS NO LESS! I thought we had something you fucking cheater!"
-    woman ""
+    woman "Cala a porra da boca, nem vem com essa merda! Você sumiu, e agora eu ouço que você está namorando alguma outra vagabunda? E DO JORNAL AINDA! Eu pensei que tinhamos algo, seu canalha de merda! "
 
 # game/script.rpy:8608
 translate pt_br explore_bernie1_21e15a8d:
 
     # jack "Oh that's rich coming from you! You were sucking new cock every week! Why can't I have a little fun here and there?"
-    jack ""
+    jack "Ah isso é nobre vindo de você! Você estava mamando um caralho novo toda semana! Por que eu não posso ter um pouco de diversão aqui e ali?"
 
 # game/script.rpy:8610
 translate pt_br explore_bernie1_5e828cce:
 
     # woman "Jack, I'm polyamorous! You knew that when we got together! I don't care if you fuck other people, but you can't just pretend that I never existed! I loved you!"
-    woman ""
+    woman "Jack, eu sou poliamorosa! Você já sabia disso quando começamos a namorar! Eu não ligo que você pegue outras pessoas, mas você não pode fingir que eu nunca existi! Eu te amava!"
 
 # game/script.rpy:8611
 translate pt_br explore_bernie1_bf6276d7:
 
     # jack "I don't see the difference... we're both fucking other people, you don't see me making a scene about it."
-    jack ""
+    jack "Eu não entendi a diferença... Nós dois pegamos outras pessoas, e você não me vê fazendo caso disso."
 
 # game/script.rpy:8613
 translate pt_br explore_bernie1_7579e736:
 
     # woman "SCREW YOU JACK RIDER! I'M NEVER FUCKING YOU AGAIN!"
-    woman ""
+    woman "VAI SE FERRAR JACK RIDER! EU NUNCA VOU FODER COM VOCê DE NOVO!"
 
 # game/script.rpy:8615
 translate pt_br explore_bernie1_cfdda2de:
 
     # cam "Damn, you dated that? She had a nice ass!"
-    cam ""
+    cam "Cacete, você namorou aquilo? Ela tinha uma bela bunda!"
 
 # game/script.rpy:8616
 translate pt_br explore_bernie1_837f3688:
 
     # jack "Yeah, I know...\nShe'll come around eventually. They always do... It's impossible to resist a Rider forever..."
-    jack ""
+    jack "É, eu sei...\nEla vai voltar mais cedo ou mais tarde. Elas sempre voltam... É impossivel resistir pra sempre ao Rider..."
 
 # game/script.rpy:8618
 translate pt_br explore_bernie1_e77ecedb:
 
     # jack "Wait, are you still recording?"
-    jack ""
+    jack "Espera, você ainda está gravando?"
 
 # game/script.rpy:8619
 translate pt_br explore_bernie1_28596d53:
 
     # cam "Yeah, I got her ass and everything, heheh."
-    cam ""
+    cam "Uhum, eu gravei a bunda dela e tudo, heheh."
 
 # game/script.rpy:8620
 translate pt_br explore_bernie1_6f0bf389:
 
     # jack "Heh, nice."
-    jack ""
+    jack "Heh, boa."
 
 # game/script.rpy:8622
 translate pt_br explore_bernie1_bd92a211:
 
     # c "{i}That was hard to watch...\nIs he some kind of celebrity?\nEh, it's none of my business.{/i}"
-    c ""
+    c "{i}Isso foi duro de assistir...\nEle é algum tipo de celebridade?\nHm, não é problema meu.{/i}"
 
 # game/script.rpy:8624
 translate pt_br explore_bernie1_6153f026:
 
     # bartender "Welcome to Bernie's Bowling Bar. Are you thirsty or would you like a lane?"
-    bartender ""
+    bartender "Bem vindo ao Bar de Boliche do Bernie. Você está com sede ou gostaria de uma pista?"
 
 # game/script.rpy:8628
 translate pt_br firstbern_1b21e7db:
 
     # bartender "He's Jack Rider, famous actor. Been in a few movies you've probably seen. I don't know who she was though."
-    bartender ""
+    bartender "Ele é Jack Rider, é um ator famoso. Já esteve em alguns filmes que provavelmenet você assistiu. Mas não sei onde ela estava."
 
 # game/script.rpy:8629
 translate pt_br firstbern_fedb82ce:
 
     # c "Why is he here?"
-    c ""
+    c "Por que ele está aqui?"
 
 # game/script.rpy:8631
 translate pt_br firstbern_232287da:
 
     # bartender "Boss hired him for an advertising campaign. People just love that man's face I guess."
-    bartender ""
+    bartender "O chefe contratou ele para uma campanha de publicidade. Acho que as pessoas amam o rosto desse cara."
 
 # game/script.rpy:8632
 translate pt_br firstbern_462a1bce:
 
     # c "Your boss, Bernie?"
-    c ""
+    c "Seu chefe, Bernie?"
 
 # game/script.rpy:8634
 translate pt_br firstbern_7ce42e86:
 
     # bartender "The one and only. He likes to tell us all tales about how this place used to be some farmland his father bought, but then the city built around him and he was forced to adjust. He liked bowling, so... here we are!"
-    bartender ""
+    bartender "O primeiro e único. Ele gosta de nos contar todas as histórias sobre esse lugar ter sido uma fazenda que seu pai comprou, mas então construíram uma cidade envolta dela e ele foi forçado a se adaptar. Ele gostava de boliche, então... aqui estamos nós!"
 
 # game/script.rpy:8635
 translate pt_br firstbern_1cb8ffff:
 
     # bartender "Don't know how he knows Jack though. He's not usually around, and I prefer it that way."
-    bartender ""
+    bartender "Mas eu não sei como ele conhece o Jack. Ele não costuma estar por aqui, e eu prefiro assim."
 
 # game/script.rpy:8637
 translate pt_br firstbern_ac705c34:
 
     # bartender "Hey, he's still here if you want to get an autograph."
-    bartender ""
+    bartender "Ei, ele ainda está aqui caso você queira pegar um autógrafo."
 
 # game/script.rpy:8638
 translate pt_br firstbern_9509cbeb:
 
     # c "I think I'll pass..."
-    c ""
+    c "Acho que vou passar..."
 
 # game/script.rpy:8643
 translate pt_br firstbern_41412cc2:
 
     # bartender "I can make all sorts of drinks!\nBlue lagoon, cherry bomb, kiwi martini, mojito, tequila sunrise... you name it."
-    bartender ""
+    bartender "Eu posso fazer todos os tipos de bebidas!\nLagoa azul, cherry bomb, kiwi martini, mojito, tequila sunrise... é só pedir."
 
 # game/script.rpy:8648
 translate pt_br firstbern_03928ced:
 
     # bartender "Yeah! We host one every month. Winner gets a grand prize of $200! Pretty sweet, right?"
-    bartender ""
+    bartender "Sim! Nós hospedamos um em todo mês. O vencedor recebe um grande prêmio de R$ 990,00! Bem legal, não é?"
 
 # game/script.rpy:8649
 translate pt_br firstbern_594b0825:
 
     # c "How do I enter?"
-    c ""
+    c "Como eu posso participar?"
 
 # game/script.rpy:8650
 translate pt_br firstbern_12380dd9:
 
     # bartender "Simple! Buy a ball and show up on time. It's first come first serve though, and we only have 12 lanes. But we run a few games throughout the day so you should be able to find a spot if you're interested."
-    bartender ""
+    bartender "Simples! Compre uma bola e apareça na hora. Mas é ordem de chegada, e só temos 12 pistas. Nós só realizamos alguns jogos ao longo do dia, então você deve conseguir encontrar uma vagav se tiver interessado."
 
 # game/script.rpy:8651
 translate pt_br firstbern_b617a721:
 
     # c "I'll think about it, thanks."
-    c ""
+    c "Eu vou pensar nisso, obrigado."
 
 # game/script.rpy:8656
 translate pt_br firstbern_d0fab9a7:
 
     # bartender "Goth chick? Yeah, we see plenty of them around here. You're gonna need to be more specific than that."
-    bartender ""
+    bartender "Meninas góticas? Sim, nós temos várias delas por aqui. Você vai precisar ser mais especíico que isso."
 
 # game/script.rpy:8657
 translate pt_br firstbern_3003ad63:
 
     # c "I came in with her the other day, we played a game. She had to go early and I never got her number."
-    c ""
+    c "Eu vim com ela em outro dia, nós jogamos um jogo.Ela teve que sair cedo e eu nunca consegui o numero dela."
 
 # game/script.rpy:8659
 translate pt_br firstbern_cc508ac2:
 
     # bartender "No kidding? She probably just ghosted you buddy, happens all the time."
-    bartender ""
+    bartender "Sério? Cara, ela provavelmente te abandonou, acontece o tempo todo."
 
 # game/script.rpy:8660
 translate pt_br firstbern_d3857f82:
 
     # c "I don't think it was that... we were having a good time, she just had to rush home."
-    c ""
+    c "Eu acho que não foi isso... Nós estavamos nos divertindo, ela só teve que correr para casa."
 
 # game/script.rpy:8661
 translate pt_br firstbern_01d62ff2:
 
     # bartender "Yeah, that's a pretty common excuse... \nListen, it just wasn't meant to be. Not much you can do about it, you know? You can't force love."
-    bartender ""
+    bartender "É... essa é uma desculpa bem comum... \Se liga, só não era para ser. Não há muito a ser feito sobre isso, entende? Você não pode forçar o amor."
 
 # game/script.rpy:8662
 translate pt_br firstbern_34e77072:
 
     # c "I guess."
-    c ""
+    c "Acho que sim..."
 
 # game/script.rpy:8664
 translate pt_br firstbern_8fcbd394:
 
     # bartender "Can I get ya a drink?"
-    bartender ""
+    bartender "Posso te oferecer uma bebida?"
 
 # game/script.rpy:8668
 translate pt_br firstbern_8a115bdd:
 
     # c "Know where I can make some extra money? I just moved here and I could use some cash."
-    c ""
+    c "Sabe onde posso conseguir um dinheiro extra? Eu acabei de me mudar para cá e preciso de algum dinheiro."
 
 # game/script.rpy:8670
 translate pt_br firstbern_be5f88bf:
