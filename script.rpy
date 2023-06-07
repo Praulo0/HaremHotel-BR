@@ -455,7 +455,7 @@ translate pt_br start2_5f34b80f:
 translate pt_br start2_035cf35b:
 
     # e "Each guest pays you $5 a day. So the more residents you have, the more money you will make."
-    e "Cada hóspede paga R$ 25,00 por dia. Então quanto mais moradores você tiver, mais dinheiro vai conseguir."
+    e "Cada hóspede paga R$25 por dia. Então quanto mais moradores você tiver, mais dinheiro vai conseguir."
 
 # game/script.rpy:577
 translate pt_br start2_74a73740:
@@ -8250,7 +8250,7 @@ translate pt_br lobby_39fc4fd7:
 translate pt_br lobby_40eab776:
 
     # ba "Oh, hell yeah, absolutely! That'll be $5."
-    ba "Ah, claro, tenho sim! Custa R$ 25,00."
+    ba "Ah, claro, tenho sim! Custa R$25."
 
 # game/script.rpy:6315
 translate pt_br lobby_d9a47e93:
@@ -8304,7 +8304,7 @@ translate pt_br lobby_581795db:
 translate pt_br lobby_03de75e8:
 
     # "You spend $5"
-    "Você gastou R$ 25,00"
+    "Você gastou R$25"
 
 # game/script.rpy:6332
 translate pt_br lobby_50a3fbae:
@@ -9854,13 +9854,13 @@ translate pt_br floor1menu_3130fa8d:
 translate pt_br floor1menu_8e3946bd:
 
     # k "So it was you who ordered... that'll be $5 please."
-    k "Então vou você que pediu... vao ficar R$ 24,00 por favor."
+    k "Então vou você que pediu... vao ficar R$24 por favor."
 
 # game/script.rpy:7164
 translate pt_br floor1menu_faf8f730:
 
     # "You hand over $5."
-    "Você entrega R$ 24,00."
+    "Você entrega R$24."
 
 # game/script.rpy:7168
 translate pt_br floor1menu_46d5fc07:
@@ -10358,7 +10358,7 @@ translate pt_br kcreep_b7611eac:
 translate pt_br kcreep_2541b8e2:
 
     # k "[name], he wants to give me $50..."
-    k "[name], ele quer me dar R$ 250,00..."
+    k "[name], ele quer me dar R$250..."
 
 # game/script.rpy:7503
 translate pt_br kcreep_da9f9277:
@@ -10382,7 +10382,7 @@ translate pt_br kcreep_7bc431ac:
 translate pt_br kcreep_f21fd40d:
 
     # k "But for $50? I don't know, it might be worth it... what do you think [name]?"
-    k "MAs por R$ 250,00? Eu não sei, pode valer a pena... o que você acha [name]?"
+    k "MAs por R$250? Eu não sei, pode valer a pena... o que você acha [name]?"
 
 # game/script.rpy:7510
 translate pt_br kcreep_2afb9284:
@@ -10604,7 +10604,7 @@ translate pt_br kcreep_f010c328:
 translate pt_br kcreep_73096e81:
 
     # k "But I got $50!"
-    k "Mas eu consegui R$ 250,00!"
+    k "Mas eu consegui R$250!"
 
 # game/script.rpy:7574
 translate pt_br kcreep_677b85d2:
@@ -12926,7 +12926,7 @@ translate pt_br firstbern_41412cc2:
 translate pt_br firstbern_03928ced:
 
     # bartender "Yeah! We host one every month. Winner gets a grand prize of $200! Pretty sweet, right?"
-    bartender "Sim! Nós hospedamos um em todo mês. O vencedor recebe um grande prêmio de R$ 990,00! Bem legal, não é?"
+    bartender "Sim! Nós hospedamos um em todo mês. O vencedor recebe um grande prêmio de R$200! Bem legal, não é?"
 
 # game/script.rpy:8649
 translate pt_br firstbern_594b0825:
@@ -12956,7 +12956,7 @@ translate pt_br firstbern_d0fab9a7:
 translate pt_br firstbern_3003ad63:
 
     # c "I came in with her the other day, we played a game. She had to go early and I never got her number."
-    c "Eu vim com ela em outro dia, nós jogamos um jogo.Ela teve que sair cedo e eu nunca consegui o numero dela."
+    c "Eu vim com ela em outro dia, nós jogamos um jogo. Ela teve que sair cedo e eu nunca consegui o numero dela."
 
 # game/script.rpy:8659
 translate pt_br firstbern_cc508ac2:
@@ -12998,169 +12998,169 @@ translate pt_br firstbern_8a115bdd:
 translate pt_br firstbern_be5f88bf:
 
     # bartender "We could use another delivery driver for the season. It'll pay, but it won't be a real job.\nNot that I have anything against elves, but you and I both know they're not the best drivers so we only trust humans to do the job. But it's hard to find a human willing to work for so little..."
-    bartender ""
+    bartender "Nós precisamos de outro motorisa de entregas durante a temporada. Nós vamos pagar, mas não vai ser um trabalho de verdade. \nNão que eu tenha algo contra elfos, mas nós dois sabemos que eles não são lá os melhores motoristas, então nós só contratamos humanos para fazer esse trabalho. Mas é dificil encontrar um humano disposto a trabalhar por tão pouco..."
 
 # game/script.rpy:8671
 translate pt_br firstbern_9694eb93:
 
     # c "How much does it pay?"
-    c ""
+    c ";quanto vocês pagam?"
 
 # game/script.rpy:8672
 translate pt_br firstbern_af66a010:
 
     # bartender "That depends on the day, though I would guess you could make anywhere from $15 - $30 each time."
-    bartender ""
+    bartender "Isso vai depender do dia, mas eu imagino que você conseguiria algo entre R$70 - R$150 cada vez."
 
 # game/script.rpy:8673
 translate pt_br firstbern_04c94cd6:
 
     # c "That's not bad."
-    c ""
+    c "Não é tão ruim."
 
 # game/script.rpy:8674
 translate pt_br firstbern_723e0062:
 
     # bartender "It just so happens that we were about to send out another shipment of our finest to the good people of Caliber. Would you like to do that for us today? It's a big shipment!"
-    bartender ""
+    bartender "E aconteceu de nós estarmos para enviar outro carregamento do nosso melhor para o bom povo de Caliber. Você gostaria de fazer isso por nós hoje? É uma grande remessa!"
 
 # game/script.rpy:8675
 translate pt_br firstbern_a9bd1f6a:
 
     # c "Sure, I'll see how it goes."
-    c ""
+    c "Claro, vamos ver no que isso dá."
 
 # game/script.rpy:8676
 translate pt_br firstbern_7b304238:
 
     # bartender "Great, and just so I know I can trust you, why don't you leave your ID with me? You'll get it back once I get my truck back. Deal?"
-    bartender ""
+    bartender "Ótimo, e só para eu saber que posso confiar em você, por que não deixa o seu RG comigo? Você vai receber de volta assim que trouxer o meu caminhão de volta. Combinado?"
 
 # game/script.rpy:8677
 translate pt_br firstbern_e5e57fe5:
 
     # c "Fair enough."
-    c ""
+    c "É justo."
 
 # game/script.rpy:8679
 translate pt_br firstbern_8a8a9bea:
 
     # bartender "Great! There are a few more orders that need loaded into the van. I'll leave you to it. Everything you need to know is on the computer inside. Good luck!"
-    bartender ""
+    bartender "Ótimo! Tem mais alguns pedidos que precisam ser carregados para a van. Eu vou deixar para você fazer isso. Tudo o que você precisa saber vai estar no computador lá dentro. Boa sorte! "
 
 # game/script.rpy:8680
 translate pt_br firstbern_4f6ec8cc:
 
     # c "Thanks, I'll see you when I'm done."
-    c ""
+    c "Obrigado, te vejo quando tiver terminado."
 
 # game/script.rpy:8683
 translate pt_br firstbern_5c57d47d:
 
     # c "{i}If I make a good first impression they'll probably let me keep doing this. This can be a good way to earn some extra cash whenever I have spare time.{/i}"
-    c ""
+    c "{i}Se eu causar uma boa primeira impressão eles provavelmente vão me deixar continuar fazendo isso. Essa pode ser uma boa forma de conseguir algum dinheiro extra sempre que eu tiver tempo livre.{/i}"
 
 # game/script.rpy:8685
 translate pt_br firstbern_9f79da20:
 
     # "Upon entering the van you are greeted by the vehicle's AI. Once you are confirmed in their system, the AI plots a route for you. 15 stops, all in Caliber city."
-    ""
+    "Ao entrar na van você é recebido pela IA do veículo. Assim que você é confirmado no sistema deles, a IA traça uma rota para você. 15 paradas, todas na cidade Caliber."
 
 # game/script.rpy:8686
 translate pt_br firstbern_b01c4948:
 
     # "You go door to door, delivering alcohol to customers in need, occasionally recieving tips for your diligence."
-    ""
+    "Você vai porta a porta, entregando álcool para os clientes necessitados, as vezes recebendo gorjetas pela sua dedcação."
 
 # game/script.rpy:8687
 translate pt_br firstbern_3dea63f9:
 
     # "Each delivery is quite simple and hassle free, and the route only took a few hours to complete. Before you know it, you've finished your work and arrived back at Bernie's Bowling Bar..."
-    ""
+    "Cada entrega é bem simples e sem inconveniências, e a viagem só levava algumas horas para ser concluída. Antes mesmo de perceber isso, você termina seu trabalho e chega de volta ao Bar de Boliche do Bernie..."
 
 # game/script.rpy:8689
 translate pt_br firstbern_ebc15550:
 
     # c "Done."
-    c ""
+    c "Feito."
 
 # game/script.rpy:8690
 translate pt_br firstbern_8c972b6a:
 
     # bartender "Already? Nice! I didn't expect you to do so well on your first job. Usually our customers can be... well, demanding."
-    bartender ""
+    bartender "Mas já? Legal! Eu não esperava que você fosse tão bem na sua primeira vez. Geralmente nossos clientes podem ser... bem, exigentes."
 
 # game/script.rpy:8691
 translate pt_br firstbern_903b8bca:
 
     # c "I didn't run into any issues."
-    c ""
+    c "Eu não tive nenhum problema."
 
 # game/script.rpy:8693
 translate pt_br firstbern_3f857853:
 
     # bartender "Last time I checked you were at 15 deliveries, right? At $2 per delivery, that's $30! Plus whatever tips you got."
-    bartender ""
+    bartender "Na última vez que eu te vi, você estava com 15 encomendas, né? E R$10 por entrega, vão dar R$150! Além de quaisquer gorjetas que você tenha."
 
 # game/script.rpy:8694
 translate pt_br firstbern_0bf1fd87:
 
     # "You gained $35!"
-    ""
+    "Você ganhou R$150!"
 
 # game/script.rpy:8696
 translate pt_br firstbern_d2be0842:
 
     # c "Great, thank you very much."
-    c ""
+    c "Ótimo, muito obrigado."
 
 # game/script.rpy:8697
 translate pt_br firstbern_1acb08a0:
 
     # bartender "I look forward to working with you in the future mister-! ...Uh, I don't think I caught your name."
-    bartender ""
+    bartender "Estou ansioso para trabalhar com você no futuro, senhor-! ...UH, eu acho que não aprendi o seu nome."
 
 # game/script.rpy:8698
 translate pt_br firstbern_0e5b3a10:
 
     # c "[name]."
-    c ""
+    c "[name]."
 
 # game/script.rpy:8699
 translate pt_br firstbern_510f7288:
 
     # bartender "I look forward to working with you, Mr. [name]. Just stop by any time! We always have deliveries going out."
-    bartender ""
+    bartender "Estou ansioso para trabalhar com você no futuro, Senhor [name]. Pode passar aqui a qualquer hora! Nós sempre temos encomendas saindo."
 
 # game/script.rpy:8700
 translate pt_br firstbern_07e33a53:
 
     # c "I'll do that, see you around."
-    c ""
+    c "Eu farei isso, até mais."
 
 # game/script.rpy:8703
 translate pt_br firstbern_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:8706
 translate pt_br firstbern_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8708
 translate pt_br firstbern_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8710
 translate pt_br firstbern_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8728
 translate pt_br expl_beach1_a2445eb9:
@@ -13430,25 +13430,25 @@ translate pt_br expl_beach1_744d48b7:
 translate pt_br expl_beach1_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:8797
 translate pt_br expl_beach1_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8799
 translate pt_br expl_beach1_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8801
 translate pt_br expl_beach1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8807
 translate pt_br expl_beach1_4a05e10f:
@@ -13460,25 +13460,25 @@ translate pt_br expl_beach1_4a05e10f:
 translate pt_br expl_beach1_d6b48f27_1:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:8813
 translate pt_br expl_beach1_6b4615f0_2:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8815
 translate pt_br expl_beach1_6b4615f0_3:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8817
 translate pt_br expl_beach1_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8825
 translate pt_br expl_beach0_c4dc0e04:
@@ -13850,25 +13850,25 @@ translate pt_br expl_beach0_bfc3b948:
 translate pt_br expl_beach0_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:8914
 translate pt_br expl_beach0_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8916
 translate pt_br expl_beach0_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8918
 translate pt_br expl_beach0_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8927
 translate pt_br expl_beach0_f3fa7864:
@@ -13880,25 +13880,25 @@ translate pt_br expl_beach0_f3fa7864:
 translate pt_br expl_beach0_d6b48f27_1:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:8933
 translate pt_br expl_beach0_6b4615f0_2:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8935
 translate pt_br expl_beach0_6b4615f0_3:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8937
 translate pt_br expl_beach0_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8945
 translate pt_br expl_beach2_09a62f71:
@@ -14594,25 +14594,25 @@ translate pt_br expl_beach2_da0e28bb:
 translate pt_br expl_beach2_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:9100
 translate pt_br expl_beach2_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9102
 translate pt_br expl_beach2_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9104
 translate pt_br expl_beach2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9112
 translate pt_br expl_beach2_4a05e10f:
@@ -14624,25 +14624,25 @@ translate pt_br expl_beach2_4a05e10f:
 translate pt_br expl_beach2_d6b48f27_1:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:9118
 translate pt_br expl_beach2_6b4615f0_2:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9120
 translate pt_br expl_beach2_6b4615f0_3:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9122
 translate pt_br expl_beach2_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9135
 translate pt_br explore_brothel1_1b83831a:
@@ -15230,25 +15230,25 @@ translate pt_br explore_brothel1_d2a15813:
 translate pt_br explore_brothel1_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:9308
 translate pt_br explore_brothel1_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9310
 translate pt_br explore_brothel1_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9312
 translate pt_br explore_brothel1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9321
 translate pt_br explore_brothel1_d30c25c6:
@@ -15260,25 +15260,25 @@ translate pt_br explore_brothel1_d30c25c6:
 translate pt_br explore_brothel1_d6b48f27_1:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:9327
 translate pt_br explore_brothel1_6b4615f0_2:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9329
 translate pt_br explore_brothel1_6b4615f0_3:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9331
 translate pt_br explore_brothel1_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9339
 translate pt_br explore_brothel3_a22ca61f:
@@ -17324,25 +17324,25 @@ translate pt_br explore_brothel2_d98b0888:
 translate pt_br explore_brothel2_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:10274
 translate pt_br explore_brothel2_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10276
 translate pt_br explore_brothel2_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10278
 translate pt_br explore_brothel2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10290
 translate pt_br out_cont1_1_5998dada:
@@ -17822,7 +17822,7 @@ translate pt_br out_cont1_1_ab6ced44_8:
 translate pt_br out_cont1_1_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:10445
 translate pt_br out_cont1_1_491205c6:
@@ -17834,19 +17834,19 @@ translate pt_br out_cont1_1_491205c6:
 translate pt_br out_cont1_1_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10450
 translate pt_br out_cont1_1_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10452
 translate pt_br out_cont1_1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10459
 translate pt_br out_cont2_1_0b0746af:
@@ -18182,7 +18182,7 @@ translate pt_br out_cont2_1p2_9003e89c:
 translate pt_br out_cont2_1p2_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:10563
 translate pt_br out_cont2_1p2_e87acc6a:
@@ -18194,19 +18194,19 @@ translate pt_br out_cont2_1p2_e87acc6a:
 translate pt_br out_cont2_1p2_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10568
 translate pt_br out_cont2_1p2_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10570
 translate pt_br out_cont2_1p2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10578
 translate pt_br out_cont3_1_d9d02710:
@@ -18494,7 +18494,7 @@ translate pt_br out_cont3_1_8eec879d:
 translate pt_br out_cont3_1_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:10661
 translate pt_br out_cont3_1_1199b85a:
@@ -18506,19 +18506,19 @@ translate pt_br out_cont3_1_1199b85a:
 translate pt_br out_cont3_1_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10666
 translate pt_br out_cont3_1_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10668
 translate pt_br out_cont3_1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10682
 translate pt_br explore_cafe1_06010f17:
@@ -18854,25 +18854,25 @@ translate pt_br explcaf_e3f20900:
 translate pt_br explcaf_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:10761
 translate pt_br explcaf_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10763
 translate pt_br explcaf_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10765
 translate pt_br explcaf_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10774
 translate pt_br explore_cafe2_14932c60:
@@ -19394,7 +19394,7 @@ translate pt_br explore_cafe2_100e750a:
 translate pt_br explore_cafe2_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:10910
 translate pt_br explore_cafe2_b9a921c9:
@@ -19406,19 +19406,19 @@ translate pt_br explore_cafe2_b9a921c9:
 translate pt_br explore_cafe2_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10917
 translate pt_br explore_cafe2_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10919
 translate pt_br explore_cafe2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10929
 translate pt_br explore_cafe3_de9a3d9b:
@@ -19994,25 +19994,25 @@ translate pt_br explore_cafe3_e9382e87:
 translate pt_br explore_cafe3_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:11080
 translate pt_br explore_cafe3_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11082
 translate pt_br explore_cafe3_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11084
 translate pt_br explore_cafe3_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11098
 translate pt_br expl_church1_e355c015:
@@ -20636,25 +20636,25 @@ translate pt_br needy_help_459121b4:
 translate pt_br needy_help_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:11250
 translate pt_br needy_help_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11252
 translate pt_br needy_help_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11254
 translate pt_br needy_help_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11264
 translate pt_br expl_church0_1656a513:
@@ -21074,25 +21074,25 @@ translate pt_br expl_church0_cont_1ede4148:
 translate pt_br expl_church0_cont_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:11379
 translate pt_br expl_church0_cont_6b82b6fa:
 
     # c "(Money: [money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11381
 translate pt_br expl_church0_cont_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11383
 translate pt_br expl_church0_cont_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11396
 translate pt_br explore_slums2_fec8ce40:
@@ -21794,25 +21794,25 @@ translate pt_br explore_slums2_60643bc4:
 translate pt_br explore_slums2_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:11557
 translate pt_br explore_slums2_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11559
 translate pt_br explore_slums2_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11561
 translate pt_br explore_slums2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11569
 translate pt_br explore_slums1_1a6bb4a5:
@@ -22328,25 +22328,25 @@ translate pt_br explore_slums1_c83cf81a:
 translate pt_br explore_slums1_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:11690
 translate pt_br explore_slums1_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11692
 translate pt_br explore_slums1_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11694
 translate pt_br explore_slums1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11711
 translate pt_br out_cont1_6a71bfc8:
@@ -22532,25 +22532,25 @@ translate pt_br deliverdone_d1137ebc:
 translate pt_br deliverdone_d6b48f27:
 
     # "You used 1 Action Point while exploring."
-    ""
+    "Você usou 1 Ponto de Ação enquanto explorava."
 
 # game/script.rpy:11847
 translate pt_br deliverdone_6b4615f0:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11849
 translate pt_br deliverdone_6b4615f0_1:
 
     # "(Money: $[money])\n(AP: [action_points]/3)"
-    ""
+    "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11851
 translate pt_br deliverdone_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c ""
+    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11861
 translate pt_br out_cont2_6a71bfc8:
