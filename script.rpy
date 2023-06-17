@@ -455,7 +455,7 @@ translate pt_br start2_5f34b80f:
 translate pt_br start2_035cf35b:
 
     # e "Each guest pays you $5 a day. So the more residents you have, the more money you will make."
-    e "Cada hóspede paga R$25 por dia. Então quanto mais moradores você tiver, mais dinheiro vai conseguir."
+    e "Cada hóspede paga $5 por dia. Então quanto mais moradores você tiver, mais dinheiro vai conseguir."
 
 # game/script.rpy:577
 translate pt_br start2_74a73740:
@@ -1925,7 +1925,7 @@ translate pt_br lobby2_8210ba91_1:
 translate pt_br lobby2_ac7e3d5b_1:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Kali passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2098
 translate pt_br lobby2_f848e5a1:
@@ -2063,7 +2063,7 @@ translate pt_br lobby2_8210ba91_2:
 translate pt_br lobby2_ac7e3d5b_2:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Kali passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2162
 translate pt_br lobby2_745d0824_1:
@@ -2159,7 +2159,7 @@ translate pt_br lobby2_8210ba91_3:
 translate pt_br lobby2_ac7e3d5b_3:
 
     # "You and Kali spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Kali passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2213
 translate pt_br lobby2_d607d1c5:
@@ -2285,7 +2285,7 @@ translate pt_br lobby2_beb4446b:
 translate pt_br lobby2_c7fad9ef:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    "  Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2274
 translate pt_br lobby2_cf23c3dc:
@@ -2393,7 +2393,7 @@ translate pt_br lobby2_beb4446b_1:
 translate pt_br lobby2_c7fad9ef_1:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    " Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2328
 translate pt_br lobby2_056525c8:
@@ -2519,7 +2519,7 @@ translate pt_br lobby2_beb4446b_2:
 translate pt_br lobby2_c7fad9ef_2:
 
     # "You and Ashley spend some time at the beach. Once you're both done, you head back..."
-    " Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Ashley passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2388
 translate pt_br lobby2_cf23c3dc_1:
@@ -2879,7 +2879,7 @@ translate pt_br lobby2_5b082de8_1:
 translate pt_br lobby2_c5bcc9ce_1:
 
     # "You and Maria spend some time at the beach. Once you're both done, you head back..."
-    " passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
+    "Você e Maria passam algum tempo na praia. Uma vez que vocês dois ja se cansaram, vocês vão para casa..."
 
 # game/script.rpy:2564
 translate pt_br lobby2_55f8a2e3:
@@ -8250,7 +8250,7 @@ translate pt_br lobby_39fc4fd7:
 translate pt_br lobby_40eab776:
 
     # ba "Oh, hell yeah, absolutely! That'll be $5."
-    ba "Ah, claro, tenho sim! Custa R$25."
+    ba "Ah, claro, tenho sim! Custa $5."
 
 # game/script.rpy:6315
 translate pt_br lobby_d9a47e93:
@@ -8304,7 +8304,7 @@ translate pt_br lobby_581795db:
 translate pt_br lobby_03de75e8:
 
     # "You spend $5"
-    "Você gastou R$25"
+    "Você gastou $5"
 
 # game/script.rpy:6332
 translate pt_br lobby_50a3fbae:
@@ -9854,13 +9854,13 @@ translate pt_br floor1menu_3130fa8d:
 translate pt_br floor1menu_8e3946bd:
 
     # k "So it was you who ordered... that'll be $5 please."
-    k "Então vou você que pediu... vao ficar R$24 por favor."
+    k "Então vou você que pediu... vao ficar $5 por favor."
 
 # game/script.rpy:7164
 translate pt_br floor1menu_faf8f730:
 
     # "You hand over $5."
-    "Você entrega R$24."
+    "Você entrega $5."
 
 # game/script.rpy:7168
 translate pt_br floor1menu_46d5fc07:
@@ -10358,7 +10358,7 @@ translate pt_br kcreep_b7611eac:
 translate pt_br kcreep_2541b8e2:
 
     # k "[name], he wants to give me $50..."
-    k "[name], ele quer me dar R$250..."
+    k "[name], ele quer me dar $50..."
 
 # game/script.rpy:7503
 translate pt_br kcreep_da9f9277:
@@ -10382,7 +10382,7 @@ translate pt_br kcreep_7bc431ac:
 translate pt_br kcreep_f21fd40d:
 
     # k "But for $50? I don't know, it might be worth it... what do you think [name]?"
-    k "MAs por R$250? Eu não sei, pode valer a pena... o que você acha [name]?"
+    k "MAs por $50? Eu não sei, pode valer a pena... o que você acha [name]?"
 
 # game/script.rpy:7510
 translate pt_br kcreep_2afb9284:
@@ -10604,7 +10604,7 @@ translate pt_br kcreep_f010c328:
 translate pt_br kcreep_73096e81:
 
     # k "But I got $50!"
-    k "Mas eu consegui R$250!"
+    k "Mas eu consegui $50!"
 
 # game/script.rpy:7574
 translate pt_br kcreep_677b85d2:
@@ -12926,7 +12926,7 @@ translate pt_br firstbern_41412cc2:
 translate pt_br firstbern_03928ced:
 
     # bartender "Yeah! We host one every month. Winner gets a grand prize of $200! Pretty sweet, right?"
-    bartender "Sim! Nós hospedamos um em todo mês. O vencedor recebe um grande prêmio de R$200! Bem legal, não é?"
+    bartender "Sim! Nós hospedamos um em todo mês. O vencedor recebe um grande prêmio de $200! Bem legal, não é?"
 
 # game/script.rpy:8649
 translate pt_br firstbern_594b0825:
@@ -13010,7 +13010,7 @@ translate pt_br firstbern_9694eb93:
 translate pt_br firstbern_af66a010:
 
     # bartender "That depends on the day, though I would guess you could make anywhere from $15 - $30 each time."
-    bartender "Isso vai depender do dia, mas eu imagino que você conseguiria algo entre R$70 - R$150 cada vez."
+    bartender "Isso vai depender do dia, mas eu imagino que você conseguiria algo entre $15 - $30 cada vez."
 
 # game/script.rpy:8673
 translate pt_br firstbern_04c94cd6:
@@ -13100,13 +13100,13 @@ translate pt_br firstbern_903b8bca:
 translate pt_br firstbern_3f857853:
 
     # bartender "Last time I checked you were at 15 deliveries, right? At $2 per delivery, that's $30! Plus whatever tips you got."
-    bartender "Na última vez que eu te vi, você estava com 15 encomendas, né? E R$10 por entrega, vão dar R$150! Além de quaisquer gorjetas que você tenha."
+    bartender "Na última vez que eu te vi, você estava com 15 encomendas, né? E $2 por entrega, vão dar $30! Além de quaisquer gorjetas que você tenha."
 
 # game/script.rpy:8694
 translate pt_br firstbern_0bf1fd87:
 
     # "You gained $35!"
-    "Você ganhou R$150!"
+    "Você ganhou $35!"
 
 # game/script.rpy:8696
 translate pt_br firstbern_d2be0842:
@@ -13520,67 +13520,67 @@ translate pt_br expl_beach0_c151aa40:
 translate pt_br expl_beach0_0b3e68b8:
 
     # sla "Common elves are naturally adept at farsight, and you'll be hard-pressed to find one with glasses! If you're in need of a house maid to detect even the smallest of messes, this one is for you!"
-    sla "Elfos comuns são adaptados naturalmente a ter uma boa visão a longa distânca, e você dificilmente vai ver um usando óculos! E se você estiver precisando de uma empregada que seja capaz de detectar a menor das bagunças, essa é a certa! "
+    sla "Elfos comuns são adaptados naturalmente a ter uma boa visão a longa distânca, e você dificilmente vai ver um usando óculos! E se você estiver precisando de uma empregada que seja capaz de detectar a menor das bagunças, essa é a certa para você! "
 
 # game/script.rpy:8835
 translate pt_br expl_beach0_7255309c:
 
     # sla "Lot 7 will start at 200 Syls! 200 Syls anyone?"
-    sla ""
+    sla "O lote 7 vai começãr com 200 Syls! 200 Syls alguém? "
 
 # game/script.rpy:8837
 translate pt_br expl_beach0_e9bf0aec:
 
     # c "{i}I couldn't afford that even if I wanted to.{/i}"
-    c ""
+    c "{i}Eu não poderia pagar mesmo se eu quisesse.{/i}"
 
 # game/script.rpy:8839
 translate pt_br expl_beach0_97b8bfcb:
 
     # c "{i}They can get expensive.{/i}"
-    c ""
+    c "{i}Eles podem ser realmente caros.{/i}"
 
 # game/script.rpy:8840
 translate pt_br expl_beach0_2b948b88:
 
     # q "Tell me about it..."
-    q ""
+    q "Nem me fala..."
 
 # game/script.rpy:8842
 translate pt_br expl_beach0_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:8843
 translate pt_br expl_beach0_54c70c28:
 
     # q "Ever since they forced us to pamper them with luxuries, common folk like us have had to sell them to assholes like that. I had to sell my last two slaves last month, but they keep getting more expensive! I could never afford one again at this rate..."
-    q ""
+    q "Desde que eles começaram a nos obrigar a mimá-los com luxos, caras comuns como eu foram obrigados a vendê-los para cuzões como eles. Eu tive que vender os meus últimos dois escravos para eles nesse último mês, mas eles continuamficando mais caros! Eu nunca mais vou conseguir pagar outro, desse jeito..."
 
 # game/script.rpy:8844
 translate pt_br expl_beach0_45f6a88c:
 
     # sla "$270! 270 Syls! Going once!"
-    sla ""
+    sla "$270! 270 Syls! Dou lhe-uma!"
 
 # game/script.rpy:8845
 translate pt_br expl_beach0_f47a2527:
 
     # c "Uh... sorry to hear that, I guess."
-    c ""
+    c "Uh... ssinto muito por ouvir isso, eu acho."
 
 # game/script.rpy:8846
 translate pt_br expl_beach0_41646379:
 
     # sla "$320? Do I hear $320?"
-    sla ""
+    sla "$320? Eu ouvi um $320?"
 
 # game/script.rpy:8847
 translate pt_br expl_beach0_c08c2a0c:
 
     # q "Nothin' you can do but watch it burn, I guess. This place is turning to shit."
-    q ""
+    q "Não tem o que fazer além de deixar queimar, eu acho. Esse lugar está virando uma merda."
 
 # game/script.rpy:8849
 translate pt_br expl_beach0_fdf15d68:
