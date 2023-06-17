@@ -13160,271 +13160,271 @@ translate pt_br firstbern_6b4615f0_1:
 translate pt_br firstbern_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.\n(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8728
 translate pt_br expl_beach1_a2445eb9:
 
     # q "Hyah!" with ssshake
-    q "" with ssshake
+    q "Hyah!" with ssshake
 
 # game/script.rpy:8730
 translate pt_br expl_beach1_39091bfc:
 
     # q "Good shot!"
-    q ""
+    q "Na mosca!"
 
 # game/script.rpy:8731
 translate pt_br expl_beach1_435a1071:
 
     # q "I got it!"
-    q ""
+    q "Consegui!"
 
 # game/script.rpy:8733
 translate pt_br expl_beach1_ecf413a8:
 
     # c "{i}I suddenly feel overdressed...\n...But that police droid wasn't lying about the people.{/i}"
-    c ""
+    c "{i}Eu de repente me sinto vestido...\n...Mas aquela dróide policial não estava mentindo sobre as pessoas. {/i}"
 
 # game/script.rpy:8734
 translate pt_br expl_beach1_19da5902:
 
     # c "{i}I guess I'll explore the area a little bit.{/i}"
-    c ""
+    c "{i}Acho que vou explorar a região um pouco.{/i}"
 
 # game/script.rpy:8737
 translate pt_br expl_beach1_49cbc040:
 
     # c "{i}This place is pretty nice, I'll have to remember this.{/i}"
-    c ""
+    c "{i}Esse lugar é bem legal, vou ter que me lembrar disso.{/i}"
 
 # game/script.rpy:8738
 translate pt_br expl_beach1_8f5958f7:
 
     # q "NNGH!" with ssshake
-    q "" with ssshake
+    q "NNNGH!" with ssshake
 
 # game/script.rpy:8739
 translate pt_br expl_beach1_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:8741
 translate pt_br expl_beach1_65a7720b:
 
     # q "Aagh! Fuck!"
-    q ""
+    q "Asgh! Porra!"
 
 # game/script.rpy:8742
 translate pt_br expl_beach1_ee576b54:
 
     # c "Hm?\nThat sound is coming from behind those rocks... does someone need help?"
-    c ""
+    c "Hm?\nEsse som parece estar vindo de trás daquelas rochas... será que alguém precisa de ajuda?"
 
 # game/script.rpy:8744
 translate pt_br expl_beach1_6f4ac501:
 
     # q "Haaah! Nnnm~!"
-    q ""
+    q "Haaah! Nnnm~!"
 
 # game/script.rpy:8745
 translate pt_br expl_beach1_b246085b:
 
     # q "Aah, it's in!"
-    q ""
+    q "Aah, entrou!"
 
 # game/script.rpy:8746
 translate pt_br expl_beach1_9b425cb8:
 
     # c "{i}Oh, of course...{w=0.5}\n...{w=0.5}\n...{w=0.5}\n...{/i}"
-    c ""
+    c "{i}Ahm é claro...{w=0.5}\n....{w-0.5}\n...{w0.5}\n...{/i}"
 
 # game/script.rpy:8749
 translate pt_br expl_beach1_e723f372:
 
     # c "{i}Hmm...{/i}"
-    c ""
+    c "{i}Hmm...{/i}"
 
 # game/script.rpy:8751
 translate pt_br expl_beach1_3e38c5ab:
 
     # woman "Nnngh! You're not doing it right..."
-    woman ""
+    woman "Nnngh! Você não está fazendo direito..."
 
 # game/script.rpy:8752
 translate pt_br expl_beach1_50ea660b:
 
     # man "What? What do you mean?"
-    man ""
+    man "O quê? Como assim?"
 
 # game/script.rpy:8753
 translate pt_br expl_beach1_22e72643:
 
     # woman "Shut up, just let me do it."
-    woman ""
+    woman "Cala a boca, só me deixa fazer isso."
 
 # game/script.rpy:8755
 translate pt_br expl_beach1_69e99689:
 
     # man "Holy shit, you know what you're doing... nngh!"
-    man ""
+    man "Puta merda, você sabe o que está fazendo... nngh!"
 
 # game/script.rpy:8756
 translate pt_br expl_beach1_749cb653:
 
     # woman "Obviously! I thought you knew who I was. Mmmh~!"
-    woman ""
+    woman "É óbvio! Pensei que você soubesse quem eu sou. Mmmh~!"
 
 # game/script.rpy:8757
 translate pt_br expl_beach1_9e725dcd:
 
     # man "No clue, sorry..."
-    man ""
+    man "Não faço ideia, foi mal..."
 
 # game/script.rpy:8758
 translate pt_br expl_beach1_92d5fa00:
 
     # woman "Nnnh~! Whatever, just don't cum too fast."
-    woman ""
+    woman "Nnnh~! Que seja, só não goza muito rapido."
 
 # game/script.rpy:8761
 translate pt_br expl_beach1_c2a6283b:
 
     # woman "Come on, put in a little effort! Haha!"
-    woman ""
+    woman "Vai, põe um pouco de esforço nisso! Haha!"
 
 # game/script.rpy:8762
 translate pt_br expl_beach1_83fd2a93:
 
     # man "Nnngh, I thought you wanted to be in control."
-    man ""
+    man "Nhnngh, eu achei que você quisesse estar no controle."
 
 # game/script.rpy:8763
 translate pt_br expl_beach1_5340b97b:
 
     # woman "You can at least {i}try{/i}. Like, a little? Heheh."
-    woman ""
+    woman "Você não podia pelo menos {i}tentar{/i}. Tipo, um pouco? Heheh."
 
 # game/script.rpy:8764
 translate pt_br expl_beach1_8c29fbfa:
 
     # man "Well I-\nNnngh..."
-    man ""
+    man "Bem, eu-\nNnngh..."
 
 # game/script.rpy:8765
 translate pt_br expl_beach1_9603bb37:
 
     # woman "Heheh, what's wrong? Am I too much for you?"
-    woman ""
+    woman "Heheh, o que foi? Sou demais pra você?"
 
 # game/script.rpy:8767
 translate pt_br expl_beach1_bdb02667:
 
     # man "Aagh!" with ssshake
-    man "" with ssshake
+    man "Aagh!" with ssshake
 
 # game/script.rpy:8768
 translate pt_br expl_beach1_8fc4155e:
 
     # woman "Hey, what are you-\nDid you just-"
-    woman ""
+    woman "Ei, o que você-\nVocê acabou de-"
 
 # game/script.rpy:8770
 translate pt_br expl_beach1_acb318e7:
 
     # man "Nngh!"
-    man ""
+    man "Nnngh!"
 
 # game/script.rpy:8771
 translate pt_br expl_beach1_03747782:
 
     # woman "What the fuck! I said not inside!"
-    woman ""
+    woman "Mas que porra! Eu disse que dentro não!"
 
 # game/script.rpy:8772
 translate pt_br expl_beach1_a7906640:
 
     # man "Aaagh... sorry..."
-    man ""
+    man "Aaagh... eu sinto muito..."
 
 # game/script.rpy:8773
 translate pt_br expl_beach1_f59bc04d:
 
     # woman "No you're not!"
-    woman ""
+    woman "Não, não sente!"
 
 # game/script.rpy:8775
 translate pt_br expl_beach1_ed38e5f9:
 
     # woman "You need to learn how to respect people! Asshole!"
-    woman ""
+    woman "Você tem que aprender a respeitar as pessoas! Cuzão!"
 
 # game/script.rpy:8776
 translate pt_br expl_beach1_2029cd29:
 
     # man "It was just an accident..."
-    man ""
+    man "Foi só um acidente..."
 
 # game/script.rpy:8777
 translate pt_br expl_beach1_d2be39a3:
 
     # woman "What are you, a virgin? Is that the first time you've cum!?"
-    woman ""
+    woman "O que é você? um virgem? É a primeira vez que você goza!?"
 
 # game/script.rpy:8779
 translate pt_br expl_beach1_6d64648b:
 
     # woman "You shouldn't-\n...{w}...{w}..."
-    woman ""
+    woman "Você não deveria-\n...{w}...{w}..."
 
 # game/script.rpy:8780
 translate pt_br expl_beach1_d3829da5:
 
     # man "Babe?"
-    man ""
+    man "Gata?"
 
 # game/script.rpy:8782
 translate pt_br expl_beach1_cce36180:
 
     # woman "S-Someone's...!"
-    woman ""
+    woman "A-Alguém...!"
 
 # game/script.rpy:8783
 translate pt_br expl_beach1_574312e1:
 
     # man "Huh?\nOh shit! Not again!"
-    man ""
+    man "Huh?\Ah merda! De novo não!"
 
 # game/script.rpy:8785
 translate pt_br expl_beach1_a16c1493:
 
     # man "Stop recording me!" with ssshake
-    man "" with ssshake
+    man "Para de me gravar!" with ssshake
 
 # game/script.rpy:8786
 translate pt_br expl_beach1_0750d4b1:
 
     # woman "{u}{i}Seriously!?{/u}{/i}\nWhat's wrong with you!?"
-    woman ""
+    woman "{u}{i}Sério!?{/u}{/i}\nQual é o seu problema?"
 
 # game/script.rpy:8788
 translate pt_br expl_beach1_aaea3ef4:
 
     # woman "Urgh! Get back here! I'm gonna kill you!" with ssshake
-    woman "" with ssshake
+    woman "Urgh! Volta aqui! Eu vou te matar!" with ssshake
 
 # game/script.rpy:8790
 translate pt_br expl_beach1_59d2298c:
 
     # c "They're gone... \nWho were they?"
-    c ""
+    c "Eles foram embora...\nQuem são eles?"
 
 # game/script.rpy:8791
 translate pt_br expl_beach1_744d48b7:
 
     # c "...Did he really forget his shorts?{w=1}\nI should go before he realizes..."
-    c ""
+    c "...É serio que ele esqueceu o calção dele?{w=1}\Eu deveria ir embora antes que alguém perceba..."
 
 # game/script.rpy:8794
 translate pt_br expl_beach1_d6b48f27:
@@ -13448,13 +13448,13 @@ translate pt_br expl_beach1_6b4615f0_1:
 translate pt_br expl_beach1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8807
 translate pt_br expl_beach1_4a05e10f:
 
     # c "{i}This is creepy, I should let them have fun...{/i}"
-    c ""
+    c "{i}Isso é bizarro, eu deveria deixar eles se divertindo...{/i}"
 
 # game/script.rpy:8810
 translate pt_br expl_beach1_d6b48f27_1:
@@ -13478,49 +13478,49 @@ translate pt_br expl_beach1_6b4615f0_3:
 translate pt_br expl_beach1_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8825
 translate pt_br expl_beach0_c4dc0e04:
 
     # c "{i}Seems like a quiet day today, everyone must be at work.{/i}"
-    c ""
+    c "{i}Parece ser um dia quieto hoje, todo mundo deve estar no trabalho.{/i}"
 
 # game/script.rpy:8826
 translate pt_br expl_beach0_19da5902:
 
     # c "{i}I guess I'll explore the area a little bit.{/i}"
-    c ""
+    c "{i}Acho que vou explorar a região um pouco.{/i}"
 
 # game/script.rpy:8829
 translate pt_br expl_beach0_fb00bb37:
 
     # sla "Next we have lot 7, a common elf! Step up!"
-    sla ""
+    sla "E agora nós temos o lote 7, uma elfas comuns! Levante-se!"
 
 # game/script.rpy:8830
 translate pt_br expl_beach0_90e511cd:
 
     # c "{i}There's that guy from the city, it looks like they still have some people to sell.{/i}"
-    c ""
+    c "{i}Aqui está aquele cara da cidade, parece que ele ainda tem algumas pessoas para vender.{/i}"
 
 # game/script.rpy:8831
 translate pt_br expl_beach0_dd4bdad1:
 
     # sla "Lot 7, get up here!"
-    sla ""
+    sla "Lote 7, traga aqui!"
 
 # game/script.rpy:8833
 translate pt_br expl_beach0_c151aa40:
 
     # sla "Lot 7 is a very talented 400 or so year old common elf from Syl'ari who specializes in cooking, cleaning, and bathing!"
-    sla ""
+    sla "O lote 7 é uma elfa comum de em média 400 anos muito talentosa de Syl'ari que é especializada em cozinhar, limpar, e dar banho!"
 
 # game/script.rpy:8834
 translate pt_br expl_beach0_0b3e68b8:
 
     # sla "Common elves are naturally adept at farsight, and you'll be hard-pressed to find one with glasses! If you're in need of a house maid to detect even the smallest of messes, this one is for you!"
-    sla ""
+    sla "Elfos comuns são adaptados naturalmente a ter uma boa visão a longa distânca, e você dificilmente vai ver um usando óculos! E se você estiver precisando de uma empregada que seja capaz de detectar a menor das bagunças, essa é a certa! "
 
 # game/script.rpy:8835
 translate pt_br expl_beach0_7255309c:
@@ -13868,7 +13868,7 @@ translate pt_br expl_beach0_6b4615f0_1:
 translate pt_br expl_beach0_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8927
 translate pt_br expl_beach0_f3fa7864:
@@ -13898,7 +13898,7 @@ translate pt_br expl_beach0_6b4615f0_3:
 translate pt_br expl_beach0_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:8945
 translate pt_br expl_beach2_09a62f71:
@@ -14612,7 +14612,7 @@ translate pt_br expl_beach2_6b4615f0_1:
 translate pt_br expl_beach2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9112
 translate pt_br expl_beach2_4a05e10f:
@@ -14642,7 +14642,7 @@ translate pt_br expl_beach2_6b4615f0_3:
 translate pt_br expl_beach2_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9135
 translate pt_br explore_brothel1_1b83831a:
@@ -15248,7 +15248,7 @@ translate pt_br explore_brothel1_6b4615f0_1:
 translate pt_br explore_brothel1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9321
 translate pt_br explore_brothel1_d30c25c6:
@@ -15278,7 +15278,7 @@ translate pt_br explore_brothel1_6b4615f0_3:
 translate pt_br explore_brothel1_875c529f_1:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:9339
 translate pt_br explore_brothel3_a22ca61f:
@@ -17342,7 +17342,7 @@ translate pt_br explore_brothel2_6b4615f0_1:
 translate pt_br explore_brothel2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10290
 translate pt_br out_cont1_1_5998dada:
@@ -17846,7 +17846,7 @@ translate pt_br out_cont1_1_6b4615f0:
 translate pt_br out_cont1_1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10459
 translate pt_br out_cont2_1_0b0746af:
@@ -18206,7 +18206,7 @@ translate pt_br out_cont2_1p2_6b4615f0:
 translate pt_br out_cont2_1p2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10578
 translate pt_br out_cont3_1_d9d02710:
@@ -18518,7 +18518,7 @@ translate pt_br out_cont3_1_6b4615f0:
 translate pt_br out_cont3_1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10682
 translate pt_br explore_cafe1_06010f17:
@@ -18872,7 +18872,7 @@ translate pt_br explcaf_6b4615f0:
 translate pt_br explcaf_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10774
 translate pt_br explore_cafe2_14932c60:
@@ -19418,7 +19418,7 @@ translate pt_br explore_cafe2_6b4615f0:
 translate pt_br explore_cafe2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:10929
 translate pt_br explore_cafe3_de9a3d9b:
@@ -20012,7 +20012,7 @@ translate pt_br explore_cafe3_6b4615f0:
 translate pt_br explore_cafe3_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11098
 translate pt_br expl_church1_e355c015:
@@ -20654,7 +20654,7 @@ translate pt_br needy_help_6b4615f0:
 translate pt_br needy_help_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11264
 translate pt_br expl_church0_1656a513:
@@ -21092,7 +21092,7 @@ translate pt_br expl_church0_cont_6b4615f0:
 translate pt_br expl_church0_cont_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11396
 translate pt_br explore_slums2_fec8ce40:
@@ -21812,7 +21812,7 @@ translate pt_br explore_slums2_6b4615f0_1:
 translate pt_br explore_slums2_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11569
 translate pt_br explore_slums1_1a6bb4a5:
@@ -22346,7 +22346,7 @@ translate pt_br explore_slums1_6b4615f0_1:
 translate pt_br explore_slums1_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11711
 translate pt_br out_cont1_6a71bfc8:
@@ -22550,7 +22550,7 @@ translate pt_br deliverdone_6b4615f0_1:
 translate pt_br deliverdone_875c529f:
 
     # c "I'm exhausted... I'll head back home for now.\n(Money: $[money])\n(AP: [action_points]/3)"
-    c "(Dinheiro: $[money])\n(PA: [action_points]/3)"
+    c "Estou exausto... Acho que vou voltar para casa por agora.(Dinheiro: $[money])\n(PA: [action_points]/3)"
 
 # game/script.rpy:11861
 translate pt_br out_cont2_6a71bfc8:
