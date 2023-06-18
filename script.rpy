@@ -22,7 +22,7 @@ translate pt_br intro_443a9488:
 translate pt_br intro_402a59b9:
 
     # yg "Today, the hard work over these past few decades will finally pay off. I have big plans, and you girls will be the first thing customers see."
-    yg "Hoje, o trabalho duro feito nessas últimas décadas finalmente vai ser compensado. Eu tenho grandes planos, e vocês garotas serão a primeira coisa que os clientes vão ver.  "
+    yg "Hoje, o trabalho duro feito nas últimas décadas finalmente vai ser compensado. Eu tenho grandes planos, e vocês garotas, serão a primeira coisa que os clientes vão ver."
 
 # game/script.rpy:391
 translate pt_br intro_9664af3c:
@@ -34,7 +34,7 @@ translate pt_br intro_9664af3c:
 translate pt_br intro_c3faeeb9:
 
     # yg "I'm glad, Lika. You'll be working out front today and we'll need that enthusiasm. Do anything you can to bring in customers. In fact, it may be best for you to wear nothing at all."
-    yg "Fico contente, Lika. Hoje você vai estar trabalhando na frente hoje e nós precisamos desse entusiasmo. Faça o que puder para trazer clientes. Na verdade pode ser maté melhor para você não vestir nada."
+    yg "Fico contente, Lika. Hoje você vai estar trabalhando na frente hoje e nós precisamos desse entusiasmo. Faça o que puder para trazer clientes. Na verdade pode ser até melhor para você não vestir nada."
 
 # game/script.rpy:395
 translate pt_br intro_87d74243:
@@ -13496,7 +13496,7 @@ translate pt_br expl_beach0_19da5902:
 translate pt_br expl_beach0_fb00bb37:
 
     # sla "Next we have lot 7, a common elf! Step up!"
-    sla "E agora nós temos o lote 7, uma elfas comuns! Levante-se!"
+    sla "E agora nós temos o lote 7, uma elfa comun! Levante-se!"
 
 # game/script.rpy:8830
 translate pt_br expl_beach0_90e511cd:
@@ -13508,25 +13508,25 @@ translate pt_br expl_beach0_90e511cd:
 translate pt_br expl_beach0_dd4bdad1:
 
     # sla "Lot 7, get up here!"
-    sla "Lote 7, traga aqui!"
+    sla "Lote 7, suba aqui!"
 
 # game/script.rpy:8833
 translate pt_br expl_beach0_c151aa40:
 
     # sla "Lot 7 is a very talented 400 or so year old common elf from Syl'ari who specializes in cooking, cleaning, and bathing!"
-    sla "O lote 7 é uma elfa comum de em média 400 anos muito talentosa de Syl'ari que é especializada em cozinhar, limpar, e dar banho!"
+    sla "O lote 7 é uma elfa comum de cerca de 400 anos muito talentosa de Syl'ari que é especializada em cozinhar, limpar, e dar banho!"
 
 # game/script.rpy:8834
 translate pt_br expl_beach0_0b3e68b8:
 
     # sla "Common elves are naturally adept at farsight, and you'll be hard-pressed to find one with glasses! If you're in need of a house maid to detect even the smallest of messes, this one is for you!"
-    sla "Elfos comuns são adaptados naturalmente a ter uma boa visão a longa distânca, e você dificilmente vai ver um usando óculos! E se você estiver precisando de uma empregada que seja capaz de detectar a menor das bagunças, essa é a certa para você! "
+    sla "Elfos comuns são naturalmente adaptados a ter uma boa visão a longa distânca, e você dificilmente vai ver um usando óculos! E se você estiver precisando de uma empregada que seja capaz de detectar a menor das bagunças, essa é a certa para você! "
 
 # game/script.rpy:8835
 translate pt_br expl_beach0_7255309c:
 
     # sla "Lot 7 will start at 200 Syls! 200 Syls anyone?"
-    sla "O lote 7 vai começãr com 200 Syls! 200 Syls alguém? "
+    sla "O lote 7 vai começãr em 200 Syls! 200 Syls alguém? "
 
 # game/script.rpy:8837
 translate pt_br expl_beach0_e9bf0aec:
@@ -13586,265 +13586,265 @@ translate pt_br expl_beach0_c08c2a0c:
 translate pt_br expl_beach0_fdf15d68:
 
     # sla "Going once, going twice! Sold! For 350 Syls! She'll be waiting for you with the concierge."
-    sla ""
+    sla "Dou-lhe uma, dou-lhe duas! Vendido! Por 350 Syls! Ela estará te esperando com o concierge."
 
 # game/script.rpy:8850
 translate pt_br expl_beach0_450dffab:
 
     # q "Fuck it, I'm out of here."
-    q ""
+    q "Foda-se, tô fora."
 
 # game/script.rpy:8852
 translate pt_br expl_beach0_7d23264b:
 
     # c "{i}That was strange.{/i}"
-    c ""
+    c "{i}Isso foi estraanho.{/i}"
 
 # game/script.rpy:8853
 translate pt_br expl_beach0_66ebe518:
 
     # sla "Next up is lot 8! Lot 8, please step forward!"
-    sla ""
+    sla "A próxima é o lote 8! Lote 8, por favor, dê um passo à frente!"
 
 # game/script.rpy:8855
 translate pt_br expl_beach0_657ca5f1:
 
     # sla "Lot 8 is a refreshingly cute 320 year old desert elf from Syl'tali who specializes in cooking, fishing, hunting, and polishing swords, if you know what I mean!"
-    sla ""
+    sla "Lote 8 é uma elfa do deserto de 320 anos refrescantemente fofa de Syl'tali que é especializada em cozinhar, pescar, caçar e polir espadas, se é que vocês me entendem!"
 
 # game/script.rpy:8856
 translate pt_br expl_beach0_f05df525:
 
     # crowd "Hahaha"
-    crowd ""
+    crowd "Hahaha"
 
 # game/script.rpy:8857
 translate pt_br expl_beach0_d581088a:
 
     # sla "Desert elves are naturally adept at hearing, if the giant ears didn't give that away first! They say a desert elf can even hear heart disease!"
-    sla ""
+    sla "Elfos do deserto são naturalmente adaptados à ter uma boa audição, se é que as orelhas gigantes já não dizem isso"
 
 # game/script.rpy:8858
 translate pt_br expl_beach0_7e13f8b0:
 
     # sla "Lot 8 starts at 300 Syls! 300 Syls anyone?"
-    sla ""
+    sla "O lote 8 começa em 300 Syls! 300 Syls alguém?"
 
 # game/script.rpy:8859
 translate pt_br expl_beach0_68c493ef:
 
     # sla "300!\n320? 320? Do I hear a 320?"
-    sla ""
+    sla "300!\n320? Eu ouvi um 320?"
 
 # game/script.rpy:8860
 translate pt_br expl_beach0_6487fe1c:
 
     # q "320!"
-    q ""
+    q "320!"
 
 # game/script.rpy:8861
 translate pt_br expl_beach0_17b8abf0:
 
     # q "360!"
-    q ""
+    q "360!"
 
 # game/script.rpy:8862
 translate pt_br expl_beach0_433bbd5c:
 
     # sla "360! Do I hear a 380? 380 anyone?"
-    sla ""
+    sla "360! Eu ouvi um 380! 380 alguém?"
 
 # game/script.rpy:8863
 translate pt_br expl_beach0_41327dda:
 
     # q "380!"
-    q ""
+    q "380!"
 
 # game/script.rpy:8864
 translate pt_br expl_beach0_908662f5:
 
     # sla "380! Do I hear 400? 400 anyone?"
-    sla ""
+    sla "380! Eu ouvi um 400? 400 alguém?"
 
 # game/script.rpy:8865
 translate pt_br expl_beach0_2e580f23:
 
     # crowd "..."
-    crowd ""
+    crowd "..."
 
 # game/script.rpy:8866
 translate pt_br expl_beach0_3e51eea7:
 
     # sla "380 going once! Going twice!"
-    sla ""
+    sla "380, dou-lhe uma! Dou-lhe duas!"
 
 # game/script.rpy:8867
 translate pt_br expl_beach0_31baea9c:
 
     # sla "Sold! Lot 8 sold for $380 to the man in the red shirt! Please collect your new slave at the concierge office."
-    sla ""
+    sla "Vendido! O lote 8 foi vendido por $380 para o homem de camisa vermelha! Por favor colete sua nova escrava no escreitório do concierge."
 
 # game/script.rpy:8869
 translate pt_br expl_beach0_79912d63:
 
     # sla "And for our last elf of the day, lot 9! Lot 9, get that juicy ass over here!"
-    sla ""
+    sla "E para nossa última elfa do dia, o lote 9! Lote 9, traga essa bunda gostosa para cá! "
 
 # game/script.rpy:8871
 translate pt_br expl_beach0_467f88b0:
 
     # sla "Lot 9 is a voluptuous 200 year old dark elf from Syl'tin who specializes in dancing, cleaning, and is surprisingly decent at chess! She'll keep you entertained for hours!"
-    sla ""
+    sla "O lote 9 é uma volumosa elfa negra de 200 anos de Syl'tin que é especializzada em dançar, limpar, e é surpreendemente boa em chadrez! Ela vai te manter entretido por horas!"
 
 # game/script.rpy:8872
 translate pt_br expl_beach0_d4ed0f48:
 
     # sla "Legend has it, every full moon, dark elves experience an uncontrollable biological urge for procreation! Appealing, is it not?"
-    sla ""
+    sla "Diz a lenda que, em toda lua cheia, os elfos negros experimentam um desejo biológico incontrolável por procriação! Atraente, não é?"
 
 # game/script.rpy:8873
 translate pt_br expl_beach0_13f33354:
 
     # sla "Oh, and they have darkvision of course."
-    sla ""
+    sla "Ah, e eles têm visao no escuro, é claro. "
 
 # game/script.rpy:8874
 translate pt_br expl_beach0_fb4c9f80:
 
     # sla "Lot 9 starts at 400 Syls! 400! 400 anyone?"
-    sla ""
+    sla "O lote 9 começa em 400 Syls! 400! 400 alguém?"
 
 # game/script.rpy:8876
 translate pt_br expl_beach0_15ef8a49:
 
     # c "{i}They're all so different.\nOh well, I couldn't buy one anyway.{/i}"
-    c ""
+    c "{i}Todas elas são tão diferentes.\n,Enfim, eu não poderia comprar nenhuma, de qualquer jeito.{/i}"
 
 # game/script.rpy:8878
 translate pt_br expl_beach0_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:8881
 translate pt_br expl_beach0_ee6b0373:
 
     # c "I wonder what she thinks."
-    c ""
+    c "Me pergunto o que ela pensa sobre."
 
 # game/script.rpy:8883
 translate pt_br expl_beach0_f55a4a26:
 
     # woman "Hm? Oh, it's you. Did you find anything you like?"
-    woman ""
+    woman "Hm? Ah, é você. Encontrou algo que te interessou?"
 
 # game/script.rpy:8886
 translate pt_br expl_beach0_dabda33b:
 
     # woman "Really? We always start below market price."
-    woman ""
+    woman "Sério? Nós sempre começamos abaixo do preço de mercado."
 
 # game/script.rpy:8887
 translate pt_br expl_beach0_1320e6ef:
 
     # c "Maybe some day."
-    c ""
+    c "Talvez algum dia."
 
 # game/script.rpy:8888
 translate pt_br expl_beach0_9e624b74:
 
     # woman "Well, keep us in mind. We're usually here once a month."
-    woman ""
+    woman "Bem, lembre-se de nós. Geralmente estamos aqui uma vez por mês."
 
 # game/script.rpy:8891
 translate pt_br expl_beach0_35e31672:
 
     # woman "To make money, why else?"
-    woman ""
+    woman "Para ganhar dinheiro, por que mais seria?"
 
 # game/script.rpy:8892
 translate pt_br expl_beach0_bb4a3347:
 
     # c "They didn't do anything bad?"
-    c ""
+    c "Elas não fizeram nada de errado?"
 
 # game/script.rpy:8893
 translate pt_br expl_beach0_4009072f:
 
     # woman "They're just elves. It's our job to put slaves like these in the hands of people like you."
-    woman ""
+    woman "Elas são só elfas. É o nosso trabalho colocar escravas assim nas mãos de pessoas como você."
 
 # game/script.rpy:8895
 translate pt_br expl_beach0_10e0c7d9:
 
     # woman "Or, if you're selling any, you can always give us a call. We'll pick them up on the same day anywhere in Caliber city, shipping and handling is free."
-    woman ""
+    woman "Ou, se você estiver vendendo alguma, você sempre pode nos ligar. Nós pegamos ela no mesmo dia em qualquer lugar na cidade Caliber, a coleta e a entrega é de graça."
 
 # game/script.rpy:8896
 translate pt_br expl_beach0_ef51025f:
 
     # c "I only have one right now, I think I'd like to keep her."
-    c ""
+    c "Eu só tenho uma no momento, e acho que gostaria de continuar com ela."
 
 # game/script.rpy:8897
 translate pt_br expl_beach0_0c4faf29:
 
     # woman "Aww, did you grow an attachment to it? That's cute."
-    woman ""
+    woman "Aww, se apegou a aquilo? Que fofo."
 
 # game/script.rpy:8898
 translate pt_br expl_beach0_2df24815:
 
     # woman "Just don't get too close. Any one of them would be willing to bite the hand that feeds them, then you'll be feeling all sad when you have to teach them a lesson, and well, who needs that right?"
-    woman ""
+    woman "Só tenta não se aproximar demais. Todo mundo sabe que eles estão só esperando pra morder a mão que os alimenta, e ai você vai ficar todo chateado quando tiver que ensiná-los uma lição, e bem, quem precisa disso, né?"
 
 # game/script.rpy:8899
 translate pt_br expl_beach0_c48746e9:
 
     # c "Sounds like you have experience."
-    c ""
+    c "Parece que você tem experiência."
 
 # game/script.rpy:8900
 translate pt_br expl_beach0_1a92b5c2:
 
     # woman "Pff, yeah. I've had to deal with thousands of them. They're all the same when it comes down to it."
-    woman ""
+    woman "Pff, sim. Eu já tive que lidar com vários deles. Todos eles são iguais no fim das contas."
 
 # game/script.rpy:8902
 translate pt_br expl_beach0_8a9c8d7a:
 
     # sla "SOLD! For $450!"
-    sla ""
+    sla "VENDIDO! Por $450!"
 
 # game/script.rpy:8903
 translate pt_br expl_beach0_57adbb31:
 
     # sla "And that marks the final sale of the day, thank you all! Thank you all so much!"
-    sla ""
+    sla "E isso marca a venda dinal do dia, eu agradeço a todos! Muitíssimo obrigado a todos!"
 
 # game/script.rpy:8905
 translate pt_br expl_beach0_d72e4f0a:
 
     # woman "Well, looks like we're done for today. *sigh*, that means it's time for paperwork..."
-    woman ""
+    woman "Bem, parece que nós terminamos por hoje. *suspiro*, isso significa que é hora da papelada"
 
 # game/script.rpy:8906
 translate pt_br expl_beach0_2acfbc89:
 
     # woman "See you around. Maybe next month?"
-    woman ""
+    woman "Te vejo por aí. Talvez no mês que vem?"
 
 # game/script.rpy:8907
 translate pt_br expl_beach0_13251290:
 
     # c "Maybe."
-    c ""
+    c "Talvez."
 
 # game/script.rpy:8909
 translate pt_br expl_beach0_bfc3b948:
 
     # "As the event ends, you decide to head back..."
-    ""
+    "Uma vez que o evento termina, você decide voltar..."
 
 # game/script.rpy:8911
 translate pt_br expl_beach0_d6b48f27:
@@ -13874,7 +13874,7 @@ translate pt_br expl_beach0_875c529f:
 translate pt_br expl_beach0_f3fa7864:
 
     # c "I've been here long enough, time to go."
-    c ""
+    c "Eu já estou aqui há tempo demais, hora de ir."
 
 # game/script.rpy:8930
 translate pt_br expl_beach0_d6b48f27_1:
@@ -13904,97 +13904,97 @@ translate pt_br expl_beach0_875c529f_1:
 translate pt_br expl_beach2_09a62f71:
 
     # purc "Really? Here?"
-    purc ""
+    purc "Sério? Aqui?"
 
 # game/script.rpy:8946
 translate pt_br expl_beach2_babf0cf6:
 
     # rac "Yeah! You've never tried it before?"
-    rac ""
+    rac "Uhum! Você nunca tentou antes?"
 
 # game/script.rpy:8947
 translate pt_br expl_beach2_c7e37ad7:
 
     # purc "No, I usually just go to tanning booths."
-    purc ""
+    purc "Não, eu geralmente só vou a cabines de bronzeamento."
 
 # game/script.rpy:8948
 translate pt_br expl_beach2_f9dc2ad3:
 
     # rac "Well this way is much better! And much more fun, too~"
-    rac ""
+    rac "Bem, desse jeito é muito melhor! E muito mais divertido, também~"
 
 # game/script.rpy:8949
 translate pt_br expl_beach2_3203efee:
 
     # purc "But what about him?"
-    purc ""
+    purc "Mas e quanto a ele?"
 
 # game/script.rpy:8951
 translate pt_br expl_beach2_e6338fd2:
 
     # rac "He's my slave, he'll do what I say."
-    rac ""
+    rac "Ele é o meu escravo, ele vai fazer o que eu disser."
 
 # game/script.rpy:8952
 translate pt_br expl_beach2_c3601e70:
 
     # rac "Isn't that right?"
-    rac ""
+    rac "Não é mesmo?"
 
 # game/script.rpy:8953
 translate pt_br expl_beach2_c51b2570:
 
     # sl "Yes, mistress, but the makeup and the outfit at the beach... it's a bit far."
-    sl ""
+    sl "Sim, mestra, mas a maquiagem e a roupa na praia... É um pouco exagerado."
 
 # game/script.rpy:8954
 translate pt_br expl_beach2_6e98a896:
 
     # rac "Not at all! You look adorable~ no one will see us anyway."
-    rac ""
+    rac "De jeito nenhum! Você está adorável~ e de qualquer jeito ninguém vai nos ver."
 
 # game/script.rpy:8955
 translate pt_br expl_beach2_ebbf02db:
 
     # sl "*sigh*...\nIf you say so, mistress..."
-    sl ""
+    sl "*suspiro*...\Se você diz, mestra..."
 
 # game/script.rpy:8956
 translate pt_br expl_beach2_5da3d183:
 
     # rac "Good, follow me."
-    rac ""
+    rac "Bom, siga-me."
 
 # game/script.rpy:8958
 translate pt_br expl_beach2_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:8961
 translate pt_br expl_beach2_f2d214cd:
 
     # c "{i}Let's see where this goes...{/i}"
-    c ""
+    c "{i}Vamos ver pra onde isso vai...{/i}"
 
 # game/script.rpy:8963
 translate pt_br expl_beach2_0453e692:
 
     # rac "Nnnh~! It's such a lovely day, isn't it? It's not too hot."
-    rac ""
+    rac "Nnnh~! Que dia adorável, não é? Não está muito quente."
 
 # game/script.rpy:8964
 translate pt_br expl_beach2_cd9e578c:
 
     # purc "You've done this before, haven't you?"
-    purc ""
+    purc "Você já fez isso antes, não é?"
 
 # game/script.rpy:8965
 translate pt_br expl_beach2_395fd76d:
 
     # rac "Mhm, this is my favorite spot. It's how I know it's rarely visited."
-    rac ""
+    rac "Mmh, esse é o meu lugar favorito. É como eu sei que é raramente visitado."
 
 # game/script.rpy:8966
 translate pt_br expl_beach2_6bcfe78a:
