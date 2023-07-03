@@ -14744,7 +14744,7 @@ translate pt_br explore_brothel1_33ddbbe2:
 translate pt_br explore_brothel1_710f6ead:
 
     # ray "Well today's your lucky day [name]! You stumbled into the right place at the right time. Our grand opening is in a few days so I'm training my beautiful bunnies for the big day. We could really use someone like yourself!"
-    ray "Bem, hoje é o seu dia de sorte [name]! Você acabou no lugar certo na hora certa. Nossa grande abertura será em alguns dias, então eu estou treinando as minhas belas coelhinhas para o grande dia. Alguém como você poderia nos ajudar muito!"
+    ray "Bem, hoje é o seu dia de sorte [name]! Você acabou no lugar certo na hora certa. A nossa inauguração será em alguns dias, então eu estou treinando as minhas belas coelhinhas para o grande dia. Alguém como você poderia nos ajudar muito!"
 
 # game/script.rpy:9160
 translate pt_br explore_brothel1_f089999c:
@@ -14810,7 +14810,7 @@ translate pt_br explore_brothel1_f818723a:
 translate pt_br explore_brothel1_1357d098:
 
     # rbun "Oh! Uh, will you just be watching or will you be having some fun tonight? Uh- hypothetically."
-    rbun "Ah! Uh, você vai só assistir ou vai querer se divertir um pouco a noite? Uh- hipotóticamente."
+    rbun "Ah! Uh, você vai só assistir ou vai querer se divertir um pouco a noite? Uh- hipotéticamente."
 
 # game/script.rpy:9176
 translate pt_br explore_brothel1_166d8f54:
@@ -14822,7 +14822,7 @@ translate pt_br explore_brothel1_166d8f54:
 translate pt_br explore_brothel1_5959b9d3:
 
     # rbun "Great! Which sexual acts would you hypothetically like to perform tonight?"
-    rbun "Ótimo! Quais atos sexuais você gostaria de hipoteticamente realizar hoje?"
+    rbun "Ótimo! Quais atos sexuais você gostaria de éeticamente realizar hoje?"
 
 # game/script.rpy:9178
 translate pt_br explore_brothel1_37b5b147:
@@ -14936,7 +14936,7 @@ translate pt_br explore_brothel1_657537d9:
 translate pt_br explore_brothel1_c1f82ceb:
 
     # rbun "And which bunny would you hypothetically like to play with today?"
-    rbun "E com qual coelhinha você hipoteticamente gostaria de brincar hoje?"
+    rbun "E com qual coelhinha você hipotéticamente gostaria de brincar hoje?"
 
 # game/script.rpy:9215
 translate pt_br explore_brothel1_a0f542a9:
@@ -14960,19 +14960,19 @@ translate pt_br explore_brothel1_be84a49f:
 translate pt_br explore_brothel1_4e68298d:
 
     # rbun "And would you hypothetically like aftercare or pillowtalk? Just 20 syls extra!"
-    rbun "E você hipoteticamente gostaria de cuidados posteriores ou conversa de travesseiro? São só 20 syls a mais!"
+    rbun "E você hipotéticamente gostaria de cuidados posteriores ou conversa de travesseiro? São só 20 syls a mais!"
 
 # game/script.rpy:9226
 translate pt_br explore_brothel1_e90f29c5:
 
     # rbun "And that'll do it!"
-    rbun "E assim será feito!"
+    rbun "Perfeito!"
 
 # game/script.rpy:9228
 translate pt_br explore_brothel1_e90f29c5_1:
 
     # rbun "And that'll do it!"
-    rbun "E assim será feito!"
+    rbun "Perfeito!"
 
 # game/script.rpy:9229
 translate pt_br explore_brothel1_47860a0a:
@@ -15032,199 +15032,199 @@ translate pt_br explore_brothel1_9e3c1352:
 translate pt_br explore_brothel1_bb46b597:
 
     # pbun "Agh, nnh! Fuck...{w=2}{nw}" with ssshake
-    pbun "" with ssshake
+    pbun "Agh,nnh! Porra...{w=2}{nw}" with ssshake
 
 # game/script.rpy:9248
 translate pt_br explore_brothel1_a43addc1:
 
     # pbun "Heheh, sorry!{w=1.7}{nw}"
-    pbun ""
+    pbun "Heheh, desculpa!{w=1.7}{nw}"
 
 # game/script.rpy:9252
 translate pt_br explore_brothel1_217fb732:
 
     # pbun "*huff, huff*...\nSorry, I'm still not totally used to it. I need to practice more at home."
-    pbun ""
+    pbun "*arqueja, arqueja*...\nDesculpa, eu ainda não estou totalmente acostumada com isso. Eu preciso praticar mais em casa."
 
 # game/script.rpy:9254
 translate pt_br explore_brothel1_9518c2c3:
 
     # pbun "Not so bad for a novice though, right?"
-    pbun ""
+    pbun "Até que não foi tão ruim para uma novata, não é?"
 
 # game/script.rpy:9257
 translate pt_br explore_brothel1_6d53abb6:
 
     # pbun "Not enough ass, or...?"
-    pbun ""
+    pbun "Não há bunda suficiente, ou...?"
 
 # game/script.rpy:9258
 translate pt_br explore_brothel1_c5f6046d:
 
     # c "Never enough.\nBut practice makes perfect."
-    c ""
+    c "Nunca é o suficiente. Mas a prática leva à perfeição."
 
 # game/script.rpy:9259
 translate pt_br explore_brothel1_9d5aafe3:
 
     # pbun "Absolutely."
-    pbun ""
+    pbun "Com certeza."
 
 # game/script.rpy:9261
 translate pt_br explore_brothel1_59069f00:
 
     # pbun "Come on, don't lie! You're here to help, I know I could have done better. I totally tripped up!"
-    pbun ""
+    pbun "Vai, para de mentir! Você está aqui para ajudar, eu sei que eu poderia ter feito melhor. Eu me atrapalhei toda!"
 
 # game/script.rpy:9263
 translate pt_br explore_brothel1_f4a67d14:
 
     # pbun "Private lessons, huh? Haha! Sure, when elves are free..."
-    pbun ""
+    pbun "Aulas particulares, hein? Haha! Claro, quando os elfos forem livres..."
 
 # game/script.rpy:9264
 translate pt_br explore_brothel1_84a31665:
 
     # pbun "You'll have to tell me if I've improved next time you see me though, hehe!"
-    pbun ""
+    pbun "Mas você vai ter que me dizer se eu melhorei na próxima vez, hehe!"
 
 # game/script.rpy:9266
 translate pt_br explore_brothel1_113b3c15:
 
     # bbun "Here you go sir, your cherry cocktail."
-    bbun ""
+    bbun "Aqui está senhor, seu coquetel de cereja."
 
 # game/script.rpy:9270
 translate pt_br explore_brothel1_4a7ce9e5:
 
     # pbun "Heheh, oh my god."
-    pbun ""
+    pbun "Heheh, ai meu deus."
 
 # game/script.rpy:9271
 translate pt_br explore_brothel1_7816a4f4:
 
     # c "Oh, thank you very much."
-    c ""
+    c "Ah, muito obrigado."
 
 # game/script.rpy:9273
 translate pt_br explore_brothel1_297006c7:
 
     # bbun "{i}I overheard you say you'd like to play with me. I thought you would enjoy that! The next one will cost you though."
-    bbun ""
+    bbun "{i}Eu ouvi que você gostaria de brincar comigo. Eu imaginei que você poderia gostar disso! Mas na próxima você vai precisar pagar."
 
 # game/script.rpy:9275
 translate pt_br explore_brothel1_00ec83d7:
 
     # bbun "Just let me know if there's anything else you would like~"
-    bbun ""
+    bbun "Só me avisa se você quiser mais alguma coisa~"
 
 # game/script.rpy:9279
 translate pt_br explore_brothel1_ff8e3161:
 
     # ray "{i}{size=-7}Fucking flawless bitch, yes!{/size}{/i}"
-    ray ""
+    ray "{i}{size=-7}Vadia perfeita da porra, sim!{/size}{/i}"
 
 # game/script.rpy:9280
 translate pt_br explore_brothel1_6fef7ce7:
 
     # bbun "{i}{size=-7}Thank youuu~!{/size}{/i}"
-    bbun ""
+    bbun "{i}{size=-7}Obrigadaaa~!{/size}{/i}"
 
 # game/script.rpy:9283
 translate pt_br explore_brothel1_68617536:
 
     # rbun "{i}Check, check, and check...{/i}\nOkay, um... assuming you had your way with me today, how would you rate your experience? Was I able to please you to your specifications? Hypothetically."
-    rbun ""
+    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria comigo hoje, como você classificaria a sua experiência? Eu fui capaz de te agradar de acordo com suas especificações? Hipotéticamente."
 
 # game/script.rpy:9285
 translate pt_br explore_brothel1_e172868c:
 
     # rbun "{i}Check, check, and check...{/i}\nOkay, um... assuming you had your way with blue bunny today, how would you rate your experience? Was she able to please you to your specifications? Hypothetically."
-    rbun ""
+    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria com a coelhinha azul hoje, como você classificaria a sua experiência? Ela foi capaz de te agradar de acordo com suas especificações? Hipotéticamente."
 
 # game/script.rpy:9287
 translate pt_br explore_brothel1_8f03e1bd:
 
     # rbun "{i}Check, check, and check...{/i}\nOkay, um... assuming you had your way with purple bunny today, how would you rate your experience? Was she able to please you to your specifications? Hypothetically."
-    rbun ""
+    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria com a coelhinha roxa hoje, como você classificaria a sua experiência? Ela foi capaz de te agradar de acordo com suas especificações? Hipotéticamente."
 
 # game/script.rpy:9288
 translate pt_br explore_brothel1_9633229f:
 
     # c "Yeah, sure."
-    c ""
+    c "Sim, claro."
 
 # game/script.rpy:9289
 translate pt_br explore_brothel1_5f2a6372:
 
     # rbun "Wonderful!\nOkay, how would you rate my ability? For real this time."
-    rbun ""
+    rbun "Maravilha!\nCerto, como vocÊ classificaria a minha habilidade? De verdade dessa vez."
 
 # game/script.rpy:9290
 translate pt_br explore_brothel1_6a51b563:
 
     # c "You did fine."
-    c ""
+    c "Você foi bem."
 
 # game/script.rpy:9291
 translate pt_br explore_brothel1_f9b5ae3c:
 
     # rbun "Great! I really want to keep this job, it pays so well and I even get to set my own time! I'm like the only one in my college not in massive debt right now!"
-    rbun ""
+    rbun "Óttimo! Eu realmente quero manter esse emprego, ele paga muito bem e eu até posso definir o meu próprio horário! Eu sou a única na minha faculdade que não está com dívidas enormes agora!"
 
 # game/script.rpy:9293
 translate pt_br explore_brothel1_8447a4c3:
 
     # ray "Thank you so much darling, you were a huge help!"
-    ray ""
+    ray "Muito obrigada querido, você nos ajudou muito!"
 
 # game/script.rpy:9294
 translate pt_br explore_brothel1_e28b5582:
 
     # rbun "Oh hey Mr. Ray. Thank you!"
-    rbun ""
+    rbun "Ah ei Sr. Ray. Obrigada!"
 
 # game/script.rpy:9296
 translate pt_br explore_brothel1_00d35543:
 
     # ray "As were you! Here, this is for you. It's good for one free drink at the bar, thank you so much for stopping by!"
-    ray ""
+    ray "Eu digo o mesmo! Aqui, isso é para você. Isso vale um drinque grátis no bar, muito obrigado por parar aqui!"
 
 # game/script.rpy:9297
 translate pt_br explore_brothel1_e897fbb0_2:
 
     # c "Thank you."
-    c ""
+    c "Obrigada."
 
 # game/script.rpy:9299
 translate pt_br explore_brothel1_db337cb6:
 
     # ray "Oh, and feel free to take your cherry cocktail home, we can get you a to-go cup if you'd like."
-    ray ""
+    ray "Ah, e fique a vontade para levar o seu coquetel de cereja para casa, nós podemos pegar um copo para viagem para você."
 
 # game/script.rpy:9300
 translate pt_br explore_brothel1_aa9539fb:
 
     # c "That would be great, thanks."
-    c ""
+    c "Isso seria ótimo, obrigado."
 
 # game/script.rpy:9301
 translate pt_br explore_brothel1_d452ba01:
 
     # ray "Absolutely! Thanks again. See you next time!"
-    ray ""
+    ray "Sem probliemas! Obrigado de novo. te vejo na próxima!"
 
 # game/script.rpy:9302
 translate pt_br explore_brothel1_5c70ea05:
 
     # rbun "Bye Mr. [name]!"
-    rbun ""
+    rbun "Adeus Sr. [name]!"
 
 # game/script.rpy:9303
 translate pt_br explore_brothel1_d2a15813:
 
     # pbun "Byeee~"
-    pbun ""
+    pbun "Tchauzinhooo~"
 
 # game/script.rpy:9305
 translate pt_br explore_brothel1_d6b48f27:
@@ -15254,7 +15254,7 @@ translate pt_br explore_brothel1_875c529f:
 translate pt_br explore_brothel1_d30c25c6:
 
     # ray "Oh! Well, that's a shame. See you in a few days, then!"
-    ray ""
+    ray "Ah! Bem, que pena. Te vejo em alguns dias, então!"
 
 # game/script.rpy:9324
 translate pt_br explore_brothel1_d6b48f27_1:
@@ -15284,721 +15284,721 @@ translate pt_br explore_brothel1_875c529f_1:
 translate pt_br explore_brothel3_a22ca61f:
 
     # c "Wow, this place is packed. Looks like they're open now."
-    c ""
+    c "Uau, esse lugar está cheio. Parece que eles abriram agora."
 
 # game/script.rpy:9341
 translate pt_br explore_brothel3_4e553349:
 
     # ray "Oh, [name]! I'm so glad you could make it to our grand opening! Good timing too, we just opened an hour ago!"
-    ray ""
+    ray "Ah, [name]! Estou muito feliz que você pôde vir para a nossa inauguração! E bom timing também, nós abrimos a só uma hora atrás!"
 
 # game/script.rpy:9342
 translate pt_br explore_brothel3_eb8aac5a:
 
     # c "It looks like business is booming already. Congratulations."
-    c ""
+    c "E parece que os negócios já estão bombando. Parabéns."
 
 # game/script.rpy:9343
 translate pt_br explore_brothel3_7f87c4a4:
 
     # ray "Thank you! Yes, it really is! Drinks are selling out, seats are being filled, and my bunnies couldn't be more excited!"
-    ray ""
+    ray "Obrigado! Sim, estão mesmo! Os drinques estão sendo vendidos, os assentos sendo preenchidos, e minhas coelhinhas não poderiam estar mais animadas!"
 
 # game/script.rpy:9344
 translate pt_br explore_brothel3_737ad3ba:
 
     # ray "With the talent we have here, I think this place is going to run itself in no time. And we have you to thank!"
-    ray ""
+    ray "Com o talento que nós temos aqui, eu acho que esse lugar vai funcionar sozinho em pouco tempo. E nós temos muito a agradecer a você!"
 
 # game/script.rpy:9345
 translate pt_br explore_brothel3_bb571a95:
 
     # c "Oh, I can't take too much credit..."
-    c ""
+    c "Ah, esse mérito não é meu..."
 
 # game/script.rpy:9346
 translate pt_br explore_brothel3_2c5da4a4:
 
     # ray "Don't be humble! My bunnies told me all about how you stopped by the other day to supervise their training. I hear you were a huge help."
-    ray ""
+    ray "Não seja humilde! As minhas coelhinhas me disseram tudo sobre o como você veio no outro dia para supervisionar o treinamento delas. Eu ouvi que você foi de grande ajuda."
 
 # game/script.rpy:9347
 translate pt_br explore_brothel3_c0aaf4fa:
 
     # c "I'm glad they think so."
-    c ""
+    c "Fico feliz em saber que elas pensam assim."
 
 # game/script.rpy:9348
 translate pt_br explore_brothel3_cde09a5d:
 
     # ray "So with that said, I would love to offer you a spot on our VIP list. Everyone already knows you here, so now it's just official, it comes with benefits too!"
-    ray ""
+    ray "E tendo dito isso, eu adoraria te oferecer um lugar na nossa lista VIP. Todo mundo aqui já te conhece, então agora é oficial, e vai vir com os benefícicos também!"
 
 # game/script.rpy:9349
 translate pt_br explore_brothel3_efe0e8c3:
 
     # c "Like what?"
-    c ""
+    c "Quais por exemplo?"
 
 # game/script.rpy:9350
 translate pt_br explore_brothel3_f2a01cca:
 
     # ray "As VIP you get priority access to any bunny of your choosing. You get to cut in line, so to speak. Just pick out a girl, call her over, and she'll drop everything for you."
-    ray ""
+    ray "Como VIP você recebe acesso prioritário a qualquer coelhinha de sua escoolha. Você  pode cortar a fila, por assim dizer. Então apenas escolha uma garota, chame-a e ela vai parar tudo por você."
 
 # game/script.rpy:9351
 translate pt_br explore_brothel3_5a47fdba:
 
     # c "Sounds great."
-    c ""
+    c "Parece ótimo."
 
 # game/script.rpy:9352
 translate pt_br explore_brothel3_9e60ce8f:
 
     # ray "I thought you would say that! On top of that you also get a 10 percent discount on drinks during happy hour."
-    ray ""
+    ray "Eu imaginei que você diria isso! E além disso você também consegue um desconto de 10 por cento nos drinques durante a happy hour."
 
 # game/script.rpy:9353
 translate pt_br explore_brothel3_2016442f:
 
     # c "Awesome, thank you."
-    c ""
+    c "Incrível, obrigado."
 
 # game/script.rpy:9355
 translate pt_br explore_brothel3_d91ae9ce:
 
     # ray "Oh, and one more thing...\nBUNNIES! Come here please!"
-    ray ""
+    ray "Ah, e mais uma coisa...\nCOELHINHAS! Venham aqui por favor!"
 
 # game/script.rpy:9357
 translate pt_br explore_brothel3_f6d13636:
 
     # rbun "Yes Mr. Ray?"
-    rbun ""
+    rbun "Sim Sr. Ray?"
 
 # game/script.rpy:9358
 translate pt_br explore_brothel3_ac178217:
 
     # bbun "Oh, hello [name]~"
-    bbun ""
+    bbun "Ah, olá [name]~"
 
 # game/script.rpy:9359
 translate pt_br explore_brothel3_c0ab8ed5:
 
     # pbun "Glad you could make it."
-    pbun ""
+    pbun "Estou feliz que você pôde vir"
 
 # game/script.rpy:9360
 translate pt_br explore_brothel3_45b1dda0:
 
     # ray "My bunnies and I were talking earlier, and we all agreed that because you've been such a big help, that we would like to offer you one free ride! You can choose whoever you'd like, the choice is yours. They haven't even had their first customer yet so you would get to break them in!"
-    ray ""
+    ray "Minhas coelhinhas e eu estávamos conversando mais cedo, e nós todos concordamos porque você foi de muito grande ajuda, e é por isso que nós queremos te oferecer um passe livre! Você pode escolher quem voê quiser, a escolha é sua. Elas não atenderam nem os primeiros clientes dela ainda ()!
 
 # game/script.rpy:9361
 translate pt_br explore_brothel3_37eb9853:
 
     # pbun "I wonder who he's going to choose?"
-    pbun ""
+    pbun "Quem será que ele vai escolher?"
 
 # game/script.rpy:9362
 translate pt_br explore_brothel3_4190b420:
 
     # c "Oh, that's very nice. Thank you."
-    c ""
+    c "Ah, isso é muito legal. obrigada."
 
 # game/script.rpy:9363
 translate pt_br explore_brothel3_59593c0b:
 
     # ray "Of course! I won't let good deeds go unnoticed."
-    ray ""
+    ray "Ah é claro! Eu não deixaria boas ações passarem despercebidas."
 
 # game/script.rpy:9365
 translate pt_br explore_brothel3_0c53754a:
 
     # ray "Oh and one last thing - Red Bunny - you're being promoted to HEAD BUNNY!!"
-    ray ""
+    ray "Ah e mais uma coisa - Coelhinha Vermelha - você está sendo promovida a COELHINHA CHEFE!!"
 
 # game/script.rpy:9366
 translate pt_br explore_brothel3_b7f4c982:
 
     # rbun "AAAH! What!? No way!"
-    rbun ""
+    rbun "AAAh! Quê?! Sem chance!"
 
 # game/script.rpy:9367
 translate pt_br explore_brothel3_90b42e46:
 
     # ray "Yes way! You're getting a pay raise and everything. Your management skills have been so impressive lately, I feel like I could let you run the place by yourself!"
-    ray ""
+    ray "Com chance! Você vai receber um aumento de salário e tudo mais. AS suas habilidades de gestão têm sido muito impressionantes ultimamente, eu acho que você poderia administrar esse lugar sozinha!"
 
 # game/script.rpy:9368
 translate pt_br explore_brothel3_6e311928:
 
     # rbun "Oh thank you so much Mr. Ray!"
-    rbun ""
+    rbun "Ah, muito obrigada SR. Ray?"
 
 # game/script.rpy:9369
 translate pt_br explore_brothel3_050d10be:
 
     # bbun "Congratulations!"
-    bbun ""
+    bbun "Meus parabéns!"
 
 # game/script.rpy:9370
 translate pt_br explore_brothel3_ec43ac04:
 
     # pbun "You earned it, girl."
-    pbun ""
+    pbun "Você merece, garota."
 
 # game/script.rpy:9372
 translate pt_br explore_brothel3_ef75a5c3:
 
     # ray "Well that's all from me, I'll get out of your hair. Enjoy!"
-    ray ""
+    ray "Bem, da minha parte isso é tudo, eu vou te deixar em paz. Divirta-se!"
 
 # game/script.rpy:9374
 translate pt_br explore_brothel3_a930c390:
 
     # bbun "So... who are you going to choose?"
-    bbun ""
+    bbun "Então... quem você vai escolher?"
 
 # game/script.rpy:9375
 translate pt_br explore_brothel3_6491209e:
 
     # pbun "One free ride, make it count..."
-    pbun ""
+    pbun "Um passe livre, faça valer a pena..."
 
 # game/script.rpy:9376
 translate pt_br explore_brothel3_a16ba48c:
 
     # rbun "Just say the word and I'll be yours~"
-    rbun ""
+    rbun "É só dizer a palavre e eu serei toda sua~"
 
 # game/script.rpy:9378
 translate pt_br explore_brothel3_1ea70f25:
 
     # c "I choose..." nointeract
-    c "" nointeract
+    c "Eu escolho..." nointeract
 
 # game/script.rpy:9380
 translate pt_br explore_brothel3_4a536ae3:
 
     # rbun "Sure! What do you want to do?"
-    rbun ""
+    rbun "Claro! O que você quer fazer?"
 
 # game/script.rpy:9383
 translate pt_br explore_brothel3_8224a9d2:
 
     # rbun "Okay, take a seat."
-    rbun ""
+    rbun "Tudo bem, sente-se"
 
 # game/script.rpy:9386
 translate pt_br explore_brothel3_47660e25:
 
     # rbun "Sure, take a seat."
-    rbun ""
+    rbun "Claro, sente-se."
 
 # game/script.rpy:9389
 translate pt_br explore_brothel3_f2ed1929:
 
     # rbun "I can do that. Take a seat."
-    rbun ""
+    rbun "Eu posso fezer isso. Sente-se."
 
 # game/script.rpy:9392
 translate pt_br explore_brothel3_4f663f92:
 
     # pbun "Oh, me? What do you want to do?"
-    pbun ""
+    pbun "Ah, eu? O que você quer fazer?"
 
 # game/script.rpy:9395
 translate pt_br explore_brothel3_3d220567:
 
     # pbun "I can do that."
-    pbun ""
+    pbun "Eu posso fazer isso."
 
 # game/script.rpy:9398
 translate pt_br explore_brothel3_324d9b41:
 
     # pbun "Sure, come with me."
-    pbun ""
+    pbun "Claro, venha comigo."
 
 # game/script.rpy:9401
 translate pt_br explore_brothel3_8c0b52e1:
 
     # pbun "I don't mind, let's do it."
-    pbun ""
+    pbun "Eu não me incomodo, vamos fazer isso."
 
 # game/script.rpy:9404
 translate pt_br explore_brothel3_e1f23deb:
 
     # bbun "Me? Heheh, okay! What do you wanna do?"
-    bbun ""
+    bbun "Eu? Heheh, tudo bem! O que  você quer fazer?"
 
 # game/script.rpy:9408
 translate pt_br explore_brothel3_422d5df9:
 
     # bbun "Okay [linoname], I'll suck your cock!"
-    bbun ""
+    bbun "Tudo bem [linoname], eu vou chupar o seu pau!"
 
 # game/script.rpy:9410
 translate pt_br explore_brothel3_2720ff79:
-
+pagar
     # bbun "Okay, I'll suck your cock!"
-    bbun ""
+    bbun "Tudo bem, eu vou chupar o seu pau!"
 
 # game/script.rpy:9413
 translate pt_br explore_brothel3_824f520b:
 
     # bbun "You want my pussy? Sure."
-    bbun ""
+    bbun "Então você quer a minha buceta? Claro."
 
 # game/script.rpy:9416
 translate pt_br explore_brothel3_cc1d0229:
 
     # bbun "I hope you're not {i}too{/i} big..."
-    bbun ""
+    bbun "Eu espero que você não seja {i}muito{/i} grande..."
 
 # game/script.rpy:9437
 translate pt_br blue_bunny_talk_11f1179e:
 
     # bbun "Hi Mr. VIP, what can I do for you today?"
-    bbun ""
+    bbun "Oi Mr.VIP, como posso te ajudar hoje?"
 
 # game/script.rpy:9443
 translate pt_br blue_bunny_talk_422d5df9:
 
     # bbun "Okay [linoname], I'll suck your cock!"
-    bbun ""
+    bbun "Tudo bem [linoname], eu vou chupar o seu pau!"
 
 # game/script.rpy:9445
 translate pt_br blue_bunny_talk_2720ff79:
 
     # bbun "Okay, I'll suck your cock!"
-    bbun ""
+    bbun "Tudo bem, eu vou chupar o seu pau!"
 
 # game/script.rpy:9448
 translate pt_br blue_bunny_talk_4cd2c28b:
 
     # c "I can't afford that..."
-    c ""
+    c "Eu não posso pagar por isso..."
 
 # game/script.rpy:9452
 translate pt_br blue_bunny_talk_824f520b:
 
     # bbun "You want my pussy? Sure."
-    bbun ""
+    bbun "Você quer minha a buceta? Claro."
 
 # game/script.rpy:9455
 translate pt_br blue_bunny_talk_4cd2c28b_1:
 
     # c "I can't afford that..."
-    c ""
+    c "Eu não posso pagar por isso..."
 
 # game/script.rpy:9459
 translate pt_br blue_bunny_talk_cc1d0229:
 
     # bbun "I hope you're not {i}too{/i} big..."
-    bbun ""
+    bbun "Eu espero que você não seja {i}muito{/i} grande..."
 
 # game/script.rpy:9462
 translate pt_br blue_bunny_talk_4cd2c28b_2:
 
     # c "I can't afford that..."
-    c ""
+    c "Eu não posso pagar por isso..."
 
 # game/script.rpy:9472
 translate pt_br purple_bunny_talk_88ee8f88:
 
     # pbun "You called?"
-    pbun ""
+    pbun "Você chamou?"
 
 # game/script.rpy:9479
 translate pt_br purple_bunny_talk_3d220567:
 
     # pbun "I can do that."
-    pbun ""
+    pbun "Eu posso fazer isso."
 
 # game/script.rpy:9483
 translate pt_br purple_bunny_talk_324d9b41:
 
     # pbun "Sure, come with me."
-    pbun ""
+    pbun "Claro, venha comigo."
 
 # game/script.rpy:9487
 translate pt_br purple_bunny_talk_8c0b52e1:
 
     # pbun "I don't mind, let's do it."
-    pbun ""
+    pbun "Eu não me incomodo, vamos fazer isso."
 
 # game/script.rpy:9498
 translate pt_br red_bunny_talk_9a023340:
 
     # rbun "Hi [name], what do you need?"
-    rbun ""
+    rbun "Oi [name], do que você precisa?"
 
 # game/script.rpy:9503
 translate pt_br red_bunny_talk_8224a9d2:
 
     # rbun "Okay, take a seat."
-    rbun ""
+    rbun "Tudo bem, sente-se."
 
 # game/script.rpy:9507
 translate pt_br red_bunny_talk_47660e25:
 
     # rbun "Sure, take a seat."
-    rbun ""
+    rbun "Claro, sente-se."
 
 # game/script.rpy:9512
 translate pt_br red_bunny_talk_f2ed1929:
 
     # rbun "I can do that. Take a seat."
-    rbun ""
+    rbun "Eu posso fazer isso. Sente-se"
 
 # game/script.rpy:9522
 translate pt_br purpbun_anal_ea26637e:
 
     # pbun "You wanna fuck my ass? I'm all yours..."
-    pbun ""
+    pbun "Você quer foder a minha bunda? Eu sou toda sua..."
 
 # game/script.rpy:9526
 translate pt_br purpbun_anal_4abeb21a:
 
     # pbun "MMMMNGH!" with ssshake
-    pbun "" with ssshake
+    pbun "MMMMNGH" with ssshake
 
 # game/script.rpy:9528
 translate pt_br purpbun_anal_ed52c6bc:
 
     # pbun "Aaaah, yeah! MMMMGH! Fuck you're so big! Mmm!"
-    pbun ""
+    pbun "Aaaah, isso! MMMMGH! Porra, você é tão grande! Mmm!"
 
 # game/script.rpy:9529
 translate pt_br purpbun_anal_2e8d8fa3:
 
     # pbun "Ohhh, fuck, yes! Pound my ass! Mmm! Fuck! Yeah, don't be gentle baby~ Mmmh! Fuck me, fuck me your little whore!"
-    pbun ""
+    pbun "Ohhh, porra, sim! Mete com força! Porra! Isso, não seja gentil, bebê~ Mmmh! Me fode, fode a sua putinha!"
 
 # game/script.rpy:9530
 translate pt_br purpbun_anal_e1f58172:
 
     # pbun "Yeah, just like that! Mmmmn! Oh god, you're stretching my ass so gooood~!"
-    pbun ""
+    pbun "Isso, assim mesmo! Mmmmn! Ai deus, você está esticando a minha bunda tão beeeem~!"
 
 # game/script.rpy:9533
 translate pt_br purpbun_anal_3b298955:
 
     # pbun "You like that? Nnnnh! FUCK! Haaahn! God, you're so fucking big~! Mmmmngh! Yeah, yeah!!"
-    pbun ""
+    pbun "Você gosta disso? Nnnnh! PORRA Haaahn! Deus, você é tão grande, porra~! Mmmmngh! Isso, isso!"
 
 # game/script.rpy:9534
 translate pt_br purpbun_anal_df197c1e:
 
     # pbun "Mmmn~ I want your cum, baby~! Yeah...! Haaah! MMMNGH! Fuck, yes! Yes! I want it!"
-    pbun ""
+    pbun "Mmmn~ Eu quero a sua porra, bebê~! Isso...! Haaah! MMMNGH! Porra, sim! Sim! Eu quero isso!"
 
 # game/script.rpy:9535
 translate pt_br purpbun_anal_3590f4a5:
 
     # pbun "Cum in me, yes! Mmmh! I want you to fill up my tight slutty ass~! Yeah! Cum in me! Cum in your fucking whore!"
-    pbun ""
+    pbun "Goza em mim, sim! Mmmh! EU quero que você preencha a minha bunda vadia~! Isso! Goza em mim! Goza na sua puda do caralho!"
 
 # game/script.rpy:9540
 translate pt_br purpbun_anal_874b8ad0:
 
     # pbun "OH FUCK!" with ssshake
-    pbun "" with ssshake
+    pbun "OH PORRA!" with ssshake
 
 # game/script.rpy:9541
 translate pt_br purpbun_anal_b4fb7d75:
 
     # pbun "MMMMN! So deep!" with ssshake
-    pbun "" with ssshake
+    pbun "MMMMN!" with ssshake
 
 # game/script.rpy:9542
 translate pt_br purpbun_anal_9ecb56b0:
 
     # pbun "Fuck! Yes!" with ssshake
-    pbun "" with ssshake
+    pbun "Porra! Sim!" with ssshake
 
 # game/script.rpy:9544
 translate pt_br purpbun_anal_5b0a8f77:
 
     # pbun "Ahhh... thank you~"
-    pbun ""
+    pbun "Ahhh... obrigada~"
 
 # game/script.rpy:9550
 translate pt_br purpbun_anal_abe1fdf2:
 
     # pbun "Yes, cum on me!"
-    pbun ""
+    pbun "Sim, goza em mim!"
 
 # game/script.rpy:9553
 translate pt_br purpbun_anal_2bb1b0d0:
 
     # pbun "Mmmmmn... thank you, cum again~"
-    pbun ""
+    pbun "Mmmmmn... obrigada, goza de novo~"
 
 # game/script.rpy:9564
 translate pt_br purpbun_sex_97e4a71e:
 
     # pbun "Mmmm, give it to me, give it to meee~"
-    pbun ""
+    pbun "Mmmm, me dá isso, me dá issooo~"
 
 # game/script.rpy:9568
 translate pt_br purpbun_sex_38b11f86:
 
     # pbun "Haaahg~! Yes~"
-    pbun ""
+    pbun "Haaahg~! Sim~"
 
 # game/script.rpy:9570
 translate pt_br purpbun_sex_f5cae7aa:
 
     # pbun "Mmmmh! Yes, yes, yes! Aaah~! Oooh, fuck! That's good, baby...!"
-    pbun ""
+    pbun "Mmmmh! sim, sim, sim! Aaah~! Oooh, porra! Isso é bom, bebê...!"
 
 # game/script.rpy:9571
 translate pt_br purpbun_sex_76c0b64b:
 
     # pbun "Mhm, mhm! Yeah! Fuck my pussy! Ah! Yeah! Mmmh! Don't hold back!"
-    pbun ""
+    pbun "Mhm, mhm! Isso! Fode a minha buceta! Ah! Isso! Não se contenha!"
 
 # game/script.rpy:9572
 translate pt_br purpbun_sex_f44f538b:
 
     # pbun "There you go, ah! Yeah! Fuck that pussy like you mean it! Mmmh! Mmmh! Aaah!"
-    pbun ""
+    pbun "Aqui vai, ah! Isso! Fode essa buceta com vontade! Mmmh! Mmmh! Aaah!"
 
 # game/script.rpy:9575
 translate pt_br purpbun_sex_d23ead1c:
 
     # pbun "Fuck, fuck!! Ah, you like that pussy, don't you? Mmmmh~ Yeah, it's all yours baby~"
-    pbun ""
+    pbun "Porra, porra!! Ah, você gosta dessa buceta, não gosta? Mmmmh~ela é toda sua bebê~"
 
 # game/script.rpy:9576
 translate pt_br purpbun_sex_d4faebe8:
 
     # pbun "Fuck me, fuck me! MMMMH! I want you to paint my ass with your hot cum! Haah! Can you do that? Mmh?"
-    pbun ""
+    pbun "Me fode, me fode! MMMMH! Eu quero que você pinte a minha bunda com o seu gozo quente! Haah! Você pode fazer isso? Mmh?"
 
 # game/script.rpy:9577
 translate pt_br purpbun_sex_936c542d:
 
     # pbun "Come on, yes! Yes! Fuck! Haaah! Oooh! Cum for me, cum for me! Aaah~!"
-    pbun ""
+    pbun "Vai, sim! Sim! Porra! Haaah! Oooh! Goza pra mim, goza pra mim! Aaah~!"
 
 # game/script.rpy:9582
 translate pt_br purpbun_sex_3292a280:
 
     # pbun "Haaahg~!" with ssshake
-    pbun "" with ssshake
+    pbun "Haaagh~!" with ssshake
 
 # game/script.rpy:9583
 translate pt_br purpbun_sex_3c7212cf:
 
     # pbun "Oh fuck, so deep!" with ssshake
-    pbun "" with ssshake
+    pbun "Ah porra, tão fundo!" with ssshake
 
 # game/script.rpy:9584
 translate pt_br purpbun_sex_784b43e7:
 
     # pbun "Yesss!" with ssshake
-    pbun "" with ssshake
+    pbun "Simmm!" with ssshake
 
 # game/script.rpy:9586
 translate pt_br purpbun_sex_5a8808eb:
 
     # pbun "You had your fun back there, didn't you? Heheh... cum again..."
-    pbun ""
+    pbun "Você se divertiu aí atrás, não é? Heheh... goza de novo..."
 
 # game/script.rpy:9591
 translate pt_br purpbun_sex_c66b117c:
 
     # pbun "Ohhh, yes! Cum, cum!"
-    pbun ""
+    pbun "Ahhh, sim! Goza, goza!"
 
 # game/script.rpy:9594
 translate pt_br purpbun_sex_ac3ba276:
 
     # pbun "Aaaah, fuck...! Mmmh, wow....!"
-    pbun ""
+    pbun "Aaaah, porra...! Mmmh, uau....!"
 
 # game/script.rpy:9604
 translate pt_br purpbun_blowjob_1e756406:
 
     # pbun "Thank you for coming to me today, [name]~ I'll take good care of you~"
-    pbun ""
+    pbun "Obrigada por vir comigo hoje, [name]~ Eu vou cuidar bem de você~"
 
 # game/script.rpy:9606
 translate pt_br purpbun_blowjob_aad207ea:
 
     # pbun "Mmmmgh~ mmmh! How's that? Mmmh! That how you like it? Mmmmn~"
-    pbun ""
+    pbun "Mmmmgh~ mmmh! O que está achando? É assim que você gosta? Mmmmn~"
 
 # game/script.rpy:9607
 translate pt_br purpbun_blowjob_4402504f:
 
     # pbun "Lllmn~ I'll be your cumdump whenever you want, okay? Mmmh~ Mmmh~ Mmmh~"
-    pbun ""
+    pbun "Lllmn~ eu vou ser seu depósito de porra quando você quiser, tá bom? Mmmh~ Mmmh~ Mmmh~"
 
 # game/script.rpy:9608
 translate pt_br purpbun_blowjob_364eec89:
 
     # pbun "Hnnn, your precum tastes so good~ are you getting close already? Lllmn, mmmn...!"
-    pbun ""
+    pbun "Hnnn, o seu pré-gozo é tão gostoso~ você á está chegando perto? Lllmn, mmmn...!"
 
 # game/script.rpy:9611
 translate pt_br purpbun_blowjob_c310a9d4:
 
     # pbun "You like that, huh? Mmmngh! I'll always be here for you~"
-    pbun ""
+    pbun "Você gosta disso, hein? Mmmngh! Eu vou esar sempre aqui pra você~"
 
 # game/script.rpy:9612
 translate pt_br purpbun_blowjob_b551a16d:
 
     # pbun "Lllmn, yeah...! Are you gonna cum for me? Mmmn! Cum whenever you want, mmmh! Treat me like your cumdump whore!"
-    pbun ""
+    pbun "Lllmn, isso...! VocÊ vai gozar pra mim? Mmmn! Pde gozar quando você quiser, mmmh! Me trata como a sua vadia-depósito de porra!"
 
 # game/script.rpy:9613
 translate pt_br purpbun_blowjob_acc13d3e:
 
     # pbun "Hmmmngh! Yeah! Cum for me! Mmmh! Cum for me, cum for me! Ohhh fuck I want it~!"
-    pbun ""
+    pbun "Hmmmgn! Isso! Goza pra mim! Mmmh! Goxza pra mim, goza pra mim! Ohhh porra, eu quero isso~!"
 
 # game/script.rpy:9618
 translate pt_br purpbun_blowjob_3e6e43b4:
 
     # pbun "HAGHNNKHK!" with ssshake
-    pbun "" with ssshake
+    pbun "HAGHNNKHK!" with ssshake
 
 # game/script.rpy:9619
 translate pt_br purpbun_blowjob_449cec51:
 
     # pbun "Mmmmmmmngh!" with ssshake
-    pbun "" with ssshake
+    pbun "Mmmmmmmgh! with ssshake
 
 # game/script.rpy:9620
 translate pt_br purpbun_blowjob_656dbe74:
 
     # pbun "Hnghk!" with ssshake
-    pbun "" with ssshake
+    pbun "Hnghl!" with ssshake
 
 # game/script.rpy:9622
 translate pt_br purpbun_blowjob_a1bd4e52:
 
     # pbun "Hmmm~ nnngh...! Mmm, wow...!\n*gulp*...!"
-    pbun ""
+    pbun "Hmmm~ nnngh...! Mmm, uau...!\n*engole*...!"
 
 # game/script.rpy:9627
 translate pt_br purpbun_blowjob_a5518fd1:
 
     # pbun "Haaah~! Cum for me, cum for me, yes!"
-    pbun ""
+    pbun "Haaah~! Goza pra mim, goza pra mim, sim!"
 
 # game/script.rpy:9630
 translate pt_br purpbun_blowjob_0f82d165:
 
     # pbun "Aaaah~... fuck, so much..."
-    pbun ""
+    pbun "Aaaah~... porra, muito..."
 
 # game/script.rpy:9640
 translate pt_br redbun_anal_06ffa5ce:
 
     # rbun "Mmmh, fuck my ass [linoname]~"
-    rbun ""
+    rbun "Mmmh, fode a minha bunda [linoname]~"
 
 # game/script.rpy:9642
 translate pt_br redbun_anal_5ff3d503:
 
     # rbun "Mmmh, fuck my ass baby~"
-    rbun ""
+    rbun "Mmmh, fode a minha bunda bebÊ~"
 
 # game/script.rpy:9646
 translate pt_br redbun_anal_062acfd3:
 
     # rbun "Hey, you're pretty big, aren't you...?"
-    rbun ""
+    rbun "Ei, você é bem grande, não é...?"
 
 # game/script.rpy:9648
 translate pt_br redbun_anal_cb2c205d:
 
     # rbun "HMMMMNGH~!" with ssshake
-    rbun "" with ssshake
+    rbun "HMMMMNGH~!" with ssshake
 
 # game/script.rpy:9649
 translate pt_br redbun_anal_1207ca50:
 
     # rbun "Haaah, aah! MMMMMNN!"
-    rbun ""
+    rbun "Haah, aah! MMMMMNN!"
 
 # game/script.rpy:9651
 translate pt_br redbun_anal_1668825b:
 
     # rbun "Oh, fuck! Fuck! MMMN! Haahng! Ohhhh fuck, why did you have to be so big...? Heh, aah, you're stretching my ass baby... Mmmhg!"
-    rbun ""
+    rbun "Ah, porra! Porra! MMMN! Haahng! Ahhhh porra, porr que você tinha que ser tão grande...? Heh, aah, você está esticando a minha bunda, bebê... Mmmhg!"
 
 # game/script.rpy:9652
 translate pt_br redbun_anal_72033f7b:
 
     # rbun "Haaagh! God, it's so tight~! Mmmh! Do you like fucking my tight ass? Mmmh...!"
-    rbun ""
+    rbun "Haaagh! Deus, está muito apertado~! Mmmh! Você gosta de foder minha bunda apertada? Mmmh...!"
 
 # game/script.rpy:9653
 translate pt_br redbun_anal_cefb2da7:
 
     # rbun "Ohhhh, yes, yes! MMMMGH! Fuck! You're so fucking hard...! MMMH! Fuck!"
-    rbun ""
+    rbun "Ahhhh, sim, sim! MMMMGH! Porra! Você está duro pra caralho...! MMMH! Porra!"
 
 # game/script.rpy:9656
 translate pt_br redbun_anal_ac838d34:
 
     # rbun "Yeah...! Haaah! Haah! AAH! God, fuck! HNNNGH! Fuck me, fuck me...!"
-    rbun ""
+    rbun "Isso...! Haaah! Haah! AAH DEus, porra! HNNNGH! Me fode, me fode...!"
 
 # game/script.rpy:9657
 translate pt_br redbun_anal_bafa9a92:
 
     # rbun "Mmmh! Oh yeah, yeah! Do you like that baby? Mmmh! Aaah! Yeah, fuck my ass until you explode inside me~ Mmmh~!"
-    rbun ""
+    rbun "Mmmh! Ah isso, isso! Você gosta disso, bebê? Mmmh! Aaah! Isso, fode a minha bunda até você explodir dentro de mim~ Mmmh~!"
 
 # game/script.rpy:9658
 translate pt_br redbun_anal_3b464f02:
 
     # rbun "Haaah, yeah! I want it, I want it! Mmmh! Give it to me inside my ass!"
-    rbun ""
+    rbun "Haaah, isso! Eu quero isso, eu quero isso! Mmmh! Me dá isso dentro da minha bunda!"
 
 # game/script.rpy:9663
 translate pt_br redbun_anal_e65b085f:
 
     # rbun "AAAAAHG! FUCK!" with ssshake
-    rbun "" with ssshake
+    rbun "AAAAAHG! PORRA!" with ssshake
 
 # game/script.rpy:9664
 translate pt_br redbun_anal_e93f1208:
 
     # rbun "FUCK, FUCK! HAAH!" with ssshake
-    rbun "" with ssshake
+    rbun "PORRA, PORRA! HAAH!" with ssshake
 
 # game/script.rpy:9665
 translate pt_br redbun_anal_54ab29be:
 
     # rbun "MMMMMMNH!" with ssshake
-    rbun "" with ssshake
+    rbun "MMMMMMNH!" with ssshake
 
 # game/script.rpy:9667
 translate pt_br redbun_anal_5d804517:
 
     # rbun "Hmmmm! Haaah! Aaah...! Fuck... you filled me up, baby... thank you~"
-    rbun ""
+    rbun "HMMMM! Haaah! Aaah...! Porra... você me preencheu toda, bebê... obrigada~"
 
 # game/script.rpy:9672
 translate pt_br redbun_anal_cd9c061c:
 
     # rbun "Fucking paint me, baby~"
-    rbun ""
+    rbun "Caralho, me pinta, bebê~"
 
 # game/script.rpy:9675
 translate pt_br redbun_anal_ecee0173:
 
     # rbun "Aaah~ mmmh, so hot..."
-    rbun ""
+    rbun "Aaah~ mmmh, excitante demais..."
 
 # game/script.rpy:9684
 translate pt_br redbun_blowjob_c9d0ac90:
