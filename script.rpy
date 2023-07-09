@@ -21,6 +21,7 @@ translate pt_br intro_443a9488:
 # game/script.rpy:390
 translate pt_br intro_402a59b9:
 
+
     # yg "Today, the hard work over these past few decades will finally pay off. I have big plans, and you girls will be the first thing customers see."
     yg "Hoje, o trabalho duro feito nas últimas décadas finalmente vai ser compensado. Eu tenho grandes planos, e vocês garotas, serão a primeira coisa que os clientes vão ver."
 
@@ -16641,7 +16642,7 @@ translate pt_br explore_brothel2_e83a69e3:
 translate pt_br explore_brothel2_0ea3593a:
 
     # rbun "I'll take that as a yes though, heheh. Have fun! Just not too much..."
-    rbun "MAs eu vou contar ussi como um simm, heheh. Divirtam-se! Mas não muito..."
+    rbun "MAs eu vou contar isso como um simm, heheh. Divirtam-se! Mas não muito..."
 
 # game/script.rpy:9964
 translate pt_br explore_brothel2_e5612634:
@@ -16665,337 +16666,337 @@ translate pt_br explore_brothel2_69fbc024:
 translate pt_br explore_brothel2_da19a5b9:
 
     # bbun "I mean I'm great at sucking cock and all, but it's getting it down my throat that's the problem... If I want to get paid the big bucks, then I gotta train my throat!"
-    bbun ""
+    bbun "Eu quero dizer, eu sou ótimo em chupar paus e tal, mas é quando desce pela minha garganta que é o problema... Se eu quero ser bem paga, então eu preciso treinar a minha garganta! "
 
 # game/script.rpy:9969
 translate pt_br explore_brothel2_c9e63a92:
 
     # c "I think I can help with that."
-    c ""
+    c "Acho que posso te ajudar com isso."
 
 # game/script.rpy:9971
 translate pt_br explore_brothel2_f5071443:
 
     # bbun "Great! Here, take the dildo. Be gentle though! That thing is bigger than it looks."
-    bbun ""
+    bbun "Ótimo! Aqui, pegue o vibrador. Mas seja gentil! Essa coisa é maior do que parece. "
 
 # game/script.rpy:9973
 translate pt_br explore_brothel2_1c8ac0a7:
 
     # bbun "Okay, ready!"
-    bbun ""
+    bbun "Certo, pronta!"
 
 # game/script.rpy:9977
 translate pt_br explore_brothel2_e10a6fb6:
 
     # bbun "Mmmh."
-    bbun ""
+    bbun "Mmmh."
 
 # game/script.rpy:9979
 translate pt_br explore_brothel2_6e0292a1:
 
     # bbun "Kheep ghoing..."
-    bbun ""
+    bbun "Phode Chontinuar"
 
 # game/script.rpy:9981
 translate pt_br explore_brothel2_6d795140:
 
     # bbun "Nngh!"
-    bbun ""
+    bbun "Nngh!"
 
 # game/script.rpy:9983
 translate pt_br explore_brothel2_2dfdf18a:
 
     # bbun "NNH!" with ssshake
-    bbun "" with ssshake
+    bbun "NNG!" with ssshake
 
 # game/script.rpy:9986
 translate pt_br explore_brothel2_bffa8e86:
 
     # bbun "NGHK!" with ssshake
-    bbun "" with ssshake
+    bbun "NGHK!" with ssshake
 
 # game/script.rpy:9991
 translate pt_br explore_brothel2_2e07bfb8:
 
     # bbun "Bleh..."
-    bbun ""
+    bbun "Bleh..."
 
 # game/script.rpy:9993
 translate pt_br explore_brothel2_b6218b84:
 
     # bbun "Why'd you stop? We have to keep going until I can hold it down my throat..."
-    bbun ""
+    bbun "Por que você parou? Nós precisamos continuar até eu conseguir segurar a minha garganta..."
 
 # game/script.rpy:9995
 translate pt_br explore_brothel2_e44d2f5a:
 
     # bbun "Nnnh..."
-    bbun ""
+    bbun "Nnnh..."
 
 # game/script.rpy:9997
 translate pt_br explore_brothel2_2302fc83:
 
     # bbun "Hnh!"
-    bbun ""
+    bbun "Hnh!"
 
 # game/script.rpy:10000
 translate pt_br explore_brothel2_3b700ada:
 
     # bbun "Nghk!" with sshake
-    bbun "" with sshake
+    bbun "Nghk!" with sshake
 
 # game/script.rpy:10003
 translate pt_br explore_brothel2_d77e6ba7:
 
     # bbun "Mmmnnng!" with sshake
-    bbun "" with sshake
+    bbun "Mmmnnng!" with sshake
 
 # game/script.rpy:10006
 translate pt_br explore_brothel2_7f8f06a0:
 
     # bbun "Fkhk!" with sshake
-    bbun "" with sshake
+    bbun "Fkhk!" with sshake
 
 # game/script.rpy:10009
 translate pt_br explore_brothel2_e014f697:
 
     # bbun "NNGH!" with sshake
-    bbun "" with sshake
+    bbun "NNGH!" with sshake
 
 # game/script.rpy:10012
 translate pt_br explore_brothel2_22127d7d:
 
     # bbun "Ghhk!" with sshake
-    bbun "" with sshake
+    bbun "Ghhk!" with sshake
 
 # game/script.rpy:10015
 translate pt_br explore_brothel2_56804381:
 
     # bbun "Egh! Haah! Haahh...! Nngh...!"
-    bbun ""
+    bbun "Egh! Haah! HAahh...! Nngh!"
 
 # game/script.rpy:10017
 translate pt_br explore_brothel2_467af3e6:
 
     # bbun "See? It just won't work... I've been practicing for hours now, and it won't go down. Maybe I'm just not cut out for deepthroating..."
-    bbun ""
+    bbun "Viu? Simplesmente não está dando certo... Já fazem horas desde que estou praticando, e não desce. Talvez eu só não tenha sido feita para fazer garganta profunda..."
 
 # game/script.rpy:10018
 translate pt_br explore_brothel2_3ec4d480:
 
     # c "Try lifting your head up, give the dildo a better path down your throat."
-    c ""
+    c "Tente levantar a cabeça, dê ao vibrador um caminho melhor para a sua garganta."
 
 # game/script.rpy:10020
 translate pt_br explore_brothel2_07208adb:
 
     # bbun "Hey, I never thought of it like that before! That might work, I'll give it a shot."
-    bbun ""
+    bbun "Ei, eu nunca pensei em algo do tipo antes! Isso pode funcionar, eu vou tentar."
 
 # game/script.rpy:10023
 translate pt_br explore_brothel2_fb375828:
 
     # bbun "Mmmh~"
-    bbun ""
+    bbun "Mmmh~"
 
 # game/script.rpy:10025
 translate pt_br explore_brothel2_2302fc83_1:
 
     # bbun "Hnh!"
-    bbun ""
+    bbun "Hnh!"
 
 # game/script.rpy:10028
 translate pt_br explore_brothel2_67990116:
 
     # bbun "Hnnng!" with ssshake
-    bbun "" with ssshake
+    bbun "Hnnng!" with ssshake
 
 # game/script.rpy:10031
 translate pt_br explore_brothel2_a434845b:
 
     # bbun "Nghk!" with ssshake
-    bbun "" with ssshake
+    bbun "Nghk!" with ssshake
 
 # game/script.rpy:10034
 translate pt_br explore_brothel2_d77e6ba7_1:
 
     # bbun "Mmmnnng!" with sshake
-    bbun "" with sshake
+    bbun "Mmmnnng!" with sshake
 
 # game/script.rpy:10037
 translate pt_br explore_brothel2_2dc1fb86:
 
     # bbun "Nhh!" with sshake
-    bbun "" with sshake
+    bbun "Nhh!" with sshake
 
 # game/script.rpy:10038
 translate pt_br explore_brothel2_7808807e:
 
     # bbun "Mmmh! Mmmmh!"
-    bbun ""
+    bbun "Mmmh! Mmmmh!"
 
 # game/script.rpy:10041
 translate pt_br explore_brothel2_029b6ebd:
 
     # bbun "MMMMH!" with sshake
-    bbun "" with sshake
+    bbun "MMMMH!" with sshake
 
 # game/script.rpy:10044
 translate pt_br explore_brothel2_6eca544a:
 
     # bbun "Mmmghk!" with sshake
-    bbun "" with sshake
+    bbun "Mmmghk!" with sshake
 
 # game/script.rpy:10047
 translate pt_br explore_brothel2_f314031a:
 
     # bbun "Gghk!" with sshake
-    bbun "" with sshake
+    bbun "Gghk!" with sshake
 
 # game/script.rpy:10050
 translate pt_br explore_brothel2_f314031a_1:
 
     # bbun "Gghk!" with sshake
-    bbun "" with sshake
+    bbun "Gghk!" with sshake
 
 # game/script.rpy:10054
 translate pt_br explore_brothel2_ce1d1da1:
 
     # bbun "Egh! Haaaaah!"
-    bbun ""
+    bbun "Egh! Haaaaah!"
 
 # game/script.rpy:10056
 translate pt_br explore_brothel2_72c77dc6:
 
     # bbun "AAAH! I did it! I did it!"
-    bbun ""
+    bbun "AAAH! Eu consegui! Eu consegui!"
 
 # game/script.rpy:10057
 translate pt_br explore_brothel2_05c01c93:
 
     # c "Good job."
-    c ""
+    c "Bom trabalho."
 
 # game/script.rpy:10058
 translate pt_br explore_brothel2_6ad0dd22:
 
     # bbun "How long was that, like 5 seconds? I can do better!"
-    bbun ""
+    bbun "Quanto tempo isso durou, tipo uns 5 segundos? Eu consigo fazer melhor!"
 
 # game/script.rpy:10060
 translate pt_br explore_brothel2_6a47aeb2:
 
     # bbun "Let's try again!"
-    bbun ""
+    bbun "Vamos tentar de novo!"
 
 # game/script.rpy:10085
 translate pt_br explore_brothel2_b2f2c3f7:
 
     # bbun "Mmmgh~!" with ssshake
-    bbun "" with ssshake
+    bbun "Mmmgh~!" with ssshake
 
 # game/script.rpy:10100
 translate pt_br explore_brothel2_3f6d47d0:
 
     # bbun "NNNGHK!" with ssshake
-    bbun "" with ssshake
+    bbun "NNNGHK!" with ssshake
 
 # game/script.rpy:10101
 translate pt_br explore_brothel2_c4e9f9c0:
 
     # bbun "Nnngh! Nnnnmgh!" with ssshake
-    bbun "" with ssshake
+    bbun "Nnngh! Nnnnmgh!" with ssshake
 
 # game/script.rpy:10104
 translate pt_br explore_brothel2_e15ece44:
 
     # bbun "Nnnh, nnnhm~!" with ssshake
-    bbun "" with ssshake
+    bbun "Nnnh, nnnhm~!" with ssshake
 
 # game/script.rpy:10105
 translate pt_br explore_brothel2_ed910478:
 
     # bbun "Hmhmhm~" with ssshake
-    bbun "" with ssshake
+    bbun "Hmhmhm~" with ssshake
 
 # game/script.rpy:10108
 translate pt_br explore_brothel2_fbc85963:
 
     # bbun "Mmmnghk...! Nnngh!" with ssshake
-    bbun "" with ssshake
+    bbun "Mmmnghk...! Nnngh!" with ssshake
 
 # game/script.rpy:10110
 translate pt_br explore_brothel2_265e0835:
 
     # bbun "Hnnnghk!! Nnnnghk!!" with sshake
-    bbun "" with sshake
+    bbun "Hnnnghk!! Nnnnghk!!" with sshake
 
 # game/script.rpy:10111
 translate pt_br explore_brothel2_07b25970:
 
     # bbun "Mmmnghk!!" with sshake
-    bbun "" with sshake
+    bbun "Mmmnghk!!" with sshake
 
 # game/script.rpy:10112
 translate pt_br explore_brothel2_3b786d46:
 
     # bbun "NNNGH!" with sshake
-    bbun "" with sshake
+    bbun "NNNGH!" with sshake
 
 # game/script.rpy:10125
 translate pt_br explore_brothel2_3e8d04a5:
 
     # bbun "*COUGH* COUGH*! BLEGHK! *GASP*!!! Aaagh!"
-    bbun ""
+    bbun "*COF* *COF*! BLEGHK! *ESPANTO*!!! Aaagh!"
 
 # game/script.rpy:10134
 translate pt_br explore_brothel2_523a4fad:
 
     # bbun "*gasp*! Aaagh! Haah...! Aghk! Fuck...! Agh! Nngh!"
-    bbun ""
+    bbun "*espanto*! Aaagh! Haah...! Aghk! Porra...! Agh! Nngh!"
 
 # game/script.rpy:10136
 translate pt_br explore_brothel2_396618e8:
 
     # bbun "AAAH! Oh my god, that was at least twice as long, right? I can really do it now!"
-    bbun ""
+    bbun "AAAH! Ai meu deus, isso durou pelo menos o dobro, né? Eu consigo fazer isso de verdade agora!"
 
 # game/script.rpy:10137
 translate pt_br explore_brothel2_22e88716:
 
     # c "You'll be a master in no time."
-    c ""
+    c "Em pouco tempo você vai ser uma mestra nisso."
 
 # game/script.rpy:10138
 translate pt_br explore_brothel2_eacc9b3d:
 
     # bbun "I know, right!? Thanks so much for the tip!"
-    bbun ""
+    bbun "É mesmo!? Muito obrigada pela dica!"
 
 # game/script.rpy:10140
 translate pt_br explore_brothel2_026cea61:
 
     # pbun "Hey, don't forget about me!"
-    pbun ""
+    pbun "Ei, não se esqueça de mim!"
 
 # game/script.rpy:10141
 translate pt_br explore_brothel2_f3cbd03a:
 
     # bbun "Oh, sorry, he's yours now!"
-    bbun ""
+    bbun "Ah, desculpa, ele é todo seu agora!"
 
 # game/script.rpy:10142
 translate pt_br explore_brothel2_46e87374:
 
     # bbun "Go on, help purple bunny. I'll keep practicing!"
-    bbun ""
+    bbun "Pode ir, ajude a coelhinha azul. Eu vou continuar praticando!"
 
 # game/script.rpy:10144
 translate pt_br explore_brothel2_e4da379b:
 
     # c "What can I help you with?"
-    c ""
+    c "Como eu posso te ajudar?"
 
 # game/script.rpy:10145
 translate pt_br explore_brothel2_261c403d:
