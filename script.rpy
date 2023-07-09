@@ -15698,7 +15698,7 @@ translate pt_br purpbun_anal_df197c1e:
 translate pt_br purpbun_anal_3590f4a5:
 
     # pbun "Cum in me, yes! Mmmh! I want you to fill up my tight slutty ass~! Yeah! Cum in me! Cum in your fucking whore!"
-    pbun "Goza em mim, sim! Mmmh! EU quero que você preencha a minha bunda vadia~! Isso! Goza em mim! Goza na sua puda do caralho!"
+    pbun "Goza em mim, sim! Mmmh! Eeuquero que você deixe a minha bunda vadia toda cheia~! Isso! Goza em mim! Goza na sua puda do caralho!"
 
 # game/script.rpy:9540
 translate pt_br purpbun_anal_874b8ad0:
@@ -15932,7 +15932,7 @@ translate pt_br redbun_anal_1207ca50:
 translate pt_br redbun_anal_1668825b:
 
     # rbun "Oh, fuck! Fuck! MMMN! Haahng! Ohhhh fuck, why did you have to be so big...? Heh, aah, you're stretching my ass baby... Mmmhg!"
-    rbun "Ah, porra! Porra! MMMN! Haahng! Ahhhh porra, porr que você tinha que ser tão grande...? Heh, aah, você está esticando a minha bunda, bebê... Mmmhg!"
+    rbun "Ah, porra! Porra! MMMN! Haahng! Ahhhh porra, porr que você tinha que ser tão grande...? Heh, aah, você está esticando a minha bunda bebê... Mmmhg!"
 
 # game/script.rpy:9652
 translate pt_br redbun_anal_72033f7b:
@@ -15956,7 +15956,7 @@ translate pt_br redbun_anal_ac838d34:
 translate pt_br redbun_anal_bafa9a92:
 
     # rbun "Mmmh! Oh yeah, yeah! Do you like that baby? Mmmh! Aaah! Yeah, fuck my ass until you explode inside me~ Mmmh~!"
-    rbun "Mmmh! Ah isso, isso! Você gosta disso, bebê? Mmmh! Aaah! Isso, fode a minha bunda até você explodir dentro de mim~ Mmmh~!"
+    rbun "Mmmh! Ah isso, isso! Você gosta disso bebê? Mmmh! Aaah! Isso, fode a minha bunda até você explodir dentro de mim~ Mmmh~!"
 
 # game/script.rpy:9658
 translate pt_br redbun_anal_3b464f02:
@@ -15986,13 +15986,13 @@ translate pt_br redbun_anal_54ab29be:
 translate pt_br redbun_anal_5d804517:
 
     # rbun "Hmmmm! Haaah! Aaah...! Fuck... you filled me up, baby... thank you~"
-    rbun "HMMMM! Haaah! Aaah...! Porra... você me preencheu toda, bebê... obrigada~"
+    rbun "HMMMM! Haaah! Aaah...! Porra... você me encheu toda bebê... obrigada~"
 
 # game/script.rpy:9672
 translate pt_br redbun_anal_cd9c061c:
 
     # rbun "Fucking paint me, baby~"
-    rbun "Caralho, me pinta, bebê~"
+    rbun "Caralho, me pinta bebê~"
 
 # game/script.rpy:9675
 translate pt_br redbun_anal_ecee0173:
@@ -16004,661 +16004,662 @@ translate pt_br redbun_anal_ecee0173:
 translate pt_br redbun_blowjob_c9d0ac90:
 
     # rbun "I'll make you feel amazing, okay? Just relax..."
-    rbun ""
+    rbun "Eu vou fazer você se sentir incrivel, tudo bem? Apenas relaxe..."
 
 # game/script.rpy:9686
 translate pt_br redbun_blowjob_48c8a62e:
 
     # rbun "Mmmmn~ nnngh! How's that? Mmmn...! I could make you cum in seconds if you want! Llmnn!"
-    rbun ""
+    rbun "Mmmmn~nnngh! Como está sendo? Mmmn...! Eu poderia te fazer gozar em segundos se você quiser! Llmnn!"
 
 # game/script.rpy:9687
 translate pt_br redbun_blowjob_59533b70:
 
     # rbun "Haahn, mmn! Yeah, that's it! Hnng...! Give me your cock baby~"
-    rbun ""
+    rbun "Haahn, mmn! Isso, assim mesmo! Hnng...! Me dá esse pau bebê~"
 
 # game/script.rpy:9688
 translate pt_br redbun_blowjob_45a1ed68:
 
     # rbun "Nngk! Is that how you like it, hm? Mmmnl...! Give me all you got baby~ Mmmn!"
-    rbun ""
+    rbun "Nngk! É assim que você gosta, hm? Mmmnl...! Vam com tudo bebê~ Mmmn!"
 
 # game/script.rpy:9691
 translate pt_br redbun_blowjob_bf188081:
 
     # rbun "Mmmngh! You're so hard for me~! Llllmn, yeah, give it to me~!"
-    rbun ""
+    rbun "Mmmngh! Você está tão duro por mim~! Llllmn, isso, dá isso pra mim~!"
 
 # game/script.rpy:9692
 translate pt_br redbun_blowjob_5e3e3260:
 
     # rbun "Llllmmmn~ Haahn...! Are you getting close? Mmmn, does it feel too good? Lllmn...!"
-    rbun ""
+    rbun "Lllmmmn~Haahn...! Você eestá chegando lá? Mmmn, isso é bom demais? Lllmn...!"
 
 # game/script.rpy:9693
 translate pt_br redbun_blowjob_96d1300f:
 
     # rbun "Come on~ let go in my mouth...! Mmmnl! Give me cum baby~ mmmnh! I want it~"
-    rbun ""
+    rbun "Pode ir~ deixa sair na minha boca...! Mmmnl! Dá pra mim esse gozo bebê~ mmmnh! Eu quero~"
 
 # game/script.rpy:9698
 translate pt_br redbun_blowjob_1b15d955:
 
     # rbun "Hmngh~!" with ssshake
-    rbun "" with ssshake
+    rbun "Hmngh~!" with ssshake
 
 # game/script.rpy:9699
 translate pt_br redbun_blowjob_9fea1d8b:
 
     # rbun "Mmmmmmngh!" with ssshake
-    rbun "" with ssshake
+    rbun "Mmmmmmngh" with ssshake
 
 # game/script.rpy:9700
 translate pt_br redbun_blowjob_6078b09b:
 
     # rbun "Nnnghk!" with ssshake
-    rbun "" with ssshake
+    rbun "Nnnghk!" with ssshake
 
 # game/script.rpy:9702
 translate pt_br redbun_blowjob_82b11e74:
 
     # rbun "Nnnnguh! Haah! Nnnnm, wow...! You came so much, I couldn't take it all..."
-    rbun ""
+    rbun "Nnnnguh! Haah! Nnnnm, uau...! Você gozou tanto, eu nem consegui beber tudo...
+"
 
 # game/script.rpy:9705
 translate pt_br redbun_blowjob_a95dbee6:
 
     # rbun "I'll try better next time!"
-    rbun ""
+    rbun "Eu vou tentar fazer melhor na próxima!"
 
 # game/script.rpy:9708
 translate pt_br redbun_blowjob_50dc56a7:
 
     # rbun "Yes, yes! Cum for meee~"
-    rbun ""
+    rbun "Sim, sim! Goza pra miiim~"
 
 # game/script.rpy:9711
 translate pt_br redbun_blowjob_5c45d416:
 
     # rbun "Aaah~! Mmmn, so much~!"
-    rbun ""
+    rbun "Aaah~! Mmmn, é tanto~!"
 
 # game/script.rpy:9720
 translate pt_br redbun_sex_59bff636:
 
     # rbun "Thank you for coming to us today, [name]~ I'll take good care of you today."
-    rbun ""
+    rbun "Obrigada por vir até nós hoje, [name]~ Eu vou cuidar bem de você hoje."
 
 # game/script.rpy:9721
 translate pt_br redbun_sex_bb89ce83:
 
     # rbun "I don't just satisfy my customers... I leave them begging for more~ Are you ready to begin?"
-    rbun ""
+    rbun "Eu não deixo os meus clientes satisfeitos... Eu deixo eles implorando por mais~ Você está proto para começar?"
 
 # game/script.rpy:9725
 translate pt_br redbun_sex_7d6f677d:
 
     # rbun "Ohhh yeah~ That's it, you like that don't you? Mmm! Come on, go deeperrr!"
-    rbun ""
+    rbun "Ahhh sim~ É isso, você gosta disso, não é? Mmm! Vamos, vai mais fundooo!"
 
 # game/script.rpy:9726
 translate pt_br redbun_sex_5a637073:
 
     # rbun "Haah, aah, haah! Yeah! Fuck me just like you like it! Mmmmn! Yeah, I'll be your good slut today~"
-    rbun ""
+    rbun "Haah, aah, haah! Isso! Me fode do jeito que você gosta! Mmmmn! Isso, eu vou ser a sua puta boazinha hoje~"
 
 # game/script.rpy:9727
 translate pt_br redbun_sex_463fbf66:
 
     # rbun "Mhm, mhm! Oh fuck, I love your cock! MMMM! Yeah, don't stop, give me all you got~ fuck!"
-    rbun ""
+    rbun "Mhm, mhm! Ai porra, eu amo o seu pau! MMMM! Isso, não para, me dê tudo o que você tem~ porra!"
 
 # game/script.rpy:9730
 translate pt_br redbun_sex_9223f02e:
 
     # rbun "There you go, yeah yeah! Haah! MMM! Give it to me, baby~!"
-    rbun ""
+    rbun "Aqui está, isso isso! Haah! Me dê isso, bebê~!"
 
 # game/script.rpy:9731
 translate pt_br redbun_sex_43d57f92:
 
     # rbun "Hnnnng~! Are you ready? Hm? Haaah! Where do you want it? Aah! You can cum wherever you'd like~"
-    rbun ""
+    rbun "Hnnnng~! Você está pronto? Hm? Haaah! Onde você quer fazer?"
 
 # game/script.rpy:9732
 translate pt_br redbun_sex_99e53d44:
 
     # rbun "Cum for me~ Mmmh! Yeah, cum for me! Cum for me!"
-    rbun ""
+    rbun "Goza pra mim~ Mmmh! Isso, goza pra mim! Goza pra mim!"
 
 # game/script.rpy:9737
 translate pt_br redbun_sex_d180d8dc:
 
     # rbun "Aaah, yes!" with ssshake
-    rbun "" with ssshake
+    rbun "Aaah, sim!" with ssshake
 
 # game/script.rpy:9738
 translate pt_br redbun_sex_fa04ebed:
 
     # rbun "Deeper, deeper!" with ssshake
-    rbun "" with ssshake
+    rbun "Mais fundo, mais fundo!" with ssshake
 
 # game/script.rpy:9739
 translate pt_br redbun_sex_9112e70e:
 
     # rbun "Fuuuuck~!" with ssshake
-    rbun "" with ssshake
+    rbun "Poooorra~!" with ssshake
 
 # game/script.rpy:9741
 translate pt_br redbun_sex_333ebf4f:
 
     # rbun "Aaaah, did you like that? Heheh... come back any time..."
-    rbun ""
+    rbun "Aaaah, você gostou disso? Heheh... volte sempre que quiser..."
 
 # game/script.rpy:9747
 translate pt_br redbun_sex_13bd934b:
 
     # rbun "Aaah~! Mmmh! Did you like that? Heheh."
-    rbun ""
+    rbun "Aaah~! Mmmh! Você gostou disso? Heheh"
 
 # game/script.rpy:9754
 translate pt_br bluebun_sex_5ceb2921:
 
     # bbun "Thanks for choosing me...\nHow does that feel? Mmmh?"
-    bbun ""
+    bbun "Obrigada por me escolher... \nComo você se sentiu? Mmmh?"
 
 # game/script.rpy:9755
 translate pt_br bluebun_sex_d69061ab:
 
     # bbun "You like it don't you? Mmmh, you feel so big down there~"
-    bbun ""
+    bbun "Você gostou disso, não é? Mmmh, Você parece ser tão grande aí embaixo~"
 
 # game/script.rpy:9761
 translate pt_br bluebun_sex_0947216b:
 
     # bbun "Ahhhh~!"
-    bbun ""
+    bbun "Ahhhh~!"
 
 # game/script.rpy:9763
 translate pt_br bluebun_sex_1ed29640:
 
     # bbun "Haah~! Mmmh! Do you like that? Mmmh...! You feel so good!"
-    bbun ""
+    bbun "Haah~ Mmmh! Você gostou disso? Mmmh...! Você é tão bom!"
 
 # game/script.rpy:9764
 translate pt_br bluebun_sex_5915d8b3:
 
     # bbun "Yeah, yeah! Mmmh! Fuck my pussy, yeah! Nnnh~"
-    bbun ""
+    bbun "Isso, isso! Mmmh! Fode a minha buceta, isso! Nnnh~"
 
 # game/script.rpy:9765
 translate pt_br bluebun_sex_febe10b8:
 
     # bbun "Oh yeah! Mmmh! Yes, harder! Harder! Fuck me...!"
-    bbun ""
+    bbun "Ah sim! Mmm! SIm, mais forte! Mais forte! Me fode...!"
 
 # game/script.rpy:9768
 translate pt_br bluebun_sex_fe4e5bc2:
 
     # bbun "Mmmh, yeah! I want you to feel so good inside my pussy~ Mmmh! Don't stop!"
-    bbun ""
+    bbun "Mmmh, isso! Eu quero que você se sinta muito bem dentro da minha buceta~ Mmmh! Não para!"
 
 # game/script.rpy:9769
 translate pt_br bluebun_sex_398439f4:
 
     # bbun "Come on, that's it! Mmmh! Yeah, are you gonna cum? Hmm? Where do you want? Hahhh!"
-    bbun ""
+    bbun "Vai, isso mesmo! Mmmh! Isso, você vai gozar? Hmm? Onde você quer? Hahhh!"
 
 # game/script.rpy:9770
 translate pt_br bluebun_sex_c587e577:
 
     # bbun "Mmmh! Yeah, you can cum where ever you want~ Mmmh! Do it, do it~"
-    bbun ""
+    bbun "Mmmh! Isso, você pode gozar aonde você quiser~MmmH! Faz isso, faz isso~"
 
 # game/script.rpy:9775
 translate pt_br bluebun_sex_d5e14613:
 
     # bbun "Haaah! Oooh!" with ssshake
-    bbun "" with ssshake
+    bbun "Haaah! Oooh!" with ssshake
 
 # game/script.rpy:9776
 translate pt_br bluebun_sex_98ff11e9:
 
     # bbun "Mmmh, yeah~!" with ssshake
-    bbun "" with ssshake
+    bbun "Mmmh, isso~!" with ssshake
 
 # game/script.rpy:9778
 translate pt_br bluebun_sex_f5d74b11:
 
     # bbun "Yeah, fill me up Daddy!" with ssshake
-    bbun "" with ssshake
+    bbun "Isso, me deixa cheinha Papai!" with ssshake
 
 # game/script.rpy:9780
 translate pt_br bluebun_sex_7b97795a:
 
     # bbun "Yeah, fill me up!" with ssshake
-    bbun "" with ssshake
+    bbun "Isso, me enche!" with ssshake
 
 # game/script.rpy:9782
 translate pt_br bluebun_sex_ce5b847e:
 
     # bbun "Mmmh, thank you~"
-    bbun ""
+    bbun "Mmmh, obrigada~"
 
 # game/script.rpy:9788
 translate pt_br bluebun_sex_a7e455b2:
 
     # bbun "Aaah~! Mmmh! Thank you~"
-    bbun ""
+    bbun "Aaah~! Mmmh! Obrigada~"
 
 # game/script.rpy:9795
 translate pt_br bluebun_anal_4bb4f082:
 
     # bbun "I can take it, don't be shy... fuck my ass~"
-    bbun ""
+    bbun "Eu consigo fazer isso, não fique tímido... fode a minha bunda~"
 
 # game/script.rpy:9797
 translate pt_br bluebun_anal_6457d773:
 
     # bbun "Haaah! Fuck, yeah! MMMH!" with ssshake
-    bbun "" with ssshake
+    bbun "Haaah! Porra, isso! MMMH!" with ssshake
 
 # game/script.rpy:9799
 translate pt_br bluebun_anal_c8334483:
 
     # bbun "Oh, fuck! You're so big~! Mmmh, mmmh! Haaah! Fuck!"
-    bbun ""
+    bbun "Ah, porra! Você é tão grande~! Mmmh, mmmh! Haaah! Porra!"
 
 # game/script.rpy:9800
 translate pt_br bluebun_anal_b8cb38d6:
 
     # bbun "Yeah, you like my tight ass, don't you~? Mmmh! Oh fuck, AH!"
-    bbun ""
+    bbun "Isso, você gosta da minha bunda apertada, não é~? Ah porra, AH!"
 
 # game/script.rpy:9802
 translate pt_br bluebun_anal_97be8b37:
 
     # bbun "Yes, just like that... mmmh! MMMH! You hit all the right spots, [linoname]! Yeah! Mmmmh, fuck!"
-    bbun ""
+    bbun "Sim, assim mesmo... mmmh! HHHM! Você está acertando todos os lugares certos, [linoname]! Isso! Mmmmh, porra!"
 
 # game/script.rpy:9804
 translate pt_br bluebun_anal_99f25f92:
 
     # bbun "Yes, just like that... mmmh! MMMH! You hit all the right spots, baby! Yeah! Mmmmh, fuck!"
-    bbun ""
+    bbun "Sim, assim mesmo... mmmh! HHHM! Você está acertando todos os lugares certos! Isso! Mmmmh, porra!"
 
 # game/script.rpy:9807
 translate pt_br bluebun_anal_49d4745c:
 
     # bbun "Oh fuck, fuck! MMMH! Yeah, don't stop! Haah! Don't stop until you cum hard for me, okay? Aaah~!"
-    bbun ""
+    bbun "Ai porra, porra! MMMH! Isso, não para! Haah! Não para até você gozar muito pra mim, tá bom? Aaah~!"
 
 # game/script.rpy:9808
 translate pt_br bluebun_anal_8d3d4647:
 
     # bbun "Yeah! Haaah! I want it~! Mmmmh~ Yeah! Haah! It's okay, you can go harder! Mmmh! I want you to feel so good!"
-    bbun ""
+    bbun "Isso! Haaah! Eu quero~! Mmmmh~ Isso! Haah! Está tudo bem, você pode ir mais forte! Mmmh! Eu quero que você se sinta muito bem!"
 
 # game/script.rpy:9810
 translate pt_br bluebun_anal_00515e54:
 
     # bbun "Yeah, yeah~! Cum inside me! FUCK! Yeah! I want you to cum inside~ Can you do that [linoname]...?"
-    bbun ""
+    bbun "Isso, isso~! Goza dentro de mim! PORRA! Isso! Eu quero que você goe dentro~ Você pode fazer isso [linoname]...?"
 
 # game/script.rpy:9812
 translate pt_br bluebun_anal_97da0c48:
 
     # bbun "Yeah, yeah~! Cum inside me! FUCK! Yeah! I want you to cum inside~ Can you do that...?"
-    bbun ""
+    bbun "Isso, isso~! Goza dentro de mim! PORRA! Isso! Eu quero que você goe dentro~ Você pode fazer isso...?"
 
 # game/script.rpy:9817
 translate pt_br bluebun_anal_1e5fb247:
 
     # bbun "Haaah! Yeah!!" with ssshake
-    bbun "" with ssshake
+    bbun "Haaah! Isso!!" with ssshake
 
 # game/script.rpy:9818
 translate pt_br bluebun_anal_51790c10:
 
     # bbun "Oh fuck! MMMH!" with ssshake
-    bbun "" with ssshake
+    bbun "Ah porra! MMMH!" with ssshake
 
 # game/script.rpy:9819
 translate pt_br bluebun_anal_fc57fe40:
 
     # bbun "Yes, fill my ass~!" with ssshake
-    bbun "" with ssshake
+    bbun "Sim, enche a minha buda~" with ssshake
 
 # game/script.rpy:9821
 translate pt_br bluebun_anal_68e7da87:
 
     # bbun "Mmmmh, thank you~"
-    bbun ""
+    bbun "Mmmmh, obrigada~"
 
 # game/script.rpy:9825
 translate pt_br bluebun_anal_1255a617:
 
     # bbun "Aahh~ did you have fun? Heheh..."
-    bbun ""
+    bbun "Aahh~ você se divertiu? Heheh..."
 
 # game/script.rpy:9832
 translate pt_br bluebun_blowjob_e4c72aa1:
 
     # bbun "Are you ready to cum, baby? Let all your stress melt away in my mouth~"
-    bbun ""
+    bbun "Você está pronto pra gozar, bebê? Deixa todo o seu estresse derreter na minha boca~"
 
 # game/script.rpy:9837
 translate pt_br bluebun_blowjob_195de697:
 
     # bbun "Mmmh, nnngh...! Do you like that? Heh, lmmm~ I'll suck you dry [linoname]..."
-    bbun ""
+    bbun "Mmmh nnngh...! Você gosta disso? Heh, lmmm~Eu vou te chupar até você ficar seco [linoname]..."
 
 # game/script.rpy:9839
 translate pt_br bluebun_blowjob_66242480:
 
     # bbun "Mmmh, nnngh...! Do you like that? Heh, lmmm~ I'll suck you dry baby..."
-    bbun ""
+    bbun "Mmmh nnngh...! Você gosta disso? Heh, lmmm~Eu vou te chupar até você ficar seco bebê..."
 
 # game/script.rpy:9840
 translate pt_br bluebun_blowjob_ff8153f2:
 
     # bbun "Lllmngh, you can always come to me after a stressful day of work~ "
-    bbun ""
+    bbun "Lllmngh, você sempre pode vir pra mim despois de um dia estressante de trabalho~ "
 
 # game/script.rpy:9841
 translate pt_br bluebun_blowjob_b16ddab6:
 
     # bbun "Mmmh, mhm...! I'll make you feel better, don't worry~ just relax. Llmmn..."
-    bbun ""
+    bbun "Mmmh, mhm...! Eu vou fazer se sentir melhor, não precisa se preocupar~ só relaxe. Llmmn..."
 
 # game/script.rpy:9844
 translate pt_br bluebun_blowjob_89341079:
 
     # bbun "Mmmngh, nngh...! Does that feel good? Yeah? Mmmh..."
-    bbun ""
+    bbun "Mmmngh, nnngh...! Isso é gostoso? É? Mmmh..."
 
 # game/script.rpy:9846
 translate pt_br bluebun_blowjob_d2753cf5:
 
     # bbun "Ah, mmmh...! Just let go, [linoname]... let go in my mouth. Yeah~ Aaah...!"
-    bbun ""
+    bbun "Ah, mmmh...! Só deixa sair [linoname]... Deixa sair na minha boca. Isso~ Aaah...!"
 
 # game/script.rpy:9848
 translate pt_br bluebun_blowjob_a10d33d2:
 
     # bbun "Ah, mmmh...! Just let go, baby... let go in my mouth. Yeah~ Aaah...!"
-    bbun ""
+    bbun "h, mmmh...! Só deixa sair... Deixa sair na minha boca. Isso~ Aaah...!"
 
 # game/script.rpy:9850
 translate pt_br bluebun_blowjob_ef0e1f44:
 
     # bbun "Cum for me [linoname], mmmh! Cum for me~ I want it!"
-    bbun ""
+    bbun "Goza pra mim [linoname], mmmh! Goza pra mim~ Eu quero isso!"
 
 # game/script.rpy:9852
 translate pt_br bluebun_blowjob_c701895d:
 
     # bbun "Cum for me baby, mmmh! Cum for me~ I want it!"
-    bbun ""
+    bbun "Goza pra mim bebê, mmmh! Goza pra mim~ Eu quero isso!"
 
 # game/script.rpy:9857
 translate pt_br bluebun_blowjob_0bd718bc:
 
     # bbun "NNGHK!" with ssshake
-    bbun "" with ssshake
+    bbun "NNGHK!" with ssshake
 
 # game/script.rpy:9858
 translate pt_br bluebun_blowjob_27a6b323:
 
     # bbun "Hnnghk! Hhhgk!" with ssshake
-    bbun "" with ssshake
+    bbun "Hnnghk! Hnngk!" with ssshake
 
 # game/script.rpy:9859
 translate pt_br bluebun_blowjob_e6196948:
 
     # bbun "Mmmng, mmmmmmn...!" with ssshake
-    bbun "" with ssshake
+    bbun "Mmmng, mmmmmmn...!" with ssshake
 
 # game/script.rpy:9861
 translate pt_br bluebun_blowjob_9c1f8380:
 
     # bbun "Bleh...! Haaah! Aahhh, oh wow! You came so much~"
-    bbun ""
+    bbun "Bleh...! Haaah! Aahhh, ah uau! Você gozou tanto~"
 
 # game/script.rpy:9862
 translate pt_br bluebun_blowjob_44d0e3b9:
 
     # c "You've gotten better at that."
-    c ""
+    c "Você ficou melhor nisso."
 
 # game/script.rpy:9863
 translate pt_br bluebun_blowjob_c53f2861:
 
     # bbun "Thank you~"
-    bbun ""
+    bbun "Obrigada~"
 
 # game/script.rpy:9868
 translate pt_br bluebun_blowjob_e31a35f9:
 
     # bbun "Cum for me, cum for me~! Yeah!"
-    bbun ""
+    bbun "Goza pra mim, goza pra mim~! Isso!"
 
 # game/script.rpy:9872
 translate pt_br bluebun_blowjob_183884b3:
 
     # bbun "Mmmmhh~ thank you [linoname]~"
-    bbun ""
+    bbun "Mmmmhh~ obrigada [linoname]~"
 
 # game/script.rpy:9874
 translate pt_br bluebun_blowjob_63138fe7:
 
     # bbun "Mmmmmh~ thank you~"
-    bbun ""
+    bbun "Mmmmmmh~ obrigada~"
 
 # game/script.rpy:9894
 translate pt_br explore_brothel2_bea4a030:
 
     # bbun "Egh... agh...!"
-    bbun ""
+    bbun "Egh... agh...!"
 
 # game/script.rpy:9901
 translate pt_br explore_brothel2_6e916f47:
 
     # pbun "Ah~! Harder!"
-    pbun ""
+    pbun "Ah~! Mais forte!"
 
 # game/script.rpy:9909
 translate pt_br explore_brothel2_a5aa6cfc:
 
     # bbun "Eghk... fuck!"
-    bbun ""
+    bbun "Eghk... porra!"
 
 # game/script.rpy:9920
 translate pt_br explore_brothel2_d9cf74ed:
 
     # pbun "Mmmh! I can take more...!"
-    pbun ""
+    pbun "Mmmh! Eu consigo aguentar...!"
 
 # game/script.rpy:9925
 translate pt_br explore_brothel2_87aec22d:
 
     # rbun "You're a wet little slut, aren't you~? Heheh!"
-    rbun ""
+    rbun "Você é uma putinha safada, não é~? Heheh!"
 
 # game/script.rpy:9926
 translate pt_br explore_brothel2_911827d6:
 
     # pbun "Yes~!"
-    pbun ""
+    pbun "Sim~!"
 
 # game/script.rpy:9928
 translate pt_br explore_brothel2_d00a0cb8:
 
     # bbun "Nnh!" with ssshake
-    bbun "" with ssshake
+    bbun "Nnh!" with ssshake
 
 # game/script.rpy:9929
 translate pt_br explore_brothel2_be7b7ee1:
 
     # bbun "Nnngh!" with ssshake
-    bbun "" with ssshake
+    bbun "Nnngh!" with ssshake
 
 # game/script.rpy:9930
 translate pt_br explore_brothel2_e7855d40:
 
     # bbun "NNNGH!" with ssshake
-    bbun "" with ssshake
+    bbun "NNNHG!" with ssshake
 
 # game/script.rpy:9932
 translate pt_br explore_brothel2_cb58ba16:
 
     # bbun "Egh...! Dammit..."
-    bbun ""
+    bbun "Egh...! Merda..."
 
 # game/script.rpy:9934
 translate pt_br explore_brothel2_27b3dbc9:
 
     # bbun "Oh, hey! I remember you~"
-    bbun ""
+    bbun "Ah, ei! Eu lembro de você~"
 
 # game/script.rpy:9935
 translate pt_br explore_brothel2_8bf6d090:
 
     # c "What's going on in here?"
-    c ""
+    c "o que está acontecendo aí dentro?"
 
 # game/script.rpy:9936
 translate pt_br explore_brothel2_5e5ae91a:
 
     # bbun "We're just training ourselves for the grand opening! It's almost here, can you believe it!"
-    bbun ""
+    bbun "Nós só estamos treinando a nós mesmas para a inauguração! Está quase lá, você consegue acreditar?"
 
 # game/script.rpy:9937
 translate pt_br explore_brothel2_cec80e9b:
 
     # c "Need any help?"
-    c ""
+    c "Precisa de alguma ajuda?"
 
 # game/script.rpy:9939
 translate pt_br explore_brothel2_46fd8910:
 
     # bbun "Aw, did you want me to practice on you...? Heheh, sorry~ we're not open yet."
-    bbun ""
+    bbun "Aw, você queria que eu praticasse com você...? Heheh, desculpa~ nós não abrimos ainda."
 
 # game/script.rpy:9940
 translate pt_br explore_brothel2_6dd1d3c1:
 
     # c "Too bad."
-    c ""
+    c "Que pena."
 
 # game/script.rpy:9942
 translate pt_br explore_brothel2_0bdd31ff:
 
     # bbun "We could have a drink if you want, or..."
-    bbun ""
+    bbun "Nós podemos beber se você quiser, ou..."
 
 # game/script.rpy:9944
 translate pt_br explore_brothel2_6527cbda:
 
     # rbun "Hey, it's you~ What are you doing here?"
-    rbun ""
+    rbun "Ei, é você~ O quer está fazendo aqui?"
 
 # game/script.rpy:9945
 translate pt_br explore_brothel2_b54374f4:
 
     # c "I'm just checking in, it doesn't look like you're open yet."
-    c ""
+    c "Só dando uma olhada, parece que vocês não abriram ainda."
 
 # game/script.rpy:9946
 translate pt_br explore_brothel2_e87aa017:
 
     # rbun "Nope, we're still preparing for the big day! Which is just around the corner actually, we're all so excited!"
-    rbun ""
+    rbun "Não, nós ainda estamos nos preparando para o grande dia! Que na verdade já está quase chegando, nós todas estamos muito ansiosas!"
 
 # game/script.rpy:9947
 translate pt_br explore_brothel2_682ee969:
 
     # rbun "Personally, I can't wait to get a bigger apartment! Oh, or maybe even a house! Or is that too much for me right now?"
-    rbun ""
+    rbun "Pessoalmente, eu mal posso esperar por um apartamento maior Ah, ou até mesmo uma casa! Ou será que isso é demais pra mim agora?"
 
 # game/script.rpy:9948
 translate pt_br explore_brothel2_c4c67aff:
 
     # rbun "Anyway, I need to stop by the toy shop down the street to get a few things for the grand opening. Would you like to take my spot in helping these girls?"
-    rbun ""
+    rbun "Enfim, eu preciso dar uma passada na loja de brinquedos ali na rua para pegar umas coisas para a inauguração. Você gostaria de ficar ajudando as meninas no meu lugar?"
 
 # game/script.rpy:9951
 translate pt_br explore_brothel2_79cf020d:
 
     # rbun "I'll let the others answer that for you. You can start with blue bunny."
-    rbun ""
+    rbun "Eu vou deixar as outras responderem isso por você. Você pode começar com a coelhinha azul."
 
 # game/script.rpy:9952
 translate pt_br explore_brothel2_70c1f81f:
 
     # bbun "I do need a bit of help..."
-    bbun ""
+    bbun "Eu preciso de um pouco de ajuda..."
 
 # game/script.rpy:9953
 translate pt_br explore_brothel2_bf3c948e:
 
     # rbun "Alright, have fun you guys! Call me if you need anything, I'll just be down the street. BRB girls!"
-    rbun ""
+    rbun "Tudo bem, divirtam-se vocês! Me chamem se precisarem de alguma coisa, eu vou só estar lá na rua. Já volto meninas!"
 
 # game/script.rpy:9955
 translate pt_br explore_brothel2_1b5062cc:
 
     # rbun "Great! You can start with blue bunny."
-    rbun ""
+    rbun "Ótimo! Você pode pode começar com a coelhinha azul."
 
 # game/script.rpy:9956
 translate pt_br explore_brothel2_e3a280c3:
 
     # rbun "Have fun you guys! Call me if you need anything, I'll just be down the street. BRB girls!"
-    rbun ""
+    rbun "Divirtam-se vocês! Me chamem se precisarem de alguma coisa, eu vou só estar lá na rua. Já volto meninas!"
 
 # game/script.rpy:9958
 translate pt_br explore_brothel2_6500e804:
 
     # rbun "Heheh, I'll take that as a yes..."
-    rbun ""
+    rbun "Heheh, eu vou contar isso como um sim..."
 
 # game/script.rpy:9959
 translate pt_br explore_brothel2_0e51f2b2:
 
     # rbun "Have fun! But not too much fun. BRB girls!"
-    rbun ""
+    rbun "Divirtam-se! Mas não muito. Já volto meninas!"
 
 # game/script.rpy:9961
 translate pt_br explore_brothel2_e83a69e3:
 
     # rbun "Slow down there, tiger. This is all professional work, let's not get personal and profressional business mixed up, okay?"
-    rbun ""
+    rbun "Calma aí, tigrão. Isso aqui é trabalho completamente profissional, não vamos misturar assuntos pessoais com profissionais, tudo bem?"
 
 # game/script.rpy:9962
 translate pt_br explore_brothel2_0ea3593a:
 
     # rbun "I'll take that as a yes though, heheh. Have fun! Just not too much..."
-    rbun ""
+    rbun "MAs eu vou contar ussi como um simm, heheh. Divirtam-se! Mas não muito..."
 
 # game/script.rpy:9964
 translate pt_br explore_brothel2_e5612634:
 
     # bbun "Byeee~ don't forget the double-ended dildo!"
-    bbun ""
+    bbun "Thauzinho~ não se esqueça dovibrador duplo!"
 
 # game/script.rpy:9965
 translate pt_br explore_brothel2_ad564b7d:
 
     # rbun "Of course!"
-    rbun ""
+    rbun "É claro!"
 
 # game/script.rpy:9967
 translate pt_br explore_brothel2_69fbc024:
 
     # bbun "Sooo, here's the deal... it turns out I have a horrible gag reflex. As a professional slut, that looks really bad on my resume you know? I really need to iron that out."
-    bbun ""
+    bbun "Entããão, é o seguinte... eu tenho um reflexo horrivel de vômito. Como uma puta profisisonal, isso fica muito ruim no meu currículo, sabe? Eu realmente preciso resolver isso."
 
 # game/script.rpy:9968
 translate pt_br explore_brothel2_da19a5b9:
