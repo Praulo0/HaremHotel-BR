@@ -17002,325 +17002,325 @@ translate pt_br explore_brothel2_e4da379b:
 translate pt_br explore_brothel2_261c403d:
 
     # pbun "Isn't it obvious?"
-    pbun ""
+    pbun "Não está óbvio"
 
 # game/script.rpy:10147
 translate pt_br explore_brothel2_56b26893:
 
     # pbun "Spank me! I need to build some tolerance to pain back there, you know?"
-    pbun ""
+    pbun "Bata em mim! Eu preciso construir alguma resistência a dor lá atrás, sabe?"
 
 # game/script.rpy:10149
 translate pt_br explore_brothel2_5e3a4160:
 
     # pbun "Also, am I arching my back right? I've been stretching my legs every day, I think it's paying off."
-    pbun ""
+    pbun "E também, eu estou arqueando as minhas costas direito? Eu tenho algongado minhas pernas todos os dias, acho que está dando resultado."
 
 # game/script.rpy:10150
 translate pt_br explore_brothel2_878c67fb:
 
     # c "Looking great."
-    c ""
+    c "Parece ótimo."
 
 # game/script.rpy:10151
 translate pt_br explore_brothel2_bc5a3a48:
 
     # pbun "Nice!\nOkay, go ahead. Spank me.\nDon't hear that every day, do ya? Haha!"
-    pbun ""
+    pbun "Legal\nBeleza, pode ir. Me bata.\nIsso não é algo que se ouve todo dia, né? Haha!"
 
 # game/script.rpy:10153
 translate pt_br explore_brothel2_476e6ec8:
 
     # pbun "I want you to spank me until my ass glows red! Or until I yell stop, whichever comes first."
-    pbun ""
+    pbun "Eu quero que você me bata até a minha buda ficar vermelha! Ou até eu gritar para parar, o que vier primeiro."
 
 # game/script.rpy:10154
 translate pt_br explore_brothel2_543fcf4a:
 
     # c "Are you sure?"
-    c ""
+    c "Você tem certeza?"
 
 # game/script.rpy:10155
 translate pt_br explore_brothel2_60356ac4:
 
     # pbun "Of course! As long as it doesn't leave a mark for too long it's fine~"
-    pbun ""
+    pbun "É claro! Desde que a marca não fique por muito tempo tudo bem~"
 
 # game/script.rpy:10156
 translate pt_br explore_brothel2_058b2992:
 
     # pbun "Red bunny was too scared of hurting me, but she couldn't hurt a fly and I got a big ass, so I can take it."
-    pbun ""
+    pbun "A coelhinha vermelha estava com muito medo de me machucar, mas ela não conseguiria machucar nem uma mosca e eu tenho uma bunda grande, enão eu consigo aguentar."
 
 # game/script.rpy:10158
 translate pt_br explore_brothel2_17a33c16:
 
     # c "Ready?"
-    c ""
+    c "Preparada?"
 
 # game/script.rpy:10159
 translate pt_br explore_brothel2_77bd0ce0:
 
     # pbun "Of course! Get smackin'."
-    pbun ""
+    pbun "É claro! Manda a ver."
 
 # game/script.rpy:10166
 translate pt_br explore_brothel2_1c00c5f5:
 
     # pbun "Ah!"
-    pbun ""
+    pbun "Ah!"
 
 # game/script.rpy:10171
 translate pt_br explore_brothel2_457ed0fa:
 
     # pbun "Nnnh!"
-    pbun ""
+    pbun "Nnnh!"
 
 # game/script.rpy:10172
 translate pt_br explore_brothel2_5c286f1d:
 
     # pbun "Nice swing, but it's going to take a lot more than that to turn my ass red!"
-    pbun ""
+    pbun "Belo golpe, mas vai precisar de muito mais que isso para deixar minha bunda vermelha!"
 
 # game/script.rpy:10182
 translate pt_br explore_brothel2_98296427:
 
     # pbun "Mmmh!"
-    pbun ""
+    pbun "Mmmh!"
 
 # game/script.rpy:10192
 translate pt_br explore_brothel2_8b4a2819:
 
     # pbun "Aah!"
-    pbun ""
+    pbun "Aah!"
 
 # game/script.rpy:10194
 translate pt_br explore_brothel2_249dc9ba:
 
     # pbun "Come on, spank me harder. Spank me like you mean it! I won't get red any time soon like that..."
-    pbun ""
+    pbun "Vamos lá, bate mais forte. Me bate com vontade! Desse jeito vou demorar pra ficar vemelha..."
 
 # game/script.rpy:10195
 translate pt_br explore_brothel2_12bee7e9:
 
     # c "Alright, if you're sure."
-    c ""
+    c "Tudo bem, se você tem certeza."
 
 # game/script.rpy:10196
 translate pt_br explore_brothel2_103f2891:
 
     # pbun "Of course I'm sure, {i}Master{/i}. I want to be spanked like a bad slave~"
-    pbun ""
+    pbun "É claro que eu tenho, {i}Mestre{/i}. Eu quero ser espancada como uma escrava malcriada~"
 
 # game/script.rpy:10207
 translate pt_br explore_brothel2_10249858:
 
     # pbun "MMMH, fuck!"
-    pbun ""
+    pbun "MMMH, porra!"
 
 # game/script.rpy:10217
 translate pt_br explore_brothel2_8a775d23:
 
     # pbun "Eee, aah!!"
-    pbun ""
+    pbun "Eee, ahh!!"
 
 # game/script.rpy:10228
 translate pt_br explore_brothel2_d8ecddcb:
 
     # pbun "Nnnn, fuck!!! That really stings, mmmh!"
-    pbun ""
+    pbun "Nnnn, porra!!! Isso dói muito, mmmh!"
 
 # game/script.rpy:10229
 translate pt_br explore_brothel2_1353f706:
 
     # c "Your ass is red now."
-    c ""
+    c "A sua bunda está vermelha agora."
 
 # game/script.rpy:10230
 translate pt_br explore_brothel2_1b5555ba:
 
     # pbun "Really? Wow, that was faster than I expected! You must know what you're doing, heheh."
-    pbun ""
+    pbun "Sério? Uau, isso foi mais rápido do que eu esperava! Você deve saber o que está fazendo, heheh."
 
 # game/script.rpy:10231
 translate pt_br explore_brothel2_1111053c:
 
     # pbun "I think that's enough for today. Could you help me out of this thing?"
-    pbun ""
+    pbun "Eu acho que isso é o suficciente por hoje. Você poderia me ajudar a sair dessa coisa?"
 
 # game/script.rpy:10232
 translate pt_br explore_brothel2_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Clar."
 
 # game/script.rpy:10235
 translate pt_br explore_brothel2_c816f63f:
 
     # pbun "Thanks for the help! I wasn't going to get anywhere with red bunny, but I think we made some progress today!"
-    pbun ""
+    pbun "Obrigada pela ajuda! Eu não ia conseguir ir a lugar nenhum com a coelhinha vermelha, mas acho que fizemos progresso hoje!"
 
 # game/script.rpy:10236
 translate pt_br explore_brothel2_5ea284de:
 
     # pbun "What do you think? Am I ready for the grand opening?"
-    pbun ""
+    pbun "o que você acha? Estou preparada para a inauguração?"
 
 # game/script.rpy:10237
 translate pt_br explore_brothel2_e323d3dd:
 
     # c "You'll do great."
-    c ""
+    c "Você vai ser ótima."
 
 # game/script.rpy:10238
 translate pt_br explore_brothel2_d5d32fa5:
 
     # pbun "Thanks.\nI wasn't exactly born into a wealthy family, so this is a huge break for me. I might even be able to send my little nephew to college with the money I make here."
-    pbun ""
+    pbun "Obrigada.\n Eu não nasci exatamente em uma família rica, então esse vai ser uma grande oportunidade para mim. Eu talvez até consega mandar meu sobrinho para a faculdade com o dinheiro que eu ganhar aqui."
 
 # game/script.rpy:10239
 translate pt_br explore_brothel2_b7940234:
 
     # c "These brothels pay that much, huh?"
-    c ""
+    c "Esses bordéis pagam tanto assim, é?"
 
 # game/script.rpy:10240
 translate pt_br explore_brothel2_295307fb:
 
     # pbun "Oh yeah, Ray is a master marketer. We might not be in the best part of Caliber but the whole city is going to know about us. I heard a rumor he wants one of us to be on his billboards."
-    pbun ""
+    pbun "É sim, o Ray é um mestre em marketing. Nós podemos não estar na melhor parte de Caliber mas a cidade inteira vai ouvir sobre nós. Eu ouvi um rumor dizendo que ele quer que uma de nós esteja nos outdoors dele."
 
 # game/script.rpy:10242
 translate pt_br explore_brothel2_d82ce3a4:
 
     # rbun "Hey guys~, guess who's back?"
-    rbun ""
+    rbun "Ei pessoal~ adivinha quem voltou?"
 
 # game/script.rpy:10243
 translate pt_br explore_brothel2_7409d46d:
 
     # bbun "*gasp*! Did you get it?"
-    bbun ""
+    bbun "*espanto*! Você conseguiu?"
 
 # game/script.rpy:10244
 translate pt_br explore_brothel2_32c423cf:
 
     # rbun "Of course! I couldn't decide on just one or two so I got a lot, heheh! I hope Ray doesn't mind."
-    rbun ""
+    rbun "Mas é claro! Eu não consegui escolher apenas um ou dois então eu peguei um monte, heheh! Eu espero que o Ray não se incomode. "
 
 # game/script.rpy:10245
 translate pt_br explore_brothel2_f1eeb1a3:
 
     # bbun "Is that a dildo sword? No way! That's cool. He won't mind at all!"
-    bbun ""
+    bbun "Isso é um vibrador-espada? Não acredito! Que legal. Ele não vai ligar!"
 
 # game/script.rpy:10247
 translate pt_br explore_brothel2_913dcab1:
 
     # rbun "It looks like you two have been busy."
-    rbun ""
+    rbun "Parece que vocês dois estiveram ocupadas."
 
 # game/script.rpy:10249
 translate pt_br explore_brothel2_56316808:
 
     # rbun "Especially you. What happened to you?"
-    rbun ""
+    rbun "Principalmente você. O que aconteceu com você?"
 
 # game/script.rpy:10251
 translate pt_br explore_brothel2_a173e03b:
 
     # bbun "Progress! I finally deepthroated a dildo!"
-    bbun ""
+    bbun "Progresso! Eu finalmente consegui fazer garganta profunda em um vibrador!"
 
 # game/script.rpy:10252
 translate pt_br explore_brothel2_05686763:
 
     # rbun "Wow, that was fast. Your customers are going to love that."
-    rbun ""
+    rbun "Uau, que rápido. Seusclientes vão amar isso."
 
 # game/script.rpy:10253
 translate pt_br explore_brothel2_d0a2cdda:
 
     # bbun "I hope so! I'm still not perfect though."
-    bbun ""
+    bbun "Eu espero que sim! Mas ainda não estou perfeita nisso."
 
 # game/script.rpy:10255
 translate pt_br explore_brothel2_493fce54:
 
     # rbun "You'll get there."
-    rbun ""
+    rbun "Você vai conseguir."
 
 # game/script.rpy:10256
 translate pt_br explore_brothel2_f1b39489:
 
     # bbun "I don't think purple bunny is going to mind doing spankings either."
-    bbun ""
+    bbun "Eu não acho que a coelhinha roxa vai se incomodar com umas palmadas também."
 
 # game/script.rpy:10257
 translate pt_br explore_brothel2_f29de2fb:
 
     # rbun "Oh really?"
-    rbun ""
+    rbun "Ah, é mesmo?"
 
 # game/script.rpy:10258
 translate pt_br explore_brothel2_80604875:
 
     # bbun "[name] turned her ass bright red! I got to watch the whole thing."
-    bbun ""
+    bbun "[name] Deixou a bunda dela em vermelho vivo! Eu consegui assistir a coisa toda."
 
 # game/script.rpy:10260
 translate pt_br explore_brothel2_a2fb8d0f:
 
     # rbun "That's great!"
-    rbun ""
+    rbun "Que ótimo!"
 
 # game/script.rpy:10261
 translate pt_br explore_brothel2_a3bfb063:
 
     # rbun "Thanks for helping everyone, [name]. I'll make sure to let Ray know you stopped by."
-    rbun ""
+    rbun "Obrigada por ajudar todo mundo, [name]. Eu vou garantir que o Ray saiba que você passou aqui."
 
 # game/script.rpy:10262
 translate pt_br explore_brothel2_a2971e90:
 
     # c "Happy to help."
-    c ""
+    c "Fico feliz em ajudar."
 
 # game/script.rpy:10263
 translate pt_br explore_brothel2_8c020dce:
 
     # rbun "And hey, make sure you don't miss the grand opening! We're all expecting you to be there. We'll treat you good, okay?"
-    rbun ""
+    rbun "E ei, tenha certeza de não perder a inauguração! Nós todas estamos contando que você esteja lá. Nós vamos te tratar vem, tá bom?"
 
 # game/script.rpy:10264
 translate pt_br explore_brothel2_070128c0:
 
     # c "I'll be there."
-    c ""
+    c "Eu vou estar."
 
 # game/script.rpy:10265
 translate pt_br explore_brothel2_04b90e06:
 
     # rbun "Great! I'll see you then, [name]. Have a great day!"
-    rbun ""
+    rbun "Ótimo! Até lá então, [name]. Tenha um ótimo dia!"
 
 # game/script.rpy:10266
 translate pt_br explore_brothel2_aa396cd8:
 
     # pbun "Oh, bye-bye [name]! Thanks~"
-    pbun ""
+    pbun "Ah, tchau-tchau [name]! Obrigada~"
 
 # game/script.rpy:10268
 translate pt_br explore_brothel2_69c3c1d0:
 
     # rbun "Can you help me put these in storage, blue bunny?"
-    rbun ""
+    rbun "Você pode me ajudar a levar essas coisas no armazém, coelhinha azul?"
 
 # game/script.rpy:10269
 translate pt_br explore_brothel2_d98b0888:
 
     # bbun "Sure. See you next time, [name]!"
-    bbun ""
+    bbun "Claro. Até mais, [name]!"
 
 # game/script.rpy:10271
 translate pt_br explore_brothel2_d6b48f27:
@@ -17350,157 +17350,157 @@ translate pt_br explore_brothel2_875c529f:
 translate pt_br out_cont1_1_5998dada:
 
     # c "And I thought I was tall..."
-    c ""
+    c "E eu pensando que eu era alto..."
 
 # game/script.rpy:10292
 translate pt_br out_cont1_1_41dd62c8:
 
     # copbot "What is your emergency?"
-    copbot ""
+    copbot "Qual é a sua emergência?"
 
 # game/script.rpy:10293
 translate pt_br out_cont1_1_8b1b374a:
 
     # c "Sorry, just looking around."
-    c ""
+    c "Desculpa, só estou olhando."
 
 # game/script.rpy:10294
 translate pt_br out_cont1_1_62649c56:
 
     # copbot "Good day, [name], our records show you have recently immigrated and are new to Caliber city. Would you like a list of attractions you can visit today?"
-    copbot ""
+    copbot "Bom dia, [name], nosso registro diz que você imigrou recentemente e é novo na cidade Caliber. Você gostaria de uma lista de atrações que pode visitar hoje?"
 
 # game/script.rpy:10295
 translate pt_br out_cont1_1_968850d2:
 
     # c "You can do that?"
-    c ""
+    c "Você pode fazer isso?"
 
 # game/script.rpy:10296
 translate pt_br out_cont1_1_587aa7d5:
 
     # copbot "It is my duty to serve."
-    copbot ""
+    copbot "O meu trabalho é servir."
 
 # game/script.rpy:10297
 translate pt_br out_cont1_1_390558cf:
 
     # c "Huh, neat. \nSure, tell me what I can do."
-    c ""
+    c "Que bacana. \nClaro, diga-me o que posso fazer?"
 
 # game/script.rpy:10298
 translate pt_br out_cont1_1_e5bd72a5:
 
     # copbot "Caliber City is known for having the highest rated beaches in all of Syl'anar. Simply take the monorail - located four blocks west - to arrive in under 10 minutes. Enjoy clean sand, half naked men and women, fresh food and drinks, and much more."
-    copbot ""
+    copbot "A Cidade Caliber é conhecida por ter as praias mais bem avaliadas de Syl'anar. Basta pegar o monotrilho - localizado a quatro quarteirões a oeste - para chegar em menos de 10 minutos. Desfrute de areia limpa, homens e mulheres seminus, comidas e bebidas frescas e muito mais."
 
 # game/script.rpy:10299
 translate pt_br out_cont1_1_1680c87d:
 
     # copbot "If you are low on energy, and would like a pick-me-up, consider: The Corpus Cafe - located three blocks north. By humans; for humans."
-    copbot ""
+    copbot "Se você estiver com pouca energia, e quiser um estimulante, considere: O Café Corpus - localizado a três quarteirões ao norte. Por humanos; para humanos. "
 
 # game/script.rpy:10300
 translate pt_br out_cont1_1_1d0fdf09:
 
     # copbot "As a male between the ages of 18 and 35, I am inclined to inform you of one of our upcoming attractions; The BunBun Brothel.\nIndulge yourself in the pleasures of human flesh."
-    copbot ""
+    copbot "Como um homem de idade entre 18 e 35, eu estou inclinada a te informar sobre uma de nossas próximaas atrações; O Bordel BunBun.\nEntregue-se aos prazeres da carne humana."
 
 # game/script.rpy:10302
 translate pt_br out_cont1_1_73d21333:
 
     # c "Are these just ads?"
-    c ""
+    c "São apenas anúncios?"
 
 # game/script.rpy:10303
 translate pt_br out_cont1_1_7681d941:
 
     # copbot "Under transparency clause 5 I am obligated to inform you that the city has recieved financial compensation for the targetted advertisement you have just experienced."
-    copbot ""
+    copbot "De acordo com a cláusula de transparência 5, sou obrigada a te informar que a cidade recebeu uma compensação financeira pelo anúncio direcionado que você acabou de receber."
 
 # game/script.rpy:10304
 translate pt_br out_cont1_1_b8d4157a:
 
     # c "Right, okay..."
-    c ""
+    c "Certo, tudo bem..."
 
 # game/script.rpy:10306
 translate pt_br out_cont1_1_1706ab06:
 
     # copbot "{size=-7}{i}Thank you sir, have a good day.{/size}{/i}"
-    copbot ""
+    copbot "{size=-7}{i}Obrigada senhor, tenha um bom dia.{/size}{/i}"
 
 # game/script.rpy:10307
 translate pt_br out_cont1_1_abec1925:
 
     # c "There seems to be plenty of things to do, at least.\n...\n{i}I've never seen so many elves before.{/i}"
-    c ""
+    c "Parece ter bastante coisas para fazer, pelo menos.\n...\n{i}Eu nunca vi tantos elfos antes.{/i}"
 
 # game/script.rpy:10309
 translate pt_br out_cont1_1_e2f4e496:
 
     # q "Excuse me, sir! Did I hear that right? You're fresh off the boat, as they say?"
-    q ""
+    q "Com licença, senhor! Eu ouvi direito? Você é desembarcado, como dizem?"
 
 # game/script.rpy:10312
 translate pt_br out_cont1_1_4292a6b6:
 
     # sla "Well do I have a great opportunity for you! My company is auctioning off a few elves at the beach soon, I would love it if you stopped by!"
-    sla ""
+    sla "Bem, eu tenho uma grande oportunidade para você! Minha companhia vai estar leiloando alguns elfos na praia logo, eu adoraria se você parasse por ali!"
 
 # game/script.rpy:10313
 translate pt_br out_cont1_1_51580c3a:
 
     # c "I don't think I would be able to afford one yet."
-    c ""
+    c "Eu não acho que poderia pagar por uma ainda."
 
 # game/script.rpy:10314
 translate pt_br out_cont1_1_4a1fead9:
 
     # sla "Oh come on! Slaves pay for themselves, and then some! You can't possibly say you don't have the money for a slave. Ever heard of a loan? Even someone like you can get one here!"
-    sla ""
+    sla "Ahm vamos lá! Escravos pagam por si mesmos, e mais alguns! Não é possível vocÊ dizer que não tem dinheiro para um escravo. Você já ouviu falar de empréstimo? Até alguém como você pode conseguir um aqui!"
 
 # game/script.rpy:10318
 translate pt_br out_cont1_1_1112f411:
 
     # sla "You're kidding, right?\n{w=1}...\n{w=1}...No?"
-    sla ""
+    sla "Você está brincando, né?\n{w=1}...\n{w=1}...Não?"
 
 # game/script.rpy:10320
 translate pt_br out_cont1_1_be7ed272:
 
     # sla "They're way too expensive! I mean, unless you want some bot from half a century ago... and even then, good luck getting one of those to do anything but fall over, hah!"
-    sla ""
+    sla "Eles são muito caros! Quero dizer, a menos que você queira um robô de meio século atras... e mesmo assim, boa sorte para conseguir um desses que faça qualquer coisa a não ser cair, hah!"
 
 # game/script.rpy:10321
 translate pt_br out_cont1_1_de94171d:
 
     # sla "Anyway, if you're interested, feel free to invite your friends."
-    sla ""
+    sla "Enfim, se você estiver interessado, sinta-se livre para convidar seus amigos."
 
 # game/script.rpy:10324
 translate pt_br out_cont1_1_375d16ba:
 
     # sla "That's great! By the way, it's a live auction. We'll be serving food, drinks, everything. Come prepared!"
-    sla ""
+    sla "Isso é ótimo! Aliás, é um leilão ao vivo. Nós iremos servir comidas, bebidas, qualquer coisa. Venha preparado!"
 
 # game/script.rpy:10325
 translate pt_br out_cont1_1_df18ab7a:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10327
 translate pt_br out_cont1_1_cb931175:
 
     # sla "Well, if you change your mind, stop by the beach. It's a live auction so it'll be a ton of fun! Foods, drinks, the whole thing!"
-    sla ""
+    sla "Bem, se você mudar de ideia, dê uma passada pela praia. É um leilão ao vivo enntão vai ter bastante diversao! Cimidas, bebidas, a coisa toda!"
 
 # game/script.rpy:10328
 translate pt_br out_cont1_1_df18ab7a_1:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10331
 translate pt_br out_cont1_1_ab6ced44:
