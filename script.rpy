@@ -17506,31 +17506,31 @@ translate pt_br out_cont1_1_df18ab7a_1:
 translate pt_br out_cont1_1_ab6ced44:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tudo bem então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10336
 translate pt_br out_cont1_1_23807d00:
 
     # q "I'm afraid not, 100 percent human here."
-    q ""
+    q "Eu receio que não, 100 por cento humano aqui."
 
 # game/script.rpy:10337
 translate pt_br out_cont1_1_a828d07a:
 
     # sla "...And my wife."
-    sla ""
+    sla "...E a minha esposa."
 
 # game/script.rpy:10338
 translate pt_br out_cont1_1_1fab5568:
 
     # q "And his wife!"
-    q ""
+    q "E a esposa dele!"
 
 # game/script.rpy:10340
 translate pt_br out_cont1_1_c2a3666f:
 
     # sla "Anyway, if you'd like to buy a quality slave, stop by the beach! It's a live auction so it'll be a ton of fun."
-    sla ""
+    sla "Enfim, se você quiser comprar uma escrava de qualidade, "
 
 # game/script.rpy:10343
 translate pt_br out_cont1_1_8fae8981:
@@ -17854,151 +17854,151 @@ translate pt_br out_cont1_1_875c529f:
 translate pt_br out_cont2_1_0b0746af:
 
     # c "What the hell...?"
-    c ""
+    c "Mas que porra...?"
 
 # game/script.rpy:10460
 translate pt_br out_cont2_1_756500e4:
 
     # q "Aquares lux semita vos venire!"
-    q ""
+    q "Aquares lux semita vos venire!"
 
 # game/script.rpy:10464
 translate pt_br out_cont2_1_9f4a9675:
 
     # q "Tenebris cecidimus per Gaius!" with ssshake
-    q "" with ssshake
+    q "Tenebris cecidimus per Gaius!" with ssshake
 
 # game/script.rpy:10465
 translate pt_br out_cont2_1_caec44d4:
 
     # "(As the blue liquid changes shape, you begin to hear a low hum coming from their direction.)"
-    ""
+    "(Enquanto o líquido azul muda de forma, você começa a ouvir um zumbido baixo vindo da direção delas.)"
 
 # game/script.rpy:10467
 translate pt_br out_cont2_1_67428b31:
 
     # c "How is she doing that?"
-    c ""
+    c "Como ela está fazendo isso?"
 
 # game/script.rpy:10468
 translate pt_br out_cont2_1_cfc47ad1:
 
     # q "Hm?"
-    q ""
+    q "Hm?"
 
 # game/script.rpy:10470
 translate pt_br out_cont2_1_14d5e85b:
 
     # abby "Hello, my name is Saint Abby. I couldn't help but notice your interest in us."
-    abby ""
+    abby "Olá, meu nome é Santa Abby. Eu não pude deixar de reparar seu interesse em nós."
 
 # game/script.rpy:10471
 translate pt_br out_cont2_1_2a6a23e2:
 
     # c "Sorry for staring, I've just never seen something like that before."
-    c ""
+    c "Desculpa por ficar encarando, eu só nunca vi nada assim antes."
 
 # game/script.rpy:10472
 translate pt_br out_cont2_1_146d4814:
 
     # abby "Nothing at all to apologize for, sir. It's quite natural to become awe-struck in the face of Gaius."
-    abby ""
+    abby "Não há nada para se desculpar, senhor. É bem normal ficar pasmo diante de Gaius."
 
 # game/script.rpy:10473
 translate pt_br out_cont2_1_199aa782:
 
     # c "Who?"
-    c ""
+    c "Quem?"
 
 # game/script.rpy:10474
 translate pt_br out_cont2_1_c2eff074:
 
     # abby "The energy around us - the glue that keeps everything together. The creator and destroyer of all things to ever be. Gaius is our god, and he is wonderful!"
-    abby ""
+    abby "A energia que nos envolve - a cola que mantêm tudo unido. O criador e destruidor de todas as coisas que já existiram. Gaius é nosso deus, e ele é maravilhoso!"
 
 # game/script.rpy:10477
 translate pt_br out_cont2_1_0c84fc1d:
 
     # abby "We are Gaianists. Each of us follows the path laid before us by Gaius. Will you do the same?"
-    abby ""
+    abby "Nós somos Gaianistas. Cada um de nós segue o caminho colocado diante de nós por Gayus. Você vai fazer o mesmo?"
 
 # game/script.rpy:10478
 translate pt_br out_cont2_1_d2d918ab:
 
     # c "What path?"
-    c ""
+    c "Que caminho?"
 
 # game/script.rpy:10479
 translate pt_br out_cont2_1_0e9f7585:
 
     # abby "I'm talking of destiny, sir. We all have a role to play in this life. Will you stay lost in this world, or would you allow me to light your path for you?"
-    abby ""
+    abby "Estou falando do destino, senhor. Nós todos temos um papel a seguir nessa vida. Você vai ficar perdido nesse mundo, ou você vai me permitir iluminar seu caminho para você?"
 
 # game/script.rpy:10482
 translate pt_br out_cont2_1_8bd84c08:
 
     # abby "This is holy water, but yes I did."
-    abby ""
+    abby "Isso é água benta, mas sim eu fiz."
 
 # game/script.rpy:10483
 translate pt_br out_cont2_1_d989d235:
 
     # abby "Through Gaius, all things are possible. He has given us just a tiny shard of his power so that we might bring others to the light."
-    abby ""
+    abby "Através de Gaius, todas as coisas são possíveis. Ele nos deu apenas um pequeno fragmento de seu poder para que possamos trazer os outros para a luz."
 
 # game/script.rpy:10486
 translate pt_br out_cont2_1_a592bed8:
 
     # abby "This is no magic, newcomer, no more than gravity is. Neither do I hold special power over this artifact, anyone could do as I just have with enough faith."
-    abby ""
+    abby "Isso não é magia, novato, não mais do que a gravidade é. Nem mesmo tenho poder especial sobre esse artefato, qualquer um poderia fazer como eu fiz com fé o suficiente."
 
 # game/script.rpy:10487
 translate pt_br out_cont2_1_abfe7193:
 
     # c "So the power of the faith makes that thing work?"
-    c ""
+    c "Então o poder da fé faz essa coisa funcionar?"
 
 # game/script.rpy:10488
 translate pt_br out_cont2_1_f2a4d499:
 
     # abby "As faith drives us to work."
-    abby ""
+    abby "Assim como a fé nos impulsiona a trabalahar."
 
 # game/script.rpy:10492
 translate pt_br out_cont2_1_c465808f:
 
     # abby "I don't mean to impose, you just looked curious is all. Aren't you?"
-    abby ""
+    abby "Eu não quero impor, você apenas pareceu curioso, só isso. Você não está?"
 
 # game/script.rpy:10495
 translate pt_br out_cont2_1_8bd84c08_1:
 
     # abby "This is holy water, but yes I did."
-    abby ""
+    abby "Isso é água benta, mas sim eu fiz."
 
 # game/script.rpy:10496
 translate pt_br out_cont2_1_d989d235_1:
 
     # abby "Through Gaius, all things are possible. He has given us just a tiny shard of his power so that we might bring others to the light."
-    abby ""
+    abby "Através de Gaius, todas as coisas são possíveis. Ele nos deu apenas um pequeno fragmento de seu poder para que possamos trazer os outros para a luz."
 
 # game/script.rpy:10499
 translate pt_br out_cont2_1_a592bed8_1:
 
     # abby "This is no magic, newcomer, no more than gravity is. Neither do I hold special power over this artifact, anyone could do as I just have with enough faith."
-    abby ""
+    abby "Isso não é magia, novato, não mais do que a gravidade é. Nem mesmo tenho poder especial sobre esse artefato, qualquer um poderia fazer como eu fiz com fé o suficiente."
 
 # game/script.rpy:10500
 translate pt_br out_cont2_1_abfe7193_1:
 
     # c "So the power of the faith makes that thing work?"
-    c ""
+    c "Então o poder da fé faz essa coisa funcionar?"
 
 # game/script.rpy:10501
 translate pt_br out_cont2_1_f2a4d499_1:
 
     # abby "As faith drives us to work."
-    abby ""
+    abby "Assim como a fé nos impulsiona a trabalahar."
 
 # game/script.rpy:10504
 translate pt_br out_cont2_1_6d124242:
