@@ -10005,7 +10005,7 @@ translate pt_br floor1menu_1c8122ca:
 translate pt_br floor1menu_07bba56c:
 
     # k "Fine, whatever..."
-    k "Tá bom, que seja..."
+    k "Tá, que seja..."
 
 # game/script.rpy:7276
 translate pt_br floor1menu_72c43092:
@@ -10041,7 +10041,7 @@ translate pt_br floor1menu_1c8122ca_1:
 translate pt_br floor1menu_07bba56c_1:
 
     # k "Fine, whatever..."
-    k "Tá bom, que seja..."
+    k "Tá, que seja..."
 
 # game/script.rpy:7285
 translate pt_br floor1menu_d5c73938:
@@ -17446,7 +17446,7 @@ translate pt_br out_cont1_1_e2f4e496:
 translate pt_br out_cont1_1_4292a6b6:
 
     # sla "Well do I have a great opportunity for you! My company is auctioning off a few elves at the beach soon, I would love it if you stopped by!"
-    sla "Bem, eu tenho uma grande oportunidade para você! Minha companhia vai estar leiloando alguns elfos na praia logo, eu adoraria se você parasse por ali!"
+    sla "Bem, eu tenho uma grande oportunidade para você! Minha companhia vai estar leiloando alguns elfos na praia em breve, eu adoraria se você desse uma passada por ali!"
 
 # game/script.rpy:10313
 translate pt_br out_cont1_1_51580c3a:
@@ -17458,7 +17458,7 @@ translate pt_br out_cont1_1_51580c3a:
 translate pt_br out_cont1_1_4a1fead9:
 
     # sla "Oh come on! Slaves pay for themselves, and then some! You can't possibly say you don't have the money for a slave. Ever heard of a loan? Even someone like you can get one here!"
-    sla "Ahm vamos lá! Escravos pagam por si mesmos, e mais alguns! Não é possível vocÊ dizer que não tem dinheiro para um escravo. Você já ouviu falar de empréstimo? Até alguém como você pode conseguir um aqui!"
+    sla "Ah vamos lá! Escravos pagam por si mesmos, e mais alguns! Não é possível vocÊ dizer que não tem dinheiro para um escravo. Você já ouviu falar de empréstimo? Até alguém como você pode conseguir um aqui!"
 
 # game/script.rpy:10318
 translate pt_br out_cont1_1_1112f411:
@@ -17470,7 +17470,7 @@ translate pt_br out_cont1_1_1112f411:
 translate pt_br out_cont1_1_be7ed272:
 
     # sla "They're way too expensive! I mean, unless you want some bot from half a century ago... and even then, good luck getting one of those to do anything but fall over, hah!"
-    sla "Eles são muito caros! Quero dizer, a menos que você queira um robô de meio século atras... e mesmo assim, boa sorte para conseguir um desses que faça qualquer coisa a não ser cair, hah!"
+    sla "Eles são muito caros! Quero dizer, a menos que você queira um robô de meio século atrás... e mesmo assim, boa sorte para conseguir um desses que faça qualquer coisa a não ser cair, hah!"
 
 # game/script.rpy:10321
 translate pt_br out_cont1_1_de94171d:
@@ -17494,7 +17494,7 @@ translate pt_br out_cont1_1_df18ab7a:
 translate pt_br out_cont1_1_cb931175:
 
     # sla "Well, if you change your mind, stop by the beach. It's a live auction so it'll be a ton of fun! Foods, drinks, the whole thing!"
-    sla "Bem, se você mudar de ideia, dê uma passada pela praia. É um leilão ao vivo enntão vai ter bastante diversao! Cimidas, bebidas, a coisa toda!"
+    sla "Bem, se você mudar de ideia, dê uma passada pela praia. É um leilão ao vivo então vai ser bem divertido! Comidas, bebidas, a coisa toda!"
 
 # game/script.rpy:10328
 translate pt_br out_cont1_1_df18ab7a_1:
@@ -17506,7 +17506,7 @@ translate pt_br out_cont1_1_df18ab7a_1:
 translate pt_br out_cont1_1_ab6ced44:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tudo bem então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10336
 translate pt_br out_cont1_1_23807d00:
@@ -17530,295 +17530,295 @@ translate pt_br out_cont1_1_1fab5568:
 translate pt_br out_cont1_1_c2a3666f:
 
     # sla "Anyway, if you'd like to buy a quality slave, stop by the beach! It's a live auction so it'll be a ton of fun."
-    sla "Enfim, se você quiser comprar uma escrava de qualidade, "
+    sla "Enfim, se você quiser comprar uma escrava de qualidade, dê uma passada pela praia! É um leilão ao vivo então vai ser bem divertido."
 
 # game/script.rpy:10343
 translate pt_br out_cont1_1_8fae8981:
 
     # sla "That's great! We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Isso é ótimo! Nós vamos servir comidas, bebidas e tudo!"
 
 # game/script.rpy:10344
 translate pt_br out_cont1_1_df18ab7a_2:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10346
 translate pt_br out_cont1_1_68afabfe:
 
     # sla "Well, if you change your mind, stop by the beach. We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Bem, se você mudar de ideia, dê uma passada pela praia. Nós estaremos servindo comidas, bebidas, a coisa toda!"
 
 # game/script.rpy:10347
 translate pt_br out_cont1_1_df18ab7a_3:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10350
 translate pt_br out_cont1_1_ab6ced44_1:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10354
 translate pt_br out_cont1_1_6550918b:
 
     # q "What did I say? No one thinks it looks nice!"
-    q ""
+    q "O que eu disse? Ninguém acha bonito!"
 
 # game/script.rpy:10355
 translate pt_br out_cont1_1_b17767eb:
 
     # sla "{u}I{/u} think it looks nice."
-    sla ""
+    sla "{u}Eu{/u} acho bonito."
 
 # game/script.rpy:10356
 translate pt_br out_cont1_1_9a4fe45d:
 
     # q "Fine, whatever..."
-    q ""
+    q "Tá, que seja..."
 
 # game/script.rpy:10358
 translate pt_br out_cont1_1_c2a3666f_1:
 
     # sla "Anyway, if you'd like to buy a quality slave, stop by the beach! It's a live auction so it'll be a ton of fun."
-    sla ""
+    sla "Enfim, se você quiser comprar uma escrava de qualidade, dê uma passada pela praia! É um leilão ao vivo então vai ser bem divertido."
 
 # game/script.rpy:10361
 translate pt_br out_cont1_1_8fae8981_1:
 
     # sla "That's great! We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Isso é ótimo! Nós vamos servir comidas, bebidas e tudo!"
 
 # game/script.rpy:10362
 translate pt_br out_cont1_1_df18ab7a_4:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10364
 translate pt_br out_cont1_1_68afabfe_1:
 
     # sla "Well, if you change your mind, stop by the beach. We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Bem, se você mudar de ideia, dê uma passada pela praia. Nós estaremos servindo comidas, bebidas, a coisa toda!"
 
 # game/script.rpy:10365
 translate pt_br out_cont1_1_df18ab7a_5:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10368
 translate pt_br out_cont1_1_ab6ced44_2:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10371
 translate pt_br out_cont1_1_ab6ced44_3:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10375
 translate pt_br out_cont1_1_6d92a62f:
 
     # q "Hah! You'll get far here thinking like that.\nI'm just here to offer you an opportunity! My company is auctioning off a few elves at the beach soon, I would love for you to stop by!"
-    q ""
+    q "Hah! Você vai chegar longe aqui pensando dessa forma.\nEu só estou aqui para te oferecer uma oportunidade! Minha companhia vai estar leiloando alguns elfos na praia em breve, eu adoraria se você desse uma passada por ali!"
 
 # game/script.rpy:10376
 translate pt_br out_cont1_1_ff31940b:
 
     # c "I don't think I could even afford one."
-    c ""
+    c "Eu não acho que poderia pagar por uma ainda."
 
 # game/script.rpy:10377
 translate pt_br out_cont1_1_682f69f5:
 
     # q "Nonsense! Slaves pay for themselves, and then some! You can't possibly say you don't have the money for a slave. Ever heard of a loan? Even someone like you can get one here!"
-    q ""
+    q "Absurdo!  Escravos pagam por si mesmos, e mais alguns! Não é possível vocÊ dizer que não tem dinheiro para um escravo. Você já ouviu falar de empréstimo? Até alguém como você pode conseguir um aqui!"
 
 # game/script.rpy:10380
 translate pt_br out_cont1_1_81d56e28:
 
     # sla "My company is auctioning off a few elves at the beach, I would love it if you stopped by!"
-    sla ""
+    sla " Minha companhia vai estar leiloando alguns elfos na praia em breve, eu adoraria se você desse uma passada por ali!"
 
 # game/script.rpy:10381
 translate pt_br out_cont1_1_51580c3a_1:
 
     # c "I don't think I would be able to afford one yet."
-    c ""
+    c "Eu não acho que poderia pagar por uma ainda."
 
 # game/script.rpy:10382
 translate pt_br out_cont1_1_4a1fead9_1:
 
     # sla "Oh come on! Slaves pay for themselves, and then some! You can't possibly say you don't have the money for a slave. Ever heard of a loan? Even someone like you can get one here!"
-    sla ""
+    sla "Ah vamos lá! Escravos pagam por si mesmos, e mais alguns! Não é possível vocÊ dizer que não tem dinheiro para um escravo. Você já ouviu falar de empréstimo? Até alguém como você pode conseguir um aqui!"
 
 # game/script.rpy:10386
 translate pt_br out_cont1_1_1112f411_1:
 
     # sla "You're kidding, right?\n{w=1}...\n{w=1}...No?"
-    sla ""
+    sla "Você está brincando, né?\n{w=1}...\n{w=1}...Não?"
 
 # game/script.rpy:10388
 translate pt_br out_cont1_1_b41cbc81:
 
     # sla "They're way too expensive! I mean, unless you want to some bot from half a century ago... and even then, good luck getting one of those to do anything but fall over, hah!"
-    sla ""
+    sla "Eles são muito caros! Quero dizer, a menos que você queira um robô de meio século atrás... e mesmo assim, boa sorte para conseguir um desses que faça qualquer coisa a não ser cair, hah!"
 
 # game/script.rpy:10389
 translate pt_br out_cont1_1_de94171d_1:
 
     # sla "Anyway, if you're interested, feel free to invite your friends."
-    sla ""
+    sla "Enfim, se você estiver interessado, sinta-se livre para convidar seus amigos."
 
 # game/script.rpy:10392
 translate pt_br out_cont1_1_375d16ba_1:
 
     # sla "That's great! By the way, it's a live auction. We'll be serving food, drinks, everything. Come prepared!"
-    sla ""
+    sla "Isso é ótimo! Aliás, é um leilão ao vivo. Nós iremos servir comidas, bebidas, qualquer coisa. Venha preparado!"
 
 # game/script.rpy:10393
 translate pt_br out_cont1_1_df18ab7a_6:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10395
 translate pt_br out_cont1_1_cb931175_1:
 
     # sla "Well, if you change your mind, stop by the beach. It's a live auction so it'll be a ton of fun! Foods, drinks, the whole thing!"
-    sla ""
+    sla "Bem, se você mudar de ideia, dê uma passada pela praia. Nós estaremos servindo comidas, bebidas, a coisa toda!"
 
 # game/script.rpy:10396
 translate pt_br out_cont1_1_df18ab7a_7:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10399
 translate pt_br out_cont1_1_ab6ced44_4:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10404
 translate pt_br out_cont1_1_23807d00_1:
 
     # q "I'm afraid not, 100 percent human here."
-    q ""
+    q "Eu não acho que poderia pagar por uma ainda."
 
 # game/script.rpy:10405
 translate pt_br out_cont1_1_a828d07a_1:
 
     # sla "...And my wife."
-    sla ""
+    sla "...E a minha esposa."
 
 # game/script.rpy:10407
 translate pt_br out_cont1_1_c2a3666f_2:
 
     # sla "Anyway, if you'd like to buy a quality slave, stop by the beach! It's a live auction so it'll be a ton of fun."
-    sla ""
+    sla "Enfim, se você quiser comprar uma escrava de qualidade, dê uma passada pela praia! É um leilão ao vivo então vai ser bem divertido."
 
 # game/script.rpy:10410
 translate pt_br out_cont1_1_8fae8981_2:
 
     # sla "That's great! We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Isso é ótimo! Nós vamos servir comidas, bebidas e tudo!"
 
 # game/script.rpy:10411
-translate pt_br out_cont1_1_df18ab7a_8:
+translate pt_br out_cont1_1_df18ab7a_8:nt
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10413
 translate pt_br out_cont1_1_68afabfe_2:
 
     # sla "Well, if you change your mind, stop by the beach. We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Bem, se você mudar de ideia, dê uma passada pela praia. Nós estaremos servindo comidas, bebidas, a coisa toda!"
 
 # game/script.rpy:10414
 translate pt_br out_cont1_1_df18ab7a_9:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10417
 translate pt_br out_cont1_1_ab6ced44_5:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10421
 translate pt_br out_cont1_1_6550918b_1:
 
     # q "What did I say? No one thinks it looks nice!"
-    q ""
+    q "O que eu disse? Ninguém acha bonito!"
 
 # game/script.rpy:10422
 translate pt_br out_cont1_1_b17767eb_1:
 
     # sla "{u}I{/u} think it looks nice."
-    sla ""
+    sla ""{u}Eu{/u} acho bonito."
 
 # game/script.rpy:10423
 translate pt_br out_cont1_1_9a4fe45d_1:
 
     # q "Fine, whatever..."
-    q ""
+    q "Tá, que seja..."
 
 # game/script.rpy:10425
 translate pt_br out_cont1_1_c2a3666f_3:
 
     # sla "Anyway, if you'd like to buy a quality slave, stop by the beach! It's a live auction so it'll be a ton of fun."
-    sla ""
+    sla "Enfim, se você quiser comprar uma escrava de qualidade, dê uma passada pela praia! É um leilão ao vivo então vai ser bem divertido."
 
 # game/script.rpy:10428
 translate pt_br out_cont1_1_8fae8981_3:
 
     # sla "That's great! We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Isso é ótimo! Nós vamos servir comidas, bebidas e tudo!"
 
 # game/script.rpy:10429
 translate pt_br out_cont1_1_df18ab7a_10:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10431
 translate pt_br out_cont1_1_68afabfe_3:
 
     # sla "Well, if you change your mind, stop by the beach. We'll be serving food, drinks, everything!"
-    sla ""
+    sla "Bem, se você mudar de ideia, dê uma passada pela praia. Nós estaremos servindo comidas, bebidas, a coisa toda!"
 
 # game/script.rpy:10432
 translate pt_br out_cont1_1_df18ab7a_11:
 
     # sla "Have a good day!"
-    sla ""
+    sla "Tenha um bom dia!"
 
 # game/script.rpy:10435
 translate pt_br out_cont1_1_ab6ced44_6:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10438
 translate pt_br out_cont1_1_ab6ced44_7:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10441
 translate pt_br out_cont1_1_ab6ced44_8:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla ""
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
 
 # game/script.rpy:10444
 translate pt_br out_cont1_1_d6b48f27:
@@ -17830,7 +17830,7 @@ translate pt_br out_cont1_1_d6b48f27:
 translate pt_br out_cont1_1_491205c6:
 
     # "You've discovered three new locations!\n(Corpus Cafe) (The Beach) (BunBun Brothel)"
-    ""
+    "Você descobriu três locais novos!\n(Café Corpus) (A Praia) (Bordel BunBun)"
 
 # game/script.rpy:10448
 translate pt_br out_cont1_1_6b82b6fa:
@@ -17962,7 +17962,7 @@ translate pt_br out_cont2_1_abfe7193:
 translate pt_br out_cont2_1_f2a4d499:
 
     # abby "As faith drives us to work."
-    abby "Assim como a fé nos impulsiona a trabalahar."
+    abby "Assim como a fé nos impulsiona a trabalhar."
 
 # game/script.rpy:10492
 translate pt_br out_cont2_1_c465808f:
@@ -17998,7 +17998,7 @@ translate pt_br out_cont2_1_abfe7193_1:
 translate pt_br out_cont2_1_f2a4d499_1:
 
     # abby "As faith drives us to work."
-    abby "Assim como a fé nos impulsiona a trabalahar."
+    abby "Assim como a fé nos impulsiona a trabalhar."
 
 # game/script.rpy:10504
 translate pt_br out_cont2_1_6d124242:
