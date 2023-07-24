@@ -17764,7 +17764,7 @@ translate pt_br out_cont1_1_6550918b_1:
 translate pt_br out_cont1_1_b17767eb_1:
 
     # sla "{u}I{/u} think it looks nice."
-    sla ""{u}Eu{/u} acho bonito."
+    sla "{u}Eu{/u} acho bonito."
 
 # game/script.rpy:10423
 translate pt_br out_cont1_1_9a4fe45d_1:
@@ -18004,181 +18004,181 @@ translate pt_br out_cont2_1_f2a4d499_1:
 translate pt_br out_cont2_1_6d124242:
 
     # abby "Very well, but if you ever find yourself curious, our church is just three blocks north. You couldn't miss it."
-    abby ""
+    abby "Muito bem, mas se você ficar curioso, nossa igreja fica apenas a três quarteirões ao norte. Não tem como errar."
 
 # game/script.rpy:10505
 translate pt_br out_cont2_1_a33dfbfe:
 
     # abby "Farewell, enjoy your day."
-    abby ""
+    abby "Muito bem, aproveite seu dia."
 
 # game/script.rpy:10510
 translate pt_br out_cont2_1_ffb8957f:
 
     # abby "As I said, through Gaius, all things are possible."
-    abby ""
+    abby "Como eu disse, através de Gaius, todas as coisas são possíveis."
 
 # game/script.rpy:10511
 translate pt_br out_cont2_1_798ee352:
 
     # c "Can you make it rain?"
-    c ""
+    c "Você consegue fazer chover?"
 
 # game/script.rpy:10512
 translate pt_br out_cont2_1_9493796d:
 
     # abby "Haha, I can't make it rain... that's not what I meant."
-    abby ""
+    abby "Haha, eu não posso fazer chover... não é isso que eu quis dizer."
 
 # game/script.rpy:10514
 translate pt_br out_cont2_1_a0641836:
 
     # abby "Oh! Such enthusiasm is rare in these times. Our church is just three blocks north. You couldn't miss it!"
-    abby ""
+    abby "Ah! Tal entusiasmo é raro nestes tempos. Nossa igreja fica a apenas três quarteirões ao norte. Não tem como errar."
 
 # game/script.rpy:10515
 translate pt_br out_cont2_1_f6581ea2:
 
     # abby "We must be going now, have a good day!"
-    abby ""
+    abby "Temos que ir agora, tenha um bom dia!"
 
 # game/script.rpy:10518
 translate pt_br out_cont2_1_385298ef:
 
     # abby "I'm afraid I don't know. It does get tiring to hold after a while."
-    abby ""
+    abby "Eu receio não saber. Fica difícil de segurar depois de um tempo."
 
 # game/script.rpy:10521
 translate pt_br out_cont2_1_4ef3c82d:
 
     # abby "Sir, this is not the time!"
-    abby ""
+    abby "Senhor, este não é o momento!"
 
 # game/script.rpy:10522
 translate pt_br out_cont2_1_7e40a20e:
 
     # c "After work then?"
-    c ""
+    c "Depois do trabalho, então?"
 
 # game/script.rpy:10523
 translate pt_br out_cont2_1_678f7db1:
 
     # abby "Sir!"
-    abby ""
+    abby "Senhor!"
 
 # game/script.rpy:10524
 translate pt_br out_cont2_1_a0f85e92:
 
     # c "Fine, fine."
-    c ""
+    c "Tá bom, tá bom."
 
 # game/script.rpy:10527
 translate pt_br out_cont2_1_930d26dd:
 
     # abby "If you have any more questions, our church is just three blocks north! You couldn't miss it!"
-    abby ""
+    abby "Se você não tem mais nenhuma pergunta, nossa igreja fica a apenas três quarteirões ao norte. Não tem como errar!"
 
 # game/script.rpy:10528
 translate pt_br out_cont2_1_f6581ea2_1:
 
     # abby "We must be going now, have a good day!"
-    abby ""
+    abby "Temos que ir agora, tenha um bom dia!"
 
 # game/script.rpy:10529
 translate pt_br out_cont2_1_be7f9017:
 
     # c "Bye."
-    c ""
+    c "Tchau."
 
 # game/script.rpy:10534
 translate pt_br out_cont2_1p2_725ebe29:
 
     # c "{i}That was strange... I've never seen something like that before.{/i}"
-    c ""
+    c "{i}Aquilo foi estranho... Eu nunca vi nada parecido antes.{/i}"
 
 # game/script.rpy:10535
 translate pt_br out_cont2_1p2_aaec2249:
 
     # q "Nnnngh...! Ah..."
-    q ""
+    q "Nnnngh...! Ah..."
 
 # game/script.rpy:10537
 translate pt_br out_cont2_1p2_3ba31dd1:
 
     # q "Oh, excuse me sir, I nearly bumped into you. My apologies."
-    q ""
+    q "Ah, com licença senhor, eu quase esbarrei em você. Peço desculpas."
 
 # game/script.rpy:10541
 translate pt_br out_cont2_1p2_04359d49:
 
     # q "Indeed, I will..."
-    q ""
+    q "Na verdade"
 
 # game/script.rpy:10544
 translate pt_br out_cont2_1p2_6a66dcb8:
 
     # c "I'll get out of your way."
-    c ""
+    c "Eu vou sair do seu caminho."
 
 # game/script.rpy:10545
 translate pt_br out_cont2_1p2_808c8b7c:
 
     # q "Thank you, this back isn't what it was a century ago, hahaha..."
-    q ""
+    q "Obrigada, essas costas não são mais o que eram a um século atrás, hahaha..."
 
 # game/script.rpy:10548
 translate pt_br out_cont2_1p2_5123ec05:
 
     # q "I'm sorry?"
-    q ""
+    q "Perdão?"
 
 # game/script.rpy:10549
 translate pt_br out_cont2_1p2_e4024baa:
 
     # c "I can take that for you."
-    c ""
+    c "Eu posso levar isso para a senhora."
 
 # game/script.rpy:10551
 translate pt_br out_cont2_1p2_a15764b2:
 
     # q "{i}...I don't think that would be perceived well. I wouldn't want to come across as lazy.{/i}"
-    q ""
+    q "{i}...Eu acho que isso não seria bem visto. Não quero acabar me passando por preguiçoso.{/i} "
 
 # game/script.rpy:10552
 translate pt_br out_cont2_1p2_5d2a9f51:
 
     # c "{i}What she doesn't know won't hurt her.{/i}"
-    c ""
+    c "{i}O que ela não sabe não vai machucá-la.{/i}"
 
 # game/script.rpy:10553
 translate pt_br out_cont2_1p2_f6c52aad:
 
     # q "{i}I'm sorry, sir, I would not risk it. But thank you... good day.{/i}"
-    q ""
+    q "{i}Sinto muito, senhor, eu não assumiria o risco. Mas obrigado... bom dia.{/i}"
 
 # game/script.rpy:10554
 translate pt_br out_cont2_1p2_dd59507e:
 
     # c "{i}Are you sure?{/i}"
-    c ""
+    c "{i}Você tem certeza{/i}"
 
 # game/script.rpy:10555
 translate pt_br out_cont2_1p2_28f474e8:
 
     # q "{i}Yes, please just go... I've already been delayed enough.{/i}"
-    q ""
+    q "{i}Sim, por favor apenas vá... Eu já me atrasei bastante.{/i}"
 
 # game/script.rpy:10558
 translate pt_br out_cont2_1p2_19866a76:
 
     # c "{i}This place is different than I expected it would be, there are no slaves back home.{/i}"
-    c ""
+    c "{i}Esse lugar é diferente de como eu esperava que seria, não há escravos em casa.{/i}"
 
 # game/script.rpy:10559
 translate pt_br out_cont2_1p2_9003e89c:
 
     # c "{i}And that saint, how was she able to make water float like that? There must be some trick to it...{/i}"
-    c ""
+    c "{i}E aquela santa, como ela conseguiu fazer a água flutuar daquele jeito? Deve ter algum truque para isso...{/i}"
 
 # game/script.rpy:10562
 translate pt_br out_cont2_1p2_d6b48f27:
@@ -18190,7 +18190,7 @@ translate pt_br out_cont2_1p2_d6b48f27:
 translate pt_br out_cont2_1p2_e87acc6a:
 
     # "You've discovered one new location!\n(The Church)"
-    ""
+    "Você descobriu um novo local!\n(A Igreja)"
 
 # game/script.rpy:10566
 translate pt_br out_cont2_1p2_6b82b6fa:
@@ -18214,283 +18214,283 @@ translate pt_br out_cont2_1p2_875c529f:
 translate pt_br out_cont3_1_d9d02710:
 
     # c "{i}So this part of the city is called Old Town... it sure lives up to the name.{/i}"
-    c ""
+    c "{i}Então essa parte da cidade é chamada de Cidade Velha... com certeza faz juz ao nome.{/i}"
 
 # game/script.rpy:10579
 translate pt_br out_cont3_1_8c55fa5e:
 
     # c "{i}...I hope she's okay.{/i}"
-    c ""
+    c "{i}...Eu espero que ela esteja bem.{/i}"
 
 # game/script.rpy:10581
 translate pt_br out_cont3_1_5db18200:
 
     # cat "Mew?"
-    cat ""
+    cat "Miau?"
 
 # game/script.rpy:10582
 translate pt_br out_cont3_1_cad4a682:
 
     # c "Hey little guy. Sorry, I don't have any food on me. Maybe next time."
-    c ""
+    c "Ei carinha. Desculpa, não tenho nenhuma comida comigo. Talvez na próxima."
 
 # game/script.rpy:10584
 translate pt_br out_cont3_1_e2c75917:
 
     # cat "Mow."
-    cat ""
+    cat "Miau."
 
 # game/script.rpy:10585
 translate pt_br out_cont3_1_d512dfa8:
 
     # c "You fit right in, don't ya?"
-    c ""
+    c "Você cabe direitinho, não é?"
 
 # game/script.rpy:10587
 translate pt_br out_cont3_1_ea09624b:
 
     # pol "What's in the paper bag?"
-    pol ""
+    pol "O que tem no saco de papel?"
 
 # game/script.rpy:10588
 translate pt_br out_cont3_1_98c8b7a9:
 
     # hless "Who cares what's in the bag, man?"
-    hless ""
+    hless "Quem liga para o que está no saco, madame?"
 
 # game/script.rpy:10589
 translate pt_br out_cont3_1_1ea95d40:
 
     # pol "I clearly do. Show me what's in the bag or get out of here."
-    pol ""
+    pol "Claramente eu. Me mostra o que tem no saco ou cai fora daqui."
 
 # game/script.rpy:10590
 translate pt_br out_cont3_1_0014acdf:
 
     # hless "Why do I gotta do whatever you say? Don't you need a... piece of paper or something?"
-    hless ""
+    hless "Por que eu tenho que fazer qualquer coisa que você disser? Você não precisa de... um pedaço de papel oua lguma coisa assim?"
 
 # game/script.rpy:10592
 translate pt_br out_cont3_1_a6a81e5c:
 
     # pol "You're very clearly high on naki, your eyes are bluer than the fucking sky."
-    pol ""
+    pol "Você claramente está chapado de naki, seus olhos esão mais azuis que a porra do céu."
 
 # game/script.rpy:10593
 translate pt_br out_cont3_1_db713145:
 
     # hless "I've built up a tolerance, it's fine."
-    hless ""
+    hless "Eu desenvolvi uma tolerância, está tudo bem."
 
 # game/script.rpy:10594
 translate pt_br out_cont3_1_104df88a:
 
     # pol "Yeah I'm sure you have. Now get out of here."
-    pol ""
+    pol "É, é claro que sim. Agrora cai fora daqui."
 
 # game/script.rpy:10596
 translate pt_br out_cont3_1_0fd70621:
 
     # hless "Hey, who made fun illegal man? I ain't hurting no one but myself."
-    hless ""
+    hless "Ei, quem fez a diversão virar um crime? Eu não estou prejudicando a ninguém além de mim mesmo."
 
 # game/script.rpy:10597
 translate pt_br out_cont3_1_15937b3b:
 
     # pol "Me. I made fun illegal. Now get up, and get out."
-    pol ""
+    pol "Eu. Eu fiz a diversão virar um crime. Agora levanta, e cai fora."
 
 # game/script.rpy:10598
 translate pt_br out_cont3_1_b7fa0d0e:
 
     # hless "Pff, whatever man."
-    hless ""
+    hless "Pff, que seja."
 
 # game/script.rpy:10600
 translate pt_br out_cont3_1_3c79c71f:
 
     # hless "'Sup."
-    hless ""
+    hless "Eae."
 
 # game/script.rpy:10601
 translate pt_br out_cont3_1_6190f4db:
 
     # c "Hey."
-    c ""
+    c "Ei."
 
 # game/script.rpy:10602
 translate pt_br out_cont3_1_8f1fe8f6:
 
     # pol "Keep walking."
-    pol ""
+    pol "Vai andando."
 
 # game/script.rpy:10604
 translate pt_br out_cont3_1_3558d545:
 
     # c "{i}This probably isn't somewhere I want to be when it gets dark... people have it rough out here.{/i}"
-    c ""
+    c "{i}Esse provavelmente é um lugar que eu não vou querer estar quando escurecer... as pessoas têm uma vida difícil aqui.{/i}"
 
 # game/script.rpy:10606
 translate pt_br out_cont3_1_228bcf7f:
 
     # c "{i}...I wonder what her story is.{/i}"
-    c ""
+    c "{i}...Me pergunto qual seja a história dela.{/i}"
 
 # game/script.rpy:10615
 translate pt_br out_cont3_1_fd58575f:
 
     # q "Need a room?"
-    q ""
+    q "Precisa de um quarto?"
 
 # game/script.rpy:10616
 translate pt_br out_cont3_1_192aaadd:
 
     # c "Not today, thank you."
-    c ""
+    c "Hoje não, obrigado."
 
 # game/script.rpy:10618
 translate pt_br out_cont3_1_f9d863f3:
 
     # c "{i}...Good, I still have reception out here. Can't be too safe...{/i}"
-    c ""
+    c "{i}...Bom, eu ainda tenho recepção aqui. Não deve ser muito seguro...{/i}"
 
 # game/script.rpy:10620
 translate pt_br out_cont3_1_e065b448:
 
     # q "Hey, hey, hold on."
-    q ""
+    q "Ei, ei, calma aí."
 
 # game/script.rpy:10621
 translate pt_br out_cont3_1_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:10622
 translate pt_br out_cont3_1_5dcac93f:
 
     # q "You looking to make some money real quick?"
-    q ""
+    q "Está a fim de ganhar um diheiro rapidinho?"
 
 # game/script.rpy:10624
 translate pt_br out_cont3_1_37167998:
 
     # c "What kind of money?"
-    c ""
+    c "Que tipo de dinheiro?"
 
 # game/script.rpy:10625
 translate pt_br out_cont3_1_4df1fc84:
 
     # q "The kind you can use. I need someone to go to The Slums and pick something up for me."
-    q ""
+    q "O tipo que você pode usar. Eu preciso que alguém vá às Favelas e pegue algo para mim."
 
 # game/script.rpy:10628
 translate pt_br out_cont3_1_5e4c27dd:
 
     # q "I would if I could, jackass, but I'm under house arrest. If I step another foot out this doorway that cop is going to know."
-    q ""
+    q "Eu iria se eu pudesse, imbecil, mas eu estou em prisão domiciliar. Se eu colocar um pé para fora dessa porta a polícia vai saber. "
 
 # game/script.rpy:10629
 translate pt_br out_cont3_1_6b38ed8f:
 
     # c "What are you under house arrest for?"
-    c ""
+    c "Por que você está em prisão domiciliar."
 
 # game/script.rpy:10631
 translate pt_br out_cont3_1_935a17fe:
 
     # q "Are you being serious right now?"
-    q ""
+    q "Você está falando sério agora?"
 
 # game/script.rpy:10632
 translate pt_br out_cont3_1_fb028a96:
 
     # c "I need to know who I'm doing business with."
-    c ""
+    c "Eu preciso saber com quem eu estou trabalhando."
 
 # game/script.rpy:10633
 translate pt_br out_cont3_1_6bd26b3c:
 
     # q "Fine... cops caught me with a plastic bag full of naki."
-    q ""
+    q "Certo... a polícia me pegou com uma sacola de plástico cheia de naki."
 
 # game/script.rpy:10634
 translate pt_br out_cont3_1_30bdcb1d:
 
     # q "Wasn't going to use it, obviously. Was only going to sell it. Now I gotta sit here a few weeks... anyway, I'll give you $30 for a discrete delivery."
-    q ""
+    q "Eu não ia usar aquilo, obviamente. Eu estava apenas indo vender. Agora eu tenho que ficar sentado aqui por umas semanas... enfim, eu te dou $30 para fazer uma estrega discretamente."
 
 # game/script.rpy:10637
 translate pt_br out_cont3_1_22c31dbc:
 
     # q "There's a package with a flower on it behind a dumpster in a courtyard 2 blocks south of here. It's just been sittin' there for 3 fuckin' days and I need to get it."
-    q ""
+    q "Tem um pacote com uma flor nele atrás de um lixão em um pátio a dois quarteirões ao sul daqui. Aquilo está parado lá pela porra de 3 dias e eu preciso pegar."
 
 # game/script.rpy:10638
 translate pt_br out_cont3_1_94ae5c8f:
 
     # q "So listen, I'm a little desperate. I'm willing to pay $30 for a discrete delivery. Just don't look inside if you want plausible deniability."
-    q ""
+    q "Então escuta aqui, eu estou meio desesperado. Estou disposto a pagar $30 por uma entrega discreta. Só não olhe dentro se você quiser uma negação plausível."
 
 # game/script.rpy:10639
 translate pt_br out_cont3_1_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:10640
 translate pt_br out_cont3_1_42087ffc:
 
     # q "Hey, at least I'm bein' honest. It's not like it was hard to guess, right?"
-    q ""
+    q "Ei, pelo menos eu estou sendo honeesto. Não é como se você difícil adivinhar, não é?"
 
 # game/script.rpy:10643
 translate pt_br out_cont3_1_c0735e97:
 
     # q "Listen! I'm a little desperate here, so I'm willing to pay a good amount for a discrete delivery! How does $30 sound? It's not going to take you long at all!"
-    q ""
+    q "Escuta aqui! Eu estou meio desesperado aqui, então estou pensando em te dar uma quantia boa por uma entrega discreta! O que você acha de $30? Não é como se fosse te tomar tanto tempo assim!"
 
 # game/script.rpy:10644
 translate pt_br out_cont3_1_974d9580:
 
     # c "I was just about to head back home actually..."
-    c ""
+    c "Na verdade eu já estava voltando para casa..."
 
 # game/script.rpy:10645
 translate pt_br out_cont3_1_6aa8d4b1:
 
     # q "Come on man, cops ain't gonna think twice about someone like you. Besides, as long as you don't look inside you got plausible deniability. So what do you say?"
-    q ""
+    q "Vamos cara, a polícia não vai pensar duas vezes sobre alguém como você. E além disso, desde que você não olhe dentro você vai ter uma negação plausível. Então o que você me diz?"
 
 # game/script.rpy:10650
 translate pt_br out_cont3_1_15584e8b:
 
     # q "Good. You get your money in full when I get my package. Remember, it's in The Slums, it's a package with a flower on it behind a blue dumpster. And don't tell me that shit went missing, because I know it's there."
-    q ""
+    q "Boa. Você vai receber o seu dinheiro inteiro quando eu receber o meu pacote. Lmebre-se, está nas Favelas, eé um pacote com uma flor nele atrás de um lixão azul. E nem vem me dizer que aquela merda sumiu, porque eu sei que está lá."
 
 # game/script.rpy:10651
 translate pt_br out_cont3_1_416633cd:
 
     # q "I'll be here, not like I can go anywhere... now hurry the fuck up before someone else finds it."
-    q ""
+    q "Eu vou estar aqui, não é como se eu pudesse estar em outro lugar.... Agora vai logo antes que alguém encontre aquilo."
 
 # game/script.rpy:10654
 translate pt_br out_cont3_1_506de6ed:
 
     # q "Fine, your loss. Woulda been the quickest 30 Syls of your life too."
-    q ""
+    q "Beleza, pior pra você. Teriam sido os 30 syls mais rápidos da sua vida também."
 
 # game/script.rpy:10657
 translate pt_br out_cont3_1_5d2ff1b8:
 
     # c "{i}...I guess I can always change my mind, or turn that package into a police station if it's still there.{/i}"
-    c ""
+    c "{i}...Acho que sempre posso mudar de ideia, ou levar aquele pacote para a delegacia de polícia se ainda estiver lá.{/i}"
 
 # game/script.rpy:10658
 translate pt_br out_cont3_1_8eec879d:
 
     # c "{i}I should get out of here though, enough exploring for one day.{/i}"
-    c ""
+    c "{i}Mas eu devia cair fora daqui, já é o bastante de exploração por hoje.{/i}"
 
 # game/script.rpy:10660
 translate pt_br out_cont3_1_d6b48f27:
@@ -18502,7 +18502,7 @@ translate pt_br out_cont3_1_d6b48f27:
 translate pt_br out_cont3_1_1199b85a:
 
     # "You've discovered one new location!\n(The Slums)"
-    ""
+    "Você descobriu um local novo!\n(As Favelas)"
 
 # game/script.rpy:10664
 translate pt_br out_cont3_1_6b82b6fa:
