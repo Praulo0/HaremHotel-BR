@@ -17398,7 +17398,7 @@ translate pt_br out_cont1_1_e5bd72a5:
 translate pt_br out_cont1_1_1680c87d:
 
     # copbot "If you are low on energy, and would like a pick-me-up, consider: The Corpus Cafe - located three blocks north. By humans; for humans."
-    copbot "Se você estiver com pouca energia, e quiser um estimulante, considere: O Café Corpus - localizado a três quarteirões ao norte. Por humanos; para humanos. "
+    copbot "Se você estiver com pouca energia, e quiser um estimulante, considere: A Cafeteria Corpus - localizado a três quarteirões ao norte. Por humanos; para humanos. "
 
 # game/script.rpy:10300
 translate pt_br out_cont1_1_1d0fdf09:
@@ -17830,7 +17830,7 @@ translate pt_br out_cont1_1_d6b48f27:
 translate pt_br out_cont1_1_491205c6:
 
     # "You've discovered three new locations!\n(Corpus Cafe) (The Beach) (BunBun Brothel)"
-    "Você descobriu três locais novos!\n(Café Corpus) (A Praia) (Bordel BunBun)"
+    "Você descobriu três locais novos!\n(Cafeteria Corpus) (A Praia) (Bordel BunBun)"
 
 # game/script.rpy:10448
 translate pt_br out_cont1_1_6b82b6fa:
@@ -18526,331 +18526,331 @@ translate pt_br out_cont3_1_875c529f:
 translate pt_br explore_cafe1_06010f17:
 
     # c "{i}This place looks nice.{/i}"
-    c ""
+    c "{i}Esse lugar parece ser agradável.{/i}"
 
 # game/script.rpy:10684
 translate pt_br explore_cafe1_f2be0088:
 
     # mono "Excuse me, sir! What is your occupation?"
-    mono ""
+    mono "Com licença, senhor! Qual é o seu trabalho?"
 
 # game/script.rpy:10685
 translate pt_br explore_cafe1_30e5978e:
 
     # c "Hm? Oh, I run a hotel."
-    c ""
+    c "Hm? Ah, eu administro um hotel."
 
 # game/script.rpy:10686
 translate pt_br explore_cafe1_a8dc1031:
 
     # mono "Wonderful! Have you considered upgrading your slaves to the next generation? Come on! Don't be stuck in the past, buy an android from Monotech! They'll never complain and they work day and night!"
-    mono ""
+    mono "Maravilha! Você já considerou aprimorar os seus escravos para a próxima geração? Vamos! Não fique preso no passado, compre uma andróide da Monotech! Eles nunca reclamam e eles trabalham dia e noite!"
 
 # game/script.rpy:10687
 translate pt_br explore_cafe1_fe482483:
 
     # c "Those things behind you?"
-    c ""
+    c "Essas coisas atrás de você?"
 
 # game/script.rpy:10688
 translate pt_br explore_cafe1_1a37898f:
 
     # mono "That's right! Monotech's civilian service models are beautiful, aren't they? Every part is functional, and I do mean {u}every{/u} part!"
-    mono ""
+    mono "Correto! Os modelos de serviço civil da monotech são bonitos, não são? Cada parte é funcional, e eu quero dizer {u}cada{/u} parte!"
 
 # game/script.rpy:10689
 translate pt_br explore_cafe1_080ebc30:
 
     # mono "They're fully customizable, down to each individual part's size and color as well! The ones behind me are just the default models, though the government is pretty serious about keeping their facial markings to distinguish them from the rest of us."
-    mono ""
+    mono "Eles são totalmente customizáveis, inclusive cada parte e cor também! Esses atrás de mim são só os modelos padrões, embora o governo esteja muito sério em manter suas marcas faciais para distingui-las do resto de nós."
 
 # game/script.rpy:10690
 translate pt_br explore_cafe1_fb00336c:
 
     # c "How much?"
-    c ""
+    c "Quanto custam?"
 
 # game/script.rpy:10691
 translate pt_br explore_cafe1_a34dd212:
 
     # mono "I can offer you one of the models behind me for just 10,000 Syls!"
-    mono ""
+    mono "Eu posso te oferecer um dos nossos modelos atrás de mim por apenas 10,000 Syls!"
 
 # game/script.rpy:10692
 translate pt_br explore_cafe1_d55f599e:
 
     # c "Oh, you should have lead with {i}'do you have enough disposable income to buy a yacht'{/i}, because there's no way I can afford that right now. I just moved here."
-    c ""
+    c "Ah, você deveria ter começado com {i}'Você tem renda disponível suficiente para comprar um iate'{/i}, porque de jeito nenhum que eu poderia pagar por um agora. Eu acabei de me mudar para cá."
 
 # game/script.rpy:10693
 translate pt_br explore_cafe1_eeac8d00:
 
     # mono "But you did say you were a business owner! Come on, they pay for themselves! They can do 8 times the work an elf can!"
-    mono ""
+    mono "Mas você disse que é dono de um negócio! Vamos, eles pagam por si mesmos! Eles podem fazer 8 vezes o trabalho que um elfo faz!"
 
 # game/script.rpy:10694
 translate pt_br explore_cafe1_4e0601c8:
 
     # mono "Buy today and I'll throw in a haptic suit and visor so you can really feel what its like to be one of them!"
-    mono ""
+    mono "Compre hoje e eu vou incluir junto um terno e viseira hápticos para você poder realmente sentir como é ser um deles!"
 
 # game/script.rpy:10695
 translate pt_br explore_cafe1_ab6bbad2:
 
     # c "Maybe another time."
-    c ""
+    c "Talvez na próxima."
 
 # game/script.rpy:10696
 translate pt_br explore_cafe1_6dd79c92:
 
     # mono "I won't be here tomorrow, so decide fast!"
-    mono ""
+    mono "Eu não vou estar aqui amanhã, então decida logo!"
 
 # game/script.rpy:10697
 translate pt_br explore_cafe1_63ea9cf4:
 
     # c "Sure..."
-    c ""
+    c "Claro..."
 
 # game/script.rpy:10699
 translate pt_br explore_cafe1_00cf3bed:
 
     # c "{i}Hmm, what should I get?{/i}"
-    c ""
+    c "{i}Hmm, o que devo pedir?{/i}"
 
 # game/script.rpy:10700
 translate pt_br explore_cafe1_a06526a2:
 
     # ba "Thank you sir, your order will be right with you. Please have a seat."
-    ba ""
+    ba "Obrigado senhor, seu pedido vai chegar em breve. Por favor sente-se. "
 
 # game/script.rpy:10701
 translate pt_br explore_cafe1_93c78b92:
 
     # ba "Next please!"
-    ba ""
+    ba "Próximo por favor!"
 
 # game/script.rpy:10703
 translate pt_br explore_cafe1_1b8c2db2:
 
     # ba "Welcome to the Corpus Cafe, what can I get for you today?"
-    ba ""
+    ba "Bem vindo a Cafeteria Corpus, como posso te ajudar hoje?"
 
 # game/script.rpy:10704
 translate pt_br explore_cafe1_804ed54b:
 
     # c "I'll have one cappuccino, please."
-    c ""
+    c "Eu quero um cappuccino, por favor."
 
 # game/script.rpy:10705
 translate pt_br explore_cafe1_6d5f2c9e:
 
     # ba "Will that be all?"
-    ba ""
+    ba "Isso é tudo?"
 
 # game/script.rpy:10706
 translate pt_br explore_cafe1_26eefe0a:
 
     # c "Yes."
-    c ""
+    c "Sim."
 
 # game/script.rpy:10707
 translate pt_br explore_cafe1_9e497c24:
 
     # "You scan your phone to pay for the order."
-    ""
+    "Você escaneia o seu celular para pagar pelo pedido."
 
 # game/script.rpy:10708
 translate pt_br explore_cafe1_a06526a2_1:
 
     # ba "Thank you sir, your order will be right with you. Please have a seat."
-    ba ""
+    ba "Obrigada senhor, seu pedido vai chegar em breve. Por favor sente-se."
 
 # game/script.rpy:10710
 translate pt_br explore_cafe1_2130d0d0:
 
     # c "{i}This place isn't too far from the bus stop, if it's good I'll have to remember it.{/i}"
-    c ""
+    c "{i}Esse lugar não é muito longe do ponto de ônibus, se for bom, eu vou precisar lembrar disso.{/i}"
 
 # game/script.rpy:10711
 translate pt_br explore_cafe1_3a60e9b9:
 
     # q "Isn't that crazy?"
-    q ""
+    q "Isso não é loucura?"
 
 # game/script.rpy:10713
 translate pt_br explore_cafe1_b190e9f1:
 
     # q "You would think that with all this technology, we would have figured out a way to replace slaves by now..."
-    q ""
+    q "Você não acha que com toda essa tecnologia, nós já deveriamos ter encontrado alguma maneira de substituir os escravos a essa altura..."
 
 # game/script.rpy:10714
 translate pt_br explore_cafe1_df72d121:
 
     # c "What's that?"
-    c ""
+    c "Como é?"
 
 # game/script.rpy:10716
 translate pt_br explore_cafe1_d888c0a3:
 
     # q "Sorry, I saw you talking to that guy in the haptic suit earlier. He tried to sell one to me too, but I can barely afford rent... he's getting pretty desperate isn't he?"
-    q ""
+    q "Desculpa, eu vi você conversando com aquele cara no terno háptico anstes. Ele tentou vender um para mim também, mas eu mal posso pagar meu aluguel... ele está ficando bem desesperado né?"
 
 # game/script.rpy:10717
 translate pt_br explore_cafe1_2d6e1143:
 
     # c "Yeah, I guess so."
-    c ""
+    c "É, acho que sim."
 
 # game/script.rpy:10719
 translate pt_br explore_cafe1_6cf6fc7c:
 
     # q "Putting in all of that useless tech only makes them more expensive. They're basically futuristic sex dolls at this point. I guess there's a market for it, but it still kind of makes me sad to see."
-    q ""
+    q "Colocando toda essas tecnologias inúteis  só vai torná-los mais caros. Eles são basicamente bonecos sexuais futuristas a esse ponto. Eu acho que existe um mercado para isso, mas ainda assim, me faz meio triste ver isso."
 
 # game/script.rpy:10720
 translate pt_br explore_cafe1_58a57f8c:
 
     # q "I guess if humans are good at anything, it's trying to find some way to be lazier, right? Not me though, I'm still trying to find a job..."
-    q ""
+    q "Acho que se os humanos bons em uma coisa, é tentar encontrar uma forma de ficarem ainda mais preguiçosos, né? Mas eu não, eu ainda estou tentando encontrar um trabalho..."
 
 # game/script.rpy:10722
 translate pt_br explore_cafe1_2c680222:
 
     # eri "My name is Eris, by the way."
-    eri ""
+    eri "O meu nome é Eris, aliás."
 
 # game/script.rpy:10723
 translate pt_br explore_cafe1_26a1cbab:
 
     # c "Mine is [name]. It's nice to meet you.\nHave you tried applying here?"
-    c ""
+    c "O meu é [name]. Prazer em conheçe-la.\nVocê já tentou se candidatar aqui?"
 
 # game/script.rpy:10724
 translate pt_br explore_cafe1_9db3a7b8:
 
     # eri "That's actually why I'm here! Well, and the coffee, haha."
-    eri ""
+    eri "Na verdade é por isso que estou aqui! Bem, e pelo café, haha."
 
 # game/script.rpy:10725
 translate pt_br explore_cafe1_c5f84d67:
 
     # eri "I've been looking for a new job, and this company only hires humans to work here, so I think my chances might be good!"
-    eri ""
+    eri "Eu estive procurando por um trabalhoh novo, e essa companhia só contrata humanos para trabalhar aqui, então eu acho que minhas chances podem ser boas!"
 
 # game/script.rpy:10726
 translate pt_br explore_cafe1_1ca4538f:
 
     # eri "It's a bit out of the way though, and I've never done anything like this before, so I don't know... maybe."
-    eri ""
+    eri "Mas é meio contramão, e eu nunca fiz nada assim antes, então eu não sei... vai ver."
 
 # game/script.rpy:10727
 translate pt_br explore_cafe1_e7aee692:
 
     # c "You should try, it looks like they could use the help."
-    c ""
+    c "Você deveria tentar, parece que sua ajuda pode ser útil para eles."
 
 # game/script.rpy:10728
 translate pt_br explore_cafe1_17118e38:
 
     # eri "Really? You think I'll have a chance?"
-    eri ""
+    eri "É mesmo? Você acha que eles vão me dar uma chance?"
 
 # game/script.rpy:10729
 translate pt_br explore_cafe1_9e25cf4d:
 
     # c "Absolutely."
-    c ""
+    c "Com certeza."
 
 # game/script.rpy:10731
 translate pt_br explore_cafe1_4c48df65:
 
     # ba "Here you are, sir. Your cappuccino."
-    ba ""
+    ba "Aqui  está, senhor. Seu cappuccino."
 
 # game/script.rpy:10732
 translate pt_br explore_cafe1_e897fbb0:
 
     # c "Thank you."
-    c ""
+    c "Obrigado."
 
 # game/script.rpy:10734
 translate pt_br explore_cafe1_a7b9a354:
 
     # ba "Can I help you with anything else?"
-    ba ""
+    ba "Posso te ajudar com mais alguma coisa?"
 
 # game/script.rpy:10737
 translate pt_br explcaf_6a469ef2:
 
     # ba "Oh, it's been years! My sister and I helped our parents build this place by hand when we were younger! Took a little convincing from the city, but it was worth it!"
-    ba ""
+    ba "Ah, já fazem anos! A minha irmã e eu ajudamos nossos pais a construir esse lugar à mão quando eramos mais novas! Levou um tempo para convencer a cidade, mas valeu a pena!"
 
 # game/script.rpy:10738
 translate pt_br explcaf_b41e4d82:
 
     # c "You've worked here all your life?"
-    c ""
+    c "Você trabalhou aqui a vida inteira?"
 
 # game/script.rpy:10739
 translate pt_br explcaf_f491d72b:
 
     # ba "I have."
-    ba ""
+    ba "Trabalhei sim."
 
 # game/script.rpy:10742
 translate pt_br explcaf_4132287d:
 
     # ba "I'm sorry?"
-    ba ""
+    ba "Perdão?"
 
 # game/script.rpy:10743
 translate pt_br explcaf_4d0f5902:
 
     # c "I mean, why work if you don't have to?"
-    c ""
+    c "Quero dizer, por que trabalhar se você não precisa?"
 
 # game/script.rpy:10744
 translate pt_br explcaf_003f8a07:
 
     # ba "Oh, well the charm of this business is that you're served by a human. I think you'll find it tastes better that way."
-    ba ""
+    ba "Ah, bem, o charme desse negócio é que vocês são servido por um humano. Acho que assim vocês podem gostar mais."
 
 # game/script.rpy:10747
 translate pt_br explcaf_59f5e10c:
 
     # ba "I'm afraid not, I'm busy all day. Why do you ask?"
-    ba ""
+    ba "Receio que não, eu estou ocupado o dia todo. Por que pergunta?"
 
 # game/script.rpy:10748
 translate pt_br explcaf_c2494032:
 
     # c "Nevermind..."
-    c ""
+    c "Esquece..."
 
 # game/script.rpy:10751
 translate pt_br explcaf_d0eae98d:
 
     # ba "Heheh, that's just makeup sir, don't worry."
-    ba ""
+    ba "Heheh, não se preocupe, isso é ó maquiagem."
 
 # game/script.rpy:10754
 translate pt_br explcaf_126e1526:
 
     # c "That's all, thanks."
-    c ""
+    c "Isso é tudo, obrigado."
 
 # game/script.rpy:10755
 translate pt_br explcaf_c060f746:
 
     # ba "Very well, enjoy!"
-    ba ""
+    ba "Muito bem, aproveite!"
 
 # game/script.rpy:10757
 translate pt_br explcaf_e3f20900:
 
     # "Your cappuccino was amazing! \nYou decide to note this place down for later and return to the city."
-    ""
+    "Seu cappuccino estáva incrivel! \nVocê decide anotar esse lugar para depois e volta para a cidade."
 
 # game/script.rpy:10758
 translate pt_br explcaf_d6b48f27:
@@ -18880,133 +18880,133 @@ translate pt_br explcaf_875c529f:
 translate pt_br explore_cafe2_14932c60:
 
     # c "{i}Oh hey, there's that girl from the other day.{/i}"
-    c ""
+    c "{i}Ah ei, essa é aquela menina do outro dia.{/i}"
 
 # game/script.rpy:10776
 translate pt_br explore_cafe2_86825666:
 
     # ba "Welcome back! What can I get for you?"
-    ba ""
+    ba "Bem vindo de volta! O que posso fazer por você?"
 
 # game/script.rpy:10777
 translate pt_br explore_cafe2_30a2039f:
 
     # eri "Um, I'd actually like to apply for a job."
-    eri ""
+    eri "Hum, na verdade eu gostaria de me candidatar para um emprego."
 
 # game/script.rpy:10778
 translate pt_br explore_cafe2_a6049217:
 
     # ba "Oh, a job?"
-    ba ""
+    ba "Ah, um emprego?"
 
 # game/script.rpy:10779
 translate pt_br explore_cafe2_0ada7975:
 
     # eri "Yep! Um, I put my resume in this envelope! Just like the old days, heheh... here!"
-    eri ""
+    eri "Isso! Hum, eu coloquei o meu currículo nesse envelope! Como nos velhos tempos, heheh... aqui!"
 
 # game/script.rpy:10781
 translate pt_br explore_cafe2_8a223fac:
 
     # ba "Oh, wow...!"
-    ba ""
+    ba "Ah, uau...!"
 
 # game/script.rpy:10782
 translate pt_br explore_cafe2_1cba94ec:
 
     # eri "I can do an interview now if you'd like! And I can start whenever. I really need the money."
-    eri ""
+    eri "Eu posso fazer uam entrevista agora mesmo se você quiser, e eu posso começar a qualquer hora. Eu realmente preciso do dinheiro."
 
 # game/script.rpy:10783
 translate pt_br explore_cafe2_7ea14ab2:
 
     # ba "Umm...\nWell... I don't really know how to put this..."
-    ba ""
+    ba "Humm...\nBem... Eu realmente não sei bem como dizer isso..."
 
 # game/script.rpy:10785
 translate pt_br explore_cafe2_b0fb4a97:
 
     # ba "I'm sorry, but, we can't hire you at the Corpus Cafe..."
-    ba ""
+    ba "Eu sinto muito, mas, nós não podemos te contratar no Café Corpus"
 
 # game/script.rpy:10786
 translate pt_br explore_cafe2_8d0c8a39:
 
     # eri "What? Why?"
-    eri ""
+    eri "O quê? Por que?"
 
 # game/script.rpy:10787
 translate pt_br explore_cafe2_6016b455:
 
     # ba "It's your eyes... they complicate things... they're dark elvish, right?"
-    ba ""
+    ba "São os seus olhos... eles tornam as coisas mais complicadas... eles são de elfo negro, não são?"
 
 # game/script.rpy:10789
 translate pt_br explore_cafe2_a5e9a4f3:
 
     # eri "I can see just fine! Well, I need sunglasses when it gets really bright, but I can see fine in here!"
-    eri ""
+    eri "Eu consigo enxergar bem! Bem, eu preciso de óculos escuros quando fica muito claro, mas eu consigo enxergar bem aqui!"
 
 # game/script.rpy:10790
 translate pt_br explore_cafe2_a304da7c:
 
     # ba "It's not that...\nI mean, well, I know you're human of course, but what will everyone else think? We have a reputation to uphold."
-    ba ""
+    ba "Não é isso...\nQuero dizer, bem, eu sei que você é humana, é claro, mas o que os outros vão pensar? Nós temos uma reputação a preservar."
 
 # game/script.rpy:10791
 translate pt_br explore_cafe2_ca6381aa:
 
     # eri "But..."
-    eri ""
+    eri "Mas..."
 
 # game/script.rpy:10792
 translate pt_br explore_cafe2_11a8a01a:
 
     # ba "Have you tried Papa Ron's? I hear they hire all types!"
-    ba ""
+    ba "Você já tentou no Papa Ron? Eu ouvi dizer que eles contratam todos os tipos!"
 
 # game/script.rpy:10794
 translate pt_br explore_cafe2_aeaa75f8:
 
     # eri "*sigh*... dammit..."
-    eri ""
+    eri "*suspiro*... droga..."
 
 # game/script.rpy:10795
 translate pt_br explore_cafe2_7611efb4:
 
     # ba "..."
-    ba ""
+    ba "...."
 
 # game/script.rpy:10796
 translate pt_br explore_cafe2_5b0849c7:
 
     # ba "Um... excuse me... if you're not going to order anything..."
-    ba ""
+    ba "Hum... com licença... se você não vai pedir nada..."
 
 # game/script.rpy:10797
 translate pt_br explore_cafe2_8a49a853:
 
     # eri "Yeah, I'll go..."
-    eri ""
+    eri "Sim, eu vou embora..."
 
 # game/script.rpy:10798
 translate pt_br explore_cafe2_633a101c:
 
     # ba "Wait! Before you do-"
-    ba ""
+    ba "Espera! Antes de você ir-"
 
 # game/script.rpy:10800
 translate pt_br explore_cafe2_412f5ba7:
 
     # ba "Here! As an apology you can have a coupon for one free coffee or tea!"
-    ba ""
+    ba "Aqui! Como um pedido de desculpas você pode ficar com um vale café ou chá gratis!"
 
 # game/script.rpy:10801
 translate pt_br explore_cafe2_5e7a1541:
 
     # eri "..."
-    eri ""
+    eri "..."
 
 # game/script.rpy:10802
 translate pt_br explore_cafe2_421c39f8:
