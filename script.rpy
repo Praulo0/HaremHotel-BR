@@ -17152,7 +17152,7 @@ translate pt_br explore_brothel2_1111053c:
 translate pt_br explore_brothel2_c48dc32f:
 
     # c "Sure."
-    c "Clar."
+    c "Claro."
 
 # game/script.rpy:10235
 translate pt_br explore_brothel2_c816f63f:
@@ -19012,385 +19012,385 @@ translate pt_br explore_cafe2_5e7a1541:
 translate pt_br explore_cafe2_421c39f8:
 
     # ba "Um, w-would you like it?"
-    ba ""
+    ba "Hum, v-você gostaria de usá-lo?"
 
 # game/script.rpy:10803
 translate pt_br explore_cafe2_172a8817:
 
     # eri "...Yeah, I guess."
-    eri ""
+    eri "...Sim, eu acho."
 
 # game/script.rpy:10805
 translate pt_br explore_cafe2_71b80d77:
 
     # ba "Thanks! Come again! And sorry!\n{i}{size=-7}Egh, that could have gone better...{/size}{/i}"
-    ba ""
+    ba "Obrigada! Volte sempre! E sinto muito!\n{i}{size=-7}Egh, as coisas poderiam ter sido melhore...{/size}{/i}"
 
 # game/script.rpy:10807
 translate pt_br explore_cafe2_b5155b68:
 
     # eri "{i}{size=-7}I'll never find a good job...{/size}{/i}"
-    eri ""
+    eri "{i}{size=-7}Eu acho que nunca vou encontrar um bom trabalho...{/size}{/i}"
 
 # game/script.rpy:10810
 translate pt_br explore_cafe2_1a99544e:
 
     # eri "Seriously? How many people saw that?"
-    eri ""
+    eri "Sério? Quantas pessoas viram aquilo?"
 
 # game/script.rpy:10812
 translate pt_br explore_cafe2_f722454e:
 
     # eri "Ugh, you saw that? I can't lie forever..."
-    eri ""
+    eri "Ugh, você viu aquilo? Acho que não posso mentir pra sempre..."
 
 # game/script.rpy:10815
 translate pt_br explore_cafe2_d46baae6:
 
     # eri "Ew! Who the hell do you think-"
-    eri ""
+    eri "Ew! Quem diabos você acha que-"
 
 # game/script.rpy:10817
 translate pt_br explore_cafe2_65270cdf:
 
     # eri "Wait, you? I remember you!"
-    eri ""
+    eri "ESpera, você? Eu lembro de você!"
 
 # game/script.rpy:10818
 translate pt_br explore_cafe2_150c1f8b:
 
     # eri "You're the one that convinced me to apply here..."
-    eri ""
+    eri "Você foi quem me convenceu a me candidatar aqui..."
 
 # game/script.rpy:10819
 translate pt_br explore_cafe2_67e4732c:
 
     # c "Sorry about that, I didn't think that would happen."
-    c ""
+    c "Desculpa por aquilo, eu não achei que aconteceria."
 
 # game/script.rpy:10820
 translate pt_br explore_cafe2_110386cf:
 
     # eri "I had my doubts... but at least they'll still serve me I guess."
-    eri ""
+    eri "Eu tinha minhas dúvidas... mas pelo menos ela ainda me serviu, eu acho."
 
 # game/script.rpy:10821
 translate pt_br explore_cafe2_94acda4c:
 
     # eri "But whatever... see ya around."
-    eri ""
+    eri "Mas que seja... te vejo por aí."
 
 # game/script.rpy:10823
 translate pt_br explore_cafe2_3784857a:
 
     # c "...?"
-    c ""
+    c "...?"
 
 # game/script.rpy:10824
 translate pt_br explore_cafe2_5e7a1541_1:
 
     # eri "..."
-    eri ""
+    eri "..."
 
 # game/script.rpy:10826
 translate pt_br explore_cafe2_716cf652:
 
     # eri "I know you came here for coffee, but... I'm gonna go get drunk, wanna come?"
-    eri ""
+    eri "Eu sei que você vio aqui para tomar café, mas... Eu vou encher a cara, quer vir comigo?"
 
 # game/script.rpy:10827
 translate pt_br explore_cafe2_6e3a16df:
 
     # c "Sure.\n(If for no other reason than to make sure she doesn't drink herself into a coma.)"
-    c ""
+    c "Claro.\n(Pelo menos para ter certeza que ela não vai beber até entrar em coma.)"
 
 # game/script.rpy:10828
 translate pt_br explore_cafe2_5ce33ded:
 
     # eri "Cool, I know a place that isn't too far. Follow me."
-    eri ""
+    eri "Legal, eu conheço um lugar que não é muito longe. Vem comigo."
 
 # game/script.rpy:10830
 translate pt_br explore_cafe2_f3e26623:
 
     # "Eris leads you to a bar a few blocks down the road..."
-    ""
+    "Eris te guia até um bar a alguns quarteirões da estrada..."
 
 # game/script.rpy:10832
 translate pt_br explore_cafe2_a942384f:
 
     # eri "This is my favorite place to drink. I hate feeling all sad and mopey in a bar with dim lights and sticky floors... It's nice to just forget about what time it is here."
-    eri ""
+    eri "Esse é o meu lugar favorito para beber. Eu odeio me sentir triste e deprimida em um bar com luzes fracas e chão grudento... É bom só esquecer que horas são aqui."
 
 # game/script.rpy:10833
 translate pt_br explore_cafe2_cefabac8:
 
     # eri "Find an empty seat, I'll get us some drinks and we can play a round. What do you say?"
-    eri ""
+    eri "Encontre um assento vazio, eu vou pegar uns drinques e podemos jogar uma partida. O que você acha?"
 
 # game/script.rpy:10834
 translate pt_br explore_cafe2_a97d4f3c:
 
     # c "Sounds fun."
-    c ""
+    c "Parece divertido"
 
 # game/script.rpy:10840
 translate pt_br explore_cafe2_3509d147:
 
     # eri "Hey, I got the drinks! Our lane should be ready as well."
-    eri ""
+    eri "Ei, eu peguei os drinques! A nossa pista já deve estar pronta também."
 
 # game/script.rpy:10842
 translate pt_br explore_cafe2_5783feae:
 
     # eri "I got you a tequila sunrise and I got myself a mojito. I hope that's fine with you."
-    eri ""
+    eri "Eu peguei uma tequila sunrise e um mojito para mim. Eu espero que esteja tudo bem para você."
 
 # game/script.rpy:10843
 translate pt_br explore_cafe2_1d59322b:
 
     # c "Yeah, thanks."
-    c ""
+    c "Sim, obrigado."
 
 # game/script.rpy:10844
 translate pt_br explore_cafe2_ca5e3951:
 
     # eri "No problem, I just really need a drink right now... life has been tough for a while."
-    eri ""
+    eri "Sem problemas, eu realmente preciso de um drinque agora... a vida tem sido difícil ultimamente. "
 
 # game/script.rpy:10845
 translate pt_br explore_cafe2_a1026da9:
 
     # eri "I'm sure I'm not the only one though, I don't need to bore you with all the details."
-    eri ""
+    eri "Eu tenho certeza que não sou a única, eu não preciso ficar te entediando com todos os detalhes."
 
 # game/script.rpy:10846
 translate pt_br explore_cafe2_c77f8fe2:
 
     # c "Does it happen a lot?"
-    c ""
+    c "Isso acontece muito?"
 
 # game/script.rpy:10847
 translate pt_br explore_cafe2_63a4dff4:
 
     # eri "The eye thing? Yeah... more than it should. Mine are a little extra fucked up to boot... could be worse though."
-    eri ""
+    eri "A coisa do olho? Sim... mais do que deveria. Primeiro que eles não um pouquiho mais fodidos... mas poderia ser pior."
 
 # game/script.rpy:10848
 translate pt_br explore_cafe2_2a5505d8:
 
     # eri "You're lucky that you're 100 percent human, I wish I had human colored eyes."
-    eri ""
+    eri "Você é sortudo que é 100 por cento humano, eu gostaria que eu tivesse olhos com cores de humano."
 
 # game/script.rpy:10849
 translate pt_br explore_cafe2_30f78c0d:
 
     # c "I didn't even know it was such a big deal until I moved here."
-    c ""
+    c "Eu em sabia que isso era algo tão importante quando me mudei para cá."
 
 # game/script.rpy:10851
 translate pt_br explore_cafe2_fecf1061:
 
     # eri "You mean you're not from Syl'anar? That explains a lot, actually... like why you convinced me to apply for a job there. I wasn't so sure until you came along."
-    eri ""
+    eri "Você quer dizer que não é de Syl'anar? Isso explica muita coisa, na verdade... como o porque que você me convenceu a me candidatar lá. Eu ainda estava na dúvida até você aparecer."
 
 # game/script.rpy:10852
 translate pt_br explore_cafe2_0d1b0857:
 
     # c "Yeah, sorry about that, again..."
-    c ""
+    c "Sim, desculpa por aquilo, de novo..."
 
 # game/script.rpy:10853
 translate pt_br explore_cafe2_180e7822:
 
     # eri "It's fine, I won't get far in life without tough skin."
-    eri ""
+    eri "Está tudo bem, eu não vou chegar longe se não criar alguns calos."
 
 # game/script.rpy:10855
 translate pt_br explore_cafe2_c183a07b:
 
     # eri "So, wanna bet on who can bring down the most pins? I have some crowns~"
-    eri ""
+    eri "Então, quer apostar em quem consegue derrubar mais pinos? Eu tenho algumas coroas~"
 
 # game/script.rpy:10856
 translate pt_br explore_cafe2_4091facc:
 
     # c "Crowns?"
-    c ""
+    c "Coroas?"
 
 # game/script.rpy:10858
 translate pt_br explore_cafe2_21cdfb56:
 
     # eri "Oh right.\nCrowns are some of our coins, nobody really uses them anymore because they're so inconvenient, but they still hold value. Each one is worth 10 Syls."
-    eri ""
+    eri "Ah sim.\nCoroas são algumas das nossas moedas, ninguém usa mais elas porque são muito inccômodas, mas elas ainda têm valor. Cada uma vale 10 Syls."
 
 # game/script.rpy:10859
 translate pt_br explore_cafe2_a0365c0a:
 
     # eri "The best part is, if you have a kite, you can do this..."
-    eri ""
+    eri "A melhor parte é, se você tiver uma pipa, você pode fazer isso..."
 
 # game/script.rpy:10861
 translate pt_br explore_cafe2_ec041217:
 
     # eri "See? They connect together, almost like puzzle pieces."
-    eri ""
+    eri "Viu? Elas se conectam, quase como peças de quebra cabeças."
 
 # game/script.rpy:10862
 translate pt_br explore_cafe2_40ea1ecd:
 
     # eri "There's a third piece that locks them all together, but I don't have one with me."
-    eri ""
+    eri "Tem uma terceira peça que prende tudo junto, mas eu não tenho essa comigo."
 
 # game/script.rpy:10863
 translate pt_br explore_cafe2_dcaebe80:
 
     # c "That's neat."
-    c ""
+    c "Que maneiro."
 
 # game/script.rpy:10865
 translate pt_br explore_cafe2_a95ce8d7:
 
     # eri "So, will you bet a crown to see who will knock down the most pins?"
-    eri ""
+    eri "Então, vai apostar uma coroa para ver quem consegue derrubar mais pinos?"
 
 # game/script.rpy:10866
 translate pt_br explore_cafe2_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/script.rpy:10867
 translate pt_br explore_cafe2_24d858c8:
 
     # eri "Nice! I need a challenge, don't go easy!"
-    eri ""
+    eri "Legal! Eu preciso de um desafio, não pegue leve!"
 
 # game/script.rpy:10869
 translate pt_br explore_cafe2_db10f7fc:
 
     # eri "I hope you're good at this, here it goes!"
-    eri ""
+    eri "Eu espero que você seja bom nisso, aqui vai!"
 
 # game/script.rpy:10875
 translate pt_br explore_cafe2_2930edcd:
 
     # eri "No way! You really beat me...!"
-    eri ""
+    eri "Não acredito! Você realmente me derrotou...!"
 
 # game/script.rpy:10876
 translate pt_br explore_cafe2_51a5ea84:
 
     # c "Nice!"
-    c ""
+    c "Legal!"
 
 # game/script.rpy:10877
 translate pt_br explore_cafe2_85ec2cc1:
 
     # eri "Only by a few pins though. Ugh, I thought I was good at this game..."
-    eri ""
+    eri "SMas só por alguns pinos, Ugh, e eu achando que era boa nesse jogo..."
 
 # game/script.rpy:10879
 translate pt_br explore_cafe2_873c9b38:
 
     # eri "*sigh*, fine, here's your crown. You earned it. Don't spend it on anything stupid, like a bet..."
-    eri ""
+    eri "*suspiro*, certo, aqui está a sua coroa. Você mereceu. Não desperdice em nada estúpido, como uma aposta..."
 
 # game/script.rpy:10883
 translate pt_br explore_cafe2_a52d8ba7:
 
     # eri "Yeah, yeah... next time I won't get so drunk."
-    eri ""
+    eri "Tá bom, tá bom... na próxima eu não vou ficar tão bêbada."
 
 # game/script.rpy:10885
 translate pt_br explore_cafe2_11c153d0:
 
     # eri "Thanks for the game, it was fun. It really helped get my mind off things..."
-    eri ""
+    eri "Obrigada pelo jogo, foi divertido. Realmente me ajudou a me distrair um pouco..."
 
 # game/script.rpy:10886
 translate pt_br explore_cafe2_a8cc52a7:
 
     # c "Any time."
-    c ""
+    c "Quando quiser."
 
 # game/script.rpy:10888
 translate pt_br explore_cafe2_f8620e1e:
 
     # c "You need it more than I do."
-    c ""
+    c "Você precisa disso mais do que eu."
 
 # game/script.rpy:10889
 translate pt_br explore_cafe2_8ac10e0c:
 
     # eri "Don't be stupid, I would have taken the money from you."
-    eri ""
+    eri "Não seja bobo, eu já fiz você gastar dinheiro."
 
 # game/script.rpy:10890
 translate pt_br explore_cafe2_a9e578db:
 
     # c "I know, but I don't need it. You clearly do."
-    c ""
+    c "EU sei, mas eu não preciso disso. Você claramente precisa."
 
 # game/script.rpy:10892
 translate pt_br explore_cafe2_bfedf75b:
 
     # eri "Alright, thanks. That's nice of you."
-    eri ""
+    eri "Tudo bem, obrigada. Isso foi bem legal da sua parte."
 
 # game/script.rpy:10894
 translate pt_br explore_cafe2_ed8c02a5:
 
     # "*ring, ring*"
-    ""
+    "*ring, ring*"
 
 # game/script.rpy:10895
 translate pt_br explore_cafe2_f10073fe:
 
     # eri "Oh, it's my roommate, one second..."
-    eri ""
+    eri "Ah, é o meu colega de quarto, um segundo..."
 
 # game/script.rpy:10897
 translate pt_br explore_cafe2_4605fb7e:
 
     # eri "Hello?\nHuh!? Are you serious?\nNo way!"
-    eri ""
+    eri "Alô\nHuh!? EStá falando sério?\nNão acredito!"
 
 # game/script.rpy:10899
 translate pt_br explore_cafe2_2308551e:
 
     # eri "Shit! Shit! Shit!\nSorry, I gotta go! My cat escaped! Shit!"
-    eri ""
+    eri "Merda! Merda! Merda!\nDesculpa, eu preciso ir! O meu gato fugiu! Merda!"
 
 # game/script.rpy:10900
 translate pt_br explore_cafe2_b3a2d020:
 
     # c "Huh? Wait-!"
-    c ""
+    c "Huh? Espera-!"
 
 # game/script.rpy:10901
 translate pt_br explore_cafe2_8ace57ea:
 
     # eri "I'll see you around!"
-    eri ""
+    eri "Te vejo por aí!"
 
 # game/script.rpy:10903
 translate pt_br explore_cafe2_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:10904
 translate pt_br explore_cafe2_1d24a28f:
 
     # c "Damn... I didn't get her number..."
-    c ""
+    c "Droga... Eu não peguei o número dela..."
 
 # game/script.rpy:10908
 translate pt_br explore_cafe2_100e750a:
 
     # "You gained $10!"
-    ""
+    "Você ganhou $110!"
 
 # game/script.rpy:10909
 translate pt_br explore_cafe2_d6b48f27:
@@ -19402,7 +19402,7 @@ translate pt_br explore_cafe2_d6b48f27:
 translate pt_br explore_cafe2_b9a921c9:
 
     # "You've discovered one new location!\n(Bernie's Bowling Bar)"
-    ""
+    "Você descobriu um local novo!\n(Bar de Boliche do Bernie)"
 
 # game/script.rpy:10915
 translate pt_br explore_cafe2_6b82b6fa:
@@ -19426,79 +19426,79 @@ translate pt_br explore_cafe2_875c529f:
 translate pt_br explore_cafe3_de9a3d9b:
 
     # rac "Those Syltech bitches think they're so much better than everyone else..."
-    rac ""
+    rac "Esses putos da Syltech acham que são tão melhores que todo mundo..."
 
 # game/script.rpy:10930
 translate pt_br explore_cafe3_4fa43ddb:
 
     # bloc "Mhm, totally."
-    bloc ""
+    bloc "Mhm, é verdade."
 
 # game/script.rpy:10931
 translate pt_br explore_cafe3_f914b125:
 
     # rac "And all because they go to a university, I mean what's so wrong with a community college... universities are a scam anyway. At least we have a football team."
-    rac ""
+    rac "E tudo porque eles  vão a uma universidade, quero dizer, o que tem de tão errado com uma faculdade comunitária... as universidades são uma farsa de qualquer forma. Pelo menos nós temos o nosso time de futebol."
 
 # game/script.rpy:10932
 translate pt_br explore_cafe3_1deff96a:
 
     # bloc "Yeah, seriously..."
-    bloc ""
+    bloc "Seim, é mesmo..."
 
 # game/script.rpy:10934
 translate pt_br explore_cafe3_f93bc2e3:
 
     # rac "What are you doing? You're not even listening."
-    rac ""
+    rac "O que você está fazedo? Você nem está me ouvindo."
 
 # game/script.rpy:10935
 translate pt_br explore_cafe3_bdd540f1:
 
     # bloc "The queen just posted this hilarious hot chip challenge video, I can't believe she's actually doing it!"
-    bloc ""
+    bloc "A rainha acabou de postar esse video hilário do desafio da batata picante, eu não consigo acreditar que ela está fazendo isso de verdade!"
 
 # game/script.rpy:10936
 translate pt_br explore_cafe3_39c6ed9e:
 
     # rac "Hello? Who cares about the queen! Those Syltech geeks are right here!"
-    rac ""
+    rac "Alô? Quem liga para a rainha! Aqueles nerds da Syltech estão bem aqui!"
 
 # game/script.rpy:10937
 translate pt_br explore_cafe3_472a9b8d:
 
     # bloc "Oh my god, she just threw up! Haha!"
-    bloc ""
+    bloc "Ai meu deus, ela acabou de vomitar! Haha!"
 
 # game/script.rpy:10938
 translate pt_br explore_cafe3_49cdfcd8:
 
     # rac "Bitch, listen."
-    rac ""
+    rac "Ô puta, me escuta."
 
 # game/script.rpy:10939
 translate pt_br explore_cafe3_2fbd65ba:
 
     # purc "Why do you hate them so much? I've never even seen them before."
-    purc ""
+    purc "POr que você odeia tanto eles? Eu nunca vi eles antes."
 
 # game/script.rpy:10941
 translate pt_br explore_cafe3_af340950:
 
     # rac "It was holiday, year 303. We shared a class together... one afternoon as I was riding the bus home from school, those sister-bitches put gum in my hair!"
-    rac ""
+    rac "Era um feriado, ano 303. Nós compartilhamos uma aula juntos... uma tarde que eu estava andando de ônibus para casa da escola, aquelas irmãs-vadias colocaram chiclete no meu cabelo! "
 
 # game/script.rpy:10942
 translate pt_br explore_cafe3_8ccc6a16:
 
     # purc "Awww."
-    purc ""
+    purc "Awww."
 
 # game/script.rpy:10943
 translate pt_br explore_cafe3_9debc79e:
 
     # rac "No, not {i}'awww'{/i}! They ruined my week! I had to cut it out and I looked horrible for a whole damn week!"
-    rac ""
+    rac "Não, {i}'awww'{/i} nada! Elas arruinaram a minha semana! Eu tive que cortar e meu cabelo ficou horrivel pela merda da semana inteira!"
 
 # game/script.rpy:10944
 translate pt_br explore_cafe3_ff2a8099:
