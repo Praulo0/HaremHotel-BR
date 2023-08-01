@@ -18214,7 +18214,7 @@ translate pt_br out_cont2_1p2_875c529f:
 translate pt_br out_cont3_1_d9d02710:
 
     # c "{i}So this part of the city is called Old Town... it sure lives up to the name.{/i}"
-    c "{i}Então essa parte da cidade é chamada de Cidade Velha... com certeza faz juz ao nome.{/i}"
+    c "{i}Então essa parte da cidade é chamada de Antiga Cidade... com certeza faz juz ao nome.{/i}"
 
 # game/script.rpy:10579
 translate pt_br out_cont3_1_8c55fa5e:
@@ -19288,7 +19288,7 @@ translate pt_br explore_cafe2_51a5ea84:
 translate pt_br explore_cafe2_85ec2cc1:
 
     # eri "Only by a few pins though. Ugh, I thought I was good at this game..."
-    eri "SMas só por alguns pinos, Ugh, e eu achando que era boa nesse jogo..."
+    eri "Mas só por alguns pinos, Ugh, e eu achando que era boa nesse jogo..."
 
 # game/script.rpy:10879
 translate pt_br explore_cafe2_873c9b38:
@@ -19480,7 +19480,7 @@ translate pt_br explore_cafe3_49cdfcd8:
 translate pt_br explore_cafe3_2fbd65ba:
 
     # purc "Why do you hate them so much? I've never even seen them before."
-    purc "POr que você odeia tanto eles? Eu nunca vi eles antes."
+    purc "Por que você odeia tanto eles? Eu nunca vi eles antes."
 
 # game/script.rpy:10941
 translate pt_br explore_cafe3_af340950:
@@ -19504,493 +19504,493 @@ translate pt_br explore_cafe3_9debc79e:
 translate pt_br explore_cafe3_ff2a8099:
 
     # purc "Well why did they do that?"
-    purc ""
+    purc "Bem, e por que elas fariam isso?"
 
 # game/script.rpy:10945
 translate pt_br explore_cafe3_23333ea1:
 
     # rac "Because they're pretentious bitches, that's why!"
-    rac ""
+    rac "Porque elas são umas vadias pretenciosas, esse é o porquê!"
 
 # game/script.rpy:10947
 translate pt_br explore_cafe3_5ba3bc69:
 
     # rac "And now we're going to get back at them..."
-    rac ""
+    rac "E agora nós vamos nos vingar..."
 
 # game/script.rpy:10948
 translate pt_br explore_cafe3_7774f57c:
 
     # purc "You know we're adults now, right? With real consequences for our actions..."
-    purc ""
+    purc "Você sabe que somos adultas agora, né? Com consequências reais pelas nossas ações..."
 
 # game/script.rpy:10950
 translate pt_br explore_cafe3_500289ca:
 
     # rac "Screw the consequences! I want to put gum in {i}their{/i} hair now!"
-    rac ""
+    rac "As cosequências que vão se ferrar! Eu quero colocar chiclete no cabelo {i}delas{/i} agora!"
 
 # game/script.rpy:10951
 translate pt_br explore_cafe3_d6cb1b99:
 
     # purc "Well gum was banned last year, soooo... good luck with that."
-    purc ""
+    purc "Bem, chiclete foi banido no ano passado, entãããão... boa sorte com isso."
 
 # game/script.rpy:10953
 translate pt_br explore_cafe3_919d2644:
 
     # rac "That's right, I keep forgetting.\nTsk, those bitches can't keep getting away with it..."
-    rac ""
+    rac "É verdade, eu sempre esqueço.\nTsc, aquelas vadias não vão fugir pra sempre..."
 
 # game/script.rpy:10954
 translate pt_br explore_cafe3_48929374:
 
     # bloc "Oh my gosh! Did you know the queen's favorite food is blueberry muffins?"
-    bloc ""
+    bloc "Ai meu deus! Você sabia que a comida favorita da rainha é bolinho de mirtilo?"
 
 # game/script.rpy:10955
 translate pt_br explore_cafe3_98102ff0:
 
     # rac "Who gives a shit? She doesn't even have any power.\nI'm trying to plot my revenge here, I could use a little help..."
-    rac ""
+    rac "Quem liga? Ela nem tem nenhum poder.\nEu estou tentando planejar a minha vingança aqui, uma ajudinha realmente cairia bem..."
 
 # game/script.rpy:10956
 translate pt_br explore_cafe3_a082725b:
 
     # purc "Forgive and forget?"
-    purc ""
+    purc "Perdoar e esquecer?"
 
 # game/script.rpy:10958
 translate pt_br explore_cafe3_9cab1094:
 
     # rac "Never!"
-    rac ""
+    rac "Nunca!"
 
 # game/script.rpy:10959
 translate pt_br explore_cafe3_cd8d9ca2:
 
     # purc "Anything you do is going to get you in trouble, so..."
-    purc ""
+    purc "tudo o que você fizer vai te colocar em problemas, então..."
 
 # game/script.rpy:10960
 translate pt_br explore_cafe3_329437d5:
 
     # rac "I'll think of something..."
-    rac ""
+    rac "EU vou pensar em aluma coisa..."
 
 # game/script.rpy:10962
 translate pt_br explore_cafe3_8a13917b:
 
     # rac "{i}{size=-5}Ooh, ooh, I've got an idea!{/size}{/i}\nHeyyy! Could you come here for a moment?"
-    rac ""
+    rac "{i}{size=-5}Aah, aah, tive uma ideia!{/size}{/i}\nEeei! Você pode vir aqui um pouco?"
 
 # game/script.rpy:10963
 translate pt_br explore_cafe3_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:10965
 translate pt_br explore_cafe3_6e3a840f:
 
     # rac "Excuse me mister, could you help me with something?"
-    rac ""
+    rac "Com licença senhor, pode me ajudar com algo?"
 
 # game/script.rpy:10966
 translate pt_br explore_cafe3_a1b3a92a:
 
     # c "Uh, what do you need help with?"
-    c ""
+    c "Uh,com o que você precisa de ajuda?"
 
 # game/script.rpy:10967
 translate pt_br explore_cafe3_284c2f30:
 
     # rac "You see those girls over there by the windows? They've been harassing us ever since we got here! Could you get them to stop for us, pleeease?"
-    rac ""
+    rac "Está vendo aquelas meninas ali perto das janelas? Elas têm nos importunado desde quando chegamos aqui! Você pode fazer elas pararem por nós, por favooor?"
 
 # game/script.rpy:10968
 translate pt_br explore_cafe3_ed747f5b:
 
     # c "Huh? What have they been doing to you?"
-    c ""
+    c "Huh? O que elas têm feito com vocês?"
 
 # game/script.rpy:10969
 translate pt_br explore_cafe3_8981f396:
 
     # rac "Calling us names, throwing food at us, and... I even heard them say they hate men! Isn't that crazy?"
-    rac ""
+    rac "Nos xingado, jogado comida em nós, e... Eu até elas dizerem que odeiam homens! Isso não é louco?"
 
 # game/script.rpy:10970
 translate pt_br explore_cafe3_31176ce3:
 
     # c "Um..."
-    c ""
+    c "Hum..."
 
 # game/script.rpy:10972
 translate pt_br explore_cafe3_e28d8283:
 
     # rac "Before you say anything, would you do it for a kite...?"
-    rac ""
+    rac "Antes de você dizer alguma cooisa, vicê faria isso por uma pipa...?"
 
 # game/script.rpy:10973
 translate pt_br explore_cafe3_820295da:
 
     # c "You want to give me money to protect to you?"
-    c ""
+    c "Você quer me pagar para te proteger?"
 
 # game/script.rpy:10974
 translate pt_br explore_cafe3_188e085a:
 
     # rac "I want to give you money to stop them! Teach them a lesson they'll never forget."
-    rac ""
+    rac "Eu quero te pagar para parar elas! Ensinar uma lição a elas que elas nunca vão esquecer."
 
 # game/script.rpy:10975
 translate pt_br explore_cafe3_b67db028:
 
     # rac "Oh, I know! There's a fire extinguisher by the restrooms, spray them and say you were trying to put out a fire!"
-    rac ""
+    rac "Ah, já sei! Tem um extintor de fogo perto dos banheiros, borrife nelas e diga que você estava tentando apagar um incêndio!"
 
 # game/script.rpy:10976
 translate pt_br explore_cafe3_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:10978
 translate pt_br explore_cafe3_380bb67e:
 
     # c "Sure. For two."
-    c ""
+    c "Claro. Por duas."
 
 # game/script.rpy:10979
 translate pt_br explore_cafe3_03b2ccc3:
 
     # rac "Two!?"
-    rac ""
+    rac "Duas!?"
 
 # game/script.rpy:10980
 translate pt_br explore_cafe3_4eb43b08:
 
     # c "That's the deal."
-    c ""
+    c "Esse é o acordo."
 
 # game/script.rpy:10982
 translate pt_br explore_cafe3_a7f149f2:
 
     # rac "Ugh, fine. But you better get them good!"
-    rac ""
+    rac "Ugh, tá bom. Mas é bom acertar bem nelas!"
 
 # game/script.rpy:10983
 translate pt_br explore_cafe3_100e750a:
 
     # "You gained $10!"
-    ""
+    "Você ganhou $10!"
 
 # game/script.rpy:10986
 translate pt_br explore_cafe3_a78dc9b9:
 
     # rac "Heh, that idiot totally bought my dumb schoolgirl act... you can always count on a man to think with his {i}other{/i} head first."
-    rac ""
+    rac "Heh, aquele idiota caiu totalmente no meu ato de estudante idiota... você sempre pode contar com um homem para pensar primeiro na {i}outra{/i} cabeça dele."
 
 # game/script.rpy:10987
 translate pt_br explore_cafe3_ac562b6a:
 
     # purc "So you paid him to do your dirty work... big deal."
-    purc ""
+    purc "Então você pagou para ele fazer o seu trabalho sujo... grande coisa."
 
 # game/script.rpy:10989
 translate pt_br explore_cafe3_3c405d2c:
 
     # rac "Wait... what the hell is he doing?"
-    rac ""
+    rac "Espera... o que diabos ele está fazendo?"
 
 # game/script.rpy:10990
 translate pt_br explore_cafe3_07442d42:
 
     # purc "Haha! Oh shit, I think you just got robbed! Hahahah!"
-    purc ""
+    purc "Haha! Ai meda, acho que você foi roubada! Hahahah!"
 
 # game/script.rpy:10992
 translate pt_br explore_cafe3_db60f299:
 
     # rac "What!? Ergh, asshole! Why did he do that!?"
-    rac ""
+    rac "Quê!? Aff, cuzão! Por que ele fez isso?"
 
 # game/script.rpy:10994
 translate pt_br explore_cafe3_a8c5759e:
 
     # purc "Maybe because you're not as good of an actress as you think you are?"
-    purc ""
+    purc "Talvez seja porque você não seja uma atriz tão boa quanto acha que é?"
 
 # game/script.rpy:10995
 translate pt_br explore_cafe3_f485e1ae:
 
     # rac "Hmph, fine. I guess if you want something done you have to it yourself..."
-    rac ""
+    rac "Hunf, tá. Acho que se você quer que algo seja feito, você tem que fazer por si mesmo..."
 
 # game/script.rpy:10997
 translate pt_br explore_cafe3_579ea03d:
 
     # bloc "AAAAAAH! Oh my god!!!" with sshake
-    bloc "" with sshake
+    bloc "AAAAAAH! Ai meu deus!!!" with sshake
 
 # game/script.rpy:10998
 translate pt_br explore_cafe3_dbcfcd33:
 
     # rac "What!?"
-    rac ""
+    rac "O quê!?"
 
 # game/script.rpy:10999
 translate pt_br explore_cafe3_3c6c0fba:
 
     # purc "AAAAH! Check your phone!" with ssshake
-    purc "" with ssshake
+    purc "AAAAH! Olha o seu celular!" with ssshake
 
 # game/script.rpy:11001
 translate pt_br explore_cafe3_aae7eab0:
 
     # rac "What?"
-    rac ""
+    rac "O quê?"
 
 # game/script.rpy:11003
 translate pt_br explore_cafe3_48f20409:
 
     # rac "EW! Whose dick is that!? Gross!"
-    rac ""
+    rac "EW! De quem é esse pinto!?"
 
 # game/script.rpy:11004
 translate pt_br explore_cafe3_2ba7b74c:
 
     # purc "How did they get our number!? What the fuck! Ewww!"
-    purc ""
+    purc "Como elas conseguiram o seu número!? Mas que porra! Ewww!"
 
 # game/script.rpy:11005
 translate pt_br explore_cafe3_b53a0f1b:
 
     # bloc "It's kind of cute though... could have been worse."
-    bloc ""
+    bloc "Até que é meio fofo... poderia ser pior."
 
 # game/script.rpy:11007
 translate pt_br explore_cafe3_5c564ad2:
 
     # rac "See what I mean!? They think they can just do whatever they want! Ergh!"
-    rac ""
+    rac "Está vendo o que eu disse? Elas acham que podem só sair fazendo o que elas quiserem! Ergh!"
 
 # game/script.rpy:11008
 translate pt_br explore_cafe3_c270f7cc:
 
     # purc "They're not worth it..."
-    purc ""
+    purc "Elas não valem a pena..."
 
 # game/script.rpy:11009
 translate pt_br explore_cafe3_4610168c:
 
     # rac "Excuse me!? They need to learn to respect people!"
-    rac ""
+    rac "Como é!? Elas precisam aprender a respeitar as pessoas!"
 
 # game/script.rpy:11010
 translate pt_br explore_cafe3_6505851d:
 
     # purc "Can't we just relax today? I'm on my period..."
-    purc ""
+    purc "Nós não podemos só relaxar hoje? Eu estou menstruada..."
 
 # game/script.rpy:11011
 translate pt_br explore_cafe3_b9986a1f:
 
     # rac "Don't you think I know that? We're on the same schedule. That's no excuse!"
-    rac ""
+    rac "E você acha que eu não sei disso? Nós estamos sincronizadas. Isso não é desculpa!"
 
 # game/script.rpy:11012
 translate pt_br explore_cafe3_5cf07dc5:
 
     # purc "Nnnnnnnh..."
-    purc ""
+    purc "Nnnnnnnh..."
 
 # game/script.rpy:11014
 translate pt_br explore_cafe3_fec67436:
 
     # rac "Fine, you can sit here and be a lazy slut, I'll actually get things done. Just watch."
-    rac ""
+    rac "Tá, você pode ficar sentada aqui é ser uma vadia preguiçosa, eu vou fazer isso de uma vez. Fica vendo."
 
 # game/script.rpy:11016
 translate pt_br explore_cafe3_50734f14:
 
     # bloc "*gasp*! Oh my god!"
-    bloc ""
+    bloc "*espanyo*! Ai meu deus!"
 
 # game/script.rpy:11017
 translate pt_br explore_cafe3_19b9217d:
 
     # purc "What?"
-    purc ""
+    purc "O quê?"
 
 # game/script.rpy:11018
 translate pt_br explore_cafe3_72a38c13:
 
     # bloc "Did you know the queen is 313 years old? The same age as our country!"
-    bloc ""
+    bloc "Você sabia que a rainha tem 313 anos? Ela tem a mesma idade que o nosso país!"
 
 # game/script.rpy:11019
 translate pt_br explore_cafe3_3750c68b:
 
     # purc "...That's the one everyone repeats, everyone knows that..."
-    purc ""
+    purc "...É isso o que todo mundo diz, todo mundo sabe disso..."
 
 # game/script.rpy:11020
 translate pt_br explore_cafe3_53afb633:
 
     # bloc "I had no clue!"
-    bloc ""
+    bloc "Eu não fazia ideia!"
 
 # game/script.rpy:11022
 translate pt_br explore_cafe3_e74af941:
 
     # rac "{i}{size=-5}Asshole...{/i}{/size}"
-    rac ""
+    rac "{i}{size=-5}Cuzona...{/i}{/size}"
 
 # game/script.rpy:11023
 translate pt_br explore_cafe3_4ce77e5e_1:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:11025
 translate pt_br explore_cafe3_34a479b2:
 
     # rac "One cup of your {u}coldest{/u} water, please..."
-    rac ""
+    rac "Um copo da sua água {u}mais{/u} gelada, por favor..."
 
 # game/script.rpy:11026
 translate pt_br explore_cafe3_668b709d:
 
     # ba "...Okay... one cup of tap water coming up..."
-    ba ""
+    ba "...Entendido... um copo de água da torneira saíndo..."
 
 # game/script.rpy:11029
 translate pt_br explore_cafe3_2360de91:
 
     # purc "Oh my god, she wouldn't...!"
-    purc ""
+    purc "Ai deus, ela não faria...!"
 
 # game/script.rpy:11031
 translate pt_br explore_cafe3_dc63b029:
 
     # q "AAAAAAAAH!" with sshake
-    q "" with sshake
+    q "AAAAAAAAH!" with sshake
 
 # game/script.rpy:11032
 translate pt_br explore_cafe3_84416297:
 
     # purc "*gasp*!"
-    purc ""
+    purc "*espanto*!"
 
 # game/script.rpy:11034
 translate pt_br explore_cafe3_c9784559:
 
     # q "BITCH!"
-    q ""
+    q "PUTA!"
 
 # game/script.rpy:11035
 translate pt_br explore_cafe3_3d1547d5:
 
     # rac "Heheheh!"
-    rac ""
+    rac "Heheheh!"
 
 # game/script.rpy:11036
 translate pt_br explore_cafe3_9ec6b8e2:
 
     # q "FUCK YOU, CUNT!"
-    q ""
+    q "VAI SE FODER, VADIA!"
 
 # game/script.rpy:11038
 translate pt_br explore_cafe3_9e441e19:
 
     # rac "Hahahaha! Did you see how pissed she was?"
-    rac ""
+    rac "Hahahaha! Viu o quanto ela ficou brava?"
 
 # game/script.rpy:11039
 translate pt_br explore_cafe3_71d30b4c:
 
     # purc "Yeah, wow, you really got her there."
-    purc ""
+    purc "É, uau, você irritou mesmo ela."
 
 # game/script.rpy:11040
 translate pt_br explore_cafe3_9803fe4b:
 
     # rac "That should settle the score! Maybe those bitches will finally leave."
-    rac ""
+    rac "Isso deve acertar as contas! Talvez aquelas vadias finalmente vão embora."
 
 # game/script.rpy:11042
 translate pt_br explore_cafe3_81ad2f6d:
 
     # bloc "AAAAAAAH! OH MY GOD!!" with sshake
-    bloc "" with sshake
+    bloc "AAAAAAH! AI MEU DEUS!!" with sshake
 
 # game/script.rpy:11043
 translate pt_br explore_cafe3_aae7eab0_1:
 
     # rac "What?"
-    rac ""
+    rac "O quê?"
 
 # game/script.rpy:11044
 translate pt_br explore_cafe3_5711316f:
 
     # bloc "Look at your phone! RIGHT. NOW!"
-    bloc ""
+    bloc "Olh a pro seu telefone! AGORA. MESMO!"
 
 # game/script.rpy:11046
 translate pt_br explore_cafe3_aaecd147:
 
     # rac "Wha... what...?"
-    rac ""
+    rac "O qu... quê...?"
 
 # game/script.rpy:11047
 translate pt_br explore_cafe3_8c64340b:
 
     # pat "Woah! Nice!"
-    pat ""
+    pat "Uau! Legal!"
 
 # game/script.rpy:11048
 translate pt_br explore_cafe3_53e0f1d1:
 
     # rac "Oh my fucking god... how did they...? H-How many people got this...?"
-    rac ""
+    rac "Puta que pariu... como elas...? Q-Quantas pessoas viram isso...?"
 
 # game/script.rpy:11050
 translate pt_br explore_cafe3_cdb11966:
 
     # ba "OH MY GODDNESS! WHO DID THAT?"
-    ba ""
+    ba "AI MEU DEUS! QUEM FEZ ISSO?"
 
 # game/script.rpy:11051
 translate pt_br explore_cafe3_8af3ad3a:
 
     # c "Huh, nice..."
-    c ""
+    c "Hum, boa..."
 
 # game/script.rpy:11052
 translate pt_br explore_cafe3_bffb7f8c:
 
     # ba "NAME YOURSELF RIGHT NOW!"
-    ba ""
+    ba "FALA SEU NOME AGORA MESMO!"
 
 # game/script.rpy:11072
 translate pt_br explore_cafe3_93f9dbd6:
 
     # q "HAHAHAHA!"
-    q ""
+    q "HAHAHAHA!"
 
 # game/script.rpy:11073
 translate pt_br explore_cafe3_b9093b3f:
 
     # purc "Hey, these aren't too bad actually, you'll have to give me lighting tips..."
-    purc ""
+    purc "Ei, esses até que não são tão ruins, você precisa me dar umas dicas de iluminação..."
 
 # game/script.rpy:11074
 translate pt_br explore_cafe3_e9382e87:
 
     # rac "{i}Shut the fuck up...!{/i}"
-    rac ""
+    rac "{i}Cala a porra da boca...!{/i}"
 
 # game/script.rpy:11077
 translate pt_br explore_cafe3_d6b48f27:
@@ -20020,175 +20020,175 @@ translate pt_br explore_cafe3_875c529f:
 translate pt_br expl_church1_e355c015:
 
     # abby "Oh Mr. [name], good timing! We were just about to go to Old Town to feed the poor. Is that why you're here? I'm glad you remembered!"
-    abby ""
+    abby "Ah Sr. [name], bom timing! Nós estamos prestes a ir à Antiga Cidade para alimentar os pobres. É por isso que você veio? Fico feliz que você tenha lembrado!"
 
 # game/script.rpy:11101
 translate pt_br needy_help_7ea8547b:
 
     # abby "Great! We're all ready to go now, so let's carpool together! It'll save on travel expenses."
-    abby ""
+    abby "Ótimo! Nós todas estamos prontas para ir agora, então vamos pegar carona juntos! Assim economizamos as despesas da viagem."
 
 # game/script.rpy:11103
 translate pt_br needy_help_e908ac60:
 
     # abby "Sir, if you're looking to make a profit, you should start a business.\nHere at church, we help because it is the right thing to do."
-    abby ""
+    abby "Senhor, se você que lucrar, você deveria abrir um negócio.\Aqui na igreja, nós audamos porque é a coisa certa a se fazer."
 
 # game/script.rpy:11106
 translate pt_br needy_help_f5658d94:
 
     # abby "Oh, well, if you change your mind let us know."
-    abby ""
+    abby "Ah, bem, se você mudar de ideia nos avise."
 
 # game/script.rpy:11109
 translate pt_br needy_help_5396043e:
 
     # "After arriving in the Old Town district of Caliber you help Saint Abby set up and prepare for a wave of hungry of people."
-    ""
+    "Depois de chegar no distrito da Antiga Cidade de Caliber você ajuda a Santa Abby a preparar para a onda de pessoas famintas."
 
 # game/script.rpy:11111
 translate pt_br needy_help_6682429e:
 
     # abby "Thank you for the help, Mr. [name]."
-    abby ""
+    abby "Obrigada pela ajuda, Sr. [name]."
 
 # game/script.rpy:11112
 translate pt_br needy_help_7c4820d1:
 
     # c "What can I do now?"
-    c ""
+    c "Como posso ajudar agora?"
 
 # game/script.rpy:11113
 translate pt_br needy_help_c2672e56:
 
     # abby "Now I would like you to hand a bowl to those who come by. That's all there is to it really, it's never too hard to help."
-    abby ""
+    abby "Agora eu gostaria que você desse uma tigela para quem passar por aqui. Na verdade é tudo o que nós fazemos, nunca é tão difícil ajudar."
 
 # game/script.rpy:11114
 translate pt_br needy_help_9f85cd7b:
 
     # c "I can do that."
-    c ""
+    c "Eu posso fazer isso."
 
 # game/script.rpy:11116
 translate pt_br needy_help_516cfc38:
 
     # q "Excuse me, is this food free?"
-    q ""
+    q "Com licença, essa comida é de graça?"
 
 # game/script.rpy:11117
 translate pt_br needy_help_dd063736:
 
     # abby "It is, to those who need it."
-    abby ""
+    abby "É sim, para quem estiver precisando."
 
 # game/script.rpy:11118
 translate pt_br needy_help_573cc62b:
 
     # abby "Oh honey, your eyes... how old are you?"
-    abby ""
+    abby "Ah querido, seus olhos... quantos anos voê tem?"
 
 # game/script.rpy:11119
 translate pt_br needy_help_b9189292:
 
     # q "I'm 19..."
-    q ""
+    q "Eu tenho 19..."
 
 # game/script.rpy:11120
 translate pt_br needy_help_1e5108e0:
 
     # abby "Only 19 and addicted to naki? You poor thing... please give her a bowl, Mr. [name]."
-    abby ""
+    abby "Apenas 19 anos e é viciado em naki? Pobrezinho... por favor dê a ele uma tigela, Sr. [name]."
 
 # game/script.rpy:11121
 translate pt_br needy_help_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/script.rpy:11123
 translate pt_br needy_help_55d2cdc5:
 
     # q "Thank you!"
-    q ""
+    q "Obrigado!"
 
 # game/script.rpy:11124
 translate pt_br needy_help_3d5e7b99:
 
     # abby "I can refer you a rehab center if you'd like."
-    abby ""
+    abby "Eu posso te recomendar um centro de reabilitação se você quiser."
 
 # game/script.rpy:11125
 translate pt_br needy_help_5283d005:
 
     # q "Oh, that's fine... but thanks for the food!"
-    q ""
+    q "Ah, está tudo bem... mas obrigado pela comida!"
 
 # game/script.rpy:11126
 translate pt_br needy_help_9e238529:
 
     # abby "*sigh*, may you find The Path some day, wanderer..."
-    abby ""
+    abby "*suspiro* Espero que você possa descobrir O Caminho algum dia, andarilho... "
 
 # game/script.rpy:11130
 translate pt_br needy_help_332d4563:
 
     # man "Hey, could I get a bowl of that?"
-    man ""
+    man "Ei, eu posso pegar uma tigela disso?"
 
 # game/script.rpy:11131
 translate pt_br needy_help_78ecb214:
 
     # woman "Oh hello again. It looks like you're off the nakimia, congratulations!"
-    woman ""
+    woman "Ah olá de novo. Parece que você saiu da nakimia, parabéns!"
 
 # game/script.rpy:11132
 translate pt_br needy_help_4a4771f3:
 
     # man "Been sober for a month now! Time still feels a little wonky but it's gettin' better every day."
-    man ""
+    man "Eu estou sóbrio a um mês agora! O tempo ainda está um pouco instável, mas está melhorando a cada dia."
 
 # game/script.rpy:11133
 translate pt_br needy_help_e75aa56d:
 
     # woman "That's great to hear. I talk about your progress with the others every month you know, they're so proud."
-    woman ""
+    woman "Isso é ótimo de ouvir. Eu falo sobre o seu progresso com os outros todos os meses, você sabe, eles estão muito orgulhosos."
 
 # game/script.rpy:11134
 translate pt_br needy_help_68bd1061:
 
     # man "Didn't know I was so famous!"
-    man ""
+    man "Eu não sabia que eu era tão famoso!"
 
 # game/script.rpy:11136
 translate pt_br needy_help_7cdc3eb6:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:11137
 translate pt_br needy_help_c074f342:
 
     # man "Ooh, thanks man."
-    man ""
+    man "Aah, obrigado cara."
 
 # game/script.rpy:11141
 translate pt_br needy_help_c1ffbc0e:
 
     # hless "You guys got any uh, chicken nuggets?"
-    hless ""
+    hless "Vocês têm algum uh, nugget de galinha?"
 
 # game/script.rpy:11142
 translate pt_br needy_help_8f8e9974:
 
     # abby "{i}{size=-5}You again...{/size}{/i}\nNo, we don't have any chicken nuggets..."
-    abby ""
+    abby "{i}{size=-5}Você de novo...{/size}{/i}\nNão, nós não temos nenhum nugget de galinha..."
 
 # game/script.rpy:11143
 translate pt_br needy_help_e8d7fc29:
 
     # hless "People'd prolly like your charity more if you offered chicken nuggets. I'm just sayin'."
-    hless ""
+    hless "As pessoas provavelmente gostariam mais da sua caridade se vocês oferecessem nuggets de galinha. Só tô dizendo."
 
 # game/script.rpy:11144
 translate pt_br needy_help_92a0b24c:
