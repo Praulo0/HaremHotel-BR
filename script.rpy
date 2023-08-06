@@ -11151,7 +11151,7 @@ translate pt_br kcreep_c872e953:
 translate pt_br kcreep_62cd3c65:
 
     # c "She's at college right now."
-    c "Ela esta´na faculdade agora."
+    c "Ela está na faculdade agora."
 
 # game/script.rpy:7913
 translate pt_br kcreep_daa3b98e:
@@ -20062,7 +20062,7 @@ translate pt_br needy_help_7c4820d1:
 translate pt_br needy_help_c2672e56:
 
     # abby "Now I would like you to hand a bowl to those who come by. That's all there is to it really, it's never too hard to help."
-    abby "Agora eu gostaria que você desse uma tigela para quem passar por aqui. Na verdade é tudo o que nós fazemos, nunca é tão difícil ajudar."
+    abby "Agora eu gostaria que você desse uma tigela para quem passar por aqui. Na verdade é tudo o que nós fazemos, ajudar nunca é tão difícil."
 
 # game/script.rpy:11114
 translate pt_br needy_help_9f85cd7b:
@@ -20098,7 +20098,7 @@ translate pt_br needy_help_b9189292:
 translate pt_br needy_help_1e5108e0:
 
     # abby "Only 19 and addicted to naki? You poor thing... please give her a bowl, Mr. [name]."
-    abby "Apenas 19 anos e é viciado em naki? Pobrezinho... por favor dê a ele uma tigela, Sr. [name]."
+    abby "Apenas 19 anos e é viciado em naki? Pobrezinha... por favor dê a ela uma tigela, Sr. [name]."
 
 # game/script.rpy:11121
 translate pt_br needy_help_c48dc32f:
@@ -20110,7 +20110,7 @@ translate pt_br needy_help_c48dc32f:
 translate pt_br needy_help_55d2cdc5:
 
     # q "Thank you!"
-    q "Obrigado!"
+    q "Obrigada!"
 
 # game/script.rpy:11124
 translate pt_br needy_help_3d5e7b99:
@@ -20122,13 +20122,13 @@ translate pt_br needy_help_3d5e7b99:
 translate pt_br needy_help_5283d005:
 
     # q "Oh, that's fine... but thanks for the food!"
-    q "Ah, está tudo bem... mas obrigado pela comida!"
+    q "Ah, está tudo bem... mas obrigada pela comida!"
 
 # game/script.rpy:11126
 translate pt_br needy_help_9e238529:
 
     # abby "*sigh*, may you find The Path some day, wanderer..."
-    abby "*suspiro* Espero que você possa descobrir O Caminho algum dia, andarilho... "
+    abby "*suspiro* Espero que você possa descobrir O Caminho algum dia, andarilha... "
 
 # game/script.rpy:11130
 translate pt_br needy_help_332d4563:
@@ -20194,445 +20194,445 @@ translate pt_br needy_help_e8d7fc29:
 translate pt_br needy_help_92a0b24c:
 
     # abby "Need I remind you that you are a {u}beggar{/u}?"
-    abby ""
+    abby "Preciso te lembrar que você é um {u}pedinte{/u}?"
 
 # game/script.rpy:11145
 translate pt_br needy_help_d919f1a2:
 
     # hless "Nah, I already knew that... I'll take a bowl of whatever then."
-    hless ""
+    hless "Nah, eu ja sabia disso... Eu quero uma tigela de qialqier coisa então."
 
 # game/script.rpy:11147
 translate pt_br needy_help_c8cc0433:
 
     # c "Sure, here you go."
-    c ""
+    c "Claro, aqui está."
 
 # game/script.rpy:11148
 translate pt_br needy_help_74ee360e:
 
     # abby "No!"
-    abby ""
+    abby "Não!"
 
 # game/script.rpy:11149
 translate pt_br needy_help_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:11150
 translate pt_br needy_help_5ca02749:
 
     # hless "Hey, what's the big deal man?"
-    hless ""
+    hless "Ei, qual é o problema mano?"
 
 # game/script.rpy:11151
 translate pt_br needy_help_2641d0a4:
 
     # abby "Sir, don't you remember what I told you the last time you came here asking for food? And the time before that? Or that?"
-    abby ""
+    abby "Senhor, você não se lembra do que eu te disse na última vez que você veio? E da vez anterior a ela? E antes?"
 
 # game/script.rpy:11153
 translate pt_br needy_help_77bf389e:
 
     # hless "Aw come on, you just gave food to her."
-    hless ""
+    hless "Ah, vamos lá, você acabou de dar comida para ela."
 
 # game/script.rpy:11154
 translate pt_br needy_help_db01cb7f:
 
     # abby "She is a poor 19 year old college student. You on the other hand are an old homeless man who should know better by now! Stop taking naki!"
-    abby ""
+    abby "Ela é uma universitária pobre de 19 anos. Por outro lado você é é um morador de rua velho que a esse ponto já deveria saber! Pare de tomar naki!"
 
 # game/script.rpy:11155
 translate pt_br needy_help_4d20c7b9:
 
     # hless "Come on man, that's not fair at all!"
-    hless ""
+    hless "Vamos lá mano, isso não é nem um pouco justo!"
 
 # game/script.rpy:11156
 translate pt_br needy_help_85ae0530:
 
     # abby "I'll make you a deal then. If you come by church every sunday, we'll feed you there. All we require is your attendance. Would you at least do that for yourself?"
-    abby ""
+    abby "Eu vou fazer um trato com você então. Se você vier à igreja todos os domingos, ós vamos te alimentar lá. Tudo o que nós exigimos é a tua presença. Você faria pelo menos isso por si mesmo?"
 
 # game/script.rpy:11157
 translate pt_br needy_help_c00fcd37:
 
     # hless "What? I don't care about your stupid gods man, I'm just hungry."
-    hless ""
+    hless "Quê? Eu não ligo para os seus deuses estúpidos, mano, eu só tô com fome."
 
 # game/script.rpy:11158
 translate pt_br needy_help_51eefbba:
 
     # abby "Perhaps you should have considered that before you spent that money on naki!"
-    abby ""
+    abby "Talvez você devesse ter pensado nisso antes de gastar todo esse dinheiro em naki!"
 
 # game/script.rpy:11159
 translate pt_br needy_help_fe73e328:
 
     # hless "Whatever man, I could survive the whole winter on this bod alone. That's why that guy from the nail salon keeps calling me a bear."
-    hless ""
+    hless "Que seja mano, eu poderia sobreviver todo o inverno só com esse corpo. É por isso que aquele cara do salão de belesa fica me chamando de urso."
 
 # game/script.rpy:11163
 translate pt_br needy_help_5eb8f3d3:
 
     # hless "Heyhey, I'll take a bowl. Hey, hello? I said I'll take a bowl."
-    hless ""
+    hless "Eiei, eu quero uma tigela. Ei, oiê? Eu disse que quero uma tigela."
 
 # game/script.rpy:11164
 translate pt_br needy_help_7cb10c0b:
 
     # woman "Yes, I can hear you... my goodness, how much did you take before you came here?"
-    woman ""
+    woman "Sim, eu consigo te ouvir... meu deus, quanto você tomou antes de vir aqui?"
 
 # game/script.rpy:11165
 translate pt_br needy_help_910a03d2:
 
     # hless "You're a charity aren't you, aren't you? Why do you care, huh? Hello, hello?"
-    hless ""
+    hless "Você é uma instituição de caridade, não é? Por que você se importa, hein? Alô, alô?"
 
 # game/script.rpy:11166
 translate pt_br needy_help_cc91ae18:
 
     # woman "I care because it is in your own self interest to take care of yourself, both mentally and physically."
-    woman ""
+    woman "Eu me importo porque é do seu interesse cuidar de si mesmo, tanto mentalmente quanto fisicamente."
 
 # game/script.rpy:11167
 translate pt_br needy_help_bed378f7:
 
     # hless "Ugh, can we speed things up a little? Come on! Ugh! I'm hungry! Give me some food! Hello!"
-    hless ""
+    hless "Ugh, podemos acelerar um pouco as coisas? Vamos lá! Ugh! Eu tô com fome! Me dá um pouco de comida! Alô!"
 
 # game/script.rpy:11168
 translate pt_br needy_help_b1fb74c0:
 
     # woman "Fine, fine. You can have a bowl. But please take better care of yourself!"
-    woman ""
+    woman "Tá bem, tá bem. Você pode pegar uma tigela. Mas por favor cuide de si mesmo!"
 
 # game/script.rpy:11170
 translate pt_br needy_help_26284efc:
 
     # c "Here y-"
-    c ""
+    c "Aqui e-"
 
 # game/script.rpy:11171
 translate pt_br needy_help_756ebafe:
 
     # hless "Yeah! Thanks! Bye! Bye!"
-    hless ""
+    hless "Beleza! Obrigado! Tchau! Tchau!"
 
 # game/script.rpy:11172
 translate pt_br needy_help_52d5448e:
 
     # woman "Goodbye..."
-    woman ""
+    woman "Adeus..."
 
 # game/script.rpy:11176
 translate pt_br needy_help_cebb3043:
 
     # felf "Um, hello."
-    felf ""
+    felf "Hum, olá."
 
 # game/script.rpy:11177
 translate pt_br needy_help_3b6976e9:
 
     # abby "Oh?"
-    abby ""
+    abby "Oh?"
 
 # game/script.rpy:11178
 translate pt_br needy_help_6a06ed33:
 
     # felf "Is this food available for anyone?"
-    felf ""
+    felf "Essa comida está disponível para qualquer um?"
 
 # game/script.rpy:11180
 translate pt_br needy_help_6d64bd95:
 
     # man "Abby! Is that you?"
-    man ""
+    man "Abby! É você?"
 
 # game/script.rpy:11181
 translate pt_br needy_help_af822fad:
 
     # abby "*scoff*, you know I'm here every week..."
-    abby ""
+    abby "*escárnio*, você sabe que eu estou aqui toda semana..."
 
 # game/script.rpy:11182
 translate pt_br needy_help_874ce640:
 
     # man "And still, you never bothered to stop by."
-    man ""
+    man "E mesmo assim, você nunca se deu ao trabalho de parar por aqui."
 
 # game/script.rpy:11183
 translate pt_br needy_help_01f6b7f7:
 
     # abby "I wonder why that could be..."
-    abby ""
+    abby "Imagino qual seja o motivo disso..."
 
 # game/script.rpy:11185
 translate pt_br needy_help_3d0d8898:
 
     # c "Do you know him?"
-    c ""
+    c "Você conhece ele?"
 
 # game/script.rpy:11186
 translate pt_br needy_help_3a5a9b4a:
 
     # abby "We dated in highschool... which was a {u}very long time ago...{/u}"
-    abby ""
+    abby "Nós namorávamos no ensino médio... coisa que aconteceu a {u}muito tempo atrás...{/u}"
 
 # game/script.rpy:11187
 translate pt_br needy_help_5de77750:
 
     # man "Some things you never forget, right?"
-    man ""
+    man "Tem coisas qua nunca nos esquecemos, né?"
 
 # game/script.rpy:11188
 translate pt_br needy_help_e73e623d:
 
     # abby "What do you want?"
-    abby ""
+    abby "O que você quer?"
 
 # game/script.rpy:11190
 translate pt_br needy_help_79cd5d44:
 
     # man "Oh, just a banana, an apple... and maybe some bread too."
-    man ""
+    man "Ah, só uma banana, uma maça... e talvez alguns pães também."
 
 # game/script.rpy:11191
 translate pt_br needy_help_a9a02869:
 
     # abby "You have money, use it."
-    abby ""
+    abby "Você tem dinheiro, use-o."
 
 # game/script.rpy:11193
 translate pt_br needy_help_1fa9e0cb:
 
     # man "Oh come on, don't be like that! It's free food!"
-    man ""
+    man "Ah, vamos, não seja assim! É comida grátis!"
 
 # game/script.rpy:11195
 translate pt_br needy_help_92f6ad90:
 
     # abby "Fine, just take it. Go on, then get out of here."
-    abby ""
+    abby "Cero, só pega isso. Pega, e cai fora daqui."
 
 # game/script.rpy:11196
 translate pt_br needy_help_b60145c1:
 
     # man "Ahh, you're too kind. Thanks!"
-    man ""
+    man "Ahh, você é muito bondosa. Obrigado!"
 
 # game/script.rpy:11198
 translate pt_br needy_help_e3ae509b:
 
     # c "{i}Why him?{/i}"
-    c ""
+    c "{i}Por que ele?{/i}"
 
 # game/script.rpy:11199
 translate pt_br needy_help_8fec725a:
 
     # abby "{i}Trust me, I would have rather told him to go away, but it's better this way. Now we don't have to deal with him.{/i}"
-    abby ""
+    abby "{i}Acredite em mim, eu preferiria só mandar ele ir embora, mas é melhor assim. Agora não precisamos lidar com eles.{/i}"
 
 # game/script.rpy:11200
 translate pt_br needy_help_b7263eb4:
 
     # felf "Excuse me..."
-    felf ""
+    felf "Com licença..."
 
 # game/script.rpy:11202
 translate pt_br needy_help_f7c07623:
 
     # felf "I was wondering if... I could take some of this food as well?"
-    felf ""
+    felf "Eu queria saber se... Eu poderia pegar um pouco dessa comida também?"
 
 # game/script.rpy:11203
 translate pt_br needy_help_863c2b46:
 
     # abby "Oh! Right, I am so sorry about that. He didn't even stand in line!"
-    abby ""
+    abby "Ah! Certo, sinto muitíssimo por aquilo. Ele nem pegou a fila!"
 
 # game/script.rpy:11204
 translate pt_br needy_help_8b4cf36c:
 
     # felf "That's okay..."
-    felf ""
+    felf "Tudo bem..."
 
 # game/script.rpy:11205
 translate pt_br needy_help_d339ec6b:
 
     # abby "Hmm, don't you work at the hotel down the street?"
-    abby ""
+    abby "Hmm, você não trabalha no hotel na rua?"
 
 # game/script.rpy:11206
 translate pt_br needy_help_9d30ae05:
 
     # felf "I do."
-    felf ""
+    felf "Trabalho sim."
 
 # game/script.rpy:11207
 translate pt_br needy_help_eca658b7:
 
     # abby "Well then I am sorry, I can't offer you anything. This food is for the needy, and it seems you already have someone taking care of you."
-    abby ""
+    abby "Bem, então eu sinto muito, não posso te oferecernada. Essa comida é para os necessitados, e parece que já tem alguém cuidando de você.."
 
 # game/script.rpy:11208
 translate pt_br needy_help_4a913a7a:
 
     # felf "My master is out of town right now, so..."
-    felf ""
+    felf "O meu mestre está fora da cidade no momento, então..."
 
 # game/script.rpy:11209
 translate pt_br needy_help_421bdb08:
 
     # abby "I'm sure he left something for you in the pantry. Go on now."
-    abby ""
+    abby "Eu tenho certeza que ele deixou algo para você na despensa. Pode ir agora."
 
 # game/script.rpy:11210
 translate pt_br needy_help_397a239a:
 
     # felf "*sigh*..."
-    felf ""
+    felf "*suspiro*..."
 
 # game/script.rpy:11213
 translate pt_br needy_help_78850e60:
 
     # abby "Looks like the first wave is over, let's wait a bit longer for any latecomers."
-    abby ""
+    abby "Parece que a primeira onda terminou, vamos esperar mais um pouco por quem pode ter se atrasado."
 
 # game/script.rpy:11214
 translate pt_br needy_help_6aee9230:
 
     # c "How do people know where to show up?"
-    c ""
+    c "Como as pessoas sabem onde aparecer?"
 
 # game/script.rpy:11215
 translate pt_br needy_help_2aefd3a0:
 
     # abby "The church has been doing this for decades now. Word gets around, eventually people just show up. As for myself, I've only been doing this for a few years. I think it's very fulfilling, don't you?"
-    abby ""
+    abby "A igreja tem feito isso há décadas. A notícia se espalha, e eventualmente as pessoas só aparecem. No meu caso, eu só tenho feito isso por alguns anos. Eu acho que é bem gratificante, não é?"
 
 # game/script.rpy:11216
 translate pt_br needy_help_fe6efb13:
 
     # c "Sure, but why not just give the food to anyone who asks for it?"
-    c ""
+    c "Com certeza, mas por que simplesmente não dar comida para quem pedir?"
 
 # game/script.rpy:11217
 translate pt_br needy_help_cf2728a6:
 
     # abby "We wouldn't want to encourage any bad behaviors, would we? The church tries to take care of its community, and sometimes that just requires a bit of tough love."
-    abby ""
+    abby "Nós não queremosencorajar nenhum mau comportamento, não é? A igreja tenta cuidar de sua comunidade, e as vezes isso requer um pouco de amor duro."
 
 # game/script.rpy:11219
 translate pt_br needy_help_26da79c0:
 
     # "You wait with Saint Abby and her friend for another hour until you all agree that everyone who wanted to come has done so."
-    ""
+    "Você espera com Santa Abby e sua amiga por mais uma hora até que todos vocês concordam que todos os que queriam vir, já o fizeram."
 
 # game/script.rpy:11222
 translate pt_br needy_help_d7689445:
 
     # abby "Well I guess we'll call it there, hm? Let's start packing up, would you mind carrying the food boxes back to the car Mr. [name]?"
-    abby ""
+    abby "Bem, acho que todos nós já terminamos por aqui, hm? Vamos começar a recolher tudo, se importa de levar as caixas de comida de volta ao carro Sr. [name]?"
 
 # game/script.rpy:11223
 translate pt_br needy_help_c48dc32f_1:
 
     # c "Sure."
-    c ""
+    c "Sem problemas."
 
 # game/script.rpy:11224
 translate pt_br needy_help_9ef7f32f:
 
     # abby "Great, thanks. We'll get the car ready and bring the boxes. \nAh~I can't wait to get home and take a nice long bath..."
-    abby ""
+    abby "Ótimo, obrigada. Nós vamos preparar o carro e trazer as caixas. \nAh~mal posso esperar para chegar em casa e tomar um banho bom e demorado..."
 
 # game/script.rpy:11226
 translate pt_br needy_help_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:11228
 translate pt_br needy_help_111d51aa:
 
     # c "...{w}...{w}..."
-    c ""
+    c "...{w}...{w}..."
 
 # game/script.rpy:11232
 translate pt_br needy_help_7cdc3eb6_1:
 
     # c "Here you go."
-    c ""
+    c "Aqui está."
 
 # game/script.rpy:11233
 translate pt_br needy_help_47c66f67:
 
     # hless "Oh shit! Thanks man."
-    hless ""
+    hless "Ah merda! Valeu mano."
 
 # game/script.rpy:11234
 translate pt_br needy_help_c901dd74:
 
     # felf "What's this for...?"
-    felf ""
+    felf "Para que é isso...?"
 
 # game/script.rpy:11235
 translate pt_br needy_help_0cad5349:
 
     # c "I came here to help.\nYou were hungry, right? Take some."
-    c ""
+    c "Eu vim aqui para ajudar.\nVocê não estava com fome? Pegue alguns. "
 
 # game/script.rpy:11236
 translate pt_br needy_help_f27ab19f:
 
     # felf "Oh, umm... okay. \n...Are you sure?"
-    felf ""
+    felf "Ah, humm... tudo bem. \nVocê tem certeza?"
 
 # game/script.rpy:11237
 translate pt_br needy_help_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Mas é claro."
 
 # game/script.rpy:11239
 translate pt_br needy_help_92e2736c:
 
     # felf "Thank you!"
-    felf ""
+    felf "Obrigada!"
 
 # game/script.rpy:11240
 translate pt_br needy_help_6a28aba6:
 
     # hless "Sweet, man. Food always tastes better when you know you're not supposed to eat it."
-    hless ""
+    hless "Que maneiro, mano. Comida sempre é mais gostosa quando você sabe que não devia comê-la."
 
 # game/script.rpy:11241
 translate pt_br needy_help_447d7d98:
 
     # abby "{i}[name]? Mr. [name]? It's time to go!{/i}"
-    abby ""
+    abby "{i}[name]? Sr. [name]? É hora de ir!{/i}"
 
 # game/script.rpy:11242
 translate pt_br needy_help_f874c2c4:
 
     # c "I should get going, enjoy your food."
-    c ""
+    c "Eu preciso ir, aproveitem as suas comidas."
 
 # game/script.rpy:11243
 translate pt_br needy_help_bb34fe9b:
 
     # hless "Sure man, thanks!"
-    hless ""
+    hless "Claro mano, valeu!"
 
 # game/script.rpy:11244
 translate pt_br needy_help_459121b4:
 
     # felf "Yes, thanks again!"
-    felf ""
+    felf "Sim, obrigada novamente!"
 
 # game/script.rpy:11247
 translate pt_br needy_help_d6b48f27:
@@ -20662,415 +20662,415 @@ translate pt_br needy_help_875c529f:
 translate pt_br expl_church0_1656a513:
 
     # c "{i}This place is massive... I wonder how old it is.{/i}"
-    c ""
+    c "{i}Esse lugar é enorme... Eu me pergunto quantos anos isso tem.{/i}"
 
 # game/script.rpy:11266
 translate pt_br expl_church0_0145caa5:
 
     # c "{i}Oh, it's those two, I should go say hi.{/i}"
-    c ""
+    c "{i}Ah, são aqueles dois, eu deveria dizer oi.{/i}"
 
 # game/script.rpy:11268
 translate pt_br expl_church0_c3955e5d:
 
     # abby "Almost done! Are you excited to be married?"
-    abby ""
+    abby "Quase pronto! Vocês estão ansiosos para se casarem?"
 
 # game/script.rpy:11269
 translate pt_br expl_church0_264d83e8:
 
     # q "Nervous... but that's normal, right?"
-    q ""
+    q "Estamos nervosos... mas isso é normal, não é?"
 
 # game/script.rpy:11270
 translate pt_br expl_church0_97ee73fd:
 
     # abby "Very. I'm sure he'll make a great husband though. After all, I did introduce you to him!"
-    abby ""
+    abby "Muito. Mas eu tenho certeza de que ele vai ser um ótimo marido. Até porque, fui eu quem te apresentou a ele!"
 
 # game/script.rpy:11271
 translate pt_br expl_church0_a3faa8b1:
 
     # q "Yes, thank you again Saint Abby!"
-    q ""
+    q "Sim, obrigada de novo Santa Abby!"
 
 # game/script.rpy:11272
 translate pt_br expl_church0_5ba20fe8:
 
     # abby "Of course! I'm just about done now..."
-    abby ""
+    abby "É claro! Eu já estou terminando agora..."
 
 # game/script.rpy:11274
 translate pt_br expl_church0_2af7bb19:
 
     # q "How do I look?"
-    q ""
+    q "Como eu estou?"
 
 # game/script.rpy:11275
 translate pt_br expl_church0_1c0fa8a7:
 
     # abby "Like a married woman. You look great."
-    abby ""
+    abby "Como uma mulher casada. Você está ótima."
 
 # game/script.rpy:11276
 translate pt_br expl_church0_4a2a0be8:
 
     # q "Thank you, it was an honor!"
-    q ""
+    q "Obrigada, isso foi uma honra!"
 
 # game/script.rpy:11278
 translate pt_br expl_church0_5e1a75b6:
 
     # q "Oh! Excuse me, sir."
-    q ""
+    q "Ah! Com licença, senhor."
 
 # game/script.rpy:11279
 translate pt_br expl_church0_0fd907c9:
 
     # abby "Oh it's you! Hello! I'm so glad you could make it!"
-    abby ""
+    abby "Ah é você! Olá! Eu fico muito feliz que você tenha vindo!"
 
 # game/script.rpy:11281
 translate pt_br expl_church0_0bc239ec:
 
     # abby "I'm sorry, I don't think I caught your name last time we met?"
-    abby ""
+    abby "Eu sinto miotp, eu acho que não perguntei o seu nome na última vez que nos vimos, não é?"
 
 # game/script.rpy:11282
 translate pt_br expl_church0_b2205f80:
 
     # c "I'm [name]."
-    c ""
+    c "Eu me chamo [name]."
 
 # game/script.rpy:11283
 translate pt_br expl_church0_d1eb2f67:
 
     # abby "So what brings you here today Mr. [name]?"
-    abby ""
+    abby "Então o que te trás aqui hoje Mr. [name]?"
 
 # game/script.rpy:11287
 translate pt_br abbytalk_7ca6ce3d:
 
     # abby "Oh, I gave her blue lines. Blue lines signify a married woman, while red lines signify fertility, or a free woman."
-    abby ""
+    abby "Ah, eu dei a ela linhas azuis. Linhas azuis significam uma mulher casada, enquanto linhas vermelhas significam fertilidade, ou uma mulher livre."
 
 # game/script.rpy:11288
 translate pt_br abbytalk_433a6b9a:
 
     # c "So you're looking for a partner?"
-    c ""
+    c "Então você está procurando um parceiro?"
 
 # game/script.rpy:11289
 translate pt_br abbytalk_95ffbfba:
 
     # abby "That's one way of putting it, yes. Though my saintly duties hold priority over any personal relationships. That woman you just met was recently married, so it was my duty as a saint to legitimize that marriage to everyone."
-    abby ""
+    abby "Essa é uma forma de dizer isso, sim. Embora meus deveres santos tenham prioridade sobre qualquer relacionamento pessoal. Aquela mulher que você acabou de conhecer se casou recentemente, então é meu dever como santa legitimar esse casamento para todos."
 
 # game/script.rpy:11293
 translate pt_br abbytalk_8453ca2f:
 
     # abby "Feel free! Though I will be locking up soon as I have somewhere to be. Until then though, I don't see any harm in it."
-    abby ""
+    abby "Fique à vontade! Embora eu vá fechar logo, pois tenho um lugar a ir. Mas até lá, não tenho nenhum problema com isso."
 
 # game/script.rpy:11296
 translate pt_br abbytalk_caf3ad90:
 
     # abby "I'm afraid I'm a little busy today with official business, but I'll be doing volunteer work tomorrow if you would like to help out."
-    abby ""
+    abby "Receio estar um pouco ocupada hoje com negócios oficiais, mas eu estarei fazendo trabalho voluntário amanha caso você queira ajudar."
 
 # game/script.rpy:11297
 translate pt_br abbytalk_0ecf5ef1:
 
     # c "I meant more about you, personally."
-    c ""
+    c "Eu quis dizer mais sobre você, pessoalmente."
 
 # game/script.rpy:11298
 translate pt_br abbytalk_8dfb0b2d:
 
     # abby "Oh, please don't let my red lines confuse you, Mr. [name]. I'm not looking for a husband at the moment, I'm married to my job."
-    abby ""
+    abby "Ah, por favor não deixe minhas linhas vermelhas te confundirem Sr. [name]. Eu não estou procurando um marido no momento, eu sou casada com o meu trabalho."
 
 # game/script.rpy:11302
 translate pt_br abbytalk_a176e0c2:
 
     # abby "It's always such a treat to see new people joining us!"
-    abby ""
+    abby "É sempre um prazer ver novas pessoas se juntando a nós!"
 
 # game/script.rpy:11303
 translate pt_br abbytalk_abbc3a82:
 
     # abby "Unfortunately I do have somewhere I need to be soon, but I don't mind answering a few short questions."
-    abby ""
+    abby "Infelizmente eu tenho um lugar para onde preciso ir em brece, mas não me incomodo de responder algumas pergutas curtas."
 
 # game/script.rpy:11307
 translate pt_br abbytalk2_222c3d35:
 
     # abby "That caught your eye, hm? That's the staff of Aqueres - one of the church's ancient artifacts."
-    abby ""
+    abby "Isso chamou a sua atenção, hein? Aquele é o cajado de Aqueres - um dos artefatos ancestrais da igreja."
 
 # game/script.rpy:11308
 translate pt_br abbytalk2_8379917f:
 
     # c "How does it work?"
-    c ""
+    c "Como isso funciona?"
 
 # game/script.rpy:11309
 translate pt_br abbytalk2_47b5e2cc:
 
     # abby "Gaius makes it work, of course! Gaius is in everything, all it takes is for the right person to beckon Him."
-    abby ""
+    abby "Gaius faz com que funcione, é claro! Gaius está em tudo, tudo o que precisa é que a pessoa certa O chame."
 
 # game/script.rpy:11310
 translate pt_br abbytalk2_0af42cab:
 
     # c "Can you teach me to use it?"
-    c ""
+    c "Você pode me ensinar a usá-lo?"
 
 # game/script.rpy:11311
 translate pt_br abbytalk2_a8eb84bf:
 
     # abby "That would take years of service, Mr. [name], and these artifacts are typically reserved for saints, who may only be women."
-    abby ""
+    abby "Isso levaria anos de serviço, Sr. [name], e esses artefatos normalmente são reservados aos santos, que só podem ser mulheres."
 
 # game/script.rpy:11314
 translate pt_br abbytalk2_ea535257:
 
     # abby "This church is over 300 years old. It was built during our colonization period before the nation of Syl'anar was even founded."
-    abby ""
+    abby "Essa igreja possui mais de 300 anos. Ela foi construída durante o nosso período de colonização antes mesmo da nação de Syl'anar ser fundada."
 
 # game/script.rpy:11315
 translate pt_br abbytalk2_b7753bf3:
 
     # abby "The old world has buildings much older than this one, but this may be one of Syl'anar's oldest!"
-    abby ""
+    abby "o antigo mundo possui construções muito mais antigas do que essa, mas essa pode ser a mais antiga de Syl'anar!"
 
 # game/script.rpy:11319
 translate pt_br abbytalk2_03d0b062:
 
     # abby "Gaius is the lawbringer, our justice and creator of all things. He is what all should be thankful for, for nothing would exist without Him."
-    abby ""
+    abby "Gaius é o legislador, nossa justiça e criador de todas as coisas. Ele é o que todos devem agradecer, pois nada existiria sem Ele."
 
 # game/script.rpy:11320
 translate pt_br abbytalk2_ec0a96d7:
 
     # abby "It would be careless of me not to mention The Seed in any conversation about Gaius. The Seed is the other side of the coin, The Seed sees everything everywhere all at once, and he is the giver of intelligence. He is what separates us from the animals. The humans from the elves."
-    abby ""
+    abby "Seria descuidado da miha parte não mencionar A Semente em qualquer conversa sobre Gaius. A Semente é o outro lado da moda, A Semente vê tudo em todos os lugares ao mesmo tempo, e ele é o doador da inteligência. Ele é o que nos separa dos animais. Os humanos dos elfos."
 
 # game/script.rpy:11321
 translate pt_br abbytalk2_3b3fd63e:
 
     # abby "Together, they create The Path - the twisting, forking road that is life as we experience it. It is the past, present, and future. You are on yours right now, and it has lead you to me."
-    abby ""
+    abby "Juntos, eles criam O Caminho - a estrada sinuosa e bifurcada que é a vida como experimentamos. É o passado, presente, e futuro. Você está no seu agora, e ele o te trouxe até mim."
 
 # game/script.rpy:11329
 translate pt_br expl_church0_cont_09b44b27:
 
     # abby "Would you like to see what lies in your path ahead, Mr. [name]?"
-    abby ""
+    abby "Você gostaria de ver o que está em seu caminho à frente, Sr. [name]? "
 
 # game/script.rpy:11331
 translate pt_br expl_church0_cont_184f6b64:
 
     # c "My path?"
-    c ""
+    c "O meu caminho?"
 
 # game/script.rpy:11332
 translate pt_br expl_church0_cont_6b0fe9d0:
 
     # abby "The Path is your destiny. It is the twisting, forking road of life. It is the past, present, and future. You are on yours right now, and it has lead you to me."
-    abby ""
+    abby "O Caminho é o seu destino. É a estrada sinuosa e bifurcada que é a vida como experimentamos. É o passado, presente, e futuro. Você está no seu agora, e ele o te trouxe até mim."
 
 # game/script.rpy:11334
 translate pt_br expl_church0_cont_61ed17ea:
 
     # c "My path ahead? You mean my future?"
-    c ""
+    c "O meu cainho à frente? Quer dizer o meu futuro?"
 
 # game/script.rpy:11335
 translate pt_br expl_church0_cont_86ce1248:
 
     # abby "Unlike the past, the path ahead is not linear, they are your {i}possible{/i} futures. The road you choose to take is your choice alone, and they do not always remain present."
-    abby ""
+    abby "Diferente do passado, o caminho à frente não é linear, eles são os seus {i}possíveis{/i} futuros. O caminho que você escolhe tomar é só seu, e ele nem sempre parecem  presentes."
 
 # game/script.rpy:11336
 translate pt_br expl_church0_cont_c7ff0b52:
 
     # abby "But knowing which trials you may encounter along your path could help you better prepare for the trek ahead. It is common for Gaianists to speak with the Seer at least once a month."
-    abby ""
+    abby "MAs saber quais caminhos você pode encontrar a longo do caminho pode te ajudar a se preparar melhor para a jornada à frente. É comum para os Gaianistas falarem com a Vidente pelo menos uma vez por mês."
 
 # game/script.rpy:11338
 translate pt_br expl_church0_cont_26a8b2be:
 
     # c "Sure, I guess it wouldn't hurt."
-    c ""
+    c "Claro, acho que não vai doer."
 
 # game/script.rpy:11339
 translate pt_br expl_church0_cont_5661990c:
 
     # abby "Wonderful! Please follow me to the Seer."
-    abby ""
+    abby "Maravilha! Por favor siga-me até a Vidente."
 
 # game/script.rpy:11342
 translate pt_br expl_church0_cont_24b5854a:
 
     # abby "This is the Seer's office, or as much of one as he's going to get, haha!"
-    abby ""
+    abby "Esse é o escritório da Vidente, ou o máximo de u, que ele vai conseguir, haha!"
 
 # game/script.rpy:11343
 translate pt_br expl_church0_cont_31a9522d:
 
     # seer "*snore*..."
-    seer ""
+    seer "*ronca*..."
 
 # game/script.rpy:11345
 translate pt_br expl_church0_cont_418a7604:
 
     # abby "HEY! Wake up!" with ssshake
-    abby "" with ssshake
+    abby "EI! Acorda!" with ssshake
 
 # game/script.rpy:11346
 translate pt_br expl_church0_cont_1a7bf781:
 
     # seer "Nnngh!?"
-    seer ""
+    seer "Nnngh!?"
 
 # game/script.rpy:11347
 translate pt_br expl_church0_cont_2283f300:
 
     # abby "Someone is here to speak with you!"
-    abby ""
+    abby "Tem alguém aqui para falar com você1"
 
 # game/script.rpy:11348
 translate pt_br expl_church0_cont_ae79d42e:
 
     # seer "Nnn... okay, okay... come in."
-    seer ""
+    seer "Nnn... tá bom, tá bom... entre."
 
 # game/script.rpy:11350
 translate pt_br expl_church0_cont_70cb9118:
 
     # abby "Sorry about that, we're just about to lock up so everyone is just a little tired... feel free to head inside though! I'll just be over there."
-    abby ""
+    abby "Perdao por aquilo, nós já estmaos para fechar tudo então todo mundo está um pouco cansado... mas sinta-se à vontade para entrar! Eu vou estar logo ali."
 
 # game/script.rpy:11352
 translate pt_br expl_church0_cont_769c830f:
 
     # seer "*yawwwn*...\nTell the Seer what ails you, Trekker. Through the Seer, Gaius' intent will be made clear."
-    seer ""
+    seer "*bocejo*...\nDiga à Vidente o que te aflige, Caminhante. Através da Vidente, as intenções de Gaius serão esclarecidas."
 
 # game/script.rpy:11353
 translate pt_br expl_church0_cont_a13cbe4c:
 
     # c "Uh, well, I just moved to a new continent to inherit a hotel from my grandfather who recently passed away. All of this is new to me."
-    c ""
+    c "Uh, bem, eu acabei de me mudar para um novo continente para erdar um hotel do meu avô que morreu recentemente. Tudo isso é novo para mim."
 
 # game/script.rpy:11354
 translate pt_br expl_church0_cont_67375330:
 
     # seer "Ah, I see... a thick fog envelops your path. Unsure where you are headed, you venture forth in hopes that everything will turn out alright."
-    seer ""
+    seer "Ah, entendo... uma névua densa envolve seu caminho. Sem saber para onde está ido, você se aventura na esperança de que tudo dê certo."
 
 # game/script.rpy:11355
 translate pt_br expl_church0_cont_e8bb7ec2:
 
     # seer "The inability to see ahead is not a shortcoming, Trekker, it is a challenge. Only through tribulation do we see our true selves."
-    seer ""
+    seer "A incapacidade de ver à frente não é uma uma deficiência, Caminhante, é um desafio. Só através da tribulação nós vemos o nosso verdadeiro eu."
 
 # game/script.rpy:11356
 translate pt_br expl_church0_cont_169f92a4:
 
     # seer "But... that is not all I see..."
-    seer ""
+    seer "Mas... isso não é tudo o que eu vejo..."
 
 # game/script.rpy:11357
 translate pt_br expl_church0_cont_cf3fb12b:
 
     # seer "I see a man, and a man behind the man. Behind that man is a key, but that key unlocks no doors."
-    seer ""
+    seer "Eu vejo um homem, e um um homem atrás do homem. Atrás dos homem está uma chave, mas a chave não abre nenhuma porta."
 
 # game/script.rpy:11358
 translate pt_br expl_church0_cont_24e676e0:
 
     # c "What's the point of a key then?"
-    c ""
+    c "Para que serve a chave então?"
 
 # game/script.rpy:11359
 translate pt_br expl_church0_cont_a743860b:
 
     # seer "All keys unlock something, Trekker. One day you will find this key, and with this key will come new paths, and with these paths will come clarity, for yours is a path of many paths."
-    seer ""
+    seer "Todas as chaves abrem algo, Caminhante. Um dia você vai encontrar essa chave, e com ela virão novos caminhos, e com esses caminhos virá a clareza, Pois o seu é um de muitos caminhos."
 
 # game/script.rpy:11360
 translate pt_br expl_church0_cont_34465d1f:
 
     # c "...What?"
-    c ""
+    c "... O quê?"
 
 # game/script.rpy:11361
 translate pt_br expl_church0_cont_7acb2ec0:
 
     # seer "I have seen all there is to see for now. Do not step into the wilds, Trekker, for your path is true. It need only be followed."
-    seer ""
+    seer "Eu vi tudo o que há para ver agora. Não entre a selva, Caminhante, pois o seu caminho é verdadeiro. Ele apenas precisa ser seguido."
 
 # game/script.rpy:11362
 translate pt_br expl_church0_cont_f687361b:
 
     # c "Alright... thanks?"
-    c ""
+    c "Certo... obrigado?"
 
 # game/script.rpy:11363
 translate pt_br expl_church0_cont_afcbb67c:
 
     # seer "You are welcome."
-    seer ""
+    seer "Disponha."
 
 # game/script.rpy:11365
 translate pt_br expl_church0_cont_fd74d465:
 
     # abby "Mr. [name]! How did it go? Have you gained any new foresight?"
-    abby ""
+    abby "Sr. [name]! Como foi lá? Você ganhou alguma nova previsão?"
 
 # game/script.rpy:11366
 translate pt_br expl_church0_cont_a91f113f:
 
     # c "He doesn't speak too clearly, does he?"
-    c ""
+    c "Ele não fala muito claramete, não é?"
 
 # game/script.rpy:11367
 translate pt_br expl_church0_cont_88607754:
 
     # abby "Hahah, no he doesn't... much like our dreams, it is hard to make sense of such things, but it all has meaning."
-    abby ""
+    abby "Hahah, não, não fala... assim com nossos sonhos, é difícil entender essas coisas, mas tudo isso possui significado."
 
 # game/script.rpy:11369
 translate pt_br expl_church0_cont_69a58785:
 
     # abby "Well Mr. [name], I apologize but it is about time I lock the church up. I have important business to attend to, and I'm sure the Seer would like to get some rest."
-    abby ""
+    abby "Bem Sr. [name], eu peço desculpas mas já é hora de eu trancar a igreja. Eu tenho negócios importantes para atender, e eu tenho certeza que a Vidente gostaria de descansar um pouco."
 
 # game/script.rpy:11370
 translate pt_br expl_church0_cont_7463decc:
 
     # c "Of course, I'll get out of your hair."
-    c ""
+    c "É claro, vou te deixar em paz. "
 
 # game/script.rpy:11372
 translate pt_br expl_church0_cont_9e17d329:
 
     # abby "Oh! You should stop by tomorrow! Some Gaianists and I will be going to Old Town to feed the poor, we could always use more help! I'm sure a good deed on your path won't go unnoticed."
-    abby ""
+    abby "Ah! Você deveria passar aqui amanhã! Alguns Gaianistas e eu vamos para a Antiga Cidade para alimentar os pobres, mais ajuda sempre cai bem! Eu tenho certeza de que boas ações no seu caminho não irão passar despercebidas,"
 
 # game/script.rpy:11373
 translate pt_br expl_church0_cont_b617a721:
 
     # c "I'll think about it, thanks."
-    c ""
+    c "Eu vou pensar nisso, obrigado."
 
 # game/script.rpy:11374
 translate pt_br expl_church0_cont_1ede4148:
 
     # abby "Of course! See you around!"
-    abby ""
+    abby "É claro! Te vejo por aí!"
 
 # game/script.rpy:11376
 translate pt_br expl_church0_cont_d6b48f27:
