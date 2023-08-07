@@ -21100,409 +21100,409 @@ translate pt_br expl_church0_cont_875c529f:
 translate pt_br explore_slums2_fec8ce40:
 
     # c "{i}Looks like there's a spot left open for me.{/i}"
-    c ""
+    c "{i}Parece que tem um lugar disponível para mim.{/i}"
 
 # game/script.rpy:11397
 translate pt_br explore_slums2_f11f0a7e:
 
     # cook "Look, look!"
-    cook ""
+    cook "Olha, olha!"
 
 # game/script.rpy:11399
 translate pt_br explore_slums2_3e92e46c:
 
     # cook "This is my cat, Hopper! I named him that because he likes to bounce everywhere! Hah, ahahah!"
-    cook ""
+    cook "Esse é o meu gato, Saltador! Eu dei esse nome para ele porque ele gosta de pular em todo lugar! Hah, ahahah!"
 
 # game/script.rpy:11400
 translate pt_br explore_slums2_1f90b76c:
 
     # epro "Aww!"
-    epro ""
+    epro "Ownt!"
 
 # game/script.rpy:11401
 translate pt_br explore_slums2_a9f5a555:
 
     # cook "Hopper is the first pet I have ever owned. He loves watching the birds outside my window, and whenever I eat fish he runs up to me and rubs my leg! He brings me so much joy now that I am alone."
-    cook ""
+    cook "Saltador é o meu primeiro animal de estimação que eu tive. Ele ama ficar vendo os pássaros pela janela. e sempre que eu amo ele corre até mim e fica se esfregando na mina perna! Ele me traz tanta alegria agora que estou sozinho."
 
 # game/script.rpy:11403
 translate pt_br explore_slums2_feabdce3:
 
     # epro "Awwwww~ he's so cute. That's a great name for a cat, chef."
-    epro ""
+    epro "Ownnnnnt~ ele é tão fofo. Esse é um ótimo nome para um gato, chefe."
 
 # game/script.rpy:11404
 translate pt_br explore_slums2_2cecc12d:
 
     # cook "I would bring him over here so you can meet him, but he is still a little shy around people he does not know..."
-    cook ""
+    cook "Eu traria ele aqui para vocês poderem conhecê-lo, mas ele ainda fica um pouco tímido perto de pessoas que ele não conhece..."
 
 # game/script.rpy:11405
 translate pt_br explore_slums2_d9d59a4a:
 
     # epro "That's okay. Hopefuly someday!\nBy the way, if you turn the flash off, the picture will come out better."
-    epro ""
+    epro "Tudo bem. Espero que algum dia!\nAliás, se você desligar o flash, a foto vai sair melhor."
 
 # game/script.rpy:11406
 translate pt_br explore_slums2_0ee187aa:
 
     # cook "Oh! Really?"
-    cook ""
+    cook "Ah! É mesmo?"
 
 # game/script.rpy:11408
 translate pt_br explore_slums2_7a75cb65:
 
     # cook "Ohhh, hello! New customer? What would you like? Miso? Shoyu? Tonkotsu? First one is free unless you like it!"
-    cook ""
+    cook "Ahhh, olá! É um novo cliente? Do que você gostaria? Missô? Shoyu? Tonkotsu? O primeiro é de graça a não ser que você goste!"
 
 # game/script.rpy:11409
 translate pt_br explore_slums2_78a61d36:
 
     # c "I'll take some miso ramen."
-    c ""
+    c "Eu vou querer um pouco de Missõ Lamen"
 
 # game/script.rpy:11410
 translate pt_br explore_slums2_ccbb2be9:
 
     # cook "Coming right up!"
-    cook ""
+    cook "É para já!"
 
 # game/script.rpy:11411
 translate pt_br explore_slums2_b62f2489:
 
     # epro "Hello again!"
-    epro ""
+    epro "Olá de novo!"
 
 # game/script.rpy:11413
 translate pt_br explore_slums2_7bdf2ffa:
 
     # epro "Would you like a blowjob? Only 5 syls."
-    epro ""
+    epro "Gostaria de um boquete? São só 5 syls."
 
 # game/script.rpy:11414
 translate pt_br explore_slums2_e7932a97:
 
     # c "Uh... no thanks. Not today."
-    c ""
+    c "Uh... não, obrigado. Não hoje."
 
 # game/script.rpy:11415
 translate pt_br explore_slums2_41ca8b48:
 
     # epro "Aww, okay. Let me know if you change your mind."
-    epro ""
+    epro "Aah, tudo bem. Me avise se mudar de ideia."
 
 # game/script.rpy:11416
 translate pt_br explore_slums2_808aec10:
 
     # c "This is your job? Don't you have a master somewhere?"
-    c ""
+    c "Esse é o seu trabalho? Você não tem nenhum mestre por aí?"
 
 # game/script.rpy:11417
 translate pt_br explore_slums2_ef13de32:
 
     # epro "Of course. He bought me to work the streets, so that's what I do."
-    epro ""
+    epro "É claro que sim. Ele me comprou para trabalhar nas ruas, então é isso o que eu faço."
 
 # game/script.rpy:11418
 translate pt_br explore_slums2_da885dda:
 
     # c "Oh, so your master is just your pimp. How much do you keep?"
-    c ""
+    c "Ah, então o seu mestre é só seu cafetão. Quanto você recebe?"
 
 # game/script.rpy:11419
 translate pt_br explore_slums2_2f0895b5:
 
     # epro "I'm not sure I've ever heard of that word before. I don't keep any money, I still need to pay him back for purchasing me."
-    epro ""
+    epro "Eu não sei nem se já ouvi essa palavra antes. Eu não recebo dinheiro nenhum, eu ainda tenho que pagar ele por me comprar."
 
 # game/script.rpy:11420
 translate pt_br explore_slums2_f55b1e8a:
 
     # c "How much do you have left to pay off?"
-    c ""
+    c "Quanto você ainda precisa pagar?"
 
 # game/script.rpy:11421
 translate pt_br explore_slums2_5882e140:
 
     # epro "Umm... I don't know, he never told me how much he paid for me. It's been a few years now, so I think I'm getting close."
-    epro ""
+    epro "Humm... Eu não sei, ele nunca me contou o quanto ele pagou por mim. Já fazem alguns anos agora, então acho que estou chegando perto."
 
 # game/script.rpy:11423
 translate pt_br explore_slums2_0345c5c4:
 
     # cook "Miso! Enjoy!"
-    cook ""
+    cook "Missô! Aproveite!"
 
 # game/script.rpy:11424
 translate pt_br explore_slums2_dff5891b:
 
     # c "Oh thanks. That was fast."
-    c ""
+    c "Ah obrigado. Foi bem rápido."
 
 # game/script.rpy:11425
 translate pt_br explore_slums2_9dcb50bf:
 
     # cook "Eat! Tell me what you think."
-    cook ""
+    cook "Coma! Diga-me o que achou."
 
 # game/script.rpy:11427
 translate pt_br explore_slums2_cbdea402:
 
     # cook "Family recipe! Everything should be in there, memory isn't what it used to be..."
-    cook ""
+    cook "É uma receita de família! Deve ter tudo aí, minha memória não é mais como era antes..."
 
 # game/script.rpy:11428
 translate pt_br explore_slums2_b9aa3764:
 
     # c "It looks great, thanks."
-    c ""
+    c "Parece ótimo, obrigado."
 
 # game/script.rpy:11429
 translate pt_br explore_slums2_09064870:
 
     # epro "It's very salty, so be careful. I want to have a few bowls a day but my body just won't let me."
-    epro ""
+    epro "É bem salgado, então tome cuidado. Eu quero comer algumas tigelas por dia, mas meu corpo simplesmente não deixa."
 
 # game/script.rpy:11430
 translate pt_br explore_slums2_7ab92177:
 
     # cook "Ah! Not too salty. Just salty enough. Recipe says so. Try it!"
-    cook ""
+    cook "Ah! Não é tão salgado. É só o suficiente. É o que a receita diz. Experimente!"
 
 # game/script.rpy:11432
 translate pt_br explore_slums2_c9cf5de6:
 
     # cook "Good, huh? Not too salty?"
-    cook ""
+    cook "Bom, hein? É tão salgado assim?"
 
 # game/script.rpy:11434
 translate pt_br explore_slums2_0fc4b13a:
 
     # c "Just salty enough."
-    c ""
+    c "É só o suficiente"
 
 # game/script.rpy:11435
 translate pt_br explore_slums2_86b02764:
 
     # cook "See! Just salty enough! I told you!"
-    cook ""
+    cook "Viu! É só salgado o suficiente! Eu te disse!"
 
 # game/script.rpy:11436
 translate pt_br explore_slums2_99ba015d:
 
     # epro "Oh well... I still love it, chef."
-    epro ""
+    epro "Ah bem... eu ainda amo, chefe."
 
 # game/script.rpy:11438
 translate pt_br explore_slums2_1ea4dc0f:
 
     # cook "Of course, of course. That's why you come by every day. I can remember that at least!"
-    cook ""
+    cook "É claro, é claro. É por isso que você vem todo dia. Pelo menos disso eu lembro!"
 
 # game/script.rpy:11440
 translate pt_br explore_slums2_ef04d738:
 
     # epro "I'm glad."
-    epro ""
+    epro "Fico honrada."
 
 # game/script.rpy:11441
 translate pt_br explore_slums2_dab9dc76:
 
     # cook "Worth the money, right big man? Only 5 syls, and better than a blowjob if you ask me!"
-    cook ""
+    cook "Vale o dinheiro, não é grandão? É só 5 syls, e melhor que um boquete, se você me perguntar!"
 
 # game/script.rpy:11442
 translate pt_br explore_slums2_3eaa6c6f:
 
     # epro "Hey... you wouldn't know."
-    epro ""
+    epro "Ei... você não saberia."
 
 # game/script.rpy:11443
 translate pt_br explore_slums2_97bd81bc:
 
     # c "It's great. You should open up a real store."
-    c ""
+    c "É ótimo. Você deveria abrir uma loja de verdade."
 
 # game/script.rpy:11444
 translate pt_br explore_slums2_998b7bc5:
 
     # cook "Hah! Good one. Not in this economy. Been cooking here for 40 years, ever since I was a child. Gonna die here too."
-    cook ""
+    cook "Hah! Éssa foi boa. Não nesta economia. Estive cozinhando aqui por 40 anos, desde quando era criança. Eu vou morrer aqui também."
 
 # game/script.rpy:11446
 translate pt_br explore_slums2_ec6b3c2d:
 
     # q "*ahem*... you on the job?"
-    q ""
+    q "*ahem*... você está trabalhando?"
 
 # game/script.rpy:11447
 translate pt_br explore_slums2_5022422a:
 
     # epro "Oh hello! Yes, 5 syls for a blowjob."
-    epro ""
+    epro "Ah olá! Sim, 5 syls por um boquete."
 
 # game/script.rpy:11448
 translate pt_br explore_slums2_4e762df9:
 
     # q "Yeah alright."
-    q ""
+    q "Beleza, bora."
 
 # game/script.rpy:11449
 translate pt_br explore_slums2_25edd48a:
 
     # epro "Okay, bye! Thanks for the food, chef!"
-    epro ""
+    epro "Tudo bem, tchau! Obrigada pela comida, chefe!"
 
 # game/script.rpy:11450
 translate pt_br explore_slums2_4ddb048d:
 
     # cook "Of course."
-    cook ""
+    cook "Sem problemas."
 
 # game/script.rpy:11452
 translate pt_br explore_slums2_cbd1d003:
 
     # cook "She's a good lady. Always respectful, great listener."
-    cook ""
+    cook "Ela é uma boa mulher. Sempre respeitosa, ótima ouvinte."
 
 # game/script.rpy:11453
 translate pt_br explore_slums2_d80510bc:
 
     # c "How come you've never taken her up on her offer?"
-    c ""
+    c "Como que você nunca aceitou as ofertas dela?"
 
 # game/script.rpy:11454
 translate pt_br explore_slums2_defbea40:
 
     # cook "My wife would not like that."
-    cook ""
+    cook "Minha esposa não gostaria disso."
 
 # game/script.rpy:11455
 translate pt_br explore_slums2_4b2e7285:
 
     # c "Oh, it sounded like you were alone earlier."
-    c ""
+    c "Ah, parecia que você estava sozino antes."
 
 # game/script.rpy:11456
 translate pt_br explore_slums2_c74b5d34:
 
     # cook "I am. She passed away many years ago. Still, I love her with all my heart and would not wish to do anything that would make her angry with me."
-    cook ""
+    cook "Eu estou. Ela morreu a muitos anos atrás. Mesmo assim, eu amo ela com todo o meu coração e não quero fazer nada que deixaria ela brava comigo."
 
 # game/script.rpy:11457
 translate pt_br explore_slums2_653eda81:
 
     # c "Oh, that's nice of you."
-    c ""
+    c "Ah, isso é muito legal."
 
 # game/script.rpy:11458
 translate pt_br explore_slums2_e7d6c063:
 
     # cook "It's the key to a good marriage! Do what you should be doing, even if no one is looking!"
-    cook ""
+    cook "É a chave para um bom casamento! Faça o que você deve fazer, mesmo que não tenha ninguém olhando!"
 
 # game/script.rpy:11460
 translate pt_br explore_slums2_78fdd087:
 
     # q "Hey, hey! If it isn't my favorite chef! What's up man!"
-    q ""
+    q "Ei, ei! Se não é o meu chefe favorito! E aí mano!"
 
 # game/script.rpy:11461
 translate pt_br explore_slums2_99b0e555:
 
     # cook "What do you want...?"
-    cook ""
+    cook "O que você quer...?"
 
 # game/script.rpy:11462
 translate pt_br explore_slums2_6230244e:
 
     # c "Excuse me..."
-    c ""
+    c "Com licença..."
 
 # game/script.rpy:11463
 translate pt_br explore_slums2_b9a5d2c1:
 
     # q "You know what I want man, the usual! Make it two, my boss wants a bowl as well."
-    q ""
+    q "Você sabe o que eu quero, o de sempre! Faça duas, o meu chefe também quer uma tigela."
 
 # game/script.rpy:11464
 translate pt_br explore_slums2_9c4e6ca4:
 
     # cook "Do you plan on paying this time?"
-    cook ""
+    cook "Você pretende pagar dessa vez?"
 
 # game/script.rpy:11466
 translate pt_br explore_slums2_43ab276d:
 
     # q "Now why would I do that? Whatever happened to the family discount?"
-    q ""
+    q "E por que eu faria isso? O que aconteceu com o desconto de família?"
 
 # game/script.rpy:11468
 translate pt_br explore_slums2_e505717b:
 
     # cook "..."
-    cook ""
+    cook "..."
 
 # game/script.rpy:11470
 translate pt_br explore_slums2_ee7b1359:
 
     # gang "Come on man, you know these streets ain't safe..."
-    gang ""
+    gang "Vamos cara, você sabe que essas ruas não são seguras..."
 
 # game/script.rpy:11472
 translate pt_br explore_slums2_e505717b_1:
 
     # cook "..."
-    cook ""
+    cook "..."
 
 # game/script.rpy:11474
 translate pt_br explore_slums2_aec640ee:
 
     # cook "*sigh*... Of course, two miso bowls, coming up. On the house..."
-    cook ""
+    cook "*suspiro* É claro, duas tigelas de missô, chegando. Por conta da casa..."
 
 # game/script.rpy:11475
 translate pt_br explore_slums2_98fa4d96:
 
     # gang "How kind of ya! Thanks, chef."
-    gang ""
+    gang "Que gentil da sua parte! Obrigado, chefe."
 
 # game/script.rpy:11477
 translate pt_br explore_slums2_bf84394a:
 
     # gang "See ya next time! The boss is going to appreciate this... if I can remember to mention your name, haha!"
-    gang ""
+    gang "Até a próxima! O chefe vai gostar disso... se eu lembrar de dizer o seu nome, haha!"
 
 # game/script.rpy:11478
 translate pt_br explore_slums2_e505717b_2:
 
     # cook "..."
-    cook ""
+    cook "..."
 
 # game/script.rpy:11480
 translate pt_br explore_slums2_990993db:
 
     # cook "...I am sorry you had to see that. Your food is on the house today..."
-    cook ""
+    cook "...Sinto muito que você teve que ver isso. Sua comida fica por conta da casa hoje..."
 
 # game/script.rpy:11481
 translate pt_br explore_slums2_68b0136e:
 
     # c "Don't be crazy. I'll pay for mine, and those too."
-    c ""
+    c "Não seja doido. Eu vou pagar pela minha, e a deles também."
 
 # game/script.rpy:11482
 translate pt_br explore_slums2_8cbfb025:
 
     # cook "No! I cannot allow you to do that. This is my fault."
-    cook ""
+    cook "Não! Eu não posso deixar você fazer isso. Isso foi culpa minha."
 
 # game/script.rpy:11483
 translate pt_br explore_slums2_5a976287:
 
     # c "Who was that guy? How do you know him?"
-    c ""
+    c "Quem era aquele cara? Como você conheceu ele?"
 
 # game/script.rpy:11485
 translate pt_br explore_slums2_f12bf749:
