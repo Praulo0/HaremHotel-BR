@@ -4830,13 +4830,13 @@ translate pt_br barmusic_5099ecbb:
 translate pt_br prefloor2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c "Está ficando tarde... Eu deveria ir dormir."
+    c "Está ficando tarde... Eu deveria ir para a cama."
 
 # game/script.rpy:4492
 translate pt_br floor2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c "Está ficando tarde... Eu deveria ir dormir."
+    c "Está ficando tarde... Eu deveria ir para a cama."
 
 # game/script.rpy:4521
 translate pt_br floor2menu_35e2ae73:
@@ -5826,7 +5826,7 @@ translate pt_br floor2menu_ff2da85a:
 translate pt_br floor2menu_06268ed4:
 
     # "[botname] goes into her room and changes her clothes to her newly bought slut outfit, and inserts the slut module..."
-    "[botname] entra no quarto dela e troca suas roupas para a nova roupa de puta, e insere o módulo de puta..."
+    "[botname] entra no quarto dela e troca suas roupas para a nova roupa de vadia, e insere o módulo de vadia..."
 
 # game/script.rpy:4987
 translate pt_br floor2menu_d8bd047c:
@@ -5838,7 +5838,7 @@ translate pt_br floor2menu_d8bd047c:
 translate pt_br floor2menu_472c7122:
 
     # bot "I'm so slutty!"
-    bot "Eu sou tão puta!"
+    bot "Eu sou tão vadia!"
 
 # game/script.rpy:4991
 translate pt_br floor2menu_47fcfe2c:
@@ -6552,7 +6552,7 @@ translate pt_br floor2menu_1b1f8c76:
 translate pt_br floor2menu_12b598f6:
 
     # "Emma's sluttiness is too low..."
-    "A vulgaridade da Emma está mutio baixa..."
+    "A vulgaridade da Emma está muito baixa..."
 
 # game/script.rpy:5339
 translate pt_br floor2menu_518f39d6:
@@ -7333,13 +7333,13 @@ translate pt_br floor2menu_63bc906d:
 translate pt_br prefloor1_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c "Está ficando tarde... Eu devia ir dormir."
+    c "Está ficando tarde... Eu deveria ir para a cama.."
 
 # game/script.rpy:5855
 translate pt_br lobby_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c "Está ficando tarde... Eu devia ir dormir."
+    c "Está ficando tarde... Eu deveria ir para a cama."
 
 # game/script.rpy:5898
 translate pt_br lobby_a914fa92:
@@ -7939,7 +7939,7 @@ translate pt_br lobby_48fc288b:
 translate pt_br lobby_d5a96581:
 
     # m "Could you buy me a succubus outfit? I would buy it myself, but I just upgraded the stream..."
-    m "Você pode comprar a roupa de súcubo? Eu mesmo compraria, mas acabei de melhorar o stream..."
+    m "Você pode comprar uma roupa de súcubo? Eu mesmo compraria, mas acabei de melhorar o stream..."
 
 # game/script.rpy:6217
 translate pt_br lobby_33fd57ed:
@@ -8912,7 +8912,7 @@ translate pt_br lobby_d6e6dc51:
 translate pt_br lobby_2dc5c6b7:
 
     # "Maria goes into her room and changes her clothes to her newly bought slut outfit..."
-    "Maria entra no quarto dela e troca suas roupas pela sua nova roupa de puta..."
+    "Maria entra no quarto dela e troca suas roupas pela sua nova roupa de vadia..."
 
 # game/script.rpy:6564
 translate pt_br lobby_9ead871d:
@@ -9369,7 +9369,7 @@ translate pt_br floor1menu_48fc288b:
 translate pt_br floor1menu_315ac068:
 
     # l "I was wondering if you could take me shopping! I've really been wanting to visit the city, and this maid outfit has been getting a bit boring..."
-    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho estado com vontade de visitar a cidade, e essa roupa de empregada está ficando um pouco chata... "
+    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho estado com vontade de visitar a cidade, e essa roupa de empregada está ficando um pouco enjoativa... "
 
 # game/script.rpy:6802
 translate pt_br floor1menu_54898fb8:
@@ -9645,7 +9645,7 @@ translate pt_br floor1menu_3c60f245:
 translate pt_br floor1menu_d6d6593f:
 
     # "Lin strips her maid outfit off, and puts her new slut outfit on..."
-    "Lin retira a sua roupa de empregada e coloca a sua roupa de puta... "
+    "Lin retira a roupa de empregada e coloca a sua nova roupa de vadia... "
 
 # game/script.rpy:7032
 translate pt_br floor1menu_32cb30a2:
@@ -10767,7 +10767,7 @@ translate pt_br kcreep_b7a63e96:
 translate pt_br kcreep_35a40811:
 
     # "Kali removes her clothing and changes in to her slut outfit..."
-    "Kali tira suas roupas e troca para a sua roupa de puta..."
+    "Kali tira suas roupas e troca para a sua roupa de vadia..."
 
 # game/script.rpy:7677
 translate pt_br kcreep_c2fe32fe:
@@ -13947,7 +13947,7 @@ translate pt_br expl_beach2_c3601e70:
 translate pt_br expl_beach2_c51b2570:
 
     # sl "Yes, mistress, but the makeup and the outfit at the beach... it's a bit far."
-    sl "Sim, mestra, mas a maquiagem e a roupa na praia... É um pouco exagerado."
+    sl "Sim, mestra, mas a maquiagem e essa roupa na praia... É um pouco exagerado."
 
 # game/script.rpy:8954
 translate pt_br expl_beach2_6e98a896:
@@ -22360,7 +22360,7 @@ translate pt_br out_cont1_6a71bfc8:
 translate pt_br out1_4dfa2424:
 
     # c "I should explore the area."
-    c "Eu deveria ir explorar a área"
+    c "Eu deveria ir explorar a região."
 
 # game/script.rpy:11720
 translate pt_br out1_23cc6327:
@@ -22372,7 +22372,7 @@ translate pt_br out1_23cc6327:
 translate pt_br out1_98c4bab8:
 
     # r "End of Corpus Cafe content... for now."
-    r "Fim do conteúdo da Cafeteria Corpis... por enquanto."
+    r "Fim do conteúdo da Cafeteria Corpus... por enquanto."
 
 # game/script.rpy:11734
 translate pt_br out1_46ebe7ff:
@@ -22498,7 +22498,7 @@ translate pt_br berns_1018e68b:
 translate pt_br berns_ee473918:
 
     # c "I should explore the area first."
-    c "Eu deveria explorar a área primeiro."
+    c "Eu deveria explorar a região primeiro."
 
 # game/script.rpy:11811
 translate pt_br berns_1018e68b_1:
@@ -22558,577 +22558,577 @@ translate pt_br deliverdone_875c529f:
 translate pt_br out_cont2_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu deveria ir para a cama."
 
 # game/script.rpy:11864
 translate pt_br out_cont2_ebd627da:
 
     # c "Alright, where should I go?"
-    c ""
+    c "Beleza, para onde devo ir?"
 
 # game/script.rpy:11877
 translate pt_br out2_2ad5aa10:
 
     # r "End of Beach content... for now."
-    r ""
+    r "Fim do conteúdo da Praia... por enquanto."
 
 # game/script.rpy:11887
 translate pt_br out2_58951017:
 
     # r "End of Church content... for now."
-    r ""
+    r "Fim do conteúdo da Igreja... por enquanto."
 
 # game/script.rpy:11890
 translate pt_br out2_4dfa2424:
 
     # c "I should explore the area."
-    c ""
+    c "Eu deveria ir explorar a região."
 
 # game/script.rpy:11893
 translate pt_br out2_1018e68b:
 
     # r "Still in development."
-    r ""
+    r "Ainda em desenvolvimento."
 
 # game/script.rpy:11912
 translate pt_br out2_9938580d:
 
     # c "I should get back home."
-    c ""
+    c "Eu deveria voltar para casa."
 
 # game/script.rpy:11924
 translate pt_br out_cont3_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu deveria ir para a cama."
 
 # game/script.rpy:11929
 translate pt_br out_cont3_1e3c7470:
 
     # c "Next is..."
-    c ""
+    c "E agora..."
 
 # game/script.rpy:11952
 translate pt_br out3_7a1d0694:
 
     # c "I think I'll go for some ramen after all."
-    c ""
+    c "E no fim das contas acho que vou comer lámen."
 
 # game/script.rpy:11955
 translate pt_br out3_b2e307f0:
 
     # r "End of slums content... for now."
-    r ""
+    r "Fim do conteúdo das favelas... por enquanto."
 
 # game/script.rpy:11961
 translate pt_br out3_1018e68b:
 
     # r "Still in development."
-    r ""
+    r "Ainda em desenvolvimento."
 
 # game/script.rpy:11973
 translate pt_br out3_9938580d:
 
     # c "I should get back home."
-    c ""
+    c "Eu deveria voltar para casa."
 
 # game/script.rpy:12005
 translate pt_br nextfrontdoor_6549b0fc:
 
     # c "I've already done that today, I can go tomorrow."
-    c ""
+    c "Eu já fiz isso hoje, eu posso fazer ir amanhã."
 
 # game/script.rpy:12011
 translate pt_br nextfrontdoor_b7e5e5f3:
 
     # warning "This feature is only meant to be played at the beginning of the game. The story here will not make as much sense otherwise, but it is still playable."
-    warning ""
+    warning "Esse recurso só deve ser usado no começo do jogo. A história não vai fazer muito sentido de outra forma, mas ainda é jogável"
 
 # game/script.rpy:12013
 translate pt_br nextfrontdoor_4f4d24ce:
 
     # "You get in your car and drive to Caliber. \nWhat you do now is up to you."
-    ""
+    "Você entra em seu carro e dirige para Caliber. \nO que fazer agora é com você."
 
 # game/script.rpy:12053
 translate pt_br nextfrontdoor_7d143645:
 
     # c "I've arrived in Caliber city.\nWhere should I go now?"
-    c ""
+    c "Eu cheguei na cidade Caliber.\Para onde devo ir agora?"
 
 # game/script.rpy:12061
 translate pt_br nextfrontdoor_1eeca933:
 
     # "You call Moon..."
-    ""
+    "Você chama Moon..."
 
 # game/script.rpy:12063
 translate pt_br nextfrontdoor_b4d088e1:
 
     # moon "Ready?"
-    moon ""
+    moon "Pronto?"
 
 # game/script.rpy:12064
 translate pt_br nextfrontdoor_281e042b:
 
     # c "Yeah, let's go."
-    c ""
+    c "Sim, vamos lá."
 
 # game/script.rpy:12065
 translate pt_br nextfrontdoor_4434bb15:
 
     # moon "Sweet!"
-    moon ""
+    moon "Beleza!"
 
 # game/script.rpy:12068
 translate pt_br nextfrontdoor_d5c3c57c:
 
     # "You take out your phone to text Vanessa."
-    ""
+    "Você pega seu celular para enviar uma mensagem de texto para Vanessa.."
 
 # game/script.rpy:12069
 translate pt_br nextfrontdoor_17a33c16:
 
     # c "Ready?"
-    c ""
+    c "Pronta?"
 
 # game/script.rpy:12070
 translate pt_br nextfrontdoor_58a31fd8:
 
     # van "Yep! Let's go! I'm excited!"
-    van ""
+    van "Sim! Vamos lá! Estou ansiosa!"
 
 # game/script.rpy:12074
 translate pt_br nextfrontdoor_86367b06:
 
     # van "Ready?"
-    van ""
+    van "Pronto"
 
 # game/script.rpy:12075
 translate pt_br nextfrontdoor_281e042b_1:
 
     # c "Yeah, let's go."
-    c ""
+    c "Sim, vamos lá."
 
 # game/script.rpy:12076
 translate pt_br nextfrontdoor_dcafc1ad:
 
     # van "Cool! I'll drive."
-    van ""
+    van "Legal! Eu dirijo."
 
 # game/script.rpy:12080
 translate pt_br nextfrontdoor_3c2f3ec8:
 
     # kate "Ready to go?"
-    kate ""
+    kate "Pronto para ir?"
 
 # game/script.rpy:12081
 translate pt_br nextfrontdoor_b63d6bf3:
 
     # c "I am."
-    c ""
+    c "Estou."
 
 # game/script.rpy:12085
 translate pt_br nextfrontdoor_3c2f3ec8_1:
 
     # kate "Ready to go?"
-    kate ""
+    kate "Pronto para ir?"
 
 # game/script.rpy:12086
 translate pt_br nextfrontdoor_b63d6bf3_1:
 
     # c "I am."
-    c ""
+    c "Estou."
 
 # game/script.rpy:12098
 translate pt_br nextfrontdoor_a9818fe0:
 
     # nia "[name], Sylvia has been in the garden for hours. It's very unusual for her not to be watching TV in her spare time, would you mind checking on her?"
-    nia ""
+    nia "[name], a Sylvia está no jardim há horas. É muito incomum para ela não estar assistindo TV no tempo livre dela, você pode dar uma olhada nela?"
 
 # game/script.rpy:12099
 translate pt_br nextfrontdoor_e19ae21b:
 
     # c "Sure, thanks for the heads up."
-    c ""
+    c "Claro, obrigado por avisar."
 
 # game/script.rpy:12106
 translate pt_br nextfrontdoor_33cf4075:
 
     # "I should come back on Wednesday... maybe something will happen."
-    ""
+    "Eu deveria voltar na Quarta-Feira... talvez aconteça alguma coisa."
 
 # game/script.rpy:12109
 translate pt_br nextfrontdoor_281157ee:
 
     # c "Hmmm...? I hear whispers coming from the other room..."
-    c ""
+    c "Hmm...? Eu estou ouvindo sussurros vindo do outro cômodo..."
 
 # game/script.rpy:12113
 translate pt_br nextfrontdoor_c2f3aa1b:
 
     # c "I need to build the sanctuary first."
-    c ""
+    c "Eu preciso construir o santuário primeiro."
 
 # game/script.rpy:12120
 translate pt_br nextfrontdoor_cf2b0386:
 
     # mail "You pick up Kali's hard drive"
-    mail ""
+    mail "Você pega o disco rígido de Kali"
 
 # game/script.rpy:12123
 translate pt_br nextfrontdoor_43c588db:
 
     # mail "You pick up Kali's bunny outfit"
-    mail ""
+    mail "Você pega a roupa de coelhinha de Kali"
 
 # game/script.rpy:12126
 translate pt_br nextfrontdoor_301fc00f:
 
     # mail "You pick up Lin's bondage set"
-    mail ""
+    mail "Você pega o conjunto de bondage de Lin"
 
 # game/script.rpy:12129
 translate pt_br nextfrontdoor_d61b50c5:
 
     # mail "You pick up Lin's vibe kit"
-    mail ""
+    mail "Você pega o kit vibe de Lin"
 
 # game/script.rpy:12132
 translate pt_br nextfrontdoor_44438647:
 
     # mail "You pick up Emma's vibe kit"
-    mail ""
+    mail "Você pega o kit vibe de Emma"
 
 # game/script.rpy:12135
 translate pt_br nextfrontdoor_921aaaa7:
 
     # mail "You pick up Lin's butt plug"
-    mail ""
+    mail "Você pega o plugue anal de Lin"
 
 # game/script.rpy:12138
 translate pt_br nextfrontdoor_8905680e:
 
     # mail "You pick up Lin's heart outfit"
-    mail ""
+    mail "Você pega a roupa de coração de Lin"
 
 # game/script.rpy:12141
 translate pt_br nextfrontdoor_5e06a3a6:
 
     # mail "You pick up Ashley's sexy school uniform"
-    mail ""
+    mail "Você pega o uniforme escolar sexy de Ashley"
 
 # game/script.rpy:12144
 translate pt_br nextfrontdoor_dc942b27:
 
     # mail "You pick up Maria's succubus outfit"
-    mail ""
+    mail "Você pega a roupa de súcubo de Maria"
 
 # game/script.rpy:12147
 translate pt_br nextfrontdoor_2e26b624:
 
     # mail "You pick up [botname]'s breast reduction module"
-    mail ""
+    mail "Você pega o módulo de redução de seios de [botname]"
 
 # game/script.rpy:12150
 translate pt_br nextfrontdoor_0cecda4f:
 
     # mail "You pick up [botname]'s breast expansion module"
-    mail ""
+    mail "Você pega o módulo de expansão de seios de [botname]"
 
 # game/script.rpy:12153
 translate pt_br nextfrontdoor_2fcf36b9:
 
     # mail "You pick up Ashley's gift"
-    mail ""
+    mail "Você pega o presente de Ashley"
 
 # game/script.rpy:12156
 translate pt_br nextfrontdoor_55cd1ea2:
 
     # mail "You pick up Kali's gift"
-    mail ""
+    mail "Você pega o presente de Kali"
 
 # game/script.rpy:12159
 translate pt_br nextfrontdoor_9d330d6b:
 
     # mail "You pick up Maria's gift"
-    mail ""
+    mail "Você pega o presente de Maria"
 
 # game/script.rpy:12162
 translate pt_br nextfrontdoor_b7c42fc6:
 
     # mail "You pick up [botname]'s lactation module"
-    mail ""
+    mail "Você pega o módulo de lactação de [botname]"
 
 # game/script.rpy:12165
 translate pt_br nextfrontdoor_d020082b:
 
     # mail "You pick up Ashley's vibe kit"
-    mail ""
+    mail "Você pega o kit vibe de Ashley"
 
 # game/script.rpy:12168
 translate pt_br nextfrontdoor_74a307f7:
 
     # mail "You pick up Ashley's butt plug"
-    mail ""
+    mail "Você pega o plugue anal de Ashley"
 
 # game/script.rpy:12171
 translate pt_br nextfrontdoor_1f962459:
 
     # mail "You pick up the Dreamscape VR"
-    mail ""
+    mail "Você pega o Dreamscape VR"
 
 # game/script.rpy:12174
 translate pt_br nextfrontdoor_7b7654e6:
 
     # mail "You pick up [botname]'s vibe kit"
-    mail ""
+    mail "Você pega o kit vibe de [botname]"
 
 # game/script.rpy:12177
 translate pt_br nextfrontdoor_2e2ae893:
 
     # mail "You pick up Emma's gift"
-    mail ""
+    mail "Você pega o presente de Emma"
 
 # game/script.rpy:12180
 translate pt_br nextfrontdoor_d496aa9c:
 
     # mail "You pick up Felicity's gift"
-    mail ""
+    mail "Você pega o presente de Felicity"
 
 # game/script.rpy:12183
 translate pt_br nextfrontdoor_39ee3027:
 
     # mail "You pick up Autumn's gift"
-    mail ""
+    mail "Você pega o presente de Autumn"
 
 # game/script.rpy:12186
 translate pt_br nextfrontdoor_0f5fe178:
 
     # mail "You pick up Lin's slut outfit"
-    mail ""
+    mail "Você pega a roupa de vadia de Lin"
 
 # game/script.rpy:12189
 translate pt_br nextfrontdoor_8edcae9f:
 
     # mail "You pick up Maria's slut outfit"
-    mail ""
+    mail "Você pega a roupa de vadia de Maria"
 
 # game/script.rpy:12192
 translate pt_br nextfrontdoor_183cab9f:
 
     # mail "You pick up [botname]'s slut outfit"
-    mail ""
+    mail "Você pega a roupa de vadia de [botname]"
 
 # game/script.rpy:12195
 translate pt_br nextfrontdoor_c5b53f13:
 
     # mail "You pick up [botname]'s veil outfit"
-    mail ""
+    mail "Você pega a roupa de esposa de [botname]"
 
 # game/script.rpy:12198
 translate pt_br nextfrontdoor_be4b46b9:
 
     # mail "You pick up Kali's slut outfit"
-    mail ""
+    mail "Você pega a roupa de vadia de Kali"
 
 # game/script.rpy:12201
 translate pt_br nextfrontdoor_c5d57be9:
 
     # mail "You pick up Lin's cutiepie outfit"
-    mail ""
+    mail "Você pega a roupa fofinha de Lin"
 
 # game/script.rpy:12204
 translate pt_br nextfrontdoor_10521a6b:
 
     # mail "You pick up your Lady Lust's Orgasm Kit"
-    mail ""
+    mail "Você pega o Kit de Orgasmo da Lady Lust"
 
 # game/script.rpy:12207
 translate pt_br nextfrontdoor_fd2859db:
 
     # mail "You pick up Ashley's slut outfit"
-    mail ""
+    mail "Você pega a roupa de vadia da Ashley"
 
 # game/script.rpy:12210
 translate pt_br nextfrontdoor_f82382c7:
 
     # mail "You pick up Kali's rope outfit"
-    mail ""
+    mail "Você pega a roupa de corda da Kali"
 
 # game/script.rpy:12213
 translate pt_br nextfrontdoor_c4d46600:
 
     # mail "You pick up Ashley's rope outfit"
-    mail ""
+    mail "Você pega a roupa de corda da Kali"
 
 # game/script.rpy:12216
 translate pt_br nextfrontdoor_ff78b311:
 
     # mail "You pick up Ashley's Bunny Suit"
-    mail ""
+    mail "Você pega a Roupa de Coelhinha da Ashley"
 
 # game/script.rpy:12219
 translate pt_br nextfrontdoor_6f3b1c4e:
 
     # mail "You pick up Maria's Bunny Suit"
-    mail ""
+    mail "Você pega a Roupa de Coelhinha de Maria"
 
 # game/script.rpy:12222
 translate pt_br nextfrontdoor_ea931ab9:
 
     # mail "You pick up Maria's rope outfit"
-    mail ""
+    mail "Você pega a roupa de corda de Maria"
 
 # game/script.rpy:12225
 translate pt_br nextfrontdoor_5ca7af5c:
 
     # mail "You pick up [botname]'s rope outfit"
-    mail ""
+    mail "Você pega a roupa de corda de [botname]"
 
 # game/script.rpy:12228
 translate pt_br nextfrontdoor_e6c01820:
 
     # mail "You pick up [botname]'s western cowgirl outfit"
-    mail ""
+    mail "Você pega a roupa de cowgirl do oeste de [botname]"
 
 # game/script.rpy:12231
 translate pt_br nextfrontdoor_684cc525:
 
     # mail "You pick up Maria's bartender outfit"
-    mail ""
+    mail "Você pega a roupa de bartender de Maria"
 
 # game/script.rpy:12234
 translate pt_br nextfrontdoor_ee32d22f:
 
     # mail "You pick up Felicity's Catgirl outfit"
-    mail ""
+    mail "Você pega a Roupa de Gatinha da Felicity"
 
 # game/script.rpy:12237
 translate pt_br nextfrontdoor_3625f4dd:
 
     # mail "You pick up Felicity's Slut outfit"
-    mail ""
+    mail "Você pega a Roupa de Vadia de Felicity"
 
 # game/script.rpy:12240
 translate pt_br nextfrontdoor_93d80139:
 
     # mail "You pick up [botname]'s Human kit"
-    mail ""
+    mail "Você pega o kit humano de [botname]"
 
 # game/script.rpy:12243
 translate pt_br nextfrontdoor_18038ee6:
 
     # mail "You pick up Nia's supplies"
-    mail ""
+    mail "Você pega us suplimentos de Nia"
 
 # game/script.rpy:12246
 translate pt_br nextfrontdoor_019745eb:
 
     # mail "You pick up Felicity's Sexy Gothic outfit"
-    mail ""
+    mail "Você pega a Roupa de Gótica Sexy de Felicity"
 
 # game/script.rpy:12249
 translate pt_br nextfrontdoor_747a8a97:
 
     # mail "You pick up Emma's Slut outfit"
-    mail ""
+    mail "Você pega a Roupa de Vadia da Emma"
 
 # game/script.rpy:12252
 translate pt_br nextfrontdoor_b250bffb:
 
     # mail "You pick up Emma's Rope outfit"
-    mail ""
+    mail "Você pega a Roupa de Corda da Emma"
 
 # game/script.rpy:12255
 translate pt_br nextfrontdoor_2ab4ba61:
 
     # mail "You pick up Felicity's Rope outfit"
-    mail ""
+    mail "Você pega a Roupa de Corda de Felicity"
 
 # game/script.rpy:12258
 translate pt_br nextfrontdoor_5dccef08:
 
     # mail "You pick up Autumn's Slutty Server outfit!"
-    mail ""
+    mail "Você pega a Roupa de Garçonete Safada de Autumn!"
 
 # game/script.rpy:12261
 translate pt_br nextfrontdoor_ee8704d6:
 
     # mail "You pick up Autumn's vibe kit"
-    mail ""
+    mail "Você pega o kit vibe de Autumn"
 
 # game/script.rpy:12264
 translate pt_br nextfrontdoor_9bc32d12:
 
     # mail "You pick up Lin's Goth Outfit"
-    mail ""
+    mail "Você pega a Roupa de Gótica da Lin"
 
 # game/script.rpy:12267
 translate pt_br nextfrontdoor_d084006d:
 
     # mail "You pick up Lin's Harem Uniform"
-    mail ""
+    mail "Você pega o Uniforme de Harém da Lin"
 
 # game/script.rpy:12270
 translate pt_br nextfrontdoor_e42f4aaf:
 
     # mail "You pick up Kali's Goth Outfit"
-    mail ""
+    mail "Você pega a Roupa de Gótica da Kali"
 
 # game/script.rpy:12273
 translate pt_br nextfrontdoor_9d193611:
 
     # mail "You pick up Kali's Harem Uniform"
-    mail ""
+    mail "Você pega o Uniforme de Harém da Kali"
 
 # game/script.rpy:12276
 translate pt_br nextfrontdoor_eef778a3:
 
     # mail "You pick up Kali's Lingerie"
-    mail ""
+    mail "Você pega a Lingerie da Kali"
 
 # game/script.rpy:12279
 translate pt_br nextfrontdoor_65c17d3a:
 
     # mail "You pick up Ashley's Goth Outfit"
-    mail ""
+    mail "Você pega a Roupa de Gótica da Ashley"
 
 # game/script.rpy:12282
 translate pt_br nextfrontdoor_b266e72e:
 
     # mail "You pick up Ashley's Harem Uniform"
-    mail ""
+    mail "Você pega o Uniforme de Harém da Ashley"
 
 # game/script.rpy:12285
 translate pt_br nextfrontdoor_8e62afce:
 
     # mail "You pick up Ashley's Lingerie"
-    mail ""
+    mail "Você pega a Lingerie de Ashley"
 
 # game/script.rpy:12288
 translate pt_br nextfrontdoor_80725855:
 
     # mail "You pick up Maria's Goth Outfit"
-    mail ""
+    mail "Você pega a Roupa de Gótica da Maria"
 
 # game/script.rpy:12291
 translate pt_br nextfrontdoor_96d445a5:
 
     # mail "You pick up Maria's Harem Uniform"
-    mail ""
+    mail "Você pega o Uniforme de Harem de Maria"
 
 # game/script.rpy:12294
 translate pt_br nextfrontdoor_243f5d3f:
 
     # mail "You pick up Maria's Lingerie"
-    mail ""
+    mail "Você pega a Lingerie de Maria"
 
 # game/script.rpy:12302
 translate pt_br nextfrontdoor_a2160b1d:
 
     # "You drive to the Happy Home Academy building in Corpus city, where Peni is living..."
-    ""
+    "Você dirige até o prédio da Academia Casa Feliz na cidade Corpis, onde Peni vive..."
 
 # game/script.rpy:12303
 translate pt_br nextfrontdoor_9c164013:
@@ -32212,7 +32212,7 @@ translate pt_br elftown_ef4d05a3:
 translate pt_br elftown_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu deveria ir para a cama."
 
 # game/script.rpy:16935
 translate pt_br elftown_c4353d4b:
@@ -32230,7 +32230,7 @@ translate pt_br elftown_b71f3b04:
 translate pt_br elfbed_6a71bfc8:
 
     # c "It's getting late... I should head to bed."
-    c ""
+    c "Está ficando tarde... Eu deveria ir para a cama."
 
 # game/script.rpy:17003
 translate pt_br elfatspa_f0417fe4:
