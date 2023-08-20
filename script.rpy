@@ -14025,7 +14025,7 @@ translate pt_br expl_beach2_f5a9445b:
 translate pt_br expl_beach2_5a50067b:
 
     # rac "Aw, come on... don't you still like tits?"
-    rac "Aah, vamos, vocÊ não gosta mais de tetas?"
+    rac "Aah, vamos, você não gosta mais de tetas?"
 
 # game/script.rpy:8972
 translate pt_br expl_beach2_c6357c0f:
@@ -14523,7 +14523,7 @@ translate pt_br expl_beach2_96c67ff4:
 translate pt_br expl_beach2_4b548054:
 
     # sl "I'm sorry mistress, I can't take it anymore...!"
-    sl "Eu sinnto muito, mestra, eu não aguento mais...!"
+    sl "Eu sinto muito, mestra, eu não aguento mais...!"
 
 # game/script.rpy:9082
 translate pt_br expl_beach2_4e2b6fa1:
@@ -14559,7 +14559,7 @@ translate pt_br expl_beach2_2fd6bde7:
 translate pt_br expl_beach2_ffcc5b32:
 
     # sl "*pant*... *pant*...\nI'm sorry... mistress..."
-    sl "*ofegante*... *ofegante*...\Eu sinto muito... mestra..."
+    sl "*ofegante*... *ofegante*...\Sinto muito... mestra..."
 
 # game/script.rpy:9090
 translate pt_br expl_beach2_7bfeb382:
@@ -14949,7 +14949,7 @@ translate pt_br explore_brothel1_a0f542a9:
 translate pt_br explore_brothel1_eb6ea8fa:
 
     # rbun "I knew you prefered big tits the moment I saw you, heheh!"
-    rbun "Eu saboube que você prefere tetas grandes assim que eu te vi, heheh!"
+    rbun "Eu soube que você prefere tetas grandes assim que eu te vi, heheh!"
 
 # game/script.rpy:9221
 translate pt_br explore_brothel1_be84a49f:
@@ -19816,7 +19816,7 @@ translate pt_br explore_cafe3_fec67436:
 translate pt_br explore_cafe3_50734f14:
 
     # bloc "*gasp*! Oh my god!"
-    bloc "*espanyo*! Ai meu deus!"
+    bloc "*espanto*! Ai meu deus!"
 
 # game/script.rpy:11017
 translate pt_br explore_cafe3_19b9217d:
@@ -20734,7 +20734,7 @@ translate pt_br expl_church0_0fd907c9:
 translate pt_br expl_church0_0bc239ec:
 
     # abby "I'm sorry, I don't think I caught your name last time we met?"
-    abby "Eu sinto miotp, eu acho que não perguntei o seu nome na última vez que nos vimos, não é?"
+    abby "Eu sinto muito, eu acho que não perguntei o seu nome na última vez que nos vimos, não é?"
 
 # game/script.rpy:11282
 translate pt_br expl_church0_b2205f80:
@@ -21556,7 +21556,7 @@ translate pt_br explore_slums2_1ada5843:
 translate pt_br explore_slums2_50fd9e00:
 
     # q "Oh! I'm so sorry, I never asked if I could sit here, how careless of me."
-    q "Ah! Sinto muito, nem perguntei se eu podia sentar aqui, que descuido da minha parte."
+    q "Ah! Sinto muitíssimo, nem perguntei se eu podia sentar aqui, que descuido da minha parte."
 
 # game/script.rpy:11496
 translate pt_br explore_slums2_58894acb:
@@ -22144,7 +22144,7 @@ translate pt_br explore_slums1_728c1610:
 translate pt_br explore_slums1_5add3e6b:
 
     # hless "Totally man, brains AND a bod. Heh, just kidding. I'm not a package. Unless... this is actually a dream?"
-    hless "Com certeza mano, em carne E osso. Heh, brincadeira. Não sou o pacote. A não ser... que na verdade isso seja um sonhho?"
+    hless "Com certeza mano, em carne E osso. Heh, brincadeira. Não sou o pacote. A não ser... que na verdade isso seja um sonho?"
 
 # game/script.rpy:11637
 translate pt_br explore_slums1_13020121:
@@ -22966,7 +22966,7 @@ translate pt_br nextfrontdoor_c4d46600:
 translate pt_br nextfrontdoor_ff78b311:
 
     # mail "You pick up Ashley's Bunny Suit"
-    mail "Você pega a Roupa de Coelhinha da Ashley"
+    mail "Você pega a Roupa de Coelhinha de Ashley"
 
 # game/script.rpy:12219
 translate pt_br nextfrontdoor_6f3b1c4e:
@@ -23128,373 +23128,373 @@ translate pt_br nextfrontdoor_243f5d3f:
 translate pt_br nextfrontdoor_a2160b1d:
 
     # "You drive to the Happy Home Academy building in Corpus city, where Peni is living..."
-    "Você dirige até o prédio da Academia Casa Feliz na cidade Corpis, onde Peni vive..."
+    "Você dirige até o prédio da Academia Casa Feliz na cidade Corpus, onde Peni está morando..."
 
 # game/script.rpy:12303
 translate pt_br nextfrontdoor_9c164013:
 
     # "Not long after, you arrive. You sign in and wait for the employees. After an annoyingly long and needless wait, they bring Peni to you."
-    ""
+    "Pouco tempo depois, você chega. Você assina e espera pelos funcionários. Após uma espera irritantemente longa e desnecessária, eles trazem Peni até você."
 
 # game/script.rpy:12304
 translate pt_br nextfrontdoor_cf98c3d9:
 
     # "As Peni turns the corner and makes eye contact with you, her face lights up and she jumps for joy."
-    ""
+    "Quando Peni vira a curva e faz contato visual com você, seu rosto se ilumina e ela pula de alegria."
 
 # game/script.rpy:12305
 translate pt_br nextfrontdoor_8afd22a7:
 
     # peni "Master!" with ssshake
-    peni "" with ssshake
+    peni "Mestre!" with ssshake
 
 # game/script.rpy:12306
 translate pt_br nextfrontdoor_b3dfa4b2:
 
     # "Happy to be free from her abusers, she clings to your side as your finalize the paperwork..."
-    ""
+    "Feliz por estar livre de seus abusadores, ela se agarra ao seu lado enquanto você finaliza a papelada..."
 
 # game/script.rpy:12312
 translate pt_br nextfrontdoor_e042754c:
 
     # "You drive to the Happy Home Academy building in Corpus city, where Nia is living..."
-    ""
+    "Você dirige até o prédio da Academia Casa Feliz na cidade Corpus, onde Nia está morando..."
 
 # game/script.rpy:12313
 translate pt_br nextfrontdoor_19551921:
 
     # "Not long after, you arrive. You sign in and wait for the employees. After an annoyingly long and needless wait, they bring Nia to you."
-    ""
+    "Pouco tempo depois, você chega. Você assina e espera pelos funcionários. Após uma espera irritantemente longa e desnecessária, eles trazem Nia até você."
 
 # game/script.rpy:12314
 translate pt_br nextfrontdoor_1ac240f9:
 
     # "Nia is wearing clothes you don't recognize, and from the looks of it, no shoes either. Perhaps it's a simple tactic to avoid runaway slaves, or perhaps she just lost them."
-    ""
+    "Nia está usando roupas que você não reconhece, e pelo que parece, também não tem sapatos. Aparentemente é uma forma simples de evitar que os escravos fujam, ou talvez ela simplesmente os perdeu." 
 
 # game/script.rpy:12315
 translate pt_br nextfrontdoor_b9e27c9a:
 
     # "A look of relief washes over her face as she spots you. It seems they didn't care to tell her who claimed her. She must have been worrying all night."
-    ""
+    "Um olhar de alívio toma conta de seu rosto quando ela vê você. Parece que eles não se importaram em dizer a ela quem a reivindicou. Ela deve ter passado a noite inteira preocupada."
 
 # game/script.rpy:12316
 translate pt_br nextfrontdoor_e440bb7f:
 
     # "It's hard to tell, likely because she's {i}making{/i} it hard to tell from the tilt of her head, but she's beginning to tear up. Life must have been very hard for her here."
-    ""
+    "É difícil dizer, provavelmente porque ela estava {i}tornando{/i} difícil de saber pela inclinação da cabeça dela. mas ela estava começando a chorar. A vida deve ter sido difícil para ela aqui."
 
 # game/script.rpy:12317
 translate pt_br nextfrontdoor_51328170:
 
     # "You both hop in your car and begin your ride back to the hotel. Even though it was only a 20 minute drive, Nia slept for most of it. After waking her up, you head inside..."
-    ""
+    "Vocês dois entram no seu carro e começam sua viagem de volta ao hotel. Mesmo sendo uma viagem de apenas 20 minutos, Nia dormiu durante a maior parte do tempo. Após acordar ela, vocês entram..."
 
 # game/script.rpy:12322
 translate pt_br nextfrontdoor_701b551d:
 
     # "You drive to the Happy Home Academy building in Corpus city, where Sylvia is living..."
-    ""
+    "Você dirige até o prédio da Academia Casa Feliz na cidade Corpus, onde Sylvia está morando..."
 
 # game/script.rpy:12323
 translate pt_br nextfrontdoor_6663060e:
 
     # "Not long after, you arrive. You sign in and wait for the employees. After an annoyingly long and needless wait, they bring Sylvia to you."
-    ""
+    "Pouco tempo depois, você chega. Você assina e espera pelos funcionários. Após uma espera irritantemente longa e desnecessária, eles trazem Sylvia até você."
 
 # game/script.rpy:12324
 translate pt_br nextfrontdoor_da7cb2b7:
 
     # "A sigh of relief leaves her body as she spots you. 'About time...' she says as she looks at her feet."
-    ""
+    "Um suspiro de alívio sai de seu corpo quando ela te vê. 'Já era hora...' ela diz enquanto olha para os pés dela."
 
 # game/script.rpy:12325
 translate pt_br nextfrontdoor_d6ac40af:
 
     # "You both hop in your car and begin your ride back to the hotel. The ride is nothing but silent aside from the glances Sylvia keeps giving you when she hopes you're not able to see."
-    ""
+    "Vocês dois entram no seu carro e começam sua viagem de volta ao hotel. A viagem é silenciosa, exceto pelas olhares que Sylvia continua te dando quando espera que você não consiga ver."
 
 # game/script.rpy:12326
 translate pt_br nextfrontdoor_b0d2ce86:
 
     # "She's likely unsure of your intentions still. You spent a lot of money on her, but people have before. People she wants to get away from..."
-    ""
+    "Ela provavelmente ainda não tem certeza sobre suas intenções. Você gastou bastante dinheiro nela, mas outras pessoas já gastaram antes. Pessoas que ela quer ficar longe..."
 
 # game/script.rpy:12331
 translate pt_br nextfrontdoor_d53cb1a2:
 
     # "You drive to the Happy Home Academy building in Corpus city, where Ann is living..."
-    ""
+    "Você dirige até o prédio da Academia Casa Feliz na cidade Corpus, onde Ann está morando..."
 
 # game/script.rpy:12332
 translate pt_br nextfrontdoor_5a70503e:
 
     # "Not long after, you arrive. You sign in and wait for the employees. After an annoyingly long and needless wait, they bring Ann to you."
-    ""
+    "Pouco tempo depois, você chega. Você assina e espera pelos funcionários. Após uma espera irritantemente longa e desnecessária, eles trazem Ann até você."
 
 # game/script.rpy:12333
 translate pt_br nextfrontdoor_4afa3344:
 
     # "A sigh of relief, followed by a smile, followed by a wave comes from Ann. She's clearly happy to see you."
-    ""
+    "Um suspiro de alívio, seguido por um sorriso, seguido por um aceno vem de Ann. Ela claramente está feliz em te ver."
 
 # game/script.rpy:12334
 translate pt_br nextfrontdoor_8ddb1176:
 
     # "You both hop in your car and begin your ride back to the hotel. Your ride is mostly boring aside from the glances Ann keeps giving your crotch. She tries to make it obvious she's looking."
-    ""
+    "Vocês dois entram no seu carro e começam sua viagem de volta ao hotel. Sua viagem é mais chata, exceto pelos olhares que Ann fica dando à sua virilha. Ela tenta deixar óbvio que está olhando."
 
 # game/script.rpy:12342
 translate pt_br nextfrontdoor_fb04dc12:
 
     # "Nothing is here..."
-    ""
+    "Não tem nada aqui..."
 
 # game/script.rpy:12380
 translate pt_br shower_9624c1aa:
 
     # m "Heheheh..."
-    m ""
+    m "Heheheh..."
 
 # game/script.rpy:12381
 translate pt_br shower_d05ac48e:
 
     # c "Maria? What are you doing?"
-    c ""
+    c "Maria? O que você está fazendo?"
 
 # game/script.rpy:12383
 translate pt_br shower_50ddb1f9:
 
     # m "Huh!?"
-    m ""
+    m "Huh!?"
 
 # game/script.rpy:12385
 translate pt_br shower_32da8826:
 
     # m "Oh, [name], you scared me... I'm spying on Ellen, so be quiet."
-    m ""
+    m "Ah, [name], você me assustou... Eu estou espionando a Ellen, então faça silêncio."
 
 # game/script.rpy:12386
 translate pt_br shower_672d3131:
 
     # m "I've never seen her naked before, but she just won't turn around!"
-    m ""
+    m "Eu nunca vi ela nua antes, mas ela simplesmente não se vira!"
 
 # game/script.rpy:12388
 translate pt_br shower_9f9f1ae6:
 
     # m "But her ass is pretty big... I just wanna... spank it!"
-    m ""
+    m "Mas a bunda dela é muito grande... Eu só queria... bater nela!"
 
 # game/script.rpy:12389
 translate pt_br shower_d5c7c5f3:
 
     # m "Come here, take a look..."
-    m ""
+    m "Vem cá, dá uma olhada..."
 
 # game/script.rpy:12391
 translate pt_br shower_510b0a8f:
 
     # m "Look, she has tan lines, and they're so skimpy too! She must have had some fun at the beach..."
-    m ""
+    m "Olha, ela tem marcas de bronzeamento, e elas são tão pequenas também! Ela deve ter se divertido na praia..."
 
 # game/script.rpy:12395
 translate pt_br shower_84177422:
 
     # m "Urghhh! Why won't you turn around!? *gasp*! I got it!"
-    m ""
+    m "Urghhh! Por que ela não se vira!? *espanto*! Já sei!"
 
 # game/script.rpy:12397
 translate pt_br shower_a9b68ff5:
 
     # m "You want to see her tits too, right? Let's steal her clothes! We'll wait for her to come out and I'll finally be able to see those breasts!"
-    m ""
+    m "Você quer ver as tetas dela também, não é? Vamos roubar as roupas dela! Nós vamos esperar ela sair e eu finalmente vou conseguir ver aquelas tetas!"
 
 # game/script.rpy:12398
 translate pt_br shower_fa8dd586:
 
     # m "You'll help, right?"
-    m ""
+    m "Você vai ajudar, né?"
 
 # game/script.rpy:12399
 translate pt_br shower_5c56d1e3:
 
     # c "Sure, couldn't hurt."
-    c ""
+    c "Claro, não vai fazer mal."
 
 # game/script.rpy:12400
 translate pt_br shower_2b76f619:
 
     # m "Yes! C'mon let's find her clothes."
-    m ""
+    m "Isso! Vem, vamos encontrar as roupas dela."
 
 # game/script.rpy:12402
 translate pt_br shower_95773998:
 
     # "You and Maria sneakily search for Ellen's clothes, not long after you find everything. Her underwear is scarlet red and lacey."
-    ""
+    "Você e Maria sorrateiramente procuram pelas roupas de Ellen, pouco tempo depois vocês encontram tudo. As roupas íntimas dela são vermelhas e rendadas."
 
 # game/script.rpy:12403
 translate pt_br shower_f448c217:
 
     # m "Alright [name], let's hide and wait!"
-    m ""
+    m "Beleza [name], vamos nos esconder e esperar!"
 
 # game/script.rpy:12405
 translate pt_br shower_34e14e59:
 
     # m "She turned off the shower, she's coming out soon!"
-    m ""
+    m "Ela desligou o chuveiro, ela vai vir logo!"
 
 # game/script.rpy:12407
 translate pt_br shower_03f042b5:
 
     # e "Oh... where did I put my clothes...?"
-    e ""
+    e "Ah... onde eu deixei as minhas roupas...?"
 
 # game/script.rpy:12409
 translate pt_br shower_be58fcf7:
 
     # e "Oh! [name] did you come to use the shower? I'm so sorry, I can't seem to find my clothes, can you give me min-"
-    e ""
+    e "Ah! [name] você veio usar o chuveiro? EU sinto muitíssimo, não estou conseguindo encotrar minhas roupas, você pode me dar um-"
 
 # game/script.rpy:12411
 translate pt_br shower_efa9ec7c:
 
     # m "Ellen!!!"
-    m ""
+    m "Ellen!!!"
 
 # game/script.rpy:12412
 translate pt_br shower_1e08eb3c:
 
     # e "Maria, is that you!?"
-    e ""
+    e "Maria, é você!?"
 
 # game/script.rpy:12415
 translate pt_br shower_1978b95b:
 
     # m "I knew it, your tits are so soft, they're natural right?"
-    m ""
+    m "Eu sabia, suas tetas são tão macias, elas são naturais, né?"
 
 # game/script.rpy:12416
 translate pt_br shower_cefd0adb:
 
     # e "Maria, this isn't the time or place to be talking about that sort of thing, what are you doing?"
-    e ""
+    e "Maria, esse não é nem a hora e nem o local para estar falando sobre essas coisas, o que você está fazendo?"
 
 # game/script.rpy:12418
 translate pt_br shower_af7a48fb:
 
     # m "Mmmmm~! Ah, your tits are amazing, I'm so jealous!"
-    m ""
+    m "Mmmmm~! Ah, suas tetas são incríveis, estou com tanta inveja!"
 
 # game/script.rpy:12421
 translate pt_br shower_831688b0:
 
     # e "You shouldn't be doing this, Maria..."
-    e ""
+    e "Você não deveria estar fazendo isso, Maria..."
 
 # game/script.rpy:12422
 translate pt_br shower_e3493cff:
 
     # m "I don't care, they feel so goood~"
-    m ""
+    m "Eu não ligo, elas são tão gostooosas~"
 
 # game/script.rpy:12424
 translate pt_br shower_784035cf:
 
     # m "Ohh~ and your ass! It's so big!"
-    m ""
+    m "Ahh~ e a sua bunda! É tão grande!"
 
 # game/script.rpy:12428
 translate pt_br shower_3c6ac26b:
 
     # e "Maria! What do you think you're doing!?"
-    e ""
+    e "Maria! O que você pensa que está fazendo!?"
 
 # game/script.rpy:12430
 translate pt_br shower_05582c87:
 
     # m "*gasp*! Your pussy! It's so pretty and warm inside..."
-    m ""
+    m "*espanto*! A sua buceta! É tão bonita e quente dentro..."
 
 # game/script.rpy:12434
 translate pt_br shower_0bbbdfbf:
 
     # e "MARIA! What are you doing!?"
-    e ""
+    e "MARIA! O que você está fazendo!?"
 
 # game/script.rpy:12435
 translate pt_br shower_53866f05:
 
     # e "You can't just touch me wherever you like! Especially when [name] is watching! Explain yourself!"
-    e ""
+    e "Você não pode só sair me tocando onde você quiser! Principalmente quando [name] está vendo! Explique-se!"
 
 # game/script.rpy:12436
 translate pt_br shower_2b60f719:
 
     # m "I just wanted to see you naked! [name] did too!"
-    m ""
+    m "Eu só queria ver você nua! O [name] queria também!"
 
 # game/script.rpy:12438
 translate pt_br shower_455af98c:
 
     # e "Well, that's really sweet of you [name], but he's a boy... All boys want to see women naked."
-    e ""
+    e "Bem, isso é muito gfofo da sua parte [name], mas ele é um menino... Todos os meninos querem ver as mulheres nuas."
 
 # game/script.rpy:12440
 translate pt_br shower_198bf5d0:
 
     # e "But what you did is inexcusable! You shouldn't do things like that to me, and you should ask first either way!"
-    e ""
+    e "Mas isso que você fez não tem desculpa! Você não pode sair fazendo essas coisas comigo, e devia perguntar primeiro, de qualquer jeito! "
 
 # game/script.rpy:12441
 translate pt_br shower_277757c1:
 
     # m "I'm sorry... can... can I take a picture at least?"
-    m ""
+    m "Me desculpa... eu... eu posso pelo menos tirar uma foto?"
 
 # game/script.rpy:12442
 translate pt_br shower_6808543d:
 
     # e "No! You may not take a picture!"
-    e ""
+    e "Não! Você não pode tirar uma foto!"
 
 # game/script.rpy:12443
 translate pt_br shower_0710b814:
 
     # m "Okay..."
-    m ""
+    m "Tudo bem..."
 
 # game/script.rpy:12444
 translate pt_br shower_f1667bc7:
 
     # e "Maria, did you take my clothes?"
-    e ""
+    e "Maria, você pegou as minhas roupas?"
 
 # game/script.rpy:12445
 translate pt_br shower_d0add6a8:
 
     # m "Yes..."
-    m ""
+    m "Sim..."
 
 # game/script.rpy:12446
 translate pt_br shower_daa35326:
 
     # e "Give them back to me... Right now."
-    e ""
+    e "Devolva elas para mim... Agora."
 
 # game/script.rpy:12447
 translate pt_br shower_f041030e:
 
     # m "Yes ma'am..."
-    m ""
+    m "Sim senhora..."
 
 # game/script.rpy:12449
 translate pt_br shower_65c4a8fe:
 
     # m "Ahhn~ Look at her ass sway as she walks... I'm gonna have so many wet dreams tonight..."
-    m ""
+    m "Ahhmn~ Olha como a bunda dela balança enquanto ela anda... Eu vou ter tantos sonhos molhados esta noite..."
 
 # game/script.rpy:12459
 translate pt_br shower_53f79ef6:
