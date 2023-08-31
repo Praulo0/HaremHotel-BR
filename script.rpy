@@ -300,7 +300,7 @@ translate pt_br intro_bd4d3cfc:
 translate pt_br intro_dd042525:
 
     # fat "Hello~ We're so happy to have you flying on Syl-Air, sir! It will no doubt be a better place with you immigrating here!"
-    fat "Olá~Nós estamos tão felizes por ter você voando em Syl'air, senhor! Eu não tenho duvidas qua será um lugar melhor com você imigrando para cá!"
+    fat "Olá~ Nós estamos tão felizes por ter você voando em Syl'air, senhor! Eu não tenho duvidas qua será um lugar melhor com você imigrando para cá!"
 
 # game/script.rpy:510
 translate pt_br intro_598ae166:
@@ -8744,7 +8744,7 @@ translate pt_br lobby_2b302a13:
 translate pt_br lobby_4e836ce6:
 
     # m "Okay! Oh my god Ashley what's gotten into you!?"
-    m "Tá bom! Mu deus Ashley, o que deu em você!?"
+    m "Tá bom! Meu deus Ashley, o que deu em você!?"
 
 # game/script.rpy:6463
 translate pt_br lobby_0c2641f6:
@@ -23506,211 +23506,211 @@ translate pt_br shower_53f79ef6:
 translate pt_br shower_98d1ee0e:
 
     # f "Oh, hey [name]! Did you come to join me?"
-    f ""
+    f "Ah, ei [name]! Veio me acompanhar?"
 
 # game/script.rpy:12467
 translate pt_br shower_678ae389:
 
     # f "Or, did you just want to have shower sex...?"
-    f ""
+    f "Ou, você só veio fazer sexo no chuveiro...?"
 
 # game/script.rpy:12470
 translate pt_br shower_16aaddf9:
 
     # f "Heh, prepare your cock, because I'm going to fuck the cum out of you!"
-    f ""
+    f "Heh, prepare seu pau, porque eu vou te foder até gozar!"
 
 # game/script.rpy:12472
 translate pt_br shower_220e6a1f:
 
     # f "Ahnn! Mmm, how's the view back there? Hahah!"
-    f ""
+    f "Ahnn! Mmm, como é a vista aí atrás? Hahah!"
 
 # game/script.rpy:12473
 translate pt_br shower_f7d1a3c1:
 
     # f "Ahh~ Fuck! How's my tight little pussy, [name]~? About to blow your load? Heh!"
-    f ""
+    f "Ahh~ Porra! o que acha da minha bucetinha apertada, [name]~? Já vai soltar sua carga? Heh"
 
 # game/script.rpy:12474
 translate pt_br shower_034d6c45:
 
     # f "You should probably- Nn! Cum inside, Ah! I just got all clean, it would be a shame if you got me all dirty~!"
-    f ""
+    f "Provavelmente é melhor você- Nn! Goza dentro, Ah! Eu acabei de me limpar toda, seria uma pena se você me sujasse toda de novo~!"
 
 # game/script.rpy:12477
 translate pt_br shower_a833f291:
 
     # f "Nyah~ Nnn! Fuck, yes! Mmm!"
-    f ""
+    f "Nyah~ Nnn! Porra, isso! Mmm!"
 
 # game/script.rpy:12478
 translate pt_br shower_6d8fed3b:
 
     # f "Cum inside mee~ Cum inside!"
-    f ""
+    f "Goza dentro te miim~ Goza dentro!"
 
 # game/script.rpy:12479
 translate pt_br shower_7cb5e8d3:
 
     # f "I want to feel your hot sticky cum deep inside my little pussy [name]~!"
-    f ""
+    f "Eu quero sentir sentir o seu gozo quente e grudento dentro da minha bucetinha [name]~!"
 
 # game/script.rpy:12481
 translate pt_br shower_869aa8a5:
 
     # f "AHH! Yes!" with ssshake
-    f "" with ssshake
+    f "AHH! Isso!" with ssshake
 
 # game/script.rpy:12482
 translate pt_br shower_2df1d428:
 
     # f "Nnn! You're filling my pussy up [name]! Yes, yes!" with ssshake
-    f "" with ssshake
+    f "Nnn! Você está enchendo minha buceta toda [name]! Isso, isso!" with ssshake
 
 # game/script.rpy:12483
 translate pt_br shower_16939a2d:
 
     # f "Ahhhhhnnn~~~!" with ssshake
-    f "" with ssshake
+    f "Ahhhhhnnn~~~!" with ssshake
 
 # game/script.rpy:12485
 translate pt_br shower_c07ce1d6:
 
     # f "Ah! Hahh... That was amazing..." with ssshake
-    f "" with ssshake
+    f "Ah! Hahh... Isso foi incrível..." with ssshake
 
 # game/script.rpy:12495
 translate pt_br shower_b41f5577:
 
     # f "Urgh!"
-    f ""
+    f "Urgh!"
 
 # game/script.rpy:12499
 translate pt_br shower_698131f2:
 
     # f "What are you doing in here pervert!? Get out!!!"
-    f ""
+    f "O que você está fazendo aqui, pervertido!? Cai fora!!!"
 
 # game/script.rpy:12508
 translate pt_br shower_03fd0c9f:
 
     # em "Ahh..."
-    em ""
+    em "Ahh..."
 
 # game/script.rpy:12515
 translate pt_br shower_c893217c:
 
     # em "I knew it! You were following me in here weren't you?"
-    em ""
+    em "Eu sabia! Você estava me seguindo, não estava?"
 
 # game/script.rpy:12516
 translate pt_br shower_d8d4e1b3:
 
     # em "You wanted to have shower sex, didn't you!"
-    em ""
+    em "Você quer fazer sexo no chuveiro, né!"
 
 # game/script.rpy:12519
 translate pt_br shower_190ae0ac:
 
     # em "Awesome! I can't wait!"
-    em ""
+    em "Maravilha! Mal posso esperar!"
 
 # game/script.rpy:12521
 translate pt_br shower_ecec8ce3:
 
     # em "Ah~ [name]! You're treating me so roughly~ I love it! Hnn!"
-    em ""
+    em "Ah~ [name]! Você está me tratando tão mal~ Eu amo isso! Hnn!"
 
 # game/script.rpy:12522
 translate pt_br shower_84041b98:
 
     # em "Ohh~ Nnn! Fuck! Are you trying to milk me~? Hah! Ohh!"
-    em ""
+    em "Ohh~ Nnn! Porra! Você está tentando tirar leite de mim~? Hah! Ohh!"
 
 # game/script.rpy:12523
 translate pt_br shower_7dea8959:
 
     # em "Mm! You love my big tits, right? Ah! I love it when you touch them~!"
-    em ""
+    em "Mm! Você ama as minhas tetonas, né? Ah! Eu amo quando você toca nelas~!"
 
 # game/script.rpy:12527
 translate pt_br shower_2672015e:
 
     # em "Fuck, this view is so hot! I can see your cock ramming into my pussy! Nnnn!"
-    em ""
+    em "Porra, essa visão é tão excitante! Eu consigo ver o seu pau batendo na minnha buceta! Nnnn!"
 
 # game/script.rpy:12528
 translate pt_br shower_8a773880:
 
     # em "Ahhh! Hahh! Are you trying to breed me? Like a bitch in heat~? Nnn! Yes! Breed me [name]!"
-    em ""
+    em "Ahhh! Hahh! Você está tentando cruzar comigo? Como se eu fosse uma cadela no cio~? Sim! Cruze comigo [name]!"
 
 # game/script.rpy:12529
 translate pt_br shower_8336337c:
 
     # em "Ah! Ah! Ahhhh! Cum all over me [name]! All over my tits! I don't care if I have to wash again, I want your hot cum all over my tits!!!"
-    em ""
+    em "Ah! Ah! Ahhhh! Goza tudo em [name]! Tudo nas minhas tetas! Eu não ligo se tiver que me lavar de novo, eu quero todo o seu gozo quente nas minhas tetas!!!"
 
 # game/script.rpy:12533
 translate pt_br shower_4b1aca32:
 
     # em "OHH! NN!" with ssshake
-    em "" with ssshake
+    em "OHH! NN!" with ssshake
 
 # game/script.rpy:12534
 translate pt_br shower_9a173376:
 
     # em "Yes! Breed me like I'm your bitch!!!" with ssshake
-    em "" with ssshake
+    em "Isso! Cruze comigo como se eu fosse a sua puta!!!" with ssshake
 
 # game/script.rpy:12535
 translate pt_br shower_f2e67407:
 
     # em "Ahhhhhh~!" with ssshake
-    em "" with ssshake
+    em "Ahhhhhh~!" with ssshake
 
 # game/script.rpy:12540
 translate pt_br shower_d161bcc1:
 
     # em "Ahn~!" with ssshake
-    em "" with ssshake
+    em "Ahn~!" with ssshake
 
 # game/script.rpy:12541
 translate pt_br shower_229be65b:
 
     # em "Yes! You came all over me!"
-    em ""
+    em "Isso! Você gozou tudo em mim!"
 
 # game/script.rpy:12544
 translate pt_br shower_c04e2fb8:
 
     # em "Hahhh... Nn, shower sex is amazing...!"
-    em ""
+    em "Hahhh... Nn, sexo no chuveiro é incrível...!"
 
 # game/script.rpy:12552
 translate pt_br shower_1e5c8330:
 
     # em "Aw!"
-    em ""
+    em "Aw!"
 
 # game/script.rpy:12556
 translate pt_br shower_86f4ad16:
 
     # em "What are you doing!? Get out of here!"
-    em ""
+    em "O que você está fazendo!? Cai fora daqui!"
 
 # game/script.rpy:12564
 translate pt_br shower_cde7440f:
 
     # "ERROR"
-    ""
+    "ERRO"
 
 # game/script.rpy:12568
 translate pt_br shower_dca537ae:
 
     # r "Just kidding. I don't know how you got here though. Off to the lobby with you!"
-    r ""
+    r "É brincadeira. Mas eu não sei como você chegou aqui. Eu vou com você até a sala de recepção!"
 
 # game/script.rpy:12574
 translate pt_br shower_f65fbb6b:
