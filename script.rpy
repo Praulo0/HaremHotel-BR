@@ -330,13 +330,13 @@ translate pt_br intro_fa642051:
 translate pt_br intro_f51060df:
 
     # fat "You're very welcome! Good luck!"
-    fat "Você é muito bem vindo! Boa sorte!"
+    fat "Não há de quê! Boa sorte!"
 
 # game/script.rpy:518
 translate pt_br intro_2ab7ceba:
 
     # fat "Happy? Yes, I'm very happy!"
-    fat "Feliz? Sim, eu sou muito feliz!"
+    fat "Feliz? Sim, eu estou muito feliz!"
 
 # game/script.rpy:519
 translate pt_br intro_24cd2c64:
@@ -14841,7 +14841,7 @@ translate pt_br explore_brothel1_9c9bbb44:
 translate pt_br explore_brothel1_22c42488:
 
     # rbun "Okay, from cheapest to most expensive we have... footjobs, handjobs, cunnilingus, blowjobs, vaginal and anal.\nWe also have threesome and foursome options, both for majority male and female parties."
-    rbun "Certo, do mais barato ao mais caro que nós temos... penheta, punheta, beijo grego, sexo oral, vaginal e anal.\nNós também oferecemos opções com trisal e em quatro, tanto para partidos de maioria masculina quanto feminina.
+    rbun "Certo, do mais barato ao mais caro que nós temos... penheta, punheta, beijo grego, boquete, vaginal e anal.\nNós também oferecemos opções com trisal e em quatro, tanto para partidos de maioria masculina quanto feminina.
 
 # game/script.rpy:9182
 translate pt_br explore_brothel1_e4067c60:
@@ -15135,19 +15135,19 @@ translate pt_br explore_brothel1_6fef7ce7:
 translate pt_br explore_brothel1_68617536:
 
     # rbun "{i}Check, check, and check...{/i}\nOkay, um... assuming you had your way with me today, how would you rate your experience? Was I able to please you to your specifications? Hypothetically."
-    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria comigo hoje, como você classificaria a sua experiência? Eu fui capaz de te agradar de acordo com suas especificações? Hipotéticamente."
+    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria comigo hoje, como você classificaria a sua experiência? Eu fui capaz de te satisfazer de acordo com suas especificações? Hipotéticamente."
 
 # game/script.rpy:9285
 translate pt_br explore_brothel1_e172868c:
 
     # rbun "{i}Check, check, and check...{/i}\nOkay, um... assuming you had your way with blue bunny today, how would you rate your experience? Was she able to please you to your specifications? Hypothetically."
-    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria com a coelhinha azul hoje, como você classificaria a sua experiência? Ela foi capaz de te agradar de acordo com suas especificações? Hipotéticamente."
+    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria com a coelhinha azul hoje, como você classificaria a sua experiência? Ela foi capaz de te satisfazer de acordo com suas especificações? Hipotéticamente."
 
 # game/script.rpy:9287
 translate pt_br explore_brothel1_8f03e1bd:
 
     # rbun "{i}Check, check, and check...{/i}\nOkay, um... assuming you had your way with purple bunny today, how would you rate your experience? Was she able to please you to your specifications? Hypothetically."
-    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria com a coelhinha roxa hoje, como você classificaria a sua experiência? Ela foi capaz de te agradar de acordo com suas especificações? Hipotéticamente."
+    rbun "{i}Confere, confere e confere...{/i}nCerto, um... assumindo que você fez o que queria com a coelhinha roxa hoje, como você classificaria a sua experiência? Ela foi capaz de te satisfazer de acordo com suas especificações? Hipotéticamente."
 
 # game/script.rpy:9288
 translate pt_br explore_brothel1_9633229f:
@@ -15855,13 +15855,13 @@ translate pt_br purpbun_blowjob_c310a9d4:
 translate pt_br purpbun_blowjob_b551a16d:
 
     # pbun "Lllmn, yeah...! Are you gonna cum for me? Mmmn! Cum whenever you want, mmmh! Treat me like your cumdump whore!"
-    pbun "Lllmn, isso...! VocÊ vai gozar pra mim? Mmmn! Pde gozar quando você quiser, mmmh! Me trata como a sua vadia-depósito de porra!"
+    pbun "Lllmn, isso...! Você vai gozar pra mim? Mmmn! Pode gozar quando você quiser, mmmh! Me trata como a sua vadia-depósito de porra!"
 
 # game/script.rpy:9613
 translate pt_br purpbun_blowjob_acc13d3e:
 
     # pbun "Hmmmngh! Yeah! Cum for me! Mmmh! Cum for me, cum for me! Ohhh fuck I want it~!"
-    pbun "Hmmmgn! Isso! Goza pra mim! Mmmh! Goxza pra mim, goza pra mim! Ohhh porra, eu quero isso~!"
+    pbun "Hmmmgn! Isso! Goza pra mim! Mmmh! Goza pra mim, goza pra mim! Ohhh porra, eu quero isso~!"
 
 # game/script.rpy:9618
 translate pt_br purpbun_blowjob_3e6e43b4:
@@ -18736,7 +18736,7 @@ translate pt_br explore_cafe1_9db3a7b8:
 translate pt_br explore_cafe1_c5f84d67:
 
     # eri "I've been looking for a new job, and this company only hires humans to work here, so I think my chances might be good!"
-    eri "Eu estive procurando por um trabalhoh novo, e essa companhia só contrata humanos para trabalhar aqui, então eu acho que minhas chances podem ser boas!"
+    eri "Eu estive procurando por um trabalho novo, e essa companhia só contrata humanos para trabalhar aqui, então eu acho que minhas chances podem ser boas!"
 
 # game/script.rpy:10726
 translate pt_br explore_cafe1_1ca4538f:
@@ -23308,7 +23308,7 @@ translate pt_br shower_84177422:
 translate pt_br shower_a9b68ff5:
 
     # m "You want to see her tits too, right? Let's steal her clothes! We'll wait for her to come out and I'll finally be able to see those breasts!"
-    m "Você quer ver as tetas dela também, não é? Vamos roubar as roupas dela! Nós vamos esperar ela sair e eu finalmente vou conseguir ver aquelas tetas!"
+    m "Você quer ver as tetas dela também, não é? Vamos roubar as roupas dela! Nós vamos esperar ela sair e eu finalmente vou conseguir ver aqueles peitos!"
 
 # game/script.rpy:12398
 translate pt_br shower_fa8dd586:
@@ -23716,319 +23716,319 @@ translate pt_br shower_dca537ae:
 translate pt_br shower_f65fbb6b:
 
     # k "Hmmmmm..."
-    k ""
+    k "Hmmmmm..."
 
 # game/script.rpy:12581
 translate pt_br shower_4d5bbaea:
 
     # k "Oh... [name]... did you want to join me...?"
-    k ""
+    k "Ah... [name]... veio me acompanhar...?"
 
 # game/script.rpy:12584
 translate pt_br shower_eea61b3a:
 
     # k "Cool... I could use some help..."
-    k ""
+    k "Legal... Eu precisava de ajuda mesmo..."
 
 # game/script.rpy:12586
 translate pt_br shower_e692afd9:
 
     # k "Ahhn! Ahh... fuck! Nngh! No foreplay or anything, did you just come in here to use me? Hnng..."
-    k ""
+    k "Ahhn! Ahh... porra! Nngh! Sem preliminares nem nada, você só veio aqui para me usar? Hnn..."
 
 # game/script.rpy:12587
 translate pt_br shower_878ef4ff:
 
     # k "Nnnh! Hey, I can't really move much here... Ah... wait, you're not planning on cumming inside me, right? MMN!"
-    k ""
+    k "Nnnh! Ei, eu não consigo me mexer muito bem aqui... Ah... espera, você não esttá planejando gozar dentro de mim, né? MMN!"
 
 # game/script.rpy:12588
 translate pt_br shower_cdc7642e:
 
     # k "Mmmn...! Ah... I don't care about that right now, just fuck me! Mn! Harder! Ahhhnn! NN!"
-    k ""
+    k "Mmmn...! Ah... Eu não ligo pra isso agora, só me fode! Mn! Mais forte! Ahhhnn! NN!"
 
 # game/script.rpy:12591
 translate pt_br shower_e063cb62:
 
     # k "Ahhh...! Shit! NNGH, fuck!"
-    k ""
+    k "Ahhh...! Merda! NNGH, porra!"
 
 # game/script.rpy:12592
 translate pt_br shower_a9df453f:
 
     # k "Ahh...! Yes, don't stop! Mmh! Fuck...! You feel so good...!"
-    k ""
+    k "Ahh...! Isso, não para! Mmh! Porra...! Você é tão bom...!"
 
 # game/script.rpy:12597
 translate pt_br shower_796e226d:
 
     # k "Ahhh!!" with ssshake
-    k "" with ssshake
+    k "Ahhh!!" with ssshake
 
 # game/script.rpy:12598
 translate pt_br shower_aaccf6b7:
 
     # k "Nggg!" with ssshake
-    k "" with ssshake
+    k "Nggg!" with ssshake
 
 # game/script.rpy:12599
 translate pt_br shower_84ba2ed6:
 
     # k "Ah..." with ssshake
-    k "" with ssshake
+    k "Ah..." with ssshake
 
 # game/script.rpy:12602
 translate pt_br shower_d27dcf1f:
 
     # k "Shit... you shouldn't cum inside me, daddy- uh, [name]..."
-    k ""
+    k "Merda... você não devia ter gozado dentro de mim, papai=- uh, [name]..."
 
 # game/script.rpy:12604
 translate pt_br shower_369ec413:
 
     # k "Shit... you shouldn't cum inside me, [name]..."
-    k ""
+    k "Merda... você não devia ter gozado dentro de mim, [name]..."
 
 # game/script.rpy:12610
 translate pt_br shower_2464a20c:
 
     # k "Ahh!" with ssshake
-    k "" with ssshake
+    k "Ahh!" with ssshake
 
 # game/script.rpy:12611
 translate pt_br shower_659efe55:
 
     # k "Mmmm... that was so good... Now I'm going to shower again..."
-    k "Mmmm..."
+    k "Mmmm... isso foi tão bom... Agora eu vou ter que me lavar de novo..."
 
 # game/script.rpy:12626
 translate pt_br shower_69bc7e51:
 
     # k "What are you doing!? Get out!"
-    k ""
+    k "O que você está fazendo? Cai fora!"
 
 # game/script.rpy:12642
 translate pt_br shower_ea1a827a:
 
     # l "Hmm hm hmmmmm... hmm hm hmm..."
-    l ""
+    l "Hmm hm hmmmmm... hmm hm hmm..."
 
 # game/script.rpy:12648
 translate pt_br shower_682a460e:
 
     # l "[linoname]! W-What are you doing?"
-    l ""
+    l "[linoname]! O-O que você está fazendo?"
 
 # game/script.rpy:12651
 translate pt_br shower_1da390d2:
 
     # l "Did you come to join me, [linoname]...?"
-    l ""
+    l "Você veio me acompanhar, [linoname]...?"
 
 # game/script.rpy:12655
 translate pt_br shower_e0bd6f85:
 
     # l "Yay!"
-    l "Yay!"
+    l "Yes!"
 
 # game/script.rpy:12657
 translate pt_br shower_f10a8163:
 
     # l "AHHhhh!!! You put it in so suddenly! EGH!" with ssshake
-    l "" with ssshake
+    l "AHHhhh!!! Você colocou do nada! EGH!" with ssshake
 
 # game/script.rpy:12658
 translate pt_br shower_6e60566e:
 
     # l "Ahh! NNN! It hurts...! Nh, slower...! Mmmh! Ahh...!"
-    l ""
+    l "Ahh! NNN! Está doendo..! Nh, mais devagar...!"
 
 # game/script.rpy:12659
 translate pt_br shower_598f25e3:
 
     # l "Ahhh...! NNNH! Ahhh... How does my ass feel, [linoname]? Mmm...! You feel so good in my butt!"
-    l ""
+    l "Ahhh...! NNNH! Ahhh... O que está achando da minha bunda, [linoname]? Mmm...! Você é tão gostoso na minha bunda!"
 
 # game/script.rpy:12660
 translate pt_br shower_78959d6b:
 
     # l "Ahh! Hahh! Nnn! Ohh, [linoname]! Ah! Yes! Fuck my ass, [linoname]! Mmh!"
-    l ""
+    l "Ahh! Hahh! Nnn! Ohh, [linoname]! Ah! Isso! Fode a minha bunda, [linoname]! Mmh!"
 
 # game/script.rpy:12661
 translate pt_br shower_693a9159:
 
     # l "[linoname], are you going to cum inside?"
-    l ""
+    l "[linoname], você vai gozar dentro?"
 
 # game/script.rpy:12664
 translate pt_br shower_b428a3b9:
 
     # l "[linoname], are you going to cum inside? Please fill me up! Don't stop, just keep fucking me!"
-    l ""
+    l "[linoname], você vai gozar dentro? Por favor me encha toda!! Não para, só continua me fodendo!"
 
 # game/script.rpy:12665
 translate pt_br shower_111495a6:
 
     # l "Ah! [linoname]! [linoname]! [linoname]! Cum inside my ass! Ahhh!"
-    l ""
+    l "Ah! [linoname]! [linoname]! [linoname]! Goza dentro da minha bunda! Ahhh!"
 
 # game/script.rpy:12667
 translate pt_br shower_45c92196:
 
     # l "Ahh!" with ssshake
-    l "" with ssshake
+    l "Ahh!" with ssshake
 
 # game/script.rpy:12668
 translate pt_br shower_ce1bb851:
 
     # l "Mmmmn! You're filling me up so much, [linoname]!" with ssshake
-    l "" with ssshake
+    l "Mmmmn! Você está me enchendo tanton [linoname]!" with ssshake
 
 # game/script.rpy:12669
 translate pt_br shower_4e818923:
 
     # l "Ah..." with ssshake
-    l "" with ssshake
+    l "Ah..." with ssshake
 
 # game/script.rpy:12670
 translate pt_br shower_6180a1c7:
 
     # l "Ah... wow... you came a lot, [linoname]..."
-    l ""
+    l "Ah... uau... você gozou muito, [linoname]"
 
 # game/script.rpy:12677
 translate pt_br shower_a1625018:
 
     # l "Oh... okay [linoname]..."
-    l "Ah... tudo bem [linoname]."
+    l "Ah... tudo bem [linoname]..."
 
 # game/script.rpy:12682
 translate pt_br shower_6d686373:
 
     # l "Please look away... I'm taking a shower..."
-    l ""
+    l "Por favor olhe para outro lugar... Eu estou tomando banho..."
 
 # game/script.rpy:12693
 translate pt_br shower_6332c773:
 
     # a "Ahhhh..."
-    a ""
+    a "Ahhhh..."
 
 # game/script.rpy:12700
 translate pt_br shower_b7448cc7:
 
     # a "[name]! Did you come to join me? Hehe~"
-    a ""
+    a "[name]! Você veio me acompanhar? Hehe~"
 
 # game/script.rpy:12704
 translate pt_br shower_049944b8:
 
     # a "Yay! Join me~"
-    a "Yay!"
+    a "Yes! Vem ficar comigo~"
 
 # game/script.rpy:12706
 translate pt_br shower_36ac1670:
 
     # a "Ohh, is this why you wanted to join? So you could touch my cute little body? I don't mind~"
-    a ""
+    a "Ahh, é por isso que você quis vir? Para você poder tocar no meu corpinho fofo? Eu não me incomodo~"
 
 # game/script.rpy:12709
 translate pt_br shower_72de929d:
 
     # a "But if you want to fuck me, I'm going to need to get you hard, [linoname]~"
-    a ""
+    a "Mas se você quiser me foder, eu vou precisar te deixar duro, [linoname]~"
 
 # game/script.rpy:12711
 translate pt_br shower_0063b48a:
 
     # a "But if we're going to have some fun, I need to get your cock hard..."
-    a ""
+    a "Mas se você quiser se divertir um pouco, eu vou precisar deixar o seu pau duro..."
 
 # game/script.rpy:12714
 translate pt_br shower_9ea70e60:
 
     # a "Hehe~ It worked~"
-    a ""
+    a "Hehe~ Deu certo~"
 
 # game/script.rpy:12717
 translate pt_br shower_333679e2:
 
     # a "Ahhn! Oh, fuck! [linoname]! Aahhhh!"
-    a ""
+    a "Ahhhn! Ah, porra! [linoname]! Aahhhh!"
 
 # game/script.rpy:12719
 translate pt_br shower_3e07f852:
 
     # a "Ahhn! Oh, fuck! [name]! Aahhhh!"
-    a ""
+    a "Ahhn! Ah, porra! [name]! Aahhhh!"
 
 # game/script.rpy:12720
 translate pt_br shower_1b391623:
 
     # a "Fuck, fuck! Fuck me! Hnn! Hehe~ you're so rough with me, I love it!"
-    a ""
+    a "Cacete, caralho! Me fode! Hnn! Hehe~ Você está sendo tão bruto comigo, eu amo isso!"
 
 # game/script.rpy:12721
 translate pt_br shower_48bd7dc3:
 
     # a "Ahhhn~ Mmn! Yes! Don't stop, don't stop! Don't ever stop! Keep pounding my tight pussy until you explode inside! I want it!"
-    a ""
+    a "Ahhhn~ Mmn! Isso! Não para, não para! Não pare nunca! Continue empurrando na minha buceta apertada até você explodir dentro! Eu quero isso!"
 
 # game/script.rpy:12724
 translate pt_br shower_9d36f27e:
 
     # a "AH! Yes! Yes! Keep going! Keep going! Don't pull out, please!"
-    a ""
+    a "AH! ISSo! ISSO! Continua! Continua! Não tire, por favor!"
 
 # game/script.rpy:12725
 translate pt_br shower_9a06ca45:
 
     # a "I want it all inside, okay? AH!! Mmmn! AH! "
-    a ""
+    a "Eu quero tudo dentro, tá bom? AH!! Mmmn! AH!"
 
 # game/script.rpy:12727
 translate pt_br shower_5146896c:
 
     # a "AAAAAAAAAAAHHHN!" with ssshake
-    a "" with ssshake
+    a "AAAAAAAAAAAHHHN!" with ssshake
 
 # game/script.rpy:12728
 translate pt_br shower_12e62c4d:
 
     # a "HNNN!" with ssshake
-    a "" with ssshake
+    a "HNNN!" with ssshake
 
 # game/script.rpy:12729
 translate pt_br shower_fcba21bd:
 
     # a "Ahhhhhh~~~!" with ssshake
-    a "" with ssshake
+    a "Ahhhhhh~~~!" with ssshake
 
 # game/script.rpy:12730
 translate pt_br shower_7da63bb4:
 
     # a "Ish sho deehp inshide~"
-    a ""
+    a "Exhtá indho thão fundho~"
 
 # game/script.rpy:12739
 translate pt_br shower_4acbce00:
 
     # a "Your loss!"
-    a ""
+    a "Está perdendo!"
 
 # game/script.rpy:12743
 translate pt_br shower_c744a4a1:
 
     # a "[name]!? What are you doing in the women's shower...?"
-    a ""
+    a "[name]!? O que está fazendo no chuveiro feminino...?"
 
 # game/script.rpy:12744
 translate pt_br shower_1e37bff3:
 
     # a "I'm naked, you know..."
-    a ""
+    a "Eu estou pelada, sabe..."
 
 # game/script.rpy:12755
 translate pt_br shower_0510cf2b:
@@ -24040,1585 +24040,1585 @@ translate pt_br shower_0510cf2b:
 translate pt_br shower_56a5a2b9:
 
     # m "Come to join me [name]?"
-    m ""
+    m "Veio me acompanhar [name]?"
 
 # game/script.rpy:12766
 translate pt_br shower_d8c0c261:
 
     # m "Oh~ You wanna fuck?"
-    m ""
+    m "Ah~ Você quer foder?"
 
 # game/script.rpy:12770
 translate pt_br shower_bec883cf:
 
     # m "Nnn! ... From behind, huh? I'm ready..." with ssshake
-    m "" with ssshake
+    m "Nnn! ... Por trás, hein? Estou prepada..." with ssshake
 
 # game/script.rpy:12772
 translate pt_br shower_776b9825:
 
     # m "Ahhh, fuck..."
-    m ""
+    m "Ahhh, porra...."
 
 # game/script.rpy:12773
 translate pt_br shower_6e66cf1d:
 
     # m "Ah! You know I almost finished cleaning myself, right? Nnn... You're gonna get me all dirty again..."
-    m ""
+    m "AH! Você sabe que eujá tinha quase terminado de me lavar, né? Nnn... Você vai me deixar toda suja de novo..."
 
 # game/script.rpy:12776
 translate pt_br shower_5fbc3b27:
 
     # m "Ahhh fuck! You're hitting just the right spots..."
-    m ""
+    m "Ahhh porra! Você está acertando todos os lugares certos..."
 
 # game/script.rpy:12777
 translate pt_br shower_aa32c194:
 
     # m "Nnn! Fuck me crazy [name]! Fuck! Fuck!"
-    m ""
+    m "Nnn! Me fade até eu ficar louca [name]! Porra! Porra!"
 
 # game/script.rpy:12778
 translate pt_br shower_2ae151b5:
 
     # m "Just don't cum in-"
-    m ""
+    m "Só não goza den-"
 
 # game/script.rpy:12780
 translate pt_br shower_01f0d6e8:
 
     # m "-SIDE! NNGG!" with ssshake
-    m "" with ssshake
+    m "-TRO! NNGG!" with ssshake
 
 # game/script.rpy:12781
 translate pt_br shower_a6143e5d:
 
     # m "Mmmnngg!" with ssshake
-    m "" with ssshake
+    m "Mmmnngg!!" with ssshake
 
 # game/script.rpy:12782
 translate pt_br shower_5c5484a5:
 
     # m "Ffffuck!" with ssshake
-    m "" with ssshake
+    m "Pppporra!" with ssshake
 
 # game/script.rpy:12784
 translate pt_br shower_91b33608:
 
     # m "Nggh! Fuck... you came inside..."
-    m ""
+    m "Nggh! Porra... você gozou dentro..."
 
 # game/script.rpy:12785
 translate pt_br shower_a70550fe:
 
     # m "I guess I can't blame you too much, though... hahhh... I didn't get to finish my sentence... ahaha!"
-    m ""
+    m "Mas acho que não posso te culpar tanto... hahhh... Eu não tinha terminado minha frase... ahaha!"
 
 # game/script.rpy:12794
 translate pt_br shower_62314230:
 
     # m "Peeping, [name]?"
-    m ""
+    m "Bisbilhotando, [name]?"
 
 # game/script.rpy:12797
 translate pt_br shower_fc874b26:
 
     # m "Get out already, haha!"
-    m ""
+    m "Já pode ir embora, haha!"
 
 # game/script.rpy:12805
 translate pt_br shower_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:12812
 translate pt_br shower_f567e3b6:
 
     # bot "Oh! [botown]... You scared me..."
-    bot ""
+    bot "Ah! [botown]... Você me assustou"
 
 # game/script.rpy:12813
 translate pt_br shower_8f76b19d:
 
     # bot "Did you come to take a shower with me?"
-    bot ""
+    bot "Você veio tomar banho comigo?"
 
 # game/script.rpy:12816
 translate pt_br shower_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tudo bem..."
 
 # game/script.rpy:12818
 translate pt_br shower_789667ef:
 
     # bot "Heheh... Hi [botown]..."
-    bot ""
+    bot "Heheh... Oi [botown]..."
 
 # game/script.rpy:12820
 translate pt_br shower_a86e27cc:
 
     # bot "O-Oh... You're cleaning my boobs..."
-    bot ""
+    bot "A-Ah... Você está limpando meus seios..."
 
 # game/script.rpy:12824
 translate pt_br shower_7907ecf2:
 
     # bot "[botown]... I'm going to give you a boobjob, okay?"
-    bot ""
+    bot "[botown]... Eu vou te fazer uma espanhola, tá bom?"
 
 # game/script.rpy:12826
 translate pt_br shower_b37f0934:
 
     # bot "Hnnn..."
-    bot ""
+    bot "Hnnn..."
 
 # game/script.rpy:12827
 translate pt_br shower_116573cd:
 
     # bot "Thanks for cleaning my breasts for me [botown]... But now I'm going to get them dirty... Heheh!"
-    bot ""
+    bot "obrigada por limpar meus peitos para mim [botown]... Mas agora eu vou sujar tudo de novo... Heheh!"
 
 # game/script.rpy:12828
 translate pt_br shower_835e511a:
 
     # bot "Ahhh... Are my breasts soft, [botown]? I always take good care of them for you, so you can use them whenever you want..."
-    bot ""
+    bot "Ahhh... Meus peitos são macios, [botown]? Eu sempre cuido deles muito bem para você, então você pode usar eles sempre que quiser..."
 
 # game/script.rpy:12831
 translate pt_br shower_0382a370:
 
     # bot "Mmm! Nnng!"
-    bot ""
+    bot "Mmm! Nnng!"
 
 # game/script.rpy:12832
 translate pt_br shower_bd3f9ff5:
 
     # bot "[botown]! I want your cum! All over my breasts! [botown]!"
-    bot ""
+    bot "[botown]! Eu quero o seu gozo! Tudo nos meus peitos! [botown]!"
 
 # game/script.rpy:12834
 translate pt_br shower_166e3b9b:
 
     # bot "Hmm!" with ssshake
-    bot "" with ssshake
+    bot "Hmm!" with ssshake
 
 # game/script.rpy:12835
 translate pt_br shower_e99c5268:
 
     # bot "Ahhn!" with ssshake
-    bot "" with ssshake
+    bot "Ahhn!" with ssshake
 
 # game/script.rpy:12836
 translate pt_br shower_0bbaf27d:
 
     # bot "Ahhh..." with ssshake
-    bot "" with ssshake
+    bot "Ahhh..." with ssshake
 
 # game/script.rpy:12838
 translate pt_br shower_1475779f:
 
     # bot "[botown]! I made you cum!"
-    bot ""
+    bot "[botown]! Eu fiz você gozar!"
 
 # game/script.rpy:12847
 translate pt_br shower_68c64b3b:
 
     # bot "Oh, okay."
-    bot ""
+    bot "Ah, tudo bem."
 
 # game/script.rpy:12851
 translate pt_br shower_3537adb6:
 
     # bot "[botown]! W-What are you doing I'm taking a shower!"
-    bot ""
+    bot "[botown]! O-O que você está fazendo? Eu estou tomando banho!"
 
 # game/script.rpy:12862
 translate pt_br shower_e55cfd0d:
 
     # au "Ahhhh..."
-    au ""
+    au "Ahhhh..."
 
 # game/script.rpy:12870
 translate pt_br shower_84f7f06b:
 
     # au "O-Oh, [name]..."
-    au ""
+    au "A-Ah, [name]..."
 
 # game/script.rpy:12871
 translate pt_br shower_5d143cff:
 
     # au "Well, since you're already here, we should make sure you're clean. Come here, [name]..."
-    au ""
+    au "Bem, já que você já está aqui, nós deviamos garantir que você esteja limpo. Venha cá, [name]..."
 
 # game/script.rpy:12873
 translate pt_br shower_fcbaf5c2:
 
     # au "There you go... nice and clean..."
-    au ""
+    au "Pronto... limpinho...."
 
 # game/script.rpy:12876
 translate pt_br shower_759d2683:
 
     # au "But what I really need to clean... is your dirty cock..."
-    au ""
+    au "Mas o que eu preciso limpar mesmo... é o seu pau sujo..."
 
 # game/script.rpy:12878
 translate pt_br shower_e97cf1df:
 
     # au "This is just a cleaning, nothing too sexual... so I won't use my hands..."
-    au ""
+    au "Isso é só limpesa, nada tão sexual... então não vou usar minhas mãos..."
 
 # game/script.rpy:12879
 translate pt_br shower_9ee88bff:
 
     # au "Instead, I'll use my body..."
-    au ""
+    au "Ao invés disso, vou usar o meu corpo..."
 
 # game/script.rpy:12881
 translate pt_br shower_fb534148:
 
     # au "Nnnhm... here... you'll be so clean...!"
-    au ""
+    au "Nnnhm... assim... você vai ficar limpinho...!"
 
 # game/script.rpy:12882
 translate pt_br shower_4f426f51:
 
     # au "Ahhh... does your cock feel good between my juicy breasts? Nnn..."
-    au ""
+    au "Ahhh... seu pau está se sentindo tão bem assim entre meus peitos suculentos? Nnn..."
 
 # game/script.rpy:12883
 translate pt_br shower_cd6e768b:
 
     # au "Mmmm... there there, just relax... let me wash you..."
-    au "Mmmm..."
+    au "Mmmm... pronto pronto, apenas relaxe... só deixe-me lavar você..."
 
 # game/script.rpy:12886
 translate pt_br shower_18cdefaf:
 
     # au "You won't be touching any of those whores now, will you...? Nnnh... be my good boy..."
-    au ""
+    au "Você não vai estar encostando em nenhuma dessas vadias agora, vai...? Nnnh... seja meu bom menino..."
 
 # game/script.rpy:12887
 translate pt_br shower_4b89e7e8:
 
     # au "Ahhh... yes... I love taking care of you, [name]... Mmmm..."
-    au "Mmmm..."
+    au "Mmmm... uhum... Eu amo cuidar de você, [name]... Mmmm..."
 
 # game/script.rpy:12888
 translate pt_br shower_647badde:
 
     # au "Aaah~ Go on... go on...! Release... I know it's inevitable now... just do it...! It will feel so good!"
-    au ""
+    au "Aaah~~ Pode ir... pode ir...! Solte... Eu sei que é inevitável agora... só faça isso...! Você vai se sentir tão bem!"
 
 # game/script.rpy:12890
 translate pt_br shower_d4857067:
 
     # au "Yes, yes- Ah!" with ssshake
-    au "" with ssshake
+    au "Isso, isso- Ah!" with ssshake
 
 # game/script.rpy:12892
 translate pt_br shower_2df61f26:
 
     # au "Hahhh...! It's okay... nnnm... I can wash it all off..."
-    au ""
+    au "Hahhh...! Está tudo bem... nnnm... Eu posso lavar tudo de novo..."
 
 # game/script.rpy:12901
 translate pt_br shower_5da964c0:
 
     # au "AAAAH! WHAT ARE YOU DOING!? GO AWAY!!!" with ssshake
-    au "" with ssshake
+    au "AAAAH! O QUE VOCÊ ESTÁ FAZENDO!? SAI DAQUI!!!" with ssshake
 
 # game/script.rpy:12933
 translate pt_br kitchendayoff_970f7e48:
 
     # c "Hm? Lin is usually here at this time... I wonder where she went?"
-    c ""
+    c "Hm? Geralmente a Lin está aqui nesse horário... Onde será que ela foi?"
 
 # game/script.rpy:12962
 translate pt_br kitchennolin_970f7e48:
 
     # c "Hm? Lin is usually here at this time... I wonder where she went?"
-    c ""
+    c "Hm? Geralmente a Lin está aqui nesse horário... Onde será que ela foi?"
 
 # game/script.rpy:12966
 translate pt_br kitchennolin_c3756ea2:
 
     # c "Lin still isn't working..."
-    c ""
+    c "A Lin ainda não está trabalhando..."
 
 # game/script.rpy:12968
 translate pt_br kitchennolin_8228e42c:
 
     # c "Hm? Why isn't Lin working today?"
-    c ""
+    c "Hm? Por que a Lin não está trabalhando hoje?"
 
 # game/script.rpy:12985
 translate pt_br kitchenvibe_0388dbb6:
 
     # l "Ahh..."
-    l ""
+    l "Ahh..."
 
 # game/script.rpy:12992
 translate pt_br kitchenvibe_e3c42c6f:
 
     # l "C-Can... can I remove it?"
-    l ""
+    l "E-Eu... eu posso tirar isso?"
 
 # game/script.rpy:12995
 translate pt_br kitchenvibe_ec91435a:
 
     # l "T-Thank you [linoname]..."
-    l ""
+    l "O-Obrigada [linoname]..."
 
 # game/script.rpy:13001
 translate pt_br kitchenvibe_6c9e0178:
 
     # l "Y-yes [linoname]..."
-    l ""
+    l "S-sim [linoname]..."
 
 # game/script.rpy:13012
 translate pt_br kitchenvibe2_0388dbb6:
 
     # l "Ahh..."
-    l ""
+    l "Ahh...."
 
 # game/script.rpy:13020
-translate pt_br kitchenvibe2_e3c42c6f:
+translate pt_br kitchenvibe2_e3c42c6f:juicyn
 
     # l "C-Can... can I remove it?"
-    l ""
+    l "E-Eu... eu posso tirar isso?"
 
 # game/script.rpy:13023
 translate pt_br kitchenvibe2_1461cc87:
 
     # l "T-thank you [linoname]..."
-    l ""
+    l "O-Obrigada [linoname]..."
 
 # game/script.rpy:13029
 translate pt_br kitchenvibe2_6c9e0178:
 
     # l "Y-yes [linoname]..."
-    l ""
+    l "S-sim [linoname]..."
 
 # game/script.rpy:13056
 translate pt_br kitchenbot_9387aadd:
 
     # bot "Hello [botown], how may I serve you today?"
-    bot ""
+    bot "Olá [botown], como posso te ajudar hoje?"
 
 # game/script.rpy:13065
 translate pt_br prekitchen_3abd1a01:
 
     # l "This is my kitchen, you'll be working here when I'm not... I work every morning and noon except for wednesdays."
-    l ""
+    l "Essa é a minha cozinha, você vai estar trabalhar aqui quando eu não estiver... Eu trabalho aqui em todas as manhãs e tardes, exceto pelas quartas-feiras."
 
 # game/script.rpy:13066
 translate pt_br prekitchen_b9e5f0a0:
 
     # bot "I know."
-    bot ""
+    bot "Eu sei."
 
 # game/script.rpy:13068
 translate pt_br prekitchen_9d6335f4:
 
     # l "What? What do you know?"
-    l ""
+    l "O quê? O que você sabe?"
 
 # game/script.rpy:13069
 translate pt_br prekitchen_09dfb12b:
 
     # bot "I already know your work schedule, I've been watching you since you were hired here... s-sorry..."
-    bot ""
+    bot "Eu já sei a sua agenda de trabalho, eu estive te assistindo desde quando você foi contratada aqui... s-sinto muito..."
 
 # game/script.rpy:13070
 translate pt_br prekitchen_99354187:
 
     # l "Y-You've been watching me...? That's creepy..."
-    l ""
+    l "V-Você esteve me assistindo...? isso é medonho..."
 
 # game/script.rpy:13071
 translate pt_br prekitchen_e6e71cc9:
 
     # bot "I watch everyone..."
-    bot ""
+    bot "Eu assisto a todos..."
 
 # game/script.rpy:13073
 translate pt_br prekitchen_2a61bb60:
 
     # l "Hmph, okay Ms. know-it-all... finish cooking a pizza for us. If you mess this up, you're fired."
-    l ""
+    l "Hmph, tudo bem Sra. sabe tudo... termine  de cozinhar uma pizza para nós. Se você fizer besteira, está despedida."
 
 # game/script.rpy:13074
 translate pt_br prekitchen_7fead895:
 
     # bot "O-Okay... that seems easy enough..."
-    bot ""
+    bot "T-Tudo bem... parece bem fácil..."
 
 # game/script.rpy:13075
 translate pt_br prekitchen_df013c70:
 
     # l "Don't get cocky missy. Pizzas are very hard to cook. You have to heat it up perfectly as it says on the package, and maintain extreme precision when it comes to taking it out so you don't burn yourself..."
-    l ""
+    l "Não seja arrogante, senhorita. Pizzas são muito difíceis de cozinhar. Você precisa aquecer perfeitamente como a embalagem diz, e ter uma precisão extrema na hora de pegar se não quiser acabar se queimando..."
 
 # game/script.rpy:13076
 translate pt_br prekitchen_d76e703e:
 
     # l "If you take it out too soon, it will be raw and gross. If you wait too long, it will be burnt and-"
-    l ""
+    l "Se você tirar cedo demais, vai ficar crú e nojento. Se demorar demais, vai ficar queimado e- "
 
 # game/script.rpy:13078
 translate pt_br prekitchen_bf0da681:
 
     # bot "*DING*! /// IDEAL BAKE TIME REACHED. /// YOUR PIZZA IS READY." with ssshake
-    bot "" with ssshake
+    bot "*DiNG*! ///TEMPO IDEAL DE COZIMENTO ALCANÇADO. /// SUA PIZZA ESTÁ PRONTA." with ssshake
 
 # game/script.rpy:13079
 translate pt_br prekitchen_0bb2fd3f:
 
     # l "W-What was that?"
-    l ""
+    l "O-O que foi isso?"
 
 # game/script.rpy:13081
 translate pt_br prekitchen_8c828ec6:
 
     # bot "I set an alarm based on the internal temperature of the oven and oven's wattage. The best time to take it out would have been a moment ago... the second best time is now."
-    bot ""
+    bot "Eu ajustei um alarme baseada na temperatura interna do forno e da potência do forno. O melhor momento para tirar ela foi a um instante atrás... o segundo melhor mimento é agora."
 
 # game/script.rpy:13082
 translate pt_br prekitchen_4659970a:
 
     # l "No way! It needs at least five more minutes..."
-    l ""
+    l "Sem chance! Precisa de pelo menos mais cinco minuto..."
 
 # game/script.rpy:13083
 translate pt_br prekitchen_adbd9e57:
 
     # bot "The pizza is burning Ms. Lin."
-    bot ""
+    bot "A pizza está queimando Sra. Lin."
 
 # game/script.rpy:13084
 translate pt_br prekitchen_0f6e608a:
 
     # l "No it's not! It's still cooking!"
-    l ""
+    l "Não, não está! Ela ainda etá cozinhando!"
 
 # game/script.rpy:13085
 translate pt_br prekitchen_4554abc1:
 
     # bot "The pizza will be inedible in less than one minute. This oven is very powerful."
-    bot ""
+    bot "A pizza vai estar incomível em menos de um minuto. Esse forno é muito forte."
 
 # game/script.rpy:13087
 translate pt_br prekitchen_6486c374:
 
     # bot "As you can see, the pizza has been cooked to near perfection."
-    bot ""
+    bot "Como você pode ver, a pizza foi cozida quase que perfeitamente."
 
 # game/script.rpy:13088
 translate pt_br prekitchen_3301df90:
 
     # l "I'll be the judge of that..."
-    l ""
+    l "Eu que vou julgar isso..."
 
 # game/script.rpy:13090
 translate pt_br prekitchen_4f9b4f0c:
 
     # l "Hmm...."
-    l ""
+    l "Hm...."
 
 # game/script.rpy:13091
 translate pt_br prekitchen_33142cc8:
 
     # bot "What do you think Ms. Lin?"
-    bot ""
+    bot "O que você acha Sra. Lin?"
 
 # game/script.rpy:13092
 translate pt_br prekitchen_55238324:
 
     # l "It's not soggy... the crust is cripsy... nothing seems to be burnt... hmmm..."
-    l ""
+    l "Não está encharcada... A crosta está crocante... não tem nada parecendo queimado... hmmm"
 
 # game/script.rpy:13094
 translate pt_br prekitchen_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:13096
 translate pt_br prekitchen_0c1dfb49:
 
     # l "!!! \n{i}(This is really good!){/i}" with ssshake
-    l "" with ssshake
+    l "!!! \n{i}(Isso está realmente gostoso){/i}" with ssshake
 
 # game/script.rpy:13097
 translate pt_br prekitchen_bc83894e:
 
     # bot "Ms. Lin...?"
-    bot ""
+    bot "Sra. Lin...?"
 
 # game/script.rpy:13099
 translate pt_br prekitchen_01582db6:
 
     # l "It's, um... fine... I guess. It could have been a bit more crunchy..."
-    l ""
+    l "Está, hum... bom... eu acho... Poderia estar um pouquinho mais crocante..."
 
 # game/script.rpy:13100
 translate pt_br prekitchen_fea6e7f7:
 
     # bot "Oh, sorry..."
-    bot ""
+    bot "Ah, sinto muito..."
 
 # game/script.rpy:13102
 translate pt_br prekitchen_05fdf800:
 
     # l "Hmph, okay, so you're a decent cook... what else can you do?"
-    l ""
+    l "Hmph, tudo bem, você é uma cozinheira decente... o que mais você é capaz de fazer?"
 
 # game/script.rpy:13103
 translate pt_br prekitchen_7e001f67:
 
     # bot "I can clean very well... I can pick up heavy things..."
-    bot ""
+    bot "Eu posso limpar muito bem... E posso carregar coisas pesadass..."
 
 # game/script.rpy:13104
 translate pt_br prekitchen_8d7fecf5:
 
     # l "Anybody with a broom can clean..."
-    l ""
+    l "Qualquer um com uma vassoura consegue limpar..."
 
 # game/script.rpy:13106
 translate pt_br prekitchen_825a743f:
 
     # bot "W-Well... my body was made to sexually please both men and women, so I'm okay at that..."
-    bot ""
+    bot "B-Bem... o meu corpo foi feito para satisfazer sexualmente tanto homens quanto mulheres, então eu estou bem com isso..."
 
 # game/script.rpy:13107
 translate pt_br prekitchen_f3bb517e:
 
     # l "Grr..."
-    l ""
+    l "Grr..."
 
 # game/script.rpy:13108
 translate pt_br prekitchen_50eab19f:
 
     # bot "I won't even get pregnant."
-    bot ""
+    bot "E eu não vou nem engravidar."
 
 # game/script.rpy:13109
 translate pt_br prekitchen_933700d9:
 
     # l "Hah! I can bear children, I knew there was something I could still offer..."
-    l ""
+    l "Hah! Eu posso ter filhos, eu sabia que havia algo que eu ainda poderia oferecer..."
 
 # game/script.rpy:13111
 translate pt_br prekitchen_23a1d434:
 
     # bot "What?"
-    bot ""
+    bot "Quê?"
 
 # game/script.rpy:13112
 translate pt_br prekitchen_11e824b4:
 
     # l "Huh?"
-    l ""
+    l "Huh?"
 
 # game/script.rpy:13114
 translate pt_br prekitchen_0c94864e:
 
     # l "N-Nothing you silly robot!"
-    l ""
+    l "N-Nada, sua robô boba!"
 
 # game/script.rpy:13115
 translate pt_br prekitchen_2067bf46:
 
     # bot "Whose child do you want?"
-    bot ""
+    bot "De quem você quer ter filhos?"
 
 # game/script.rpy:13116
 translate pt_br prekitchen_2ef6049a:
 
     # l "Someone's... eventually...!"
-    l ""
+    l "De alguém... Um dia...!"
 
 # game/script.rpy:13117
 translate pt_br prekitchen_501cce16:
 
     # l "I'm interviewing you...! Stop questioning me..."
-    l ""
+    l "Eu que estou te entrevistando...! Pare de me fazer perguntas..."
 
 # game/script.rpy:13118
 translate pt_br prekitchen_de3aabbd:
 
     # bot "Okay, sorry..."
-    bot ""
+    bot "Está bem, desculpa..."
 
 # game/script.rpy:13120
 translate pt_br prekitchen_6a326e87:
 
     # l "Grr... so you're basically just a sexy walking computer..."
-    l ""
+    l "Grr... então você é basicamente só um computador sexy que anda..."
 
 # game/script.rpy:13121
 translate pt_br prekitchen_03cb443e:
 
     # bot "What!? No I'm not...! I'm just as conscious as you...!"
-    bot ""
+    bot "O quê!? Não, não sou...! Eu sou tão consciente quanto você...!"
 
 # game/script.rpy:13122
 translate pt_br prekitchen_f59e2b53:
 
     # l "You're a robot..."
-    l ""
+    l "Você é um robô..."
 
 # game/script.rpy:13123
 translate pt_br prekitchen_c190a643:
 
     # bot "I'm an {i}android{/i}! There's a big difference..."
-    bot ""
+    bot "Eu sou um {i}andróide{/i}! Tem uma grande diferença..."
 
 # game/script.rpy:13124
 translate pt_br prekitchen_88fd6e5a:
 
     # l "Oh really?"
-    l ""
+    l "É mesmo?"
 
 # game/script.rpy:13125
 translate pt_br prekitchen_664c79b4:
 
     # bot "Yes really... we're much more complex... it's like you're calling me dumb when you call me a robot..."
-    bot ""
+    bot "É sim... nós somos muito mais complexos... é como se você estivesse me chamando de estúpida quando me chama de robô..."
 
 # game/script.rpy:13126
 translate pt_br prekitchen_60adc557:
 
     # l "Hmph... fine, we'll have to see just how 'perfect' you can be. Follow me."
-    l ""
+    l "Hmph... certo, vamos ver o quão 'perfeita' você pode ser. Siga-me."
 
 # game/script.rpy:13127
 translate pt_br prekitchen_010165a9:
 
     # bot "Yes Ms. Lin."
-    bot ""
+    bot "Sim Sra. Lin."
 
 # game/script.rpy:13130
 translate pt_br prekitchen_359e7d89:
 
     # l "Hi [linoname]!"
-    l ""
+    l "Oi [linoname]!"
 
 # game/script.rpy:13131
 translate pt_br prekitchen_c268d232:
 
     # bot "H-Hello [botown]..."
-    bot ""
+    bot "O-Olá [botomn]..."
 
 # game/script.rpy:13132
 translate pt_br prekitchen_8017da9a:
 
     # c "How is her training going?"
-    c ""
+    c "Como está indo o treinamento dela?"
 
 # game/script.rpy:13133
 translate pt_br prekitchen_082c781f:
 
     # l "She's okay so far... but we're not done yet. She'll be cleaning your room if that's okay with you!"
-    l ""
+    l "Até agora ela foi bem... mas não terminamos ainda. Ela vai estar limpando o seu quarto se estiver tudo bem para você!"
 
 # game/script.rpy:13134
 translate pt_br prekitchen_59c20226:
 
     # c "Go ahead."
-    c ""
+    c "Vá em frente."
 
 # game/script.rpy:13135
 translate pt_br prekitchen_ac9144f6:
 
     # bot "O-Okay... I'll start right now..."
-    bot ""
+    bot "T-Tudo bem... Eu vou começar agora mesmo..."
 
 # game/script.rpy:13137
 translate pt_br prekitchen_34dc5f7f:
 
     # c "What are your first impressions on her?"
-    c ""
+    c "Quais são suas primeiras impressões sobre ela?"
 
 # game/script.rpy:13138
 translate pt_br prekitchen_b8e0f3f6:
 
     # l "Oh, welllll... she's cute I guess."
-    l ""
+    l "Ah, bemmmmm... ela é fofa, eu acho."
 
 # game/script.rpy:13139
 translate pt_br prekitchen_e2bbbf12:
 
     # c "I meant her skills, how did she do at cooking."
-    c ""
+    c "Eu quis dizer as habilidades dela, como ela se saiu na cozinha."
 
 # game/script.rpy:13140
 translate pt_br prekitchen_512ec51d:
 
     # l "Oh... she's a good cook I guess... but she can't have children! ...I thought you should know that."
-    l ""
+    l "Ah... acho que ela é uma boa cozinheira... mas ela não pode ter filhos! ...Eu achei que você deveria saber disso. "
 
 # game/script.rpy:13141
 translate pt_br prekitchen_1d25b2c1:
 
     # c "Well, she is a robot..."
-    c ""
+    c "Bem, ela é um robô..."
 
 # game/script.rpy:13142
 translate pt_br prekitchen_0f638c70:
 
     # bot "Android!"
-    bot ""
+    bot "Andróide!"
 
 # game/script.rpy:13143
 translate pt_br prekitchen_f08e9a1c:
 
     # l "Oh yeah... she hates being called a robot..."
-    l ""
+    l "Ah sim... ela odeia ser chamada de robô..."
 
 # game/script.rpy:13144
 translate pt_br prekitchen_d4ea5379:
 
     # l "She also said she's really good at sexually pleasing people, so I would check for an STD too... You never know, [linoname]."
-    l ""
+    l "Ela também disse que é realmente boa em satisfazer as pessoas sexualmente, então eu verificaria se ela tem uma DST també... Nunca se sabe, [linoname]"
 
 # game/script.rpy:13146
 translate pt_br prekitchen_bef1e54b:
 
     # bot "Dust eliminated!"
-    bot ""
+    bot "Poeira eliminada!"
 
 # game/script.rpy:13147
 translate pt_br prekitchen_1908efe9:
 
     # l "What...? Already...!? That was too quick!"
-    l ""
+    l "O quê...? Já...!? Isso foi rápido demais!"
 
 # game/script.rpy:13149
 translate pt_br prekitchen_868f7c5b:
 
     # c "That was very fast, thank you [botname]."
-    c ""
+    c "Isso foi muito rápido, obrigado [botname]."
 
 # game/script.rpy:13150
 translate pt_br prekitchen_37bcb55c:
 
     # bot "You're very welcome!"
-    bot ""
+    bot "Não há de quê!"
 
 # game/script.rpy:13151
 translate pt_br prekitchen_762d8b1d:
 
     # l "Huh...?"
-    l ""
+    l "Huh...?"
 
 # game/script.rpy:13152
 translate pt_br prekitchen_5534bebf:
 
     # c "What's wrong, Lin?"
-    c ""
+    c "O que foi, Lin?"
 
 # game/script.rpy:13154
 translate pt_br prekitchen_6d68b9e4:
 
     # l "Nothing..."
-    l ""
+    l "Nada..."
 
 # game/script.rpy:13155
 translate pt_br prekitchen_c5aac267:
 
     # l "Welcome to the hotel, [botname]..."
-    l ""
+    l "Bem vinda ao hotel, [botname]..."
 
 # game/script.rpy:13156
 translate pt_br prekitchen_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/script.rpy:13189
 translate pt_br botkchoice_25e0590b:
 
     # bot "Right away, [botown]."
-    bot ""
+    bot "Agora mesmo, [botown]."
 
 # game/script.rpy:13192
 translate pt_br botkchoice_19343ccb:
 
     # bot "Cleaning mode activated! Your room will be 100 percent dust free by the time I'm done!"
-    bot ""
+    bot "Modo de limpeza ativado! Seu quarto estara 100 por cento livre de poeira assim que eu terminar!"
 
 # game/script.rpy:13194
 translate pt_br botkchoice_1560eb13:
 
     # bot "Can't forget under the bed!"
-    bot ""
+    bot "Não posso esquecer debaixo da cama!"
 
 # game/script.rpy:13196
 translate pt_br botkchoice_29ba9428:
 
     # bot "Dust likes to hide in every nook and cranny..."
-    bot ""
+    bot "Poeira gosta de se esconder em todo canto e recanto..."
 
 # game/script.rpy:13198
 translate pt_br botkchoice_631b58d2:
 
     # bot "Optimal sheet tightness achieved!"
-    bot ""
+    bot "Ajuste ideal do lençol ativado!"
 
 # game/script.rpy:13202
 translate pt_br botkchoice_31638a54:
 
     # bot "Your room is now dust free! How would you rate my performance?"
-    bot ""
+    bot "Seu quarto agora está livre de poeira! Como você avaliaria minha performance?"
 
 # game/script.rpy:13203
 translate pt_br botkchoice_c62870ac:
 
     # c "You did great, thanks."
-    c ""
+    c "Você foi ótima, obrigado."
 
 # game/script.rpy:13204
 translate pt_br botkchoice_be8a8762:
 
     # bot "You're very welcome, [botown]!"
-    bot ""
+    bot "Não há de quê, [botown]!"
 
 # game/script.rpy:13210
 translate pt_br botkchoice_76e7cdf7:
 
     # bot "[botown]?"
-    bot ""
+    bot "[botwon]?"
 
 # game/script.rpy:13214
 translate pt_br botkchoice_ceba2d1a:
 
     # bot "It feels nice..."
-    bot ""
+    bot "Isso é gostoso..."
 
 # game/script.rpy:13219
 translate pt_br botkchoice_035c4f90:
 
     # "I already pet her today."
-    ""
+    "Eu já fiz carinho nela hoje."
 
 # game/script.rpy:13222
 translate pt_br botkchoice_26d8846b:
 
     # c "Bend over the counter."
-    c ""
+    c "Incline-se sobre o balcão."
 
 # game/script.rpy:13226
 translate pt_br botkchoice_6a339a9b:
 
     # bot "W-What...?"
-    bot ""
+    bot "O-O quê?"
 
 # game/script.rpy:13227
 translate pt_br botkchoice_87944c5e:
 
     # bot "...Yes [botown]..."
-    bot ""
+    bot "... Sim [botown]..."
 
 # game/script.rpy:13229
 translate pt_br botkchoice_de633124:
 
     # bot "What are we doing?"
-    bot ""
+    bot "O que voê está fazendo?"
 
 # game/script.rpy:13235
 translate pt_br botkchoice_1240732c:
 
     # bot "Mmmn...!"
-    bot ""
+    bot "Mmmn...!"
 
 # game/script.rpy:13238
 translate pt_br botkchoice_70fad22d:
 
     # bot "Haah!"
-    bot ""
+    bot "Haah!"
 
 # game/script.rpy:13240
 translate pt_br botkchoice_70bbdd2e:
 
     # bot "That hurts..."
-    bot ""
+    bot "Isso dói..."
 
 # game/script.rpy:13245
 translate pt_br botkchoice_7c56d23b:
 
     # bot "Nnngh!"
-    bot ""
+    bot "Nnngh!"
 
 # game/script.rpy:13248
 translate pt_br botkchoice_690ef3ae:
 
     # bot "Aaagh!"
-    bot ""
+    bot "Aaagh!"
 
 # game/script.rpy:13250
 translate pt_br botkchoice_33447f39:
 
     # bot "Ouch..."
-    bot ""
+    bot "Ai..."
 
 # game/script.rpy:13255
 translate pt_br botkchoice_1b055abf:
 
     # bot "Mmmn!"
-    bot ""
+    bot "Mmmn!"
 
 # game/script.rpy:13258
 translate pt_br botkchoice_521ec899:
 
     # bot "Haah, aah!"
-    bot ""
+    bot "Haah, aah!"
 
 # game/script.rpy:13260
 translate pt_br botkchoice_4da0eba7:
 
     # bot "I'm sorry, I'm sorry...!"
-    bot ""
+    bot "Desculpa, desculpa...!"
 
 # game/script.rpy:13266
 translate pt_br botkchoice_690ef3ae_1:
 
     # bot "Aaagh!"
-    bot ""
+    bot "Aaagh!"
 
 # game/script.rpy:13269
 translate pt_br botkchoice_4b97b254:
 
     # bot "Ahh! Ow!!"
-    bot ""
+    bot "Ahh! Au!!"
 
 # game/script.rpy:13271
 translate pt_br botkchoice_bce9a633:
 
     # bot "[botown] stop, please!"
-    bot ""
+    bot "[botown] pare, por favor!"
 
 # game/script.rpy:13276
 translate pt_br botkchoice_d4e220ac:
 
     # bot "Agh!"
-    bot ""
+    bot "Agh!"
 
 # game/script.rpy:13279
 translate pt_br botkchoice_5803545c:
 
     # bot "Ow, ow!!"
-    bot ""
+    bot "Au, au!!"
 
 # game/script.rpy:13281
 translate pt_br botkchoice_67effe07:
 
     # bot "STOP!" with ssshake
-    bot "" with ssshake
+    bot "PARA!" with ssshake
 
 # game/script.rpy:13284
 translate pt_br botkchoice_8a1a9855:
 
     # c "Okay, we're done."
-    c ""
+    c "Tudo bem, nós acabamos."
 
 # game/script.rpy:13285
 translate pt_br botkchoice_7cf1b2ba:
 
     # bot "So mean...!"
-    bot ""
+    bot "Que malvado...!"
 
 # game/script.rpy:13287
 translate pt_br botkchoice_8a1a9855_1:
 
     # c "Okay, we're done."
-    c ""
+    c "Tudo bem, nós acabamos."
 
 # game/script.rpy:13288
 translate pt_br botkchoice_57643b98:
 
     # bot "So rude..."
-    bot ""
+    bot "Que rude..."
 
 # game/script.rpy:13290
 translate pt_br botkchoice_8a1a9855_2:
 
     # c "Okay, we're done."
-    c ""
+    c "Tudo bem, nós acabamos."
 
 # game/script.rpy:13291
 translate pt_br botkchoice_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tá bom..."
 
 # game/script.rpy:13293
 translate pt_br botkchoice_8a1a9855_3:
 
     # c "Okay, we're done."
-    c ""
+    c "Tudo bem, nós acabamos."
 
 # game/script.rpy:13294
 translate pt_br botkchoice_975b99e7_1:
 
     # bot "Okay..."
-    bot ""
+    bot "Tá bom..."
 
 # game/script.rpy:13296
 translate pt_br botkchoice_3b6c4033:
 
     # c "We're done."
-    c ""
+    c "Nós acabamos."
 
 # game/script.rpy:13298
 translate pt_br botkchoice_ec3c32bc:
 
     # c "Nevermind."
-    c ""
+    c "Deixa para lá."
 
 # game/script.rpy:13299
 translate pt_br botkchoice_33639125:
 
     # bot "Huh...?"
-    bot ""
+    bot "Huh...?"
 
 # game/script.rpy:13302
 translate pt_br botkchoice_7627456a:
 
     # c "I already spanked her today."
-    c ""
+    c "Eu já bati nela hoje."
 
 # game/script.rpy:13308
 translate pt_br botkchoice_c1a363b7:
 
     # bot "M-My panties!?"
-    bot ""
+    bot "M-Minha calcinha!?"
 
 # game/script.rpy:13311
 translate pt_br botkchoice_6ec996d0:
 
     # bot "I can't do that..."
-    bot ""
+    bot "Eu não posso fazer isso..."
 
 # game/script.rpy:13312
 translate pt_br botkchoice_0e166cad:
 
     # "You need to increase your relationship level with [botname]."
-    ""
+    "Você precisa aumentar seu nível de relacionamento com [botname]."
 
 # game/script.rpy:13315
 translate pt_br botkchoice_2961ab75:
 
     # c "I've already done that today."
-    c ""
+    c "Eu já fiz isso hoje."
 
 # game/script.rpy:13322
 translate pt_br botkchoice_dfb3259e:
 
     # bot "M-My panties?"
-    bot ""
+    bot "M-Minha calcinha?"
 
 # game/script.rpy:13323
 translate pt_br botkchoice_e9ad374f:
 
     # bot "O-Okay [botown]..."
-    bot ""
+    bot "T-Tudo bem [botown]..."
 
 # game/script.rpy:13330
 translate pt_br botkchoice_a38ad62b:
 
     # c "No panties?"
-    c ""
+    c "Sem calcinha?"
 
 # game/script.rpy:13331
 translate pt_br botkchoice_b8c04887:
 
     # bot "Heheh, nope..."
-    bot ""
+    bot "Heheh, não..."
 
 # game/script.rpy:13333
 translate pt_br botkchoice_80ed9128:
 
     # bot "Does this please you [botown]...?"
-    bot ""
+    bot "Isso te agrada [botown]...?"
 
 # game/script.rpy:13341
 translate pt_br botkchoice_4ca43559:
 
     # bot "You're so close..."
-    bot ""
+    bot "Você está tão perto..."
 
 # game/script.rpy:13346
 translate pt_br botkchoice_272b87f1:
 
     # c "You did a good job [botname]."
-    c ""
+    c "Você fez um bom trabalho [botname]."
 
 # game/script.rpy:13347
 translate pt_br botkchoice_644ecb88:
 
     # bot "Thank you [botown]."
-    bot ""
+    bot "Obrigada [botown]."
 
 # game/script.rpy:13353
 translate pt_br botkchoice_692babe3:
 
     # bot "No way! I'll never do that! I hate you!!!"
-    bot ""
+    bot "Sem chance! Eu nunca vou fazer isso! Eu te odeio!!!"
 
 # game/script.rpy:13354
 translate pt_br botkchoice_0dc780e9:
 
     # "[botname]'s obedience is too low."
-    ""
+    "A obediência de [botname] está muito baixa."
 
 # game/script.rpy:13359
 translate pt_br botkchoice_fdfecbe6:
 
     # bot "Y-You want to see my breasts!? I can't show you my breasts!"
-    bot ""
+    bot "V-Você quer ver meus peitos!? Eu não posso te mostrar os meus peitos!"
 
 # game/script.rpy:13360
 translate pt_br botkchoice_91f54ec9:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Eu preciso aumentar o Nível de Relacionameto dela."
 
 # game/script.rpy:13363
 translate pt_br botkchoice_2961ab75_1:
 
     # c "I've already done that today."
-    c ""
+    c "Eu já fiz isso hoje."
 
 # game/script.rpy:13367
 translate pt_br botkchoice_c991236f:
 
     # bot "Y-Yes [botown]... W-What size would you like?"
-    bot ""
+    bot "S-Sim [botown]... D-De qual tamanho você gostaria?"
 
 # game/script.rpy:13371
 translate pt_br botkchoice_c092bf08:
 
     # bot "Very well."
-    bot ""
+    bot "Muito bem."
 
 # game/script.rpy:13373
 translate pt_br botkchoice_0e72c545:
 
     # bot "D-Do you like small breasts [botown]?"
-    bot ""
+    bot "V-Você prefere peitos menores [botown]?"
 
 # game/script.rpy:13374
 translate pt_br botkchoice_8cc8bff7:
 
     # bot "They're kind of cute, right?"
-    bot ""
+    bot "Eles até que são fofos, né?"
 
 # game/script.rpy:13381
 translate pt_br botkchoice_c092bf08_1:
 
     # bot "Very well."
-    bot ""
+    bot "Muito bem."
 
 # game/script.rpy:13383
 translate pt_br botkchoice_cb141cd3:
 
     # bot "D-Do you like my breasts [botown]?"
-    bot ""
+    bot "V-Você gosta dos meus peitos [botown]?"
 
 # game/script.rpy:13384
 translate pt_br botkchoice_c2a674b4:
 
     # bot "I hope they satisfy you [botown]..."
-    bot ""
+    bot "Eu espero que eles te satisfaçam [botown]..."
 
 # game/script.rpy:13391
 translate pt_br botkchoice_c092bf08_2:
 
     # bot "Very well."
-    bot ""
+    bot "Muito bem."
 
 # game/script.rpy:13393
 translate pt_br botkchoice_b37bbdc9:
 
     # bot "D-Do you like large breasts [botown]?"
-    bot ""
+    bot "V-Você prefere peitos grandes [botown]?"
 
 # game/script.rpy:13394
 translate pt_br botkchoice_71907f09:
 
     # bot "They look so soft... And squishy..."
-    bot ""
+    bot "Eles parecem ser tão macios... e fofos..."
 
 # game/script.rpy:13403
 translate pt_br botkchoice_692babe3_1:
 
     # bot "No way! I'll never do that! I hate you!!!"
-    bot ""
+    bot "Sem chance! Eu nunca vou fazer isso! Eu te odeio!!!"
 
 # game/script.rpy:13404
 translate pt_br botkchoice_0dc780e9_1:
 
     # "[botname]'s obedience is too low."
-    ""
+    "A obediência de [botname] está muito baixa."
 
 # game/script.rpy:13409
 translate pt_br botkchoice_463f83e2:
 
     # bot "I can't..."
-    bot ""
+    bot "Eu não posso..."
 
 # game/script.rpy:13411
 translate pt_br botkchoice_dec301e5:
 
     # "I need to buy her lactation module."
-    ""
+    "Eu preciso comprar o módulo de lactação dela."
 
 # game/script.rpy:13413
 translate pt_br botkchoice_ad8a7a05:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar o nível de relacionamento dela."
 
 # game/script.rpy:13419
 translate pt_br botkchoice_2c89295d:
 
     # bot "No way! I'll never do that!"
-    bot ""
+    bot "Sem chance! Eu nunca vou fazer isso!"
 
 # game/script.rpy:13420
 translate pt_br botkchoice_ad8a7a05_1:
 
     # "I need to raise her relationship level."
-    ""
+    "Eu preciso aumentar o nível de relacionamento dela."
 
 # game/script.rpy:13423
 translate pt_br botkchoice_2f707dad:
 
     # bot "M-Milk? Okay... I think I can produce some for you [botown]."
-    bot ""
+    bot "L-Leite? Tudo bem... Eu acho que posso produzir um pouco para você [botown]."
 
 # game/script.rpy:13425
 translate pt_br botkchoice_cc7c7c01:
 
     # bot "Okay [botown], I'm ready. Do you have any cups?"
-    bot ""
+    bot "Tudo bem [botown], estou preparada. Você tem algum copo?"
 
 # game/script.rpy:13427
 translate pt_br botkchoice_8068df0d:
 
     # bot "O-Okay, good... I guess I'll get started now."
-    bot ""
+    bot "T-Tudo bem, certo... Acho que vou começar agora."
 
 # game/script.rpy:13429
 translate pt_br botkchoice_a4cd9ac1:
 
     # bot "Nnn!\nMmmn...!\nNnnh...!"
-    bot ""
+    bot "Nnn!\nMmmn...!\nNnnh...!"
 
 # game/script.rpy:13432
 translate pt_br botkchoice_d1a5db42:
 
     # bot "Ahh. H-Half way full...\nHnng...!\nNnnm...!"
-    bot ""
+    bot "Ahh. J-Já encheu metade...\nHnng...!\nNnnm...!"
 
 # game/script.rpy:13436
 translate pt_br botkchoice_5a11aa7d:
 
     # c "That's all I need, thanks."
-    c ""
+    c "Isso é tudo que eu precisava, obrigado."
 
 # game/script.rpy:13437
 translate pt_br botkchoice_0366976a:
 
     # bot "Oh, okay. You're welcome~!"
-    bot ""
+    bot "Ah, tudo bem. Disponha~!"
 
 # game/script.rpy:13444
 translate pt_br botkchoice_692babe3_2:
 
     # bot "No way! I'll never do that! I hate you!!!"
-    bot ""
+    bot "Sem chance! Eu nunca vou fazer isso! Eu te odeio!!!"
 
 # game/script.rpy:13445
 translate pt_br botkchoice_0dc780e9_2:
 
     # "[botname]'s obedience is too low."
-    ""
+    "A obediência de [botname] está muito baixa"
 
 # game/script.rpy:13450
 translate pt_br botkchoice_93110405:
 
     # bot "Y-You want to see me completely naked!? T-That's too embarrassing!!!"
-    bot ""
+    bot "V-Você quer me ver completamente nua!? I-Isso é muito constrangedor!!!"
 
 # game/script.rpy:13451
 translate pt_br botkchoice_91f54ec9_1:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Eu preciso aumentar o Nível de Relacionamento dela."
 
 # game/script.rpy:13459
 translate pt_br botkchoice_cf9bd410:
 
     # bot "Y-You want to see me completely naked? Okay... I would be happy to serve you [botown]."
-    bot ""
+    bot "V-Você quer me ver completamente nua? Tudo bem... Eu ficaria feliz em te servir [botown]."
 
 # game/script.rpy:13460
 translate pt_br botkchoice_72bc8750:
 
     # bot "Um... Which size would you like my breasts [botown]?"
-    bot ""
+    bot "Hum... De qual tamanho você gostaria dos meus seios [botown]?"
 
 # game/script.rpy:13463
 translate pt_br botkchoice_c092bf08_3:
 
     # bot "Very well."
-    bot ""
+    bot "Muito bem."
 
 # game/script.rpy:13471
 translate pt_br botkchoice_38050189:
 
     # bot "I hope you enjoy looking me, [botown]..."
-    bot ""
+    bot "Eu espero que você goste de me olhar, [botown]..."
 
 # game/script.rpy:13474
 translate pt_br botkchoice_05c01c93:
 
     # c "Good job."
-    c ""
+    c "Bom trabalho."
 
 # game/script.rpy:13475
 translate pt_br botkchoice_38a98ab5:
 
     # bot "You're very welcome~"
-    bot ""
+    bot "Não há de quê~"
 
 # game/script.rpy:13480
 translate pt_br botkchoice_c092bf08_4:
 
     # bot "Very well."
-    bot ""
+    bot "Muito bem."
 
 # game/script.rpy:13488
 translate pt_br botkchoice_38050189_1:
 
     # bot "I hope you enjoy looking me, [botown]..."
-    bot ""
+    bot "Eu espero que você goste de me olhar, [botown]..."
 
 # game/script.rpy:13491
 translate pt_br botkchoice_05c01c93_1:
 
     # c "Good job."
-    c ""
+    c "Bom trabalho."
 
 # game/script.rpy:13492
 translate pt_br botkchoice_38a98ab5_1:
 
     # bot "You're very welcome~"
-    bot ""
+    bot "Não há de quê~"
 
 # game/script.rpy:13497
 translate pt_br botkchoice_c092bf08_5:
 
     # bot "Very well."
-    bot ""
+    bot "Muito bem."
 
 # game/script.rpy:13505
 translate pt_br botkchoice_38050189_2:
 
     # bot "I hope you enjoy looking me, [botown]..."
-    bot ""
+    bot "Eu espero que você goste de me olhar, [botown]..."
 
 # game/script.rpy:13508
 translate pt_br botkchoice_05c01c93_2:
 
     # c "Good job."
-    c ""
+    c "Bom trabalho."
 
 # game/script.rpy:13509
 translate pt_br botkchoice_38a98ab5_2:
 
     # bot "You're very welcome~"
-    bot ""
+    bot "Não há de quê~"
 
 # game/script.rpy:13516
 translate pt_br botkchoice_692babe3_3:
 
     # bot "No way! I'll never do that! I hate you!!!"
-    bot ""
+    bot "Sem chance! Eu nunca vou fazer isso! Eu te odeio!!!""
 
 # game/script.rpy:13522
 translate pt_br botkchoice_3c381e8c:
 
     # bot "O-Oh, wellll... If you really want me to...!"
-    bot ""
+    bot "A-Ah, beeeem... Se você quiser mesmo que eu faça...!"
 
 # game/script.rpy:13524
 translate pt_br botkchoice_b675d1ac:
 
     # bot "[botown], it's a little embarrassing... but..."
-    bot ""
+    bot "[botown], é um pouco constrangedor... mas..."
 
 # game/script.rpy:13526
 translate pt_br botkchoice_b5666a7e:
 
     # bot "I'm ready to serve you any way I can..."
-    bot ""
+    bot "Eu estou pronta paraa te servir de qualquer maneira que eu puder...
 
 # game/script.rpy:13528
 translate pt_br botkchoice_ea593b04:
 
     # bot "Hmmmngh~! Ahhh...! [botown], you're so hard!"
-    bot ""
+    bot "Hmmmmngh~! Ahhh...! [botown], você está tão duro!"
 
 # game/script.rpy:13529
 translate pt_br botkchoice_770700f5:
 
     # bot "Mmmph! Nnnnghh...! MMMMPH! Does my mouth please you, [botown]? Shall I increase the pressure? Mmmn..."
-    bot ""
+    bot "Mmmph! Nnnnghh...! MMMMPH! Minha boca é de seu agrado, [botown]? Eu devo aumentar a pressão? Mmmn..."
 
 # game/script.rpy:13530
 translate pt_br botkchoice_61705406:
 
     # bot "[botown]... mmmngh~! You can use me any time you'd like while I'm on duty... mmmn~!"
-    bot ""
+    bot "[botown]... mmmngh~! Você pode me usar sempre que quiser enquanto eu estiver trabalhando... mmmn~!"
 
 # game/script.rpy:13533
 translate pt_br botkchoice_aa99bb8f:
 
     # bot "Aaaah! Hahhghn! [botown], mmmph! [botown]! Cum for me~ Mmmph!"
-    bot ""
+    bot "Aaaah! Hahhghn! [botown], mmmph! [botown]! Goza pra mim~ Mmmph!"
 
 # game/script.rpy:13534
 translate pt_br botkchoice_f6c165fa:
 
     # bot "I want it...! Mmmngh~! [botown], please let me serve you! Aaahh! Nnngh!"
-    bot ""
+    bot "Eu quero isso...! Mmmngh~! [botown], por favor, deixe-me servi-lo! Aaahh! Nnngh!"
 
 # game/script.rpy:13535
 translate pt_br botkchoice_3bc64888:
 
     # bot "Yes, yes! Mmmph! Nnngh! Yes! Mmmph! [botown]! Cum! Cum! Cum!"
-    bot ""
+    bot "Isso, isso! Mmmph! Nnngh! Isso! Mmmph! [botown]! Goza! Goza! Goza!"
 
 # game/script.rpy:13540
 translate pt_br botkchoice_3bfa177e:
 
     # bot "Mmmph~!" with ssshake
-    bot "" with ssshake
+    bot "Mmmph~!" with ssshake
 
 # game/script.rpy:13541
 translate pt_br botkchoice_dc961970:
 
     # bot "Yess~! Cummm~!" with ssshake
-    bot "" with ssshake
+    bot "Issoo~! Gozaaa~!" with ssshake
 
 # game/script.rpy:13542
 translate pt_br botkchoice_28c5d48c:
 
     # bot "Hnnnmmph~!" with ssshake
-    bot "" with ssshake
+    bot "Hnnnmmph~!" with ssshake
 
 # game/script.rpy:13545
 translate pt_br botkchoice_49261c51:
 
     # bot "HBNNNGH!" with sshake
-    bot "" with sshake
+    bot "HBNNNGH!" with sshake
 
 # game/script.rpy:13546
 translate pt_br botkchoice_c30a50ca:
 
     # bot "Hnnnghk! Mnnn!" with ssshake
-    bot "" with ssshake
+    bot "Hnnghk! Mnnn!" with ssshake
 
 # game/script.rpy:13547
 translate pt_br botkchoice_6aeacd6f:
 
     # bot "Nnnnghk~!" with ssshake
-    bot "" with ssshake
+    bot "Nnnnghk~!" with ssshake
 
 # game/script.rpy:13548
 translate pt_br botkchoice_9ed7da3c:
 
     # bot "Mmmmmn, *gulp*!"
-    bot ""
+    bot "Mmmmmn, *engole*!"
 
 # game/script.rpy:13550
 translate pt_br botkchoice_1f390dcb:
 
     # bot "Hahhh... I swallowed every last drop..."
-    bot ""
+    bot "Hahhh... Eu suguei até a última gota..."
 
 # game/script.rpy:13551
 translate pt_br botkchoice_c35b64d5:
 
     # bot "Nnnnh... did you enjoy me, [botown]?"
-    bot ""
+    bot "Nnnnh... Você se divertiu comigo, [botown]?"
 
 # game/script.rpy:13552
 translate pt_br botkchoice_ce737bda:
 
     # c "You did great."
-    c ""
+    c "Você foi ótima."
 
 # game/script.rpy:13553
 translate pt_br botkchoice_dff19229:
 
     # bot "Thank you..."
-    bot ""
+    bot "Obrigada..."
 
 # game/script.rpy:13563
 translate pt_br botkchoice_54a86427:
 
     # bot "Haaah! Haaahn! Nnnh!"
-    bot ""
+    bot "Haaah! Haaahn! Nnnh!"
 
 # game/script.rpy:13564
 translate pt_br botkchoice_cac6fdaa:
 
     # bot "Cum for me, cum, cum!"
-    bot ""
+    bot "Goza pra mim, goza, goza!"
 
 # game/script.rpy:13566
 translate pt_br botkchoice_c84b6fb2:
 
     # bot "Aaaaaahhhhh~!" with ssshake
-    bot "" with ssshake
+    bot "Aaaaaahhhhhl!" with ssshake
 
 # game/script.rpy:13568
 translate pt_br botkchoice_c35b64d5_1:
 
     # bot "Nnnnh... did you enjoy me, [botown]?"
-    bot ""
+    bot "Nnnnh... você se divertiu comigo, [botown]?"
 
 # game/script.rpy:13569
 translate pt_br botkchoice_ce737bda_1:
 
     # c "You did great."
-    c ""
+    c "Você foi ótima."
 
 # game/script.rpy:13570
 translate pt_br botkchoice_dff19229_1:
 
     # bot "Thank you..."
-    bot ""
+    bot "Obrigada..."
 
 # game/script.rpy:13581
 translate pt_br botkchoice_b73c8534:
 
     # bot "N-No way! That's too much! Way too much!"
-    bot ""
+    bot "S-Sem chance! Isso é demais! Demais mesmo!"
 
 # game/script.rpy:13583
 translate pt_br botkchoice_91f54ec9_2:
 
     # c "I need to raise her Relationship Level."
-    c ""
+    c "Eu preciso aumentar o Nível de Relacionamento dela."
 
 # game/script.rpy:13632
 translate pt_br sylkitchen_talk_32c319ca:
