@@ -15327,7 +15327,7 @@ translate pt_br explore_brothel3_2c5da4a4:
 translate pt_br explore_brothel3_c0aaf4fa:
 
     # c "I'm glad they think so."
-    c "Fico feliz em saber que elas pensam assim."
+    c "Fico feliz que elas pensem assim."
 
 # game/script.rpy:9348
 translate pt_br explore_brothel3_cde09a5d:
@@ -15387,7 +15387,7 @@ translate pt_br explore_brothel3_ac178217:
 translate pt_br explore_brothel3_c0ab8ed5:
 
     # pbun "Glad you could make it."
-    pbun "Estou feliz que você pôde vir"
+    pbun "Que bom que você veio."
 
 # game/script.rpy:9360
 translate pt_br explore_brothel3_45b1dda0:
@@ -20020,7 +20020,7 @@ translate pt_br explore_cafe3_875c529f:
 translate pt_br expl_church1_e355c015:
 
     # abby "Oh Mr. [name], good timing! We were just about to go to Old Town to feed the poor. Is that why you're here? I'm glad you remembered!"
-    abby "Ah Sr. [name], bom timing! Nós estamos prestes a ir à Antiga Cidade para alimentar os pobres. É por isso que você veio? Fico feliz que você tenha lembrado!"
+    abby "Ah Sr. [name], bom timing! Nós estamos prestes a ir à Antiga Cidade para alimentar os pobres. É por isso que você veio? Que bom que você lembrou!"
 
 # game/script.rpy:11101
 translate pt_br needy_help_7ea8547b:
@@ -20728,7 +20728,7 @@ translate pt_br expl_church0_5e1a75b6:
 translate pt_br expl_church0_0fd907c9:
 
     # abby "Oh it's you! Hello! I'm so glad you could make it!"
-    abby "Ah é você! Olá! Eu fico muito feliz que você tenha vindo!"
+    abby "Ah é você! Olá! Fico muito feliz que você tenha vindo!"
 
 # game/script.rpy:11281
 translate pt_br expl_church0_0bc239ec:
@@ -25078,7 +25078,7 @@ translate pt_br botkchoice_3b6c4033:
 translate pt_br botkchoice_ec3c32bc:
 
     # c "Nevermind."
-    c "Deixa para lá."
+    c "Deixa pra lá."
 
 # game/script.rpy:13299
 translate pt_br botkchoice_33639125:
@@ -25624,889 +25624,889 @@ translate pt_br botkchoice_91f54ec9_2:
 translate pt_br sylkitchen_talk_32c319ca:
 
     # c "Working hard?"
-    c ""
+    c "Como está indo aí?"
 
 # game/script.rpy:13633
 translate pt_br sylkitchen_talk_09950d95:
 
     # syl "Hardly working..."
-    syl ""
+    syl "Quase não está indo..."
 
 # game/script.rpy:13637
 translate pt_br sylkitchenchoice_3223d2db:
 
     # syl "You're kidding..."
-    syl ""
+    syl "Você está brincando né..."
 
 # game/script.rpy:13638
 translate pt_br sylkitchenchoice_ff0c41d2:
 
     # c "Nope, get to work."
-    c ""
+    c "Não, comece a trabalhar."
 
 # game/script.rpy:13639
 translate pt_br sylkitchenchoice_1582ac4e:
 
     # syl "Right now? Ugh... by the gods..."
-    syl ""
+    syl "Agora mesmo? Ugh... pelos deuses..."
 
 # game/script.rpy:13642
 translate pt_br sylkitchenchoice_59cadc98:
 
     # syl "I can't believe you're making {i}me{/i} do this..."
-    syl ""
+    syl "Eu não consigo acreditar que você está {i}me{/i} obrigando a fazer algo assim..."
 
 # game/script.rpy:13643
 translate pt_br sylkitchenchoice_506a4864:
 
     # l "What's the matter? Is this work beneath you?"
-    l ""
+    l "Qual é o problema? Esse trabalho é inferior a você?"
 
 # game/script.rpy:13644
 translate pt_br sylkitchenchoice_4ca87aa7:
 
     # syl "Yes! Exactly! I never clean, that's a slaves job!"
-    syl ""
+    syl "Sim! Exato! Eu nunca limpo, esse é um trabalho para escravos!"
 
 # game/script.rpy:13645
 translate pt_br sylkitchenchoice_320dc389:
 
     # l "A slave? You mean like you?"
-    l ""
+    l "Uma escrava? Quer dizer uma como você?"
 
 # game/script.rpy:13646
 translate pt_br sylkitchenchoice_89f9ed38:
 
     # syl "Rrrrg...!"
-    syl ""
+    syl "Rrrrg...!"
 
 # game/script.rpy:13648
 translate pt_br sylkitchenchoice_01ac813e:
 
     # nia "Why are you wearing that...?"
-    nia ""
+    nia "Por que você está vestindo isso...?"
 
 # game/script.rpy:13649
 translate pt_br sylkitchenchoice_1a2e98f5:
 
     # syl "Excuse me? Why aren't you saving me from this!? Isn't that your job!?"
-    syl ""
+    syl "Com licença? Por que você não está me salvando disso!? Não é esse o seu trabalho!?"
 
 # game/script.rpy:13650
 translate pt_br sylkitchenchoice_9d586b9d:
 
     # nia "Uh, didn't you {i}just{/i} say cleaning was a slave's job? That attitude's gotta go..."
-    nia ""
+    nia "Hum, você não {i}acabou{/i} de dizer que limpeza é um trabalho para escravos? Você precisa dar um jeito nessa atitude..."
 
 # game/script.rpy:13651
 translate pt_br sylkitchenchoice_b6fa4705:
 
     # syl "Why you-! Rrrgh, stop looking at me!"
-    syl ""
+    syl "Por que você-! Rrrgh, para de olhar pra mim!"
 
 # game/script.rpy:13655
 translate pt_br sylkitchenchoice_b36e0fa1:
 
     # syl "Urrrgh, there are so many crumbs...! Who keeps eating on the damned couch?"
-    syl ""
+    syl "Urrrgh, tem tanta farofa aqui...! Quem é que fica comendo na merda desse sofá?"
 
 # game/script.rpy:13656
 translate pt_br sylkitchenchoice_b7b661bd:
 
     # nia "Uhh, you..."
-    nia ""
+    nia "Humm, você..."
 
 # game/script.rpy:13657
 translate pt_br sylkitchenchoice_c3587a3c:
 
     # syl "Me!? I'm no sloppy eater like you!"
-    syl ""
+    syl "Eu!? Eu não sou desleixada que nem você!"
 
 # game/script.rpy:13658
 translate pt_br sylkitchenchoice_c5e75d45:
 
     # l "It doesn't matter who did it, Sylvia, it's your job to clean it!"
-    l ""
+    l "Não importa quem fez isso, Sylvia, é o seu trabalho limpar!"
 
 # game/script.rpy:13659
 translate pt_br sylkitchenchoice_7a460d43:
 
     # syl "No, it's your job, you do it!"
-    syl ""
+    syl "Não, é seu trabalho, faz isso você!"
 
 # game/script.rpy:13660
 translate pt_br sylkitchenchoice_8b037ea3:
 
     # c "Not right now it isn't. Don't forget the bunkroom either."
-    c ""
+    c "No momento não é. E não se esqueça do dormitório"
 
 # game/script.rpy:13661
 translate pt_br sylkitchenchoice_053e8943:
 
     # syl "Ugggh!"
-    syl ""
+    syl "Uhhhh!"
 
 # game/script.rpy:13663
 translate pt_br sylkitchenchoice_cf413c79:
 
     # syl "Don't you have machines for these menial tasks? Why am I using a broom!? This is a carpet!"
-    syl ""
+    syl "Você não tem máquinas para essas tarefas manuais? Por que eu estou usando uma vassoura!? Isso é um tapete!"
 
 # game/script.rpy:13664
 translate pt_br sylkitchenchoice_2a866cc1:
 
     # c "Maybe one day it will click. For now just focus on the job in front you."
-    c ""
+    c "Talvez um dia você entenda. Por enquanto, apenas se concentre no trabalho na sua frente."
 
 # game/script.rpy:13665
 translate pt_br sylkitchenchoice_ce4ac987:
 
     # syl "I am much too overqualified for this work, my magnificent mind has far greater things it could be focusing on!"
-    syl ""
+    syl "Eu sou qualificada demais para esse trabalho, a minha magnífica mente poderia estar focando em coisas muito maiores do que essa!"
 
 # game/script.rpy:13666
 translate pt_br sylkitchenchoice_a74d1fe1:
 
     # l "Don't forget the beds! Looks like someone forgot to do theirs..."
-    l ""
+    l "Não se esqueça das camas! Parece que alguem se esqueceu de arrumá-las..."
 
 # game/script.rpy:13667
 translate pt_br sylkitchenchoice_153c6199:
 
     # syl "Tsk!"
-    syl ""
+    syl "Tsc!"
 
 # game/script.rpy:13669
 translate pt_br sylkitchenchoice_b21d59c1:
 
     # syl "Fine, you want to see my ass? There! Can I stop now?"
-    syl ""
+    syl "Certo, você quer ver a minha bunda? Aqui! Posso parar agora?"
 
 # game/script.rpy:13670
 translate pt_br sylkitchenchoice_9a60c2bb:
 
     # c "Nope."
-    c ""
+    c "Não."
 
 # game/script.rpy:13671
 translate pt_br sylkitchenchoice_b6d69bfb:
 
     # syl "Urgh! Quit being so stubborn!\nAnd stop being so lazy, Nia! I know this is your bed!"
-    syl ""
+    syl "Urgh! Pare de ser tão teimosa!\nE pare de ser tão preguiçosa, Nia! Eu sei que essa é a sua cama!"
 
 # game/script.rpy:13672
 translate pt_br sylkitchenchoice_3297af9d:
 
     # nia "Kinda busy saving lives!"
-    nia ""
+    nia "Eu estou meio ocupada salvando vidas!"
 
 # game/script.rpy:13675
 translate pt_br sylkitchenchoice_6634e59c:
 
     # l "The area under her bed needs attention..."
-    l ""
+    l "A região embaixo da cama dela precisa de atenção..."
 
 # game/script.rpy:13676
 translate pt_br sylkitchenchoice_9cd19a1b:
 
     # syl "Yes, yes..."
-    syl ""
+    syl "Sim, sim..."
 
 # game/script.rpy:13678
 translate pt_br sylkitchenchoice_64f0f5fb:
 
     # syl "Oh come on! Stop throwing things under your bed! Why is your camera still here?"
-    syl ""
+    syl "Ah, fala sério! Pare de jogar as coisas embaixo da cama! Por que a sua câmera ainda está aqui?"
 
 # game/script.rpy:13679
 translate pt_br sylkitchenchoice_86c49eb2:
 
     # nia "Hey, don't touch that! That's for work!"
-    nia ""
+    nia "Ei, não toque nisso! Isso é para meu trabalho!"
 
 # game/script.rpy:13680
 translate pt_br sylkitchenchoice_02cefd39:
 
     # syl "Put it somewhere safe then, don't make me do it!"
-    syl ""
+    syl "Coloque isso em algum lugar seguro então, não me obrigue a fazer isso!"
 
 # game/script.rpy:13683
 translate pt_br sylkitchenchoice_1efaaced:
 
     # c "Sylvia..."
-    c ""
+    c "Sylvia..."
 
 # game/script.rpy:13684
 translate pt_br sylkitchenchoice_69913d27:
 
     # syl "*sigh*, fine... your bunk is spotless now Nia! Enjoy..."
-    syl ""
+    syl "*suspiro*, tá... sua beliche está impecável agora Nia! Aproveite..."
 
 # game/script.rpy:13685
 translate pt_br sylkitchenchoice_bd9f4b17:
 
     # c "That's enough for now, I think you learned your lesson. But this won't be the last time."
-    c ""
+    c "Isso é o bastante por enquanto, acho que você aprendeu a sua lição. Mas essa não vai ser a última vez."
 
 # game/script.rpy:13686
 translate pt_br sylkitchenchoice_32d48fa4:
 
     # syl "Urgh..."
-    syl ""
+    syl "Urgh..."
 
 # game/script.rpy:13693
 translate pt_br sylkitchenchoice_9b65e1fc:
 
     # c "I've already pet her today."
-    c ""
+    c "Eu já fiz carinho nela hoje."
 
 # game/script.rpy:13700
 translate pt_br sylkitchenchoice_685a2f71:
 
     # syl "That's close enough..."
-    syl ""
+    syl "Já chegou perto o suficiente..."
 
 # game/script.rpy:13705
 translate pt_br sylkitchenchoice_6195686f:
 
     # syl "What is the point..."
-    syl ""
+    syl "Qual é o motivo..."
 
 # game/script.rpy:13707
 translate pt_br sylkitchenchoice_c283d13a:
 
     # c "Boop."
-    c ""
+    c "Boop."
 
 # game/script.rpy:13709
 translate pt_br sylkitchenchoice_8d76bfa6:
 
     # syl "What did you just do to me!?"
-    syl ""
+    syl "O que você acabou de fazer comigo!?"
 
 # game/script.rpy:13714
 translate pt_br sylkitchenchoice_1f5b533e:
 
     # syl "Absolutely ridiculous..."
-    syl ""
+    syl "Absolutamente ridículo..."
 
 # game/script.rpy:13716
 translate pt_br sylkitchenchoice_c283d13a_1:
 
     # c "Boop."
-    c ""
+    c "Boop."
 
 # game/script.rpy:13720
 translate pt_br sylkitchenchoice_371023d4:
 
     # syl "{i}How dare you!?{/i}"
-    syl ""
+    syl "{i}Como você se atreve!?{/i}"
 
 # game/script.rpy:13723
 translate pt_br sylkitchenchoice_b0821bee:
 
     # syl "What is the meaning of this!?"
-    syl ""
+    syl "Qual é o significado disso?!"
 
 # game/script.rpy:13726
 translate pt_br sylkitchenchoice_7238bf88:
 
     # syl "Cease this at once!"
-    syl ""
+    syl "Pare com isso de uma vez!"
 
 # game/script.rpy:13730
 translate pt_br sylkitchenchoice_edf0c8ec:
 
     # c "I've already spanked her today."
-    c ""
+    c "Eu já bati nela hoje."
 
 # game/script.rpy:13733
 translate pt_br sylkitchenchoice_26d8846b:
 
     # c "Bend over the counter."
-    c ""
+    c "Incline-se sobre o balcão.""
 
 # game/script.rpy:13734
 translate pt_br sylkitchenchoice_3ff661af:
 
     # syl "I'm sorry!?"
-    syl ""
+    syl "Perdão!?"
 
 # game/script.rpy:13735
 translate pt_br sylkitchenchoice_004e39ef:
 
     # c "Now."
-    c ""
+    c "Agora."
 
 # game/script.rpy:13736
 translate pt_br sylkitchenchoice_205e10a9:
 
     # syl "Ugh..."
-    syl ""
+    syl "Ugh..."
 
 # game/script.rpy:13738
 translate pt_br sylkitchenchoice_7eee3dac:
 
     # syl "Get to it, then..."
-    syl ""
+    syl "Faça isso de uma vez, então..."
 
 # game/script.rpy:13744
 translate pt_br sylkitchenchoice_7710b2a0:
 
     # syl "Nnngh!"
-    syl ""
+    syl "Nnngh!"
 
 # game/script.rpy:13747
 translate pt_br sylkitchenchoice_c82b7bac:
 
     # syl "Ah!"
-    syl ""
+    syl "Ah!"
 
 # game/script.rpy:13749
 translate pt_br sylkitchenchoice_37cd1484:
 
     # syl "Are you done?"
-    syl ""
+    syl "Já terminou?"
 
 # game/script.rpy:13754
 translate pt_br sylkitchenchoice_a0523103:
 
     # syl "Agh!"
-    syl ""
+    syl "Agh!"
 
 # game/script.rpy:13757
 translate pt_br sylkitchenchoice_b597ce2d:
 
     # syl "NNNH!"
-    syl ""
+    syl "NNNH!"
 
 # game/script.rpy:13759
 translate pt_br sylkitchenchoice_d2f7c67b:
 
     # syl "How annoying...!"
-    syl ""
+    syl "Que irritante...!"
 
 # game/script.rpy:13764
 translate pt_br sylkitchenchoice_8982cf9f:
 
     # syl "Mmmn!"
-    syl ""
+    syl "Mmmn!"
 
 # game/script.rpy:13767
 translate pt_br sylkitchenchoice_74726e50:
 
     # syl "Gods damn it!"
-    syl ""
+    syl "Pelo amor dos deuses!"
 
 # game/script.rpy:13769
 translate pt_br sylkitchenchoice_9e574c47:
 
     # syl "Alright, I'm sorry! I'm sorry! Happy!?"
-    syl ""
+    syl "Tá bom, me desculpa! Me desculpa! Satisfeito!? "
 
 # game/script.rpy:13772
 translate pt_br sylkitchenchoice_e69e42b8:
 
     # c "No."
-    c ""
+    c "Não."
 
 # game/script.rpy:13775
 translate pt_br sylkitchenchoice_8126e384:
 
     # syl "NNNM!"
-    syl ""
+    syl "NNNM!"
 
 # game/script.rpy:13778
 translate pt_br sylkitchenchoice_5f75d191:
 
     # syl "Fuck!"
-    syl ""
+    syl "Porra!"
 
 # game/script.rpy:13780
 translate pt_br sylkitchenchoice_bc87cf67:
 
     # syl "What have I done to deserve this treatment?"
-    syl ""
+    syl "O que eu fiz para merecer esse tratamento?"
 
 # game/script.rpy:13783
 translate pt_br sylkitchenchoice_fcdbb35e:
 
     # c "Quite a lot... should I count them off?"
-    c ""
+    c "Bastante... quer que eu conte?"
 
 # game/script.rpy:13786
 translate pt_br sylkitchenchoice_1569bac4:
 
     # syl "HAHG!!"
-    syl ""
+    syl "HAHG!!"
 
 # game/script.rpy:13789
 translate pt_br sylkitchenchoice_7ffbd161:
 
     # syl "NNNGH! No, no! Please don't!"
-    syl ""
+    syl "NNNGH! Não, não! Por favor não conte!"
 
 # game/script.rpy:13791
 translate pt_br sylkitchenchoice_bb987d0a:
 
     # syl "I'm sorry, I'm sorry!"
-    syl ""
+    syl "Me desculpa, me desculpa!"
 
 # game/script.rpy:13792
 translate pt_br sylkitchenchoice_698e1dbe:
 
     # c "I think you've learned your lesson...\n...For now."
-    c ""
+    c "Acho que você já aprendeu a sua lição...\n...Por agora. "
 
 # game/script.rpy:13794
 translate pt_br sylkitchenchoice_a38a71f9:
 
     # syl "I'll show you a-"
-    syl ""
+    syl "Eu vou te mostrar uma-"
 
 # game/script.rpy:13797
 translate pt_br sylkitchenchoice_a0523103_1:
 
     # syl "Agh!"
-    syl ""
+    syl "Agh!"
 
 # game/script.rpy:13799
 translate pt_br sylkitchenchoice_2874b3e0:
 
     # syl "Stooooop...!"
-    syl ""
+    syl "Paraaaaaa...!"
 
 # game/script.rpy:13800
 translate pt_br sylkitchenchoice_618a9fba:
 
     # c "Get back to work."
-    c ""
+    c "Volte a trabalhar."
 
 # game/script.rpy:13802
 translate pt_br sylkitchenchoice_8a1a9855:
 
     # c "Okay, we're done."
-    c ""
+    c "Tudo bem, nós terminamos."
 
 # game/script.rpy:13803
 translate pt_br sylkitchenchoice_e6dac69c:
 
     # syl "Nnnrg..."
-    syl ""
+    syl "Nnnrg..."
 
 # game/script.rpy:13805
 translate pt_br sylkitchenchoice_8a1a9855_1:
 
     # c "Okay, we're done."
-    c ""
+    c "Tudo bem, nós terminamos"
 
 # game/script.rpy:13806
 translate pt_br sylkitchenchoice_a1404371:
 
     # syl "Good..."
-    syl ""
+    syl "Bom..."
 
 # game/script.rpy:13808
 translate pt_br sylkitchenchoice_8a1a9855_2:
 
     # c "Okay, we're done."
-    c ""
+    c "Tudo bem, nós terminamos."
 
 # game/script.rpy:13809
 translate pt_br sylkitchenchoice_6de50994:
 
     # syl "Okay..."
-    syl ""
+    syl "Tudo bem..."
 
 # game/script.rpy:13811
 translate pt_br sylkitchenchoice_3b6c4033:
 
     # c "We're done."
-    c ""
+    c "Nós terminamos."
 
 # game/script.rpy:13813
 translate pt_br sylkitchenchoice_ec3c32bc:
 
     # c "Nevermind."
-    c ""
+    c "Deixa pra lá."
 
 # game/script.rpy:13814
 translate pt_br sylkitchenchoice_b3f82ba9:
 
     # syl "Huh...?"
-    syl ""
+    syl "Hum...?"
 
 # game/script.rpy:13818
 translate pt_br sylkitchenchoice_2961ab75:
 
     # c "I've already done that today."
-    c ""
+    c "Eu já fiz isso hoje."
 
 # game/script.rpy:13829
 translate pt_br sylkitchenchoice_d57f81db:
 
     # syl "Are you finished gawking...?"
-    syl ""
+    syl "Você já termminou de ficar encarando...?"
 
 # game/script.rpy:13832
 translate pt_br sylkitchenchoice_9476e051:
 
     # c "Now I am."
-    c ""
+    c "Agora sim."
 
 # game/script.rpy:13833
 translate pt_br sylkitchenchoice_399e7a24:
 
     # syl "Tsk..."
-    syl ""
+    syl "Tsc..."
 
 # game/script.rpy:13838
 translate pt_br sylkitchenchoice_ce93c204:
 
     # c "Follow me into the shower."
-    c ""
+    c "Siga-me até o chuveiro."
 
 # game/script.rpy:13839
 translate pt_br sylkitchenchoice_492cc3e3:
 
     # syl "Ugh, are you kidding...?"
-    syl ""
+    syl "Ugh, você está brincando...?"
 
 # game/script.rpy:13840
 translate pt_br sylkitchenchoice_f1eda56a:
 
     # c "You need to be taught a lesson."
-    c ""
+    c "Você precisa aprender uma lição."
 
 # game/script.rpy:13865
 translate pt_br kitchen_3773b7a6:
 
     # "{i}I should raise Ashley's friendship...{/i}"
-    ""
+    "{i}Eu preciso aumentar a amizade da Ashley...{/i}"
 
 # game/script.rpy:13870
 translate pt_br kitchen_3c9a8c79:
 
     # l "[linoname]! I'm glad you're here! I made pizza for everyone!"
-    l ""
+    l "[linoname]! Que bom que você veio! Eu fiz uma pizza para todo mundo!"
 
 # game/script.rpy:13872
 translate pt_br kitchen_553b0922:
 
     # k "At least it doesn't look burnt this time..."
-    k ""
+    k "Pelo menos dessa vez não parece queimada..."
 
 # game/script.rpy:13873
 translate pt_br kitchen_a3c7eb51:
 
     # a "You got that right!"
-    a ""
+    a "Você tem razão!"
 
 # game/script.rpy:13874
 translate pt_br kitchen_477dcf67:
 
     # m "Am I missing something?"
-    m ""
+    m "Eu perdi alguma coisa?"
 
 # game/script.rpy:13875
 translate pt_br kitchen_eac15c66:
 
     # l "Please! Dig in everyone!"
-    l ""
+    l "Por favor! Sirvam-se todos!"
 
 # game/script.rpy:13877
 translate pt_br kitchen_b88be125:
 
     # "You take a bite of the pizza..."
-    ""
+    "Você dá uma mordida na pizza..."
 
 # game/script.rpy:13878
 translate pt_br kitchen_19127281:
 
     # "It's good! It's great actually!"
-    ""
+    "Está boa! Na verdade está ótima!"
 
 # game/script.rpy:13880
 translate pt_br kitchen_2fe3295d:
 
     # k "Wow, this is... Actually pretty good! How did you improve so fast?"
-    k ""
+    k "Uau, isso está... Na verdade está muito boa! Como você melhorou tão rápido?"
 
 # game/script.rpy:13881
 translate pt_br kitchen_ce53cab3:
 
     # l "Oh, thank you Kali! I just had a little motivation, heheh..."
-    l ""
+    l "Ah, obrigada Kali! Eu só recebi um pouco de motivação, heheh..."
 
 # game/script.rpy:13883
 translate pt_br kitchen_e97831d8:
 
     # a "Yeah, this is amazing! I could eat this every day!"
-    a ""
+    a "Sim, isso está incrível! Eu poderia comer isso todo dia!"
 
 # game/script.rpy:13884
 translate pt_br kitchen_86b2d5fa:
 
     # l "Ashley..."
-    l ""
+    l "Ashley..."
 
 # game/script.rpy:13885
 translate pt_br kitchen_ad405bc5:
 
     # a "I'm just kidding! {size=-10}{i}Maybe...{/i}{/size}"
-    a ""
+    a "Estou só brincando! {size-10}{i}Talvez...{/i}{/size}"
 
 # game/script.rpy:13887
 translate pt_br kitchen_f82d0d3c:
 
     # m "Yeah... Not bad... It's not that frozen stuff, this was made from scratch."
-    m ""
+    m "Uhum... Nada mal... Não é aquela coisa congelada, essa foi feita do zero."
 
 # game/script.rpy:13888
 translate pt_br kitchen_a6a79dd3:
 
     # l "Oh, Thank you so much! I'm glad you could tell the difference, I worked all night on it!"
-    l ""
+    l "Ah, muito obrigada! Que bom que você percebeu a diferença, eu trabalhei a noite toda nisso!"
 
 # game/script.rpy:13889
 translate pt_br kitchen_d57b97ec:
 
     # c "Should you be drinking this early in the day?"
-    c ""
+    c "Você deveria estar bebendo isso tão cedo?"
 
 # game/script.rpy:13891
 translate pt_br kitchen_8560838d:
 
     # m "It's never too early to have a little fun..."
-    m ""
+    m "Nunca é cedo o suficiente para um pouco de diversão..."
 
 # game/script.rpy:13893
 translate pt_br kitchen_efe7bada:
 
     # k "Shame it had black olives though..."
-    k ""
+    k "Mas é decepcionante que tenha azeitonas pretas..."
 
 # game/script.rpy:13894
 translate pt_br kitchen_fcfcdaf3:
 
     # a "Ergh, right? Disgusting..."
-    a ""
+    a "Ergh, não é? Nojento..."
 
 # game/script.rpy:13895
 translate pt_br kitchen_13dc5d46:
 
     # m "I prefer the green ones..."
-    m ""
+    m "Eu prefiro as verdes..."
 
 # game/script.rpy:13896
 translate pt_br kitchen_d0b54a42:
 
     # l "..........................................................................................................."
-    l ""
+    l "..........................................................................................................."
 
 # game/script.rpy:13897
 translate pt_br kitchen_2a88994c:
 
     # l "I'll never win..."
-    l ""
+    l "Eu nunca ganho..."
 
 # game/script.rpy:13907
 translate pt_br kitchen_a380d7af:
 
     # l "Hello [linoname]! I made you something."
-    l ""
+    l "Olá [linoname]! Eu preparei algo para você."
 
 # game/script.rpy:13911
 translate pt_br kitchen_5e6973ae:
 
     # l "A feast for a king!"
-    l ""
+    l "Um banquete para um rei!"
 
 # game/script.rpy:13912
 translate pt_br kitchen_e5376ca2:
 
     # l "How is it? I worked really hard on this. I hope it's good..."
-    l ""
+    l "Como está? Eu trabalhei muito duro nisso. Eu espero que esteja gostoso..."
 
 # game/script.rpy:13913
 translate pt_br kitchen_29402773:
 
     # c "That's a lot of food..."
-    c ""
+    c "Isso é muita comida..."
 
 # game/script.rpy:13914
 translate pt_br kitchen_c6633d2f:
 
     # "You take a bite of everything..."
-    ""
+    "Você dá uma mordida em tudo..."
 
 # game/script.rpy:13915
 translate pt_br kitchen_f0670fd7:
 
     # "Surprisingly, it tastes good. Nothing is burnt, nothing is spoiled... but she forgot to fill up your cup."
-    ""
+    "Surpreendentemente, o gosto é bom. Não tem nada queimado, nem nada estragado... mas ela se esqueceu de encher seu copo."
 
 # game/script.rpy:13916
 translate pt_br kitchen_d283d058:
 
     # c "Wow, good job Lin, but you forgot the water..."
-    c ""
+    c "Uau, bom trabalho Lin, mas você esqueceu da água..."
 
 # game/script.rpy:13917
 translate pt_br kitchen_021e5d22:
 
     # l "What!? I've been so focused on the food I forgot..."
-    l ""
+    l "O quê!? Eu estava tão concentrada na comida que eu esqueci..."
 
 # game/script.rpy:13918
 translate pt_br kitchen_c0f9f3fb:
 
     # "Lin gets some water from the fridge and pours you a drink."
-    ""
+    "Lin traz um pouco de água na geladeira e serve uma bebida para você."
 
 # game/script.rpy:13919
 translate pt_br kitchen_573deede:
 
     # l "There you go [linoname]. I'm glad everything else was good!"
-    l ""
+    l "Aqui está [linoname]. Que bom que todo o resto está gostoso!"
 
 # game/script.rpy:13926
 translate pt_br kitchen_fe91ac0e:
 
     # l "Hello [linoname]! I made you some coffee. I thought you would enjoy-"
-    l ""
+    l "Olá [linoname]! Eu fiz um pouco de café para você. Eu imaginei que você gostaria~"
 
 # game/script.rpy:13928
 translate pt_br kitchen_05041b49:
 
     # l "Ah!" with ssshake
-    l "" with ssshake
+    l "Ah!" with ssshake
 
 # game/script.rpy:13930
 translate pt_br kitchen_dac5ca68:
 
     # l "S-Sorry [linoname], it slipped! Please don't punish me!"
-    l ""
+    l "D-Desculpa [linoname], escorregou! Por favor não me castigue!"
 
 # game/script.rpy:13931
 translate pt_br kitchen_50ec33ed:
 
     # l "Hurry! Take your clothes off I need to wash them before they stain!"
-    l ""
+    l "Rápido! Tire suas roupas para eu lavar antes que elas fiquem manchadas!"
 
 # game/script.rpy:13933
 translate pt_br kitchen_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/script.rpy:13935
 translate pt_br kitchen_87ee0f95:
 
     # l "Okay [linoname], your clothes are washing now..."
-    l ""
+    l "Tudo bem [linoname], suas roupas estão sendo lavadas agora..."
 
 # game/script.rpy:13936
 translate pt_br kitchen_e897fbb0:
 
     # c "Thank you."
-    c ""
+    c "Obrigado."
 
 # game/script.rpy:13938
 translate pt_br kitchen_4ee5fe24:
 
     # l "Um... it's kind of embarrassing to see you... naked..."
-    l ""
+    l "Hum... é meio constrangedor ver vocÊ... nú..."
 
 # game/script.rpy:13939
 translate pt_br kitchen_722297aa:
 
     # l "Your... um... penis... is big..."
-    l ""
+    l "O seu... hum... pênis... é grande..."
 
 # game/script.rpy:13940
 translate pt_br kitchen_a7d0ec8c:
 
     # l "Much bigger than elves..."
-    l ""
+    l "Muito maior que o dos elfos..."
 
 # game/script.rpy:13942
 translate pt_br kitchen_295b0057:
 
     # l "It's kind of nice to look at..."
-    l ""
+    l "Até que é bom de olhar..."
 
 # game/script.rpy:13943
 translate pt_br kitchen_06786b35:
 
     # l "It's throbbing..."
-    l ""
+    l "EStá pulsando..."
 
 # game/script.rpy:13945
 translate pt_br kitchen_c011cfa6:
 
     # l "Oh... It's getting bigger now... and harder..."
-    l ""
+    l "Ah... Ele está ficando maior agora... e mais duro..."
 
 # game/script.rpy:13947
 translate pt_br kitchen_7d6108d1:
 
     # l "How big can it get, [linoname]...?"
-    l ""
+    l "O quanto ele pode crescer, [linoname]...?"
 
 # game/script.rpy:13949
 translate pt_br kitchen_f5a0b4a8:
 
     # l "I kind of... want to find out..."
-    l ""
+    l "Eu meio que... quero descobrir..."
 
 # game/script.rpy:13950
 translate pt_br kitchen_5449fc12:
 
     # l "I haven't shown any skin, yet you're still so hard... I wonder what would happen if..."
-    l ""
+    l "Eu não mostrei nenhuma pele, e mesmo assim você está tão duro... Eu me pergunto o que aconteceria se..."
 
 # game/script.rpy:13951
 translate pt_br kitchen_c2f3e7e7:
 
     # l "Hmmm..."
-    l ""
+    l "Hmmm..."
 
 # game/script.rpy:13953
 translate pt_br kitchen_70a70c8d:
 
     # l "I did this...?"
-    l ""
+    l "Eu fizesse isso...?"
 
 # game/script.rpy:13956
 translate pt_br kitchen_91cb7779:
 
     # l "Heheh, ohhh..."
-    l ""
+    l "Heheh, ahhh..."
 
 # game/script.rpy:13958
 translate pt_br kitchen_d72152ef:
 
     # l "It's getting bigger..."
-    l ""
+    l "Está ficando maior..."
 
 # game/script.rpy:13959
 translate pt_br kitchen_e65dca85:
 
     # l "Um... does it hurt when it gets that big...?"
-    l ""
+    l "Hum... ele dói quando fica tão grande...?"
 
 # game/script.rpy:13960
 translate pt_br kitchen_c446f21b:
 
     # l "Like... um, do you need... relief?"
-    l ""
+    l "Tipo... hum, você precisa de... alívio?"
 
 # game/script.rpy:13961
 translate pt_br kitchen_a89a0d91:
 
     # c "That would be nice."
-    c ""
+    c "Isso seria bom..."
 
 # game/script.rpy:13963
 translate pt_br kitchen_029ff7e8:
@@ -27298,13 +27298,13 @@ translate pt_br linkchoice_decba803:
 translate pt_br linkchoice_9b65e1fc:
 
     # c "I've already pet her today."
-    c ""
+    c "Eu já fiz carinho nela hoje."
 
 # game/script.rpy:14323
 translate pt_br linkchoice_26d8846b:
 
     # c "Bend over the counter."
-    c ""
+    c "Incline-se sobre o balcão.""
 
 # game/script.rpy:14325
 translate pt_br linkchoice_13e3b893:
@@ -27478,7 +27478,7 @@ translate pt_br linkchoice_3b6c4033:
 translate pt_br linkchoice_ec3c32bc:
 
     # c "Nevermind."
-    c ""
+    c "Deixa pra lá."
 
 # game/script.rpy:14463
 translate pt_br linkchoice_eb6c705e:
@@ -66112,7 +66112,7 @@ translate pt_br botoutfits_39cedcd6_2:
 translate pt_br botoutfits_c2494032:
 
     # c "Nevermind..."
-    c ""
+    c "Deixa para lá."
 
 # game/script.rpy:27310
 translate pt_br botoutfits_1fcd1008:
