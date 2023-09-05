@@ -4992,7 +4992,7 @@ translate pt_br floor2menu_b5f50750_6:
 translate pt_br floor2menu_3590981d:
 
     # c "I think I saw her going into the hot springs."
-    c "Eu acho que vi ela indo para as fontes termais"
+    c "Eu acho que vi ela indo para a fonte termal."
 
 # game/script.rpy:4614
 translate pt_br floor2menu_b5f50750_7:
@@ -5484,7 +5484,7 @@ translate pt_br floor2menu_bbe38fd9:
 translate pt_br floor2menu_dd598a90:
 
     # c "Interested in taking a break at the hot springs?"
-    c "Está interessada em passar um tempo nas fontes termais?"
+    c "Está interessada em passar um tempo na fonte termal?"
 
 # game/script.rpy:4840
 translate pt_br floor2menu_d1c204c5:
@@ -6354,7 +6354,7 @@ translate pt_br floor2menu_b5f50750_11:
 translate pt_br floor2menu_26e9581e:
 
     # "I think I saw them heading to the hot springs."
-    "Eu acho que vi elas indo para as fontes termais."
+    "Eu acho que vi elas indo para a fonte termal."
 
 # game/script.rpy:5228
 translate pt_br floor2menu_ca8f7666:
@@ -6426,7 +6426,7 @@ translate pt_br floor2menu_b5f50750_14:
 translate pt_br floor2menu_b2619f63:
 
     # c "They're probably at the hot springs."
-    c "Elas provavelmente estão nas fontes termais."
+    c "Elas provavelmente estão na fonte termal."
 
 # game/script.rpy:5269
 translate pt_br floor2menu_b5f50750_15:
@@ -6438,7 +6438,7 @@ translate pt_br floor2menu_b5f50750_15:
 translate pt_br floor2menu_b2619f63_1:
 
     # c "They're probably at the hot springs."
-    c "Elas provavelmente estão nas fontes termais."
+    c "Elas provavelmente estão na fonte termal."
 
 # game/script.rpy:5273
 translate pt_br floor2menu_b5f50750_16:
@@ -6474,7 +6474,7 @@ translate pt_br floor2menu_b5f50750_18:
 translate pt_br floor2menu_cce1e909:
 
     # c "I should check the hot springs."
-    c "Eu deveria dar uma olhada nas fontes termais."
+    c "Eu deveria dar uma olhada na fonte termal."
 
 # game/script.rpy:5286
 translate pt_br floor2menu_bf476c66:
@@ -7495,7 +7495,7 @@ translate pt_br lobby_b5f50750_3:
 translate pt_br lobby_a7a6f948:
 
     # c "I think I saw her heading to the hot springs."
-    c "EU acho que vi ela indo para as fontes termais."
+    c "EU acho que vi ela indo para a fonte termal."
 
 # game/script.rpy:5978
 translate pt_br lobby_034d63c3:
@@ -7525,7 +7525,7 @@ translate pt_br lobby_b5f50750_4:
 translate pt_br lobby_cce1e909:
 
     # c "I should check the hot springs."
-    c "Eu deveria dar uma olhada nas fontes termais."
+    c "Eu deveria dar uma olhada na fonte termal."
 
 # game/script.rpy:5996
 translate pt_br lobby_b5f50750_5:
@@ -9110,7 +9110,7 @@ translate pt_br floor1menu_1e29f957:
 translate pt_br floor1menu_a157d834:
 
     # c "They're not here... I think I saw them heading towards the hot springs."
-    c "Elas não estão aqui... Eu acho que vi elas indo para as fontes termais."
+    c "Elas não estão aqui... Eu acho que vi elas indo para a fonte termal."
 
 # game/script.rpy:6692
 translate pt_br floor1menu_46cc20a7:
@@ -9927,7 +9927,7 @@ translate pt_br floor1menu_b5f50750_10:
 translate pt_br floor1menu_2f12ff34:
 
     # c "Hmm, she's probably at the hot spring"
-    c "Hmm, ela provavelmente está nas fontes termais"
+    c "Hmm, ela provavelmente está na fonte termal"
 
 # game/script.rpy:7233
 translate pt_br floor1menu_335c3c89_2:
@@ -10125,7 +10125,7 @@ translate pt_br floor1menu_b5f50750_11:
 translate pt_br floor1menu_c8a554e6:
 
     # c "She's probably at the hot spring"
-    c "Ela provavelmente está nas fontes termais"
+    c "Ela provavelmente está na fonte termal"
 
 # game/script.rpy:7334
 translate pt_br floor1menu_b5f50750_12:
@@ -10137,7 +10137,7 @@ translate pt_br floor1menu_b5f50750_12:
 translate pt_br floor1menu_c8a554e6_1:
 
     # c "She's probably at the hot spring"
-    c "Ela provavelmente está nas fontes termais"
+    c "Ela provavelmente está na fonte terml"
 
 # game/script.rpy:7357
 translate pt_br floor1menu_335c3c89_3:
@@ -10815,7 +10815,7 @@ translate pt_br kcreep_fcca7a9a:
 translate pt_br kcreep_890baa82:
 
     # c "I'd like you to advertise the hot springs at your university as an {i}exotic hot springs with healing properties{/i}."
-    c "Eu gostaria que você anunciasse as nossas fontes termais na sua universidade como {i}fontes termais exóticas com propriedades de cura {/i}."
+    c "Eu gostaria que você anunciasse a nossa fonte termal na sua universidade como uma {i}fonte termal exótica com propriedades de cura{/i}."
 
 # game/script.rpy:7722
 translate pt_br kcreep_32808963:
@@ -10857,7 +10857,7 @@ translate pt_br kcreep_f7772536:
 translate pt_br kcreep_d71ee0e5:
 
     # c "If word gets out, I can expect them to come to my hot springs before school. I should check at noon."
-    c "Se isso der certo, eu posso esperar que elas venham para as minhas fontes termais depois da escola. Eu deveria dar uma olhada ao meio-dia."
+    c "Se isso der certo, eu posso esperar que elas venham para a minha fonte termal depois da escola. Eu deveria dar uma olhada ao meio-dia."
 
 # game/script.rpy:7737
 translate pt_br kcreep_85e625c6:
@@ -11373,7 +11373,7 @@ translate pt_br kcreep_b5f50750_3:
 translate pt_br kcreep_2f12ff34:
 
     # c "Hmm, she's probably at the hot spring"
-    c " Hmm, ela provavelmente está nas fontes termais"
+    c " Hmm, ela provavelmente está na fonte termal"
 
 # game/script.rpy:7993
 translate pt_br kcreep_b5f50750_4:
@@ -19078,7 +19078,7 @@ translate pt_br explore_cafe2_110386cf:
 translate pt_br explore_cafe2_94acda4c:
 
     # eri "But whatever... see ya around."
-    eri "Mas que seja... te vejo por aí."
+    eri "Mas que seja... nos vemos por aí."
 
 # game/script.rpy:10823
 translate pt_br explore_cafe2_3784857a:
@@ -22252,7 +22252,7 @@ translate pt_br explore_slums1_dd20ffbf:
 translate pt_br explore_slums1_237a0101:
 
     # q "See ya around, friend!"
-    q "Te vejo por aí, amigo!"
+    q "Nos vemos por aí, amigo!"
 
 # game/script.rpy:11666
 translate pt_br explore_slums1_aaff97b5:
@@ -28546,589 +28546,589 @@ translate pt_br springkali_82091822:
 translate pt_br springkali_7620e9e9:
 
     # c "Hey, Kali?"
-    c ""
+    c "Ei, Kali?"
 
 # game/script.rpy:15176
 translate pt_br springkali_bce9550b:
 
     # k "*yaaaawn*..."
-    k ""
+    k "*yaaaawn*..."
 
 # game/script.rpy:15178
 translate pt_br springkali_8803fea1:
 
     # k "H-Huh? What the hell..."
-    k ""
+    k "H-Huh? Mas que diabos..."
 
 # game/script.rpy:15180
 translate pt_br springkali_7b706679:
 
     # k "I was sleeping, asshole... what do you want?"
-    k ""
+    k "Eu estava dormindo, cuzão... o que você quer?"
 
 # game/script.rpy:15181
 translate pt_br springkali_fa46b74a:
 
     # c "I thought I would check up on you, how are you enjoying your stay?"
-    c ""
+    c "Pensei em dar uma olhada em você, como está aproveitando sua estadia?"
 
 # game/script.rpy:15182
 translate pt_br springkali_308cc01f:
 
     # k "Still sucks... I can't even enjoy the hot springs by myself apparently..."
-    k ""
+    k "Continua sendo uma merda... Pelo jeito não posso nem aproveitar a fonte termal sozinha..."
 
 # game/script.rpy:15183
 translate pt_br springkali_5039d72c:
 
     # c "I'm here to make sure everyone is happy. If there's anything I can do for you, just let me know."
-    c ""
+    c "Eu estou aqui para garantir que todo mundo esteja satisfeito. Se tiver algo que eu possa fezer por você, é só dizer."
 
 # game/script.rpy:15184
 translate pt_br springkali_2cfaf2f0:
 
     # k "Okay, ummm..."
-    k ""
+    k "Certo, hummm..."
 
 # game/script.rpy:15185
 translate pt_br springkali_45b587a4:
 
     # k "I guess I'm a bit thirsty..."
-    k ""
+    k "Acho que estou com um pouco de sede..."
 
 # game/script.rpy:15186
 translate pt_br springkali_61e47696:
 
     # c "I'll have Lin make you something immediately."
-    c ""
+    c "Eu vou pedir para a Lin fazer algo para você agora mesmo."
 
 # game/script.rpy:15187
 translate pt_br springkali_22c719b5:
 
     # k "Okay..."
-    k ""
+    k "Certo..."
 
 # game/script.rpy:15189
 translate pt_br springkali_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/script.rpy:15191
 translate pt_br springkali_810c199f:
 
     # c "Here's your drink."
-    c ""
+    c "Aqui está sua bebida."
 
 # game/script.rpy:15193
 translate pt_br springkali_42476ba8:
 
     # k "Nnnnnngh...!"
-    k ""
+    k "Nnnnnngh...!"
 
 # game/script.rpy:15195
 translate pt_br springkali_6d1f2048:
 
     # k "Lemonade? Nice..."
-    k ""
+    k "Limonada? Boa..."
 
 # game/script.rpy:15197
 translate pt_br springkali_b89f84bb:
 
     # k "Oh Fuck!" with ssshake
-    k "" with ssshake
+    k "Ô porra!" with ssshake
 
 # game/script.rpy:15200
 translate pt_br springkali_9adb0d7c:
 
     # k "Shit, I forgot!"
-    k ""
+    k "Merda, eu esqueci!"
 
 # game/script.rpy:15201
 translate pt_br springkali_21f2ae64:
 
     # k "L-Look away, asshole!"
-    k ""
+    k "P-Para de olhar, cuzão!"
 
 # game/script.rpy:15203
 translate pt_br springkali_36d7a135:
 
     # k "Urgh... you could have said something..."
-    k ""
+    k "Urgh... bem que você poderia ter dito alguma coisa..."
 
 # game/script.rpy:15204
 translate pt_br springkali_cf96774e:
 
     # c "I thought you wanted to give me a treat."
-    c ""
+    c "Eu pensei que você quis me dar um agrado."
 
 # game/script.rpy:15205
 translate pt_br springkali_841769ae:
 
     # k "What? No way..."
-    k ""
+    k "O quê? Nem pensar..."
 
 # game/script.rpy:15207
 translate pt_br springkali_543e48d8:
 
     # k "Well, are you happy? You successfully tricked me..."
-    k ""
+    k "E então, está feliz? Você conseguiu me enganar..."
 
 # game/script.rpy:15208
 translate pt_br springkali_b82f94b2:
 
     # c "Tricked you? I'm just trying to help."
-    c ""
+    c "Te enganar? Estou só tentando ajudar."
 
 # game/script.rpy:15209
 translate pt_br springkali_fd241adf:
 
     # k "Hah, right... you knew what you were doing..."
-    k ""
+    k "Hah, sei... você sabia o que você estava fazendo..."
 
 # game/script.rpy:15210
 translate pt_br springkali_99025f4d:
 
     # k "Well? You're being quiet... did you hate them or something?"
-    k ""
+    k "E aí? Você está bem calado... você odiou elas ou alguma coisa assim?"
 
 # game/script.rpy:15214
 translate pt_br springkali_1b237614:
 
     # k "You did?"
-    k ""
+    k "É sério?"
 
 # game/script.rpy:15216
 translate pt_br springkali_2d158e45:
 
     # k "I mean of course you did... they're great, who wouldn't like them..."
-    k ""
+    k "Quero dizer, é claro que sim... eles são ótimas, quem não gostaria de tê-las..."
 
 # game/script.rpy:15217
 translate pt_br springkali_244a22de:
 
     # k "I guess it's not a big deal that you saw them... they're just tits, I'm sure you've seen plenty..."
-    k ""
+    k "Acho que não é grande coisa que você tenha visto elas... são apenas tetas, tenho certeza de que você já viu várias..."
 
 # game/script.rpy:15218
 translate pt_br springkali_b0cad4bf:
 
     # c "They're great tits..."
-    c ""
+    c "Elas são ótimas tetas..."
 
 # game/script.rpy:15220
 translate pt_br springkali_66030bb1:
 
     # k "Shut up! Stop making me feel good!"
-    k ""
+    k "Cala a boca! Para de fazer eu me sentir bem!"
 
 # game/script.rpy:15222
 translate pt_br springkali_848afdce:
 
     # k "I... I mean..."
-    k ""
+    k "Eu... Eu quero dizer..."
 
 # game/script.rpy:15224
 translate pt_br springkali_521e900a:
 
     # k "Whatever! Shut up!"
-    k ""
+    k "Que seja! Cala a boca!"
 
 # game/script.rpy:15225
 translate pt_br springkali_6f3b0f65:
 
     # c "You're not used to accepting compliments, are you?"
-    c ""
+    c "Você não está acostumada a aceitar elogios, não é?"
 
 # game/script.rpy:15226
 translate pt_br springkali_2824dd7b:
 
     # k "Who are you, my therapist?"
-    k ""
+    k "Você é o que, o meu terapeuta?"
 
 # game/script.rpy:15227
 translate pt_br springkali_6f42f04f:
 
     # c "All I'm saying is you have a great body, there's nothing to be embarrassed about."
-    c ""
+    c "Só estou dizendo que você tem um ótimo corpo, não tem nada para você ter vergonha."
 
 # game/script.rpy:15229
 translate pt_br springkali_1e08b28b:
 
     # k "I-I'm more than just tits and ass, you know... I have a brain! And I'm the daughter of THE Trenero!"
-    k ""
+    k "E-Eu sou mais do que só tetas e bunds, sabe... Eu tenho um cérebro! E sou filha DO Trenero!"
 
 # game/script.rpy:15230
 translate pt_br springkali_83c5f8a7:
 
     # c "Is that so? I can't wait to see what your brain can do, then."
-    c ""
+    c "É mesmo? Mal posso esperar pra ver o que seu cérebro é capaz de fazer, então."
 
 # game/script.rpy:15231
 translate pt_br springkali_6a5e587d:
 
     # k "Y-Yeah..."
-    k ""
+    k "S-Sim..."
 
 # game/script.rpy:15232
 translate pt_br springkali_22c719b5_1:
 
     # k "Okay..."
-    k ""
+    k "Tudo bem..."
 
 # game/script.rpy:15233
 translate pt_br springkali_4ad2c740:
 
     # k "Anyway... I'm going to hide under my covers for the rest of the day, bye...!"
-    k ""
+    k "ENfim... eu vou me esconder debaixo dos meus cobertores pelo resto do dia, tchau...!"
 
 # game/script.rpy:15238
 translate pt_br springkali_24881117:
 
     # k "Fuck you and die!"
-    k ""
+    k "Vai se foder e morre!"
 
 # game/script.rpy:15241
 translate pt_br springkali_8aee670c:
 
     # "Kali slams the door behind her..."
-    ""
+    "Kali bate a porta atrás dela..."
 
 # game/script.rpy:15252
 translate pt_br marspring_e90d0e68:
 
     # m "Oh, hello [name]..."
-    m ""
+    m "Ah, olá [name]..."
 
 # game/script.rpy:15253
 translate pt_br marspring_44b457ea:
 
     # c "What are you two doing? Why are you naked?"
-    c ""
+    c "O que vocês estão fazendo? E por que estão nuas?"
 
 # game/script.rpy:15254
 translate pt_br marspring_84f37103:
 
     # m "We're relaxing, and this is a private hot spring, right?"
-    m ""
+    m "Nós estamos relaxando, e essa fonte termal é privada, não é?"
 
 # game/script.rpy:15255
 translate pt_br marspring_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "É claro."
 
 # game/script.rpy:15256
 translate pt_br marspring_0061e8c8:
 
     # m "I haven't heard any rules against nudity... or do you have a problem with it?"
-    m ""
+    m "E eu nunca ouvi sobre nenhuma regra contra nudez... ou você tem algum problema com isso?"
 
 # game/script.rpy:15257
 translate pt_br marspring_d7ae8504:
 
     # c "Not at all."
-    c ""
+    c "De forma alguma."
 
 # game/script.rpy:15259
 translate pt_br marspring_f5f51c33:
 
     # m "Good..."
-    m ""
+    m "Bom..."
 
 # game/script.rpy:15262
 translate pt_br marspring_207831bf:
 
     # m "Hmmm? You're staring..."
-    m ""
+    m "Hmmm? Você está encarando..."
 
 # game/script.rpy:15266
 translate pt_br marspring_a0f2a918:
 
     # m "Don't worry, I won't take any offense. Stare all you want..."
-    m ""
+    m "Fica tranquilo, não vou me ofender. Pode ohar o quanto quiser..."
 
 # game/script.rpy:15269
 translate pt_br marspring_0f0995c4:
 
     # a "Maria, you're such a slut..."
-    a ""
+    a "Maria, você é uma vadia..."
 
 # game/script.rpy:15270
 translate pt_br marspring_399e6147:
 
     # m "Like you're any better... I'm surprised you're wearing panties today."
-    m ""
+    m "Como se você fosse melhor... Eu estou surpresa que você esteja usando calcinha hoje."
 
 # game/script.rpy:15271
 translate pt_br marspring_b62803df:
 
     # a "Hehe~"
-    a ""
+    a "Hehe~"
 
 # game/script.rpy:15272
 translate pt_br marspring_56c88bca:
 
     # m "Besides, I'm not a crazy nympho like you... I just like my freedom is all. Sometimes you just have to flaunt what you have..."
-    m ""
+    m "E além disso, eu não sou uma ninfomaníaca maluca que nem você... Eu só gosto da minha liberdade. As vezes você só precisa mostrar o que tem..."
 
 # game/script.rpy:15275
 translate pt_br marspring_4ac35d64:
 
     # a "And what is that supposed to mean..."
-    a ""
+    a "E o que isso deveria significar?"
 
 # game/script.rpy:15276
 translate pt_br marspring_d587583a:
 
     # m "I'm just saying if people like what you have... why not show them?"
-    m ""
+    m "Eu só estou dizendo que se as pessoas gostam do que você tem... Por que não mostrar?"
 
 # game/script.rpy:15277
 translate pt_br marspring_4dc6e618:
 
     # a "People like what I have!"
-    a ""
+    a "As pessoas gostam do que eu tenho!"
 
 # game/script.rpy:15278
 translate pt_br marspring_1b78a94b:
 
     # m "Is that true? Well why don't you show everyone?"
-    m ""
+    m "Isso é verdade? Então por que você não mostra pra todo mundo?"
 
 # game/script.rpy:15279
 translate pt_br marspring_b7746135:
 
     # a "Because I'm not a crazy exhibitionist like you!"
-    a ""
+    a "Porque eu não sou uma ninfomaníaca maluca que nem você!"
 
 # game/script.rpy:15280
 translate pt_br marspring_1b96f2e3:
 
     # m "Oh, you're just jealous..."
-    m ""
+    m "AH, você está só com ciúmes..."
 
 # game/script.rpy:15281
 translate pt_br marspring_eb2d2715:
 
     # a "No I'm not!"
-    a ""
+    a "Não, eu não estou!"
 
 # game/script.rpy:15282
 translate pt_br marspring_e93a7681:
 
     # m "Then prove it..."
-    m ""
+    m "Então prove..."
 
 # game/script.rpy:15283
 translate pt_br marspring_af419a46:
 
     # a "Fine!"
-    a ""
+    a "Certo!"
 
 # game/script.rpy:15285
 translate pt_br marspring_9bfbc93b:
 
     # a "Move aside, [name]! She thinks I'm too shy to go fully nude..."
-    a ""
+    a "Chega pra lá, [name]! Ela acha que eu sou tímida demais pra ficar completamente nua..."
 
 # game/script.rpy:15288
 translate pt_br marspring_1f64c479:
 
     # a "There, see? I'm perfect."
-    a ""
+    a "Aqui, viu? Eu sou perfeita."
 
 # game/script.rpy:15289
 translate pt_br marspring_95ef9e06:
 
     # m "Hahaha! You actually did it..."
-    m ""
+    m "Hahaha! Você realmente fez isso..."
 
 # game/script.rpy:15291
 translate pt_br marspring_3204bfb9:
 
     # a "Hehe~ Yup..."
-    a ""
+    a "Hehe~ Uhum..."
 
 # game/script.rpy:15292
 translate pt_br marspring_22489456:
 
     # m "Consider me impressed Ash, I remember when you were too shy to show your body around me."
-    m ""
+    m "Considere-me impressionada Ash, eu me lembro de quando você ainda tinha vergonha demais pra mostrar seu corpo perto de mim."
 
 # game/script.rpy:15293
 translate pt_br marspring_01b37ee9:
 
     # a "I'm comfortable around you and [name]."
-    a ""
+    a "Eu me sinto confortável perto de você e do [name]."
 
 # game/script.rpy:15294
 translate pt_br marspring_0258b98e:
 
     # m "With breasts that small?"
-    m ""
+    m "Com peitos tão pequenos assim?"
 
 # game/script.rpy:15295
 translate pt_br marspring_bb28bba5:
 
     # a "Hey!"
-    a ""
+    a "Ei!"
 
 # game/script.rpy:15296
 translate pt_br marspring_d542520c:
 
     # m "Haha, you know I'm just kidding. I think you have a very cute body."
-    m ""
+    m "Haha, você sabe que estou só brincando. Eu acho que você tem um corpo muito fofo."
 
 # game/script.rpy:15297
 translate pt_br marspring_70d7037e:
 
     # a "Hehe~ Jealous?"
-    a ""
+    a "Hehe~ Está com ciúmes?"
 
 # game/script.rpy:15298
 translate pt_br marspring_9b5c99c8:
 
     # m "Hahaha! I'm happy with my body, thank you..."
-    m ""
+    m "Hahaha! Eu sou feliz com o meu corpo, obrigada..."
 
 # game/script.rpy:15299
 translate pt_br marspring_cc69b525:
 
     # m "Care to settle the debate? Whose body do you like more?"
-    m ""
+    m "Gostaria de resolver o debate? De qual corpo você gosta mais?"
 
 # game/script.rpy:15300
 translate pt_br marspring_ce277b41:
 
     # a "Obviously mine, he's my boyfriend..."
-    a ""
+    a "É claro que é o meu, ele é o meu namorado..."
 
 # game/script.rpy:15302
 translate pt_br marspring_e648c948:
 
     # m "Oh really? I think he likes having something to grab..."
-    m ""
+    m "É mesmo? Eu acho que ele gosta de ter algo para agarrar..."
 
 # game/script.rpy:15303
 translate pt_br marspring_a81ce046:
 
     # a "What? Hey!"
-    a ""
+    a "O quê? Ei!"
 
 # game/script.rpy:15305
 translate pt_br marspring_5d0cbd40:
 
     # m "Heheh, gotta go! See ya later, Ash."
-    m ""
+    m "Heheh, preciso ir! Até mais, Ash."
 
 # game/script.rpy:15306
 translate pt_br marspring_20f4f604:
 
     # a "Grrrr..."
-    a ""
+    a "Grrrr..."
 
 # game/script.rpy:15314
 translate pt_br springash_6ceec2f9:
 
     # a "Ahhh..."
-    a ""
+    a "Ahhh..."
 
 # game/script.rpy:15316
 translate pt_br springash_f6a7099d:
 
     # a "Oh, hey [name]!"
-    a ""
+    a "Ah, ei [name]!"
 
 # game/script.rpy:15318
 translate pt_br springash_f968826d:
 
     # a "I didn't know this place had a hot spring."
-    a ""
+    a "Eu não sabia que esse lugar tinha uma fonte termal."
 
 # game/script.rpy:15320
 translate pt_br springash_9140ecfa:
 
     # a "It's really nice!"
-    a ""
+    a "Isso é bem legal!"
 
 # game/script.rpy:15322
 translate pt_br springash_517fc977:
 
     # a "I like this place much better now. My room is nice, the internet is great. And I get to see a cute guy like you every day!"
-    a ""
+    a "Eu gosto desse lugar muito mais agora. O meu quarto é bom, a internet é ótima. E eu posso ver um cara fofo que nem você todo dia!"
 
 # game/script.rpy:15324
 translate pt_br springash_e4782390:
 
     # a "The food could be better though."
-    a ""
+    a "Mas a comida podia ser melhor."
 
 # game/script.rpy:15326
 translate pt_br springash_f2d61d84:
 
     # a "And this place is good for relaxing after school. School really sucks, there's so much work! I just wanna quit..."
-    a ""
+    a "E esse lugar é bom pra relaxar depois da escola. A escola é um saco, dá tanto trabalho! Eu queria poder só sair dela..."
 
 # game/script.rpy:15328
 translate pt_br springash_b2131d24:
 
     # a "Sometimes it's nice to just kick back and-"
-    a ""
+    a "As vezes é legal só esquecer tudo isso e-"
 
 # game/script.rpy:15330
 translate pt_br springash_5c28d4e3:
 
     # a "Ah!" with ssshake
-    a "" with ssshake
+    a "Ah!" with ssshake
 
 # game/script.rpy:15332
 translate pt_br springash_8d33c58f:
 
     # a "Hehe, oops..."
-    a ""
+    a "Hehe, oops..."
 
 # game/script.rpy:15334
 translate pt_br springash_14aad232:
 
     # a "I guess I didn't make it tight enough, hehe~"
-    a ""
+    a "Acho que eu não apertei o suficiente, hehe~"
 
 # game/script.rpy:15335
 translate pt_br springash_1f45d170:
 
     # a "Like I was saying, it's good to relax every once in a while. It helps clear your mind. And school can be so stressful!"
-    a ""
+    a "Como eu estava dizendo, é bom poder relaxar de vez em quando. Ajuda a limpar a mente. E a escola pode ser muito estressante!"
 
 # game/script.rpy:15336
 translate pt_br springash_f58ee7d2:
 
     # a "There's this bitch named Felicity who thinks she owns the school, I hate her!"
-    a ""
+    a "Tem uma puta chamada Felicity lá que acha que é dona da escola, eu odeio ela!"
 
 # game/script.rpy:15337
 translate pt_br springash_92ac0d21:
 
     # a "Oh hey, you should give me your phone number! It will be easier to complain about the food that way hehe~"
-    a ""
+    a "Ah ei, voc~e devia me dar o número do seu telefone! Desse jeito seria mais fácil reclamar d comida hehe~"
 
 # game/script.rpy:15338
 translate pt_br springash_cc39ce6e:
 
     # c "Sure, here it is."
-    c ""
+    c "Claro, aqui está."
 
 # game/script.rpy:15339
 translate pt_br springash_0cc5e934:
 
     # "You give Ashley your phone number"
-    ""
+    "Você dá a Ashley seu número de telefone"
 
 # game/script.rpy:15340
 translate pt_br springash_40d7d3dd:
 
     # a "Cool! I'll see ya around [name]!"
-    a ""
+    a "Legal! Nos vemos por aí [name]!"
 
 # game/script.rpy:15386
 translate pt_br yourroom_404d337c:
