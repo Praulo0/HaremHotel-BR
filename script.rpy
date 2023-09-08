@@ -8479,7 +8479,7 @@ translate pt_br lobby_f41ba07d:
 translate pt_br lobby_a9724975:
 
     # m "Mmmh, yet, huh? Heheh..."
-    m "Mmmh, ainda, hum? Heheh..."
+    m "Mmmh, ainda, hein? Heheh..."
 
 # game/script.rpy:6373
 translate pt_br lobby_7c18dd41:
@@ -12627,7 +12627,7 @@ translate pt_br explore_bernie2_31fd82c1_1:
 translate pt_br explore_bernie2_8af3e845:
 
     # woman "Huh?"
-    woman "Huh?"
+    woman "Hein?"
 
 # game/script.rpy:8553
 translate pt_br explore_bernie2_67af5242:
@@ -13395,7 +13395,7 @@ translate pt_br expl_beach1_cce36180:
 translate pt_br expl_beach1_574312e1:
 
     # man "Huh?\nOh shit! Not again!"
-    man "Huh?\Ah merda! De novo não!"
+    man "Hein?\Ah merda! De novo não!"
 
 # game/script.rpy:8785
 translate pt_br expl_beach1_a16c1493:
@@ -14913,7 +14913,7 @@ translate pt_br explore_brothel1_ef478cc8:
 translate pt_br explore_brothel1_7543ea61:
 
     # c "Huh?"
-    c "Huh?"
+    c "Hein?"
 
 # game/script.rpy:9202
 translate pt_br explore_brothel1_1e110065:
@@ -14997,7 +14997,7 @@ translate pt_br explore_brothel1_e897fbb0_1:
 translate pt_br explore_brothel1_fbd3bbe3:
 
     # pbun "So, you're here to give us some feedback huh? I guess I could dance for you?"
-    pbun "Então, você está aqui para nos dar algum feedback hei? Imagino que eu poderia dançar para você?"
+    pbun "Então, você está aqui para nos dar algum feedback hein? Imagino que eu poderia dançar para você?"
 
 # game/script.rpy:9235
 translate pt_br explore_brothel1_9e25cf4d:
@@ -19354,7 +19354,7 @@ translate pt_br explore_cafe2_f10073fe:
 translate pt_br explore_cafe2_4605fb7e:
 
     # eri "Hello?\nHuh!? Are you serious?\nNo way!"
-    eri "Alô\nHuh!? EStá falando sério?\nNão acredito!"
+    eri "Alô\nHein!? EStá falando sério?\nNão acredito!"
 
 # game/script.rpy:10899
 translate pt_br explore_cafe2_2308551e:
@@ -19366,7 +19366,7 @@ translate pt_br explore_cafe2_2308551e:
 translate pt_br explore_cafe2_b3a2d020:
 
     # c "Huh? Wait-!"
-    c "Huh? Espera-!"
+    c "Hein? Espera-!"
 
 # game/script.rpy:10901
 translate pt_br explore_cafe2_8ace57ea:
@@ -19612,7 +19612,7 @@ translate pt_br explore_cafe3_284c2f30:
 translate pt_br explore_cafe3_ed747f5b:
 
     # c "Huh? What have they been doing to you?"
-    c "Huh? O que elas têm feito com vocês?"
+    c "Hein? O que elas têm feito com vocês?"
 
 # game/script.rpy:10969
 translate pt_br explore_cafe3_8981f396:
@@ -23266,7 +23266,7 @@ translate pt_br shower_d05ac48e:
 translate pt_br shower_50ddb1f9:
 
     # m "Huh!?"
-    m "Huh!?"
+    m "Hein!?"
 
 # game/script.rpy:12385
 translate pt_br shower_32da8826:
@@ -24052,7 +24052,7 @@ translate pt_br shower_d8c0c261:
 translate pt_br shower_bec883cf:
 
     # m "Nnn! ... From behind, huh? I'm ready..." with ssshake
-    m "Nnn! ... Por trás, hein? Estou prepada..." with ssshake
+    m "Nnn! ... Por trás, hein? Estou preparada..." with ssshake
 
 # game/script.rpy:12772
 translate pt_br shower_776b9825:
@@ -24622,7 +24622,7 @@ translate pt_br prekitchen_23a1d434:
 translate pt_br prekitchen_11e824b4:
 
     # l "Huh?"
-    l "Huh?"
+    l "Hein?"
 
 # game/script.rpy:13114
 translate pt_br prekitchen_0c94864e:
@@ -24814,7 +24814,7 @@ translate pt_br prekitchen_37bcb55c:
 translate pt_br prekitchen_762d8b1d:
 
     # l "Huh...?"
-    l "Huh...?"
+    l "Hein...?"
 
 # game/script.rpy:13152
 translate pt_br prekitchen_5534bebf:
@@ -25084,7 +25084,7 @@ translate pt_br botkchoice_ec3c32bc:
 translate pt_br botkchoice_33639125:
 
     # bot "Huh...?"
-    bot "Huh...?"
+    bot "Hein...?"
 
 # game/script.rpy:13302
 translate pt_br botkchoice_7627456a:
@@ -26134,7 +26134,7 @@ translate pt_br sylkitchenchoice_ec3c32bc:
 translate pt_br sylkitchenchoice_b3f82ba9:
 
     # syl "Huh...?"
-    syl "Hum...?"
+    syl "Hein...?"
 
 # game/script.rpy:13818
 translate pt_br sylkitchenchoice_2961ab75:
@@ -26698,7 +26698,7 @@ translate pt_br kitchen_79597bf4:
 translate pt_br kitchen_11e824b4:
 
     # l "Huh?"
-    l "Hum?"
+    l "Hein?"
 
 # game/script.rpy:14034
 translate pt_br kitchen_ecf0aafa:
@@ -28558,7 +28558,7 @@ translate pt_br springkali_bce9550b:
 translate pt_br springkali_8803fea1:
 
     # k "H-Huh? What the hell..."
-    k "H-Huh? Mas que diabos..."
+    k "H-Hein? Mas que diabos..."
 
 # game/script.rpy:15180
 translate pt_br springkali_7b706679:
@@ -29134,865 +29134,865 @@ translate pt_br springash_40d7d3dd:
 translate pt_br yourroom_404d337c:
 
     # warning "Uh oh! Things don't seem right. The relationship level of one or more of the girls is way too high."
-    warning ""
+    warning "Uh oh! As coisas não parecem estar certas. O nível de relacionamento de uma garota ou mais está muito alto."
 
 # game/script.rpy:15387
 translate pt_br yourroom_df8f0bc6:
 
     # warning "Friendship needs to be very specific, at these character levels, you'll never experience some of the story again."
-    warning ""
+    warning "A amizade precisa ser muito específica, nesses níveis de personagem, você nunca mais vivenciará parte da história."
 
 # game/script.rpy:15388
 translate pt_br yourroom_3e2b6c94:
 
     # warning "Please revert the changes now, or switch to an older save."
-    warning ""
+    warning "Por favor reverta as alterações agora, ou mude para um salvamento mais antigo."
 
 # game/script.rpy:15411
 translate pt_br yourroom_b53e10bc:
 
     # "*bzzt, bzzt*"
-    ""
+    "*bzzt, bzzt*"
 
 # game/script.rpy:15412
 translate pt_br yourroom_85dfc4f0:
 
     # c "Hm? It's a text from Kali..."
-    c ""
+    c "Hm? É uma mensagem da Kali..."
 
 # game/script.rpy:15413
 translate pt_br yourroom_30a91cda:
 
     # k "Get over here, dude."
-    k ""
+    k "Vem aqui, cara."
 
 # game/script.rpy:15414
 translate pt_br yourroom_48a8beff:
 
     # c "Hm, I guess I'll head over..."
-    c ""
+    c "Hm, acho que vou até lá..."
 
 # game/script.rpy:15419
 translate pt_br yourroom_7bf05cbe:
 
     # "*ring*, *ring*"
-    ""
+    "*trim*, *trim*"
 
 # game/script.rpy:15420
 translate pt_br yourroom_e324f02d:
 
     # c "My phone is ringing, it's Autumn."
-    c ""
+    c "Meu telefone está tocando, é a Autumn."
 
 # game/script.rpy:15421
 translate pt_br yourroom_3036a20d:
 
     # au "[name]! Where are you!? Did you forget about church? Get ready!"
-    au ""
+    au "[name]! Cadê você!? Se esqueceu da igreja? Vai se arrumar!"
 
 # game/script.rpy:15422
 translate pt_br yourroom_ad18bba4:
 
     # c "Oh, I forgot, sorry! I'm getting ready now."
-    c ""
+    c "Ah, eu esqueci, desculpa! Vou me arrumar agora."
 
 # game/script.rpy:15423
 translate pt_br yourroom_cd8b896d:
 
     # au "Rrrrg..."
-    au ""
+    au "Rrrrg..."
 
 # game/script.rpy:15430
 translate pt_br yourroom_2467eb6c:
 
     # c "{i}(Something feels weird...{/i})"
-    c ""
+    c "{i}(Alguma coisa parece estranha...{/i})"
 
 # game/script.rpy:15432
 translate pt_br yourroom_14c6e554:
 
     # a "Ahhh~"
-    a ""
+    a "Ahhh~"
 
 # game/script.rpy:15433
 translate pt_br yourroom_62d6d3f1:
 
     # c "Ashley...? Where are my clothes?"
-    c ""
+    c "Ashley...? Onde estão as minhas roupas?"
 
 # game/script.rpy:15435
 translate pt_br yourroom_3ff3715b:
 
     # a "*gasp*! You're up!"
-    a ""
+    a "*espanto*! Você acordou!"
 
 # game/script.rpy:15437
 translate pt_br yourroom_a21f7f89:
 
     # a "Have any nice dreams? Hehe~"
-    a ""
+    a "Teve bons sonhos? Hehe~"
 
 # game/script.rpy:15438
 translate pt_br yourroom_506c11b1:
 
     # c "What are you doing?"
-    c ""
+    c "O que está fazendo?"
 
 # game/script.rpy:15440
 translate pt_br yourroom_cdada02e:
 
     # a "Aahllmn... I'm licking your cock silly..."
-    a ""
+    a "Aahllmn... Estou lambendo o seu pau, bobo..."
 
 # game/script.rpy:15441
 translate pt_br yourroom_49599296:
 
     # a "Llln... I was going to ask you to hang out today, but, lllm... you were asleep. And you look so cute when you sleep! Mmln..."
-    a ""
+    a "Llln... Eu ia te chamar para sair hoje, mas, lllm... você estava dormindo. E você fica tão fofo quando dorme! Mmln..."
 
 # game/script.rpy:15443
 translate pt_br yourroom_625883d0:
 
     # a "And while I was in here, I took the opportunity to look at your computer..."
-    a ""
+    a "E enquanto eu estava aqui, eu aproveitei a oportunidade para olhar o seu computador..."
 
 # game/script.rpy:15444
 translate pt_br yourroom_a6a051a9:
 
     # c "You did what?"
-    c ""
+    c "Você fez o quê?"
 
 # game/script.rpy:15445
 translate pt_br yourroom_bd7a5584:
 
     # a "I wanted to make sure you weren't looking at porn or talking to any other girls."
-    a ""
+    a "Eu queria ter certeza de que você não estava assistindo pornô ou falando com nenhuma outra menina."
 
 # game/script.rpy:15446
 translate pt_br yourroom_df6b3ea5:
 
     # a "I couldn't find any photos, so I looked through your search history..."
-    a ""
+    a "Eu não consegui encontrar nenhuma foto, então fui ver o seu histórico de pesquisas..."
 
 # game/script.rpy:15447
 translate pt_br yourroom_d30fcd1d:
 
     # a "I ended up going to so many porn sites just to see if you've been on them..."
-    a ""
+    a "Eu acabei entrando tantos sites pornô só pra ver se você já esteve neles..."
 
 # game/script.rpy:15449
 translate pt_br yourroom_13b2d6b8:
 
     # a "That made me wet..."
-    a ""
+    a "Aquilo me deixou excitada..."
 
 # game/script.rpy:15451
 translate pt_br yourroom_978e127f:
 
     # a "Really wet!"
-    a ""
+    a "Muito excitada!"
 
 # game/script.rpy:15453
 translate pt_br yourroom_c2c7f4b3:
 
     # a "So I undressed you... lllln... and started licking you... llmn..."
-    a ""
+    a "Então eu tirei suas roupas... lllln... e comecei a te lamber... llmn..."
 
 # game/script.rpy:15455
 translate pt_br yourroom_ed7671c7:
 
     # a "I hope you don't mind, it's just innocent fun..."
-    a ""
+    a "Eu espero que você não se incomode, é apenas uma diversão inocente..."
 
 # game/script.rpy:15456
 translate pt_br yourroom_d7ae8504:
 
     # c "Not at all."
-    c ""
+    c "Nem um pouco."
 
 # game/script.rpy:15457
 translate pt_br yourroom_0edc6e1d:
 
     # a "Hehe~... lllmn... good."
-    a ""
+    a "Hehe~... lllmn... que bom."
 
 # game/script.rpy:15458
 translate pt_br yourroom_2b90944c:
 
     # a "I even put on this cute outfit, remember it? Mmph..."
-    a ""
+    a "E eu até coloquei essa roupa fofa, lembra dela? Mmph..."
 
 # game/script.rpy:15460
 translate pt_br yourroom_b1f9b246:
 
     # a "You bought it for a reason, right...?"
-    a ""
+    a "Você comprou ela por um motivo, não foi...?"
 
 # game/script.rpy:15462
 translate pt_br yourroom_b041369a:
 
     # a "So let's put it to use... Lllmn..."
-    a ""
+    a "Então vamos colocá-la em uso... Lllmn..."
 
 # game/script.rpy:15464
 translate pt_br yourroom_d6f9576f:
 
     # a "Mmmmph... Lllmnn..."
-    a ""
+    a "Mmmmph... Lllmnn..."
 
 # game/script.rpy:15465
 translate pt_br yourroom_25460ed2:
 
     # a "I love tasting you, [name]... llmnn.... you're so fun to eat..."
-    a ""
+    a "Eu amo sentir o seu sabor, [name]... llmnn... você é tão divertido de comer..."
 
 # game/script.rpy:15466
 translate pt_br yourroom_b0705b12:
 
     # a "Llllll... Lmmph... Ngh... Does it feel better when I use my tongue? Mmmph..."
-    a ""
+    a "Llllll... Lmmph... Ngh... É melhor quando eu uso a minha língua? Mmmph..."
 
 # game/script.rpy:15470
 translate pt_br yourroom_79b050ca:
 
     # a "Is it working? Hehe~"
-    a ""
+    a "Está funcionando? Hehe~"
 
 # game/script.rpy:15471
 translate pt_br yourroom_9e25cf4d:
 
     # c "Absolutely."
-    c ""
+    c "Com certeza."
 
 # game/script.rpy:15472
 translate pt_br yourroom_d9bb9d3d:
 
     # a "Lllllmmnng... you can grab my head... if you want... mmmph..."
-    a ""
+    a "Lllllmmnng... você pode agarrar minha cabeça... se você quiser... mmmph..."
 
 # game/script.rpy:15474
 translate pt_br yourroom_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:15476
 translate pt_br yourroom_35fbe7c1:
 
     # a "Nnngh!" with ssshake
-    a "" with ssshake
+    a "Nnngh!" with ssshake
 
 # game/script.rpy:15478
 translate pt_br yourroom_24ea09b0:
 
     # a "...!"
-    a ""
+    a "...!"
 
 # game/script.rpy:15480
 translate pt_br yourroom_a7141d12:
 
     # a "Ghhk!" with ssshake
-    a "" with ssshake
+    a "Ghhk!" with ssshake
 
 # game/script.rpy:15482
 translate pt_br yourroom_24ea09b0_1:
 
     # a "...!"
-    a ""
+    a "...!"
 
 # game/script.rpy:15484
 translate pt_br yourroom_393fa70c:
 
     # a "Nnnghkk!" with ssshake
-    a "" with ssshake
+    a "Nnnghkk!" with ssshake
 
 # game/script.rpy:15485
 translate pt_br yourroom_74f56998:
 
     # a "Mmmph!" with ssshake
-    a "" with ssshake
+    a "Mmmph!" with ssshake
 
 # game/script.rpy:15486
 translate pt_br yourroom_7a8b00f3:
 
     # a "Ghk! Nnngh!!" with ssshake
-    a "" with ssshake
+    a "Ghk! Nnngh!" with ssshake
 
 # game/script.rpy:15488
 translate pt_br yourroom_0381030a:
 
     # a "NGHK! HNGK!!" with sshake
-    a "" with sshake
+    a "NGHK! NGHK!" with sshake
 
 # game/script.rpy:15490
 translate pt_br yourroom_63612ca0:
 
     # a "HNNNGHK! Nghk!"
-    a ""
+    a "HNNNGHK! Nghk!"
 
 # game/script.rpy:15491
 translate pt_br yourroom_7bcc3d23:
 
     # a "Mmmmph! Mmmmngh...! \n{i}(Ahhh~! My throat is being fucked like a pussy...! Hahh! {/i})"
-    a ""
+    a "Mmmmph! Mmmmngh...! \n{i}(Ahhh~! Minha garganta está sendo fodida que nem uma buceta...! Hahh! {/i})"
 
 # game/script.rpy:15492
 translate pt_br yourroom_d8a77927:
 
     # a "Hnnnnngh! Ahhhhhnnnk! Harder~ HNGH!"
-    a ""
+    a "Hnnnnngh! Ahhhhhnnnk! Mais forte~ HNGH"
 
 # game/script.rpy:15496
 translate pt_br yourroom_b7bf4b39:
 
     # a "HHNNNNGHK!?" with sshake
-    a "" with sshake
+    a "HHNNNNGHK!?" with sshake
 
 # game/script.rpy:15497
 translate pt_br yourroom_bd1fc3d9:
 
     # a "NNNGHK!" with sshake
-    a "" with sshake
+    a "NNNGHK!" with sshake
 
 # game/script.rpy:15498
 translate pt_br yourroom_aa068ac4:
 
     # a "MMMPH!" with sshake
-    a "" with sshake
+    a "MMMPH!" with sshake
 
 # game/script.rpy:15500
 translate pt_br yourroom_28285573:
 
     # a "*GAAAASP*! *COUGH*! *COUGH* *COUGH*!" with ssshake
-    a "" with ssshake
+    a "*ESPAAAANTO*! *COF*! *COF*! *COF*!" with ssshake
 
 # game/script.rpy:15502
 translate pt_br yourroom_ae6cf9c7:
 
     # a "Mmmmng, wow... you didn't even warn me..."
-    a ""
+    a "Mmmmng, uau... você nem me avisou..."
 
 # game/script.rpy:15504
 translate pt_br yourroom_e43ecc6d:
 
     # a "That was fun, huh? I've never had my throat used like a pussy..."
-    a ""
+    a "Isso foi divertido, hein? Eu nunca tive a minha garganta sendo usada como uma buceta..."
 
 # game/script.rpy:15505
 translate pt_br yourroom_e6ee3a4c:
 
     # a "Hmmmm... with that much cum, I have to ask... why aren't I pregnant yet? Hmmmmm?"
-    a ""
+    a "Hmmmm... com tanto gozo, eu preciso perguntar... por que eu ainda não estou grávida? Hmmmmm?"
 
 # game/script.rpy:15506
 translate pt_br yourroom_90f98005:
 
     # a "Maybe I should tease you more... Hehe~"
-    a ""
+    a "Talvez eu deva te provocar mais... Hehe~"
 
 # game/script.rpy:15507
 translate pt_br yourroom_08da4ec8:
 
     # a "Save up for next time, kay? It's going inside..."
-    a ""
+    a "Fica guardando para a próxima, belê? Vai ser dentro..."
 
 # game/script.rpy:15511
 translate pt_br yourroom_7211f675:
 
     # trait "Ashley gained the Professional Cocksucker trait!"
-    trait ""
+    trait "Ashley conseguiu a característica Chupadora de Pau Profissional!"
 
 # game/script.rpy:15520
 translate pt_br yourroom_425d8a95:
 
     # "A note was slid under your door as you were waking up..."
-    ""
+    "Um bilhete foi colocado embaixo da sua porta quando vocÊ acordou..."
 
 # game/script.rpy:15521
 translate pt_br yourroom_02589064:
 
     # c "It just says... {i}'come to the dungeon'...{/i}"
-    c ""
+    c "Está escrito apenas... {i}'venha para o calabouço'...{/i}"
 
 # game/script.rpy:15522
 translate pt_br yourroom_814f0081:
 
     # c "Hm, that might be fun... should I go now?"
-    c ""
+    c "Hm, isso deve ser divertido... eu deveria ir agora?"
 
 # game/script.rpy:15555
 translate pt_br yourroom_2db6253c:
 
     # m "AAAHHH!! AAAHHH!!"
-    m ""
+    m "AAAHHH!! AAAHHH!!"
 
 # game/script.rpy:15556
 translate pt_br yourroom_8afe065d:
 
     # bot "Louder! I want everyone to hear!"
-    bot ""
+    bot "Mais alto! Eu quero que todo munndo ouça!"
 
 # game/script.rpy:15558
 translate pt_br yourroom_bcd35b03:
 
     # c "I should see what's going on in Maria's room..."
-    c ""
+    c "Eu deveria ver o que está acontecendo no quarto da MAria..."
 
 # game/script.rpy:15565
 translate pt_br yourroom_45724055:
 
     # bot "Mmm, adorable..."
-    bot ""
+    bot "Mmm, adorável..."
 
 # game/script.rpy:15588
 translate pt_br yourroom_beea93cb:
 
     # "*knock knock... knock*"
-    ""
+    "*toc toc... toc*"
 
 # game/script.rpy:15590
 translate pt_br yourroom_17f251f3:
 
     # au "[name]? Hello?"
-    au ""
+    au "[name]? Olá?"
 
 # game/script.rpy:15592
 translate pt_br yourroom_3f23f07d:
 
     # au "Oh! It's open..."
-    au ""
+    au "Ah! Está aberta..."
 
 # game/script.rpy:15594
 translate pt_br yourroom_3e7285c1:
 
     # au "You should really lock your door at night Mr. [name]..."
-    au ""
+    au "Você provavelmente deveria trancar a sua porta à noite Sr. [name]..."
 
 # game/script.rpy:15595
 translate pt_br yourroom_e77be086:
 
     # c "I like it better unlocked."
-    c ""
+    c "Eu gosto mais dela destrancada."
 
 # game/script.rpy:15596
 translate pt_br yourroom_5f4aef8a:
 
     # au "Ahh..."
-    au ""
+    au "Ahh..."
 
 # game/script.rpy:15598
 translate pt_br yourroom_08ce5bbc:
 
     # au "I'm sorry, Mr. [name]... I was really angry yesterday... I really shouldn't have exploded like that..."
-    au ""
+    au "Me desculpe, Sr. [name]... Eu estava muito brava ontem... Eu realmente não devia ter explodido daquele jeito..."
 
 # game/script.rpy:15602
 translate pt_br yourroom_e6e0e2f4:
 
     # au "YOU-"
-    au ""
+    au "VOCÊ-"
 
 # game/script.rpy:15604
 translate pt_br yourroom_e4ddc2bb:
 
     # au "*deep inhale*... Deep breaths..."
-    au ""
+    au "*inalação profunda*... Respira profundamente..."
 
 # game/script.rpy:15606
 translate pt_br yourroom_4b2fb1e8:
 
     # au "That is not an appropriate thing to say, Mr. [name]... Although I guess what I did yesterday wasn't appropriate either. So you're forgiven..."
-    au ""
+    au "Aquilo não foi algo apropriado de se dizer, Sr. [name]... Mas eu acho que o que eu fiz ontem também não foi apropriado. Então você está perdoado..."
 
 # game/script.rpy:15608
 translate pt_br yourroom_b744b9c5:
 
     # au "Look, what I came to say is..."
-    au ""
+    au "Olha, o que eu vim dizer é..."
 
 # game/script.rpy:15611
 translate pt_br yourroom_e8507343:
 
     # au "Yes, you're right... And that's what I came to say..."
-    au ""
+    au "Sim, você está certo...E é isso o que eu vim dizer..."
 
 # game/script.rpy:15614
 translate pt_br yourroom_a2b04912:
 
     # au "No, [name], it's not forgiven. What I did yesterday should never be forgiven, it shouldn't have ever happened..."
-    au ""
+    au "Não [name], não está perdoado. O que eu fiz ontem nunca poderia ser peroado, aquilo nunca devia ter acontecido..."
 
 # game/script.rpy:15615
 translate pt_br yourroom_b34788b4:
 
     # au "What I came to say is..."
-    au ""
+    au "O que eu vim dizer é..."
 
 # game/script.rpy:15616
 translate pt_br yourroom_0c763f6d:
 
     # au "Masturbation isn't the worst thing in the world, especially for men. It can be extremely healthy for men to plant their seed often, or so to speak..."
-    au ""
+    au "Masturbação não é a pior coisa do mundo, principalmente para os homens, Pode ser extremamente saudável para os homens plantarem as suas sementes com frequência, ou por assim dizer..."
 
 # game/script.rpy:15617
 translate pt_br yourroom_5c49d81c:
 
     # au "However, I still believe all women should refrain from any and all sexual activities until marriage. But it's a man's purpose in life to plant their seed anywhere and everywhere they can."
-    au ""
+    au "Mesmo assim, eu ainda acredito que todas as mulheres devem se abster de todas as atividades até o casamento. Mas é o propósito do homem na vida plantar suas sementes em toda hora e lugar que eles puderem."
 
 # game/script.rpy:15618
 translate pt_br yourroom_aa246fd0:
 
     # c "What are you saying?"
-    c ""
+    c "O que você está dizendo?"
 
 # game/script.rpy:15619
 translate pt_br yourroom_ddd78232:
 
     # au "I'm saying it's tough, especially for me at my age, you know? I'm in that part of my life where the urge to get pregnant is as strong as it will ever be. It's really hard to not masturbate..."
-    au ""
+    au "Estou dizendo que que difícil, principalmente para mim na minha idade, sabe? Estou naquela parte da minha vida em que a vontade de engravidar é mais forte do que nunca. É muito difícil não se masturbar..."
 
 # game/script.rpy:15620
 translate pt_br yourroom_72925d84:
 
     # au "Yet, I will still remain vigilant until I can find that special man, I'm never going to become a whore, like Ellen."
-    au ""
+    au "Ainda assim, eu permanecerei vigilante até que eu possa encontrar aquele homem especial, eu nunca vou me tornar uma vadia, como a Ellen."
 
 # game/script.rpy:15621
 translate pt_br yourroom_c342076a:
 
     # c "Ellen is not a whore..."
-    c ""
+    c "A Ellen não é uma vadia..."
 
 # game/script.rpy:15622
 translate pt_br yourroom_a5b7a9d4:
 
     # au "I didn't mean it in a bad way..."
-    au ""
+    au "Eu não quis dizer isso de forma negativa..."
 
 # game/script.rpy:15623
 translate pt_br yourroom_0d13e130:
 
     # c "Is there another way?"
-    c ""
+    c "E tem outra forma?"
 
 # game/script.rpy:15624
 translate pt_br yourroom_27ab32b2:
 
     # au "*sigh*... Look, what I'm trying to say is... it's okay for you to touch your penis."
-    au ""
+    au "*suspiro*... Olha, o que estou tentando dizer é... está tudo bem para você tocar seu pênis."
 
 # game/script.rpy:15626
 translate pt_br yourroom_0bce799b:
 
     # au "Oh! I can't believe I just said penis..."
-    au ""
+    au "Ah! Eu não consigo acreditar que eu acabei de dizer pênis..."
 
 # game/script.rpy:15628
 translate pt_br yourroom_420d680e:
 
     # au "Anyway, I hope you didn't get the wrong idea back there."
-    au ""
+    au "Enfim, eu espero que você não tenha tido a ideia errada lá atrás."
 
 # game/script.rpy:15630
 translate pt_br yourroom_ab00dbde:
 
     # au "In fact! You need to masturbate! Doing otherwise could be very harmful to your health!"
-    au ""
+    au "Na verdade! Você precisa se masturbar! E do contrário, isso seria bem prejudicial para a sua saúde!"
 
 # game/script.rpy:15631
 translate pt_br yourroom_5df7a5e7:
 
     # c "Are you offering help, then?"
-    c ""
+    c "Você está me oferendo ajuda, então?"
 
 # game/script.rpy:15633
 translate pt_br yourroom_d1144df4:
 
     # au "Eh... Uh..."
-    au ""
+    au "Ah... É..."
 
 # game/script.rpy:15635
 translate pt_br yourroom_40fe9dc2:
 
     # au "No! No! That's not what I'm saying at all..."
-    au ""
+    au "Não! Não! Eu não estou falando nada disso..."
 
 # game/script.rpy:15636
 translate pt_br yourroom_61d4af55:
 
     # au "{size=-10}This got really awkward all of the sudden...{/size}"
-    au ""
+    au "{size=-10}As coisas ficaram muito esquisitas do nada...{/size}"
 
 # game/script.rpy:15637
 translate pt_br yourroom_5010fc91:
 
     # c "Well it wouldn't be very hard to finish with those big tits you keep flaunting around."
-    c ""
+    c "Bem, não seria muito difícil de acabar com esses peitos grandes que você fica exibindo por aí."
 
 # game/script.rpy:15639
 translate pt_br yourroom_f153aa4f:
 
     # au "..."
-    au ""
+    au "..."
 
 # game/script.rpy:15640
 translate pt_br yourroom_aceac124:
 
     # c "In fact, it would only help me finish faster. Which would allow me to spend less time masturbating, and more time being 'healthy'..."
-    c ""
+    c "Na verdade, isso só iria me ajudar a terminar mais rápido. O que me permitiria passar menos tempo me masturbando, e mais tempo sendo 'saudável'... "
 
 # game/script.rpy:15641
 translate pt_br yourroom_09d07f0c:
 
     # c "...Right?"
-    c ""
+    c "...Não é?"
 
 # game/script.rpy:15642
 translate pt_br yourroom_f153aa4f_1:
 
     # au "..."
-    au ""
+    au "..."
 
 # game/script.rpy:15644
 translate pt_br yourroom_a91a16fe:
 
     # au "R... Right..."
-    au ""
+    au "É... É sim..."
 
 # game/script.rpy:15646
 translate pt_br yourroom_f3224a59:
 
     # c "I mean, the girls here barely give me the time of day..."
-    c ""
+    c "Quero dizer, as meninas aqui mal me dão atenção..."
 
 # game/script.rpy:15647
 translate pt_br yourroom_88b74e6f:
 
     # c "And you know me, absolutely no porn... It's very hard for me to be 'healthy'..."
-    c ""
+    c "E você me conhece, absolutamente nada de pornô... É muito difícil para mim ser 'saudável'..."
 
 # game/script.rpy:15648
 translate pt_br yourroom_26bd80df:
 
     # au "That's... Not good..."
-    au ""
+    au "Isso... Não é bom..."
 
 # game/script.rpy:15649
 translate pt_br yourroom_3f4674a4:
 
     # c "Do you think that's why I've been feeling sick lately?"
-    c ""
+    c "Você acha que é por isso que tenho me sentido doente ultimamente?"
 
 # game/script.rpy:15651
 translate pt_br yourroom_241abed9:
 
     # au "You've been feeling sick!?"
-    au ""
+    au "Você tem se sentido doente!?"
 
 # game/script.rpy:15652
 translate pt_br yourroom_c04e99fe:
 
     # c "Very..."
-    c ""
+    c "Muito..."
 
 # game/script.rpy:15654
 translate pt_br yourroom_36370aea:
 
     # au "Oh... That's not good at all..."
-    au ""
+    au "Ah... Isso não é nada bom..."
 
 # game/script.rpy:15655
 translate pt_br yourroom_f55e1ae8:
 
     # au "I've never seen you wear a wedding ring, so you can't be having sex with someone..."
-    au ""
+    au "Eu nunca vi você usar uma aliança de casamento, então você não pode fazer sexo com alguém..."
 
 # game/script.rpy:15656
 translate pt_br yourroom_493f02db:
 
     # au "And you absolutely can't be looking at porn... That would be terrible..."
-    au ""
+    au "E você definitivamente não pode estar assistindo pornô... Isso seria terrível..."
 
 # game/script.rpy:15657
 translate pt_br yourroom_56673106:
 
     # au "Tsk... Hm... Being a man must be so hard..."
-    au ""
+    au "Tsc... Hm... Ser um homem deve ser tão difícil..."
 
 # game/script.rpy:15658
 translate pt_br yourroom_b1c41355:
 
     # c "It's very hard."
-    c ""
+    c "É muito difícil."
 
 # game/script.rpy:15659
 translate pt_br yourroom_48160bfb:
 
     # au "Urgh... I can't just leave you sick, can I? Hm... I don't think this is an issue praying can solve, it might be too long before something happens. You could die by then!"
-    au ""
+    au "Urgh... eu não posso te só te deixar doente, não é? Hm... Eu não acho que esse seja um problema que oração possa resolver, pode demorar demais antes que algo aconteça. Você poderia morrer até lá!"
 
 # game/script.rpy:15660
 translate pt_br yourroom_2290400c:
 
     # c "Woe is me."
-    c ""
+    c "Ai de mim."
 
 # game/script.rpy:15662
 translate pt_br yourroom_8f1f9fbc:
 
     # au "Ohhh! What can we do Mr. [name]!?"
-    au ""
+    au "Ahhh! O que nós podemos fazer Sr. [name]!?"
 
 # game/script.rpy:15663
 translate pt_br yourroom_197f59b9:
 
     # c "Hm. Well, the only thing that could possibly help me would be if I were to take a picture of your breasts. That would allow me to remain a virtuous man and still be healthy."
-    c ""
+    c "Hm. Bem, a única coisa que poderia talvez me ajudar seria se eu tirasse uma foto dos seus peitos. Isso poderia me permitir continuar sendo um homem virtuoso e continuar sendo saudável."
 
 # game/script.rpy:15665
 translate pt_br yourroom_a0f93246:
 
     # au "What? How is that any different from porn!?"
-    au ""
+    au "O quê? Como isso é diferente do pornô!?"
 
 # game/script.rpy:15666
 translate pt_br yourroom_22becc67:
 
     # c "Well, how would you describe porn?"
-    c ""
+    c "Bem, como você descreveria o pornô?"
 
 # game/script.rpy:15667
 translate pt_br yourroom_4da158d6:
 
     # au "Pigs rolling around in mud!"
-    au ""
+    au "Porcos rolando na lama!"
 
 # game/script.rpy:15668
 translate pt_br yourroom_581ba87a:
 
     # c "...Okay... Well, this would certainly not be that."
-    c ""
+    c "...Tudo bem... Bom, isso com certeza não seria assim."
 
 # game/script.rpy:15670
 translate pt_br yourroom_b62cfb73:
 
     # au "Mr. [name], how would God feel? I can't just show you my breasts..."
-    au ""
-
+    au "Sr. [name], o que Deus acharia? Eu não posso simplesmente te mostrar meus peitos..."
+ 
 # game/script.rpy:15671
 translate pt_br yourroom_8d2487cd:
 
     # c "Guess I'll die."
-    c ""
+    c "Eu acho que vou morrer."
 
 # game/script.rpy:15673
 translate pt_br yourroom_fc36290b:
 
     # au "No! Don't say that!"
-    au ""
+    au "Não! Não diga isso!"
 
 # game/script.rpy:15675
 translate pt_br yourroom_56dc427f:
 
     # au "Urgh, God would definitely be angry with me if I could save a life but refuse to do so... Would he ever forgive me? Would {i}I{/i} ever forgive me?"
-    au ""
+    au "Urgh, Deus provavelmente ficaria bravo comigo se eu pudesse salvar uma vida e me recusasse a fazer... Ele seria capaz me perdoar algum dia? Poderia {i}eu{/i} ser capaz de me perdoar algum dia?"
 
 # game/script.rpy:15676
 translate pt_br yourroom_f153aa4f_2:
 
     # au "..."
-    au ""
+    au "..."
 
 # game/script.rpy:15678
 translate pt_br yourroom_eae502f4:
 
     # au "Okay Mr. [name], I will allow you to take a picture of my breasts... As long as you promise to never share it around, and to never look at it unless you absolutely need to masturbate!"
-    au ""
+    au "Tudo bem Sr. [name], eu vou te permitir tirar uma foto dos meus peitos... Desde que você prometa nunca compartilhar ela por aí, e a nunca olhar para elas a não ser que você esteja em absoluta necessidade de se masturbar!"
 
 # game/script.rpy:15679
 translate pt_br yourroom_a44ccf78:
 
     # c "I promise."
-    c ""
+    c "Eu prometo."
 
 # game/script.rpy:15681
 translate pt_br yourroom_2c6bcb81:
 
     # au "O-Okay... Get your phone ready..."
-    au ""
+    au "T-Tudo bem... Prepare o seu telefone..."
 
 # game/script.rpy:15683
 translate pt_br yourroom_2c4e8fb5:
 
     # c "Ah, this should definitely help me..."
-    c ""
+    c "Ah, isso definitivamente me ajudaria..."
 
 # game/script.rpy:15688
 translate pt_br yourroom_41a59db5:
 
     # au "W-What are you doing...?"
-    au ""
+    au "O-O que você está fazendo...?"
 
 # game/script.rpy:15689
 translate pt_br yourroom_04647ceb:
 
     # c "Oh, I'm just getting the best angle I can..."
-    c ""
+    c "Ah, eu só estou pegando o melhor ângulo que eu puder..."
 
 # game/script.rpy:15694
 translate pt_br yourroom_4159a076:
 
     # au "Nnn..."
-    au ""
+    au "Nnn..."
 
 # game/script.rpy:15699
 translate pt_br yourroom_98ef73cb:
 
     # c "Ah... you know what? I just remembered something..."
-    c ""
+    c "Ah... sabe de uma coisa? Acabei de me lembrar de algo..."
 
 # game/script.rpy:15700
 translate pt_br yourroom_6628d801:
 
     # au "What? What is it...?"
-    au ""
+    au "O quê? O que é...?"
 
 # game/script.rpy:15701
 translate pt_br yourroom_351395d2:
 
     # c "I'm more of an ass man..."
-    c ""
+    c "Eu meio que gosto mais de bundas..."
 
 # game/script.rpy:15702
 translate pt_br yourroom_6a0eef24:
 
     # au "An... What? You need to see my butt to... finish?"
-    au ""
+    au "Um... O quê? Você precisa ver meu bumbum para... terminar?"
 
 # game/script.rpy:15703
 translate pt_br yourroom_a1f0da02:
 
     # c "Yeah..."
-    c ""
+    c "Isso..."
 
 # game/script.rpy:15705
 translate pt_br yourroom_c3f54d18:
 
     # au "Rrrgg..."
-    au ""
+    au "Rrrgg..."
 
 # game/script.rpy:15706
 translate pt_br yourroom_039e05dc:
 
     # au "Fine. But I'm keeping my panties on."
-    au ""
+    au "Tá bom. Mas eu não vou tirar minha calcinha."
 
 # game/script.rpy:15707
 translate pt_br yourroom_eca47e94:
 
     # c "Oh, of course."
-    c ""
+    c "Ah, é claro."
 
 # game/script.rpy:15709
 translate pt_br yourroom_99073923:
