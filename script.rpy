@@ -31024,331 +31024,331 @@ translate pt_br yourroom_bfe6895f:
 translate pt_br yourroom_f7d97bb9:
 
     # k "It was alright, those two girls showed me around until class started. We share a lot of classes together, they're so much better than I am..."
-    k ""
+    k "Fui tudo bem, aquelas duas garotas me mostraram o lugar até a aula começar. Nós temos várias aulas juntas, elas são muito melhores que eu..."
 
 # game/script.rpy:16102
 translate pt_br yourroom_19dd3550:
 
     # c "Don't worry about it, they were always going to be a bit ahead of you, you're joining mid semester. Sure you have some catching up to do, but you're doing amazing."
-    c ""
+    c "Não se preocupe, eles sempre estarão um pouco à frente de você, você está ingressando no meio do semestre.. Com certeza você vai ter que recuperar o atraso, mas você já está indo muito bem."
 
 # game/script.rpy:16103
 translate pt_br yourroom_dfba945c:
 
     # k "Thanks..."
-    k ""
+    k "Obrigada..."
 
 # game/script.rpy:16104
 translate pt_br yourroom_773fc629:
 
     # k "*sigh*... I just want to pass out... it's been a long day..."
-    k ""
+    k "*suspiro*... Eu só quero apagar logo... tem sido um longo dia..."
 
 # game/script.rpy:16107
 translate pt_br yourroom_f532a6a3:
 
     # c "Why don't you sleep with me tonight?"
-    c ""
+    c "Por que não dorme comigo esta noite?"
 
 # game/script.rpy:16110
 translate pt_br yourroom_8be69ea4:
 
     # k "Hah, thanks, that's just what I wanted to hear after today..."
-    k ""
+    k "Hah, obrigada, era tudo o que eu queria ouvir depois de hoje..."
 
 # game/script.rpy:16115
 translate pt_br yourroom_89306cbe:
 
     # k "Oh, uh, yeah... good night..."
-    k ""
+    k "Ah, hum, sim... boa noite..."
 
 # game/script.rpy:16125
 translate pt_br yourroom_f608aba3:
 
     # k "Urgh, hey [name]?"
-    k ""
+    k "Urgh, ei [name]?"
 
 # game/script.rpy:16126
 translate pt_br yourroom_48fc288b_1:
 
     # c "What's up?"
-    c ""
+    c "O que foi?"
 
 # game/script.rpy:16127
 translate pt_br yourroom_95178dc8:
 
     # k "I was just about to head out, but I can't find my car keys anywhere... can you help me find them?"
-    k ""
+    k "Eu já estava de saída, mas não consigo encontrar as chaves do meu carro em lugar nenhum... pode me ajudar a encontrá-las?"
 
 # game/script.rpy:16128
 translate pt_br yourroom_7d90068f:
 
     # c "Sure, where was the last place you put them?"
-    c ""
+    c "Claro, onde você deixou por último?"
 
 # game/script.rpy:16129
 translate pt_br yourroom_90ca8fa4:
 
     # k "I always put them on my desk next to my computer, but they weren't there this time..."
-    k ""
+    k "Eu sempre coloco elas na mesa perto do meu computador, mas elas não estavam lá dessa vez..."
 
 # game/script.rpy:16131
 translate pt_br yourroom_678eacdf:
 
     # k "I bet it was Lucy, she's been a massive pain in the ass..."
-    k ""
+    k "Aposto que foi a Lucy, ela tem sido um pé no saco..."
 
 # game/script.rpy:16132
 translate pt_br yourroom_34bead5e:
 
     # c "Let's get looking, don't want you to be late."
-    c ""
+    c "Vamos ir procurando, não quero que você se atrase."
 
 # game/script.rpy:16133
 translate pt_br yourroom_cc0d0e7b:
 
     # k "Cool, thanks."
-    k ""
+    k "Legal, obrigada."
 
 # game/script.rpy:16143
 translate pt_br yourroom_7c8f6785:
 
     # k "Guess what!? Guess what!?"
-    k ""
+    k "Adivinha!? Adivinha!?"
 
 # game/script.rpy:16144
 translate pt_br yourroom_ef2f48bd:
 
     # k "I just got the email, I passed the test!"
-    k ""
+    k "Eu acabei de receber o email, eu passei no exame! "
 
 # game/script.rpy:16145
 translate pt_br yourroom_ed8a3cd3:
 
     # c "That's great! How did you do?"
-    c ""
+    c "Que ótimo! Como você foi?"
 
 # game/script.rpy:16148
 translate pt_br yourroom_718dec03:
 
     # k "82 percent, I barely passed... but I still passed! But I skipped a few classes, so it evens out."
-    k ""
+    k "82 por cento, eu passei por pouco... mas ainda passei! Como eu pulei algumas aulas, acho que é justo."
 
 # game/script.rpy:16149
 translate pt_br yourroom_46483cf9:
 
     # c "That's great! When do you start?"
-    c ""
+    c "Isso é ótimo! Quando você começa?"
 
 # game/script.rpy:16152
 translate pt_br yourroom_e78538e2:
 
     # k "Tomorrow, actually. Will you take the monorail with me?"
-    k ""
+    k "Amanhã, na verdade. Você vai pegar o monotrilho comigo?"
 
 # game/script.rpy:16153
 translate pt_br yourroom_036a78c5:
 
     # c "Of course, I wouldn't miss your first day at university."
-    c ""
+    c "É claro, eu não perderia seu primeiro dia na universidade."
 
 # game/script.rpy:16154
 translate pt_br yourroom_f7d31f90:
 
     # k "Cool! See you tomorrow morning!"
-    k ""
+    k "Legal! Então te vejo amanhã de manhã!"
 
 # game/script.rpy:16165
 translate pt_br yourroom_86883a4b:
 
     # k "[name]! I'm back!" with ssshake
-    k "" with ssshake
+    k "[name]! Estou de volta!" with ssshake
 
 # game/script.rpy:16167
 translate pt_br yourroom_c715ea00:
 
     # k "[name]! It was amazing, I made so much in tips!"
-    k ""
+    k "[name]! Aquilo foi incrível, eu ganheitanto em gorjeta!"
 
 # game/script.rpy:16169
 translate pt_br yourroom_894dcbba:
 
     # k "You were right, maybe being a bit slutty isn't a bad idea... Here's your part."
-    k ""
+    k "Você estava certo, ser um pouco tarada talvez não sejá má ideia... Aqui está a sua parte."
 
 # game/script.rpy:16170
 translate pt_br yourroom_2ab54801:
 
     # "You gained $100"
-    ""
+    "Você ganhou $100"
 
 # game/script.rpy:16174
 translate pt_br yourroom_76c34614:
 
     # k "Really...?"
-    k ""
+    k "É sério...?"
 
 # game/script.rpy:16176
 translate pt_br yourroom_6fb165f8:
 
     # k "Hmm..."
-    k ""
+    k "Hmm..."
 
 # game/script.rpy:16178
 translate pt_br yourroom_935b02a5:
 
     # k "Deal!"
-    k ""
+    k "Combinado!"
 
 # game/script.rpy:16182
 translate pt_br yourroom_08953c84:
 
     # k "Hand it over..."
-    k ""
+    k "Vai passando..."
 
 # game/script.rpy:16183
 translate pt_br yourroom_53a443f4:
 
     # "You hand the money back"
-    ""
+    "Você entrega o dinheiro de volta"
 
 # game/script.rpy:16185
 translate pt_br yourroom_0e5490b7:
 
     # k "Hah, fool."
-    k ""
+    k "Hah, bobo."
 
 # game/script.rpy:16186
 translate pt_br yourroom_b98a3b4b:
 
     # k "Maybe I'll do it again sometime. Thanks for the outfit!"
-    k ""
+    k "Talvez eu faça isso de novo um dia. Obrigada pela roupa!"
 
 # game/script.rpy:16190
 translate pt_br yourroom_8ff80bc1:
 
     # k "No problem, maybe I'll do it again sometime."
-    k ""
+    k "De boa, talvez eu faça isso de novo um dia."
 
 # game/script.rpy:16201
 translate pt_br yourroom_1cf866cb:
 
     # c "Huh...? Oh, I got a text."
-    c ""
+    c "Hum...? Ah, eu recebi uma mensagem."
 
 # game/script.rpy:16241
 translate pt_br yourroom_e3734993:
 
     # k "DUDE! What the fuck!? Didn't I tell you NOON!? We're going to be late now, come on!"
-    k ""
+    k "CARA! Mas que porra! Eu não te falei que era AO MEIO-DIA? Agora nós vamos chegar atrasados, anda!"
 
 # game/script.rpy:16245
 translate pt_br yourroom_326ebf73:
 
     # c "You're going in that?"
-    c ""
+    c "Você vai assim?"
 
 # game/script.rpy:16246
 translate pt_br yourroom_f2bfc887:
 
     # k "I won't wear this at the party, you're ready, right? Lucy is using the restroom, she'll be out soon."
-    k ""
+    k "Eu não vou vou estar vestindo isso na festa, você está prontom né? A Lucy está usando o banheiro, ela vai sair logo."
 
 # game/script.rpy:16247
 translate pt_br yourroom_708936da:
 
     # c "Uhh..."
-    c ""
+    c "Uhh..."
 
 # game/script.rpy:16248
 translate pt_br yourroom_ff5b79bc:
 
     # k "Urgh! How hard is it? You only need your swim shorts!"
-    k ""
+    k "Urgh! Qual é a dificuldade? Você só precisa do seu calção de banho!"
 
 # game/script.rpy:16249
 translate pt_br yourroom_de1d68e5:
 
     # k "Hurry up, [botname] is already in the helicopter, come on!"
-    k ""
+    k "Anda logo, [botname] já está no helicóptero, vamos!"
 
 # game/script.rpy:16250
 translate pt_br yourroom_d2e7f990:
 
     # c "Wait, what?"
-    c ""
+    c "Espera, o quê?"
 
 # game/script.rpy:16257
 translate pt_br yourroom_0d716ce2:
 
     # warning "ERROR: Lin's lust is impossibly high. Lust reset to 0."
-    warning ""
+    warning "ERRO: A luxúria de Lin está impossivelmente alta. Luxúria redefinida para 0. "
 
 # game/script.rpy:16260
 translate pt_br yourroom_9b2d9c15:
 
     # warning "ERROR: Kali's lust is impossibly high. Lust reset to 0."
-    warning ""
+    warning "ERRO: A luxúria de Kali está impossivelmente alta. Luxúria redefinida para 0. "
 
 # game/script.rpy:16276
 translate pt_br yourroom_a137eac5:
 
     # c "I should get closer to Nia."
-    c ""
+    c "Eu deveria me aproximar de Nia."
 
 # game/script.rpy:16319
 translate pt_br yourroomcontinued_06baf662:
 
     # "You hear loud noises coming from upstairs."
-    ""
+    "Você ouve barulhos altos vindos de cima."
 
 # game/script.rpy:16320
 translate pt_br yourroomcontinued_0908a2b9:
 
     # c "Sounds like it's coming from Kali's room, I better go check it out..."
-    c ""
+    c "Parece que os sons estão vindo do quarto de Kali, é melhor eu dar uma olhada..."
 
 # game/script.rpy:16325
 translate pt_br yourroomcontinued_0dc84387:
 
     # c "Hm? I got a text from Maria..."
-    c ""
+    c "Hm? Eu recebi uma mensagem de Maria..."
 
 # game/script.rpy:16326
 translate pt_br yourroomcontinued_387b2692:
 
     # m "Come to my room, we've got a surprise for you... ;)"
-    m ""
+    m "Venha para meu quarto, nós temos uma surpresa para você... ;)"
 
 # game/script.rpy:16368
 translate pt_br yourroomcontinued_e9188fb6:
 
     # c "Hm? I just got a text from Autumn."
-    c ""
+    c "Hm? Acabei de receber uma mensagem de Autumn."
 
 # game/script.rpy:16369
 translate pt_br yourroomcontinued_0241573e:
 
     # c "It reads...\n{i}'Our flight to The Capitol leaves in 2 hours, we should go now in case there's traffic.'{/i}"
-    c ""
+    c "Está escrito...\n{i}'Nosso vôo para o Capitólio sai em 2 horas, devemos ir agora caso haja trânsito.'{/i}"
 
 # game/script.rpy:16370
 translate pt_br yourroomcontinued_b5bac174:
 
     # c "That's right, the saints sent Autumn and Hazel on a mission to visit Gaius' gravesite."
-    c ""
+    c "Você tem razão, as santas enviaram a Autumn e Hazel em uma missão para visitar o túmulo de Gaius."
 
 # game/script.rpy:16375
 translate pt_br yourroomcontinued_7bf05cbe:
 
     # "*ring*, *ring*"
-    ""
+    "*ring*, *ring*"
 
 # game/script.rpy:16376
 translate pt_br yourroomcontinued_fa4345d7:
 
     # c "Oh, Kate is calling me."
-    c ""
+    c "Ah, Kate está me ligando."
 
 # game/script.rpy:16377
 translate pt_br yourroomcontinued_98ba7ce2:
