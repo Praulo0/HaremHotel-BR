@@ -19342,7 +19342,7 @@ translate pt_br explore_cafe2_bfedf75b:
 translate pt_br explore_cafe2_ed8c02a5:
 
     # "*ring, ring*"
-    "*ring, ring*"
+    "*trim, trim*"
 
 # game/script.rpy:10895
 translate pt_br explore_cafe2_f10073fe:
@@ -20290,7 +20290,7 @@ translate pt_br needy_help_7cb10c0b:
 translate pt_br needy_help_910a03d2:
 
     # hless "You're a charity aren't you, aren't you? Why do you care, huh? Hello, hello?"
-    hless "Você é uma instituição de caridade, não é? Por que você se importa, hein? Alô, alô?"
+    hless "Você é uma instituição de caridade, não é? Por que você se importa, hein? Oiê, oiê?"
 
 # game/script.rpy:11166
 translate pt_br needy_help_cc91ae18:
@@ -30094,7 +30094,7 @@ translate pt_br yourroom_d12a2b72:
 translate pt_br yourroom_7bf05cbe_1:
 
     # "*ring*, *ring*"
-    "*ring*, *ring*"
+    "*trim*, *trim*"
 
 # game/script.rpy:15749
 translate pt_br yourroom_e95234ed:
@@ -31342,7 +31342,7 @@ translate pt_br yourroomcontinued_b5bac174:
 translate pt_br yourroomcontinued_7bf05cbe:
 
     # "*ring*, *ring*"
-    "*ring*, *ring*"
+    "*trim*, *trim*"
 
 # game/script.rpy:16376
 translate pt_br yourroomcontinued_fa4345d7:
@@ -31354,217 +31354,217 @@ translate pt_br yourroomcontinued_fa4345d7:
 translate pt_br yourroomcontinued_98ba7ce2:
 
     # c "Hello?"
-    c ""
+    c "Alô?"
 
 # game/script.rpy:16378
 translate pt_br yourroomcontinued_ff4fc0f5:
 
     # kate "Hi. Um, I need some help..."
-    kate ""
+    kate "Oi. Hum, eu preciso de um pouco ajuda..."
 
 # game/script.rpy:16379
 translate pt_br yourroomcontinued_4bce7e93:
 
     # c "With what?"
-    c ""
+    c "Com o quê?"
 
 # game/script.rpy:16380
 translate pt_br yourroomcontinued_ee3d1ee9:
 
     # kate "This test is driving me crazy, and I don't know anyone else smart enough to ask. So can you help?"
-    kate ""
+    kate "Essa prova está me deixando louca, e eu não conheço mais ninguém esperto o suficiente para perguntar. Enão você pode me ajudar?"
 
 # game/script.rpy:16381
 translate pt_br yourroomcontinued_fa33494e:
 
     # c "Sure, I'll see what I can do."
-    c ""
+    c "Claro, vou ver o que posso fazer."
 
 # game/script.rpy:16382
 translate pt_br yourroomcontinued_39d97e9b:
 
     # kate "Great, I'll text you my address."
-    kate ""
+    kate "Beleza, eu vou te enviar o meu endereço."
 
 # game/script.rpy:16383
 translate pt_br yourroomcontinued_af07d9ff:
 
     # c "When do you want me to be there?"
-    c ""
+    c "Quando você quer que eu vá aí?"
 
 # game/script.rpy:16384
 translate pt_br yourroomcontinued_87f17fc4:
 
     # kate "Any time before dusk. Don't wait too long, please."
-    kate ""
+    kate "A qualquer hora antes de escurecer. Não demore muito, por favor."
 
 # game/script.rpy:16385
 translate pt_br yourroomcontinued_ad10d38e:
 
     # "*beep*\nKate hangs up."
-    ""
+    "*bip*\nKate desliga."
 
 # game/script.rpy:16386
 translate pt_br yourroomcontinued_ee1baf78:
 
     # c "Hm, alright. I'll go to the front door whenever I'm ready."
-    c ""
+    c "Hm, certo. Irei até a porta da frente quando estiver pronto"
 
 # game/script.rpy:16395
 translate pt_br yourroomcontinued_111d51aa:
 
     # c "...{w}...{w}..."
-    c ""
+    c "...{w}...{w}..."
 
 # game/script.rpy:16396
 translate pt_br yourroomcontinued_c2de0878:
 
     # c "Something feels off, was I going to do something today...?"
-    c ""
+    c "Tem alguma coisa errada, eu ia fazer alguma coisa hoje...?"
 
 # game/script.rpy:16397
 translate pt_br yourroomcontinued_9edd4ca3:
 
     # c "Oh! It's Ashley's birthday! I almost forgot."
-    c ""
+    c "Ah! É o aniversário da Ashley! Eu quase esqueci."
 
 # game/script.rpy:16398
 translate pt_br yourroomcontinued_69487f22:
 
     # c "I'm going to do something special for her..."
-    c ""
+    c "Eu vou fazer alguma coisa especial para ela..."
 
 # game/script.rpy:16413
 translate pt_br yourroomcontinued_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:16414
 translate pt_br yourroomcontinued_b352fa14:
 
     # c "I haven't eaten anything good in a long time..."
-    c ""
+    c "Faz tempo que não tenho comido nada bom..."
 
 # game/script.rpy:16417
 translate pt_br yourroomcontinued_861d7cc2:
 
     # c "Pizza would be amazing..."
-    c ""
+    c "Pizza seria incrível... "
 
 # game/script.rpy:16419
 translate pt_br yourroomcontinued_41cbc8f9:
 
     # c "Steak would be amazing..."
-    c ""
+    c "Bife seria incrível..."
 
 # game/script.rpy:16421
 translate pt_br yourroomcontinued_c2140cc6:
 
     # c "Ice Cream would be amazing..."
-    c ""
+    c "Sorvete seria incrível..."
 
 # game/script.rpy:16423
 translate pt_br yourroomcontinued_85346cb3:
 
     # c "Curry would be amazing..."
-    c ""
+    c "Curry seria incrível..."
 
 # game/script.rpy:16424
 translate pt_br yourroomcontinued_5223bc2a:
 
     # c "Lin seems to have improved her cooking skills, I'll ask her."
-    c ""
+    c "A Lin parece ter melhorado as habilidades de cozinha dela, eu vou pedir para ela."
 
 # game/script.rpy:16426
 translate pt_br yourroomcontinued_f686d033:
 
     # lu "[name], could you join me in the hot spring?"
-    lu ""
+    lu "[name], você pode ir comigo até a fonte termal?"
 
 # game/script.rpy:16428
 translate pt_br yourroomcontinued_0ecd9b2f:
 
     # au "AAAAH! [name]!!!"
-    au ""
+    au "AAAAH! [name]!!!"
 
 # game/script.rpy:16431
 translate pt_br yourroomcontinued_2d4afa4a:
 
     # "*ring, ring!* *ring, ring!*"
-    ""
+    "*trim, trim!* *trim, trim!*"
 
 # game/script.rpy:16432
 translate pt_br yourroomcontinued_f031ff0d:
 
     # "Kali is calling."
-    ""
+    "Kali está me ligando"
 
 # game/script.rpy:16433
 translate pt_br yourroomcontinued_2ec38837:
 
     # c "Hey, what's up?"
-    c ""
+    c "Ei, e aí?"
 
 # game/script.rpy:16434
 translate pt_br yourroomcontinued_726ecd76:
 
     # k "[name]? Hey... *sigh*, you have no idea how rough my day has been..."
-    k ""
+    k "[name]? Ei... *suspiro*, você não faz ideia do quanto meu dia está sendo difícil..."
 
 # game/script.rpy:16435
 translate pt_br yourroomcontinued_f80627b2:
 
     # c "What's going on?"
-    c ""
+    c "O que está acontecendo?"
 
 # game/script.rpy:16436
 translate pt_br yourroomcontinued_fb063584:
 
     # k "I don't think I'm going to make it back tonight. I think I'm going to sleep here... Can you bring me a pair of comfortable clothes and a pillow from my closet?"
-    k ""
+    k "Eu acho que não vou conseguir voltar esta noite. Eu acho que vou dormir aqui... Você pode me trazer um par de roupas confortáveis e um travesseiro do meu armário?"
 
 # game/script.rpy:16437
 translate pt_br yourroomcontinued_14af9cd9:
 
     # c "You're working that hard?"
-    c ""
+    c "Você está trabalhando tanto assim?"
 
 # game/script.rpy:16438
 translate pt_br yourroomcontinued_7c3aab43:
 
     # k "Yeah, I have a shit ton of work to do and I need to use their supplies... urgh! I'm so fucking stressed... I'm literally the only one left in class!"
-    k ""
+    k "Estou, eu tenho um monte de trabalho para fazer e preciso usar os suprimentos deles... urgh! eu estou estressada pra caralho... eu sou literalmente a única sobrando na classe!"
 
 # game/script.rpy:16439
 translate pt_br yourroomcontinued_52150d66:
 
     # c "Relax, I'm sure one day off won't hurt."
-    c ""
+    c "Relaxa, tenho certeza que um dia de folga não vai machucar."
 
 # game/script.rpy:16440
 translate pt_br yourroomcontinued_8195c94f:
 
     # k "This semester ends next week! I was dropped in the middle of this one, remember?"
-    k ""
+    k "Esse semestre acaba na semana que vem! Eu caí no meio disso, lembra?"
 
 # game/script.rpy:16441
 translate pt_br yourroomcontinued_d277ec1a:
 
     # k "If I fail this semester, I'm fucked! My dad's company would never accept me!"
-    k ""
+    k "Se eu reprovar nesse semestre, to fodida! A empresa do  meu pai jamais me aceitaria."
 
 # game/script.rpy:16442
 translate pt_br yourroomcontinued_772d3c0f:
 
     # c "That's rough... do you need anything else?"
-    c ""
+    c "Complicado... você precisa de mais alguma coisa?"
 
 # game/script.rpy:16443
 translate pt_br yourroomcontinued_f67223eb:
 
     # k "*sigh*... yeah, actually... I ran out of change like an hour ago, and I need energy drinks to stay awake. I would love it if you could bring a few Syls for the vending machines."
-    k ""
+    k "*suspiro* sim, na verdade... Eu fiquei sem trocados a uma hora atrás, e eu preciso de energéticos pra ficar acordada. Eu adoraria se você pudessse me trazer alguns Syls para as máquinas de vendas."
 
 # game/script.rpy:16444
 translate pt_br yourroomcontinued_e34ab5d5:
