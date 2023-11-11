@@ -3462,7 +3462,7 @@ translate pt_br ellentalk_a00bd1a3:
 translate pt_br ellentalk_c7f50457:
 
     # e "Yes, from the HHA. It seems you've made quite the impression on an elf named Peni, she chose you as her preferred master to live with and as a result is discounted by 25 percent only for you."
-    e "Sim, do HHA. Parece que você causou uma impressão muito boa a uma elfa chamada Peni, ela te escolheu como o mestre que ela mais gostaria de viver com, e como resultado, tem um desconto de 25 por cento apenas para você."
+    e "Sim, do ACF. Parece que você causou uma impressão muito boa a uma elfa chamada Peni, ela te escolheu como o mestre que ela mais gostaria de viver com, e como resultado, tem um desconto de 25 por cento apenas para você."
 
 # game/script.rpy:3364
 translate pt_br ellentalk_3a0ba53b:
@@ -30874,7 +30874,7 @@ translate pt_br yourroom_ac91a036:
 translate pt_br yourroom_ea2fae0c:
 
     # "Maria has joined [hotelname]!"
-    "Maria se juntou ao [hotelname]!"
+    "Maria se juntou a [hotelname]!"
 
 # game/script.rpy:16050
 translate pt_br yourroom_98fe1475:
@@ -31570,643 +31570,644 @@ translate pt_br yourroomcontinued_f67223eb:
 translate pt_br yourroomcontinued_e34ab5d5:
 
     # k "H-Honestly nevermind, it's a stupid request... I don't want to ask you to get up out of bed just for me..."
-    k ""
+    k "N-Na verdade esquece, foi um pedido idiota... Eu não quero te pedir para sair da cama só por minha causa..."
 
 # game/script.rpy:16445
 translate pt_br yourroomcontinued_0e56518e:
 
     # c "Don't worry, see you in a bit."
-    c ""
+    c "Não se preocupe com isso, te vejo daqui a pouco."
 
 # game/script.rpy:16446
 translate pt_br yourroomcontinued_f993cc37:
 
     # k "Thank you..."
-    k ""
+    k "Obrigada..."
 
 # game/script.rpy:16447
 translate pt_br yourroomcontinued_24cbc016:
 
     # k "Oh, and you can take my guest pass for the monorail, you'll get a discount. Should be in my desk."
-    k ""
+    k "Ah, e você pode pegar o meu passe de convidado para o monotrilho, você vai conseguir um desconto. Deve estar na minha mesa."
 
 # game/script.rpy:16451
 translate pt_br yourroomcontinued_66471a95:
 
     # "After grabbing Kali's guest pass and a pair of comfortable clothes, you drive to the monorail where you have a nice relaxing ride to Syltech on a cold, dewy night."
-    ""
+    "Após pegar o passe de convidado de Kali e um par confortável de roupas, você dirige até o monotrilho aonde você uma boa e relaxante viagem em uma noite fria e úmida."
 
 # game/script.rpy:16474
 translate pt_br yourroomcontinued_9dff41bf:
 
     # c "Let's see..."
-    c ""
+    c "Vamos ver..."
 
 # game/script.rpy:16475
 translate pt_br yourroomcontinued_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:16476
 translate pt_br yourroomcontinued_94dd80e7:
 
     # c "'Syl'ris Jia's exclusive pinups'... There it is."
-    c ""
+    c "'Pin-ups exclusívos da Jia Syl'ris... Aí está."
 
 # game/script.rpy:16477
 translate pt_br yourroomcontinued_a1ded276:
 
     # c "Oh... $100..."
-    c ""
+    c "Ah... $100..."
 
 # game/script.rpy:16480
 translate pt_br yourroomcontinued_2afc902d:
 
     # c "She deserves to be paid for her work."
-    c ""
+    c "Ela merece ser paga pelo trabalho dela."
 
 # game/script.rpy:16484
 translate pt_br yourroomcontinued_c9c6abc1:
 
     # c "They couldn't be too hard to find."
-    c ""
+    c "Eles não devem ser tão difíceis de encontrar"
 
 # game/script.rpy:16485
 translate pt_br yourroomcontinued_379c031e:
 
     # c "Besides, she was into me anyway..."
-    c ""
+    c "Por outro lado, ela estava dando em cima de mim de uma forma ou de outra... "
 
 # game/script.rpy:16486
 translate pt_br yourroomcontinued_48c1d00a:
 
     # "You begin to feel a little regret for stealing from someone close to Lin."
-    ""
+    "Você começa a se sentir um pouco arrependido por roubar algo de alguém próximo à Lin."
 
 # game/script.rpy:16487
 translate pt_br yourroomcontinued_f37f8186:
 
     # c "Aw man..."
-    c ""
+    c "Poxa..."
 
 # game/script.rpy:16527
 translate pt_br yourroomcontinued_47a6fb47:
 
     # "You've unlocked Jia's pinups!"
-    ""
+    "Você desbloqueou os pin-ups de Jia!"
 
 # game/script.rpy:16539
 translate pt_br yourroomcontinued_e0807ccd:
 
     # "Huh, what's this folder...?"
-    ""
+    "Hum, que pasta é essa...?"
 
 # game/script.rpy:16557
 translate pt_br visitgirls_2479ae71:
 
     # c "We're not that close yet, she probably wouldn't like it if I came by this late at night..."
-    c ""
+    c "Nós ainda não somos tão próximos assim, ela provavelmente não gostria se eu aparecesse lá tão tarde da noite..."
 
 # game/script.rpy:16570
 translate pt_br visitgirls_2479ae71_1:
 
     # c "We're not that close yet, she probably wouldn't like it if I came by this late at night..."
-    c ""
+    c "Nós ainda não somos tão próximos assim, ela provavelmente não gostria se eu aparecesse lá tão tarde da noite..."
+
 
 # game/script.rpy:16574
 translate pt_br visitgirls_52e4a3e4:
 
     # c "Kate and Juliet are sleeping over, I should let them sleep."
-    c ""
+    c "Kate e Juliet estão dormindo, eu deveria deixá-las dormirem "
 
 # game/script.rpy:16581
 translate pt_br visitgirls_2479ae71_2:
 
     # c "We're not that close yet, she probably wouldn't like it if I came by this late at night..."
-    c ""
+    c "Nós ainda não somos tão próximos assim, ela provavelmente não gostria se eu aparecesse lá tão tarde da noite..."
 
 # game/script.rpy:16589
 translate pt_br visitgirls_2479ae71_3:
 
     # c "We're not that close yet, she probably wouldn't like it if I came by this late at night..."
-    c ""
+    c "Nós ainda não somos tão próximos assim, ela provavelmente não gostria se eu aparecesse lá tão tarde da noite..."
 
 # game/script.rpy:16597
 translate pt_br visitgirls_2479ae71_4:
 
     # c "We're not that close yet, she probably wouldn't like it if I came by this late at night..."
-    c ""
+    c "Nós ainda não somos tão próximos assim, ela provavelmente não gostria se eu aparecesse lá tão tarde da noite..."
 
 # game/script.rpy:16606
 translate pt_br visitgirls_27aae8c3:
 
     # c "We're not that close yet, they probably wouldn't like it if I came by this late at night..."
-    c ""
+    c "Nós ainda não somos tão próximos assim, ela provavelmente não gostria se eu aparecesse lá tão tarde da noite..."
 
 # game/script.rpy:16609
 translate pt_br visitgirls_2479ae71_5:
 
     # c "We're not that close yet, she probably wouldn't like it if I came by this late at night..."
-    c ""
+    c "Nós ainda não somos tão próximos assim, ela provavelmente não gostria se eu aparecesse lá tão tarde da noite..."
 
 # game/script.rpy:16629
 translate pt_br visitgirls_eecf9d38:
 
     # k "[name]! Guess what?"
-    k ""
+    k "[name]! Adivinha?"
 
 # game/script.rpy:16630
 translate pt_br visitgirls_297d93f3:
 
     # c "What?"
-    c ""
+    c "O quê?"
 
 # game/script.rpy:16633
 translate pt_br visitgirls_72e4e0b7:
 
     # k "I just got a very special email! {w}I was accepted into the university I wanted to go to! Here I come Syltech! {size=-10}That's short for Syl'anar Institute of Technology...{/size}"
-    k ""
+    k "Eu acaei de receber um email muito especial! {w}Eu fui aceita na universidade que eu queria ir! Aí vou eu Syltech! {size=-10}É o diminutivo para Instituto de Tecnologia Syl'ana...{/size} "
 
 # game/script.rpy:16636
 translate pt_br visitgirls_2865e95f:
 
     # k "Actually, I was accepted to all the universities I applied for... I don't know why, I'm not that smart."
-    k ""
+    k "Na verdde, eu fui aceita em todas as universidades em que eu me candidatei... Eu não sei o porquê, eu não sou tão inteligente assim."
 
 # game/script.rpy:16637
 translate pt_br visitgirls_ed4284ea:
 
     # c "Woah, back up. You actually decided to do it?"
-    c ""
+    c "Uou, calma aí. Você decidiu mesmo fazer isso?"
 
 # game/script.rpy:16640
 translate pt_br visitgirls_d00eb87c:
 
     # k "Well, yeah... I mean I've got to do something, right?"
-    k ""
+    k "Bem, sim... quero dizer, eu preciso fazer algo, né?"
 
 # game/script.rpy:16641
 translate pt_br visitgirls_cdbb7bc9:
 
     # k "It's for my family's business, I'll be helping the elves, and I'll get an amazing job! No more pizza deliveries, I'll finally be someone..."
-    k ""
+    k "É para o trabalho da minha família, eu vou estar ajudando os elfos, e vou esar fazendo um ótimo trabalho! Chega de entregas de pizza, eu finalmente serei alguém..."
 
 # game/script.rpy:16644
 translate pt_br visitgirls_d680eac8:
 
     # k "That's nice of you to say, but... I want to have some impact on this world, and I want some respect and acknowledgement for my work, like my father."
-    k ""
+    k "É muito bom ouvir isso, mas... Eu quero causar algum impacto no mundo, e eu quero receber algum respeito e reconhecimento pelo meu trabalho, igual a meu pai."
 
 # game/script.rpy:16648
 translate pt_br visitgirls_bda873e4:
 
     # k "Heh, thanks!"
-    k ""
+    k "Heh, obrigada!"
 
 # game/script.rpy:16650
 translate pt_br visitgirls_f21e2eef:
 
     # k "Yeah, I guess so... a bit."
-    k ""
+    k "Sim, acho que sim... um pouco."
 
 # game/script.rpy:16653
 translate pt_br visitgirls_797fe2f9:
 
     # k "But I think I'll power through, I am the daughter of {u}The{/u} Trenero after all..."
-    k ""
+    k "Mas eu acho que vou conseguir, no fim da contas eu sou a filha {u}Do{/u} Trenero..."
 
 # game/script.rpy:16657
 translate pt_br visitgirls_2b0f689a:
 
     # k "And what exactly would that have changed? I have my own ambitions, you know."
-    k ""
+    k "E o que exatamente isso mudaria? Eu tenho as minhas próprias ambições, você sabe."
 
 # game/script.rpy:16659
 translate pt_br visitgirls_9475ff80:
 
     # c "So what's the next step?"
-    c ""
+    c "Então qual é o próximo passo?"
 
 # game/script.rpy:16663
 translate pt_br visitgirls_0fa6dfad:
 
     # k "I just called my Dad, so he should be calling them to put in a good word for me!"
-    k ""
+    k "Eu acabei de ligar para o meu Pai, enão ele deve estar ligando para eles para falar bem de mim!"
 
 # game/script.rpy:16664
 translate pt_br visitgirls_797c912d:
 
     # c "A good word?"
-    c ""
+    c "Falar bem?"
 
 # game/script.rpy:16665
 translate pt_br visitgirls_3e7576e8:
 
     # k "Yeah!"
-    k ""
+    k "Isso!"
 
 # game/script.rpy:16668
 translate pt_br visitgirls_3858c2d9:
 
     # k "And you know... {size=-10}{i}probably a big donation...{/i}{/size}"
-    k ""
+    k "E você sabe... {size=-10}{i}provavelmente uma grande doação...{/}{/size}"
 
 # game/script.rpy:16671
 translate pt_br visitgirls_05c078aa:
 
     # k "But the important part is, if my Dad can convince them to let me take a couple tests early, I may be able to jump into the more intermediate classes right away! I'm not actually a beginner at computer science after all, so it would be pointless to start from the beginning anyway..."
-    k ""
+    k "Mas a parte importante é, se o meu Pai conseguir convencer eles a me deixarem fazer alguns testes mais cedo, eu posso conseguir pular para aulas mais intermediárias imediatamente! Eu não sou lá uma iniciante na ciência da computação de qualquer jeito, então seria inútil começar do começo mesmo..."
 
 # game/script.rpy:16672
 translate pt_br visitgirls_4cb1c86a:
 
     # c "It sounds like your Dad can get just about anything done... You did get accepted pretty quick, didn't you?"
-    c ""
+    c "Parece que seu Pai consegue fazer qualquer coisa... Você foi aceita bem rápido, não foi?"
 
 # game/script.rpy:16675
 translate pt_br visitgirls_1e2a3cb2:
 
     # k "Well yeah, but my Dad had nothing to do with that... {w}{size=-10}{i}just his last name.{/i}{/size}"
-    k ""
+    k "Bem, sim, mas meu Pai não teve nada a ver com isso... {w}{size=-10}{i}só o sobrenome dele.{/i}{/size}"
 
 # game/script.rpy:16676
 translate pt_br visitgirls_641c0e57:
 
     # c "Will you still be living here?"
-    c ""
+    c "Você vai continuar vivendo aqui?"
 
 # game/script.rpy:16679
 translate pt_br visitgirls_ed099b0f:
 
     # k "Well... the university is in the city, which does take almost an hour to get to..."
-    k ""
+    k "Bem... a universidade é na cidade, que leva quase uma hora para chegar..."
 
 # game/script.rpy:16680
 translate pt_br visitgirls_4bcb453b:
 
     # c "Oh."
-    c ""
+    c "Ah."
 
 # game/script.rpy:16683
 translate pt_br visitgirls_dd1ece88:
 
     # k "I'm just kidding, I'll still be here..."
-    k ""
+    k "Estou só brincando, eu vou continuar aqui..."
 
 # game/script.rpy:16684
 translate pt_br visitgirls_92adc00d:
 
     # c "Oh!"
-    c ""
+    c "Ah!"
 
 # game/script.rpy:16687
 translate pt_br visitgirls_26df5f28:
 
     # k "An hour drive isn't long enough to keep me away from you."
-    k ""
+    k "Uma viagem de uma hora não é longe o suficiente para me afastar de você."
 
 # game/script.rpy:16688
 translate pt_br visitgirls_04527f13:
 
     # k "But uh... if I pay for a monorail subscription I can get there a bit quicker... so it's fine, it doesn't even matter."
-    k ""
+    k "Mas hum... se eu pagar pela inscrição do monotriho eu vou chegar lá um pouco mais rápido... então está tudo bem, não chega nem a importar."
 
 # game/script.rpy:16689
 translate pt_br visitgirls_e03439d6:
 
     # c "Wait, you have to pay a monthly subscription to use the monorail here?"
-    c ""
+    c "Espera, você precisa pagar por uma inscrição mensal para usar o monotrilho aqui?"
 
 # game/script.rpy:16692
 translate pt_br visitgirls_6daa0f7f:
 
     # k "Huh?"
-    k ""
+    k "Hum?"
 
 # game/script.rpy:16693
 translate pt_br visitgirls_ff248c5d:
 
     # c "Nevermind, you'll do great, I know you will."
-    c ""
+    c "Esquece, você vai ir muito bem, eu sei que vai."
 
 # game/script.rpy:16696
 translate pt_br visitgirls_2b922a7d:
 
     # k "Thanks."
-    k ""
+    k "Obrigada."
 
 # game/script.rpy:16697
 translate pt_br visitgirls_a33f3baf:
 
     # c "So we're just waiting for some tests to arrive?"
-    c ""
+    c "Então nós vamos só esperar pelos testes chegarem?"
 
 # game/script.rpy:16698
 translate pt_br visitgirls_2b526baa:
 
     # k "Yep! After my Dad makes that call, and they accept, I'll hopefully recieve an email!"
-    k ""
+    k "Isso! Assim que meu Pai fizer a chamada e eles aceitare, eu espero receber o email!"
 
 # game/script.rpy:16699
 translate pt_br visitgirls_295130a1:
 
     # c "Sounds great, good luck!"
-    c ""
+    c "Parece ótimo, boa sorte!"
 
 # game/script.rpy:16700
 translate pt_br visitgirls_009b8867:
 
     # k "I'll update you! See ya!"
-    k ""
+    k "Eu vou te deixando atualizado! Té mais"
 
 # game/script.rpy:16740
 translate pt_br visitgirls_d6964ecb:
 
     # f "Is this really the only place we can afford? We deserve better than this shit hole..."
-    f ""
+    f "É sério que esse é o único lugar que podemos pagar? Nós merecemos um lugar melhor que essa espelunca..."
 
 # game/script.rpy:16741
 translate pt_br visitgirls_a4a6b3f3:
 
     # em "Urgh... that old lady is looking at us... I guess we should go talk to her..."
-    em ""
+    em "Urgh... aquela velhota está olhando para nós... acho que nós devemos falar com ela..."
 
 # game/script.rpy:16742
 translate pt_br visitgirls_93504e3d:
 
     # f "Yeah... might as well..."
-    f ""
+    f "Sim...  também acho..."
 
 # game/script.rpy:16744
 translate pt_br visitgirls_369318d9:
 
     # em "Hey, Lady. We'd like a room here. Is the penthouse available?"
-    em ""
+    em "Ei, Senhora. Nós gostaríamos de um quarto aqui. A cobertura está disponível?"
 
 # game/script.rpy:16745
 translate pt_br visitgirls_1acf56dc:
 
     # e "I'm afraid we don't have anything that luxurious available. However we do have other rooms."
-    e ""
+    e "Infelizmente nós não temos algo tão luxuoso disponível. Temos outros quartos no entanto."
 
 # game/script.rpy:16747
 translate pt_br visitgirls_043c15d8:
 
     # em "Oh my god, did you hear her?"
-    em ""
+    em "Ai meu deus, você ouviu ela?"
 
 # game/script.rpy:16748
 translate pt_br visitgirls_ee6c37e0:
 
     # f "It's not like we could afford anything fancy anyway... Daddy didn't leave us much money..."
-    f ""
+    f "Não é como se nós pudéssemos pagar por nada mais caro de qualquer jeito... O Papai não nos deixou com muito dinheiro..."
 
 # game/script.rpy:16749
 translate pt_br visitgirls_541c57fb:
 
     # em "This sucks!"
-    em ""
+    em "Que merda!"
 
 # game/script.rpy:16751
 translate pt_br visitgirls_2a85524f:
 
     # f "Can you give us like a discount or something? We're just broke college students..."
-    f ""
+    f "Você pode nos dar um desconto ou algo assim? Nós somos apenas duas estudantes falidas de faculdade..."
 
 # game/script.rpy:16752
 translate pt_br visitgirls_7ba64c9a:
 
     # em "Yeah, give us a break!"
-    em ""
+    em "Isso, quebra essa para a gente!"
 
 # game/script.rpy:16753
 translate pt_br visitgirls_8917462d:
 
     # e "I'm sorry, but the price is non-negotiable."
-    e ""
+    e "Sinto muito, mas o valor não é negociável."
 
 # game/script.rpy:16755
 translate pt_br visitgirls_c4986888:
 
     # f "{size=-10}{i}Oh my god... what a bitch.{/i}{/size}"
-    f ""
+    f "{size=-10}{i}Ai meu deus... mas que puta.{/i}{/size}"
 
 # game/script.rpy:16756
 translate pt_br visitgirls_efdae787:
 
     # em "{size=-10}{i}You'd think she'd be nice to us... we're so pretty and everything.{/i}{/size}"
-    em ""
+    em "{size=-10}{i}Era de se pensar que ela seria legal com a gente... nós somos tão bonitas e tal.{/i}{/size}"
 
 # game/script.rpy:16757
 translate pt_br visitgirls_48074b7e:
 
     # f "{size=-10}{i}I bet she's just jealous. She's so old, egh...{/i}{/size}"
-    f ""
+    f "{size=-10}{i}Aposto que ela está só com inveja. Ela é tão velha, egh...{/i}{/size}"
 
 # game/script.rpy:16758
 translate pt_br visitgirls_b25a3d6a:
 
     # e "Would you two like a room?"
-    e ""
+    e "Vocês duas gostariam de um quarto?"
 
 # game/script.rpy:16760
 translate pt_br visitgirls_9e0f0012:
 
     # em "Fine, we'll take the room..."
-    em ""
+    em "Tá bom, nós vamos pegar o quarto..."
 
 # game/script.rpy:16761
 translate pt_br visitgirls_bd49ee8a:
 
     # e "Very well, here's your key. You'll be staying in room 2 on the second floor."
-    e ""
+    e "Muito bem, aqui está a chave de vocês. Vocês vão ficar no quarto 2 do segundo andar."
 
 # game/script.rpy:16764
 translate pt_br visitgirls_f03b7f37:
 
     # f "Come on sis, let's go check out our shitty room..."
-    f ""
+    f "Vamos mana, vamos ver o nosso quarto de merda..."
 
 # game/script.rpy:16766
 translate pt_br visitgirls_2b18d0c7:
 
     # f "Come on, let's go check out our shitty room..."
-    f ""
+    f "Vamos, vamos ver o nosso quarto de merda..."
 
 # game/script.rpy:16769
 translate pt_br visitgirls_30570a42:
 
     # em "Move, you're in our way..."
-    em ""
+    em "Sai, você está no caminho..."
 
 # game/script.rpy:16770
 translate pt_br visitgirls_efd8f663:
 
     # e "That would be the hotel manager."
-    e ""
+    e "Aquele é o gerente do hotel."
 
 # game/script.rpy:16771
 translate pt_br visitgirls_bd4b7593:
 
     # c "Hi, I'm [name]."
-    c ""
+    c "Oi, eu sou [name]."
 
 # game/script.rpy:16772
 translate pt_br visitgirls_56801058:
 
     # f "Whatever, don't come anywhere near us."
-    f ""
+    f "Que seja, não chega perto da gente."
 
 # game/script.rpy:16773
 translate pt_br visitgirls_cc9584d5:
 
     # c "Are you two twins?"
-    c ""
+    c "Vocês duas são gêmeas?"
 
 # game/script.rpy:16775
 translate pt_br visitgirls_5cbe61e4:
 
     # f "Yes, we are. Is that so hard to believe?"
-    f ""
+    f "Sim, nós somos. É tão difícil assim de acreditar?"
 
 # game/script.rpy:16777
 translate pt_br visitgirls_de6afd97:
 
     # f "What? No, we're clones..."
-    f ""
+    f "O quê? Não, nós somos clones..."
 
 # game/script.rpy:16778
 translate pt_br visitgirls_b3b9727a:
 
     # c "Clones?"
-    c ""
+    c "Clones?"
 
 # game/script.rpy:16779
 translate pt_br visitgirls_80d7c124:
 
     # f "Just don't question it..."
-    f ""
+    f "Só não questione..."
 
 # game/script.rpy:16782
 translate pt_br visitgirls_fb53778b:
 
     # f "Move, you're in our way- OH MY GOD! It's Ashley's shitty boyfriend!"
-    f ""
+    f "Sai, voê está no caminho- AI MEU DEUS! É o merdinha do namorado da Ashley!"
 
 # game/script.rpy:16783
 translate pt_br visitgirls_fe69ee1f:
 
     # f "Don't tell me you live here!? Oh my god, does Ashley live here too?"
-    f ""
+    f "Não vai me dizer que você vive aqui!? Ai meu deus, a Ashley vive também?"
 
 # game/script.rpy:16784
 translate pt_br visitgirls_7bbefe31:
 
     # f "I knew this place was a mistake!"
-    f ""
+    f "Eu sabia que esse lugar era um erro!"
 
 # game/script.rpy:16786
 translate pt_br visitgirls_5d272196:
 
     # f "Give us a refund! We want out of this place!"
-    f ""
+    f "Nos dê reembolso! Nós queremos sair desse lugar!"
 
 # game/script.rpy:16787
 translate pt_br visitgirls_936d2279:
 
     # e "Sorry... no refunds. And that would be the hotel manager."
-    e ""
+    e "Sinto muito... sem reembolsos. E esse é o gerente do hotel."
 
 # game/script.rpy:16789
 translate pt_br visitgirls_a7280d62:
 
     # em "What!? Ashley's boyfriend owns this place?"
-    em ""
+    em "Quê!? O namorado da Ashley é dono desse lugar?"
 
 # game/script.rpy:16791
 translate pt_br visitgirls_31039306:
 
     # f "Listen here [name]... Stay away from us, or we'll call Daddy on you. He's the Dean of our college, remember? He has a lot of power!"
-    f ""
+    f "Escuta bem [name]... Fique longe da gente, ou nós vamos ligar pro Papai. Ele é o Reitor da nossa faculdade, lembra? Ele é muito poderoso!"
 
 # game/script.rpy:16792
 translate pt_br visitgirls_bb5ab566:
 
     # em "He could buy this place if he wanted to and tear it down, you better be nice. And you better tell Ashley to stay away too."
-    em ""
+    em "Ele poderia comprar e derrubar esse lugar se ele quisesse, então é melhor você ser legal com a gente. E é bom você falar pra Ashley ficar longe também."
 
 # game/script.rpy:16793
 translate pt_br visitgirls_21758f77:
 
     # c "If he has all that money, why doesn't he buy you a nice place? Why aren't you living with him anymore?"
-    c ""
+    c "Se ele tem todo esse dinheiro, então por que ele não compra um lugar bom para vocês? Por que não estão vivendo mais com ele?"
 
 # game/script.rpy:16795
 translate pt_br visitgirls_24887962:
 
     # f "SHUT UP! That's none of your business!"
-    f ""
+    f "CALA A BOCA! Isso não é da sua conta!"
 
 # game/script.rpy:16798
 translate pt_br visitgirls_962f0969:
 
     # em "S-Shut up! It's Ashley's fault!"
-    em ""
+    em "C-Cala a boca! É culpa da Ashley!"
 
 # game/script.rpy:16801
 translate pt_br visitgirls_5478ae79:
 
     # f "No we didn't run away... Why would we do that? Daddy's mansion is amazing..."
-    f ""
+    f "Não, nós não fugimos... Por que nós faríamos isso? A mansão do Papai é incrível..."
 
 # game/script.rpy:16803
 translate pt_br visitgirls_cc5fc816:
 
     # em "What!? Fuck you! He didn't die!"
-    em ""
+    em "O quê!? Vai se foder! Ele não morreu!"
 
 # game/script.rpy:16805
 translate pt_br visitgirls_1adbd49b:
 
     # f "Just leave us alone, and we won't have any problems..."
-    f ""
+    f "Só nós deixe em paz, e não vamos ter nenhum problema..."
 
 # game/script.rpy:16806
 translate pt_br visitgirls_cab32668:
 
     # em "Let's get out of here..."
-    em ""
+    em "Vamos dar o fora daqui..."
 
 # game/script.rpy:16807
 translate pt_br visitgirls_e02bf1fc:
 
     # "Felicity & Emma have joined [hotelname]!"
-    ""
+    "Felicity & Emma se juntaram a [hotelname]!"
 
 # game/script.rpy:16828
 translate pt_br yourroommenu_7344295e:
 
     # c "I need to buy this upgrade first."
-    c ""
+    c "Eu preciso comprar essa melhoria antes."
 
 # game/script.rpy:16837
 translate pt_br yourroommenu_35e2ae73:
 
     # "You are here."
-    ""
+    "Você está aqui."
 
 # game/script.rpy:16840
 translate pt_br yourroommenu_7344295e_1:
 
     # c "I need to buy this upgrade first."
-    c ""
+    c "Eu preciso comprar essa melhoria antes."
 
 # game/script.rpy:16873
 translate pt_br elftown_ef4d05a3:
 
     # nia "Hey, you're going to buy Sylvia, right? It would be really nice to have her..."
-    nia ""
+    nia "Ei, você vai comprar a Sylvia, né? Seria muito legal ter ela por perto..."
 
 # game/script.rpy:16887
 translate pt_br elftown_6a71bfc8:
@@ -32218,13 +32219,13 @@ translate pt_br elftown_6a71bfc8:
 translate pt_br elftown_c4353d4b:
 
     # nia "Hey [name]... I got 20 of those elves to the HHA, they're all looking for happier homes now."
-    nia ""
+    nia "Ei [name]... Eu levei 20 daquelas elfas para o ACF, elas todas estão esperando por casas mais felizaes agora."
 
 # game/script.rpy:16936
 translate pt_br elftown_b71f3b04:
 
     # nia "Thank you..."
-    nia ""
+    nia "obrigada..."
 
 # game/script.rpy:16953
 translate pt_br elfbed_6a71bfc8:
@@ -32236,139 +32237,139 @@ translate pt_br elfbed_6a71bfc8:
 translate pt_br elfatspa_f0417fe4:
 
     # "Error detected, Nia's happiness should not be over 5. Happiness reset to 4."
-    ""
+    "Erro detectado, a felicidade de Nia não pode ser maior do que 5. Felicidade redefinida para 4."
 
 # game/script.rpy:17006
 translate pt_br elfatspa_638331ae:
 
     # "Error detected, Sylvia's happiness should not be over 5. Happiness reset to 4."
-    ""
+    "Erro detectado, a felicidade de Sylvia não pode ser maior do que 5. Felicidade redefinida para 4."
 
 # game/script.rpy:17009
 translate pt_br elfatspa_638331ae_1:
 
     # "Error detected, Sylvia's happiness should not be over 5. Happiness reset to 4."
-    ""
+    "Erro detectado, a Felicidade de Sylvia não pode ser maior do que 5. Felicidade redefinida para 4."
 
 # game/script.rpy:17071
 translate pt_br ellenclick_4c70c330:
 
     # e "Good evening, [name]."
-    e ""
+    e "Boa noite, [name]."
 
 # game/script.rpy:17073
 translate pt_br ellenclick_1bd31885:
 
     # e "Oh, hello [name]. How has work been?"
-    e ""
+    e "Ah, olá [name]. Como está indo o trabalho?"
 
 # game/script.rpy:17075
 translate pt_br ellenclick_bb7cfa2a:
 
     # e "I hope you're well?"
-    e ""
+    e "Eu espero que você esteja bem?"
 
 # game/script.rpy:17078
 translate pt_br ellenclick2_98e176cc:
 
     # e "Someone will come along eventually. We just need to give it time."
-    e ""
+    e "Alguém virá eventualmente. Nós só precisamos ser pacientes."
 
 # game/script.rpy:17081
 translate pt_br ellenclick2_577783f7:
 
     # e "Something your grandfather used to do was sell exclusive pinups! Though you may need to get close to the girls for them to accept..."
-    e ""
+    e "Algo que seu avô costumava fazer era vender pin-ups exclusívos! Mas você pode precisar se aproximar das meninas para elas aceitarem..."
 
 # game/script.rpy:17082
 translate pt_br ellenclick2_f54bcb59:
 
     # e "Customers seemed to love when we wore outfits as well! You should be able to make some money either way, but sexy outfits are the way to go!"
-    e ""
+    e "Os clientes pareciam amar quando nós vestiamos roupas diferentes também! Você pode conseguir algum dinheiro fazendo isso, mas precisa de roupas sensuais pra dar certo mesmo!"
 
 # game/script.rpy:17087
 translate pt_br ellenclick2_2ccb915c:
 
     # e "Mmmmn, you want to do that again, huh?"
-    e ""
+    e "Hmmmn, você quer fazer aquilo de novo, hein?"
 
 # game/script.rpy:17088
 translate pt_br ellenclick2_2a32df2a:
 
     # e "Okay... I think I can do that. Let's go into the lobby..."
-    e ""
+    e "Tudo bem... Acho que podemos fazer aquilo. Vamos ao saguão..."
 
 # game/script.rpy:17091
 translate pt_br ellenclick2_b87a7261:
 
     # e "Oh, I've been waiting..."
-    e ""
+    e "Ah, eu estive aguardando..."
 
 # game/script.rpy:17099
 translate pt_br ellenclick2_3c9a2e54:
 
     # e "Let's do that another time, okay? I'm off right now."
-    e ""
+    e "Vamos fazer isso em outra hora, tudo bem? Eu estou de folga agora."
 
 # game/script.rpy:17116
 translate pt_br call_sidestat_62ba2d4c:
 
     # playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/8 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Bar Events - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ Headpats - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
-    playpoints ""
+    playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/8 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Eventos do Bar - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ Carinhos na cabeça - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
 
 # game/script.rpy:17118
 translate pt_br call_sidestat_62ba2d4c_1:
 
     # playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/8 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Bar Events - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ Headpats - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
-    playpoints ""
+    playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/8 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Eventos do Bar - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ Carinhos na Cabeça - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
 
 # game/script.rpy:17120
 translate pt_br call_sidestat_2299ecad:
 
     # playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/9 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Bar Events - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ Headpats - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
-    playpoints ""
+    playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/9 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Eventos do Bar - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ Carinhos na Cabeça - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
 
 # game/script.rpy:17122
 translate pt_br call_sidestat_2299ecad_1:
 
     # playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/9 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Bar Events - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ Headpats - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
-    playpoints ""
+    playpoints "Ellen - [ellen_friendship]/6 \ \ \ Nia - [nia_friendship]/9 \ \ \ \ \ \ \ Hana - [hana_friendship]/4 \ \ \ \ \ \ \ \ Eventos do Bar - [bar_events]/12 \nKate - [kate_friendship]/6 \ \ \ Sylvia - [syl_friendship]/4 \ \ \ CArinhos na Cabeça - [headpats] \nLucia - [lucy_friendship]/8 \ \ Jin - [jin_friendship]/4 \ \ \ \ \ \ \ \ Vanessa - [van_friendship]/4"
 
 # game/script.rpy:17172
 translate pt_br linsleep_c9e314cd:
 
     # l "Good night [linoname]..."
-    l ""
+    l "Boa noite [linoname]..."
 
 # game/script.rpy:17173
 translate pt_br linsleep_d3e10271:
 
     # c "Good night Lin."
-    c ""
+    c "Boa noite Lin"
 
 # game/script.rpy:17176
 translate pt_br linsleep_63b9ac27:
 
     # l "*yaaawwwnnn*..."
-    l ""
+    l "*yaaawwwnnn*..."
 
 # game/script.rpy:17178
 translate pt_br linsleep_1aef591e:
 
     # l "Good morning [linoname], it's time to get up..."
-    l ""
+    l "Bom dia [linoname], é hora de levantar..."
 
 # game/script.rpy:17204
 translate pt_br felsleep_1c63d58d:
 
     # f "Night~"
-    f ""
+    f "Boa noite~"
 
 # game/script.rpy:17205
 translate pt_br felsleep_21edbb3e:
 
     # c "Night."
-    c ""
+    c "Bpa noite."
 
 # game/script.rpy:17208
 translate pt_br felsleep_82fb7e4f:
