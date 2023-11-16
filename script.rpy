@@ -32375,289 +32375,289 @@ translate pt_br felsleep_21edbb3e:
 translate pt_br felsleep_82fb7e4f:
 
     # f "*yaaawn*... Mmm..."
-    f ""
+    f "*yaaawn*... Mmm.."
 
 # game/script.rpy:17210
 translate pt_br felsleep_e56efcc8:
 
     # f "What are you doing sleepyhead? You can't sleep {i}all{/i} day..."
-    f ""
+    f "O que você está fazendo seu dorminhoco? Você não pode dormir o dia {i}todo{/i}..."
 
 # game/script.rpy:17237
 translate pt_br linbotsleep_61b86af0:
 
     # l "Good night, [linoname]~"
-    l ""
+    l "Boa noite, [linoname]~"
 
 # game/script.rpy:17238
 translate pt_br linbotsleep_64e94a48:
 
     # bot "Good night, [botown]...!"
-    bot ""
+    bot "Boa noite, [botown]...!"
 
 # game/script.rpy:17245
 translate pt_br linbotsleep_b9a148ff:
 
     # l "Hnnnnnnnnngh...!"
-    l ""
+    l "Hnnnnnnnnngh...!"
 
 # game/script.rpy:17246
 translate pt_br linbotsleep_338fe030:
 
     # bot "Hm, hm, hmmmmm~"
-    bot ""
+    bot "Hm, hm, hmmmm~"
 
 # game/script.rpy:17248
 translate pt_br linbotsleep_ef126a06:
 
     # l "Good morning, [linoname]..."
-    l ""
+    l "Bom dia, [linoname]..."
 
 # game/script.rpy:17249
 translate pt_br linbotsleep_dc344a60:
 
     # bot "Oh, you two are finally awake!"
-    bot ""
+    bot "Ah, vocês dois acordadam finalmente!"
 
 # game/script.rpy:17271
 translate pt_br twinsleep_5bccc0f0:
 
     # f "Good night~"
-    f ""
+    f "Boa noite~"
 
 # game/script.rpy:17272
 translate pt_br twinsleep_66868fc7:
 
     # em "Good night..."
-    em ""
+    em "Boa noite..."
 
 # game/script.rpy:17279
 translate pt_br twinsleep_9fec841d:
 
     # f "Nnnh! Hey sleepy head, finally awake?"
-    f ""
+    f "Nnnh! Ei dorminhoco, acordou finalmente?"
 
 # game/script.rpy:17281
 translate pt_br twinsleep_e7b92eaf:
 
     # em "Rise and shine, it's time to get up!"
-    em ""
+    em "Bom dia, flor do dia, hora de levantar!"
 
 # game/script.rpy:17307
 translate pt_br emsleep_ab8dc498:
 
     # em "{size=-10}{i}Hnnh... night...{/i}{/size}"
-    em ""
+    em "{size=-10}{i}Hnnh... boa noite...{/i}{/size}"
 
 # game/script.rpy:17308
 translate pt_br emsleep_21edbb3e:
 
     # c "Night."
-    c ""
+    c "Boa noite."
 
 # game/script.rpy:17311
 translate pt_br emsleep_97fc5d85:
 
     # em "Nnnn...! *yawwwn*...!"
-    em ""
+    em "Nnn...! *yawwn*...!"
 
 # game/script.rpy:17313
 translate pt_br emsleep_b1a26162:
 
     # em "Rise and shine, sleepyhead. Want some coffee?"
-    em ""
+    em "Bom dia, flor do dia. Ei dorminhoco, quer um pouco de café?"
 
 # game/script.rpy:17342
 translate pt_br botsleep_940ef723:
 
     # bot "Good night, [botown]..."
-    bot ""
+    bot "Boa noite, [botown]..."
 
 # game/script.rpy:17343
 translate pt_br botsleep_b462c19f:
 
     # c "Good night, [botname]."
-    c ""
+    c "Boa noite, [botname]."
 
 # game/script.rpy:17353
 translate pt_br botsleep_046721ae:
 
     # bot "You're awake!"
-    bot ""
+    bot "Você acordou!"
 
 # game/script.rpy:17358
 translate pt_br botsleep_c4710a6f:
 
     # bot "Good morning~"
-    bot ""
+    bot "Bom dia~"
 
 # game/script.rpy:17404
 translate pt_br bot_sick_38d2652c:
 
     # c "*yawwwwwn*..."
-    c ""
+    c "*yawwwwwn*..."
 
 # game/script.rpy:17406
 translate pt_br bot_sick_bce86927:
 
     # c "Nnngh...!" with flash
-    c "" with flash
+    c "Nnngh...!" with flash
 
 # game/script.rpy:17408
 translate pt_br bot_sick_c2b3d7d3:
 
     # c "Ohhhgh, shit..."
-    c ""
+    c "Aaaai merda..."
 
 # game/script.rpy:17410
 translate pt_br bot_sick_b4f283df:
 
     # c "Nnnnh!" with ssshake
-    c "" with ssshake
+    c "Nnnnh!" with ssshake
 
 # game/script.rpy:17411
 translate pt_br bot_sick_51ca2d97:
 
     # c "Fuck, I don't feel good..."
-    c ""
+    c "Porra, eu não estou me sentindo bem..."
 
 # game/script.rpy:17413
 translate pt_br bot_sick_93e270f8:
 
     # c "Nnnngh..." with ssshake
-    c "" with ssshake
+    c "Nnnngh..." with ssshake
 
 # game/script.rpy:17415
 translate pt_br bot_sick_516b562e:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/script.rpy:17416
 translate pt_br bot_sick_8ff7c553:
 
     # "...\n..." with ssshake
-    "" with ssshake
+    "...\n...." with ssshake
 
 # game/script.rpy:17417
 translate pt_br bot_sick_de78a79c:
 
     # "...\n...\n..." with ssshake
-    "" with ssshake
+    "...\n...\n..." with ssshake
 
 # game/script.rpy:17418
 translate pt_br bot_sick_2ffff8a8:
 
     # q "Hey!" with ssshake
-    q "" with ssshake
+    q "Ei!" with ssshake
 
 # game/script.rpy:17420
 translate pt_br bot_sick_ad74601f:
 
     # bot "[botown]! [botown]!" with ssshake
-    bot "" with ssshake
+    bot "[botown]! [botown]!" with ssshake
 
 # game/script.rpy:17422
 translate pt_br bot_sick_516b562e_1:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/script.rpy:17423
 translate pt_br bot_sick_8ff7c553_1:
 
     # "...\n..." with ssshake
-    "" with ssshake
+    "...\n..." with ssshake
 
 # game/script.rpy:17425
 translate pt_br bot_sick_73bc184f:
 
     # bot "Hey! Get up!" with ssshake
-    bot "" with ssshake
+    bot "Ei! Levanta!" with ssshake
 
 # game/script.rpy:17427
 translate pt_br bot_sick_0742ca31:
 
     # ally "What's wrong with him, mommy!?"
-    ally ""
+    ally "O que está errado com ele, mamão!?"
 
 # game/script.rpy:17428
 translate pt_br bot_sick_b3481c71:
 
     # bot "He's burning up, I think he's sick!"
-    bot ""
+    bot "Ele está queimando, acho que ele está doente!"
 
 # game/script.rpy:17429
 translate pt_br bot_sick_d268f9a7:
 
     # ally "Mommy, what is 'sick'?"
-    ally ""
+    ally "Mamãe, o que é 'doente'?"
 
 # game/script.rpy:17430
 translate pt_br bot_sick_7608b4c7:
 
     # e "*knock, knock*\nHello? What's going on in there?"
-    e ""
+    e "*toc, toc*\nOlá? O que está acontecendo aí?"
 
 # game/script.rpy:17431
 translate pt_br bot_sick_09dfca8f:
 
     # bot "Don't come in! [name] could be contagious. Help me get him on the bed, Ally." with ssshake
-    bot "" with ssshake
+    bot "Não entre! [name] pode estar com algo contagiante. Me ajuda a colocar ele na cama Ally." with ssshake
 
 # game/script.rpy:17432
 translate pt_br bot_sick_7bd5e9dc:
 
     # ally "Okay!"
-    ally ""
+    ally "Certo!"
 
 # game/script.rpy:17433
 translate pt_br bot_sick_516b562e_2:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/script.rpy:17434
 translate pt_br bot_sick_8ff7c553_2:
 
     # "...\n..." with ssshake
-    "" with ssshake
+    "...n..." with ssshake
 
 # game/script.rpy:17435
 translate pt_br bot_sick_e36dc2fd:
 
     # "...\n...\n...!" with sshake
-    "" with sshake
+    "...\n...\n...!" with sshake
 
 # game/script.rpy:17437
 translate pt_br bot_sick_3df47b68:
 
     # ally "Is he going to be okay? Why isn't he moving?"
-    ally ""
+    ally "Ele vai ficar bem? Por que ele não está se mexendo?"
 
 # game/script.rpy:17438
 translate pt_br bot_sick_9c571f26:
 
     # bot "I don't know, sweetie..."
-    bot ""
+    bot "Eu não sei, querido..."
 
 # game/script.rpy:17439
 translate pt_br bot_sick_86f254e5:
 
     # c "Nnngh..."
-    c ""
+    c "Nnngh..."
 
 # game/script.rpy:17441
 translate pt_br bot_sick_d117d5e9:
 
     # bot "[name]! Your temperature is very high, I think you may be ill but I don't know what it could be yet! What else are you feeling?"
-    bot ""
+    bot "[name]! Sua temperatura está muito alta, eu acho que você está doente mas não sei o que poderia ser ainda! O que mais você está sentindo?"
 
 # game/script.rpy:17442
 translate pt_br bot_sick_38437bab:
 
     # c "...Headache... {w=0.33}bad...\n{w}Chest feels tight...\n{w}Dizzy..."
-    c ""
+    c "... Dor de cabeça... {w=0.33}mal...\n{w}O peito parece pesado...\{w}enjoado..."
 
 # game/script.rpy:17443
 translate pt_br bot_sick_b259634c:
