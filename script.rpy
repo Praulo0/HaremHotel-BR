@@ -1542,7 +1542,7 @@ translate pt_br lobby2_39e43dc6:
 translate pt_br lobby2_0a6ec564:
 
     # l "*gasp*! Really? Of course! Let me get dressed, I can't wait!"
-    l "*espanto*! Sério? Com certeza! Deixa eu me trocar, mal posso esperar!"
+    l "*AH*! Sério? Com certeza! Deixa eu me trocar, mal posso esperar!"
 
 # game/script.rpy:1905
 translate pt_br lobby2_668060df_4:
@@ -5196,7 +5196,7 @@ translate pt_br floor2menu_7077dba0:
 translate pt_br floor2menu_00a6134a:
 
     # bot "*gasp*! Oh! Oh no! I don't have any choice do I! Oh well... I have to obey!"
-    bot "*espanto! Ah! Ah não! Eu não tenho nenhuma escolha, tenho? Enfim... Eu tenho que obedecer!"
+    bot "*AH*! Ai! Ah não! Eu não tenho nenhuma escolha, tenho? Enfim... Eu tenho que obedecer!"
 
 # game/script.rpy:4713
 translate pt_br floor2menu_c3472e19:
@@ -5772,7 +5772,7 @@ translate pt_br floor2menu_1e429923:
 translate pt_br floor2menu_5415e8f2:
 
     # "[botname]'s sluttiness is too low..."
-    "A vulgaridade de [botname] é muito baixa..."
+    "A safadeza de [botname] é muito baixa..."
 
 # game/script.rpy:4968
 translate pt_br floor2menu_1e429923_1:
@@ -6552,7 +6552,7 @@ translate pt_br floor2menu_1b1f8c76:
 translate pt_br floor2menu_12b598f6:
 
     # "Emma's sluttiness is too low..."
-    "A vulgaridade da Emma está muito baixa..."
+    "A safadeza da Emma está muito baixa..."
 
 # game/script.rpy:5339
 translate pt_br floor2menu_518f39d6:
@@ -6708,7 +6708,7 @@ translate pt_br floor2menu_c7349818:
 translate pt_br floor2menu_abcb5a7c:
 
     # em "*gasp*! A surprise? For me!? Okay! I'm excited!"
-    em "*espanto* Uma surpresa? Para mim? Tá bom! Estou ansiosa!"
+    em "*AH* Uma surpresa? Para mim? Tá bom! Estou ansiosa!"
 
 # game/script.rpy:5422
 translate pt_br floor2menu_816c4eeb:
@@ -6738,7 +6738,7 @@ translate pt_br floor2menu_5c592b11:
 translate pt_br floor2menu_f72c35f4:
 
     # "Felicity's sluttiness is too low..."
-    "A vulgaridade da Felicity está muito baixa..."
+    "A safadeza da Felicity está muito baixa..."
 
 # game/script.rpy:5442
 translate pt_br floor2menu_0b468f11:
@@ -8882,7 +8882,7 @@ translate pt_br lobby_96242f38:
 translate pt_br lobby_e13abc04:
 
     # "Maria's sluttiness is too low..."
-    "A vulgaridade de Maria é muito baixa..."
+    "A safadeza de Maria é muito baixa..."
 
 # game/script.rpy:6552
 translate pt_br lobby_35886396:
@@ -9603,7 +9603,7 @@ translate pt_br floor1menu_1b7074a1:
 translate pt_br floor1menu_1f684cc8:
 
     # "Lin's sluttiness is too low..."
-    "A vulgaridade da Lin é muito baixa..."
+    "A safadeza da Lin é muito baixa..."
 
 # game/script.rpy:7014
 translate pt_br floor1menu_1b7074a1_1:
@@ -9615,7 +9615,7 @@ translate pt_br floor1menu_1b7074a1_1:
 translate pt_br floor1menu_1f684cc8_1:
 
     # "Lin's sluttiness is too low..."
-    "A vulgaridade da Lin é muito baixa..."
+    "A safadeza da Lin é muito baixa..."
 
 # game/script.rpy:7021
 translate pt_br floor1menu_2f320a32:
@@ -10749,7 +10749,7 @@ translate pt_br kcreep_7f9645c7:
 translate pt_br kcreep_99b307da:
 
     # "Kali's sluttiness is too low..."
-    "A vulgaridade da Kali é muito baixa..."
+    "A safadeza da Kali é muito baixa..."
 
 # game/script.rpy:7670
 translate pt_br kcreep_55905291:
@@ -11511,7 +11511,7 @@ translate pt_br kcreep_02843aeb:
 translate pt_br kcreep_f361fef5:
 
     # a "*gasp* an egg vibe! Maria has a ton of these, but I've never tried them out before!"
-    a "*espanto* um ovo vibrador! a Maria tem um monte desses, mas eu nunca experimentei eles antes."
+    a "*AH* um ovo vibrador! a Maria tem um monte desses, mas eu nunca experimentei eles antes."
 
 # game/script.rpy:8122
 translate pt_br kcreep_eaa718df:
@@ -11775,7 +11775,7 @@ translate pt_br kcreep_6c493eb8_4:
 translate pt_br kcreep_e786a439:
 
     # a "*gasp*, thank you! This is amazing! Hehe~ come inside and I'll let you see it on me~"
-    a "*espanto*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
+    a "*AH*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
 
 # game/script.rpy:8258
 translate pt_br kcreep_ab6d79f7_1:
@@ -11793,7 +11793,7 @@ translate pt_br kcreep_6c493eb8_5:
 translate pt_br kcreep_e786a439_1:
 
     # a "*gasp*, thank you! This is amazing! Hehe~ come inside and I'll let you see it on me~"
-    a "*espanto*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
+    a "*AH*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
 
 # game/script.rpy:8270
 translate pt_br kcreep_ab6d79f7_2:
@@ -11811,7 +11811,7 @@ translate pt_br kcreep_6c493eb8_6:
 translate pt_br kcreep_e786a439_2:
 
     # a "*gasp*, thank you! This is amazing! Hehe~ come inside and I'll let you see it on me~"
-    a "*espanto*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
+    a "*AH*, obrigada! Isso é incrível! Hehe~ vem aqui dentro e eu deixo você ver isso em mim~"
 
 # game/script.rpy:8282
 translate pt_br kcreep_ab6d79f7_3:
@@ -11835,7 +11835,7 @@ translate pt_br kcreep_43ee5f12:
 translate pt_br kcreep_e78abf03:
 
     # "Ashley's sluttiness is too low..."
-    "A vulgaridade da Ashley é muito baixa..."
+    "A safadeza da Ashley é muito baixa..."
 
 # game/script.rpy:8294
 translate pt_br kcreep_36a094eb:
@@ -11901,7 +11901,7 @@ translate pt_br kcreep_43ee5f12_1:
 translate pt_br kcreep_e78abf03_1:
 
     # "Ashley's sluttiness is too low..."
-    "A vulgaridade da Ashley é muito baixa..."
+    "A safadeza da Ashley é muito baixa..."
 
 # game/script.rpy:8332
 translate pt_br kcreep_3bbd173d:
@@ -14253,7 +14253,7 @@ translate pt_br expl_beach2_cef61973:
 translate pt_br expl_beach2_8a47e274:
 
     # rac "*gasp*! I knew it! He's getting hard!"
-    rac "espanto*! Eu sabia! Ele está ficando duro!"
+    rac "AH*! Eu sabia! Ele está ficando duro!"
 
 # game/script.rpy:9017
 translate pt_br expl_beach2_f3763187:
@@ -14559,7 +14559,7 @@ translate pt_br expl_beach2_2fd6bde7:
 translate pt_br expl_beach2_ffcc5b32:
 
     # sl "*pant*... *pant*...\nI'm sorry... mistress..."
-    sl "*ofegante*... *ofegante*...\Sinto muito... mestra..."
+    sl "*arf*... *arf*...\Sinto muito... mestra..."
 
 # game/script.rpy:9090
 translate pt_br expl_beach2_7bfeb382:
@@ -16948,13 +16948,13 @@ translate pt_br explore_brothel2_3b786d46:
 translate pt_br explore_brothel2_3e8d04a5:
 
     # bbun "*COUGH* COUGH*! BLEGHK! *GASP*!!! Aaagh!"
-    bbun "*COF* *COF*! BLEGHK! *ESPANTO*!!! Aaagh!"
+    bbun "*COF* *COF*! BLEGHK! *AAHHH*!!! Aaagh!"
 
 # game/script.rpy:10134
 translate pt_br explore_brothel2_523a4fad:
 
     # bbun "*gasp*! Aaagh! Haah...! Aghk! Fuck...! Agh! Nngh!"
-    bbun "*espanto*! Aaagh! Haah...! Aghk! Porra...! Agh! Nngh!"
+    bbun "*AH*! Aaagh! Haah...! Aghk! Porra...! Agh! Nngh!"
 
 # game/script.rpy:10136
 translate pt_br explore_brothel2_396618e8:
@@ -17200,7 +17200,7 @@ translate pt_br explore_brothel2_d82ce3a4:
 translate pt_br explore_brothel2_7409d46d:
 
     # bbun "*gasp*! Did you get it?"
-    bbun "*espanto*! Você conseguiu?"
+    bbun "*AH*! Você conseguiu?"
 
 # game/script.rpy:10244
 translate pt_br explore_brothel2_32c423cf:
@@ -19816,7 +19816,7 @@ translate pt_br explore_cafe3_fec67436:
 translate pt_br explore_cafe3_50734f14:
 
     # bloc "*gasp*! Oh my god!"
-    bloc "*espanto*! Ai meu deus!"
+    bloc "*AH*! Ai meu deus!"
 
 # game/script.rpy:11017
 translate pt_br explore_cafe3_19b9217d:
@@ -19882,7 +19882,7 @@ translate pt_br explore_cafe3_dc63b029:
 translate pt_br explore_cafe3_84416297:
 
     # purc "*gasp*!"
-    purc "*espanto*!"
+    purc "*AH*!"
 
 # game/script.rpy:11034
 translate pt_br explore_cafe3_c9784559:
@@ -23302,7 +23302,7 @@ translate pt_br shower_510b0a8f:
 translate pt_br shower_84177422:
 
     # m "Urghhh! Why won't you turn around!? *gasp*! I got it!"
-    m "Urghhh! Por que ela não se vira!? *espanto*! Já sei!"
+    m "Urghhh! Por que ela não se vira!? *AH*! Já sei!"
 
 # game/script.rpy:12397
 translate pt_br shower_a9b68ff5:
@@ -23416,7 +23416,7 @@ translate pt_br shower_3c6ac26b:
 translate pt_br shower_05582c87:
 
     # m "*gasp*! Your pussy! It's so pretty and warm inside..."
-    m "*espanto*! A sua buceta! É tão bonita e quente dentro..."
+    m "*AH*! A sua buceta! É tão bonita e quente dentro..."
 
 # game/script.rpy:12434
 translate pt_br shower_0bbbdfbf:
@@ -28492,7 +28492,7 @@ translate pt_br springkali2_3a217940:
 translate pt_br springkali2_d5619b1a:
 
     # k "*gasp*...!"
-    k "*espanto*...!"
+    k "*AH*...!"
 
 # game/script.rpy:15148
 translate pt_br springkali2_69b3084d:
@@ -29224,7 +29224,7 @@ translate pt_br yourroom_62d6d3f1:
 translate pt_br yourroom_3ff3715b:
 
     # a "*gasp*! You're up!"
-    a "*espanto*! Você acordou!"
+    a "*AH*! Você acordou!"
 
 # game/script.rpy:15437
 translate pt_br yourroom_a21f7f89:
@@ -32663,91 +32663,91 @@ translate pt_br bot_sick_38437bab:
 translate pt_br bot_sick_b259634c:
 
     # bot "Anything else? [name]?"
-    bot ""
+    bot "Algo mais? [name]?"
 
 # game/script.rpy:17444
 translate pt_br bot_sick_6b3f4736:
 
     # c "Nnnnh... fatigue..."
-    c ""
+    c "Nnnh... cansaço..."
 
 # game/script.rpy:17446
 translate pt_br bot_sick_8108e8aa:
 
     # bot "[name]! I still don't know what it could be, there are too many possibilities! I don't know how to help you!"
-    bot ""
+    bot "[name]! Eu ainda não sei o que isso pode ser, são muitas possibilidades! Eu não sei como te ajudar!"
 
 # game/script.rpy:17448
 translate pt_br bot_sick_34ebe9d2:
 
     # bot "[name]!" with ssshake
-    bot "" with ssshake
+    bot "[name]!" with ssshake
 
 # game/script.rpy:17450
 translate pt_br bot_sick_e85b9825:
 
     # ally "Mommy, I don't understand."
-    ally ""
+    ally "Mamãe, eu não entendi."
 
 # game/script.rpy:17451
 translate pt_br bot_sick_7e013c16:
 
     # bot "{i}How can he be sick? No one else in the hotel is sick...{/i}"
-    bot ""
+    bot "{i}Como ele pode estar doente? Não tem mais ninguém doente no hotel...{/i}"
 
 # game/script.rpy:17452
 translate pt_br bot_sick_bd3550ab:
 
     # ally "Mommy?"
-    ally ""
+    ally "Mamãe?"
 
 # game/script.rpy:17453
 translate pt_br bot_sick_6c5b78e5:
 
     # bot "{i}Could this be an attack of some kind?{/i}"
-    bot ""
+    bot "{i}Será que isso é algum tipo de ataque?{/i}"
 
 # game/script.rpy:17454
 translate pt_br bot_sick_e18869f8:
 
     # bot "*gasp*! Wait!"
-    bot ""
+    bot "*AH*! Espera!"
 
 # game/script.rpy:17456
 translate pt_br bot_sick_27d0f1aa:
 
     # bot "Ally, bring his phone to me! I need to know what this sickness is so I know how to treat it!"
-    bot ""
+    bot "Ally, pega aquele telefone pra mim! Eu preciso saber que doença é essa pra saber como tratar ela!"
 
 # game/script.rpy:17457
 translate pt_br bot_sick_b20c4c00:
 
     # ally "O-Okay!"
-    ally ""
+    ally "T-Tudo bem!"
 
 # game/script.rpy:17459
 translate pt_br bot_sick_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17460
 translate pt_br bot_sick_c1048161:
 
     # bot "[name]? Can you hear me?"
-    bot ""
+    bot "[name]? Consegue me ouvir?"
 
 # game/script.rpy:17461
 translate pt_br bot_sick_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17462
 translate pt_br bot_sick_9d9ac403:
 
     # bot "{i}{size=-5}There are 27 common diseases consistent with these symptoms. Three of them are fatal, ten of them are life threatening, and seven could be serious. Half of them could be easily treated with medicine... but only half...{/size}{/i} "
-    bot ""
+    bot "{i}{size=-5}Tem 27 doenças comuns consistentes com esses sintomas. Três dekas são fatais, dez são"
 
 # game/script.rpy:17464
 translate pt_br bot_sick_c9be07aa:
