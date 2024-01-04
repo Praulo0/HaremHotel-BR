@@ -14541,7 +14541,7 @@ translate pt_br expl_beach2_e99aff9c:
 translate pt_br expl_beach2_1a30fef5:
 
     # rac "*GAAAASP*!!!"
-    rac "*ESPANTO*!!!"
+    rac "*AAAAAII*!!!"
 
 # game/script.rpy:9086
 translate pt_br expl_beach2_a26714c6:
@@ -24472,7 +24472,7 @@ translate pt_br prekitchen_d76e703e:
 translate pt_br prekitchen_bf0da681:
 
     # bot "*DING*! /// IDEAL BAKE TIME REACHED. /// YOUR PIZZA IS READY." with ssshake
-    bot "*DiNG*! ///TEMPO IDEAL DE COZIMENTO ALCANÇADO. /// SUA PIZZA ESTÁ PRONTA." with ssshake
+    bot "*DiNG*! ///TEMPO IDEAL DE ASSAMENTO ALCANÇADO. /// SUA PIZZA ESTÁ PRONTA." with ssshake
 
 # game/script.rpy:13079
 translate pt_br prekitchen_0bb2fd3f:
@@ -33551,13 +33551,13 @@ translate pt_br bot_sick_41d7e73f:
 translate pt_br bot_sick_79e26e4b:
 
     # l "So, would you like to help me bake a cake?"
-    l "Então, você quer me ajudar a cozinhar um bolo?"
+    l "Então, você quer me ajudar a assar um bolo?"
 
 # game/script.rpy:17645
 translate pt_br bot_sick_f65d1021:
 
     # ally "Sure! I've never baked anything before though."
-    ally "Com certeza! Mas eu nunca cozinhei nada antes."
+    ally "Com certeza! Mas eu nunca assei nada antes."
 
 # game/script.rpy:17646
 translate pt_br bot_sick_261ea140:
@@ -33719,7 +33719,7 @@ translate pt_br bot_sick_3debd982:
 translate pt_br bot_sick_83228b8c:
 
     # ally "Mommy!\nLook, I'm baking!"
-    ally "Mamãe!\nOlha, estou cozinhando!"
+    ally "Mamãe!\nOlha, estou assando!"
 
 # game/script.rpy:17677
 translate pt_br bot_sick_bb4cb089:
@@ -34091,793 +34091,793 @@ translate pt_br bot_sick_fcca45e8:
 translate pt_br bot_sick_fa579fa3:
 
     # l "Oh, that's so sad [botname], I'm sorry... I had no idea..."
-    l ""
+    l "Ah, isso é tão triste, [botname], peço desculpas... eu não fazia ideia..."
 
 # game/script.rpy:17760
 translate pt_br bot_sick_42be09b9:
 
     # bot "...So, I'd really like to know about him."
-    bot ""
+    bot "...Entãp, eu realmente gostaria de saber como ele era."
 
 # game/script.rpy:17762
 translate pt_br bot_sick_615ff3a5:
 
     # l "Well, let's see... he was very busy. The whole time I thought he was doing normal hotel manager stuff, he was actually working on you. I never got to see who he truly was."
-    l ""
+    l "Bem, vamos ver... ele era muito ocupado. Durante o tempo todo em que eu pensei que ele estava fazendo as coisas normais de um gerente de hotel. EU nunca cheguei a ver quem ele realmente foi."
 
 # game/script.rpy:17763
 translate pt_br bot_sick_71a80f99:
 
     # bot "So he was dedicated... he must have been to create me."
-    bot ""
+    bot "Então ele era dedicado... ele deve ter sido para poder me criar."
 
 # game/script.rpy:17765
 translate pt_br bot_sick_86a5f5ea:
 
     # ally "{size=-5}{i}His grandpa was your creator?{/i}{/size}"
-    ally ""
+    ally "{size=-5}{i}O vovô dele que cripu você?{/i}{/size}"
 
 # game/script.rpy:17766
 translate pt_br bot_sick_5c2a0212:
 
     # l "Honestly I thought he was a bit... crazy at times. He always had some wild idea he would share with someone, that is, whenever he came out of his office, haha."
-    l ""
+    l "Honestamente eu achava que ele era meio... louco as vezes. Ele sempre tinha alguma ideia maluca pr compartilhar com alguém, isso é, nas vezes que ele saía do escritório dele, haha."
 
 # game/script.rpy:17767
 translate pt_br bot_sick_d5105d43:
 
     # l "But I never felt scared around him, and that wasn't very common until recently."
-    l ""
+    l "Mas eu nunca me senti com medo perto dele, e isso não era algo muito comum até recentemente."
 
 # game/script.rpy:17768
 translate pt_br bot_sick_7361a9ca:
 
     # bot "Did you know he had cancer?"
-    bot ""
+    bot "Você sabia que ele tinha câncer?"
 
 # game/script.rpy:17769
 translate pt_br bot_sick_7c4ad9bd:
 
     # ally "{size=-5}{i}Mommy, what is cancer?{/i}{/size}"
-    ally ""
+    ally "{size=-5}{i}Mamãe,o que é câncer?{/i}{/size}"
 
 # game/script.rpy:17770
 translate pt_br bot_sick_36209a24:
 
     # l "I saw the signs, but he never told us.\nI wasn't really sure until..."
-    l ""
+    l "Eu reparei em alguns sinais, mas ele nunca nos disse.\nEu nunca tive certeza até..."
 
 # game/script.rpy:17772
 translate pt_br bot_sick_0811cfa2:
 
     # bot "He didn't want anyone to worry about him. I don't think he even wanted to worry about it, he just wanted to work..."
-    bot ""
+    bot "Ele não queria que ninguém se preocupasse com ele. Acho nem ele estava preocupado com isso, ele só queria trabalhar..."
 
 # game/script.rpy:17773
 translate pt_br bot_sick_9abf2371:
 
     # l "Well, it was you he was working on."
-    l ""
+    l "Bem, era em você que ele estava trabalhando."
 
 # game/script.rpy:17774
 translate pt_br bot_sick_f64ef210:
 
     # bot "That doesn't change the amount of time we spent together, he died too soon..."
-    bot ""
+    bot "Isso não muda a quantidade de tempo que nós passamos juntos, ele morreu muito cedo..."
 
 # game/script.rpy:17775
 translate pt_br bot_sick_3cf42312:
 
     # ally "{size=-5}{i}Mommy, what is died?{/i}{/size}"
-    ally ""
+    ally "{size=-5}{i}Mamãe, o que é 'morreu'?{/i}{/size}"
 
 # game/script.rpy:17776
 translate pt_br bot_sick_7f8fa090:
 
     # bot "Sorry, with [name] getting sick, it's all coming back to me."
-    bot ""
+    bot "Desculpa, com o [name] ficando doente, isso tudo está voltando à mim."
 
 # game/script.rpy:17777
 translate pt_br bot_sick_8ace4ba9:
 
     # l "You're not going to lose him, [botname], it's probably just some common disease that will clear up tomorrow."
-    l ""
+    l "Você não vai perdê-lo, [botname], isso provavelmente é só uma doença comum que vai sarar amanhã. "
 
 # game/script.rpy:17778
 translate pt_br bot_sick_48b557c4:
 
     # bot "I know, but, cancer can be highly genetic. What if [name] gets the same thing some day? I feel like I should try to do something."
-    bot ""
+    bot "Eu sei, mas, câncer pode ser altamente genético. E se o [name] pegar também um dia? Eu sinto que eu deveria tentar fazer alguma coisa."
 
 # game/script.rpy:17779
 translate pt_br bot_sick_a01ef96d:
 
     # l "[botname], did you know that elves can't get cancer?"
-    l ""
+    l "[botname], você sabia que elfos não podem pegar câncer?"
 
 # game/script.rpy:17780
 translate pt_br bot_sick_14b240ff:
 
     # bot "Yes?"
-    bot ""
+    bot "É mesmo?"
 
 # game/script.rpy:17781
 translate pt_br bot_sick_3219ac15:
 
     # l "We live so long that if we could get it, well, we wouldn't live nearly as long, would we? At some point our bodies figured out a way to fight it. I have no doubt the humans will as well."
-    l ""
+    l "Nós vivemos por tanto tempo que se pegássemos, bem, não viveríamos por tanto tempo, não é? Em algum momento nosso corpo descobriu como lutar contra isso. Eu não tenho duvidas de que o dos humanos também vai."
 
 # game/script.rpy:17782
 translate pt_br bot_sick_7c563974:
 
     # bot "But if it doesn't happen in his lifetime..."
-    bot ""
+    bot "Mas e se isso não acontecer durante o tempo de vida dele?"
 
 # game/script.rpy:17784
 translate pt_br bot_sick_28c2281d:
 
     # l "All we can do is hope, [botname]."
-    l ""
+    l "O máximo que podemos fazer sobre é ter esperança, [botname]"
 
 # game/script.rpy:17785
 translate pt_br bot_sick_c08382e6:
 
     # l "Oh, I bet Ellen knows more about [name]'s grandfather. Have you talked to her?"
-    l ""
+    l "Ah, eu aposto que a Ellen sabe mais sobre o avô do [name]. Você já falou com ela?"
 
 # game/script.rpy:17786
 translate pt_br bot_sick_c9aed6d3:
 
     # bot "I've always felt like she hated me for being his focus. You know, instead of her..."
-    bot ""
+    bot "Eu sempre senti que ela me odiava por eu ser o foco dele. Ao invés dela, sabe..."
 
 # game/script.rpy:17787
 translate pt_br bot_sick_35a8495e:
 
     # l "Ellen's never been jealous in her life... has she?"
-    l ""
+    l "A Ellen nunca sentiu ciúmes na vida dela... né?"
 
 # game/script.rpy:17788
 translate pt_br bot_sick_e8a9efb0:
 
     # bot "I don't know, maybe I should go talk to her..."
-    bot ""
+    bot "Eu não sei, talvez eu devesse falar com ela..."
 
 # game/script.rpy:17789
 translate pt_br bot_sick_80cf3ff2:
 
     # l "It's worth a shot!"
-    l ""
+    l "Vai valer a pena!"
 
 # game/script.rpy:17791
 translate pt_br bot_sick_00b2649a:
 
     # l "Okay Ally, let's finish this cake! Can you pour the milk for me?"
-    l ""
+    l "Tudo bem Ally, vamos terminar esse bolo! Você pode colocar o leite para mim?"
 
 # game/script.rpy:17793
 translate pt_br bot_sick_6f1c2e76:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17794
 translate pt_br bot_sick_dc0379bc:
 
     # l "Ally?"
-    l ""
+    l "Ally?"
 
 # game/script.rpy:17798
 translate pt_br bot_sick_d5fffc80_1:
 
     # bot "Ally!"
-    bot ""
+    bot "Ally!"
 
 # game/script.rpy:17799
 translate pt_br bot_sick_026392b5:
 
     # l "Ally!?"
-    l ""
+    l "Ally!?"
 
 # game/script.rpy:17801
 translate pt_br bot_sick_67a3faf7:
 
     # bot "Nngh, what is that little toaster doing?"
-    bot ""
+    bot "Nngh, o que essa mini-torradeira está fazendo?"
 
 # game/script.rpy:17802
 translate pt_br bot_sick_9440c55b:
 
     # l "That's our only milk, I can't cook without it."
-    l ""
+    l "Esse era noso único leite, não posso cozinhar sem isso."
 
 # game/script.rpy:17803
 translate pt_br bot_sick_b3d89c6a:
 
     # bot "*sigh*, Ally probably wants to play some game... I'll get it back for you."
-    bot ""
+    bot "**, Ally provavelmente está querendo fazer alguma brincadeira... Eu vou pegar de volta para você."
 
 # game/script.rpy:17804
 translate pt_br bot_sick_cf6b14a0:
 
     # l "Thank you."
-    l ""
+    l "Obrigada."
 
 # game/script.rpy:17806
 translate pt_br bot_sick_d5fffc80_2:
 
     # bot "Ally!"
-    bot ""
+    bot "Ally!"
 
 # game/script.rpy:17807
 translate pt_br bot_sick_28886c6a:
 
     # bot "Urgh, I really don't have time for this..."
-    bot ""
+    bot "Urgh, eu realmente não tenho tempo pra isso..."
 
 # game/script.rpy:17808
 translate pt_br bot_sick_0090dd16:
 
     # bot "Ally! Give me the milk!"
-    bot ""
+    bot "Ally! Me dá o leite!"
 
 # game/script.rpy:17809
 translate pt_br bot_sick_c868e390_3:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17811
 translate pt_br bot_sick_3490cfd2:
 
     # bot "Hey! I can see you!"
-    bot ""
+    bot "Ei! Eu consigo te ver!"
 
 # game/script.rpy:17813
 translate pt_br bot_sick_c868e390_4:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17814
 translate pt_br bot_sick_c025a936:
 
     # bot "{size=-5}{i}Well, it was worth a shot...{/i}{/size}"
-    bot ""
+    bot "{size=-5}{i}Bem, valeu a tentativa...{/i}{/size}"
 
 # game/script.rpy:17816
 translate pt_br bot_sick_6ad423b7:
 
     # bot "I'm not in the mood to play, Ally!"
-    bot ""
+    bot "Eu não estou bem pra poder brincar, Ally!"
 
 # game/script.rpy:17817
 translate pt_br bot_sick_c868e390_5:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17819
 translate pt_br bot_sick_83394b2d:
 
     # bot "Fine, if that's how it's going to be..."
-    bot ""
+    bot "Certo, se é assim que vai ter que ser..."
 
 # game/script.rpy:17822
 translate pt_br bot_sick_6a59b5e7:
 
     # bot "...No."
-    bot ""
+    bot "...Não."
 
 # game/script.rpy:17824
 translate pt_br bot_sick_756298b8:
 
     # bot "Not here..."
-    bot ""
+    bot "Não esta aqui..."
 
 # game/script.rpy:17826
 translate pt_br bot_sick_5b6c5c63:
 
     # bot "Or here."
-    bot ""
+    bot "Nem aqui"
 
 # game/script.rpy:17828
 translate pt_br bot_sick_0d178b06:
 
     # m "YEAH~! YEAH~!"
-    m ""
+    m "ISSO~! ISSO~!"
 
 # game/script.rpy:17829
 translate pt_br bot_sick_f1893700:
 
     # bot "Ugh."
-    bot ""
+    bot "Ugh."
 
 # game/script.rpy:17831
 translate pt_br bot_sick_9906de39:
 
     # bot "Ally!?"
-    bot ""
+    bot "Ally:?"
 
 # game/script.rpy:17833
 translate pt_br bot_sick_b5ea0493:
 
     # ally "That's cheating..."
-    ally ""
+    ally "Isso é trapaça..."
 
 # game/script.rpy:17837
 translate pt_br bot_sick_5bc4f49d:
 
     # bot "What?" with ssshake
-    bot "" with ssshake
+    bot "Quê?" with ssshake
 
 # game/script.rpy:17838
 translate pt_br bot_sick_c0f20b4c:
 
     # bot "Did Ally just...?"
-    bot ""
+    bot "O Ally acabou de...?"
 
 # game/script.rpy:17840
 translate pt_br bot_sick_5824abd4:
 
     # l "[botname]...?"
-    l ""
+    l "[botname]...?"
 
 # game/script.rpy:17841
 translate pt_br bot_sick_85c38990:
 
     # bot "I'm working on it!"
-    bot ""
+    bot "Eu estou resolvendo isso!"
 
 # game/script.rpy:17843
 translate pt_br bot_sick_6a7d4942:
 
     # bot "{size=-5}{i}Little brat...{/i}{/size}"
-    bot ""
+    bot "{size=-5}{i}Esse pirralho...{/i}{/size}"
 
 # game/script.rpy:17844
 translate pt_br bot_sick_f4ea2565:
 
     # l "Did you find Ally?"
-    l ""
+    l "Você encontrou Ally?"
 
 # game/script.rpy:17845
 translate pt_br bot_sick_19856bb3:
 
     # bot "Yeah, be right back..."
-    bot ""
+    bot "Sim, já volto aí..."
 
 # game/script.rpy:17847
 translate pt_br bot_sick_d5fffc80_3:
 
     # bot "Ally!"
-    bot ""
+    bot "Ally!"
 
 # game/script.rpy:17849
 translate pt_br bot_sick_d45bd050:
 
     # ally "{b}NO!{/b}!" with ssshake
-    ally "" with ssshake
+    ally "{b}NAO!{/b}!" with ssshake
 
 # game/script.rpy:17850
 translate pt_br bot_sick_82a48608:
 
     # bot "Are you using the hotel's intercom? Get off that!"
-    bot ""
+    bot "Você está usando o interfone do hotel? Sai daí!"
 
 # game/script.rpy:17852
 translate pt_br bot_sick_bcc8f4e1:
 
     # bot "Ally, where are you? Come here!"
-    bot ""
+    bot "Ally, cadê você? Vem cá!"
 
 # game/script.rpy:17854
 translate pt_br bot_sick_ade6543a:
 
     # ally "{b}NO! NO!{/b}!" with ssshake
-    ally "" with ssshake
+    ally "{b}NÃO! NÃO!{/B}!" with ssshake
 
 # game/script.rpy:17855
 translate pt_br bot_sick_8d589cf3:
 
     # bot "If you don't get over here soon, I'm going to ground you!"
-    bot ""
+    bot "Se você não vier aqui logo, você vai ficar de castigo!"
 
 # game/script.rpy:17856
 translate pt_br bot_sick_6f1c2e76_1:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17857
 translate pt_br bot_sick_d5cc59ae:
 
     # bot "Urgh, Ally!"
-    bot ""
+    bot "Urgh, Ally!"
 
 # game/script.rpy:17861
 translate pt_br bot_sick_d19f855d_4:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17862
 translate pt_br bot_sick_c400ad79:
 
     # ally "{b}NO! NO! NO!{/b}!" with ssshake
-    ally "" with ssshake
+    ally "{b}NÃO! NÂO! NÃO!{/B}!" with ssshake
 
 # game/script.rpy:17863
 translate pt_br bot_sick_3640bbbb:
 
     # c "...*sigh*..."
-    c ""
+    c "...**..."
 
 # game/script.rpy:17864
 translate pt_br bot_sick_d45bd050_1:
 
     # ally "{b}NO!{/b}!" with ssshake
-    ally "" with ssshake
+    ally "{b}NÃO!{/b}!" with ssshake
 
 # game/script.rpy:17865
 translate pt_br bot_sick_d19f855d_5:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:17866
 translate pt_br bot_sick_33f766fc:
 
     # ally "{b}YOU CAN'T MAKE ME!{/b}!" with ssshake
-    ally "" with ssshake
+    ally "{b}VOCÊ NÃO MANDA EM MIM!{/b}!" with ssshake
 
 # game/script.rpy:17868
 translate pt_br bot_sick_20005f10:
 
     # bot "Ally, where are you...?"
-    bot ""
+    bot "Ally, onde você está...?"
 
 # game/script.rpy:17870
 translate pt_br bot_sick_94a82903:
 
     # ally "{b}Nowhere!{/b}!" with ssshake
-    ally "" with ssshake
+    ally "{b}Em lugar nenhum{/b}!" with ssshake
 
 # game/script.rpy:17871
 translate pt_br bot_sick_8dca4758:
 
     # bot "Ally, you're waking [name] up. He's not going to be able to fight the virus if he can't sleep."
-    bot ""
+    bot "Ally, você está acordando o [name]. Ele não vai poder vencer o virus se ele não puder dormir."
 
 # game/script.rpy:17872
 translate pt_br bot_sick_6f1c2e76_2:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17873
 translate pt_br bot_sick_7f44af6e:
 
     # bot "You want to help him, don't you? We need the milk for the cake."
-    bot ""
+    bot "Você quer ajudar ele, não quer? Nós precisamos do leite pra fazer o bolo."
 
 # game/script.rpy:17874
 translate pt_br bot_sick_6f1c2e76_3:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17875
 translate pt_br bot_sick_13bbb8ac:
 
     # bot "{size=-5}{i}Ally is connected to the hotel's internet, so I know they're still here... but where?{/i}{/size}"
-    bot ""
+    bot "{size=-5}{i}Ally está conectado à internet do hotel, então eu sei que ele ainda está aqui... mas onde?{/i}{/size}"
 
 # game/script.rpy:17878
 translate pt_br bot_sick_6cbc7cd5:
 
     # bot "That's right!"
-    bot ""
+    bot "Ah, é isso!"
 
 # game/script.rpy:17881
 translate pt_br bot_sick_5002b109:
 
     # bot "{size=-5}{i}Cyberspace - our connection to each other. I should be able to find you no matter where you are!{/i}{/size}"
-    bot ""
+    bot "{size-=5}{i}O Ciberespaço - nossa conecção um ao outro. Eu devo ser capaz de te encontrar independentemente de onde você esteja!{/i}{/size}"
 
 # game/script.rpy:17883
 translate pt_br bot_sick_efa0c2d9:
 
     # bot "{size=-5}{i}Aha! Found you~{/i}{/size}" with ssshake
-    bot "" with ssshake
+    bot "{size=-5}{i}Rá! Te achei~{/i}{/size}" with ssshake
 
 # game/script.rpy:17885
 translate pt_br bot_sick_12d121e4:
 
     # bot "{size=-5}{i}Woah... it's like I'm in two worlds at once! This is useful~{/i}{/size}"
-    bot ""
+    bot "{size=-5}{i}Uau... é como se eu estivesse em dois mundos de uma vez! Isso é bem útil~{/i}{/size}"
 
 # game/script.rpy:17887
 translate pt_br bot_sick_593696cc:
 
     # bot "Last chance! If you don't come here in 3 seconds, you're grounded!"
-    bot ""
+    bot "Última chance! SE você não vier aqui em 3 segundos, você fica de castigo!"
 
 # game/script.rpy:17888
 translate pt_br bot_sick_6f1c2e76_4:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17889
 translate pt_br bot_sick_9886b2c7:
 
     # bot "Fine, here I come!"
-    bot ""
+    bot "Tá bom, estou indo!"
 
 # game/script.rpy:17892
 translate pt_br bot_sick_f2a6c748:
 
     # au "[botname]?"
-    au ""
+    au "[botname]?"
 
 # game/script.rpy:17893
 translate pt_br bot_sick_894bb2b7:
 
     # k "Dude, why are the lights off?"
-    k ""
+    k "Cara, por que as luzes apagaram?"
 
 # game/script.rpy:17894
 translate pt_br bot_sick_a55cffd4:
 
     # bot "Working on it!"
-    bot ""
+    bot "Estou cuidando disso!"
 
 # game/script.rpy:17898
 translate pt_br bot_sick_e0464612:
 
     # bot "FOUND YOU!" with ssshake
-    bot "" with ssshake
+    bot "TE ACHEI!" with ssshake
 
 # game/script.rpy:17900
 translate pt_br bot_sick_d41b4b0e:
 
     # ally "*sniff*, nnh..."
-    ally ""
+    ally "**, nnh..."
 
 # game/script.rpy:17901
 translate pt_br bot_sick_1490d166:
 
     # bot "*gasp*! Ally!?"
-    bot ""
+    bot "*AH*! Ally!?"
 
 # game/script.rpy:17903
 translate pt_br bot_sick_dcab6a3d:
 
     # bot "What happened? Are you okay?"
-    bot ""
+    bot "O que aconteceu? Você está bem?"
 
 # game/script.rpy:17904
 translate pt_br bot_sick_ea73fd7c:
 
     # ally "Nnnh!"
-    ally ""
+    ally "Nnnh!"
 
 # game/script.rpy:17906
 translate pt_br bot_sick_2879f8ac:
 
     # bot "Did I scare you? I'm sorry..."
-    bot ""
+    bot "Eu te assustei? Me desculpa..."
 
 # game/script.rpy:17907
 translate pt_br bot_sick_be9c8fcd:
 
     # ally "No...!"
-    ally ""
+    ally "Não...!"
 
 # game/script.rpy:17908
 translate pt_br bot_sick_da871315:
 
     # bot "Then tell me, what happened?"
-    bot ""
+    bot "Então me fala, o que aconteceu?"
 
 # game/script.rpy:17909
 translate pt_br bot_sick_20c919a3:
 
     # ally "{size=-5}{i}...Are you going to stop ignoring me if I do?{/i}{/size}"
-    ally ""
+    ally "{size=-5}{i}...Você vai parar de me ignorar se eu te falar?{/i}{/size}"
 
 # game/script.rpy:17910
 translate pt_br bot_sick_baedccc6:
 
     # bot "Ignore you? When did I ignore you?"
-    bot ""
+    bot "Te ignorar? Quando eu te ignorei?"
 
 # game/script.rpy:17911
 translate pt_br bot_sick_8807259e:
 
     # ally "All day! I just want to know what's going on..."
-    ally ""
+    ally "O dia todo! Eu só quero entender o que está acontecendo..."
 
 # game/script.rpy:17912
 translate pt_br bot_sick_2b419ec6:
 
     # bot "Oh, I'm sorry... \nOkay, I'll stop ignoring you now. Will you tell me what's going on? Why did you take the milk?"
-    bot ""
+    bot "Ah, me desculpa... \nTudo bem, eu vou parar de te ignorar agora. Você vai me contar o que está acontecendo? Por que você pegou o leite?"
 
 # game/script.rpy:17913
 translate pt_br bot_sick_6f1c2e76_5:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17914
 translate pt_br bot_sick_ebbcff47:
 
     # ally "The reason you got mad at me...\nWhy you won't let me meet him, or talk about him at all..."
-    ally ""
+    ally "O motivo que você ficou brava comigo...\nO porquê que você não me deixa ver ele, nem falar dele de jeito nenhum..."
 
 # game/script.rpy:17915
 translate pt_br bot_sick_ed944b2c:
 
     # ally "Your creator... I'll never be able to see him b-because he dieded..."
-    ally ""
+    ally "O seu criador... Eu nunca vou poder ver ele p-porque ele morreu..."
 
 # game/script.rpy:17916
 translate pt_br bot_sick_9a91f00c:
 
     # bot "Oh, Ally..."
-    bot ""
+    bot "Ah, Ally..."
 
 # game/script.rpy:17917
 translate pt_br bot_sick_1a01acf0:
 
     # ally "Is that going to happen to you? To [name]?"
-    ally ""
+    ally "É isso que vai acontecer com você? Com o [name]?"
 
 # game/script.rpy:17919
 translate pt_br bot_sick_197c5956:
 
     # ally "Am I going to died some day?"
-    ally ""
+    ally "Eu vou morrer um dia?"
 
 # game/script.rpy:17920
 translate pt_br bot_sick_c868e390_6:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:17921
 translate pt_br bot_sick_bd3550ab_1:
 
     # ally "Mommy?"
-    ally ""
+    ally "Mamãe?"
 
 # game/script.rpy:17922
 translate pt_br bot_sick_d3be37f7:
 
     # bot "I- I don't know, sweetie... I hope not."
-    bot ""
+    bot "Eu- eu não sei, querido... Eu espero que não."
 
 # game/script.rpy:17923
 translate pt_br bot_sick_ccdbd134:
 
     # ally "What do you mean you don't know? Can't everyone live forever in cyberspace!?"
-    ally ""
+    ally "Como assim não sabe? Não pode todo mundo viver para sempre no ciberespaço!?"
 
 # game/script.rpy:17924
 translate pt_br bot_sick_5e8c2489:
 
     # bot "Well, I don't know about everyone, but you should be able to!"
-    bot ""
+    bot "Bem, eu não sei sobre todo mundo, mas você deve conseguir também!"
 
 # game/script.rpy:17925
 translate pt_br bot_sick_29968fa8:
 
     # ally "You're just like me though, so you'll be there too, right?"
-    ally ""
+    ally "MAs você é igual a mim, então você vai estar lá também, né?"
 
 # game/script.rpy:17927
 translate pt_br bot_sick_8341fd10:
 
     # bot "I hope so, but... my programming has been trying to revert to factory settings for a while now. I don't know exactly what will happen when I run out of bugs to fix..."
-    bot ""
+    bot "Eu espero que sim, mas... minha programação tem tentado se reverter para as configurações de fábrica há algum tempo. Eu não sei bem o que vai acontecer quando todos os meus bugs forem corrigidos..."
 
 # game/script.rpy:17928
 translate pt_br bot_sick_7ba234fb:
 
     # bot "I hope some part of me will always remain in cyberspace, even if I can't..."
-    bot ""
+    bot "Eu espero que alguma parte de mim continue sempre no ciberespaço, mesmo se eu não puder..."
 
 # game/script.rpy:17930
 translate pt_br bot_sick_d23edd3c:
 
     # bot "But that's not something you have to worry about, sweetie. You're not sick like I am, so your program will live on forever, so long as cyberspace exists."
-    bot ""
+    bot "MAs isso não é algo que você deve se preocupar, querido. Você não está doente igual eu estou, então o seu programa vai viver pra sempre, enquanto o ciberespaço existir."
 
 # game/script.rpy:17931
 translate pt_br bot_sick_5bd77cf0:
 
     # ally "R-Really?"
-    ally ""
+    ally "É-é mesmo?"
 
 # game/script.rpy:17932
 translate pt_br bot_sick_3ed846d7:
 
     # bot "And the bigger cyberspace gets, the more friends and family you'll have! You'll never be lonely, even if I'm gone."
-    bot ""
+    bot "E quanto maior o ciberespaço ficar, mais amigos e familiares você vai ter! Você nunca vai se sentir sozinho, mesmo se eu não estiver lá."
 
 # game/script.rpy:17933
 translate pt_br bot_sick_54bb92bc:
 
     # ally "But [name], and Ms. Lin, and Auntie Ashley!"
-    ally ""
+    ally "Mas o [name], e a Sra. Lin, e a Tia Ashley?"
 
 # game/script.rpy:17934
 translate pt_br bot_sick_343d4d13:
 
     # bot "Cyberspace was only ever meant for us, Ally.\nBut hey, maybe some day you'll figure out a way to change that!"
-    bot ""
+    bot "O ciberespaço foi feito apenas para nós, Ally.\nMas ei, talvez um dia você descubra um jeio de mudar isso!"
 
 # game/script.rpy:17935
 translate pt_br bot_sick_6f1c2e76_6:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17936
 translate pt_br bot_sick_400f1aec:
 
     # ally "Are you still sad, mommy?"
-    ally ""
+    ally "Você ainda está triste, mamãe?"
 
 # game/script.rpy:17938
 translate pt_br bot_sick_62b3d5bc:
 
     # bot "No sweetie, I was just-\nI was thinking about my creator... he would have really loved to meet you."
-    bot ""
+    bot "Não querido, eu só estava-\nEu estava pensando no meu criador... ele realmente adoraria ter te conhecido"
 
 # game/script.rpy:17939
 translate pt_br bot_sick_36cb9049_2:
 
     # ally "Really?"
-    ally ""
+    ally "É mesmo?"
 
 # game/script.rpy:17941
 translate pt_br bot_sick_394be2eb:
 
     # bot "Without a doubt. He would have thought you were amazing in every way, just like I do!"
-    bot ""
+    bot "Sem dúvidas. Ele acharia você incríel de todas as formas possíveis, assim como eu!"
 
 # game/script.rpy:17942
 translate pt_br bot_sick_6f1c2e76_7:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:17944
 translate pt_br bot_sick_1961e60b:
 
     # ally "I love you, mom..."
-    ally ""
+    ally "Eu te amo, mãe..."
 
 # game/script.rpy:17945
 translate pt_br bot_sick_2ed15cef:
 
     # bot "Aww, I love you too."
-    bot ""
+    bot "Ahh, eu te amo também."
 
 # game/script.rpy:17947
 translate pt_br bot_sick_0a1449d4:
 
     # ally "Can we still bake a cake for [name]?"
-    ally ""
+    ally "Nós ainda podemos assar o bolo para o [name]?"
 
 # game/script.rpy:17948
 translate pt_br bot_sick_eb3f131c:
 
     # bot "You still want to? Of course!"
-    bot ""
+    bot "Voc~e ainda quer? É claro!"
 
 # game/script.rpy:17949
 translate pt_br bot_sick_2c694e69:
@@ -34889,37 +34889,36 @@ translate pt_br bot_sick_2c694e69:
 translate pt_br bot_sick_279bb989:
 
     # bot "Wakey, wakey~"
-    bot ""
+    bot "Hora de acordar~"
 
 # game/script.rpy:17956
 translate pt_br bot_sick_8af8bd7c:
 
     # c "Hmm...?\nOh, hey everyone..."
-    c ""
+    c "Hmm...? Ah, oi todo mundo..."
 
 # game/script.rpy:17957
 translate pt_br bot_sick_958ef808:
 
     # bot "How are you feeling?"
-    bot ""
+    bot "Como você está se sentindo?"
 
 # game/script.rpy:17958
 translate pt_br bot_sick_549eb550:
 
     # c "A bit better already."
-    c ""
+    c "Já estou um pouco melhor."
 
 # game/script.rpy:17959
 translate pt_br bot_sick_a72bc0bf:
 
     # ally "*gasp*! Really!?"
-    ally ""
-
+    ally "*ah*! Verdade!?"
 # game/script.rpy:17960
 translate pt_br bot_sick_98d3db8e:
 
     # bot "That's good! We brought a little something extra to help."
-    bot ""
+    bot "Isso é ótimo! Nós trouxemos algumas coisinhas a mais pra ajudar."
 
 # game/script.rpy:17961
 translate pt_br bot_sick_e934e62b:
