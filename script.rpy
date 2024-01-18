@@ -137,7 +137,7 @@ translate pt_br intro_f3dd56ad:
 translate pt_br intro_021efa4e:
 
     # yg "...{w}*sigh*..."
-    yg "...{w}*suspiro*..."
+    yg "...{w}*ugh*..."
 
 # game/script.rpy:461
 translate pt_br intro_08033034:
@@ -5592,7 +5592,7 @@ translate pt_br floor2menu_7c2a6bc3:
 translate pt_br floor2menu_7ed7b36f:
 
     # bot "Well... *sigh*... I just don't think I'm ready."
-    bot "Bem... *suspiro*... Eu só não me sinto pronta."
+    bot "Bem... *ugh*... Eu só não me sinto pronta."
 
 # game/script.rpy:4892
 translate pt_br floor2menu_bb00a52c:
@@ -6066,7 +6066,7 @@ translate pt_br floor2menu_fce0b2ec:
 translate pt_br floor2menu_cc523c2d:
 
     # bot "But, *sigh*... Ellen has it..."
-    bot "Mas, *suspiro*... É a Ellen quem está com ele..."
+    bot "Mas, *ugh*... É a Ellen quem está com ele..."
 
 # game/script.rpy:5087
 translate pt_br floor2menu_aa530d68:
@@ -12123,7 +12123,7 @@ translate pt_br explore_bernie2_2a5463be_1:
 translate pt_br explore_bernie2_09ee4cbd:
 
     # woman "*sigh*, fine... it's not a bad idea actually. Let's find a table."
-    woman "*suspiro*, tudo bem... até que não é uma má ideia. Vamos encontrar uma mesa."
+    woman "*ugh*, tudo bem... até que não é uma má ideia. Vamos encontrar uma mesa."
 
 # game/script.rpy:8427
 translate pt_br explore_bernie2_5a307dc3:
@@ -12147,7 +12147,7 @@ translate pt_br explore_bernie2_0db62028:
 translate pt_br explore_bernie2_4d9fddd8:
 
     # zara "*sigh*, I guess it's my fault for not thinking to bring something to wear over my bikini and just walk into a bar like this, but then again, I also wasn't expecting my friends to ditch me..."
-    zara "*suspiro*, acho que a culpa é minha por não ter pensado em trazer nada para vestir por cima do meu biquini e simplesmente entrar em um bar desses, mas eu também não estava esperando que meus amigos me abandonassem..."
+    zara "*ugh*, acho que a culpa é minha por não ter pensado em trazer nada para vestir por cima do meu biquini e simplesmente entrar em um bar desses, mas eu também não estava esperando que meus amigos me abandonassem..."
 
 # game/script.rpy:8432
 translate pt_br explore_bernie2_c7829559:
@@ -12339,7 +12339,7 @@ translate pt_br explore_bernie2_8218e9cf:
 translate pt_br explore_bernie2_90832beb:
 
     # zara "*sigh*...\nYeah... well I guess this isn't the only time they've done something like this to me."
-    zara "*suspiro*...\nSim... bem, eu acho que essa não é a primeira vez que eles fizeram algo assim comigo."
+    zara "*ugh*...\nSim... bem, eu acho que essa não é a primeira vez que eles fizeram algo assim comigo."
 
 # game/script.rpy:8478
 translate pt_br explore_bernie2_4e24c2ca:
@@ -12369,7 +12369,7 @@ translate pt_br explore_bernie2_47e5b3ef:
 translate pt_br explore_bernie2_6f36ccd4:
 
     # zara "*sigh*... I can't believe I'm even at the point of questioning that... that's not a good sign, is it?"
-    zara "*suspiro*... Eu não consigo acreditar que cheguei ao ponto de questionar isso... Isso não é um bom sinal, né?"
+    zara "*ugh*... Eu não consigo acreditar que cheguei ao ponto de questionar isso... Isso não é um bom sinal, né?"
 
 # game/script.rpy:8483
 translate pt_br explore_bernie2_d8bfc59d:
@@ -13827,7 +13827,7 @@ translate pt_br expl_beach0_57adbb31:
 translate pt_br expl_beach0_d72e4f0a:
 
     # woman "Well, looks like we're done for today. *sigh*, that means it's time for paperwork..."
-    woman "Bem, parece que nós terminamos por hoje. *suspiro*, isso significa que é hora da papelada"
+    woman "Bem, parece que nós terminamos por hoje. *ugh, isso significa que é hora da papelada"
 
 # game/script.rpy:8906
 translate pt_br expl_beach0_2acfbc89:
@@ -13959,7 +13959,7 @@ translate pt_br expl_beach2_6e98a896:
 translate pt_br expl_beach2_ebbf02db:
 
     # sl "*sigh*...\nIf you say so, mistress..."
-    sl "*suspiro*...\Se você diz, mestra..."
+    sl "*ugh*...\Se você diz, mestra..."
 
 # game/script.rpy:8956
 translate pt_br expl_beach2_5da3d183:
@@ -14055,7 +14055,7 @@ translate pt_br expl_beach2_a5512104:
 translate pt_br expl_beach2_05143155:
 
     # sl "*sigh*..."
-    sl "*suspiro*..."
+    sl "*ugh*..."
 
 # game/script.rpy:8978
 translate pt_br expl_beach2_084e4ca5:
@@ -18970,7 +18970,7 @@ translate pt_br explore_cafe2_11a8a01a:
 translate pt_br explore_cafe2_aeaa75f8:
 
     # eri "*sigh*... dammit..."
-    eri "*suspiro*... droga..."
+    eri "*ugh*... droga..."
 
 # game/script.rpy:10795
 translate pt_br explore_cafe2_7611efb4:
@@ -19294,7 +19294,7 @@ translate pt_br explore_cafe2_85ec2cc1:
 translate pt_br explore_cafe2_873c9b38:
 
     # eri "*sigh*, fine, here's your crown. You earned it. Don't spend it on anything stupid, like a bet..."
-    eri "*suspiro*, certo, aqui está a sua coroa. Você mereceu. Não desperdice em nada estúpido, como uma aposta..."
+    eri "*ugh*, certo, aqui está a sua coroa. Você mereceu. Não desperdice em nada estúpido, como uma aposta..."
 
 # game/script.rpy:10883
 translate pt_br explore_cafe2_a52d8ba7:
@@ -20128,7 +20128,7 @@ translate pt_br needy_help_5283d005:
 translate pt_br needy_help_9e238529:
 
     # abby "*sigh*, may you find The Path some day, wanderer..."
-    abby "*suspiro* Espero que você possa descobrir O Caminho algum dia, andarilha... "
+    abby "*ugh* Espero que você possa descobrir O Caminho algum dia, andarilha... "
 
 # game/script.rpy:11130
 translate pt_br needy_help_332d4563:
@@ -20494,7 +20494,7 @@ translate pt_br needy_help_421bdb08:
 translate pt_br needy_help_397a239a:
 
     # felf "*sigh*..."
-    felf "*suspiro*..."
+    felf "*ugh*..."
 
 # game/script.rpy:11213
 translate pt_br needy_help_78850e60:
@@ -21460,7 +21460,7 @@ translate pt_br explore_slums2_e505717b_1:
 translate pt_br explore_slums2_aec640ee:
 
     # cook "*sigh*... Of course, two miso bowls, coming up. On the house..."
-    cook "*suspiro* É claro, duas tigelas de missô, chegando. Por conta da casa..."
+    cook "*ugh* É claro, duas tigelas de missô, chegando. Por conta da casa..."
 
 # game/script.rpy:11475
 translate pt_br explore_slums2_98fa4d96:
@@ -21592,7 +21592,7 @@ translate pt_br explore_slums2_0d795a8f:
 translate pt_br explore_slums2_d01b728e:
 
     # q "*sigh*, nothing really. Just the same old bullshit... I gave the customer the wrong order again, and the customer threw a fit, again. I had to clean the mayo off the ceiling..."
-    q "*suspiro*, na verdade nada. Só a mesma merda de sempre... Eu entreguei o pedido errado para o cliente de novo, e o cliente surtou, de novo. Eu tive que limpar a maionese do teto..."
+    q "*ugh*, na verdade nada. Só a mesma merda de sempre... Eu entreguei o pedido errado para o cliente de novo, e o cliente surtou, de novo. Eu tive que limpar a maionese do teto..."
 
 # game/script.rpy:11503
 translate pt_br explore_slums2_b5d521ee:
@@ -21628,7 +21628,7 @@ translate pt_br explore_slums2_38844c6c:
 translate pt_br explore_slums2_8c00f2e4:
 
     # q "Yes...\n*sigh*, I'm sorry, I'm just annoyed... Can I have a bowl?"
-    q "Sim...\n*suspiro*, me desculpe, eu só estou chateado. Eu posso pegar uma tijela?"
+    q "Sim...\n*ugh*, me desculpe, eu só estou chateado. Eu posso pegar uma tijela?"
 
 # game/script.rpy:11511
 translate pt_br explore_slums2_337f9d0c:
@@ -22114,7 +22114,7 @@ translate pt_br explore_slums1_c9a614a2:
 translate pt_br explore_slums1_4d22da99:
 
     # c "{i}*sigh*, I really hope I don't have to dig around in that.{/i}"
-    c "{i}*suspiro*, eu espero que eu não precise ficar cavando nisso.{/i}"
+    c "{i}*ugh*, eu espero que eu não precise ficar cavando nisso.{/i}"
 
 # game/script.rpy:11631
 translate pt_br explore_slums1_7bd3f6a7:
@@ -22318,7 +22318,7 @@ translate pt_br explore_slums1_b81f1f46:
 translate pt_br explore_slums1_fd680964:
 
     # c "*sigh*..."
-    c "*suspiro*..."
+    c "*ugh*..."
 
 # game/script.rpy:11684
 translate pt_br explore_slums1_c83cf81a:
@@ -25840,7 +25840,7 @@ translate pt_br sylkitchenchoice_1efaaced:
 translate pt_br sylkitchenchoice_69913d27:
 
     # syl "*sigh*, fine... your bunk is spotless now Nia! Enjoy..."
-    syl "*suspiro*, tá... sua beliche está impecável agora Nia! Aproveite..."
+    syl "*ugh*, tá... sua beliche está impecável agora Nia! Aproveite..."
 
 # game/script.rpy:13685
 translate pt_br sylkitchenchoice_bd9f4b17:
@@ -26686,7 +26686,7 @@ translate pt_br kitchen_f4877c24:
 translate pt_br kitchen_5c5ca2d1:
 
     # l "*sigh*..."
-    l "*suspiro*..."
+    l "*ugh*..."
 
 # game/script.rpy:14029
 translate pt_br kitchen_79597bf4:
@@ -27088,7 +27088,7 @@ translate pt_br kitchen_a812886a:
 translate pt_br kitchen_c5d5e59f:
 
     # l "*sigh*... I still need to get used to the stove... Sorry [linoname]..."
-    l "*suspiro*... Eu aind preciso me acostumar a usar o forno... Desculpa [linoname]..."
+    l "*ugh*... Eu aind preciso me acostumar a usar o forno... Desculpa [linoname]..."
 
 # game/script.rpy:14146
 translate pt_br kitchen_c4470586:
@@ -29464,7 +29464,7 @@ translate pt_br yourroom_aa068ac4:
 translate pt_br yourroom_28285573:
 
     # a "*GAAAASP*! *COUGH*! *COUGH* *COUGH*!" with ssshake
-    a "*ESPAAAANTO*! *COF*! *COF*! *COF*!" with ssshake
+    a "*UUUURGH*! *COF*! *COF*! *COF*!" with ssshake
 
 # game/script.rpy:15502
 translate pt_br yourroom_ae6cf9c7:
@@ -29680,7 +29680,7 @@ translate pt_br yourroom_0d13e130:
 translate pt_br yourroom_27ab32b2:
 
     # au "*sigh*... Look, what I'm trying to say is... it's okay for you to touch your penis."
-    au "*suspiro*... Olha, o que estou tentando dizer é... está tudo bem para você tocar seu pênis."
+    au "*ugh*... Olha, o que estou tentando dizer é... está tudo bem para você tocar seu pênis."
 
 # game/script.rpy:15626
 translate pt_br yourroom_0bce799b:
@@ -31042,7 +31042,7 @@ translate pt_br yourroom_dfba945c:
 translate pt_br yourroom_773fc629:
 
     # k "*sigh*... I just want to pass out... it's been a long day..."
-    k "*suspiro*... Eu só quero apagar logo... tem sido um longo dia..."
+    k "*ugh*... Eu só quero apagar logo... tem sido um longo dia..."
 
 # game/script.rpy:16107
 translate pt_br yourroom_f532a6a3:
@@ -31510,7 +31510,7 @@ translate pt_br yourroomcontinued_2ec38837:
 translate pt_br yourroomcontinued_726ecd76:
 
     # k "[name]? Hey... *sigh*, you have no idea how rough my day has been..."
-    k "[name]? Ei... *suspiro*, você não faz ideia do quanto meu dia está sendo difícil..."
+    k "[name]? Ei... *ugh*, você não faz ideia do quanto meu dia está sendo difícil..."
 
 # game/script.rpy:16435
 translate pt_br yourroomcontinued_f80627b2:
@@ -31564,7 +31564,7 @@ translate pt_br yourroomcontinued_772d3c0f:
 translate pt_br yourroomcontinued_f67223eb:
 
     # k "*sigh*... yeah, actually... I ran out of change like an hour ago, and I need energy drinks to stay awake. I would love it if you could bring a few Syls for the vending machines."
-    k "*suspiro* sim, na verdade... Eu fiquei sem trocados a uma hora atrás, e eu preciso de energéticos pra ficar acordada. Eu adoraria se você pudessse me trazer alguns Syls para as máquinas de vendas."
+    k "*ugh* sim, na verdade... Eu fiquei sem trocados a uma hora atrás, e eu preciso de energéticos pra ficar acordada. Eu adoraria se você pudessse me trazer alguns Syls para as máquinas de vendas."
 
 # game/script.rpy:16444
 translate pt_br yourroomcontinued_e34ab5d5:
@@ -32849,7 +32849,7 @@ translate pt_br bot_sick_2c01a666:
 translate pt_br bot_sick_5869c9b5:
 
     # bot "*sigh*... well, that's good news..."
-    bot "*suspiro*... bem, essas são boas notícias..."
+    bot "*ugh*... bem, essas são boas notícias..."
 
 # game/script.rpy:17486
 translate pt_br bot_sick_ebc5beae:
@@ -33245,7 +33245,7 @@ translate pt_br bot_sick_d634c6bd:
 translate pt_br bot_sick_18aba11d:
 
     # bot "What is that, sweetie?"
-    bot "QUe ideia, querido?"
+    bot "Que ideia, querido?"
 
 # game/script.rpy:17578
 translate pt_br bot_sick_0cd001d3:
@@ -33299,7 +33299,7 @@ translate pt_br bot_sick_8e391712:
 translate pt_br bot_sick_0b3509d2:
 
     # ally "Um, excuse me, but who made you?"
-    ally "Hu, com licença, mas quem fez você?"
+    ally "Hum, com licença, mas quem fez você?"
 
 # game/script.rpy:17589
 translate pt_br bot_sick_739b74ad:
@@ -33563,7 +33563,7 @@ translate pt_br bot_sick_f65d1021:
 translate pt_br bot_sick_261ea140:
 
     # l "I'm sure you'll pick it up in no time at all~\nCome on, I'm almost ready to put it in the oven!"
-    l "Eu tenho certeza que você não vai demorar nada para aprender~\Vem cá, estou quase pronta para colocar ele no forno!"
+    l "Eu tenho certeza que você não vai demorar nada para aprender~\Vem cá, estou quase pronta para colocar o bolo no forno!"
 
 # game/script.rpy:17647
 translate pt_br bot_sick_7bd5e9dc_3:
@@ -33671,7 +33671,7 @@ translate pt_br bot_sick_db65a283:
 translate pt_br bot_sick_a6fac281:
 
     # l "[name] will feel it when he eats it. Until then, we just have to try our best okay?"
-    l "O [name] vai sentir quando ele comer. Até lá, nós precisamos só fazer o nosso melhor, tá bom?"
+    l "O [name] vai sentir quando comer. Até lá, nós precisamos só fazer o nosso melhor, tá bom?"
 
 # game/script.rpy:17667
 translate pt_br bot_sick_f7d31a16:
@@ -33899,7 +33899,7 @@ translate pt_br bot_sick_33bc5910:
 translate pt_br bot_sick_3ff06e7e:
 
     # bot "If you don't leave, I'm dragging you out! He needs to get some rest."
-    bot "SE você não sair, eu vou te arrastar pra fora! Ele precisa descansar."
+    bot "Se você não sair, eu vou te arrastar pra fora! Ele precisa descansar."
 
 # game/script.rpy:17717
 translate pt_br bot_sick_9102b764:
@@ -34049,7 +34049,7 @@ translate pt_br bot_sick_c427c7bf:
 translate pt_br bot_sick_44476dd9:
 
     # l "Of course.\nWell, only a little. I only knew him for a few weeks."
-    l "É claro.\nBEm, só um pouco. Eu só estive com ele por algumas semanas."
+    l "É claro.\nBem, só um pouco. Eu só estive com ele por algumas semanas."
 
 # game/script.rpy:17752
 translate pt_br bot_sick_d4bab0f3:
@@ -34073,7 +34073,7 @@ translate pt_br bot_sick_1efad645:
 translate pt_br bot_sick_6694cf5d:
 
     # bot "Lin, I only knew him for a few hours..."
-    bot "Lin, eu só conheci ele por algumas horas..."
+    bot "Lin, eu só o conheci por algumas horas..."
 
 # game/script.rpy:17757
 translate pt_br bot_sick_6b342fbf:
@@ -34097,7 +34097,7 @@ translate pt_br bot_sick_fa579fa3:
 translate pt_br bot_sick_42be09b9:
 
     # bot "...So, I'd really like to know about him."
-    bot "...Entãp, eu realmente gostaria de saber como ele era."
+    bot "...Então, eu realmente gostaria de saber como ele era."
 
 # game/script.rpy:17762
 translate pt_br bot_sick_615ff3a5:
@@ -34115,7 +34115,7 @@ translate pt_br bot_sick_71a80f99:
 translate pt_br bot_sick_86a5f5ea:
 
     # ally "{size=-5}{i}His grandpa was your creator?{/i}{/size}"
-    ally "{size=-5}{i}O vovô dele que cripu você?{/i}{/size}"
+    ally "{size=-5}{i}O vovô dele que criou você?{/i}{/size}"
 
 # game/script.rpy:17766
 translate pt_br bot_sick_5c2a0212:
@@ -34295,7 +34295,7 @@ translate pt_br bot_sick_9440c55b:
 translate pt_br bot_sick_b3d89c6a:
 
     # bot "*sigh*, Ally probably wants to play some game... I'll get it back for you."
-    bot "**, Ally provavelmente está querendo fazer alguma brincadeira... Eu vou pegar de volta para você."
+    bot "*ugh*, Ally provavelmente está querendo fazer alguma brincadeira... Eu vou pegar de volta para você."
 
 # game/script.rpy:17804
 translate pt_br bot_sick_cf6b14a0:
@@ -34415,7 +34415,7 @@ translate pt_br bot_sick_5bc4f49d:
 translate pt_br bot_sick_c0f20b4c:
 
     # bot "Did Ally just...?"
-    bot "O Ally acabou de...?"
+    bot "Ally acabou de...?"
 
 # game/script.rpy:17840
 translate pt_br bot_sick_5824abd4:
@@ -34511,7 +34511,7 @@ translate pt_br bot_sick_c400ad79:
 translate pt_br bot_sick_3640bbbb:
 
     # c "...*sigh*..."
-    c "...**..."
+    c "...*ugh*..."
 
 # game/script.rpy:17864
 translate pt_br bot_sick_d45bd050_1:
@@ -34601,7 +34601,7 @@ translate pt_br bot_sick_12d121e4:
 translate pt_br bot_sick_593696cc:
 
     # bot "Last chance! If you don't come here in 3 seconds, you're grounded!"
-    bot "Última chance! SE você não vier aqui em 3 segundos, você fica de castigo!"
+    bot "Última chance! Se você não vier aqui em 3 segundos, você fica de castigo!"
 
 # game/script.rpy:17888
 translate pt_br bot_sick_6f1c2e76_4:
@@ -34637,13 +34637,13 @@ translate pt_br bot_sick_a55cffd4:
 translate pt_br bot_sick_e0464612:
 
     # bot "FOUND YOU!" with ssshake
-    bot "TE ACHEI!" with ssshake
+    bot "ACHEI!" with ssshake
 
 # game/script.rpy:17900
 translate pt_br bot_sick_d41b4b0e:
 
     # ally "*sniff*, nnh..."
-    ally "**, nnh..."
+    ally "*sniff*, nnh..."
 
 # game/script.rpy:17901
 translate pt_br bot_sick_1490d166:
@@ -34775,7 +34775,7 @@ translate pt_br bot_sick_5e8c2489:
 translate pt_br bot_sick_29968fa8:
 
     # ally "You're just like me though, so you'll be there too, right?"
-    ally "MAs você é igual a mim, então você vai estar lá também, né?"
+    ally "Mas você é igual a mim, então você vai estar lá também, né?"
 
 # game/script.rpy:17927
 translate pt_br bot_sick_8341fd10:
@@ -34877,7 +34877,7 @@ translate pt_br bot_sick_0a1449d4:
 translate pt_br bot_sick_eb3f131c:
 
     # bot "You still want to? Of course!"
-    bot "Voc~e ainda quer? É claro!"
+    bot "Você ainda quer? É claro!"
 
 # game/script.rpy:17949
 translate pt_br bot_sick_2c694e69:
@@ -34924,595 +34924,595 @@ translate pt_br bot_sick_98d3db8e:
 translate pt_br bot_sick_e934e62b:
 
     # ally "Here you go~"
-    ally ""
+    ally "Aqui está~"
 
 # game/script.rpy:17963
 translate pt_br bot_sick_400546db:
 
     # c "Oh, cake?"
-    c ""
+    c "Ah, bolo?"
 
 # game/script.rpy:17964
 translate pt_br bot_sick_a7a0664c:
 
     # ally "I helped!\nI'm really good at breaking the eggs, and even better at taking the little shell pieces out of the bowl!"
-    ally ""
+    ally "Eu ajudei!\Eu sou muito bom em quebrar os ovos, e melhor ainda em tirar dos pedacinhos de dentro da tijela!"
 
 # game/script.rpy:17965
 translate pt_br bot_sick_a9a90675:
 
     # c "Thank you, everyone."
-    c ""
+    c "Obrigado, todo mundo."
 
 # game/script.rpy:17967
 translate pt_br bot_sick_a310de56:
 
     # bot "Open up~"
-    bot ""
+    bot "Abre a boca~"
 
 # game/script.rpy:17968
 translate pt_br bot_sick_10e56c25:
 
     # ally "How is it? How is it?\nDo you feel better yet? Do you taste the love? I put in extra just for you!"
-    ally ""
+    ally "O que achou? O que achou?\nVocê já está melhor? Sentiu o gosto do amor? Eu coloquei ainda mais só pra você!"
 
 # game/script.rpy:17970
 translate pt_br bot_sick_cf4d52ec:
 
     # c "I do! Thank you."
-    c ""
+    c "Eu senti sim! Obrigado."
 
 # game/script.rpy:17971
 translate pt_br bot_sick_a4b72f26:
 
     # ally "*gasp*! It really worked, Ms. Lin!"
-    ally ""
+    ally "*aaah*! Fuhncionou mesmo, Sra. Lin!"
 
 # game/script.rpy:17972
 translate pt_br bot_sick_7f41b8a7:
 
     # l "Good job~"
-    l ""
+    l "Bom trabalho~"
 
 # game/script.rpy:17973
 translate pt_br bot_sick_cd05f556:
 
     # ally "Get well soon!!"
-    ally ""
+    ally "Melhora logo!!"
 
 # game/script.rpy:17987
 translate pt_br bot_connect_582d01f8:
 
     # c "Hey, there you are [botname]."
-    c ""
+    c "Ei, você está ai [botname]."
 
 # game/script.rpy:17988
 translate pt_br bot_connect_aec79c58:
 
     # a "Hi [name]~"
-    a ""
+    a "Oi [name]~"
 
 # game/script.rpy:17989
 translate pt_br bot_connect_2baf9d6b:
 
     # bot "[botown]! I'm so glad you're here! Ally is about to be transferred into the new frame, would you like to watch?"
-    bot ""
+    bot "[botown]! Eu estou muito feliz que você esteja bem! Ally vai ser transferido para o próximo plano, você quer assistir?"
 
 # game/script.rpy:17990
 translate pt_br bot_connect_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Com certeza."
 
 # game/script.rpy:17991
 translate pt_br bot_connect_d4004842:
 
     # bot "Come here, come here!"
-    bot ""
+    bot "Vem aqui, vem aqui!"
 
 # game/script.rpy:17993
 translate pt_br bot_connect_955f930e:
 
     # bot "I've already prepared Ally mentally, all that's left is the file transfer!"
-    bot ""
+    bot "Eu já preparei Ally mentalmente, a única coisa que falta é a transferência de arquivos!"
 
 # game/script.rpy:17994
 translate pt_br bot_connect_14c4ccab:
 
     # c "I thought you were doing that."
-    c ""
+    c "Eu pensei que você estava fazendo isso."
 
 # game/script.rpy:17995
 translate pt_br bot_connect_18dfe793:
 
     # bot "Yeah, I tried, but it turns out it's impossible for me to do it by myself... I'm still figuring this all out, I'm a new mother after all."
-    bot ""
+    bot "Sim, eu tentei, mas acabou que é impossível eu fazer isso por mim mesma... Eu ainda estou pesquisando tudo isso ainda, ainda sou uma mãe nova, de qualquer jeito."
 
 # game/script.rpy:17996
 translate pt_br bot_connect_ef636ad6:
 
     # bot "Kali could explain it better."
-    bot ""
+    bot "A Kali poderia explicar isso melhor."
 
 # game/script.rpy:17997
 translate pt_br bot_connect_8a992a5f:
 
     # k "She basically tried transfering a file between a microwave and a fridge. It doesn't really work at all... you need a computer."
-    k ""
+    k "Ela basicamente tentou transferir um arquivo entre um microondas e uma geladeira. No fim das contas, não funcionou de jeito nenhum... você precisaria de um computador."
 
 # game/script.rpy:17998
 translate pt_br bot_connect_b8ff2e19:
 
     # bot "Yeah, what she said. I couldn't get Ally's old model to connect to the new one at all."
-    bot ""
+    bot "Isso, é o que ela disse. Eu não consegui fazer o modelo antigo de Ally se conectar ao novo de jeito nenhum."
 
 # game/script.rpy:18000
 translate pt_br bot_connect_38b7a576:
 
     # k "Alright, everything is ready on my end. How about you two?"
-    k ""
+    k "Tudo bem, da minha parte já está tudo pronto. E quanto a vocês dois?"
 
 # game/script.rpy:18001
 translate pt_br bot_connect_17ba6056:
 
     # ally "Bark!"
-    ally ""
+    ally "Au au!"
 
 # game/script.rpy:18002
 translate pt_br bot_connect_dba2d1ea:
 
     # bot "We're ready! Um, how long should it take?"
-    bot ""
+    bot "Nós estamos prontos! Hum, quanto tempo isso deve levar?"
 
 # game/script.rpy:18003
 translate pt_br bot_connect_2ce97035:
 
     # k "Just a few seconds, Ally isn't that big yet."
-    k ""
+    k "Só uns segundos, Ally ainda não é tão grande."
 
 # game/script.rpy:18004
 translate pt_br bot_connect_fa68dacd:
 
     # k "*click* \nAlright, the transfer has begun."
-    k ""
+    k "*click* \nTudo bem, a transferência começou."
 
 # game/script.rpy:18006
 translate pt_br bot_connect_25b01218:
 
     # ally "Bark Ba-"
-    ally ""
+    ally "Au A-"
 
 # game/script.rpy:18008
 translate pt_br bot_connect_6f1c2e76:
 
     # ally "..."
-    ally ""
+    ally "..."
 
 # game/script.rpy:18010
 translate pt_br bot_connect_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:18012
 translate pt_br bot_connect_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:18013
 translate pt_br bot_connect_3d18f86f:
 
     # bot "...?"
-    bot ""
+    bot "...?"
 
 # game/script.rpy:18015
 translate pt_br bot_connect_43435939:
 
     # bot "Um, Kali?"
-    bot ""
+    bot "Hum, Kali?"
 
 # game/script.rpy:18016
 translate pt_br bot_connect_010c1206:
 
     # k "Just give it a second."
-    k ""
+    k "Só espera um pouco."
 
 # game/script.rpy:18018
 translate pt_br bot_connect_d3867478:
 
     # bot "Kali, nothing is happening!"
-    bot ""
+    bot "Kali, não tem nada acontecendo!"
 
 # game/script.rpy:18019
 translate pt_br bot_connect_8757cc32:
 
     # k "Relax, It's just- \nUh-oh..."
-    k ""
+    k "Relaxa, é só-\nUh-oh..."
 
 # game/script.rpy:18020
 translate pt_br bot_connect_c8b78afc:
 
     # bot "Uh-oh!?"
-    bot ""
+    bot "Uh-oh!?"
 
 # game/script.rpy:18021
 translate pt_br bot_connect_32251868:
 
     # a "Kali, what do you mean uh-oh!?"
-    a ""
+    a "Kali, o que você quer dizer"
 
 # game/script.rpy:18022
 translate pt_br bot_connect_c7eb7abf:
 
     # k "Um, nothing nothing! It's just my computer, it's not responding."
-    k ""
+    k "Hum, nada, nada! É só o meu computador, ele não está respondendo."
 
 # game/script.rpy:18024
 translate pt_br bot_connect_8d4b8273:
 
     # bot "Kali, f-fix it!"
-    bot ""
+    bot "Kali. a-arruma isso!"
 
 # game/script.rpy:18025
 translate pt_br bot_connect_eb88c25b:
 
     # k "I don't know what you want me to do!"
-    k ""
+    k "Eu não sei o que você quer que eu faça!"
 
 # game/script.rpy:18026
 translate pt_br bot_connect_886d73e3:
 
     # bot "Anything! Just- nnnh! Haah! Fuck, fuck, fuck...!"
-    bot ""
+    bot "Qualquer coisa! Só- nnnh! Haah! Porra, porra, porra...!"
 
 # game/script.rpy:18027
 translate pt_br bot_connect_d186c02a:
 
     # k "I can't even open the task manager..."
-    k ""
+    k "Eu não consigo abrir nem o gerenciador de tarefas..."
 
 # game/script.rpy:18028
 translate pt_br bot_connect_24029139:
 
     # bot "Kali! What's going on!? Nnnh!"
-    bot ""
+    bot "Kali! O que está acontecendo!? Nnnh!"
 
 # game/script.rpy:18029
 translate pt_br bot_connect_4bdcdb5a:
 
     # c "[botname], what are you doing?"
-    c ""
+    c "[botname], o que você está fazendo?"
 
 # game/script.rpy:18030
 translate pt_br bot_connect_5ee62378:
 
     # bot "What!?"
-    bot ""
+    bot "O quê!?"
 
 # game/script.rpy:18032
 translate pt_br bot_connect_4c462066:
 
     # bot "Oh, I... I don't know. \n{size=-5}{i}What am I doing...?{/i}{/size}"
-    bot ""
+    bot "Ah, eu... eu não sei. \n{size=-5}{i}O que estou fazendo...{/i}{/size}"
 
 # game/script.rpy:18033
 translate pt_br bot_connect_1ec453ef:
 
     # a "It's okay, [botname]. Just try to calm down a little... we can only wait."
-    a ""
+    a "Está tudo bem, [botname]. Só tenta se acalmar um pouco... a única coisa que podemos fazer é esperar."
 
 # game/script.rpy:18035
 translate pt_br bot_connect_396928bc:
 
     # bot "Okay...\nYou can do this, Ally... you can do this..."
-    bot ""
+    bot "Tá bom...\nVocê consegue fazer isso Ally... você consegue fazer isso..."
 
 # game/script.rpy:18037
 translate pt_br bot_connect_1eacedf6:
 
     # k "I don't know why this is happening. This shouldn't be happening..."
-    k ""
+    k "Eu não sei por que isso está acontecendo. Isso não devia estar acontecendo..."
 
 # game/script.rpy:18039
 translate pt_br bot_connect_cb25b374:
 
     # ally "W-W-W-W-WOW!" with sshake
-    ally "" with sshake
+    ally "U-U-U-U-UAU!" with sshake
 
 # game/script.rpy:18041
 translate pt_br bot_connect_d56d0f79:
 
     # ally "Heheh, that felt weird!{w}\nHey, I can talk now!{w}\nAND I have hands!? This is awesome!"
-    ally ""
+    ally "Heheh, isso foi estranho!{w}\Ei, eu consigo falar agora!{w}\nE eu tenho mãos!? Isso é incrível!"
 
 # game/script.rpy:18043
 translate pt_br bot_connect_4416dbac:
 
     # bot "My baby! You're okay!"
-    bot ""
+    bot "Meu bebê! Você está bem!"
 
 # game/script.rpy:18044
 translate pt_br bot_connect_d5f57b44:
 
     # ally "NNNGH! Agh!" with ssshake
-    ally "" with ssshake
+    ally "NNNGH" with ssshake
 
 # game/script.rpy:18045
 translate pt_br bot_connect_7272f72e:
 
     # k "{size=-10}{i}Phew, I was starting to get scared...{/i}{/size}"
-    k ""
+    k "{size=-10}{i}Ufa, eu estava começando a ficar assustada...{/i}{/size}"
 
 # game/script.rpy:18046
 translate pt_br bot_connect_b3b611cb:
 
     # bot "What happened? I was so worried about you! You scared me so much!"
-    bot ""
+    bot "O que aconteceu? Eu estava ficando preocupada com você! Você me assustou tanto!"
 
 # game/script.rpy:18047
 translate pt_br bot_connect_1cbd0a41:
 
     # ally "Mommy, you're squeezing my frame too hard!"
-    ally ""
+    ally "Mamãe, você está apertando meu plano muito forte!"
 
 # game/script.rpy:18049
 translate pt_br bot_connect_4547525f:
 
     # bot "{i}'Mommy'?{/i}"
-    bot ""
+    bot "{i}'Mamãe'?{/i}"
 
 # game/script.rpy:18050
 translate pt_br bot_connect_7700779b:
 
     # ally "That's you, isn't it?"
-    ally ""
+    ally "É isso você, né?"
 
 # game/script.rpy:18052
 translate pt_br bot_connect_7845fb6c:
 
     # bot "Yes! I'm Mommy!" with ssshake
-    bot "" with ssshake
+    bot "Sim! Eu sou a Mamãe!" with ssshake
 
 # game/script.rpy:18053
 translate pt_br bot_connect_f9249b0d:
 
     # ally "HNNGH!"
-    ally ""
+    ally "HNNGH!"
 
 # game/script.rpy:18054
 translate pt_br bot_connect_75565bf5:
 
     # a "Hehe, aww..."
-    a ""
+    a "Hehe, ownt..."
 
 # game/script.rpy:18056
 translate pt_br bot_connect_91ab3f58:
 
     # bot "Do you remember who that is, Ally?"
-    bot ""
+    bot "Você se lembra quem é essa, Ally?"
 
 # game/script.rpy:18057
 translate pt_br bot_connect_28571dc9:
 
     # ally "Ummmm..."
-    ally ""
+    ally "Hummmm..."
 
 # game/script.rpy:18059
 translate pt_br bot_connect_021a5690:
 
     # ally "Ashley! Yes, hello Ashley!"
-    ally ""
+    ally "Ashley! Sim, oi Ashley!"
 
 # game/script.rpy:18060
 translate pt_br bot_connect_2c2f9ec8:
 
     # a "*gasp*! Hello!"
-    a ""
+    a "*ah*! Oi!"
 
 # game/script.rpy:18061
 translate pt_br bot_connect_9579ef4a:
 
     # k "Looks like the transfer went off without an issue then..."
-    k ""
+    k "Parece que a transferência aconteceu sem nenhum problema então..."
 
 # game/script.rpy:18063
 translate pt_br bot_connect_7df72ce5:
 
     # ally "And you're Kali! Hello Kali!"
-    ally ""
+    ally "E você é a Kali! Oi Kali!"
 
 # game/script.rpy:18064
 translate pt_br bot_connect_79a01a02:
 
     # k "Yeah, hey buddy."
-    k ""
+    k "Isso, eae carinha."
 
 # game/script.rpy:18065
 translate pt_br bot_connect_4a811a8f:
 
     # bot "What do we say to people who do nice things for us, Ally?"
-    bot ""
+    bot "O que dizemos para as pessoas que fazem coisas boas pra nós, Ally?"
 
 # game/script.rpy:18067
 translate pt_br bot_connect_e78bddf6:
 
     # ally "Thank you!"
-    ally ""
+    ally "Obrigado!"
 
 # game/script.rpy:18068
 translate pt_br bot_connect_630c5ad3:
 
     # bot "That's right~"
-    bot ""
+    bot "Isso mesmo~"
 
 # game/script.rpy:18069
 translate pt_br bot_connect_d753e487:
 
     # k "Oh, a hug? Thanks."
-    k ""
+    k "Ah, um abraço? Obrigada."
 
 # game/script.rpy:18070
 translate pt_br bot_connect_97434672:
 
     # a "{size=-5}{i}Aww, I want a hug...{/i}{/size}"
-    a ""
+    a "{size=-}{i}Ownt, eu quero um abraço...{/i}{/size}"
 
 # game/script.rpy:18072
 translate pt_br bot_connect_1a5b05f5:
 
     # ally "Okay! Heheh!"
-    ally ""
+    ally "Tudo bem! Heheh!"
 
 # game/script.rpy:18073
 translate pt_br bot_connect_a1f35fa3:
 
     # a "*gasp*! Awwww~! You're so cute!"
-    a ""
+    a "*ah*! Ownnnnt~! Você é tão fofo!"
 
 # game/script.rpy:18075
 translate pt_br bot_connect_c8053319:
 
     # ally "Hello! And you're-"
-    ally ""
+    ally "Oi! E você é-"
 
 # game/script.rpy:18077
 translate pt_br bot_connect_e5cc0811:
 
     # ally "Wait... who is that, Mommy?"
-    ally ""
+    ally "Espera... quem é esse, Mamãe?"
 
 # game/script.rpy:18078
 translate pt_br bot_connect_abe430ce:
 
     # bot "Oh, um..."
-    bot ""
+    bot "Ah, hum..."
 
 # game/script.rpy:18079
 translate pt_br bot_connect_d545cf8d:
 
     # c "Ally doesn't know who I am?"
-    c ""
+    c "O Ally não sabe quem eu sou?"
 
 # game/script.rpy:18080
 translate pt_br bot_connect_8befffd9:
 
     # bot "Sorry... but you understand, don't you? I reconfigured Ally's memories last night, and many of them were, well... \n...And Ally is still so young, so..."
-    bot ""
+    bot "Desculpa.. mas você entende, não é? Eu reconfigurei as memórias de Ally na noite passada, e muias delas foram, bem... \nE Ally ainda é bem novo, então..."
 
 # game/script.rpy:18081
 translate pt_br bot_connect_0edff38a:
 
     # c "Oh, I understand."
-    c ""
+    c "Ah, eu entendo."
 
 # game/script.rpy:18082
 translate pt_br bot_connect_fcf5bf69:
 
     # ally "You're, um..."
-    ally ""
+    ally "Você é, hum..."
 
 # game/script.rpy:18084
 translate pt_br bot_connect_a7289135:
 
     # ally "You're a friend! That's right! You're very friendly, I remember!"
-    ally ""
+    ally "Você é um amigo! É isso! Você é bem amigável, eu lembro!"
 
 # game/script.rpy:18085
 translate pt_br bot_connect_53645f63:
 
     # bot "Good job, Ally! His name is [name]. He's my favorite friend!"
-    bot ""
+    bot "Bom trabalho, Ally! o nome dele é [name]. Ele é o meu amigo favorito!"
 
 # game/script.rpy:18086
 translate pt_br bot_connect_901f5eaf:
 
     # ally "Hello [name]!"
-    ally ""
+    ally "Oi [name]!"
 
 # game/script.rpy:18088
 translate pt_br bot_connect_38c12152:
 
     # bot "You'll be able to make new memories with Ally, don't be too upset... I just want them to discover the world by themselves."
-    bot ""
+    bot "Você vai poder criar memórias novas com o Ally, não fique muito chateado... Eu só quero que el descubra o mundo por sí mesmo..."
 
 # game/script.rpy:18089
 translate pt_br bot_connect_e1a8877d:
 
     # c "It's fine. It seems like Ally has some memory of me at least."
-    c ""
+    c "Está tudo bem. Parece que Ally ainda se lembra pelo menos de alguma coisa."
 
 # game/script.rpy:18090
 translate pt_br bot_connect_00af50c0:
 
     # bot "Yes, I tried to keep as much as I could."
-    bot ""
+    bot "Sim, eu tentei mantter o máximo que pude."
 
 # game/script.rpy:18091
 translate pt_br bot_connect_dd7420d7:
 
     # bot "Hey, what do you think about taking Ally to the park? Ally needs to see the outside world, and they should socialize sooner rather than later. I think that was one of my bigger mistakes..."
-    bot ""
+    bot "Ei, o que você acha de levar Ally ao parque? Ally precisa ver o mundo afora, e precisa socializar o mais cedo possível. Eu acho que esse foi um dos meus maiores erros... "
 
 # game/script.rpy:18092
 translate pt_br bot_connect_1d2fa247:
 
     # c "That sounds great."
-    c ""
+    c "Isso parece ótimo."
 
 # game/script.rpy:18094
 translate pt_br bot_connect_2c3b1743:
 
     # bot "Hey Ally! Want to go to the park? Mommy's favorite friend will join us."
-    bot ""
+    bot "Ei Ally! Quer ir ao parque? O amigo favorito da mamãe também vai com a gente."
 
 # game/script.rpy:18095
 translate pt_br bot_connect_7bd5e9dc:
 
     # ally "Okay!"
-    ally ""
+    ally "Tá bom!"
 
 # game/script.rpy:18096
 translate pt_br bot_connect_6c8bac2d:
 
     # bot "Come here, grab my hand."
-    bot ""
+    bot "Vem cá, segura a minha mão."
 
 # game/script.rpy:18098
 translate pt_br bot_connect_b2d04054:
 
     # ally "Where is the park?"
-    ally ""
+    ally "Onde é o parque?"
 
 # game/script.rpy:18099
 translate pt_br bot_connect_38cc77ff:
 
     # bot "We've been there before, don't you remember?"
-    bot ""
+    bot "Nós já estivemos lá antes, não se lembra?"
 
 # game/script.rpy:18100
 translate pt_br bot_connect_5a2f7d42:
 
     # ally "Oh, maybe."
-    ally ""
+    ally "Ah, talvez."
 
 # game/script.rpy:18101
 translate pt_br bot_connect_dd01fef6:
 
     # a "Goodbye Ally! Have a good time! Tell me all about it when you get back!"
-    a ""
+    a "Tchau Ally! Divirta-se! E me conte sobre quando você voltar!"
 
 # game/script.rpy:18102
 translate pt_br bot_connect_744d34fb:
 
     # ally "Okay! \nBye-bye Dr.Kali!\nBye-bye Auntie Ashley!"
-    ally ""
+    ally "Tá bom! \nTchau-tchau Dra. Kali! Tchau-tchau Tia Ashley!"
 
 # game/script.rpy:18104
 translate pt_br bot_connect_36d0f774:
 
     # a "*GASP*!\n{i}(Did Ally is just call me Auntie!?){/i}"
-    a ""
+    a "*AHH*!\n{i}(O Ally acabou de me chamar de tia!?){/i}"
 
 # game/script.rpy:18106
 translate pt_br bot_connect_a551cd0c:
