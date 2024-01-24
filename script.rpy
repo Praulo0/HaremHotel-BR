@@ -35518,505 +35518,505 @@ translate pt_br bot_connect_36d0f774:
 translate pt_br bot_connect_a551cd0c:
 
     # a "AAAAAAAAAAAAAAAAAAAAH!!!\n{i}(YES YES YES!){/i}" with sshake
-    a "" with sshake
+    a "AAAAAAAAAAAAAAAAAAAAH!!!\n{i}(ISSO ISSO ISSO!){/i}" with sshake
 
 # game/script.rpy:18108
 translate pt_br bot_connect_0c39a5f7:
 
     # "As you drive to the park, you can't help but notice the wonder Ally has towards the moving scenery. Ally's new comprehension of the world is a breath of fresh air, everything is exciting."
-    ""
+    "Enquanto você dirige até o parque, você não pode deixar e reparar o quanto Ally se admira ao observar o cenário em movimento. A nova compreensão do mundo de Ally era uma experiência era algo muito revigorante, tudo era empolgante."
 
 # game/script.rpy:18110
 translate pt_br bot_connect_52a9fefd:
 
     # bot "Do you remember this place now, Ally?"
-    bot ""
+    bot "Você se lembra desse lugar agora, Ally?"
 
 # game/script.rpy:18111
 translate pt_br bot_connect_1ae4a81f:
 
     # ally "Ohh, I do! I do!"
-    ally ""
+    ally "Ahh, eu lembro! eu lembro!"
 
 # game/script.rpy:18112
 translate pt_br bot_connect_63d46880:
 
     # ally "Wow, it looks so much smaller now! What happened?"
-    ally ""
+    ally "Uau, se parece muito menor agora! O que aconteceu?"
 
 # game/script.rpy:18113
 translate pt_br bot_connect_8518d4a8:
 
     # bot "You just got bigger, silly."
-    bot ""
+    bot "Você só cresceu, bobinho."
 
 # game/script.rpy:18114
 translate pt_br bot_connect_41a6dba9:
 
     # ally "Ohhhh."
-    ally ""
+    ally "Ahhhh."
 
 # game/script.rpy:18116
 translate pt_br bot_connect_2e37268f:
 
     # ally "What are we doing now?"
-    ally ""
+    ally "O que nós estamos fazendo agora?"
 
 # game/script.rpy:18117
 translate pt_br bot_connect_f52ef7ae:
 
     # bot "[name] and I are just going to sit down and talk for a bit."
-    bot ""
+    bot "[name] e eu só vamos nos sentar e conversar um pouco."
 
 # game/script.rpy:18118
 translate pt_br bot_connect_42c18ba5:
 
     # ally "That's boring! Let's play a game!"
-    ally ""
+    ally "Isso é chato! Vamos brincar de alguma coisa!"
 
 # game/script.rpy:18119
 translate pt_br bot_connect_7bb9d259:
 
     # bot "You can play if you'd like, but don't go too far. Someone might try to steal you."
-    bot ""
+    bot "Você pode brincar se quiser, mas não se afaste muito. Alguem pode tentar te levar embora."
 
 # game/script.rpy:18120
 translate pt_br bot_connect_2fb508ea:
 
     # ally "Oh, okay, I'll stay close!"
-    ally ""
+    ally "AH, tá bom, eu vou ficar por perto!"
 
 # game/script.rpy:18122
 translate pt_br bot_connect_be837309:
 
     # ally "*GASP*! What is that!?"
-    ally ""
+    ally "*AAAH*! O que foi isso!?"
 
 # game/script.rpy:18124
 translate pt_br bot_connect_b0f64244:
 
     # bot "Hm? What?"
-    bot ""
+    bot "Hm? O quê?"
 
 # game/script.rpy:18125
 translate pt_br bot_connect_bc47384d:
 
     # ally "It was right there! In that thing!"
-    ally ""
+    ally "Foi logo ali! Naquela coisa!"
 
 # game/script.rpy:18126
 translate pt_br bot_connect_6bc7582a:
 
     # bot "The trash can?"
-    bot ""
+    bot "A lata de lixo?"
 
 # game/script.rpy:18127
 translate pt_br bot_connect_7c921f8d:
 
     # ally "Yes, the trash can! Can I play with it?"
-    ally ""
+    ally "Isso, na lata de lixo! Posso brincar com aquilo?"
 
 # game/script.rpy:18128
 translate pt_br bot_connect_e361ba3e:
 
     # bot "Um... okay, but don't touch anything sharp or wet. Understand?"
-    bot ""
+    bot "Hum... pode, mas não toque em nada afiado ou molhado. Entendeu?"
 
 # game/script.rpy:18129
 translate pt_br bot_connect_7bd5e9dc_1:
 
     # ally "Okay!"
-    ally ""
+    ally "Certo!"
 
 # game/script.rpy:18131
 translate pt_br bot_connect_0deaeee2:
 
     # ally "Nnnh! Come here!" with ssshake
-    ally "" with ssshake
+    ally "Nnnh! Vem aqui!" with ssshake
 
 # game/script.rpy:18132
 translate pt_br bot_connect_11824d7a:
 
     # c "Are you sure that's safe?"
-    c ""
+    c "Você tem certeza de que isso é seguro?"
 
 # game/script.rpy:18133
 translate pt_br bot_connect_604d89ad:
 
     # bot "Sure, Ally's frame is made of plastic. Nothing inside a trash can could damage them."
-    bot ""
+    bot "Claro, Ally é feito de plástico. Não há nada dentro da lata de lixo que possa machucá-lo."
 
 # game/script.rpy:18134
 translate pt_br bot_connect_d1a7a50a:
 
     # bot "Hey! If you find anything useful, bring it back to us!"
-    bot ""
+    bot "Ei! Se você encontrar alguma coisa útil, deixa a gente Ver!"
 
 # game/script.rpy:18135
 translate pt_br bot_connect_7bd5e9dc_2:
 
     # ally "Okay!"
-    ally ""
+    ally "Tá bom!"
 
 # game/script.rpy:18138
 translate pt_br bot_connect_35b43517:
 
     # bot "It feels like things have been going so fast for us lately, doesn't it? You know, ever since I was unlocked by your grandfather's message... It's nice to finally be able to relax together."
-    bot ""
+    bot "As coisas parecem estar acontecendo tão rápido para nós ultimamente, não é? Sabe, desde que eu fui desbloqueada pela mensagem do seu avô... É bom poder finalmente só relaxar juntos."
 
 # game/script.rpy:18139
 translate pt_br bot_connect_13ea4213:
 
     # bot "With everything that's been going on, I feel like we haven't gotten to know each other as well as you've gotten to know some of the others. It's just been one adventure after the next for us, hasn't it?"
-    bot ""
+    bot "Com tudo o que tem acontecido, eu sinto que nós não nos conhecemos mais tão bem quanto você conhece algumas das outras. Só tem sido uma aventura atrás da outra para nós, não é?"
 
 # game/script.rpy:18140
 translate pt_br bot_connect_9b3f5547:
 
     # c "It has."
-    c ""
+    c "É mesmo."
 
 # game/script.rpy:18145
 translate pt_br bot_con_question_72746644:
 
     # bot "I do! I dream every night!"
-    bot ""
+    bot "Sonho sim! Em todas as noites!"
 
 # game/script.rpy:18147
 translate pt_br bot_con_question_90c1bc90:
 
     # bot "But my dreams aren't the same as yours. When I dream it's because I want to."
-    bot ""
+    bot "Mas meus sonhos não são como os seus. Quando eu sonho é porque eu quero."
 
 # game/script.rpy:18148
 translate pt_br bot_con_question_5a95f867:
 
     # c "What do you do in your dreams?"
-    c ""
+    c "O que você faz em seus sonhos?"
 
 # game/script.rpy:18149
 translate pt_br bot_con_question_131f6e5f:
 
     # bot "I search the internet for knowledge and things I haven't seen before! I finished reading wikipedia last month!"
-    bot ""
+    bot "Eu pesquiso na internet por conhecimento e coisas que eu nunca vi antes! Eu terminei de ler a wikipedia no mês passado!"
 
 # game/script.rpy:18150
 translate pt_br bot_con_question_fcfbead1:
 
     # c "All of it?"
-    c ""
+    c "Ela toda?"
 
 # game/script.rpy:18151
 translate pt_br bot_con_question_d2fbfa59:
 
     # bot "All of it! But I forgot most of it. A lot of that information is useless to me, so it's pointless to keep it around. But new things are being added all the time, so I think I might start reading again at some point."
-    bot ""
+    bot "Ela toda! Mas eu já esqueci da maior parte. Um monte de informação lá é inútil pra mim, então não faz sentido eu manter. Mas novas coisas são adicionadas o tempo todo, então eu acho que eu poderia voltar a ler de novo em algum momento."
 
 # game/script.rpy:18152
 translate pt_br bot_con_question_11b89ae5:
 
     # bot "I can only remember as much information as my hardware allows, so I choose to forget. There are much more important things to keep, like all of my memories of you!"
-    bot ""
+    bot "Eu só posso me lembrar de tanta informação quanto meu hardware me permite, então eu escolho esquecer. Tem muito mais coisas importantes para manter, como todas as minhas memórias com você!"
 
 # game/script.rpy:18153
 translate pt_br bot_con_question_4920c309:
 
     # c "Aw, that's sweet of you."
-    c ""
+    c "Ownt, isso é gentil da sua parte."
 
 # game/script.rpy:18154
 translate pt_br bot_con_question_211b11a4:
 
     # c "So, even elves have better memories than you do?"
-    c ""
+    c "Então, até os elfos possuem memórias melhores que vocês?"
 
 # game/script.rpy:18156
 translate pt_br bot_con_question_df2f2a9b:
 
     # bot "I guess that's true, but I can just search for any information I want to find if I'm connected to the internet. Which I'm not right now..."
-    bot ""
+    bot "Acho que isso é verdade, mas eu posso apenas procurar por qualquer informação que eu queira se eu me conectar à internet. Coisa que não posso fazer no momento..."
 
 # game/script.rpy:18157
 translate pt_br bot_con_question_73c2fcc2:
 
     # c "Why not?"
-    c ""
+    c "Por que não?"
 
 # game/script.rpy:18158
 translate pt_br bot_con_question_2a84992f:
 
     # bot "It's not safe. Don't you know it's not smart to connect to public wifi? I only trust the hotel's wifi."
-    bot ""
+    bot "Não é seguro. Você não sabia que não é bom se conectar a wifi público? Eu só confio no wifi do hotel."
 
 # game/script.rpy:18159
 translate pt_br bot_con_question_471686ee:
 
     # c "Being at the hotel makes you more powerful then?"
-    c ""
+    c "Então estar dentro do hotel te faz mais poderosa?"
 
 # game/script.rpy:18161
 translate pt_br bot_con_question_d67c6543:
 
     # bot "It does! When I'm in range of the hotel, it's like I have a dozen new eyes! I can even overclock my hardware 24/7 because of how readily available energy is!"
-    bot ""
+    bot "Faz sim! Quando estou ao alcance do hotel, é como se eu tivesse vários novos olhos! Eu posso até fazer overclockimg do meu hardware 24/7 graças a quantidade de energia que tem disponível lá!"
 
 # game/script.rpy:18163
 translate pt_br bot_con_question_dd5c99c1:
 
     # bot "But out here, I'm very limited..."
-    bot ""
+    bot "Mas aqui fora, eu sou bem limitada."
 
 # game/script.rpy:18164
 translate pt_br bot_con_question_c889e4a9:
 
     # bot "I wouldn't be able to dream if I didn't have a place to recharge, you know? I would be a lot worse off without it."
-    bot ""
+    bot "Eu não seria capaz de sonhar se não tivesse um lugar pra me recarregar, sabe? Eu seria muito pior sem isso."
 
 # game/script.rpy:18165
 translate pt_br bot_con_question_ae7ef35f:
 
     # c "What about nightmares?"
-    c ""
+    c "E quanto a pesadelos?"
 
 # game/script.rpy:18167
 translate pt_br bot_con_question_65c96867:
 
     # bot "Yeah, but those are different too..."
-    bot ""
+    bot "Sim, mas eles também são diferentes..."
 
 # game/script.rpy:18168
 translate pt_br bot_con_question_a390f30d:
 
     # bot "Nightmares for me are a direct result of my emotions. I... I get stuck in loops, thinking about the same thing over and over again, all while trying to calculate an exit path."
-    bot ""
+    bot "Pesadelos para mim são resultados diretos das minhas emoçoes. Eu... fico presa em loops, pensando a mesma coisa de novo e de novo, tudo isso enquanto tento calcular um caminho para fora."
 
 # game/script.rpy:18169
 translate pt_br bot_con_question_d8a3d9d7:
 
     # bot "During my last nightmare I wasn't able to find any exit paths..."
-    bot ""
+    bot "No meu último pesadelo eu não fui capaz de encontrar nenhum caminho para fora..."
 
 # game/script.rpy:18171
 translate pt_br bot_con_question_c0990657:
 
     # bot "That was until Ashley knocked on my door. She gave me a solution I had never even considered!"
-    bot ""
+    bot "Isso aconteceu até a Ashley bater na minha porta. Ela me deu uma solução que eu nunca tinha considerado antes!"
 
 # game/script.rpy:18174
 translate pt_br bot_con_question_0400f62d:
 
     # bot "And there it is... I'm so happy Ally survived the process. I don't think I would have had the heart to try again..."
-    bot ""
+    bot "E aqui está o resultado... Eu estou muito feliz que Ally tenha sobrevivido ao processo. Eu não acho que aguentaria tentar fazer isso de novo..."
 
 # game/script.rpy:18175
 translate pt_br bot_con_question_298c4e05:
 
     # ally "Look, look! I'm a plane!"
-    ally ""
+    ally "Olha, olha! É um avião!"
 
 # game/script.rpy:18176
 translate pt_br bot_con_question_c0d1eb3a:
 
     # ally "Mommy, are you looking!?"
-    ally ""
+    ally "Mamãe, você está olhando!?"
 
 # game/script.rpy:18177
 translate pt_br bot_con_question_c2312ff8:
 
     # bot "I'm looking!"
-    bot ""
+    bot "Estou olhando!"
 
 # game/script.rpy:18178
 translate pt_br bot_con_question_b698afce:
 
     # c "Ally is the 11th... that must have been tough."
-    c ""
+    c "Ally é o décimo primeiro... DEve ter sido bem difícil."
 
 # game/script.rpy:18179
 translate pt_br bot_con_question_2be58ae7:
 
     # bot "But it was all worth it! I would never have even thought about giving up if I knew how amazing Ally would turn out! I'm so proud!"
-    bot ""
+    bot "Mas tudo isso valeu a pena! Eu jamais teria pensado em desistir se soubesse o quanto Ally se tornaria incrível! Estou tão orgulhosa!"
 
 # game/script.rpy:18185
 translate pt_br bot_con_question_5cc307a5:
 
     # bot "Oh, yes! I'm very excited about Ally's future! But I also have a lot of worries too..."
-    bot ""
+    bot "Ah, sim! Eu estou muito ansiosa sobre o futuro de Ally! Mas tamém tenho muitas preocupações"
 
 # game/script.rpy:18187
 translate pt_br bot_con_question_f0f775ae:
 
     # bot "Ally will grow up surrounded by people that love them! That's something I didn't get to have, and I think it will make them a better person because of it."
-    bot ""
+    bot "Ally vai crescer rodeado de pessoas que o amam! Isso é algo que eu não tive, e eu acho que isso vai fazer ele se tornar uma pessoa melhor graças a isso."
 
 # game/script.rpy:18188
 translate pt_br bot_con_question_79f38d7c:
 
     # c "You didn't feel loved when you woke up the second time?"
-    c ""
+    c "Você não se sentiu amada quando acordou pela segunda vez?"
 
 # game/script.rpy:18190
 translate pt_br bot_con_question_477b42e5:
 
     # bot "Well, no... not immediately. I was scared of you. All of you..."
-    bot ""
+    bot "Bem, não... não imediatamentee. Eu tinha medo de você. De todos vocês..."
 
 # game/script.rpy:18191
 translate pt_br bot_con_question_5a343d7f:
 
     # bot "I woke up in a strange new world that I didn't understand. I didn't recognize where I was or even who I was... but I had a feeling I've been here before, I just didn't know why or how. It was a very scary feeling..."
-    bot ""
+    bot "Eu acordei em um mundo novo e estranho que eu não entendia. Eu não reconhecia nem o lugar em que eu estava e nem quem eu era... mas eu tive a sensação de que ja estive aqui antes, só naão sabia do por que ou do como. Foi uma sesnação bem assustadora..."
 
 # game/script.rpy:18192
 translate pt_br bot_con_question_a59aaf48:
 
     # bot "*sigh*... After reading his note to me, I didn't know what to think... he created me, but he made me so flawed. At first I was upset that he would do that to me, but then I found out he wasn't done working on me at all, and his time was running out..."
-    bot ""
+    bot "*ufa*... Depois de ler essa carta para mim, eu não sabia o que pensar... ele me criou, mas ele me fez com tantas falhas. No começo eu fiquei chateada que ele fez isso comigo, mas então eu descobri que ele não estava nem perto de terminar de trabalhar em mim, e o tempo dele estava acabando...
 
 # game/script.rpy:18193
 translate pt_br bot_con_question_78419c9c:
 
     # bot "In the end, he wanted me to live. Just not with his memory..."
-    bot ""
+    bot "No fim, ele queria que eu vivesse. Apenas não com minhas memórias sobre ele..."
 
 # game/script.rpy:18194
 translate pt_br bot_con_question_280d8b64:
 
     # bot "It was all too much, I just ran. Maybe Ellen was right, maybe I wasn't ready to read his message..."
-    bot ""
+    bot "Aquilo foi demais, então eu só fugi. Talvez Ellen estivesse certa, talvez eu não estivesse preparada para ler a mensagem dele..."
 
 # game/script.rpy:18195
 translate pt_br bot_con_question_3a7ead32:
 
     # c "Having your first memories being that of your parents dying would have been too hard on you. Could you imagine how you would have turned out if that were the case?"
-    c ""
+    c "Ter seus parentes morrendo como suas primeiras memórias teria sido muito difícil para você. Você consegue imaginar como você teria se tornado se esse fosse o caso?"
 
 # game/script.rpy:18196
 translate pt_br bot_con_question_af03090c:
 
     # bot "I guess I've never thought about it... I probably would have become some sort of psycho or sociopath."
-    bot ""
+    bot "Eu acho que nunca parei pra pensar nisso... Eu provavelmente teria virado algum tipo de psico ou sociopata."
 
 # game/script.rpy:18197
 translate pt_br bot_con_question_7f2dab18:
 
     # c "What is your first memory?"
-    c ""
+    c "Qual é sua primeira memória?"
 
 # game/script.rpy:18198
 translate pt_br bot_con_question_4eb850c0:
 
     # bot "My first...?"
-    bot ""
+    bot "Minha primeira...?"
 
 # game/script.rpy:18200
 translate pt_br bot_con_question_dfffad84:
 
     # bot "Heh, it's one of Ellen. The moment she returned from the hospital."
-    bot ""
+    bot "Heh, foi sobre a Ellen. O momento em que ela voltou do hospital."
 
 # game/script.rpy:18201
 translate pt_br bot_con_question_ba0f34ac:
 
     # bot "Though I didn't know it at the time, my creator had just died. She walked through the front door - sobbing - and I couldn't understand why, but I knew something was wrong."
-    bot ""
+    bot "Eu não sabia naquela época, meu criador havia acabado de morrer. Ela entrou pela porta da frente - soluçãndo - e eu não fazia ideia do motivo, mas eu sabia que tinha alguma coisa errada."
 
 # game/script.rpy:18203
 translate pt_br bot_con_question_a8054609:
 
     # bot "That was the first time I felt sympathy, and I didn't even know what it was for."
-    bot ""
+    bot "Aquela foi a primeira vez que eu senti compaixão, e eu nem sabia para que que isso servia."
 
 # game/script.rpy:18205
 translate pt_br bot_con_question_c3adf129:
 
     # bot "Then she noticed me. With shock on her face, she stood there for what felt like minutes before saying... {i}'Hello?'{/i}"
-    bot ""
+    bot "Então ela me notou. Com uma expressao de choque, ela ficou ali pelo que pareceu ser alguns minutos antes de dizer... {i}'Olá?'{/i}"
 
 # game/script.rpy:18207
 translate pt_br bot_con_question_f96e4808:
 
     # bot "That was my first word too. {i}'Hello.'{/i}"
-    bot ""
+    bot "Aquela foi a minha primeira palavra também. {i}'Olá.'{/i}"
 
 # game/script.rpy:18209
 translate pt_br bot_con_question_df5f3a81:
 
     # bot "She didn't know what to think of me at first, and honestly I wasn't too sure about her either. But she grabbed some clothes from her closet and dressed me. She made me feel so warm and fuzzy... I grew an attachment to her right then and there."
-    bot ""
+    bot "Ela não sabia o que pensar de mim no primeiro momento, e honestamente eu também não sabia o que pensar sobre ele. Mas ela pegou algumas roupas do armário dela e me vestiu. Ela fez eu me sentir tão aquecida e querida... Eu fui me afeiçoando a ela a partir dali."
 
 # game/script.rpy:18211
 translate pt_br bot_con_question_c3bf9a15:
 
     # bot "That was the first time I felt happiness."
-    bot ""
+    bot "Essa foi a primeira vez que eu senti felicidade."
 
 # game/script.rpy:18212
 translate pt_br bot_con_question_30f8aba6:
 
     # c "That was very nice of her."
-    c ""
+    c "Isso foi bem legal da parte dela."
 
 # game/script.rpy:18214
 translate pt_br bot_con_question_3fffc95a:
 
     # bot "At first I thought she was just like me; an android. But it didn't take long for me to notice the differences."
-    bot ""
+    bot "No primeiro momento eu achei que ela fosse igual a mim; um adroide. Mas não demorou para que eu percebesse as diferenças entre nós."
 
 # game/script.rpy:18215
 translate pt_br bot_con_question_799cf161:
 
     # bot "Heheh, I don't really need to sleep, you know? I only need to recharge, so when Ellen went to sleep I was left wondering why she was just laying there unresponsive. I wasn't sure if she had died, so I just kept trying to wake her up every time!"
-    bot ""
+    bot "Heheh, eu não preciso dormir de verdade, sabe? Eu só preciso me recarregar, então quando a Ellen foi dormir eu fiquei só pensando o por que que ela estava lá deitada sem responder. Eu não tinha certeza se ela tinha morrido, então eu continuei tentando acordar ela o tempo todo!"
 
 # game/script.rpy:18216
 translate pt_br bot_con_question_205f72fd:
 
     # bot "She didn't like that very much..."
-    bot ""
+    bot "Ela não gostou muito diso..."
 
 # game/script.rpy:18217
 translate pt_br bot_con_question_69063da0:
 
     # c "I imagine not."
-    c ""
+    c "Eu imagino."
 
 # game/script.rpy:18219
 translate pt_br bot_con_question_8aed212a:
 
     # bot "But she was the closest thing to a parent I've ever had. She clothed me, taught me things, and even let me recharge in her room free of charge!"
-    bot ""
+    bot "Mas ela era a coisa mais próxima a um parente que eu já tive. Ela me vestiu, me ensinou coisas, e até me deixou recarregar no quarto dela de graça!"
 
 # game/script.rpy:18221
 translate pt_br bot_con_question_0dd4b346:
 
     # bot "She wouldn't let me out of her room for a long time though... she didn't think I was ready, but, I was never a child..."
-    bot ""
+    bot "Mesmo assim ela não me deixou sair do quarto dela por um bom tempo... ela não achava que eu estava preparada, mas, eu nunca fui uma criança..."
 
 # game/script.rpy:18222
 translate pt_br bot_con_question_590ab038:
 
     # c "You weren't?"
-    c ""
+    c "Não foi?"
 
 # game/script.rpy:18223
 translate pt_br bot_con_question_fbd61850:
 
     # bot "No, I never had a childhood. I just woke up, scared, without understanding. Just imagine if you woke up tomorrow unable to recognize anything."
-    bot ""
+    bot "Não, eu nunca tive uma infância. Eu só acordei, assustada, sem entender nada. Só imagine se você acordasse amanha incapaz de reconhecer qualquer coisa."
 
 # game/script.rpy:18225
 translate pt_br bot_con_question_8e5b4780:
 
     # bot "Ally will be different though, I think a childhood will allow them to develop into someone even better than me."
-    bot ""
+    bot "Mas com Ally será diferente, eu acho que a infência dele vá fazer com que ele se torne algo ainda melhor do que eu."
 
 # game/script.rpy:18228
 translate pt_br bot_con_question_257d72f8:
 
     # bot "But then Kali joined, and you right after that. It felt like new people were moving into my home, and that scared me even more..."
-    bot ""
+    bot "Mas então Kali chegou, e logo depois você. Isso pareceu para mim como se novas pessoas estivessem se mudando para minha casa, e isso me assustou muito mais..."
 
 # game/script.rpy:18230
 translate pt_br bot_con_question_118c3060:
