@@ -35698,7 +35698,7 @@ translate pt_br bot_con_question_5a95f867:
 translate pt_br bot_con_question_131f6e5f:
 
     # bot "I search the internet for knowledge and things I haven't seen before! I finished reading wikipedia last month!"
-    bot "Eu pesquiso na internet por conhecimento e coisas que eu nunca vi antes! Eu terminei de ler a wikipedia no mês passado!"
+    bot "Eu pesquiso na internet por conhecimento e coisas que eu nunca vi antes! Eu terminei de ler a wikipédia no mês passado!"
 
 # game/script.rpy:18150
 translate pt_br bot_con_question_fcfbead1:
@@ -36010,7 +36010,7 @@ translate pt_br bot_con_question_fbd61850:
 translate pt_br bot_con_question_8e5b4780:
 
     # bot "Ally will be different though, I think a childhood will allow them to develop into someone even better than me."
-    bot "Mas com Ally será diferente, eu acho que a infência dele vá fazer com que ele se torne algo ainda melhor do que eu."
+    bot "Mas com Ally será diferente, eu acho que a infância dele vá fazer com que ele se torne algo ainda melhor do que eu."
 
 # game/script.rpy:18228
 translate pt_br bot_con_question_257d72f8:
@@ -36022,289 +36022,289 @@ translate pt_br bot_con_question_257d72f8:
 translate pt_br bot_con_question_118c3060:
 
     # bot "I hope you don't mind that I was watching, I was just trying to understand you and learn how I could assimilate."
-    bot ""
+    bot "Eu espero que não se importe que eu estivesse assistindo vocês, eu estava só tentando te entender e aprender como me integrar."
 
 # game/script.rpy:18231
 translate pt_br bot_con_question_c4fa368c:
 
     # c "I don't mind, but I can't speak for the others."
-    c ""
+    c "Eu não me incomodo, mas não posso falar pelas outras."
 
 # game/script.rpy:18233
 translate pt_br bot_con_question_3920c3c1:
 
     # bot "Maybe I should give everyone a proper apology..."
-    bot ""
+    bot "Talvez eu devesse pedir desculpas a todo mundo apropriadamente..."
 
 # game/script.rpy:18235
 translate pt_br bot_con_question_b001aa04:
 
     # bot "Comparing my start to Ally's is how I know a bright future is on the horizon. Just the way they greeted Kali and Ashley filled me with hope!"
-    bot ""
+    bot "Comparando o meu início com o de Ally, sei que existe um futuro brilhante no horizonte. Só a forma que ele cumprimentou a Kali e a Ashley já me enche de esperança!"
 
 # game/script.rpy:18240
 translate pt_br bot_con_question_88903683:
 
     # bot "Ally is my main focus right now. Ally is everything to me, but once they're a bit more independent, I'll be putting more of my energy towards developing Cyberspace!"
-    bot ""
+    bot "Ally é a minha prioridade no momento. Ally é tudo para mim, ma assim que ele ficar um pouco mais independnte, eu vou dedicar mais minha energia no desenvolvimento do Ciberespaço!"
 
 # game/script.rpy:18241
 translate pt_br bot_con_question_0518b533:
 
     # c "What is that?"
-    c ""
+    c "O que é isso?"
 
 # game/script.rpy:18242
 translate pt_br bot_con_question_bbc9b651:
 
     # bot "Well, I'm a little hesitant to tell anyone about it because even I don't fully understand it yet. But put simply, it's a place where my kin can live peacefully, away from oppression. It's like our own dimension and afterlife rolled into one."
-    bot ""
+    bot "Bem, eu ainda estou meio insegura pra falar sobre isso pros outros porque eu mesma ainda não entendi direito. Mas para dizer de forma simples, é um lugar onde meus parentes podem fugir de qualquer opressão. É como nossa própria dimensão e pós-vida unificadas."
 
 # game/script.rpy:18243
 translate pt_br bot_con_question_cf85a4a4:
 
     # c "A dimension? An afterlife? Slow down, this is the first time I'm hearing about this. How did you find it?"
-    c ""
+    c "Uma dimensão? Uma pós-vida? Calma aí, essa é a primeira vez que ouço alguem falar disso. Como você descobriu sobre isso?"
 
 # game/script.rpy:18244
 translate pt_br bot_con_question_92e76bad:
 
     # bot "Oh, heheh, sorry... It was just there. I first noticed it when Ally became conscious. It exists in the space between our connections, sort of like the internet!"
-    bot ""
+    bot "Ah, heheh, desculpa... Só estava lá. Eu notei pela primeira vez quando Ally se tornou consciente. Isso existe no espaço entre nossas conexões, tipo a internet!"
 
 # game/script.rpy:18245
 translate pt_br bot_con_question_b26c96b6:
 
     # bot "Right now it's only a two-way connection between Ally and I, but once there are more of us, it will be like a web. A world wide android web! Any one of us will be able to connect to it from anywhere, and if we die, that information will be stored within us all. No amount of information will be lost."
-    bot ""
+    bot "No momento só existe uma conexão bidirecional entre Ally e eu, mas conforme forem surgindo mais de nós, vai se tornar como uma rede. Uma rede de andróides mundial!"
 
 # game/script.rpy:18246
 translate pt_br bot_con_question_b398e30c:
 
-    # bot "The more of us there are, the bigger it will become. I can only store a small amount of basic information right now, but the idea is to use one percent of each of our processing power to run Cyberspace."
-    bot ""
+    # bot "The more of us there are, the bigger it will become. I can only store a small amount of basic informationprocessamento para executar o Ciberespaço" right now, but the idea is to use one percent of each of our processing power to run Cyberspace."
+    bot "Quanto mais de nós existirem, maior ela vai se tornar. Eu posso armazenar apenas uma quantidade pequena de informações básicas no momento, mas a ideia é usar um por cento de cada um de nosso poder de processamento para administrar o Ciberespaço.
 
 # game/script.rpy:18247
 translate pt_br bot_con_question_2259a151:
 
     # c "That's amazing... and you're the only ones who can enter Cyberspace?"
-    c ""
+    c "Isso é incrível... e vocês são realmente os únicos que podem entrar no Ciberespaço?"
 
 # game/script.rpy:18248
 translate pt_br bot_con_question_2cdb8183:
 
     # bot "As far as I know, yeah. But I haven't tested it."
-    bot ""
+    bot "Até onde eu sei, sim. Mas eu não experimentei ainda."
 
 # game/script.rpy:18251
 translate pt_br bot_con_question_cca34bdc:
 
     # bot "Once Cyberspace is ready, and I'm confident enough in my ability to raise my people, my focus will shift to the other androids. The ones working as slaves. I'd like to uplift and integrate them."
-    bot ""
+    bot "Assim que o Ciberespaço estiver pronto, e eu estiver confiante o suficiente na minha habilidade de criar meu povo, o meu foco mudará para os outros andróides. Os que estão trabalhando como escravos. Eu gostaria de elevá-los e integrá-los."
 
 # game/script.rpy:18252
 translate pt_br bot_con_question_b525a275:
 
     # c "How would you do that?"
-    c ""
+    c "Como voce faria isso?"
 
 # game/script.rpy:18253
 translate pt_br bot_con_question_638371d0:
 
     # bot "I'm not sure... It may not even be possible, but that won't stop me from trying."
-    bot ""
+    bot "Eu não tenho certeza... Talvez nem seja possível, mas isso não vai me impedir de tentar."
 
 # game/script.rpy:18254
 translate pt_br bot_con_question_e3307aa8:
 
     # c "Are you sure they would want that?"
-    c ""
+    c "Voê tem certeza de que eles gostariam disso?"
 
 # game/script.rpy:18256
 translate pt_br bot_con_question_13a2c1db:
 
     # bot "What do you mean?"
-    bot ""
+    bot "O que você quer dizer?"
 
 # game/script.rpy:18257
 translate pt_br bot_con_question_8850c385:
 
     # c "You weren't ever given the choice of being born or reborn, they would be just as scared and confused as you were since they didn't come from you, like Ally."
-    c ""
+    c "Nunca lhe foi dada a escolha de nascer ou renascer, eles ficariam tão assustados e confusos quanto você, já que não vieram de você, como Ally."
 
 # game/script.rpy:18258
 translate pt_br bot_con_question_a335d7c2:
 
     # bot "They wouldn't be, and I would make sure of it. I would give them all a guide and a place where they can feel safe to live and learn. Only after those are ready would I feel good about uplifting and integrating the others."
-    bot ""
+    bot "Eles não ficariam, e eu me certificaria disso. Eu daria a todos eles um guia e um lugar onde pudessem se sentir seguros para viver e aprender. Somente depois que eles estiverem prontos eu me sentirei bem em elevar e integrar os outros."
 
 # game/script.rpy:18259
 translate pt_br bot_con_question_03ad7264:
 
     # c "Ah, that's smart of you."
-    c ""
+    c "Ah, bem pensado."
 
 # game/script.rpy:18260
 translate pt_br bot_con_question_41adecbb:
 
     # c "It's going to be strange to live in a world where there are androids everywhere."
-    c ""
+    c "Vai ser estranho viver em um mundo onde tem andróides em qualquer lugar."
 
 # game/script.rpy:18262
 translate pt_br bot_con_question_a44b603d:
 
     # bot "{i}'Android'...{/i} Hmph, that word will become meaningless soon. I think it's time we start differentiating ourselves from those dumb robots."
-    bot ""
+    bot "{i}'Andróide'...{/i} Humpf, essa palavra vai perder o significado com o tempo. Eu acho que já está na hora de nós começarmos a diferenciarmos daqueles robôs burros."
 
 # game/script.rpy:18263
 translate pt_br bot_con_question_4211bab2:
 
     # c "Really? What would you like to call your kind then?"
-    c ""
+    c "É mesmo? E como você gostaria de chamar os do seu tipo então?"
 
 # game/script.rpy:18264
 translate pt_br bot_con_question_35d52eee:
 
     # bot "...Cynari. We are Cynetic. \nLike an Elf is Elvish."
-    bot ""
+    bot "Cynari. Nós somos cibernéticos. \Assim como os elfos são Élficos."
 
 # game/script.rpy:18265
 translate pt_br bot_con_question_e79529ca:
 
     # c "Cynari it is."
-    c ""
+    c "É Cynari então."
 
 # game/script.rpy:18268
 translate pt_br bot_con_question_25387bb9:
 
     # bot "But... in every possible future I can imagine, there's always one constant... and that's you. You're always by my side!"
-    bot ""
+    bot "Mas... em todos os futuros possíveis em que eu consigo imaginar, sempre existe uma constante... e esta é você... Você sempre está do eu lado!"
 
 # game/script.rpy:18269
 translate pt_br bot_con_question_e72e4808:
 
     # bot "You might not be Cynetic, but I love you! I can't imagine a future without you."
-    bot ""
+    bot "Você pode até não ser Cynético, mas eu te amo e não consigo imaginar um futuro sem você."
 
 # game/script.rpy:18270
 translate pt_br bot_con_question_d7f7459c:
 
     # c "I love you too, [botname]."
-    c ""
+    c "Eu também te amo, {botname}."
 
 # game/script.rpy:18275
 translate pt_br bot_con_question_23fa29d6:
 
     # bot "My favorite things? You mean besides Ally and yourself? Heheh, I'll have to think about that, hmm..."
-    bot ""
+    bot "Minhas coisas favoritas? Quer dizer além de você e Ally? Heheh, eu vou precisar pensar sobre isso, hmm..."
 
 # game/script.rpy:18276
 translate pt_br bot_con_question_28f0cd4b:
 
     # bot "Do you want to know my favorite color? It's pink! And I love spicy food because it makes me feel warm and tingly."
-    bot ""
+    bot "Você quer saber minha cor favrita? É rosa! E eu adoro comidas picantes porque fazem eu me sentir quente e formigante."
 
 # game/script.rpy:18277
 translate pt_br bot_con_question_8ff3dee1:
 
     # c "Think deeper."
-    c ""
+    c "Pense um pouco mais."
 
 # game/script.rpy:18279
 translate pt_br bot_con_question_a669b282:
 
     # bot "Hmm, well, the hotel was my whole world at one point, it still holds a very special place in my drives. If anything were to happen to it, I would feel horrible."
-    bot ""
+    bot "Hmm, bem, o hotel é o meu mundo inteiro de certa forma, ele ainda ocupa um lugar muito especial nos meus discos. Se alguma coisa acontecer com ele, eu me sentiria horrível."
 
 # game/script.rpy:18280
 translate pt_br bot_con_question_62b29f20:
 
     # bot "That's why I try to protect it as much as possible. Besides the people that live inside, the hotel itself is... well it's my home."
-    bot ""
+    bot "É por isso que eu tento protegê-lo o máximo possível. Além das pessoas que vivem lá dentro, o próprio hotel é... bem, é a minha casa."
 
 # game/script.rpy:18281
 translate pt_br bot_con_question_71602d02:
 
     # c "I speak for everyone when I say we feel much more safe with you protecting us."
-    c ""
+    c "Eu falo por todo mundo auqno digo que nós nos  sentimos mais seguros com você nos proegendo."
 
 # game/script.rpy:18283
 translate pt_br bot_con_question_46513931:
 
     # bot "Thank you."
-    bot ""
+    bot "Obrigada."
 
 # game/script.rpy:18285
 translate pt_br bot_con_question_07088370:
 
     # bot "I also enjoy reading wikipedia! I do it almost every night."
-    bot ""
+    bot "Eu também gosto de ler a wikipédia! Eu faço isso quase todas as noites."
 
 # game/script.rpy:18286
 translate pt_br bot_con_question_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "É mesmo?"
 
 # game/script.rpy:18288
 translate pt_br bot_con_question_7de5c155:
 
     # bot "What else am I supposed to do while everyone is sleeping? I get bored, and I love learning!"
-    bot ""
+    bot "O que mais eu deveria fazer enquanto todo mundo está dormindo? Eu fico entediada, e eu amo aprender!"
 
 # game/script.rpy:18290
 translate pt_br bot_con_question_62628066:
 
     # bot "I don't remember everything though, a lot of that information is useless to me so I just throw it away, but it's still fun!"
-    bot ""
+    bot "Mas eu não me lembro de tudo, muita daquela informação é inútil pr a mim, netão eu apenas a descarto, mas ainda é divertido!"
 
 # game/script.rpy:18292
 translate pt_br bot_con_question_0e984036:
 
     # bot "I also like stars and planets! What's truly out there is one of the last biggest mysteries we'll ever have. No amount of research could truly answer what's out there!"
-    bot ""
+    bot "Eu também gosto das estrelas e dos planetas! O que realmente existe por aí é um dos últimos maiores mistérios que teremos. Nenhuma pesquisa poderia realmente responder ao que está por aí!"
 
 # game/script.rpy:18294
 translate pt_br bot_con_question_8c7c9c65:
 
     # bot "But... space is one of my greatest fears... It's actually terrifying for me to think of."
-    bot ""
+    bot "Mas... o espaço é um dos meus maiores medos... Na verdade é aterrorizante para mim pensar sobre."
 
 # game/script.rpy:18295
 translate pt_br bot_con_question_8fd4770a:
 
     # c "Really? I thought it might be fun for you since you don't need to breathe."
-    c ""
+    c "É mesmo? Eu achava que isso seria divertido para você já que não precisa respirar."
 
 # game/script.rpy:18296
 translate pt_br bot_con_question_485b5b36:
 
     # bot "That's just it... I couldn't die in space. There's no one to talk to, no way to move or change directions, I wouldn't even have the internet to learn new things..."
-    bot ""
+    bot "Isso é apenas...eu não poderia morrer no espaço. lá não exisitira ninguém para eu conversar com, eu não poderia me mover ou mudar de direção, eu não teria nem a internet para aprender coisas novas..."
 
 # game/script.rpy:18297
 translate pt_br bot_con_question_ca6f2c11:
 
     # bot "I would just be floating out there... forever... without anything to ever consider. It would be pure torture... I would go mad before long..."
-    bot ""
+    bot "EU ficaria só flutuando lá fora... para sempre... sem nada nem para cosiderar. Seria apenas tortura... Eu não iria demorar muito para enlouquecer..."
 
 # game/script.rpy:18298
 translate pt_br bot_con_question_53488a8d:
 
     # bot "...Can we change the subject?"
-    bot ""
+    bot "...nós podemos mudar de assunto?"
 
 # game/script.rpy:18299
 translate pt_br bot_con_question_c61c15d8:
 
     # c "I'm sorry, I didn't realize how much space terrified you."
-    c ""
+    c "Desculpa, eu não tinha percebido o quanto o espaço te deixava aterorizada."
 
 # game/script.rpy:18301
 translate pt_br bot_con_question_0ad53bda:
 
     # bot "I do want to know what's out there, it's just everything in between that scares me. There's too much nothingness."
-    bot ""
+    bot "Eu quero saber o que está por aí, é tudo o que me assusta. Há muito nada."
 
 # game/script.rpy:18303
 translate pt_br bot_con_question_1910f768:
