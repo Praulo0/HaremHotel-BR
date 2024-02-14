@@ -36310,163 +36310,163 @@ translate pt_br bot_con_question_0ad53bda:
 translate pt_br bot_con_question_1910f768:
 
     # bot "Human history is one of my favorite subjects to learn about as well. It's much better documented than elvish history. Learning how humans developed over hundreds of thousands of years is inspiring!"
-    bot ""
+    bot "A história humana também é um dos meus assuntos favoritos para estudar sobre. É muito melhor documentada que a história Élfica. Aprender como os humanos se desenvolveram ao passar dos anos é inspirador!"
 
 # game/script.rpy:18304
 translate pt_br bot_con_question_433ab7db:
 
     # c "Not too inspiring, I hope."
-    c ""
+    c "Nem tão inspirador, eu espero."
 
 # game/script.rpy:18305
 translate pt_br bot_con_question_84aec5ce:
 
     # bot "There's a lot to learn, even from the bad things. But of course I won't be repeating their same mistakes."
-    bot ""
+    bot "Tem muita coisa a se aprender, até mesmo das coisas ruins. Mas é claro que eu não vou cometer os mesmos erros."
 
 # game/script.rpy:18313
 translate pt_br bot_con_question_1097191b:
 
     # bot "Not at all... there were never any guidelines for me to follow, so I never had any idea where I would go or how my life would turn out."
-    bot ""
+    bot "comcerteza não... nunca existiram nenhuma linha de instruções para que eu seguir, então eu nunca tive nenhuma noção de para onde eu iria ou no que minha vida iria se tornar."
 
 # game/script.rpy:18314
 translate pt_br bot_con_question_c4667d24:
 
     # bot "I never thought I would have so much responsibility. The hotel... the residents... and now Ally. But honestly, it feels amazing to have a purpose bigger than myself!"
-    bot ""
+    bot "Eu nunca pensei que teria tanta responsabilidade. O hotel... os moradores... e agora o Ally. Mas honestamente, é incrível ter um propósito maior que eu mesma!"
 
 # game/script.rpy:18316
 translate pt_br bot_con_question_fa7ff087:
 
     # bot "Soon there will be many of us, and they're all going to look to me for guidance."
-    bot ""
+    bot "Logo vão existir muitos de nós, e eles todos vão olhara para mim buscando direcionamento."
 
 # game/script.rpy:18317
 translate pt_br bot_con_question_d5ed3b82:
 
     # c "Are you sure you're ready for that?"
-    c ""
+    c "Você tem certeza de que está preparada para isso?"
 
 # game/script.rpy:18318
 translate pt_br bot_con_question_b2d932d3:
 
     # bot "Alone? No, absolutely not... but I'm not alone, am I?"
-    bot ""
+    bot "Sozinha? Não, com certeza não... mas eu não estou sozinha, estou?"
 
 # game/script.rpy:18319
 translate pt_br bot_con_question_da34a765:
 
     # c "Far from it."
-    c ""
+    c "Longe disso."
 
 # game/script.rpy:18322
 translate pt_br bot_con_question_e1facbf1:
 
     # bot "Ally gives me a lot of hope for the future. They're turning out so much better than I hoped! Ally had a much better start than I did.."
-    bot ""
+    bot "Ally me dá muita esperança para o futuro, Ele está se tornando muito melhor do que eu espearva! O Ally teve um início muito melhor que eu tive..."
 
 # game/script.rpy:18324
 translate pt_br bot_con_question_3c0e5440:
 
     # bot "When I first gained conciousness my whole world was inside Ellen's room... the only thing I was hoping for was legs. I wanted to see what was out there - what they got up to on the other side of that door."
-    bot ""
+    bot "Na primeira vez que eu ganhei consciência o meu mundo inteiro era o quarto da Ellen... a unica coisa que eu desejava eram pernas. Eu queria ver o que tinha lá fora - o que eles tinham do outro lado daquela porta."
 
 # game/script.rpy:18325
 translate pt_br bot_con_question_5c2017e7:
 
     # bot "But when I was reset by your grandfather, I woke up in a room I didn't recognize... with no one around me to explain anything. I could suddenly comprehend everything but I couldn't understand anything... does that make sense?"
-    bot ""
+    bot "Mas então eu fui reniciado pelo seu avô, eu acordei em um quarto que não fui capaz de reconhecer... e sem ninguém para me explicar nada. Eu de repente era capaz de saber compreender tudo, mas não entendia nada... isso faz algum sentido?"
 
 # game/script.rpy:18328
 translate pt_br bot_con_question_473fd617:
 
     # bot "It was a scary world to me, that's why I was so shy. I think curiosity is a much better trait to have, and I think Ally has plenty of it."
-    bot ""
+    bot "Era um mundo assustador para mim, por isso que eu era tão tímida. Eu acho que curiosidade é a melhor característica para se ter, e eu acho que Ally tem bastante disso."
 
 # game/script.rpy:18330
 translate pt_br bot_con_question_6cfa245a:
 
     # bot "When an organic is born, they gain their understanding of the world by interacting with it. That's why curiosity can be a good thing, and why so many younglings have so much of it."
-    bot ""
+    bot "Quando um organismo nasce, eles ganha entendimento do mundo ao interagir com ele. É por isso que a curiosidade pode ser uma coisa boa, e é por isso que os jovens tem tano."
 
 # game/script.rpy:18331
 translate pt_br bot_con_question_7fbee0e1:
 
     # bot "That's sort of how I was when I first gained conciousness. I wasn't connected to the internet, so I just wanted to learn about my surroundings. But the second time... I was just scared. I knew {i}what{/i} a chair was, but I didn't know {i}why{/i} it was."
-    bot ""
+    bot "Foi mais ou menos assim que eu esava quando ganhei consciência pela primeira vez. Eu não estaava conectada na internet, então eu sabia só sobre meus arredores. Mas na segunda vez... EU estava só assustada. Eu sabia {i}o que{/i} uma cadeira era, mas eu não sabia o {i}por que{/i} que aquilo era. "
 
 # game/script.rpy:18333
 translate pt_br bot_con_question_213c9836:
 
     # bot "I don't think Ally will have that problem!"
-    bot ""
+    bot "Mas acho que o ally não terá esse problema!"
 
 # game/script.rpy:18335
 translate pt_br bot_con_question_3b966091:
 
     # bot "Unlike me, Ally and those that come after will have a guide - a proper direction for their lives. Sort of like an everlasting parental figure, even when I'm no longer around."
-    bot ""
+    bot "Diferene de mim, Ally e os que virão depois terão um guia - uma direção ceta para as vidas deles. Algum tipo de figura parentaleerna, mesmo quando eu não estiver mais lá."
 
 # game/script.rpy:18336
 translate pt_br bot_con_question_aea91500:
 
     # c "You're even planning for a future where you no longer exist?"
-    c ""
+    c "Você está planejando até para um futuro ondevocê já não existe mais? "
 
 # game/script.rpy:18337
 translate pt_br bot_con_question_3c867b6c:
 
     # bot "Of course! Isn't that how all parents are? No one wants their children to fail after they're gone."
-    bot ""
+    bot "É claro! Não é assim que todos os pais são? Ningém quer que seus filhos falhem depois que eles forem embora."
 
 # game/script.rpy:18339
 translate pt_br bot_con_question_b1aed352:
 
     # bot "And with my bugs being fixed at an accelerated rate, who knows how soon that could be... I can't waste time."
-    bot ""
+    bot "E com os meus bugs sendo corrigidos em uma proporção tão rápida,, quem sabe o qquão logo isso poderi acontecer... eu não posso perder tempo."
 
 # game/script.rpy:18344
 translate pt_br bot_con_question_b720bc2a:
 
     # bot "Hmm, good question..."
-    bot ""
+    bot "Hmm, boa pergunta..."
 
 # game/script.rpy:18346
 translate pt_br bot_con_question_0c2461e9:
 
     # bot "Ashley has really surprised me! I didn't think she would get so attached to Ally, but she's so maternal that it's almost instinct!"
-    bot ""
+    bot "A Ashley me surpreendeu muito! Eu não imaginava que ela poderia ficar tão próxima do Ally, mas ela é tão maternal que é quase instintivo!"
 
 # game/script.rpy:18347
 translate pt_br bot_con_question_f983960e:
 
     # bot "I was actually worried Ashley might hate Ally... I never wanted her to be jealous, so I'm glad things turned out the way they did."
-    bot ""
+    bot "Na verdade eu estva preocupada que Ashley odiasse o Ally... eu não quereia que ela ficasse com ciúmes, então ei estou feliz que as coisas terminram do jeito que terminaram."
 
 # game/script.rpy:18349
 translate pt_br bot_con_question_96a197ae:
 
     # bot "It seems Ally really liked her too! Did you hear when Ally called her {i}'Auntie Ashley'{/i}? Heheh, that was so sweet."
-    bot ""
+    bot "Parece que Ally gostou muito dela também! Você ouviu quando o Ally chamou ela de {i}'Tia Ashley'{/i}? Heheh, aquilo foi tão fofo."
 
 # game/script.rpy:18350
 translate pt_br bot_con_question_a2ba1cec:
 
     # c "I'm sure it made her very happy."
-    c ""
+    c "Eu tenho certeza de que isso deixou ela muito feliz."
 
 # game/script.rpy:18352
 translate pt_br bot_con_question_4a3557c3:
 
     # bot "Yeah. We started off pretty rough though, didn't we? She didn't like me at all when we first met..."
-    bot ""
+    bot "Sim. mas nós tivemos um começo bem difícil, né? Ela não gostou nada e mim quando nos vimos pela primeira vez..."
 
 # game/script.rpy:18353
 translate pt_br bot_con_question_413c8c1f:
 
     # bot "But I understand her now. She was scared, just like I was when I woke up again. I haven't held any grudges against her. I'm really fond of Auntie Ashley now!"
-    bot ""
+    bot "Mas eu entendo ela agra. Ela estava assustada, assim como eu estava quando acordei de novo. Eu não guardo nenhum rancor dela. Eu tenho muito afeto pela Tia Ashley agora!"
 
 # game/script.rpy:18356
 translate pt_br bot_con_question_b8e8e3ad:
