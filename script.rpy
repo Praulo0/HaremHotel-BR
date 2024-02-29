@@ -36472,91 +36472,91 @@ translate pt_br bot_con_question_413c8c1f:
 translate pt_br bot_con_question_b8e8e3ad:
 
     # bot "Kali, she's always been an amazing friend. Even when we first met all she wanted to do was better understand me, she's always been so open-minded. Maybe she just thought I was interesting, but as an anomaly that made me feel welcomed all the same."
-    bot ""
+    bot "Kali, ela sempre foi uma amiga incrível. Mesmo na primeira vez que nos vimos, tudo o que ela queria fazer era me entender melhor, ela sempre foi tão mente-aberta. Pode ser que ela só tenha me achado interessante, mas como uma anomalia que mfez eu me sentir bem-vinda mesmo assim."
 
 # game/script.rpy:18357
 translate pt_br bot_con_question_3f60aec8:
 
     # bot "I don't think Ally would have been possible without her support. Ally wasn't wrong when they called her a doctor. Though, maybe she's more of a psychiatrist."
-    bot ""
+    bot "Eu não acho que o Ally teria sido possível sem a ajuda dela. O Ally não estava errado quando chamou ela de doutora. Mas, talvez ela seja algo mais como uma psiquiatra."
 
 # game/script.rpy:18359
 translate pt_br bot_con_question_4fba8e5c:
 
     # bot "She's always felt like an instructor to me as well, she's had a lot of experience with androids like me, hasn't she?"
-    bot ""
+    bot "Ela sempre foi algo como uma intrutora para mim também, ela tem muita experiência com andróides como eu, não é?"
 
 # game/script.rpy:18360
 translate pt_br bot_con_question_b14e8445:
 
     # c "She has."
-    c ""
+    c "Ela tem mesmo."
 
 # game/script.rpy:18361
 translate pt_br bot_con_question_d5b2aefb:
 
     # bot "Growing up with that bratty little sister has made Kali into a great big sister as well, she's always looking out for me and she has so much patience."
-    bot ""
+    bot "Crescer com aquela irmã mais nova mimada fez Kali se tornar uma ótima irmã mais velha também, ela sempre esteve cuidando de mim e teve tanta paciência."
 
 # game/script.rpy:18363
 translate pt_br bot_con_question_81c7edf3:
 
     # bot "Kali feels like family to me, more than most of the others. It feels like we'll always be close."
-    bot ""
+    bot "Kali é como uma família para mim, mais do que a maioria dos outros. Sinto que vamos sempre ser próximas."
 
 # game/script.rpy:18366
 translate pt_br bot_con_question_becbbb30:
 
     # bot "And Lin... I feel like we often go through the same struggles. People don't understand us as well as we would like them to, and many just resort to hating something they don't understand."
-    bot ""
+    bot "E a Lin... Eu sinto como se sempre passássemos pelas mesmas dificuldades. AS pessoas não nos entendem tão bem quanto gostaríamos que entendessem, e muitas resolvem odiar aquilo que elas não entendem."
 
 # game/script.rpy:18367
 translate pt_br bot_con_question_150e3b0f:
 
     # bot "Even though they aren't conscious of it, the other androids are slaves to humans as well."
-    bot ""
+    bot "Mesmo que eles não estejam conscientes disso, os outros andróides também são escravos dos humanos."
 
 # game/script.rpy:18368
 translate pt_br bot_con_question_bc98ecfa:
 
     # c "Does that bother you?"
-    c ""
+    c "Isso te incomoda?"
 
 # game/script.rpy:18369
 translate pt_br bot_con_question_41fabf5d:
 
     # bot "Not too much. They're all just... husks. They can't feel anything."
-    bot ""
+    bot "Nem tanto. Todos eles são apenas... carcaças. Eles não sentem nada."
 
 # game/script.rpy:18371
 translate pt_br bot_con_question_1b8e81f1:
 
     # bot "I actually feel worse for animals right now... I've seen how humans abuse and modify them for food in giant factories. Doesn't anyone realize they can {i}grow{/i} their own food instead of killing for it?"
-    bot ""
+    bot "Na verdade eu me sinto pior pelos animais no momento... Eu já vi o como os humanos abusam e modificam deles por comida nas grandes fábricas. Nenum deles percebe que eles podem {i}cultivar{/i} a própria comida ao invés de matar por isso?"
 
 # game/script.rpy:18372
 translate pt_br bot_con_question_2dc65268:
 
     # c "I'm sure that's something you and Lin have in common."
-    c ""
+    c "Tenho certeza de que isso é algo que tanto você quanto a Lin têm em comum."
 
 # game/script.rpy:18373
 translate pt_br bot_con_question_bf893ada:
 
     # bot "Yeah, I bet you're right. But we started off a bit rough... I think she felt a bit threatened by me? *sigh*, I never wanted that."
-    bot ""
+    bot "Sim, aposto que você tem razão. Mas nós tivemos um começo meio difícil... Ela deve ter se sentido ameaçada por mim? *ufa*, eu nunca quis isso."
 
 # game/script.rpy:18374
 translate pt_br bot_con_question_06ed7d6b:
 
     # c "Relationships can be tricky to navigate, as I'm sure you understand by now."
-    c ""
+    c "Relacionamentos podem ser difíceis de lidar como, assim como tenho certeza de que você entende agora."
 
 # game/script.rpy:18375
 translate pt_br bot_con_question_8f5107ec:
 
     # bot "Yeah, I'm sure she just didn't want to lose your favor. I couldn't care less about who runs the kitchen though, I'm just happy to help in any way I can."
-    bot ""
+    bot "Sim, eu tenho certeza de que ela não queria perder seu favor. No entanto eu não poderia me importar menos sobre quem iria cuidar da cozinha, eu só estou feliz por ajudar no que eu puder."
 
 # game/script.rpy:18380
 translate pt_br bot_con_question_91f28e5d:
