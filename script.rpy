@@ -36562,169 +36562,169 @@ translate pt_br bot_con_question_8f5107ec:
 translate pt_br bot_con_question_91f28e5d:
 
     # bot "Maria... I'd like to get to know her better. You know, on a personal level. It was really nice of her to help me socialize, but most of what I know about her is her body..."
-    bot ""
+    bot "Maria... Eu gostaria de conhecê-la melhor. Sabe, em um nível mais pessoal. Foi muito legal da parte dela me ajudar a socializar, mas eu conheço mais o corpo dela do que a própria..."
 
 # game/script.rpy:18382
 translate pt_br bot_con_question_fd6dbb92:
 
     # bot "I can tell she has a good heart though, she just thinks with her pussy more often than her brain around me, heheh."
-    bot ""
+    bot "Eu sei que ela tem bom coração, mas ela pensa mais com a buceta do que com o cérebro dela quando ela está perto de mim, heheh."
 
 # game/script.rpy:18383
 translate pt_br bot_con_question_e3cee3a9:
 
     # bot "Don't get me wrong, both of you helped me explore my sexual side and I enjoy it all very much, but life can't only be about the sex. It needs more!"
-    bot ""
+    bot "Não me entenda mal, vocês dois me ajudaram a explorar meu lado sexual e eu gostei muito de tudo isso, mas a vida não pode ser apenas sobre sexo. A vida precisa de mais!"
 
 # game/script.rpy:18384
 translate pt_br bot_con_question_306795e3:
 
     # c "I know what you mean."
-    c ""
+    c "Entendo o que quer dizer."
 
 # game/script.rpy:18387
 translate pt_br bot_con_question_20684c4d:
 
     # bot "Felicity and Emma though... they just treated me like a slave at first. But can I really stay mad at them for that? Understanding me couldn't be easy."
-    bot ""
+    bot "Agora a Felicity e a Emma... elas só me trataram como uma escrava no começo. Mas eu realmente deveria ficar brava com elas por isso? Não é fácil me entender."
 
 # game/script.rpy:18388
 translate pt_br bot_con_question_a165edb9:
 
     # bot "From what I understand, they used to be mean to a lot of people, like Ashley. At that point you have to wonder if something went wrong in their own lives."
-    bot ""
+    bot "Até onde eu sei, elas costumavam ser rudes com um monte de gente, como a Ashley. A tal ponto que nos levava a nos questionar se houve algo errado com as vidas delas."
 
 # game/script.rpy:18391
 translate pt_br bot_con_question_4f2c7d0b:
 
     # bot "But we've had our fun too! Like that time they dressed me up and we did each other's nails! They were just treating me like a doll, but it was fun to be included."
-    bot ""
+    bot "Mas nós nos divertimos também! Como aquela vez em que elas me vestiram e fizemos as unhas umas das outras! Elas estavam me tratando só como uma boneca, mas foi divertido ter sido incluída."
 
 # game/script.rpy:18392
 translate pt_br bot_con_question_728990d4:
 
     # c "You don't hold any grudges?"
-    c ""
+    c "Você não guarda nenhum ressentimento?"
 
 # game/script.rpy:18394
 translate pt_br bot_con_question_0c2808cf:
 
     # bot "I try not to. I would like to get to know them better as well. I'm not that close with them, and I'd like that to change."
-    bot ""
+    bot "Eu tento não guardar. Eu também gostaria de conhecê-las melhor. Eu não sou tão próxima delas, e essas são coisas que eu gostaria de mudar."
 
 # game/script.rpy:18397
 translate pt_br bot_con_question_747453a7:
 
     # bot "To be honest, I used to dislike Autumn the most. She had a hard time even acknowledging the possibility of my existence just because I wasn't organic."
-    bot ""
+    bot "Para ser honesta, a Autumn era quem eu menos gostava. Ela teve muita dificuldade até para conseguir reconhecer a minha existência só porque eu não sõu feita de matéria orgânica."
 
 # game/script.rpy:18398
 translate pt_br bot_con_question_c31946c4:
 
     # bot "But... I was created, just like she claims to be. Is it because we were created by different people? She didn't hate Lin as much though, and they're supposed to be created by The Seldarine..."
-    bot ""
+    bot "Mas... Eu fui criada, assim como ela diz ter sido. Isso acontece porque fomos criadas por pessoas diferentes? Ela não odeia tanto a assim a Lin, e os elfos aparentemente foram criados pelo Seldarino..."
 
 # game/script.rpy:18400
 translate pt_br bot_con_question_89977023:
 
     # bot "All of this religion is so confusing to keep track of... I would delete it from my memory if it didn't matter so much to others."
-    bot ""
+    bot "Toda essa coisa de religião é algo tão difícil pra eu acompanhar... Eu deletaria da minha memória se isso não fosse algo tão importante para os outros."
 
 # game/script.rpy:18401
 translate pt_br bot_con_question_585f9596:
 
     # bot "That's why I'm making my own guide for my people. No gods, no strict rules to follow. Just suggestions!"
-    bot ""
+    bot "E é por isso que eu estou fazendo o meu prórprio guia para meu povo. Sem deuses, sem regras estrítas para seguir. Apenas sugestões!"
 
 # game/script.rpy:18402
 translate pt_br bot_con_question_8539b307:
 
     # c "What happens when someone refuses to follow your suggestions?"
-    c ""
+    c "E o que acontece quando alguém se recusa a seguir suas sugestões?"
 
 # game/script.rpy:18404
 translate pt_br bot_con_question_dd0d5c7d:
 
     # bot "Then they'd probably die, silly."
-    bot ""
+    bot "Então eles provavelmente vão morrer, bobinho."
 
 # game/script.rpy:18405
 translate pt_br bot_con_question_297d93f3:
 
     # c "What?"
-    c ""
+    c "Como é?"
 
 # game/script.rpy:18406
 translate pt_br bot_con_question_a73c72c3:
 
     # bot "Not by my hands. Just, you know, eventually. My guide is meant to give everyone a good start in life and a path to follow. My suggestions are the very basics we need for our survival. Nothing like {i}'You can't wear blue on Tuesdays!'{/i} or {i}'You're not allowed to recharge at mobile homes!'{/i}"
-    bot ""
+    bot "Não pelas minhas mãos. Só, sabe, eventualmente. O meu guia deve dar a todo mundo um bom começo na vida e um caminho a seguir. Minhas sugestões são só o básico do que precisamos para nossa própria sobreviência. Nada como {i}'você não pode usar azul às treças-feiras{/i} ou {i}'Você não tem permissão para recarregar em casas móveis!'{/i}"
 
 # game/script.rpy:18407
 translate pt_br bot_con_question_cc777c61:
 
     # c "Oh, well, as long as you're not being too strict."
-    c ""
+    c "Ah, simm, desde que você não seja estrita demais."
 
 # game/script.rpy:18408
 translate pt_br bot_con_question_6e34f9f5:
 
     # bot "Not at all! Just the basics. I mean, what would you think if your child refused to eat or sleep?"
-    bot ""
+    bot "De jeito nenhum! Apenas o básico. Digo, o que você pensaria se sua crianã se recusasse a comer ou dormir?"
 
 # game/script.rpy:18409
 translate pt_br bot_con_question_a5faf2da:
 
     # c "I see your point."
-    c ""
+    c "Entendo o que quer dizer."
 
 # game/script.rpy:18411
 translate pt_br bot_con_question_85c9c5e9:
 
     # bot "But as I've gotten to know Autumn, I've come to realize she's more open-minded than I thought. Or maybe she's just changing?"
-    bot ""
+    bot "Mas conforme fui conhecendo melhor a Autumnn, eu fui percebendo que ela é mais mente aberta que eu pensava. Ou será que ela apenas está mudando?"
 
 # game/script.rpy:18412
 translate pt_br bot_con_question_eb805985:
 
     # bot "It's nice that she finally considers me an equal now, but it took a lot of work to prove my worth..."
-    bot ""
+    bot "É bom que ela finalmente esteja me considerando como uma igual agora, mas foi muito trabalhoso provar o meu valor..."
 
 # game/script.rpy:18415
 translate pt_br bot_con_question_d8171874:
 
     # bot "I got back at her though, heheh! I convinced her that you were sick and that the only way to cure you was through lewd stuff! And she bought it!"
-    bot ""
+    bot "Eu me vinguei dela aaté, heheh! Eu a convenci de que você estava doente e a única forma de te curar era fazendo coisas pervertidas! E ela acreditou!"
 
 # game/script.rpy:18418
 translate pt_br bot_con_question_a62cb7b7:
 
     # bot "But I had a lot of fun working the cafe with you and Lin! It's unfortunate that her father had another heart attack, but that moment really allowed me and Lin to prove our worth to them."
-    bot ""
+    bot "Mas eu me diverti trabalhando na cafeteria com você e com a Lin! É uma pena que o pai dela tenha tido outro ataque cardíaco, mas aquilo ajudou muito a mim e a Lin a provarmos nosso valor a elas."
 
 # game/script.rpy:18419
 translate pt_br bot_con_question_05c0e406:
 
     # bot "Ever since that moment, Autumn has treated both of us with much more respect. She told me that her family's cafe has always been advertised as a cafe worked by humans, for humans. Which is pretty rare in Syl'anar! So, I guess they thought only humans could do the job."
-    bot ""
+    bot "Desde quele momento, Autumn nos tratou com muito maior respeito. Ela me disse que a cafeteria da família dela sempre deixava claro que era uma cafeteria com trabalhadores humanos, para humanos. O que é bem raro em Syl'anar! Então, acho que elas achavam que só humanos podiam fazer o trabalho. "
 
 # game/script.rpy:18421
 translate pt_br bot_con_question_f4d27104:
 
     # bot "We showed them though, didn't we!"
-    bot ""
+    bot "Mas nós mostramos a ela que conseguimos, não mostramos?!"
 
 # game/script.rpy:18422
 translate pt_br bot_con_question_ef25a05d:
 
     # c "We sure did."
-    c ""
+    c "Com certeza sim."
 
 # game/script.rpy:18429
 translate pt_br bot_con_question_bab48643:
 
     # q "[name]!?"
-    q ""
+    q "[name]!?"
 
 # game/script.rpy:18430
 translate pt_br bot_con_question_4ce77e5e:
