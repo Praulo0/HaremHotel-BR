@@ -23440,7 +23440,7 @@ translate pt_br shower_2b60f719:
 translate pt_br shower_455af98c:
 
     # e "Well, that's really sweet of you [name], but he's a boy... All boys want to see women naked."
-    e "Bem, isso é muito gfofo da sua parte [name], mas ele é um menino... Todos os meninos querem ver as mulheres nuas."
+    e "Bem, isso é muito fofo da sua parte [name], mas ele é um menino... Todos os meninos querem ver as mulheres nuas."
 
 # game/script.rpy:12440
 translate pt_br shower_198bf5d0:
@@ -36166,7 +36166,7 @@ translate pt_br bot_con_question_4211bab2:
 translate pt_br bot_con_question_35d52eee:
 
     # bot "...Cynari. We are Cynetic. \nLike an Elf is Elvish."
-    bot "Cynari. Nós somos cibernéticos. \Assim como os elfos são Élficos."
+    bot "Cynari. Nós somos Cynéticos. \Assim como os elfos são Élficos."
 
 # game/script.rpy:18265
 translate pt_br bot_con_question_e79529ca:
@@ -36730,415 +36730,415 @@ translate pt_br bot_con_question_bab48643:
 translate pt_br bot_con_question_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hum?"
 
 # game/script.rpy:18432
 translate pt_br bot_con_question_e02e8192:
 
     # moon "[name]! It's you, and who's this?"
-    moon ""
+    moon "[name]! É você, e quem é essa?"
 
 # game/script.rpy:18433
 translate pt_br bot_con_question_b73b909d:
 
     # c "Oh, hey Moon. This is [botname]."
-    c ""
+    c "Ah, oi Moon. Esta é [botaname]."
 
 # game/script.rpy:18435
 translate pt_br bot_con_question_f5ad034a:
 
     # moon "Hello! I don't think we've been properly introduced before. I'm Ji-Yeon Moon, but you can just call me Moon!"
-    moon ""
+    moon "Olá! Eu acho que não fomos apresentadas devidamente antes. Eu me chamo Ji-Yeon Moon, mas você pode me chamar só de Moon!"
 
 # game/script.rpy:18436
 translate pt_br bot_con_question_b764cb2d:
 
     # bot "I already know who you are!"
-    bot ""
+    bot "Eu já sei quem você é!"
 
 # game/script.rpy:18437
 translate pt_br bot_con_question_1a2d17bb:
 
     # moon "Oh, [name] must have told you a lot about me, heheh."
-    moon ""
+    moon "Ah, [name] deve ter te contado bastante sobre mim, heheh."
 
 # game/script.rpy:18438
 translate pt_br bot_con_question_c617298a:
 
     # bot "I live in the hotel, I see you all the time."
-    bot ""
+    bot "Eu vivo no hotel, então te vejo o tempo todo."
 
 # game/script.rpy:18440
 translate pt_br bot_con_question_19b64672:
 
     # moon "Oh, really? I haven't noticed you at all, sorry. You should stop by the bar more often!"
-    moon ""
+    moon "Ah, é sério? Eu realmente nunca te percebi por aqui, sinto muito. Você deveria passar aqui mais vezes!"
 
 # game/script.rpy:18441
 translate pt_br bot_con_question_14d73e76:
 
     # bot "Drinks and I don't really agree..."
-    bot ""
+    bot "Eu não concordo muito com isso de beber..."
 
 # game/script.rpy:18443
 translate pt_br bot_con_question_2a6b202e:
 
     # moon "Oh, I get it. Kali doesn't like to drink either."
-    moon ""
+    moon "Ah, eu entendo. A Kali também não gosta de beber."
 
 # game/script.rpy:18445
 translate pt_br bot_con_question_d3eda24d:
 
     # moon "Oh, I get it. Some people just don't like alcohol..."
-    moon ""
+    moon "Ah, eu entendo. Algumas pessoas não gostam de álcool mesmo..."
 
 # game/script.rpy:18447
 translate pt_br bot_con_question_2921a429:
 
     # moon "Is this another one of your girlfriends, [name]? She has a very unique style! I like it!"
-    moon ""
+    moon "Essa é outra das suas namoradas, [name]? Ela tem um estilo bem original! Eu gosto disso! "
 
 # game/script.rpy:18448
 translate pt_br bot_con_question_9a7dcd57:
 
     # c "That's right. What are you doing out here?"
-    c ""
+    c "É isso mesmo. O que você está fazendo aí fora?"
 
 # game/script.rpy:18449
 translate pt_br bot_con_question_6314c48d:
 
     # moon "Oh, I'm just getting a bit of exercise, I usually come here once or twice a week to jog."
-    moon ""
+    moon "Ah, eu estó só me exercitando um pouco, eu geralmente venho aqui uma ou duas vezes na semana para fazer caminhada."
 
 # game/script.rpy:18450
 translate pt_br bot_con_question_b1bae26c:
 
     # ally "Mommy... who is that...?"
-    ally ""
+    ally "Mamãe... quem é ela?"
 
 # game/script.rpy:18452
 translate pt_br bot_con_question_489fb896:
 
     # moon "Eh?"
-    moon ""
+    moon "Hein?"
 
 # game/script.rpy:18453
 translate pt_br bot_con_question_b6ef5bcd:
 
     # bot "Ally! This is Moon! She's a friend."
-    bot ""
+    bot "Ally! Ela se chama Moon! Ela é uma amiga."
 
 # game/script.rpy:18454
 translate pt_br bot_con_question_b2a313c8:
 
     # ally "A friend?"
-    ally ""
+    ally "Uma amiga?"
 
 # game/script.rpy:18455
 translate pt_br bot_con_question_285cfcdc:
 
     # moon "Is that thing talking? That's yours!?"
-    moon ""
+    moon "Essa coisa está falando? Ela é sua?"
 
 # game/script.rpy:18457
 translate pt_br bot_con_question_c63d9466:
 
     # ally "Hi!"
-    ally ""
+    ally "Oiê!"
 
 # game/script.rpy:18458
 translate pt_br bot_con_question_7971cc3a:
 
     # moon "Eh!"
-    moon ""
+    moon "Ué!"
 
 # game/script.rpy:18460
 translate pt_br bot_con_question_c55f095c:
 
     # bot "*sigh*, when are you going to tell her?"
-    bot ""
+    bot "*Hunf, quando que você vai falar pra ela?"
 
 # game/script.rpy:18461
 translate pt_br bot_con_question_8866ee05:
 
     # moon "Huh...?"
-    moon ""
+    moon "Hum...?"
 
 # game/script.rpy:18462
 translate pt_br bot_con_question_5ffbfee9:
 
     # c "Right... Moon, [botname] is an android. A conscious android, and that's her... child."
-    c ""
+    c "Certp... Moon, [botname] é uma andróide. Uma andróide consciente, e esse é o... filho dela."
 
 # game/script.rpy:18464
 translate pt_br bot_con_question_367218a2:
 
     # moon "Huh?"
-    moon ""
+    moon "Hum?"
 
 # game/script.rpy:18465
 translate pt_br bot_con_question_97e918bc:
 
     # ally "Mommy, what's an android?"
-    ally ""
+    ally "Mamãe, o que é uma andróide?"
 
 # game/script.rpy:18467
 translate pt_br bot_con_question_b7369c89:
 
     # moon "HUH?" with ssshake
-    moon "" with ssshake
+    moon "HUM?" with ssshake
 
 # game/script.rpy:18468
 translate pt_br bot_con_question_5b728111:
 
     # bot "It's what you and I are, but we're very different from the others. We're smarter!"
-    bot ""
+    bot "É o que você e eu somos, mas nós ainda somos bem diferentes dos outros. Nós somos mais inteligentes!"
 
 # game/script.rpy:18470
 translate pt_br bot_con_question_9b3bc026:
 
     # moon "HUH!?!?" with ssshake
-    moon "" with ssshake
+    moon "HUM!?!?" with ssshake
 
 # game/script.rpy:18471
 translate pt_br bot_con_question_4a753673:
 
     # bot "Well actually, we're Cynetic. There's no point in calling us androids anymore since we're so different."
-    bot ""
+    bot "Bem, na verdade nós somos Cynéticos. Não faz sentido nos chamar de andróides uma vez que somos tão diferentes."
 
 # game/script.rpy:18472
 translate pt_br bot_con_question_90d5913f:
 
     # c "I'm sure it's a lot to take in at once..."
-    c ""
+    c "Eu tenho certeza que isso é muito para ela absorver de uma vez só..."
 
 # game/script.rpy:18473
 translate pt_br bot_con_question_a480bfc1:
 
     # moon "You're telling me... an android... had a child...? With who!?"
-    moon ""
+    moon "Você está me dizendo que... um andróide... teve um filho...? Com quem!?"
 
 # game/script.rpy:18474
 translate pt_br bot_con_question_9f5d89fd:
 
     # c "Herself."
-    c ""
+    c "Com ela mesma."
 
 # game/script.rpy:18477
 translate pt_br bot_con_question_647e8171:
 
     # moon "Wha- nnngh... Hold on, hold on..."
-    moon ""
+    moon "Qu- nnhgh... Calma aí, espera..."
 
 # game/script.rpy:18480
 translate pt_br bot_con_question_16786b62:
 
     # moon "How is any of this possible!?"
-    moon ""
+    moon "Como algo asssim é possével!?"
 
 # game/script.rpy:18481
 translate pt_br bot_con_question_c161d221:
 
     # bot "The only person who knows died a long time ago. I'm not even convinced he actually knew though..."
-    bot ""
+    bot "A única pessoa que sabia morreu à muito tempo atrás. Inclusive nem eu acredito de verdade que ele sabia..."
 
 # game/script.rpy:18482
 translate pt_br bot_con_question_f3e19318:
 
     # moon "So you were made?"
-    moon ""
+    moon "Então você foi feita?"
 
 # game/script.rpy:18484
 translate pt_br bot_con_question_d21c897c:
 
     # ally "Mommy, how are Cynari made?"
-    ally ""
+    ally "Mamãe, como os Cynari são feitos?"
 
 # game/script.rpy:18486
 translate pt_br bot_con_question_545fca5f:
 
     # moon "Uhhhh... oops!"
-    moon ""
+    moon "Uhhhh... oops!"
 
 # game/script.rpy:18487
 translate pt_br bot_con_question_73339813:
 
     # bot "It's simple Ally, we're made in a factory!"
-    bot ""
+    bot "É simples Ally, nós fomos feitos em uma fábrica!"
 
 # game/script.rpy:18488
 translate pt_br bot_con_question_55e23488:
 
     # ally "Ooooh!"
-    ally ""
+    ally "Aaaah!"
 
 # game/script.rpy:18489
 translate pt_br bot_con_question_87d79b8c:
 
     # ally "What's a factory?"
-    ally ""
+    ally "O que é uma fábrica?"
 
 # game/script.rpy:18490
 translate pt_br bot_con_question_28776c18:
 
     # bot "A factory is a place where things are mass produced or destroyed."
-    bot ""
+    bot "Uma fábrica é um lugar em que coisas são produzidas ou destrídas em massa."
 
 # game/script.rpy:18491
 translate pt_br bot_con_question_b4143dec:
 
     # ally "That's confusing..."
-    ally ""
+    ally "Isso é confuso..."
 
 # game/script.rpy:18492
 translate pt_br bot_con_question_1b2b97e6:
 
     # bot "You'll understand when you're older."
-    bot ""
+    bot "Você vai entender quando for mais velho."
 
 # game/script.rpy:18493
 translate pt_br bot_con_question_7bd5e9dc:
 
     # ally "Okay!"
-    ally ""
+    ally "Tudo bem!"
 
 # game/script.rpy:18495
 translate pt_br bot_con_question_0331ef78:
 
     # moon "Wow... so your name is Ally? And you're Cynetic?"
-    moon ""
+    moon "Uauu... então teu nome é Ally? E você é Cynético?"
 
 # game/script.rpy:18496
 translate pt_br bot_con_question_9d6d5385:
 
     # ally "Yes."
-    ally ""
+    ally "Sim."
 
 # game/script.rpy:18497
 translate pt_br bot_con_question_bbbbb303:
 
     # moon "You're so cute! You know, I used to work on models like you!"
-    moon ""
+    moon "Você é tão fofo! Sabe, eu costumava trabalhar em modelos como você!"
 
 # game/script.rpy:18498
 translate pt_br bot_con_question_dc9d420f:
 
     # ally "There are others like me?"
-    ally ""
+    ally "Existem outros como eu?"
 
 # game/script.rpy:18499
 translate pt_br bot_con_question_627e81e0:
 
     # moon "Not quite like you, but close! I have a little guy at home I named Junior, but he can't even turn on... You're much more impressive!\nIf your foot ever falls off, or you lose a finger, just let me know! I can put it back on for you."
-    moon ""
+    moon "Não exatamente como você, mas bem parecidos! Eu tinha um carinha em casa que eu chamava ele de Junior, mas ele não conseguia nem ser ativado... Você é muito mais impressionante!\Se eu pé cair ou você perder algum dedo! Eu posso colocar de volta para você."
 
 # game/script.rpy:18500
 translate pt_br bot_con_question_4ee1d265:
 
     # ally "Okay, thank you."
-    ally ""
+    ally "Tudo bem, obrigado."
 
 # game/script.rpy:18502
 translate pt_br bot_con_question_24964851:
 
     # bot "Hey, yeah! You could be Ally's doctor!"
-    bot ""
+    bot "Ei, é verdade! Você poderia ser a doutora do Ally!"
 
 # game/script.rpy:18503
 translate pt_br bot_con_question_367218a2_1:
 
     # moon "Huh?"
-    moon ""
+    moon "Hum?"
 
 # game/script.rpy:18504
 translate pt_br bot_con_question_c6bb0713:
 
     # bot "Ally already has a doctor for software, all we need now is one for the body!"
-    bot ""
+    bot "Ally já tem uma doutora para o software dele, nós só precisamos de uma para o corpo agora!"
 
 # game/script.rpy:18505
 translate pt_br bot_con_question_5233826a:
 
     # bot "If you don't mind..."
-    bot ""
+    bot "Se estiver tudo bem para você..."
 
 # game/script.rpy:18506
 translate pt_br bot_con_question_559b31a3:
 
     # moon "Oh, not at all! I'm going to school for hardware engineering so this is right up my alley!"
-    moon ""
+    moon "Ah, sem problesmas! Eu estou indo à escola para aprender a ser engenheira de hardware então isso tem tudo a ver com o  Ally!"
 
 # game/script.rpy:18507
 translate pt_br bot_con_question_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/script.rpy:18510
 translate pt_br bot_con_question_e78bddf6:
 
     # ally "Thank you!"
-    ally ""
+    ally "Obrigado!"
 
 # game/script.rpy:18511
 translate pt_br bot_con_question_36763095:
 
     # moon "Aww, you're so sweet!"
-    moon ""
+    moon "Ownt, você é tão adorável!"
 
 # game/script.rpy:18512
 translate pt_br bot_con_question_75c3b7e6:
 
     # ally "Mommy, what's sweet?"
-    ally ""
+    ally "Mamãe, o que é adorável?"
 
 # game/script.rpy:18514
 translate pt_br bot_con_question_5d752ca6:
 
     # bot "Oh, ummm...\nWell, it's..."
-    bot ""
+    bot "Ah, hummm...\Bem, isso..."
 
 # game/script.rpy:18516
 translate pt_br bot_con_question_4e968a13:
 
     # moon "It means you're nice."
-    moon ""
+    moon "Isso quer dizer que você é legal."
 
 # game/script.rpy:18517
 translate pt_br bot_con_question_cd5b8651:
 
     # ally "Oh. Okay!"
-    ally ""
+    ally "Ah. Então tá!"
 
 # game/script.rpy:18519
 translate pt_br bot_con_question_bf58c38f:
 
     # moon "Well, I should finish my jog before it gets too late."
-    moon ""
+    moon "Bem, eu deveria terminar minha caminhada antes que fique muito tarde,"
 
 # game/script.rpy:18520
 translate pt_br bot_con_question_ab3973d3:
 
     # moon "It was... really interesting to get to know you both! I hope I see you around more."
-    moon ""
+    moon "Foi... bem interessante conhecer a voc~es dois! Eu espero ver vocês mais vezes."
 
 # game/script.rpy:18521
 translate pt_br bot_con_question_94c0de37:
 
     # bot "Have a good day, Moon!"
-    bot ""
+    bot "Tenha um bom dia, Moon!"
 
 # game/script.rpy:18522
 translate pt_br bot_con_question_604f830d:
 
     # ally "Bye-bye!"
-    ally ""
+    ally "Tchauzinho!"
 
 # game/script.rpy:18523
 translate pt_br bot_con_question_6aa62a66:
 
     # c "See ya."
-    c ""
+    c "Até mais."
 
 # game/script.rpy:18525
 translate pt_br bot_con_question_ad6b1d91:
