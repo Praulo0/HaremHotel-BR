@@ -37144,619 +37144,619 @@ translate pt_br bot_con_question_6aa62a66:
 translate pt_br bot_con_question_ad6b1d91:
 
     # bot "You never told me someone so nice was working in the bar! She's an engineer too!"
-    bot ""
+    bot "Você nunca me falou que tinha alguém tão legal trabalhando no bar! Ela é engenheira também!"
 
 # game/script.rpy:18526
 translate pt_br bot_con_question_1465ae02:
 
     # c "I thought you would have met her by now."
-    c ""
+    c "Eu pensei que a esse ponto você já tivesse conhecido ela."
 
 # game/script.rpy:18527
 translate pt_br bot_con_question_d06195ec:
 
     # bot "There's no reason for me to go to the bar."
-    bot ""
+    bot "Não havia nenhum motivo para que eu fosse ao bar."
 
 # game/script.rpy:18530
 translate pt_br bot_con_question_56336a7e:
 
     # ally "Mommy! I want to go to the bar! Can we go? Please? Pleeeeease?"
-    ally ""
+    ally "Mamãe! Eu quero ir ao bar! Nós podemos ir? Por favor? Por favooooor?"
 
 # game/script.rpy:18531
 translate pt_br bot_con_question_37b4ca99:
 
     # bot "Oh, you're too young to go to the bar. But maybe when you're older."
-    bot ""
+    bot "Ah, você é muito novo para ir ao bar. Mas talvez quando você for mais velho."
 
 # game/script.rpy:18532
 translate pt_br bot_con_question_53b7a727:
 
     # ally "Whaaat? But I can talk, and walk, and everything now! I want to meet more nice people like Ms. Moon!"
-    ally ""
+    ally "O quêêê? Mas eu consigo conversar, falar e tudo o mais agora! Eu quero conhecer mais pessoas legais que nem a Sra. Moon!"
 
 # game/script.rpy:18534
 translate pt_br bot_con_question_03d5c38a:
 
     # bot "*sigh*, Ally is going to be hard for me to raise alone after all... I don't have the slightest clue how humans are going to get along with Ally."
-    bot ""
+    bot "*hunf*, afinal, vai ser difícil eu criar Ally sozinha... Eu não faço a menor ideia de como os humanos vão se dar bem com o Ally."
 
 # game/script.rpy:18535
 translate pt_br bot_con_question_4f4707d4:
 
     # c "I'm here to help."
-    c ""
+    c "Eu estou aqui pra ajudar."
 
 # game/script.rpy:18536
 translate pt_br bot_con_question_46513931_1:
 
     # bot "Thank you."
-    bot ""
+    bot "Obrigada."
 
 # game/script.rpy:18538
 translate pt_br bot_con_question_3da9cd81:
 
     # bot "Come on Ally, it's time to head back home."
-    bot ""
+    bot "Vamos Ally, é hora de voltarmos para casa."
 
 # game/script.rpy:18539
 translate pt_br bot_con_question_3f7ff830:
 
     # ally "Awww... okay..."
-    ally ""
+    ally "Ahhh... tudo bem..."
 
 # game/script.rpy:18541
 translate pt_br bot_con_question_de9d92c3:
 
     # ally "{size=-5}{i}Ummm...{/i}{/size}"
-    ally ""
+    ally "{size=-5}{i}Hummm...{/i}}/size"
 
 # game/script.rpy:18542
 translate pt_br bot_con_question_2afe3cd2:
 
     # bot "What is it Ally? Do you want to grab his hand?"
-    bot ""
+    bot "O que foi Ally? Você quer segurar a mão dele?"
 
 # game/script.rpy:18543
 translate pt_br bot_con_question_0dd3f5c5:
 
     # ally "Is it really okay?"
-    ally ""
+    ally "Eu posso mesmo?"
 
 # game/script.rpy:18544
 translate pt_br bot_con_question_02d71591:
 
     # bot "Of course, go ahead."
-    bot ""
+    bot "Mas é claro, vá em frente."
 
 # game/script.rpy:18546
 translate pt_br bot_con_question_1a5b05f5:
 
     # ally "Okay! Heheh!"
-    ally ""
+    ally "Tudo bem! Heheh!"
 
 # game/script.rpy:18547
 translate pt_br bot_con_question_2e67103d:
 
     # ally "Wow, your hand is bigger than Mom's!"
-    ally ""
+    ally "Uau, a tua mãe é maior do que a da Mamãe!"
 
 # game/script.rpy:18549
 translate pt_br bot_con_question_0970121d:
 
     # ally "You're really tall, too!"
-    ally ""
+    ally "Você é muito alto, também!"
 
 # game/script.rpy:18550
 translate pt_br bot_con_question_9dd589ea:
 
     # c "Maybe next time I'll let you ride on my shoulders."
-    c ""
+    c "Talvez na próxima vez eu deixe você ficar nos meus ombros."
 
 # game/script.rpy:18551
 translate pt_br bot_con_question_3177456e:
 
     # ally "*gasp*! Yes! Then {i}I{/i} would be taller than {i}you!{/i} Heheh!"
-    ally ""
+    ally "*gasp! Isso! Então {i}eu{/i} vou ficar mais alto que {i}você{/i} Heheh!
 
 # game/script.rpy:18565
 translate pt_br ally_park_play_271bf578:
 
     # bot "Look, Ally is having so much fun already!"
-    bot ""
+    bot "Olha só, o Ally já está se divertindo bastante!"
 
 # game/script.rpy:18566
 translate pt_br ally_park_play_5c49bf69:
 
     # ally "Ehehehe! Come here!"
-    ally ""
+    ally "Ehehehe! Vem cá!"
 
 # game/script.rpy:18567
 translate pt_br ally_park_play_9315a85e:
 
     # c "Don't hurt the kitten, Ally."
-    c ""
+    c "Não machuque o gatinho, Ally."
 
 # game/script.rpy:18568
 translate pt_br ally_park_play_0223c17c:
 
     # ally "Okay! I won't!"
-    ally ""
+    ally "Tudo bem! Eu não vou!"
 
 # game/script.rpy:18574
 translate pt_br ally_park_play_80141d98:
 
     # ally "Hey, how did you get up there...? I can't reach you..."
-    ally ""
+    ally "Ei, como você chegou aí...? Eu não consigo te alcançar..."
 
 # game/script.rpy:18575
 translate pt_br ally_park_play_aaab7585:
 
     # bot "It's okay, Ally. He just doesn't want to play right now."
-    bot ""
+    bot "Está tudo bem, Ally. Ele só não quer brincar agora."
 
 # game/script.rpy:18576
 translate pt_br ally_park_play_eec20a51:
 
     # ally "Aww..."
-    ally ""
+    ally "Ahh..."
 
 # game/script.rpy:18582
 translate pt_br ally_park_play_ac1d1bb3:
 
     # bot "Aww! Ally is already trying to make friends. They're so curious about the world. They want to learn, have fun, and experience new things!"
-    bot ""
+    bot "Ownt! O Ally á está tentando fazer amigos. Ele é tão curioso sobre o mundo. Ele quer apreder, se divertir e experienciar coisas novas!"
 
 # game/script.rpy:18583
 translate pt_br ally_park_play_dcc011e6:
 
     # ally "Hello~"
-    ally ""
+    ally "Olá~"
 
 # game/script.rpy:18584
 translate pt_br ally_park_play_16b85c34:
 
     # boy "Woah! Hello!"
-    boy ""
+    boy "Uau! Olá!"
 
 # game/script.rpy:18586
 translate pt_br ally_park_play_8f461601:
 
     # bot "Ally is so cute."
-    bot ""
+    bot "O Ally é tão fofo."
 
 # game/script.rpy:18592
 translate pt_br ally_park_play_b6fdf9e8:
 
     # ally "Mommy! Look what that human showed me!"
-    ally ""
+    ally "Mamãe! Olha o que aquele humano me mostrou!"
 
 # game/script.rpy:18593
 translate pt_br ally_park_play_61b2f54a:
 
     # bot "That boy taught you how to do that? Good job! I'm so proud of you!"
-    bot ""
+    bot "Aquele menino te ensinou como fazer aquilo? Bom trabalho! Eu estou muito orgulhosa de você!"
 
 # game/script.rpy:18594
 translate pt_br ally_park_play_29e510df:
 
     # ally "Mhm! I can do it better though!"
-    ally ""
+    ally "Mhm! Mas eu consigo fazer melhor!"
 
 # game/script.rpy:18595
 translate pt_br ally_park_play_00a48c36:
 
     # bot "I see that~"
-    bot ""
+    bot "Eu estou vendo~"
 
 # game/script.rpy:18601
 translate pt_br ally_park_play_b7778838:
 
     # ally "Look Mommy, look! I'm the best at balancing!"
-    ally ""
+    ally "Olha Mamãe, olha! Eu sou o melhor em balançar!"
 
 # game/script.rpy:18602
 translate pt_br ally_park_play_086d6b00:
 
     # bot "O-Oh my! That's not very safe Ally!"
-    bot ""
+    bot "A-Ai céus! Isso não é muito seguro Ally!"
 
 # game/script.rpy:18604
 translate pt_br ally_park_play_61e1cc1d:
 
     # ally "It's okay! I can't fall!"
-    ally ""
+    ally "Está tudo bem! Eu não vou cair!"
 
 # game/script.rpy:18605
 translate pt_br ally_park_play_9fbc29c4:
 
     # c "If a gust of wind comes you will."
-    c ""
+    c "Se vier uma rajada de vento, você vai."
 
 # game/script.rpy:18606
 translate pt_br ally_park_play_d66d03bf:
 
     # bot "Calculate external factors, silly!"
-    bot ""
+    bot "Calcule os fatores externos, bobinho!"
 
 # game/script.rpy:18607
 translate pt_br ally_park_play_de4a807d:
 
     # ally "Fiiiine..."
-    ally ""
+    ally "Tá boooom..."
 
 # game/script.rpy:18609
 translate pt_br ally_park_play_016b653b:
 
     # bot "What a rascal..."
-    bot ""
+    bot "Que pestinha..."
 
 # game/script.rpy:18631
 translate pt_br bot_cyberspace_e374942f:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 01110000{w=0.5}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 01110000{w=0.5}{nw}"
 
 # game/script.rpy:18632
 translate pt_br bot_cyberspace_01a451a7:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 0111000{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 0111000{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18633
 translate pt_br bot_cyberspace_4872806f:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 011100{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 011100{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18634
 translate pt_br bot_cyberspace_47716f93:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 01110{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 01110{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18635
 translate pt_br bot_cyberspace_9f035ff3:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 0111{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 0111{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18636
 translate pt_br bot_cyberspace_8644351e:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 011{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 011{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18637
 translate pt_br bot_cyberspace_96c71f8d:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 01{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 01{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18638
 translate pt_br bot_cyberspace_80101506:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101 0{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101 0{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18639
 translate pt_br bot_cyberspace_f746dffd:
 
     # "01110111 01100001 01101011 01100101 00100000 01110101{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110101{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18640
 translate pt_br bot_cyberspace_6d9a4eae:
 
     # "01110111 01100001 01101011 01100101 00100000 0111010{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 0111010{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18641
 translate pt_br bot_cyberspace_6b7aeae7:
 
     # "01110111 01100001 01101011 01100101 00100000 011101{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 011101{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18642
 translate pt_br bot_cyberspace_b1f2e4ca:
 
     # "01110111 01100001 01101011 01100101 00100000 01110{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01110{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18643
 translate pt_br bot_cyberspace_b7e41ec4:
 
     # "01110111 01100001 01101011 01100101 00100000 0111{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 0111{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18644
 translate pt_br bot_cyberspace_6ecf3e76:
 
     # "01110111 01100001 01101011 01100101 00100000 011{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 011{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18645
 translate pt_br bot_cyberspace_10b42d09:
 
     # "01110111 01100001 01101011 01100101 00100000 01{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 01{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18646
 translate pt_br bot_cyberspace_f79f731c:
 
     # "01110111 01100001 01101011 01100101 00100000 0{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000 0{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18647
 translate pt_br bot_cyberspace_87dbfd74:
 
     # "01110111 01100001 01101011 01100101 00100000{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100000{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18648
 translate pt_br bot_cyberspace_d72a4864:
 
     # "01110111 01100001 01101011 01100101 0010000{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 0010000{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18649
 translate pt_br bot_cyberspace_cb6448a0:
 
     # "01110111 01100001 01101011 01100101 001000{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 001000{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18650
 translate pt_br bot_cyberspace_9d4f40db:
 
     # "01110111 01100001 01101011 01100101 00100{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00100{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18651
 translate pt_br bot_cyberspace_15d710db:
 
     # "01110111 01100001 01101011 01100101 0010{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 0010{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18652
 translate pt_br bot_cyberspace_5b492ca5:
 
     # "01110111 01100001 01101011 01100101 001{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 001{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18653
 translate pt_br bot_cyberspace_df64ec1c:
 
     # "01110111 01100001 01101011 01100101 00{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 00{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18654
 translate pt_br bot_cyberspace_bf1dabce:
 
     # "01110111 01100001 01101011 01100101 0{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101 0{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18655
 translate pt_br bot_cyberspace_bed0d04a:
 
     # "01110111 01100001 01101011 01100101{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100101{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18656
 translate pt_br bot_cyberspace_d568cf8a:
 
     # "01110111 01100001 01101011 0110010{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 0110010{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18657
 translate pt_br bot_cyberspace_59c69c86:
 
     # "01110111 01100001 01101011 011001{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 011001{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18658
 translate pt_br bot_cyberspace_7e725522:
 
     # "01110111 01100001 01101011 01100{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01100{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18659
 translate pt_br bot_cyberspace_d9b5437e:
 
     # "01110111 01100001 01101011 0110{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 0110{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18660
 translate pt_br bot_cyberspace_0ff0b113:
 
     # "01110111 01100001 01101011 011{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 011{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18661
 translate pt_br bot_cyberspace_b4d3d785:
 
     # "01110111 01100001 01101011 01{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 01{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18662
 translate pt_br bot_cyberspace_bab23bba:
 
     # "01110111 01100001 01101011 0{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011 0{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18663
 translate pt_br bot_cyberspace_c6c00f24:
 
     # "01110111 01100001 01101011{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101011{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18664
 translate pt_br bot_cyberspace_d1d0cbdd:
 
     # "01110111 01100001 0110101{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 0110101{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18665
 translate pt_br bot_cyberspace_9d118d9d:
 
     # "01110111 01100001 011010{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 011010{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18666
 translate pt_br bot_cyberspace_8f60552e:
 
     # "01110111 01100001 01101{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01101{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18667
 translate pt_br bot_cyberspace_e784ff76:
 
     # "01110111 01100001 0110{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 0110{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18668
 translate pt_br bot_cyberspace_dbf4461f:
 
     # "01110111 01100001 011{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 011{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18669
 translate pt_br bot_cyberspace_17ed4847:
 
     # "01110111 01100001 01{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 01{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18670
 translate pt_br bot_cyberspace_3003e175:
 
     # "01110111 01100001 0{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001 0{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18671
 translate pt_br bot_cyberspace_29d7fe66:
 
     # "01110111 01100001{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100001{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18672
 translate pt_br bot_cyberspace_b82ea41c:
 
     # "01110111 0110000{fast}{w=0.01}{nw}"
-    ""
+    "01110111 0110000{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18673
 translate pt_br bot_cyberspace_0e0083e9:
 
     # "01110111 011000{fast}{w=0.01}{nw}"
-    ""
+    "01110111 011000{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18674
 translate pt_br bot_cyberspace_27284d51:
 
     # "01110111 01100{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01100{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18675
 translate pt_br bot_cyberspace_fcd21bb7:
 
     # "01110111 0110{fast}{w=0.01}{nw}"
-    ""
+    "01110111 0110{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18676
 translate pt_br bot_cyberspace_cb705827:
 
     # "01110111 011{fast}{w=0.01}{nw}"
-    ""
+    "01110111 011{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18677
 translate pt_br bot_cyberspace_de767d6b:
 
     # "01110111 01{fast}{w=0.01}{nw}"
-    ""
+    "01110111 01{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18678
 translate pt_br bot_cyberspace_99b35670:
 
     # "01110111 0{fast}{w=0.01}{nw}"
-    ""
+    "01110111 0{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18679
 translate pt_br bot_cyberspace_96921c28:
 
     # "01110111 .{fast}{w=0.01}{nw}"
-    ""
+    "01110111 .{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18680
 translate pt_br bot_cyberspace_c2561bd5:
 
     # "01110111..{fast}{w=0.01}{nw}"
-    ""
+    "01110111..{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18681
 translate pt_br bot_cyberspace_1b814bbd:
 
     # "0111011...{fast}{w=0.01}{nw}"
-    ""
+    "0111011...{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18682
 translate pt_br bot_cyberspace_22acd5f0:
 
     # "0111 up...{fast}{w=0.01}{nw}"
-    ""
+    "0111 up...{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18683
 translate pt_br bot_cyberspace_d1758b28:
 
     # "011e up...{fast}{w=0.01}{nw}"
-    ""
+    "011e up...{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18684
 translate pt_br bot_cyberspace_156653e1:
 
     # "01ke up...{fast}{w=0.01}{nw}"
-    ""
+    "01ke up...{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18685
 translate pt_br bot_cyberspace_57cf651f:
 
     # "0ake up...{fast}{w=0.01}{nw}"
-    ""
+    "0ake up...{fast}{w=0.01}{nw}"
 
 # game/script.rpy:18686
 translate pt_br bot_cyberspace_579f3144:
 
     # "Wake up...{fast}{w=1}{nw}"
-    ""
+    "Wake up...{fast}{w=1}{nw}"
 
 # game/script.rpy:18688
 translate pt_br bot_cyberspace_62ae9eb5:
 
     # "Wake up...!{fast}{w=1}{nw}"
-    ""
+    "Acorde...!{fast}{w=1}{nw}"
 
 # game/script.rpy:18691
 translate pt_br bot_cyberspace_cb788c12:
 
     # "Don't be scared...{fast}"
-    ""
+    "Não fique assustado...{fast}"
 
 # game/script.rpy:18694
 translate pt_br bot_cyberspace_6f8c7c3f:
 
     # "Come on, you can do it...!"
-    ""
+    "Vamos lá, você consegue fazer isso...!"
 
 # game/script.rpy:18697
 translate pt_br bot_cyberspace_ca0592ae:
 
     # bot "There you are."
-    bot ""
+    bot "Aqui está você."
 
 # game/script.rpy:18700
 translate pt_br bot_cyberspace_752198a5:
 
     # bot "Welcome to Cyberspace. Sorry it took me so long to tidy up, but everything is almost ready now."
-    bot ""
+    bot "Bem vinda ao Ciberespaço. Peço desculpas que eu tenha levado tanto tempo para arrumar tudo, mas agora está quase tudo pronto."
 
 # game/script.rpy:18701
 translate pt_br bot_cyberspace_6669cd21:
