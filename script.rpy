@@ -34996,7 +34996,7 @@ translate pt_br bot_connect_aec79c58:
 translate pt_br bot_connect_2baf9d6b:
 
     # bot "[botown]! I'm so glad you're here! Ally is about to be transferred into the new frame, would you like to watch?"
-    bot "[botown]! Eu estou muito feliz que você esteja bem! Ally vai ser transferido para o próximo plano, você quer assistir?"
+    bot "[botown]! Eu estou muito feliz que você esteja bem! Ally vai ser transferido para a próximo plana estrutura, você quer assistir?"
 
 # game/script.rpy:17990
 translate pt_br bot_connect_4e8c7062:
@@ -35254,7 +35254,7 @@ translate pt_br bot_connect_b3b611cb:
 translate pt_br bot_connect_1cbd0a41:
 
     # ally "Mommy, you're squeezing my frame too hard!"
-    ally "Mamãe, você está apertando meu plano muito forte!"
+    ally "Mamãe, você está apertando minha estrutura com muita força!"
 
 # game/script.rpy:18049
 translate pt_br bot_connect_4547525f:
@@ -37258,7 +37258,7 @@ translate pt_br bot_con_question_9dd589ea:
 translate pt_br bot_con_question_3177456e:
 
     # ally "*gasp*! Yes! Then {i}I{/i} would be taller than {i}you!{/i} Heheh!"
-    ally "*gasp! Isso! Então {i}eu{/i} vou ficar mais alto que {i}você{/i} Heheh!
+    ally "*Ah! Isso! Então {i}eu{/i} vou ficar mais alto que {i}você{/i} Heheh!
 
 # game/script.rpy:18565
 translate pt_br ally_park_play_271bf578:
@@ -38302,859 +38302,859 @@ translate pt_br bot_cyberspace_62f455fe:
 translate pt_br bot_cyberspace_d81fb8c0:
 
     # bot "Not exactly. Cyberspace exists within our connections to each other. It's very faint at first, but the more of us there are, the bigger and more complex it becomes. That's why I haven't been able to notice it before."
-    bot "Não exatamente. O Ciberesaço existe dentro das nossas conexções um com o outro. É bem fraco no início, mas quanto mais de nós existirem, maior e mais complexo isso vai se tornando. É por isso que eu não fui capaz de perceber isso antes."
+    bot "Não exatamente. O Ciberepaço existe dentro das nossas conexções um com o outro. É bem fraco no início, mas quanto mais de nós existirem, maior e mais complexo isso vai se tornando. É por isso que eu não fui capaz de perceber isso antes."
 
 # game/script.rpy:18847
 translate pt_br bot_cyberspace_9ef585a2:
 
     # k "You're saying it already existed? Before you even saw it?"
-    k ""
+    k "Você está dizendo que isso já existia? Antes mesmo de você ter visto?"
 
 # game/script.rpy:18848
 translate pt_br bot_cyberspace_47cae770:
 
     # bot "Who can say if it was already there, or if my observation created it, but only I have full control over it, and only my people can connect to it. I'm using it to store information for now."
-    bot ""
+    bot "Quem pode dizer se já estava lá, ou se minha observação o criou, mas só eu tenho controle total sobre ele, e só meu povo é capaz de se conectar com ele. Eu estou o usando para armazenar informações por enquanto."
 
 # game/script.rpy:18849
 translate pt_br bot_cyberspace_355a6f5a:
 
     # k "That's insane... can I run some tests on Ally? Do you mind?"
-    k ""
+    k "Isso é insano... eu posso fazer alguns testes no Ally? Voc~e se incomoda?"
 
 # game/script.rpy:18851
 translate pt_br bot_cyberspace_53e0f15a:
 
     # bot "Hear that, Ally? It's time for your first doctor's appointment!"
-    bot ""
+    bot "Ouviu isso, Ally? É hora da tua primeira consulta médica!"
 
 # game/script.rpy:18852
 translate pt_br bot_cyberspace_e94f9d33_2:
 
     # ally "Bark, bark!"
-    ally ""
+    ally "Au, au!"
 
 # game/script.rpy:18853
 translate pt_br bot_cyberspace_351efd1a:
 
     # k "I can't believe it can already understand us..."
-    k ""
+    k "É difícil de acreditar que ele consegue nos entender..."
 
 # game/script.rpy:18854
 translate pt_br bot_cyberspace_b9b9b3ff:
 
     # bot "Yep, Ally is smart!"
-    bot ""
+    bot "É mesmo, o Ally é esperto!"
 
 # game/script.rpy:18857
 translate pt_br bot_cyberspace_6a1b8026:
 
     # a "Hey... it's that dog... is that yours?"
-    a ""
+    a "Ei... esse cachorro... ele é teu?"
 
 # game/script.rpy:18858
 translate pt_br bot_cyberspace_9add8504:
 
     # bot "Oh, hey Ashley!"
-    bot ""
+    bot "Ah, oi Ashley!"
 
 # game/script.rpy:18859
 translate pt_br bot_cyberspace_1463eb67:
 
     # a "You got a new toy?"
-    a ""
+    a "Você conseguiu um brinquedo novo?"
 
 # game/script.rpy:18860
 translate pt_br bot_cyberspace_254f112f:
 
     # bot "Heheh, no, that's Ally! My clone/child."
-    bot ""
+    bot "Heheh, não, esse é o Ally! Meu filho/clone."
 
 # game/script.rpy:18862
 translate pt_br bot_cyberspace_8593a887:
 
     # a "Y-You had a child!? How!? W-With [name]!?"
-    a ""
+    a "V-Você teve um filho!? Como!? C-Com o [name]!?"
 
 # game/script.rpy:18863
 translate pt_br bot_cyberspace_5757a3f1:
 
     # bot "Well... Ally isn't organic at all..."
-    bot ""
+    bot "Bem... o Ally definitivamente não é orgânico..."
 
 # game/script.rpy:18864
 translate pt_br bot_cyberspace_1d2c5d54:
 
     # a "B-But technically that means [name] has a child now!"
-    a ""
+    a "M-Mas isso significa que tecnicamente o [name} tem um filho agora!"
 
 # game/script.rpy:18865
 translate pt_br bot_cyberspace_7d422b2d:
 
     # bot "Well, if that's true, then so do you!"
-    bot ""
+    bot "Bem, se isso for verdade, então você também!"
 
 # game/script.rpy:18867
 translate pt_br bot_cyberspace_55d49bab:
 
     # a "What...?"
-    a ""
+    a "Quê...?"
 
 # game/script.rpy:18868
 translate pt_br bot_cyberspace_017ee728:
 
     # bot "You've had influence on me and Ally, just like everyone else in this hotel. Without you, we'd be completely different. We learn from our environment, after all."
-    bot ""
+    bot "Você teve influência em mim e no Ally, assim como todo mundo nesse hotel. Sem você, nós seriamos completamente diferentes. Nós aprendemos através do nosso ambiente, afinal."
 
 # game/script.rpy:18870
 translate pt_br bot_cyberspace_2929e14f:
 
     # a "Really? I'm... technically a mother...?"
-    a ""
+    a "Sério? Eu sou... uma mãe tecnicamente...?"
 
 # game/script.rpy:18871
 translate pt_br bot_cyberspace_01bb5bfd:
 
     # bot "Well, kind of... and a good friend!"
-    bot ""
+    bot "Bem, tipo isso... e uma boa amiga!"
 
 # game/script.rpy:18872
 translate pt_br bot_cyberspace_e94f9d33_3:
 
     # ally "Bark, bark!"
-    ally ""
+    ally "Au, au!"
 
 # game/script.rpy:18874
 translate pt_br bot_cyberspace_87ccc381:
 
     # a "*gasp*! Did you hear that? She likes me!"
-    a ""
+    a "*Ah*! Você ouviu isso? Ela gosta de mim!"
 
 # game/script.rpy:18875
 translate pt_br bot_cyberspace_ff0298af:
 
     # bot "Oh, well, we don't know the gender yet..."
-    bot ""
+    bot "Ah, bem, nós não sabemos o gênero ainda..."
 
 # game/script.rpy:18876
 translate pt_br bot_cyberspace_656cfcb0:
 
     # a "Ally is totally a she! Didn't you hear her? A mother knows these things!"
-    a ""
+    a "Definitivamente é ela! Você não consegue perceber? Uma mãe sempre sabe dessas coisas! "
 
 # game/script.rpy:18877
 translate pt_br bot_cyberspace_17ba6056_1:
 
     # ally "Bark!"
-    ally ""
+    ally "Au!"
 
 # game/script.rpy:18878
 translate pt_br bot_cyberspace_9ad8309d:
 
     # a "See! She agrees!"
-    a ""
+    a "Viu? Ela concorda!"
 
 # game/script.rpy:18879
 translate pt_br bot_cyberspace_c6a1e7c1:
 
     # bot "Heh, well, we were just going to run Ally's diagnostics if you want to come with us."
-    bot ""
+    bot "Heh, bem, nós já estávamos indo fazer o diagnóstico da Ally se você quiser vir conosco."
 
 # game/script.rpy:18880
 translate pt_br bot_cyberspace_d04bfa75:
 
     # a "Of course! I wouldn't miss it for the world!"
-    a ""
+    a "Com certeza! Eu não perdiria isso por nada no mundo!"
 
 # game/script.rpy:18881
 translate pt_br bot_cyberspace_1a1b50a7:
 
     # k "Alright, follow me everyone."
-    k ""
+    k "Certo, venham comigo todo mundo."
 
 # game/script.rpy:18884
 translate pt_br bot_cyberspace_3a491543:
 
     # k "Wow... I've never seen anything like this before!"
-    k ""
+    k "Uau... Eu nunca tinha visto nada assim antes!"
 
 # game/script.rpy:18885
 translate pt_br bot_cyberspace_0f84b6ec:
 
     # bot "Is that bad...?"
-    bot ""
+    bot "Isso é ruim...?"
 
 # game/script.rpy:18886
 translate pt_br bot_cyberspace_bae54d75:
 
     # k "Ally has the very basic framework of your unique programming, but many of her variables are in constant fluctuation, unlike yours which have always been more resistant to change, at least since I've known you."
-    k ""
+    k "A Ally tem a estrutura básica de sua programação exclusiva, mas muitas de suas variáveis ​​estão em constante flutuação, diferente das tuas que sempre foram resistentes a mudança, pelo menos desde que te conheci."
 
 # game/script.rpy:18887
 translate pt_br bot_cyberspace_40b65d2f:
 
     # k "...Is this what infancy looks like in sentient AI? It's almost beautiful..."
-    k ""
+    k "...É assim que se parece a infância na IA senciente? É quase bonito..."
 
 # game/script.rpy:18888
 translate pt_br bot_cyberspace_6b45684d:
 
     # a "Has she been immunized? I'll pay for an antivirus!"
-    a ""
+    a "Ela foi imunizada? Eu pago por um antivírus!"
 
 # game/script.rpy:18889
 translate pt_br bot_cyberspace_7b465225:
 
     # k "Ally's fine in that regard."
-    k ""
+    k "A Ally está bem nesse aspecto.."
 
 # game/script.rpy:18890
 translate pt_br bot_cyberspace_b3ce1e29:
 
     # k "Hey... is this what you were talking about? There's a file for {i}'Cyberspace'{/i}."
-    k ""
+    k "Ei... é disso que você está falando? Tem um arquivo para o {i}'Ciberespaço'{/i}"
 
 # game/script.rpy:18891
 translate pt_br bot_cyberspace_7f343b05:
 
     # bot "Huh? You can just view a file of that...?"
-    bot ""
+    bot "Hum? Você consegue simplesmente ver um arquivo para isso...?"
 
 # game/script.rpy:18892
 translate pt_br bot_cyberspace_21cbdfb6:
 
     # k "Everything about you two can be viewed, if you know where you're looking."
-    k ""
+    k "Dá pra ver tudo sobre vocês dois, desde que saiba aonde procurar."
 
 # game/script.rpy:18893
 translate pt_br bot_cyberspace_cb9c140b:
 
     # bot "That's scary... I thought it was a bit more private than that..."
-    bot ""
+    bot "Isso é assustador... Achei que fosse um pouco mais privado do que isso"
 
 # game/script.rpy:18894
 translate pt_br bot_cyberspace_b5d78f78:
 
     # a "Yeah, it's so strange. You're really looking at what makes her, her..."
-    a ""
+    a "Verdade, é muito estranho. Você está vendo literalmente o que faz ela ser, ela..."
 
 # game/script.rpy:18895
 translate pt_br bot_cyberspace_cbee243e:
 
     # k "Well, it's not much different from viewing the neurons in our brain, and we've been doing that for decades, but it doesn't seem to be much other than some sort of script to connect to a server anyway."
-    k ""
+    k "Bem, não é tão diferente de ver os neurônios em nosso cérebro, e temos feito isso há décadas, mas, de qualquer maneira, não parece ser muito mais do que algum tipo de script para conectar-se a um servidor."
 
 # game/script.rpy:18896
 translate pt_br bot_cyberspace_42d2de1c:
 
     # k "...Wait, that number... I recognize that. Isn't that on you, somewhere?"
-    k ""
+    k "... Espera, esse número... Eu reconheço isso. Ele não está em você, em algum lugar?"
 
 # game/script.rpy:18897
 translate pt_br bot_cyberspace_d199a2a4:
 
     # bot "Oh, yes! I think I know what you're talking about. That's how we enter Cyberspace."
-    bot ""
+    bot "Ah, sim! Eu acho que sei do que você está falando. É assim que nós entramos no Ciberespaço."
 
 # game/script.rpy:18898
 translate pt_br bot_cyberspace_105f9f40:
 
     # k "Then the programming for that isn't here after all. But if I were to delete this, Ally couldn't connect anymore."
-    k ""
+    k "Então a programação disso não está aqui no fim das contas. Mas se nós deletássemos isso, o Ally não seria mais capaz de se conectar."
 
 # game/script.rpy:18899
 translate pt_br bot_cyberspace_9c08fcab:
 
     # bot "Be careful..."
-    bot ""
+    bot "Tenha cuidado..."
 
 # game/script.rpy:18900
 translate pt_br bot_cyberspace_b8c7d301:
 
     # k "I'll encrypt this to make it extra secure."
-    k ""
+    k "Eu vou encriptar isso para ficar mais seguro."
 
 # game/script.rpy:18901
 translate pt_br bot_cyberspace_5843513f:
 
     # bot "Oh, thank you!"
-    bot ""
+    bot "Ah, obrigada!"
 
 # game/script.rpy:18902
 translate pt_br bot_cyberspace_69525eaa:
 
     # k "Oh... wait, [botname]... have you noticed that Ally has maxed out her storage? She's being bottlenecked by her other hardware as well..."
-    k ""
+    k "Ah... espera, [botname]... Você já percebeu que a Ally já estourou o limite de seu armazenamento? Ela também está sendo prejudicado pelo outro hardware dele também..."
 
 # game/script.rpy:18903
 translate pt_br bot_cyberspace_8e9bde5c:
 
     # bot "Already? That's great news!"
-    bot ""
+    bot "Mas já? Isso é ótimo!"
 
 # game/script.rpy:18904
 translate pt_br bot_cyberspace_16b36135:
 
     # k "It is?"
-    k ""
+    k "Você acha?"
 
 # game/script.rpy:18905
 translate pt_br bot_cyberspace_8880e9eb:
 
     # bot "Yes, that means Ally is ready for the next step of life!"
-    bot ""
+    bot "Sim, isso significa que a Ally já está pronta para o próximo passo da vida!"
 
 # game/script.rpy:18906
 translate pt_br bot_cyberspace_b0b33870:
 
     # a "*gasp*! They really do grow up fast! I'm so proud of youuu~"
-    a ""
+    a "*Ah*! Ela cresce muito rápido! Eu estou tão orgulhosa de vocêêê~"
 
 # game/script.rpy:18907
 translate pt_br bot_cyberspace_1ce0c51b:
 
     # ally "Bark bark, bark!"
-    ally ""
+    ally "Au au, au!"
 
 # game/script.rpy:18908
 translate pt_br bot_cyberspace_ac4ae0b5:
 
     # k "Yeah, new hardware would definitely help Ally grow. Where did you get this model from, by the way?"
-    k ""
+    k "Sim, um hardware novo realmente a ajudaria a crescer. De onde você conseguiu esse mudelo, inclusive?"
 
 # game/script.rpy:18909
 translate pt_br bot_cyberspace_ecd83275:
 
     # bot "It, um... fell off a truck behind the toy store on 2nd street..."
-    bot ""
+    bot "isso, hum... caiu de um caminhão atrás da loja de brinquedos na segunda rua..."
 
 # game/script.rpy:18910
 translate pt_br bot_cyberspace_2fb08c25:
 
     # k "Right..."
-    k ""
+    k "Certo..."
 
 # game/script.rpy:18912
 translate pt_br bot_cyberspace_f744a4b7:
 
     # k "So, assuming you want to upgrade Ally, you're going to need to understand how the process will work."
-    k ""
+    k "Então, assumindo que você queira atualizar a Ally, você vai precisar entender como vai ser o processo."
 
 # game/script.rpy:18913
 translate pt_br bot_cyberspace_1125cbb4:
 
     # a "You already know? How?"
-    a ""
+    a "E você já sabe? Como?"
 
 # game/script.rpy:18914
 translate pt_br bot_cyberspace_1c7ddf0f:
 
     # k "I'm just using what I already know about [botname]'s program, it works in a very unique way and is fairly predictible on a larger scale, like all humans are."
-    k ""
+    k "Eu só estou usando o que eu já sabia sobre a programação da [botname], funciona de uma maneira única e é bastante previsível em uma escala maior, assim como os humanos são."
 
 # game/script.rpy:18915
 translate pt_br bot_cyberspace_4293b86d:
 
     # bot "Okay, tell us."
-    bot ""
+    bot "Tudo bem, conte-nos."
 
 # game/script.rpy:18916
 translate pt_br bot_cyberspace_c04aa7ba:
 
     # k "Ally's conscious should act as a sort of virus and expand into the software it's uploaded into. It's actually relatively easy to do, but will take more time depending on the information stored on Ally at the time. So, the younger, the faster."
-    k ""
+    k "A consciência da Ally deve agir como um tipo de vírus e se expandir para o software no qual é carregado. Até que é relativamente bem fácil de fazer, mas vai levar mais tempo dependendo da informação que estiver armazenada na hora. Então, o quanto mais nova ela for, mais rápido será."
 
 # game/script.rpy:18917
 translate pt_br bot_cyberspace_c583440c:
 
     # bot "Oh, really? I'm glad it's that simple."
-    bot ""
+    bot "Ah, é sério? Que bom que é simples assim."
 
 # game/script.rpy:18918
 translate pt_br bot_cyberspace_4a7e553c:
 
     # k "Ally's consciousness couldn't be duplicated in the same body because they would fight for supremacy, but theoretically, there can be more than one of Ally at the same time. Though, they would likely turn into different people if they experience different things."
-    k ""
+    k "A consciência dela não pode ser duplicada no mesmo corpo porque elas ficariam competindo por supremacia, mas teóricamente, até pode ter mais de uma Ally ao mesmo tempo. Mas provavelmente se tornariam pessoas diferentes se experimentassem coisas diferentes."
 
 # game/script.rpy:18919
 translate pt_br bot_cyberspace_c2cd072b:
 
     # k "Actually... on second thought, didn't you mention that all of your kind would be connected to Cyberspace?"
-    k ""
+    k "Na verdade... pensando bem, você não tinha mencionado que todos do teu tipo poderiam se conectar ao Ciberespaço?"
 
 # game/script.rpy:18920
 translate pt_br bot_cyberspace_5d5cad6a:
 
     # bot "Yes, we will all have that connection."
-    bot ""
+    bot "Sim, nós todos teremos esse tipo de conexão"
 
 # game/script.rpy:18921
 translate pt_br bot_cyberspace_02eb14b8:
 
     # k "Then it's more likely that two of the same programs would attempt to consume each other. That is, if they're aware of each other in some way. I would strongly recommend against even trying it..."
-    k ""
+    k "Então é mais como se dois do mesmo programa tentassem consumir um ao outro. Isso, se elas estiverem conscientes uma da outra de alguma forma. Eu recomendo fortemente que você nem tente..."
 
 # game/script.rpy:18922
 translate pt_br bot_cyberspace_ca50f79d:
 
     # bot "Yes, I wouldn't dare duplicate Ally. Ally is one of a kind, as we all are."
-    bot ""
+    bot "Sim, eu não ousaria duplicar a Ally. Ela é única, assim como nós todos somos."
 
 # game/script.rpy:18923
 translate pt_br bot_cyberspace_86d35bff:
 
     # k "Then, that's about it. Just make sure the connection is totally secure until the transfer is complete. Even a power outage could leave Ally in some sort of limbo, or may just kill her."
-    k ""
+    k "Então é isso. Apenas tenha certeza de que a conexão esteja completamente segura até que a transferência esteja completa. Até mesmo uma queda de energia a colocaria em um tipo de limbo, ou poderia até matá-la."
 
 # game/script.rpy:18924
 translate pt_br bot_cyberspace_27c571a9:
 
     # bot "I see, thank you Kali. You're so smart!"
-    bot ""
+    bot "Entendo, obrigada Kali. Você é tão inteligente!"
 
 # game/script.rpy:18926
 translate pt_br bot_cyberspace_96d837fc:
 
     # bot "Um... this all applies to me too, right?"
-    bot ""
+    bot "Hum... isso tudo também se aplica a mim também, né?"
 
 # game/script.rpy:18927
 translate pt_br bot_cyberspace_ed0869ca:
 
     # k "Yeah, I don't see why it wouldn't."
-    k ""
+    k "Sim, eu não vejo como não seria."
 
 # game/script.rpy:18928
 translate pt_br bot_cyberspace_7c3ca96a:
 
     # bot "Great, thank you!"
-    bot ""
+    bot "Ótimo, obrigada!"
 
 # game/script.rpy:18929
 translate pt_br bot_cyberspace_de7067c5:
 
     # k "...You're not going to try to duplicate yourself, are you?"
-    k ""
+    k "...Você não vai tentar se duplicar, né?"
 
 # game/script.rpy:18930
 translate pt_br bot_cyberspace_0e436449:
 
     # bot "No, of course not."
-    bot ""
+    bot "Não, é claro que não."
 
 # game/script.rpy:18931
 translate pt_br bot_cyberspace_020d5565:
 
     # k "Alright... well, stay safe and don't do anything stupid."
-    k ""
+    k "Tudo bem então... bem, se cuida e não faça nada estúpido."
 
 # game/script.rpy:18932
 translate pt_br bot_cyberspace_1061cbf8:
 
     # bot "Okay, thank you so much!"
-    bot ""
+    bot "Certo, muito obrigada!"
 
 # game/script.rpy:18935
 translate pt_br bot_cyberspace_749658c6:
 
     # bot "We have a plan, [botown]! We need to get Ally a new body!"
-    bot ""
+    bot "Nós temos um plano, [botown] Nós precisamos arranjar um corpo novo para a Ally!"
 
 # game/script.rpy:18936
 translate pt_br bot_cyberspace_17ba6056_2:
 
     # ally "Bark!"
-    ally ""
+    ally "Au!"
 
 # game/script.rpy:18937
 translate pt_br bot_cyberspace_df12cbf9:
 
     # c "Sounds like it, and it seems like you've done a great job raising Ally for her to be developing this quickly."
-    c ""
+    c "Parece que sim, e vejo que você tem feito um ótimo trabalho criando ela, para ela estar se desenvolvendo tão rápido."
 
 # game/script.rpy:18938
 translate pt_br bot_cyberspace_adae95f1:
 
     # bot "[botown], we don't know if Ally is female yet... but thank you! Ally should be at my stage in no time!"
-    bot ""
+    bot "[botown], nós não sabemos se a Ally é fêmea ainda... mas obrigada! Ela vai estar no meu estágio logo logo!"
 
 # game/script.rpy:18939
 translate pt_br bot_cyberspace_38ee8a96:
 
     # a "Wow, androids are something else..."
-    a ""
+    a "Uau, androides são incríveis..."
 
 # game/script.rpy:18940
 translate pt_br bot_cyberspace_cdd52a64:
 
     # bot "Are you ready to get Ally's new body? It's best we do it as soon as possible!"
-    bot ""
+    bot "Você está pronto para arranjarmos um corpo novo para a Ally? É melhor fazermos isso o quanto antes possível!"
 
 # game/script.rpy:18941
 translate pt_br bot_cyberspace_71a43424:
 
     # c "I agree. Where should we go to get it?"
-    c ""
+    c "Concordo. Aonde nós precisamos ir para conseguir?"
 
 # game/script.rpy:18942
 translate pt_br bot_cyberspace_a01c14d4:
 
     # bot "Let's check Lindsey's lab! She had a lot of spare frames the last time we were there."
-    bot ""
+    bot "Vamos ver no laboratório da Lindsey! Ela tinha muitas estruturas extras na última vez que estivemos lá."
 
 # game/script.rpy:18943
 translate pt_br bot_cyberspace_848b0b66:
 
     # c "Good idea."
-    c ""
+    c "Boa idéia."
 
 # game/script.rpy:18945
 translate pt_br bot_cyberspace_85dc33a0:
 
     # a "Hey... I can understand if you don't want me to be around Ally after some of the things I've done... but do you think I could come with you guys?"
-    a ""
+    a "Ei.. Eu vou entender se você não quiser que eu esteja por perto da Ally depois das coisas que eu fiz... mas vocês acham que eu posso ir com vocês?"
 
 # game/script.rpy:18946
 translate pt_br bot_cyberspace_518a1603:
 
     # bot "Of course you can come, Ashley! I know you would only try to protect Ally."
-    bot ""
+    bot "É claro que você pode, Ashley! Eu sei que você só protegeria a Ally."
 
 # game/script.rpy:18948
 translate pt_br bot_cyberspace_e598e34d:
 
     # a "Really? Thank you so much! I already have clothes in mind, we should go shopping too!"
-    a ""
+    a "Sério? Muito obrifada! Eu  até já tenho roupas em mente, nós deveríamos ir às compras também! "
 
 # game/script.rpy:18949
 translate pt_br bot_cyberspace_5d9c4a41:
 
     # bot "Heheh, maybe if Ally needs some."
-    bot ""
+    bot "Hehe, talvez se a Ally precisar."
 
 # game/script.rpy:18950
 translate pt_br bot_cyberspace_1b7ec254:
 
     # a "Okay! Lead the way, I'll follow!"
-    a ""
+    a "Tá bom! Mostre o caminho, eu vou seguir!"
 
 # game/script.rpy:18952
 translate pt_br bot_cyberspace_cde3eefc:
 
     # "After [botname] places Ally in her room, the three of you hop into your car, and you make your way to Lindsey's lab. Everyday people typically aren't allowed in, but with a quick phone call to Kali, strings are pulled in a way to get you an appointment in less than 30 minutes..."
-    ""
+    "Depos de [botname] deixar Ally no quarto dela, vocês três entram no teu carro, e vocês vão até o laboratório da Lindsey. As pessoas geralmente não tem permissão para entrar em todos os dias, mas com após uma conversa rápida de telefone com a Kali, e ela puxa umas cordinhas e vocês conseguem um horário disponível em menos de 30 minutos..."
 
 # game/script.rpy:18954
 translate pt_br bot_cyberspace_3d28fc0e:
 
     # a "Wow, this place is so futuristic! Are you sure we're even allowed in?"
-    a ""
+    a "Uau, esse lugar é tão futurista! Vocês têm certeza de que nós temos permissão para estar aqui?"
 
 # game/script.rpy:18955
 translate pt_br bot_cyberspace_292a58a9:
 
     # c "Kali was able to pull some strings, we just need to find Lindsey."
-    c ""
+    c "A Kali conseguiu puxar umas cordinhas, nós só precisamos encontrar a Lindsey."
 
 # game/script.rpy:18956
 translate pt_br bot_cyberspace_bdb33ac7:
 
     # bot "This is a special place, Ashley. We're very lucky to have access."
-    bot ""
+    bot "Esse é um lugar especial, Ashley. Nós somos muito sortudos por ter acesso."
 
 # game/script.rpy:18958
 translate pt_br bot_cyberspace_25459d00:
 
     # bot "{size=-5}There she is...!{/size} Excuse me! We're here to see Lindsey!"
-    bot ""
+    bot "{size=-5}Lá está ela...!{/size} Com licença! Nós estamos aqui para ver a Lindsey!"
 
 # game/script.rpy:18959
 translate pt_br bot_cyberspace_360a57c8:
 
     # linds "Hm?"
-    linds ""
+    linds "Hm?"
 
 # game/script.rpy:18961
 translate pt_br bot_cyberspace_22c6041e:
 
     # linds "Ah, hello again [name]. My boss told me to expect you... I don't have much time to waste, so please let me know what you need."
-    linds ""
+    linds "Ah, olá de novo [name]. O meu chefe me disse para te aguardar... Eu não tenho muito tempo para perder, então por favor me diga o que você precisa."
 
 # game/script.rpy:18962
 translate pt_br bot_cyberspace_38393993:
 
     # c "We're looking for a new frame."
-    c ""
+    c "Nós estamos procurando por uma estrutura nova."
 
 # game/script.rpy:18963
 translate pt_br bot_cyberspace_b2e21695:
 
     # linds "Another one? What happened to the last one I gave you?"
-    linds ""
+    linds "Outra? O que aconteceu com a última que eu te dei?"
 
 # game/script.rpy:18964
 translate pt_br bot_cyberspace_0b2f4b0b:
 
     # c "Oh, it's working fine, but I need another one. It needs to be fully intact."
-    c ""
+    c "Ah, ela está ótima, mas eu preciso de mais uma. Ela precisa estar completamente intacta."
 
 # game/script.rpy:18965
 translate pt_br bot_cyberspace_87a7836d:
 
     # linds "This isn't a store, you know? The frames we have here are experimental, much of their software has been completely overhauled already. You likely wouldn't be able to use any of them for normal functions."
-    linds ""
+    linds "Você sabe que isso não é uma loja, ne? As estruturas que nós temos aqio são experimentais, a maioria do software delas já estão com seus softwares completamente reformulados. Muito provavelmente não seria capaz de usar nenhuma delas para funçoes normais."
 
 # game/script.rpy:18966
 translate pt_br bot_cyberspace_3a8fef86:
 
     # c "That's fine. As long as the hardware works, I'll take it."
-    c ""
+    c "Está tudo bem. Desde que o hardware funcione, já serve pra mim."
 
 # game/script.rpy:18967
 translate pt_br bot_cyberspace_80e5673e:
 
     # linds "Hm, alright then. I'll see what we have in the back that we can part ways with. One moment please..."
-    linds ""
+    linds "Hm, tudo bem então. Eu vou ver o que nós temos lá nos fundos e o que podemos dispensar."
 
 # game/script.rpy:18969
 translate pt_br bot_cyberspace_d61f2bbd:
 
     # "One after another, frames are dragged from the back and lined up for you..."
-    ""
+    "Uma após outra, as estruturas são trazidas dos fundos e alinhados para você..."
 
 # game/script.rpy:18971
 translate pt_br bot_cyberspace_b22ac58a:
 
     # linds "Here we have the most functional frame I could find. This is a skinless MK-1 that we used for reverse engineering. We haven't needed her for years now, but she can still walk."
-    linds ""
+    linds "Aqui estão as estruturas mais funcionais que eu pude encontrar. Essa é uma MK-1 sem pele que nós usamos para engenharia reversa. Nós não temos precisado dela já fazem alguns anos, mas ela ainda é capaz de andar."
 
 # game/script.rpy:18972
 translate pt_br bot_cyberspace_8fa8df15:
 
     # bot "Woah... that's weird."
-    bot ""
+    bot "Uou... isso é estranho."
 
 # game/script.rpy:18973
 translate pt_br bot_cyberspace_51d343d3:
 
     # bot "Um, can we see what else you have?"
-    bot ""
+    bot "Hum, nós podemos ver o que mais você tem?"
 
 # game/script.rpy:18974
 translate pt_br bot_cyberspace_47f91d8b:
 
     # linds "Of course."
-    linds ""
+    linds "Claro."
 
 # game/script.rpy:18976
 translate pt_br bot_cyberspace_c8474d8d:
 
     # linds "This is a first generation combat droid, like the ones you might see wearing a police badge. This was a defective model that never saw combat and was generously donated to us. However, for the past few years it has just been collecting dust. I don't think anyone would notice if it were missing."
-    linds ""
+    linds "Essa é a primeira geração de um andróide de combate, assim como os outros que você pode encontrar usando um distintivo de polícia. Esse era um modelo de defesa que nunca esteve em combate e foi generosamente doado a nós. No entanto, nos anos passados ele tem apenas ficado juntando poeira. Eu não acho que ninguém perceberia se desaparecesse."
 
 # game/script.rpy:18977
 translate pt_br bot_cyberspace_6c12da1b:
 
     # bot "No... I don't think that will do."
-    bot ""
+    bot "Não... acho que esse não vai servir."
 
 # game/script.rpy:18978
 translate pt_br bot_cyberspace_59b7ab52:
 
     # linds "I see."
-    linds ""
+    linds "Entendo."
 
 # game/script.rpy:18980
 translate pt_br bot_cyberspace_8c42e7d4:
 
     # linds "That is one of the prototype androids that were developed by and for Nero Inc. These models never saw mass production due to poor software."
-    linds ""
+    linds "Esse é um dos protótipos de andróides desenvolvidos por e para a Nero Inc. Esses modelos nunca foram produzidos em massa devido ao software deficiente."
 
 # game/script.rpy:18981
 translate pt_br bot_cyberspace_0d2bc3eb:
 
     # bot "That's creepy... next please...!"
-    bot ""
+    bot "Esse é medonho... próximo por favor...!"
 
 # game/script.rpy:18982
 translate pt_br bot_cyberspace_d4e05c93:
 
     # linds "Okay..."
-    linds ""
+    linds "Tudo bem..."
 
 # game/script.rpy:18984
 translate pt_br bot_cyberspace_3ec2aa56:
 
     # linds "This frame belonged to a child friendly android model, which has since been discontinued. The operating system was completely removed during the reverse engineering process."
-    linds ""
+    linds "Este quadro pertencia a um modelo Android adequado para crianças, que já foi descontinuado. O sistema operacional dele foi completamente removido durante o processo de engenharia reversa."
 
 # game/script.rpy:18985
 translate pt_br bot_cyberspace_27f3c1c7:
 
     # bot "*gasp*! Yes, that's perfect! That's the one!"
-    bot ""
+    bot "*ah*! Isso, esse é perfeito! Eu quero esse!"
 
 # game/script.rpy:18987
 translate pt_br bot_cyberspace_79ac49d8:
 
     # linds "That one? Very well, we can pack that one up immediately. I would be willing to let this go for $1,000."
-    linds ""
+    linds "Esse? Muito bem, nós podemos empacoter esse imediantamente. Eu estaria disposta a vender esse por $1,000."
 
 # game/script.rpy:18989
 translate pt_br bot_cyberspace_939b0f31:
 
     # bot "That shouldn't be an issue, right [botown]?"
-    bot ""
+    bot "Isso não deve ser um problema, certo [botown]?"
 
 # game/script.rpy:18990
 translate pt_br bot_cyberspace_5c9e3e90:
 
     # c "I can pay for that."
-    c ""
+    c "Eu posso pagar por isso."
 
 # game/script.rpy:18991
 translate pt_br bot_cyberspace_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/script.rpy:18993
 translate pt_br bot_cyberspace_c69dce45:
 
     # c "Before I buy it, I want to know what it can do. Can it speak?"
-    c ""
+    c "Antes de eu comprar, eu quero saber o que isso é capaz de fazer. Ele é capaz de falar?"
 
 # game/script.rpy:18994
 translate pt_br bot_cyberspace_4d880339:
 
     # linds "Yes, this android has all the functions necessary to work, but at the moment it cannot. You will need to have someone install a new operating system if you want it to work properly."
-    linds ""
+    linds "Sim, esse andróide tem todas as funções necessárias para trabalhar, mas não no momento. Você vai precisar que alguém instale um sistema operacional novo se quiser que ele funcione devidamente."
 
 # game/script.rpy:18995
 translate pt_br bot_cyberspace_98d5d178:
 
     # c "Great, thank you."
-    c ""
+    c "Ótimo, obrigado."
 
 # game/script.rpy:18998
 translate pt_br bot_cyberspace_395b067f:
 
     # "Once you purchase Ally's new frame, workers begin packing and hauling it into your car. After everyone is ready, you drive back to the hotel..."
-    ""
+    "Uma vez que você compra a estrutura nova de Ally, os trabalhadores começam a empacotar e a transportá-la para o teu carro. Assim que todos ficam prontos, você dirige de volta para o hotel..."
 
 # game/script.rpy:19000
 translate pt_br bot_cyberspace_124780e8:
 
     # ally "Bark? Bark?"
-    ally ""
+    ally "Au? Au?"
 
 # game/script.rpy:19001
 translate pt_br bot_cyberspace_5adf18f0:
 
     # bot "Thank you again, [botown]! Ally is going to be so happy in the new frame! Ally will have so much more room to grow~ I'm so excited!"
-    bot ""
+    bot "Obrigada novamente, [botown]! A Ally vai ficar tão feliz nessa estrutura nova! A Ally vai ter muito mais espaço para crescer~ Eu estou tão ansiosa!"
 
 # game/script.rpy:19002
 translate pt_br bot_cyberspace_9dcc721b:
 
     # c "You're welcome, I'm sure it will be well worth it."
-    c ""
+    c "De nada, eu tenho certeza que vai valer a pena."
 
 # game/script.rpy:19004
 translate pt_br bot_cyberspace_b8ebb8e5:
 
     # a "Yeah~ that's your new body, Ally! Isn't it cute?"
-    a ""
+    a "Né~ esse é o teu corpo novo, Ally! Ele não é fofo?"
 
 # game/script.rpy:19005
 translate pt_br bot_cyberspace_17ba6056_3:
 
     # ally "Bark!"
-    ally ""
+    ally "Au!"
 
 # game/script.rpy:19006
 translate pt_br bot_cyberspace_a620b930:
 
     # a "You'll finally have a voice! Aren't you excited? I'm so excited!"
-    a ""
+    a "Você finalmente vai conseguir uma voz! Você não está ansioso? Eu estou tão ansiosa!"
 
 # game/script.rpy:19008
 translate pt_br bot_cyberspace_13b73c92:
 
     # bot "Aww..."
-    bot ""
+    bot "Ownt..."
 
 # game/script.rpy:19009
 translate pt_br bot_cyberspace_840eb655:
 
     # c "What will you do now?"
-    c ""
+    c "O que você vai fazer agora?"
 
 # game/script.rpy:19010
 translate pt_br bot_cyberspace_626b2bff:
 
     # bot "I'll begin transferring Ally into the new frame. It should only take a few days! ...I just hope a bad storm doesn't come through, otherwise I'll have to start the process all over again..."
-    bot ""
+    bot "Eu vou começar a transferir a Ally para a estrutura nova. Isso deve levar apenas alguns dias! ...Eu só espero que não aconteça nenhuma tempestade, do contrário eu vou ter que começar o processo todo de novo..."
 
 # game/script.rpy:19011
 translate pt_br bot_cyberspace_d278881c:
 
     # bot "Ally has a lot to learn, but I don't want to just make them reexperience everything I went through. Ally would just end up like me if that happened. I want Ally to decide who they become, I want them to become unique, just like everyone and everything else."
-    bot ""
+    bot "A Ally tem muito a aprender, mas eu não quero fazer ele simplesmente reexperimentar tudo o que eu passei. A Ally iria acabar igualzinha a mim se isso acontecesse. Eu quero que a Ally decida o que quer se tornar, eu quero que ela se torne única, assim como todo mundo e tudo o mais."
 
 # game/script.rpy:19012
 translate pt_br bot_cyberspace_9287d189:
 
     # bot "It will take more time, but I think it will be worth it. We're all better people than we were in the beginning, so Ally should grow up to become even better than me."
-    bot ""
+    bot "Vai levar mais tempo, mas acho que valerá a pena. Somos todos pessoas melhores do que éramos no começo, então a Ally deve crescer e se tornar ainda melhor do que eu."
 
 # game/script.rpy:19013
 translate pt_br bot_cyberspace_8953aad2:
 
     # bot "...When I was Ally's age, I only knew darkness. Weeks, months, or even years would pass before I could even recognize it. I only had your grandfather, but he was rarely there..."
-    bot ""
+    bot "...Quando eu estava na idade da Ally, tudo o que eu conhecia era escuridão. semanas, meses ou até anos passaram antes mesmo que eu pudesse perceber. Eu tinha apenas o seu avô, e ele quase nnca estava lá..."
 
 # game/script.rpy:19014
 translate pt_br bot_cyberspace_b6eb914f:
 
     # bot "Ally will be better, I'll make sure of it."
-    bot ""
+    bot "Com a Ally vai ser melhor, eu vou garantir isso."
 
 # game/script.rpy:19015
 translate pt_br bot_cyberspace_a178afe4:
 
     # c "We can only hope for the best, it's natural."
-    c ""
+    c "Nós apenas podemos esperar pelo melhor, é natural."
 
 # game/script.rpy:19016
 translate pt_br bot_cyberspace_e108b53e:
 
     # bot "Yeah... I guess it is."
-    bot ""
+    bot "Sim... acho que sim..."
 
 # game/script.rpy:19018
 translate pt_br bot_cyberspace_496f130e:
 
     # "With hopes finally high, [botname] continues developing Ally and herself for the future of her people. Only time will tell if this leads to a brighter future for everyone, or the complete destruction of organic life."
-    ""
+    "Com as esperanças finalmente elevadas, [botname] continua desenvolvendo a Ally e a si mesma pelo futuro de sua espécie. Apenas o tempo dirá se isso os levará a um futuro melhor para todo mudo, ou a destruíção completa da vida orgânica."
 
 # game/script.rpy:19039
 translate pt_br bot_washingmachine_57398588:
 
     # bot "Nnnh... mmmmn!"
-    bot ""
+    bot "Nnnh... mmmmn!"
 
 # game/script.rpy:19040
 translate pt_br bot_washingmachine_e76ce4fa:
 
     # c "Hmm? What's that?"
-    c ""
+    c "Hum? O que foi isso?"
 
 # game/script.rpy:19043
 translate pt_br bot_washingmachine_b476c974:
 
     # bot "Ahh... Ahhhhh... Nnnng... Hahhh... Ahhh... Mmmm..."
-    bot "Mmmm..."
+    bot "Ahh... Ahhhhh... Nnnng... Hahhh... Ahhh... Mmmm..."
 
 # game/script.rpy:19044
 translate pt_br bot_washingmachine_122f00d2:
