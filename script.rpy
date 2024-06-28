@@ -39160,187 +39160,187 @@ translate pt_br bot_washingmachine_b476c974:
 translate pt_br bot_washingmachine_122f00d2:
 
     # bot "Wow, nnnh... this feels so good... Mmmmn~! I can't get his cock out of my head...!"
-    bot ""
+    bot "Uau, nnnh... isso é tão gostoso... Mmmmn~! Eu não consigo tirar o pau dele da minha cabeça...!"
 
 # game/script.rpy:19045
 translate pt_br bot_washingmachine_889a6787:
 
     # c "{i}(Looks like she found the washing machine...){/i}"
-    c ""
+    c "{i}(Parece que ela encontrou a máquina de lavar...){/i}"
 
 # game/script.rpy:19048
 translate pt_br bot_washingmachine_39c9790f:
 
     # bot "Hnnng~! I can't take it anymore... why am I so lewd...!? Mmmmn~!"
-    bot ""
+    bot "Hnnng~! Eu não aguento mais... por que eu sou tão tarada....!? Mmmmn~!"
 
 # game/script.rpy:19049
 translate pt_br bot_washingmachine_0fb92c5f:
 
     # bot "Nnnh, but it feels so good...! I need to rub my pussy...!"
-    bot ""
+    bot "Nnnh, mas isso é tão bom...! Eu preciso esfregar minha buceta...!"
 
 # game/script.rpy:19052
 translate pt_br bot_washingmachine_ffa2dfd5:
 
     # bot "[botown]! H-How long have you been there!?"
-    bot ""
+    bot "[botown]! A q-quanto tempo você está aí!?"
 
 # game/script.rpy:19053
 translate pt_br bot_washingmachine_33191b6e:
 
     # c "Long enough."
-    c ""
+    c "Tempo o suficiente."
 
 # game/script.rpy:19055
 translate pt_br bot_washingmachine_ea3ceee5:
 
     # bot "I'm not doing anything! J-Just the laundry!"
-    bot ""
+    bot "Eu não estou fazendo nada! S-só lanvando as roupas mesmo!"
 
 # game/script.rpy:19056
 translate pt_br bot_washingmachine_fe04e926:
 
     # c "You sure were moaning a lot for just doing the laundry..."
-    c ""
+    c "Você definitivamente está gemendo demais para quem está apenas lavando roupas..."
 
 # game/script.rpy:19057
 translate pt_br bot_washingmachine_811953c0:
 
     # bot "W-Well, that's just because it was so fun! I just wanted to do it more, and more. I almost didn't want to stop! I'm built for it, right? S-So I have to! It's all your fault anyway!"
-    bot ""
+    bot "B-Bem, é que isso é muito divertido! Eu fiquei com vontade de fazer mais, e mais. Eu quase não queria parar! Eu fui construída para ossp, né? E-então eu preciso! E de qualquer jeito isso é tudo culpa sua!"
 
 # game/script.rpy:19058
 translate pt_br bot_washingmachine_127e9d3b:
 
     # bot "Um- do the laundry, I mean... if there was any confusion..."
-    bot ""
+    bot "Hum- lavar as roupas, quero dizer... se ficou confuso de alguma forma..."
 
 # game/script.rpy:19059
 translate pt_br bot_washingmachine_7892ac5e:
 
     # c "[botname], your tits are out..."
-    c ""
+    c "[botname], suas tetas estão pra fora..."
 
 # game/script.rpy:19064
 translate pt_br bot_washingmachine_652f60ad:
 
     # bot "N-No they're not!"
-    bot ""
+    bot "N-Não estão não!"
 
 # game/script.rpy:19065
 translate pt_br bot_washingmachine_d13d4187:
 
     # c "If you want a vibrator, all you have to do is ask."
-    c ""
+    c "Se você quiser um vibrador, é só você pedir."
 
 # game/script.rpy:19067
 translate pt_br bot_washingmachine_da7f27da:
 
     # bot "Really?"
-    bot ""
+    bot "É sério?"
 
 # game/script.rpy:19069
 translate pt_br bot_washingmachine_2d5b5bdb:
 
     # bot "I mean- what's that? I don't know! ...What that is..."
-    bot ""
+    bot "Digo- o que é isso? Eu não sei! ...O que é isso..."
 
 # game/script.rpy:19070
 translate pt_br bot_washingmachine_58ed4173:
 
     # c "Come on, I know you have the internet in your head. You've seen all kinds of freaky stuff."
-    c ""
+    c "Vamos, eu sei que você tem a internet na sua cabeça. Você já deve ter visto todo tipo de coisa bizarra."
 
 # game/script.rpy:19072
 translate pt_br bot_washingmachine_65ca1496:
 
     # bot "Yeah... I see a lot of porn, it's almost like the internet was made for it, heheh."
-    bot ""
+    bot "Sim,,, eu vejo um monte de pornô, é quase como se a internet fosse feita pra isso, heheh."
 
 # game/script.rpy:19073
 translate pt_br bot_washingmachine_953bde03:
 
     # c "Stay right there, I'll be right back..."
-    c ""
+    c "Me espera aqui, eu já volto..."
 
 # game/script.rpy:19074
 translate pt_br bot_washingmachine_060ce04e:
 
     # bot "What are you going to do...?"
-    bot ""
+    bot "O que você vai fazer...?"
 
 # game/script.rpy:19075
 translate pt_br bot_washingmachine_b668c086:
 
     # c "You'll see."
-    c ""
+    c "Você vai ver."
 
 # game/script.rpy:19076
 translate pt_br bot_washingmachine_a11888f5:
 
     # bot "Hmm, okay~"
-    bot ""
+    bot "Humm, tudo bem~"
 
 # game/script.rpy:19078
 translate pt_br bot_washingmachine_c5c0bf27:
 
     # "You ask Maria for a few toys, head back to the laundry room, and ask [botname] to strip..."
-    ""
+    "Você pede a maria por alguns brinquedos. volta para a lavanderia e pede para [botname] se despir..."
 
 # game/script.rpy:19080
 translate pt_br bot_washingmachine_9d86e17a:
 
     # bot "Nnh..."
-    bot ""
+    bot "Nnh..."
 
 # game/script.rpy:19082
 translate pt_br bot_washingmachine_bec91d2b:
 
     # bot "Hnnngh~! Mmmn!" with ssshake
-    bot "" with ssshake
+    bot "Hnnngh~! Mmmn!" with ssshake
 
 # game/script.rpy:19084
 translate pt_br bot_washingmachine_8bc90a8c:
 
     # bot "[botown]... what are these things? I've never seen them before..."
-    bot ""
+    bot "[botown]... o que são essas coisas? Eu nunca vi elas antes..."
 
 # game/script.rpy:19085
 translate pt_br bot_washingmachine_e7ef4bc1:
 
     # "You turn on the vibes."
-    ""
+    "Você liga os vibradores."
 
 # game/script.rpy:19088
 translate pt_br bot_washingmachine_40421fd6:
 
     # bot "Ah~! Ohhh~! Hnnnnngh!"
-    bot ""
+    bot "Ah~! Ohhh~! Hnnnnngh!"
 
 # game/script.rpy:19089
 translate pt_br bot_washingmachine_b23906a5:
 
     # bot "I- I'm vibrating in spots I've never vibrated before...! M-My titties feel so strange...! Hnngh~!"
-    bot ""
+    bot "E-eu estou vibrando em lugares que eu nunca fiz antes...! Minhas tetas se sentem tão estranhas...! Hnngh~!"
 
 # game/script.rpy:19090
 translate pt_br bot_washingmachine_d059a726:
 
     # c "I can turn it off if you'd like..."
-    c ""
+    c "Eu posso desligar se você quiser..."
 
 # game/script.rpy:19092
 translate pt_br bot_washingmachine_172dffa2:
 
     # bot "Hnnnn~! N-No...! Don't turn it off... Mmmmn~! Hmmmm! Eeeeegh~~~"
-    bot ""
+    bot "Hnnnn~! NNão...! Não desliga... Mmmmn~! Hmmmm! Eeeeegh~~~"
 
 # game/script.rpy:19093
 translate pt_br bot_washingmachine_c8bf74c0:
 
     # c "I thought so."
-    c ""
+    c "Imaginei que você não iria querer."
 
 # game/script.rpy:19094
 translate pt_br bot_washingmachine_a65eed6d:
