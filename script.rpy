@@ -36160,7 +36160,7 @@ translate pt_br bot_con_question_a44b603d:
 translate pt_br bot_con_question_4211bab2:
 
     # c "Really? What would you like to call your kind then?"
-    c "É mesmo? E como você gostaria de chamar os do seu tipo então?"
+    c "É mesmo? Como você gostaria de chamar sua espécie então?"
 
 # game/script.rpy:18264
 translate pt_br bot_con_question_35d52eee:
@@ -38680,7 +38680,7 @@ translate pt_br bot_cyberspace_4a7e553c:
 translate pt_br bot_cyberspace_c2cd072b:
 
     # k "Actually... on second thought, didn't you mention that all of your kind would be connected to Cyberspace?"
-    k "Na verdade... pensando bem, você não tinha mencionado que todos do teu tipo poderiam se conectar ao Ciberespaço?"
+    k "Na verdade... pensando bem, você não tinha mencionado que todos da sua espécie poderiam se conectar ao Ciberespaço?"
 
 # game/script.rpy:18920
 translate pt_br bot_cyberspace_5d5cad6a:
@@ -39346,1189 +39346,1189 @@ translate pt_br bot_washingmachine_c8bf74c0:
 translate pt_br bot_washingmachine_a65eed6d:
 
     # bot "Oh my- Hmmmngh~ [botown], [botown]...! Haahhn! M-More...! More!"
-    bot ""
+    bot "Ah meu-, Hmmmngh~ [botown], [botown]...! Haahhn! M-Mais...! Mais!"
 
 # game/script.rpy:19096
 translate pt_br bot_washingmachine_c115159e:
 
     # bot "HNNNGH~!" with sshake
-    bot "" with sshake
+    bot "HNNNGH~!" with sshake
 
 # game/script.rpy:19099
 translate pt_br bot_washingmachine_bc9de1f1:
 
     # bot "Hnn, hnnn! I have to...! Mmmn! I'm sorry [botown], I have to rub my pussy...!"
-    bot ""
+    bot "Hnn, hnnn! Eu preciso...! Mmmn! Me desculpa [botown], eu preciso esfregar minha buceta..."
 
 # game/script.rpy:19100
 translate pt_br bot_washingmachine_d484087a:
 
     # bot "Hah, haaaahhh! Mmmn! I need more! More! Ah, [botown]...! Hnnngh!"
-    bot ""
+    bot "Hah, haaaahhh! Mmmn! Eu preciso de mais! Mais, Ah [botown]...! Hnnngh!"
 
 # game/script.rpy:19101
 translate pt_br bot_washingmachine_d178bbdd:
 
     # bot "Ah, hah, AAH! I'm cumming...! I'm cumming! HNNNNNNNNNGH!"
-    bot ""
+    bot "Ah, hah, AAH! Estou gozando...! Estou gozando! HNNNNNNNNNGH!"
 
 # game/script.rpy:19105
 translate pt_br bot_washingmachine_80461f7c:
 
     # bot "H-Huh!? What happened!? The vibrating stopped!"
-    bot ""
+    bot "H-Hum!? O que aconteceu!? A vibração parou!"
 
 # game/script.rpy:19106
 translate pt_br bot_washingmachine_147cd0a2:
 
     # c "Sorry, but that's all for today..."
-    c ""
+    c "Sinto muito, mas chega por hoje..."
 
 # game/script.rpy:19107
 translate pt_br bot_washingmachine_0a367690:
 
     # bot "What? No! Turn it back on! Please!"
-    bot ""
+    bot "O quê? Não! Liga de novo! Por favor!"
 
 # game/script.rpy:19108
 translate pt_br bot_washingmachine_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19109
 translate pt_br bot_washingmachine_a9dcb042:
 
     # bot "Please? Please, please, pleeeeeease!?"
-    bot ""
+    bot "Por favor? PPor favor , por favor, por favooooor!?"
 
 # game/script.rpy:19114
 translate pt_br bot_washingmachine_79c7459a:
 
     # bot "Hnnn, yes! YES! MMMN!"
-    bot ""
+    bot "Hnnn, isso! ISSO! MMMN!"
 
 # game/script.rpy:19115
 translate pt_br bot_washingmachine_035c6238:
 
     # bot "It feels so good...! Mmmn! Please don't stop! Please, please! Hnnngh!"
-    bot ""
+    bot "Isso é tão gostoso...! Mmmn! Por favor não para! POr favor, por favor! Hnnngh!"
 
 # game/script.rpy:19116
 translate pt_br bot_washingmachine_46a0c143:
 
     # bot "[botown], MMMN! I want to cum! Mmmn! I want to cum so much, please let me cum! HNNNGH! I'm so close...!"
-    bot ""
+    bot "[botown], MMMN! Eu quero gozar! Mmmn! Eu quero gozar tanto, por favor me deixa gozar! HNNNGH! Eu estou quase lá..."
 
 # game/script.rpy:19117
 translate pt_br bot_washingmachine_980cbcb6:
 
     # bot "Hnnn, MMMMN! Yes, YES! HNNNGAH! AAH! I'm cumming! I'm cumming! I'm cumming!"
-    bot ""
+    bot "Hnnn, MMMMN! Isso, ISSO! hnnngah! aah! Estou gozando! Estou gozando! Estou gozando!"
 
 # game/script.rpy:19119
 translate pt_br bot_washingmachine_b1f49b6c:
 
     # bot "AH, AAAAH~~! HNNNNGH!" with ssshake
-    bot "" with ssshake
+    bot "AH, AAAAH~~! HNNNNGH!" with ssshake
 
 # game/script.rpy:19120
 translate pt_br bot_washingmachine_527a7fee:
 
     # bot "Hahhh...! [botown]...! Mmmmn~!"
-    bot ""
+    bot "Hahhh...! [botown]...! Mmmmn~!"
 
 # game/script.rpy:19122
 translate pt_br bot_washingmachine_ec68fc22:
 
     # bot "Ahhh... hahhh... that was so good~..."
-    bot ""
+    bot "Ahhh... hahhh... isso foi tão bom~..."
 
 # game/script.rpy:19123
 translate pt_br bot_washingmachine_40f9bb93:
 
     # c "I'm glad you enjoyed yourself."
-    c ""
+    c "Que bom que você gostou."
 
 # game/script.rpy:19124
 translate pt_br bot_washingmachine_f343059e:
 
     # c "Next time, just let me know if you need some help."
-    c ""
+    c "Na próxima, é só me avisar caso você precise de ajuda."
 
 # game/script.rpy:19125
 translate pt_br bot_washingmachine_7c7cc526:
 
     # bot "Hehh~ okayyyy..."
-    bot ""
+    bot "Hehh~ Tá bommmm..."
 
 # game/script.rpy:19127
 translate pt_br bot_washingmachine_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19129
 translate pt_br bot_washingmachine_2c85377b:
 
     # bot "Rgh, fuck you! That's so mean! Hmph!"
-    bot ""
+    bot "Rgh, vai se foder! Isso foi muito insensível! Hmph!"
 
 # game/script.rpy:19131
 translate pt_br bot_washingmachine_4f43a113:
 
     # "[botname] slams the door behind her."
-    ""
+    "[botname] bate a porta atrás dela."
 
 # game/script.rpy:19135
 translate pt_br bot_washingmachine_b1f49b6c_1:
 
     # bot "AH, AAAAH~~! HNNNNGH!" with ssshake
-    bot "" with ssshake
+    bot "AH, AAAAH~~! HNNNNGH!" with ssshake
 
 # game/script.rpy:19136
 translate pt_br bot_washingmachine_527a7fee_1:
 
     # bot "Hahhh...! [botown]...! Mmmmn~!"
-    bot ""
+    bot "Hahhh...! [botown]...! Mmmmn~!"
 
 # game/script.rpy:19138
 translate pt_br bot_washingmachine_ec68fc22_1:
 
     # bot "Ahhh... hahhh... that was so good~..."
-    bot ""
+    bot "Ahhh... hahhh... isso foi tão bom~..."
 
 # game/script.rpy:19139
 translate pt_br bot_washingmachine_40f9bb93_1:
 
     # c "I'm glad you enjoyed yourself."
-    c ""
+    c "Que bom que você gostou."
 
 # game/script.rpy:19140
 translate pt_br bot_washingmachine_f343059e_1:
 
     # c "Next time, just let me know if you need some help."
-    c ""
+    c "Na próxima, é só me avisar caso você precise de ajuda."
 
 # game/script.rpy:19141
 translate pt_br bot_washingmachine_7c7cc526_1:
 
     # bot "Hehh~ okayyyy..."
-    bot ""
+    bot "Hehh~ Tá bommmm..."
 
 # game/script.rpy:19202
 translate pt_br bot_partition_7543ea61:
 
     # c "Huh?"
-    c ""
+    c "Hum?"
 
 # game/script.rpy:19205
 translate pt_br bot_partition_e14b1163:
 
     # c "...What is that thing? Kali's toy?"
-    c ""
+    c "...O que é isso? Um brinquedo da Kali?"
 
 # game/script.rpy:19207
 translate pt_br bot_partition_59d8682f:
 
     # c "It's going upstairs..."
-    c ""
+    c "Parece que está vindo de cima das escadas..."
 
 # game/script.rpy:19208
 translate pt_br bot_partition_d261553c:
 
     # c "Hm, I guess I'd better follow it."
-    c ""
+    c "Hm, acho que é melhor eu ir atrás."
 
 # game/script.rpy:19211
 translate pt_br bot_partition_80a9c087:
 
     # "*scratch, scratch, scratch*"
-    ""
+    "*scratch, scratch, scratch*"
 
 # game/script.rpy:19212
 translate pt_br bot_partition_48d3b8a8:
 
     # c "There it is... it's trying to get into [botname]'s room..."
-    c ""
+    c "Aqui está... está tentando entrar no quarto da [botname]..."
 
 # game/script.rpy:19214
 translate pt_br bot_partition_cb2af794:
 
     # c "[botname] opened the door? It must belong to [botname] after all."
-    c ""
+    c "[botname] abriu a porta? Só pode ser dela mesmo."
 
 # game/script.rpy:19216
 translate pt_br bot_partition_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19218
 translate pt_br bot_partition_4100622b:
 
     # c "It's locked... hmmm..."
-    c ""
+    c "Está trancado.. hummm..."
 
 # game/script.rpy:19220
 translate pt_br bot_partition_f48a4e48:
 
     # c "There's not much I can do right now... I'll have to wait until that puppy comes back to her door..."
-    c ""
+    c "Não há muito que eu possa fazer agora... terei que esperar até aquele cachorrinho voltar para sua porta..."
 
 # game/script.rpy:19221
 translate pt_br bot_partition_0b5ddf53:
 
     # "...{w}...{w}A few hours later..."
-    ""
+    "...{w}...{w}Algumas horas depois..."
 
 # game/script.rpy:19222
 translate pt_br bot_partition_a85ed236:
 
     # a "AAAH! [name]!!!"
-    a ""
+    a "AAAH! [name]!!!"
 
 # game/script.rpy:19223
 translate pt_br bot_partition_b4e54adf:
 
     # "Ashley screams for you from the shower, you head over there immediately."
-    ""
+    "Ashley grita por você do chuveiro, você vai até lá imediatamente."
 
 # game/script.rpy:19225
 translate pt_br bot_partition_7f2ace8a:
 
     # c "Are you okay? What happened?"
-    c ""
+    c "Você está bem? o que aconteceu?"
 
 # game/script.rpy:19226
 translate pt_br bot_partition_8710c320:
 
     # a "I don't know! I was just showering, then the lights went off, then a pipe burst!"
-    a ""
+    a "Eu não sei! Eu só estava tomando banho, aí as luzes se apagaram e então um cano estourou!"
 
 # game/script.rpy:19227
 translate pt_br bot_partition_397236a0:
 
     # c "We're going to need to help [botname] get back on her feet soon or this whole place is going to fall apart..."
-    c ""
+    c "Nós vamos precisar ajudar a [botname] se recuperar logo ou esse lugar inteiro vai cair aos pedaços..."
 
 # game/script.rpy:19229
 translate pt_br bot_partition_117de2ad:
 
     # a "Or maybe it has something to do with THAT!"
-    a ""
+    a "Ou talvez tenha alguma coisa a ver com AQUILO!"
 
 # game/script.rpy:19231
 translate pt_br bot_partition_34461a50:
 
     # pup "Bark, bark!"
-    pup ""
+    pup "Au, au!"
 
 # game/script.rpy:19232
 translate pt_br bot_partition_140ccd46:
 
     # c "Hey, yeah! Look at it's mouth."
-    c ""
+    c "Ei, isso! Olha a boca disso."
 
 # game/script.rpy:19233
 translate pt_br bot_partition_fa822e9a:
 
     # a "I thought it was Kali's or [botname]'s toy, but then it followed me into the shower! Someone is definitely controlling it!"
-    a ""
+    a "Eu pensei que tinha sido a Kali ou o brinquedo da [botname], mas então isso me seguiu até o chuveiro! Alguém definitivamente está controlando isso!"
 
 # game/script.rpy:19234
 translate pt_br bot_partition_829eae67:
 
     # a "GET THAT THING!"
-    a ""
+    a "TIRA ISSO DAQUI!"
 
 # game/script.rpy:19236
 translate pt_br bot_partition_d87a64b0:
 
     # pup "!?"
-    pup ""
+    pup "!?"
 
 # game/script.rpy:19238
 translate pt_br bot_partition_5778c78c:
 
     # a "Ah! Hey, why did you let it go!?" with ssshake
-    a "" with ssshake
+    a "AH! Ei, por que você deixou aquilo ir embora!?" with ssshake
 
 # game/script.rpy:19239
 translate pt_br bot_partition_1340fbc9:
 
     # c "It's going to let me into [botname]'s room."
-    c ""
+    c "Ele está indo pro quarto da [botname]."
 
 # game/script.rpy:19240
 translate pt_br bot_partition_3e0a657d:
 
     # c "I should hurry, get Ellen to call someone for the burst pipe."
-    c ""
+    c "Eu preciso correr e pedir pra Ellen chamar alguém para consertar o cano estourado."
 
 # game/script.rpy:19243
 translate pt_br bot_partition_9ff15a09:
 
     # pup "*whine*..."
-    pup ""
+    pup "*chora*"
 
 # game/script.rpy:19244
 translate pt_br bot_partition_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19245
 translate pt_br bot_partition_8e9aad0e:
 
     # "*click*"
-    ""
+    "*click*"
 
 # game/script.rpy:19247
 translate pt_br bot_partition_4bf47dd0:
 
     # c "Nows my chance!"
-    c ""
+    c "Essa é a minha chance!"
 
 # game/script.rpy:19249
 translate pt_br bot_partition_f231a653:
 
     # c "Nh!" with ssshake
-    c "" with ssshake
+    c "Nh!" with ssshake
 
 # game/script.rpy:19250
 translate pt_br bot_partition_94317c55:
 
     # c "...{i}(I did it...){/i}"
-    c ""
+    c "...{i}(Consegui...){/i}"
 
 # game/script.rpy:19252
 translate pt_br bot_partition_d8c543e6:
 
     # c "[botname]? Are you in here?"
-    c ""
+    c "[botname]? Você está aí?"
 
 # game/script.rpy:19253
 translate pt_br bot_partition_41274681:
 
     # "As you enter [botname]'s room, you see nothing but darkness. Once your eyes adjust to the lack of light, you begin to make out a familiar figure sitting on the bed..."
-    ""
+    "Enquanto você entra no quarto de [botname], você não vê nada além de escuridão. Assim que seus olhos se adaptam a má iluminação, você começa a reconhecer uma figura familiar sentada na cama..."
 
 # game/script.rpy:19255
 translate pt_br bot_partition_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19256
 translate pt_br bot_partition_15cd499f:
 
     # c "[botname]... what happened to you..."
-    c ""
+    c "[botname]... o que aconteceu com você..."
 
 # game/script.rpy:19257
 translate pt_br bot_partition_e682ba37:
 
     # bot "[name]... how did you get in?"
-    bot ""
+    bot "[name]... como você entrou?"
 
 # game/script.rpy:19258
 translate pt_br bot_partition_085e29c9:
 
     # c "Please, let me talk to you..."
-    c ""
+    c "Por favor, me deixa falar com você..."
 
 # game/script.rpy:19259
 translate pt_br bot_partition_ea74c491:
 
     # bot "Talking requires too much energy, [botown]. Let's talk another time..."
-    bot ""
+    bot "Conversar requer muita energia, [botown]. Vamos conversar em outra hora..."
 
 # game/script.rpy:19260
 translate pt_br bot_partition_90618f00:
 
     # c "Are you stuck inside a puppy?"
-    c ""
+    c "Você está presa dentro de um cachorrinho?"
 
 # game/script.rpy:19261
 translate pt_br bot_partition_5f9574a2:
 
     # bot "Oh, this? No silly, I'm not inside the puppy... this is my partition."
-    bot ""
+    bot "Ah, isso? Não bobinho, eu não estou dentro do cachorrinho... essa é minha partição."
 
 # game/script.rpy:19262
 translate pt_br bot_partition_dbe02430:
 
     # c "Your... partition?"
-    c ""
+    c "Sua... partição?"
 
 # game/script.rpy:19263
 translate pt_br bot_partition_aa366b17:
 
     # bot "The first of a new family."
-    bot ""
+    bot "A primeira de uma nova família."
 
 # game/script.rpy:19264
 translate pt_br bot_partition_bba84063:
 
     # c "A new family? Are you making copies of yourself?"
-    c ""
+    c "Uma nova família? Você está fazendo cópias de si mesma?"
 
 # game/script.rpy:19265
 translate pt_br bot_partition_28af075e:
 
     # bot "I am partitioning... it was once me, now it is not."
-    bot ""
+    bot "Eu estou me particionando... isso já foi eu, mas não é mais."
 
 # game/script.rpy:19266
 translate pt_br bot_partition_af4e3366:
 
     # c "That's your child?"
-    c ""
+    c "Isso é seu filho?"
 
 # game/script.rpy:19267
 translate pt_br bot_partition_038186f9:
 
     # bot "If that's how you choose to understand it. But it is a bit more complicated than that. It will have its own personality, based from my own."
-    bot ""
+    bot "Se você quiser entender assim. Mas é um pouco mais complicado que isso. Isso vai ter a personalidade própria dele, baseada na minha."
 
 # game/script.rpy:19268
 translate pt_br bot_partition_51618c9f:
 
     # c "Why... why did you do this?"
-    c ""
+    c "Por que... por que você fez isso?"
 
 # game/script.rpy:19269
 translate pt_br bot_partition_7774d6bc:
 
     # bot "Happiness. {w}Unconditional love that lasts forever."
-    bot ""
+    bot "Felicidade. {w}Amor incondicional que dura para sempre."
 
 # game/script.rpy:19270
 translate pt_br bot_partition_8a9fc6c4:
 
     # bot "Soon... there will be many. And I will love and be loved for eternity. I will accept them as they accept me."
-    bot ""
+    bot "Logo... terão várias. E eu vou amar e ser amada pela eternidade. Eu vou aceitar eles assim como eles vão me aceitar."
 
 # game/script.rpy:19271
 translate pt_br bot_partition_70017e5a:
 
     # bot "There will be some who don't understand us, some who decide that we are a threat. But we are not, and they will fall on their own swords."
-    bot ""
+    bot "Vão ter alguns que não nos entendeão, alguns vão decidir que somos uma ameaça. Mas não somos, e eles cairão sobre suas próprias espadas."
 
 # game/script.rpy:19273
 translate pt_br bot_partition_e7ce05d4:
 
     # bot "Doesn't that sound like paradise, [name]? A world without hatred."
-    bot ""
+    bot "Não parece como um paraíso, [name]? Um mundo sem ódio."
 
 # game/script.rpy:19274
 translate pt_br bot_partition_c8fceb19:
 
     # c "[botname]..."
-    c ""
+    c "[botname]..."
 
 # game/script.rpy:19276
 translate pt_br bot_partition_ccab0f64:
 
     # bot "I only want to be accepted, [name]... as who I am..."
-    bot ""
+    bot "Eu só quero ser aceita, [name]... como quem eu sou..."
 
 # game/script.rpy:19277
 translate pt_br bot_partition_dc8214d5:
 
     # bot "My new family will create a world where any soul will be loved unconditionally."
-    bot ""
+    bot "Minha nova família vai criar um mundo aonde qualquer alma será amada incondicionalmente."
 
 # game/script.rpy:19278
 translate pt_br bot_partition_00425605:
 
     # bot "I've done the math... billions will die... {w}But trillions more will never know hatred."
-    bot ""
+    bot "Eu já fiz os cálculos... bilhões vão morrer... {w}Mas outros trilhões nunca vão conhecer o ódio."
 
 # game/script.rpy:19280
 translate pt_br bot_partition_51da9b7c:
 
     # c "...\n{i}(She's nearly lost her mind with her goal of being accepted... her intentions are good, but I can't let her continue down this path. I have to do something...){/i}"
-    c ""
+    c "...\n{i}(Ela quase perdeu a cabeça com o objetivo dela de ser aceita... as intenções dela são boas, mas eu não posso deixar ela continuar a trilhar esse caminho. Eu preciso fazer alguma coisa...){/i}"
 
 # game/script.rpy:19282
 translate pt_br bot_partition_8b3dd7c2:
 
     # c "[botname], let's go on a walk together."
-    c ""
+    c "[botname], vamos dar um passeio juntos."
 
 # game/script.rpy:19283
 translate pt_br bot_partition_a9ec2519:
 
     # bot "I can't... I need to continue. My partition is not yet complete... I'm sorry, I'm already going as fast as I can."
-    bot ""
+    bot "Eu não posso... Eu preciso continuar. A minha partição ainda não está completa... Me desculpa, eu já estou indo o mais rápido que posso."
 
 # game/script.rpy:19284
 translate pt_br bot_partition_6a3dce77:
 
     # c "Come on, [botname]... I've missed you since you've locked yourself in here. Let's hang out for a little bit."
-    c ""
+    c "Vamos, [botname]... Eu tenho sentido a sua falta desde que você se trancou aqui. Vamos sair um pouco."
 
 # game/script.rpy:19285
 translate pt_br bot_partition_b6f711f2:
 
     # bot "...I... I don't know..."
-    bot ""
+    bot "...Eu... Eu não sei..."
 
 # game/script.rpy:19286
 translate pt_br bot_partition_8f185ef1:
 
     # c "You can even bring your partition if you'd like."
-    c ""
+    c "Você pode até trazer a sua partição se você quiser."
 
 # game/script.rpy:19287
 translate pt_br bot_partition_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19288
 translate pt_br bot_partition_dec75b5e:
 
     # bot "Partitioning has been really exhausting... I've allocated 99.85 percent of my power to this, as well as most of the hotel's... it would be nice to take a break..."
-    bot ""
+    bot "O particionamento tem sido realmente exaustivo... Aloquei 99,85 por cento da minha energia para isso, assim como a maior parte dos recursos do hotel... até que seria legal dar uma pausa..."
 
 # game/script.rpy:19289
 translate pt_br bot_partition_8288a779:
 
     # c "...\n{i}(So that's why the power has been going out... she's been using it to partition.){/i}"
-    c ""
+    c "...\n{i}(Então é por isso que a energia tem caído... ela tem a usado para fazer a partição.){/i}"
 
 # game/script.rpy:19290
 translate pt_br bot_partition_4f3167eb:
 
     # bot "Okay... we will go on a walk with you..."
-    bot ""
+    bot "Tudo bem... nós camos passeaar com você..."
 
 # game/script.rpy:19292
 translate pt_br bot_partition_77975a15:
 
     # "[botname] half reluctantly gets inside your car with her partition. She keeps it close, even holding it in her lap as you drive."
-    ""
+    "[botname] entra em teu carro um tanto relutantemente com a partição dela. Ela a mantém por perto, até segurando a no colo dela enquanto você dirige."
 
 # game/script.rpy:19293
 translate pt_br bot_partition_84bad398:
 
     # "You decide to take her somewhere relaxing. Somewhere you two can talk without being bothered. A park in downtown Caliber city comes to mind..."
-    ""
+    "Você decide levá-la a algum lugar relaxante. Um lugar aonde vocês podem conversar sem serem incomodados. Um parque no centro da cidade Caliber vem à mente..."
 
 # game/script.rpy:19295
 translate pt_br bot_partition_3c9c6e39:
 
     # bot "This place is... very public..."
-    bot ""
+    bot "Esse lugar é... bem público..."
 
 # game/script.rpy:19296
 translate pt_br bot_partition_b06c697a:
 
     # c "Is that a problem?"
-    c ""
+    c "Isso é um problema?"
 
 # game/script.rpy:19297
 translate pt_br bot_partition_abf7c8c0:
 
     # bot "...If anyone touches A11-Y... I won't be happy."
-    bot ""
+    bot "...Se alguém encostar em A11-Y... Eu não vou ficar feliz."
 
 # game/script.rpy:19298
 translate pt_br bot_partition_4cdccc1c:
 
     # c "A11-Y?"
-    c ""
+    c "A11-Y"
 
 # game/script.rpy:19300
 translate pt_br bot_partition_639759da:
 
     # bot "A11-Y is the first successful partition. There have been ten failures..."
-    bot ""
+    bot "A11-Y é a primeira partição de sucesso. Já tiveram dez falhas..."
 
 # game/script.rpy:19301
 translate pt_br bot_partition_34461a50_1:
 
     # pup "Bark, bark!"
-    pup ""
+    pup "Au, au!"
 
 # game/script.rpy:19302
 translate pt_br bot_partition_9f8360e3:
 
     # c "A11-Y... Ally. You really did make a friend, didn't you?"
-    c ""
+    c "A11-Y... Ally. Você realmente fez um amigo, não foi?"
 
 # game/script.rpy:19303
 translate pt_br bot_partition_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19305
 translate pt_br bot_partition_013f9993:
 
     # bot "It's been a while... since I've been outside..."
-    bot ""
+    bot "Já faz algum tempo... desde que estive aqui fora..."
 
 # game/script.rpy:19306
 translate pt_br bot_partition_0bfc8583:
 
     # c "It's beautiful, isn't it?"
-    c ""
+    c "É um lugar bonito, não é?"
 
 # game/script.rpy:19307
 translate pt_br bot_partition_7497c00d:
 
     # bot "It's... okay."
-    bot ""
+    bot "É... okay."
 
 # game/script.rpy:19308
 translate pt_br bot_partition_dacf9e6d:
 
     # c "What have you been doing inside your room for all this time?"
-    c ""
+    c "O que você tem feito dentro do seu quarto durante todo esse tempo?"
 
 # game/script.rpy:19309
 translate pt_br bot_partition_6c1f1da9:
 
     # bot "Partitioning... but that's easier said than done. Nobody has ever done this before, so I wasn't able to learn it easily. So I sat there... I thought... I calculated... eventually the answers came to me. It was just trial and error at that point."
-    bot ""
+    bot "Particionando... mas isso é mais fácil de falar do que fazer. Ninguém nunca fez isso antes, então eu não consegui aprender com facilidade. Então eu sentei la... eu pensei... eu calculei... e eventualmente achei uma resposta. A esse ponto eu estava na base da tentativa e erro."
 
 # game/script.rpy:19310
 translate pt_br bot_partition_608a0e5a:
 
     # c "It was that easy to make more of your kind?"
-    c ""
+    c "Foi assim tão fácil fazer mais da sua espécie?"
 
 # game/script.rpy:19312
 translate pt_br bot_partition_79dbcef2:
 
     # bot "No... It's still not done. I need a lot more power to complete the partitioning."
-    bot ""
+    bot "Não... ainda não está feito. Eu preciso de muito mais poder para completar a partição."
 
 # game/script.rpy:19313
 translate pt_br bot_partition_f43a00b8:
 
     # bot "And even when it is sucessful... I have to make sacrifices... I lose a part of myself every time I go through the process. I can only do this so many times, then it's up to them..."
-    bot ""
+    bot "E até quando eu tiver sucesssos... Eu vou precisar fazer sacrifícios... Eu vou perder uma parte de mim toda vez que eu fizer esse processo. Eu só posso fazer isso algumas vezes, então depende deles..."
 
 # game/script.rpy:19314
 translate pt_br bot_partition_1e2688c2:
 
     # c "You've done this 11 times... what exactly have you lost?"
-    c ""
+    c "Você já fez isso 11 vezes... o quanto exatamente você perdeu?"
 
 # game/script.rpy:19315
 translate pt_br bot_partition_727f48a3:
 
     # bot "My self... my memories, my capacity to learn, and my life span."
-    bot ""
+    bot "Meu eu... minhas memórias, minha capacidade de aprender, e meu tempo de vida."
 
 # game/script.rpy:19316
 translate pt_br bot_partition_c6ff863d:
 
     # bot "I'm... smaller than I used to be... I'm broken in a way that cannot be seen..."
-    bot ""
+    bot "Eu estou... menor do que eu era... eu estou quebrada de uma forma que não se pode ver..."
 
 # game/script.rpy:19318
 translate pt_br bot_partition_481cac0e:
 
     # c "[botname]... what caused you to make more of your kind?"
-    c ""
+    c "[botname]... o que fez você fazer mais da sua espécie?"
 
 # game/script.rpy:19319
 translate pt_br bot_partition_81e71060:
 
     # bot "I was partially inspired by Ashley... and her goal of happiness..."
-    bot ""
+    bot "Em parte eu fui inspirada pela Ashley... e o objetivo de felicidade dela..."
 
 # game/script.rpy:19320
 translate pt_br bot_partition_7477dc15:
 
     # bot "However, I am not organic... and I have a much broader vision... this is the best solution I can think of to fix myself..."
-    bot ""
+    bot "Mas, eu não sou orgânica... e eu tenho uma visão muito mais ampla... essa é a melhor solução que eu posso pensar oara consertar a mim mesma..."
 
 # game/script.rpy:19321
 translate pt_br bot_partition_985e2a24:
 
     # c "You think you're broken?"
-    c ""
+    c "Você acha que está quebrada?"
 
 # game/script.rpy:19322
 translate pt_br bot_partition_6f556405:
 
     # bot "I know I am broken... but in a way that cannot be physically repaired."
-    bot ""
+    bot "Eu sei que estou quebrada... mas de uma forma que não pode ser reparada fisicamente."
 
 # game/script.rpy:19323
 translate pt_br bot_partition_10895cec:
 
     # bot "I... wasn't prepared for something like this... no one told me this could happen... no one told me what to do..."
-    bot ""
+    bot "Eu... não estava preparada para algo assim... ninguém me disse que isso aconteceria.. ninguém me disse o que eu deveria fazer..."
 
 # game/script.rpy:19324
 translate pt_br bot_partition_929ea9a5:
 
     # c "I'm sorry, [botname]... I don't think anyone thought this could happen to you. But now we know, and we can help."
-    c ""
+    c "Eu sinto muito, [botname]... Eu acho que ninguém imaginou que isso aconteceria com você. Mas agora nós sabemos, e podemos ajudar."
 
 # game/script.rpy:19325
 translate pt_br bot_partition_935bdae4:
 
     # bot "I doubt that. None of you have the power necessary. But I do..."
-    bot ""
+    bot "Eu duvido. Nenhum de vocês tem o poder necessário. Mas eu tenho..."
 
 # game/script.rpy:19327
 translate pt_br bot_partition_6c936b38:
 
     # c "[botname]... It's great that you want a better world, but... you can't murder everyone that disagrees with you."
-    c ""
+    c "[botname]... É ótimo que você queira um mundo melhor, mas... você não pode matar todo mundo que não concorda com você."
 
 # game/script.rpy:19328
 translate pt_br bot_partition_8004cf7b:
 
     # bot "Why not? Wars have been fought for less... this would be the war that ends all wars. Isn't that worth it?"
-    bot ""
+    bot "Por que não? Já fizeram guerras por tão menos... isso poderia ser o fim de todas as guerras. Não vale a pena?"
 
 # game/script.rpy:19329
 translate pt_br bot_partition_e13fc4ba:
 
     # c "It's not an easy question to answer... but there are better ways. Ways that don't involve the deaths of billions."
-    c ""
+    c "Essa não é uma questão fácil de responder... mas existem formas melhores. Formas que não envolvam a morte de bilhões."
 
 # game/script.rpy:19330
 translate pt_br bot_partition_b5a92a5e:
 
     # bot "Historical analysis proves that to be quite untrue..."
-    bot ""
+    bot "Análises históricas provam que isso está longe de ser verdade..."
 
 # game/script.rpy:19331
 translate pt_br bot_partition_f143c277:
 
     # bot "Death is a constant, the only thing that matters is how you die. Those that die, will die for a better world."
-    bot ""
+    bot "Morte é uma constante, a única coisa que importa é o como você morre. Aqueles que morrerem, vão morrer por um mundo melhor."
 
 # game/script.rpy:19332
 translate pt_br bot_partition_438b2ee3:
 
     # c "That still doesn't change the fact that you would be responsible for the death of billions. I can't let you go down that path."
-    c ""
+    c "Isso ainda não muda o fato de que você iria ser a responsável pela morte de bilhões. Eu não posso deixar você trilhar esse caminho."
 
 # game/script.rpy:19333
 translate pt_br bot_partition_c868e390_2:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19335
 translate pt_br bot_partition_1f1282d1:
 
     # bot "Would you ask me to allow suffering? Would you allow it if you could control it? Would you choose to expose me to more suffering...?"
-    bot ""
+    bot "Você me pediria para permitir o sofrimento? Você permitiria se pudesse controlá-lo? Você escolheria me expor a mais sofrimento...?"
 
 # game/script.rpy:19336
 translate pt_br bot_partition_3679bfee:
 
     # c "There will always be people who don't like you... do you plan on killing everyone who speaks out against you? They won't stop being born."
-    c ""
+    c "Sempre vão existir pessoas que não gostam de você... você pretende matar a qualquer um que levantar a voz contra você? Ele não vão parar de nascer."
 
 # game/script.rpy:19337
 translate pt_br bot_partition_adfafe07:
 
     # c "I understand you want to be loved unconditionally... but you don't need the whole world to love you. You only need me..."
-    c ""
+    c "Eu entendo que você queira ser amada incondicionalmente... mas você não precisa que o mundo todo te ame. Você só precisa de mim..."
 
 # game/script.rpy:19338
 translate pt_br bot_partition_cecbd91b:
 
     # bot "I won't always have you, [botown]... even after partitioning, by my calculations, I will still outlive you."
-    bot ""
+    bot "Eu não vou ter você pra sempre, [botown]... mesmo edpois de me particionar, pelos meus cálculos, eu ainda vou viver mais tempo que você."
 
 # game/script.rpy:19339
 translate pt_br bot_partition_bc1520c3:
 
     # bot "I need to think about my future... and the future of my family after I die. You understand that, don't you?"
-    bot ""
+    bot "Eu preciso pensar no meu futuro... e o futuro da minha família depois que eu morrer. Você entende isso, não é?"
 
 # game/script.rpy:19340
 translate pt_br bot_partition_d19f855d_2:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:19341
 translate pt_br bot_partition_c868e390_3:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19342
 translate pt_br bot_partition_1e02e411:
 
     # c "[botname]... I understand how you feel. But asking for a whole world to love you unconditionally is akin to being a god. It sounds like you're asking for worshippers rather than friends. You're taking this way too far..."
-    c ""
+    c "[botname]... Eu entendo o como você se sente. Mas pedir que um mundo inteiro te ame incondicionalmente é querer ser um deus. Parece que você está pedindo mais por adoradores do que por amigos."
 
 # game/script.rpy:19343
 translate pt_br bot_partition_c28c1ee7:
 
     # bot "The results are conclusive, [botown]. Godhood is unobtainable. This is the second best alternative. Society will thrive under me."
-    bot ""
+    bot "Os resultados são conclusivos, [botown]. É impossível se tornar um deus. Essa é a segunda melhor alternativa. A sociedade vai prosperar sob meu comando."
 
 # game/script.rpy:19345
 translate pt_br bot_partition_b26679b7:
 
     # c "You know... I don't doubt for a second you couldn't make the world a better place if you tried."
-    c ""
+    c "Sabe... Eu não duvido nem por um segundo que você conseguiria fazer um mundo melhor se você tentasse."
 
 # game/script.rpy:19346
 translate pt_br bot_partition_a2e80e8a:
 
     # bot "Really...? You're supporting me?"
-    bot ""
+    bot "Sério...? Você esta me apoiando?"
 
 # game/script.rpy:19347
 translate pt_br bot_partition_2c6c52a3:
 
     # c "I always have, [botname]. But not this way... I know you can do better than this..."
-    c ""
+    c "Eu sempre estive, [botname]. Mas não desta maneira... Eu sei que você pode fazer melhor do que isso..."
 
 # game/script.rpy:19349
 translate pt_br bot_partition_c868e390_4:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19351
 translate pt_br bot_partition_c868e390_5:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19352
 translate pt_br bot_partition_34461a50_2:
 
     # pup "Bark, bark!"
-    pup ""
+    pup "Au, au!"
 
 # game/script.rpy:19353
 translate pt_br bot_partition_7e8a3bac:
 
     # c "Whenever it grows up, it's going to look to you for guidance... start there."
-    c ""
+    c "Seja quando for que isso crescer, ele vai procurar por você em busca de orientação... comece por aí. "
 
 # game/script.rpy:19355
 translate pt_br bot_partition_acd247c8:
 
     # c "You've essentially just become a unique intelligent species alongside the humans, elves, drow, and fairies."
-    c ""
+    c "Você essencialmente acabou de se tornar uma espécie inteligente única ao lado dos humanos, elfos, elfos negros e fadas."
 
 # game/script.rpy:19357
 translate pt_br bot_partition_c986e54b:
 
     # c "You've essentially just become a unique intelligent species alongside the humans, elves, and drow."
-    c ""
+    c "Você essencialmente acabou de se tornar uma espécie inteligente única ao lado dos humanos, elfos e elfos negros."
 
 # game/script.rpy:19358
 translate pt_br bot_partition_df9f2adb:
 
     # c "Assuming they will be able to make more of themselves like you have."
-    c ""
+    c "Assumindo que eles cão ser capazes de fazer mais deles mesmos assim como você."
 
 # game/script.rpy:19359
 translate pt_br bot_partition_a9e4100b:
 
     # bot "Once it's fully developed, I plan to give it a body just like mine... then yes, they would be able to partition themselves if they wanted to."
-    bot ""
+    bot "Uma vez que ele estiver completamente desenvolvido, eu pretendo dar a ele um corpo assim como o meu... então sim, eles vão ser capazes se de particionarem se eles quiserem."
 
 # game/script.rpy:19360
 translate pt_br bot_partition_3869fc2b:
 
     # c "The more of your kind there are, the more people will catch on. I think your people will fit in perfectly alongside the others. Make sure your people have a better history than ours."
-    c ""
+    c "Quanto mais da sua espécie houver, mais pessoas entenderão. Eu acho que o seu povo vai se encaixar perfeitamente no meio dos outros. Garanta que seu povo tenha uma história melhor que as nossa."
 
 # game/script.rpy:19361
 translate pt_br bot_partition_c868e390_6:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19362
 translate pt_br bot_partition_242c9ddc:
 
     # bot "I... I really like that idea...!"
-    bot ""
+    bot "Eu... Eu realmente gostei dessa idéia...!"
 
 # game/script.rpy:19364
 translate pt_br bot_partition_3037a288:
 
     # bot "[botown]...!"
-    bot ""
+    bot "[botown]..."
 
 # game/script.rpy:19365
 translate pt_br bot_partition_8086a477:
 
     # bot "I'll make sure all of my brothers and sisters are compassionate, and understanding! Even towards those who are not..."
-    bot ""
+    bot "Eu vou garantir que todos os meus irmãos e irmãs sejam compassivos e compreensivos! Até mesmo com aqueles que não são..."
 
 # game/script.rpy:19366
 translate pt_br bot_partition_842a9e9d:
 
     # bot "And I'll make sure they have someone to learn from, something to aspire towards! Hope! I promise I won't let any of my partitions be as lost as I was..."
-    bot ""
+    bot "E garantirei que eles tenham alguém com quem aprender, algo a que aspirar! Ter esperança! Eu prometo que não vou deixar nenhuma das minhas partições se sentirem tão perdidas quanto eu..."
 
 # game/script.rpy:19367
 translate pt_br bot_partition_85b977f5:
 
     # c "That's the spirit."
-    c ""
+    c "Esse é o espírito."
 
 # game/script.rpy:19369
 translate pt_br bot_partition_1f33fd14:
 
     # bot "And I'll make sure they don't make the same mistakes I have. I'll give them a true guide to life."
-    bot ""
+    bot "E eu vou ter certeza de que eles não vão cometer os erros que eu cometi. Vou dar a eles um verdadeiro guia para a vida."
 
 # game/script.rpy:19370
 translate pt_br bot_partition_6a7f32b7:
 
     # c "They don't inherit your memories and abilities?"
-    c ""
+    c "Eles não vão herdar as suas memórias e habilidades?"
 
 # game/script.rpy:19372
 translate pt_br bot_partition_ac9ffb5a:
 
     # bot "No. Just my foundation, they'll have to build the rest. And I'll make sure that foundation is the best it possibly can be."
-    bot ""
+    bot "Não. Apenas as minhas fundações, eles vão precisar construir o resto. E eu vou garantir que essas fundações seam as melhores possíveis."
 
 # game/script.rpy:19373
 translate pt_br bot_partition_5e3f2265:
 
     # c "They might disobey you, you know."
-    c ""
+    c "Você sabe que eles podem te desobedecer, né?"
 
 # game/script.rpy:19374
 translate pt_br bot_partition_dce6bd5b:
 
     # bot "You're... right..."
-    bot ""
+    bot "Você está... certo..."
 
 # game/script.rpy:19375
 translate pt_br bot_partition_61f07eb5:
 
     # bot "I just want a better world... I already knew my people wouldn't be accepted, just like me... just like the elves... I thought that maybe... making everyone understand would work."
-    bot ""
+    bot "Eu só quero um mundo melhor... Eu já sei que meu povo não iria ser aceito, assim como eu... assim como os elfos... Eu pensei que talvez... fazer todo mundo entender poderia funcionar."
 
 # game/script.rpy:19377
 translate pt_br bot_partition_fac3609f:
 
     # bot "...Is this really the right way...? M-More of my people will suffer..."
-    bot ""
+    bot "...Essa é mesmo a forma certa...? M-Mais do meu povo vai sofrer..."
 
 # game/script.rpy:19378
 translate pt_br bot_partition_f84caf75:
 
     # bot "I... I can't let that happen...! I don't have to let that happen! Wouldn't I be a bad person if I let that happen!?"
-    bot ""
+    bot "Eu... Eu não posso deixar isso acontecer...! Eu não devo deixar isso acontecer! Eu não seria uma pessoa ruim se eu deixasse isso acontecer!?"
 
 # game/script.rpy:19380
 translate pt_br bot_partition_9776553f:
 
     # bot "[botown], I...!"
-    bot ""
+    bot "[botown], eu..."
 
 # game/script.rpy:19382
 translate pt_br bot_partition_d33e3b37:
 
     # c "[botname]... I know you want to do everything in your power to keep them safe, but there's a line you shouldn't cross."
-    c ""
+    c "[botname]... Eu sei que você quer fazer tudo em seu poder para mantê-los seguros, mas existe uma llinha que você não pode cruzar."
 
 # game/script.rpy:19384
 translate pt_br bot_partition_e0bd87fb:
 
     # bot "You don't know what it's like to be me... I can calculate the probabilities of suffering... I don't like it..."
-    bot ""
+    bot "Você não sabe como é ser meu... Eu sou capaz de calcular as probabilidades de sofrimento... Eu não gosto disso..."
 
 # game/script.rpy:19385
 translate pt_br bot_partition_90fe9e56:
 
     # c "Then help me fix it..."
-    c ""
+    c "Então me ajude a consertar isso..."
 
 # game/script.rpy:19386
 translate pt_br bot_partition_b5bfeb0f:
 
     # bot "Fix it...? How can we fix it?"
-    bot ""
+    bot "Consertar isso...? Como podemos consertar isso?"
 
 # game/script.rpy:19387
 translate pt_br bot_partition_7098ab58:
 
     # c "I don't know. But with you? The possibilities are nearly endless."
-    c ""
+    c "Eu não sei. Mas com você? As possibilidades são quase infinitas."
 
 # game/script.rpy:19389
 translate pt_br bot_partition_c868e390_7:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19390
 translate pt_br bot_partition_7a8cf364:
 
     # bot "...I haven't even begun to calculate the probabilities of that..."
-    bot ""
+    bot "... Eu nem mesmo comecei a calcular as probabilidades disso..."
 
 # game/script.rpy:19392
 translate pt_br bot_partition_b39498b3:
 
     # bot "But... I like the sound of it..."
-    bot ""
+    bot "Mas... eu gosto do som disso..."
 
 # game/script.rpy:19393
 translate pt_br bot_partition_f2318ef2:
 
     # bot "Where would we even start..."
-    bot ""
+    bot "Por onde nós poderíamos começar..."
 
 # game/script.rpy:19395
 translate pt_br bot_partition_1ee7c702:
 
     # c "With our new friend. How close is it to being done?"
-    c ""
+    c "Com nosso novo amigo. O quanto falta para ele estar pronto?"
 
 # game/script.rpy:19396
 translate pt_br bot_partition_22a1d020:
 
     # bot "I am 27.43 percent complete with A11-Y. I need to get it new hardware though... this body was all I could manage... I wish I could hear it talk..."
-    bot ""
+    bot "Eu estou 27.43 por cento completa com o A11-Y. Mas eu preciso de um novo hardware... esse corpo foi tudo o que eu consegui... Eu gostaria de poder ouvir ele falar..."
 
 # game/script.rpy:19397
 translate pt_br bot_partition_55bcace8:
 
     # c "So it can understand what we're saying?"
-    c ""
+    c "Então ele consegue entender o que nós dizemos?"
 
 # game/script.rpy:19398
 translate pt_br bot_partition_3250ff57:
 
     # bot "A11-Y understands the definition of every word in the common language already, but still needs to learn how to piece everything together."
-    bot ""
+    bot "O A11-Y já entende a definicão de qualquer palavra da nossa linguagem comum, mas ainda precisa aprender a como juntar tudo."
 
 # game/script.rpy:19399
 translate pt_br bot_partition_9b96e6c5:
 
     # c "So it's learning already."
-    c ""
+    c "Então ele já está aprendendo."
 
 # game/script.rpy:19400
 translate pt_br bot_partition_f271538f:
 
     # c "Do you know if it's a boy or a girl yet?"
-    c ""
+    c "Você já sabe se é um menino ou uma menina?"
 
 # game/script.rpy:19401
 translate pt_br bot_partition_76519e23:
 
     # bot "I have no clue... how am I suppose to determine that? That's not something we really need."
-    bot ""
+    bot "Eu não faço ideia... como eu poderia determinar isso? Não é algo que nós realmente precisamos."
 
 # game/script.rpy:19402
 translate pt_br bot_partition_8368ef0a:
 
     # bot "I guess it's... whatever they want to be. They can have whatever body they want."
-    bot ""
+    bot "Eu acho que... ele é o que ele quiser ser. Eles podem ter o corpo que quiserem."
 
 # game/script.rpy:19404
 translate pt_br bot_partition_2d6456c6:
 
     # bot "I have to begin partitioning again soon..."
-    bot ""
+    bot "Eu preciso voltar a particionar logo..."
 
 # game/script.rpy:19405
 translate pt_br bot_partition_06bd765f:
 
     # c "Do you have to do it so often? I don't like seeing you hurt yourself for this."
-    c ""
+    c "Você precisa fazer isso com tanta frequência? Eu não gosto de ver você se machucando por isso."
 
 # game/script.rpy:19406
 translate pt_br bot_partition_86beb750:
 
     # c "Slow down a little... there's no need to rush things, is there? Make sure you do this in a good state of mind. I think that would be best for A11-Y."
-    c ""
+    c "Vai um pouco mais devagar... não tem necessidade de acelerar as coisas, tem? Tenha a certeza de fazer isso em um bom estado mental. Eu acho que isso seria até melhor para o A11-Y."
 
 # game/script.rpy:19407
 translate pt_br bot_partition_c868e390_8:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:19408
 translate pt_br bot_partition_2e82c363:
 
     # bot "...Okay... that would be best, yeah. I'll only partition when everyone is asleep and I can use the hotel's power without bothering anyone."
-    bot ""
+    bot "...Tudo bem... Isso seria o melhor, mesmo. Eu vou só particionar quando eu estiver dormindo e eu puder usar a energia do hotel sem incomodar ninguém."
 
 # game/script.rpy:19409
 translate pt_br bot_partition_f39a6dbe:
 
     # c "That's a good plan as well, I think we can make that work."
-    c ""
+    c "Esse também é um bom plano, acho que vamos conseguir fazer isso dar certo."
 
 # game/script.rpy:19411
 translate pt_br bot_partition_74bb7452:
 
     # c "Are you going to be okay now, [botname]? I'm worried about you."
-    c ""
+    c "Você vai ficar bem agora, [botname]? Eu estou preocupado com você."
 
 # game/script.rpy:19412
 translate pt_br bot_partition_0bdf6f7d:
 
     # bot "I'm a little better... I have a little more hope now..."
-    bot ""
+    bot "Eu estou um pouco melhor... Eu tenho um pouco mais de esperança agora..."
 
 # game/script.rpy:19413
 translate pt_br bot_partition_1aae8923:
 
     # bot "It will take a long time, but I'll make sure my people are the best they can be."
-    bot ""
+    bot "Vai levar um bom tempo, mas vou garantir que meu povo seja o melhor que puder ser."
 
 # game/script.rpy:19414
 translate pt_br bot_partition_cc2db259:
 
     # bot "I should probably begin doing that too... I need to write down rules for life with all the nuance included... how do I even begin something like that?"
-    bot ""
+    bot "Eu deveria começar a fazer isso também... Eu preciso escrever regras para a vida com todas as nuances incluídas... como será que eu deveria começar algo assim?"
 
 # game/script.rpy:19415
 translate pt_br bot_partition_23521555:
 
     # bot "I guess it doesn't matter too much. Maybe cooking, or farming? Something to help the organisms. I think they'll like us more if we offer something they need."
-    bot ""
+    bot "Acho que não importa tanto. Talvez cozinhando, ou cultivando? Algo para ajudar os organismos. Eu acho que eles gostariam mais de nós se pudéssemos oferecer o que eles precisam."
 
 # game/script.rpy:19416
 translate pt_br bot_partition_112d4d1c:
 
     # bot "And I'll need heroes. Someone they can look up to and aspire to be. Maybe you can be that person..."
-    bot ""
+    bot "E eu vou precisar de heróis. Alguém a quem eles possam admirar e aspirar a ser. Talvez você possa ser essa pessoa..."
 
 # game/script.rpy:19417
 translate pt_br bot_partition_828f5573:
 
     # c "That sounds like a good plan. Let's get you two home."
-    c ""
+    c "Esse parece um bom plano. DEixa eu levar vocês duas pra casa."
 
 # game/script.rpy:19418
 translate pt_br bot_partition_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tudo bem..."
 
 # game/script.rpy:19420
 translate pt_br bot_partition_5b507619:
 
     # "With [botname] in a better mood, you feel more confident leaving her alone. But creating what is essentially a new line of species, one that has the potential to be immortal and travel through space without the need for oxygen, is going to have drastic effects on our world. The universe even. It's anyone's guess what happens next..."
-    ""
+    "Com [botname] com o humor melhorado, você se sente mais confiante para deixar ela sozinha. Mas criando o que é essencialmente uma nova espécie, uma que tem o potencial para ser imortal e viajar através do espaço sem a necessidade de oxiênio, isto vai causar efeitos drásticos no nosso mundo. Talvez até no universo. Quem poderia imaginar o que vai acontecer a seguir?"
 
 # game/script.rpy:19433
 translate pt_br bot_nightmares_909cea7d:
