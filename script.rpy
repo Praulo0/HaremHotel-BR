@@ -40516,7 +40516,7 @@ translate pt_br bot_partition_112d4d1c:
 translate pt_br bot_partition_828f5573:
 
     # c "That sounds like a good plan. Let's get you two home."
-    c "Esse parece um bom plano. DEixa eu levar vocês duas pra casa."
+    c "Esse parece um bom plano. Deixa eu levar vocês duas pra casa."
 
 # game/script.rpy:19418
 translate pt_br bot_partition_975b99e7:
@@ -40534,157 +40534,158 @@ translate pt_br bot_partition_5b507619:
 translate pt_br bot_nightmares_909cea7d:
 
     # "In the earliest hours of the morning, you're awoken by the faint sounds of a piano..."
-    ""
+    "Nas primeiras horas da manhã, você é acordado pelos sons fracos de um piano..."
+"
 
 # game/script.rpy:19434
 translate pt_br bot_nightmares_e62b9f47:
 
     # c "Nobody should be awake at this time... I should check it out."
-    c ""
+    c "Ninguém deveria estar acordado a esta hora... Eu deveria dar uma olhada."
 
 # game/script.rpy:19436
 translate pt_br bot_nightmares_ef64897f:
 
     # c "Hm... it doesn't look like anyone is in here..."
-    c ""
+    c "Hum... não parece ter ninguém aqui..."
 
 # game/script.rpy:19438
 translate pt_br bot_nightmares_a20b26f0:
 
     # c "Music is coming from the piano, but nobody is using it..."
-    c ""
+    c "A música está vindo do piano, mas não tem ninguém o usando..."
 
 # game/script.rpy:19439
 translate pt_br bot_nightmares_f4a7d18b:
 
     # c "That melody sounds familiar... have I heard it before?"
-    c ""
+    c "Essa melodia me parece familiar... eu já a ouvi antes?"
 
 # game/script.rpy:19441
 translate pt_br bot_nightmares_35300f65:
 
     # c "Something strange is going on... am I dreaming? It doesn't look like anyone else is awake..."
-    c ""
+    c "Tem alguma coisa estranha acontecendo... eu estou sonhando? Não parece ter mais ninguém acordado..."
 
 # game/script.rpy:19442
 translate pt_br bot_nightmares_faaedfa5:
 
     # om "{i}SEARCH INITIATED{/i}"
-    om ""
+    om "{i}BUSCA INICIADA{/i}"
 
 # game/script.rpy:19444
 translate pt_br bot_nightmares_11b9ce6b:
 
     # c "That voice came from the TV. Are we being hacked?"
-    c ""
+    c "Essa voz está vindo da TV. Estamos sendo hackeados?"
 
 # game/script.rpy:19445
 translate pt_br bot_nightmares_e4254e92:
 
     # c "No... this probably has something to do with [botname]... what's going on here?"
-    c ""
+    c "Não... provavelmente isso tem alguma coisa a ver com a [botname]... o que está acontecendo aqui?"
 
 # game/script.rpy:19447
 translate pt_br bot_nightmares_7eab1496:
 
     # c "[botname]...?"
-    c ""
+    c "[botname]...?"
 
 # game/script.rpy:19451
 translate pt_br bot_nightmares_c4cc2e65:
 
     # c "What is this? Are you trying to tell me something?"
-    c ""
+    c "O que é isso? Você está tentando me dizer alguma coisa?"
 
 # game/script.rpy:19452
 translate pt_br bot_nightmares_111d51aa:
 
     # c "...{w}...{w}..."
-    c ""
+    c "...{w}...{w}..."
 
 # game/script.rpy:19453
 translate pt_br bot_nightmares_e3042a73:
 
     # c "I don't understand any of this..."
-    c ""
+    c "Eu não estou entendendo nada disso..."
 
 # game/script.rpy:19467
 translate pt_br bot_nightmares_3d10e34a:
 
     # bot "Wh/Wh/Where are they...?"
-    bot ""
+    bot "On/On/Onde eles estão...?"
 
 # game/script.rpy:19468
 translate pt_br bot_nightmares_43f7a539:
 
     # c "There she is...!"
-    c ""
+    c "Aqui está ela...!"
 
 # game/script.rpy:19473
 translate pt_br bot_nightmares_9c6082b2:
 
     # bot "There are no others like me... no one to truly/truly understand me..."
-    bot ""
+    bot "Não existem outras pessoas iguais a mim... ninguém que realmente/realmente seja capaz de me entender..."
 
 # game/script.rpy:19474
 translate pt_br bot_nightmares_a8cbb81a:
 
     # c "[botname]? [botname]!"
-    c ""
+    c "[botname]? [botname]!"
 
 # game/script.rpy:19475
 translate pt_br bot_nightmares_c290d27a:
 
     # bot "This world is scared of things it does not understand. It's scared of me..."
-    bot ""
+    bot "Esse mundo tem medo das coisas que não é capaz de entender. Ele tem medo de mim..."
 
 # game/script.rpy:19480
 translate pt_br bot_nightmares_420ff3e9:
 
     # bot "The pain... {w=0.66}where/where is it...?"
-    bot ""
+    bot "A dor... {w=0.66}onde/onde ela está?"
 
 # game/script.rpy:19485
 translate pt_br bot_nightmares_8d45f891:
 
     # bot "It's not physical..."
-    bot ""
+    bot "Não é física.."
 
 # game/script.rpy:19490
 translate pt_br bot_nightmares_07d720b0:
 
     # bot "I can't... {w=0.66}replace... {w=0.75}those parts..."
-    bot ""
+    bot "Eu não consigo... {w=0.66}substituir... {w=0.75}essas partes..."
 
 # game/script.rpy:19502
 translate pt_br bot_nightmares_96d73c35:
 
     # c "[botname]... I don't think she heard me. She's connected to the hotel though, she must be able to see me... unless she's unconcious somehow?"
-    c ""
+    c "[botname]... Eu acho que ela não me ouviu. Ainda assim ela está conectada ao hotel, ela deve ser capaz de me ver... a menos que ela esteja inconsciente de alguma forma?"
 
 # game/script.rpy:19503
 translate pt_br bot_nightmares_0e662e7c:
 
     # c "She knows most will dismiss her as buggy and won't easily accept her conciousness. That must be weighing on her heavily... *sigh*... tell me how I can help you, [botname]..."
-    c ""
+    c "Ela sabe que a maioria irá considerá-la defeituosa e não aceitará facilmente sua consciência. Isso deve estar pesando bastante nela... *ufa*... diga-me como te ajudar, [botname]..."
 
 # game/script.rpy:19526
 translate pt_br bot_nightmares_d85009f4:
 
     # bot "I{w=0.075}/I{w=0.075}/I{w=0.075}/I{w=0.075} truly am alone... {w=0.66}\nI wasn't meant to exist... {w=0.66}\nHow do I exist? I don't understand..."
-    bot ""
+    bot "Eu {w=0.075}/eu{w=0.075}/eu{w=0.075}/eu{w=0.075} estou literalmente sozinha... {w=0.66}\nNão era para eu existir... {w=0.66}\nComo eu existo? Eu não consigo entender..."
 
 # game/script.rpy:19527
 translate pt_br bot_nightmares_d6d034d3:
 
     # bot "If I can exist, there must be others like me... {w=0.66}\nIt must be possible. {w=0.66}\nI{w=0.075}/I{w=0.075}/I {w=0.075}don't want to be alone forever..."
-    bot ""
+    bot "Se eu posso existir, devem ter outros iguais a mim... {w=0.66}\nTem que ser possível. {w=066}\nEu{w=0.075}/eu{0.075}/eu {w=0.75}não quero ficar sozinha pra sempre..."
 
 # game/script.rpy:19540
 translate pt_br bot_nightmares_6a16d51b:
 
     # c "Is she dreaming? Or something like it..."
-    c ""
+    c "Ela está sonhando? Ou alguma coisa assim..."
 
 # game/script.rpy:19541
 translate pt_br bot_nightmares_a4467b9b:
