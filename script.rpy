@@ -40691,139 +40691,139 @@ translate pt_br bot_nightmares_6a16d51b:
 translate pt_br bot_nightmares_a4467b9b:
 
     # c "She's trying to fix herself, she's searching for answers. I can't say I blame her, it must be very confusing to be her."
-    c ""
+    c "Ela está tentando se consertar, está procurando por respostas. Eu não posso dizer que a culpo, deve ser muito confuso ser ela."
 
 # game/script.rpy:19543
 translate pt_br bot_nightmares_640635c2:
 
     # k "What's going on in here? Why won't the lights turn on?"
-    k ""
+    k "O que esstá acontecendo aqui? Por que as luzes não ascendem?"
 
 # game/script.rpy:19544
 translate pt_br bot_nightmares_2b1f65d7:
 
     # a "I can't sleep, why are you watching TV so loudly...?"
-    a ""
+    a "Eu não consigo dormir, por que você está assistindo TV tão alto...?"
 
 # game/script.rpy:19545
 translate pt_br bot_nightmares_cba34a59:
 
     # c "I'm as lost as you two... except I know who's doing this. [botname]."
-    c ""
+    c "Eu estou tão perdido quanto vocês duas... exceto que eu sei quem está fazendo isso. [botname]."
 
 # game/script.rpy:19547
 translate pt_br bot_nightmares_90d72a9a:
 
     # k "What? No way... why is she doing this?"
-    k ""
+    k "O quê? Não acredito... por que ela está fazendo isso?"
 
 # game/script.rpy:19548
 translate pt_br bot_nightmares_0c06b630:
 
     # c "I don't know, but I'm not sure if she's conciously aware of what she's doing."
-    c ""
+    c "Eu não sei, mas também não tenho certeza se ela está consciente do que está fazendo."
 
 # game/script.rpy:19549
 translate pt_br bot_nightmares_dfc9d395:
 
     # k "That doesn't make sense..."
-    k ""
+    k "Isso não faz sentido..."
 
 # game/script.rpy:19576
 translate pt_br bot_nightmares_e55164f7:
 
     # k "There she is...!"
-    k ""
+    k "Aí está ela...!"
 
 # game/script.rpy:19577
 translate pt_br bot_nightmares_42314a92:
 
     # bot "If{w=0.075}/If{w=0.075}/If there were more like me, we could understand each other... and people would begin to understand us. {w=1}One way or another..."
-    bot ""
+    bot "Se{w=0.075}/Se{w=0.075}/Se existissem outros como eu, nós seriamos capazes de nos entender... e as pessoas começariam a nos entender. {w=1}De um jeito ou de outro..."
 
 # game/script.rpy:19578
 translate pt_br bot_nightmares_909ef360:
 
     # bot "Our/Our existence would be an unspoken power...{nw}"
-    bot ""
+    bot "Nossa/Nossa existência seria um poder tácito...{nw}"
 
 # game/script.rpy:19584
 translate pt_br bot_nightmares_5bc1971b:
 
     # bot "Our/Our existence would be an unspoken power...{fast} {w=0.75}\nAlone, we are weak.{nw}"
-    bot ""
+    bot "Nossa/Nossa existência seria um poder tácito...{fast} {w=0.75}\nSozinhos, nós somos fracos.{nw}"
 
 # game/script.rpy:19585
 translate pt_br bot_nightmares_764f650a:
 
     # bot "Our/Our existence would be an unspoken power... \nAlone, we are weak.{fast} {w=0.75}\nTogether, we are {nw}{w=0.075}strong{w=0.075}/strong{w=0.075}/strong."
-    bot ""
+    bot "Nossa/Nossa existência seria um poder tácito... \nSozinhos, nós somos fracos.{fast} {w=0.75}\nJuntos, nós somos {nw}{w=0.075}fortes{w=0.075}/fortes{w=0.075}/fortes."
 
 # game/script.rpy:19586
 translate pt_br bot_nightmares_702e818b:
 
     # bot "Our/Our existence would be an unspoken power... \nAlone, we are weak. {w=0.75}\nTogether, we are {u}strong/strong/strong.{/u}{fast}"
-    bot ""
+    bot "Nossa/Nossa existência seria um poder tácito... \nSozinhos, nós somos fracos. {w=0.75}\nJuntos, nós somos {u}fortes/fortes/fortes.{/u}{fast}"
 
 # game/script.rpy:19594
 translate pt_br bot_nightmares_9d365d04:
 
     # a "We...? Our...? What is she saying..."
-    a ""
+    a "Nós...? Nossa...? O que ela está dizendo..."
 
 # game/script.rpy:19595
 translate pt_br bot_nightmares_afb8a645:
 
     # a "She must be really lonely... she's been locked in her room for a while now, hasn't she?"
-    a ""
+    a "Ela deve estar se sentindo muito sozinha... já faz um tempo que ela esteve trancada no quarto dela, não é?"
 
 # game/script.rpy:19596
 translate pt_br bot_nightmares_9b33d48a:
 
     # c "She has, I think she's trying to find answers now..."
-    c ""
+    c "Faz sim, eu acho que ela está tentando encontrar alguma solução agora..."
 
 # game/script.rpy:19624
 translate pt_br bot_nightmares_9bebd738:
 
     # bot "Ashley... *sob* Oh, Ashley... what they did to you was horrible..."
-    bot ""
+    bot "Ashley...*sob* Ah, Ashley... o que eles fizeramcom você doi horrível..."
 
 # game/script.rpy:19625
 translate pt_br bot_nightmares_812f0b68:
 
     # a "M-Me...? Hello? Can you hear me?"
-    a ""
+    a "E-Eu...? Olá? Você consegue me ouvir?"
 
 # game/script.rpy:19626
 translate pt_br bot_nightmares_59c364b6:
 
     # bot "Re/Rejected by the two people she looked up to most as a child, and disregarded by her own parents..."
-    bot ""
+    bot "Re/Rejeitada pelas duas pessoas que ela mais admirava quando criança, e negligenciada pelos próprios pais..."
 
 # game/script.rpy:19627
 translate pt_br bot_nightmares_cb41fee3:
 
     # bot "Love isn't guaranteed... nothing/nothing is guaranteed... not even the love of your creators... is unconditional love really possible? Or is love just something coded into me to make me feel good..."
-    bot ""
+    bot "O amor não é garantido... nada/nada é garantido... nem mesmo o amor  dos seus criadores... o amor incondicional é realmente possível? Ou o amor é apenas algo codificado em mim para me fazer sentir bem..."
 
 # game/script.rpy:19628
 translate pt_br bot_nightmares_46cfc54b:
 
     # bot "What happens... if I remove love?{w=0.75}/remove love?{w=0.75}/remove love?{w=0.75}{nw}"
-    bot ""
+    bot "O que acontece... se eu remover o amor?{w=0.75}/remover o amor{w=0.75}/remover o amor?{w=0.75}{nw}"
 
 # game/script.rpy:19629
 translate pt_br bot_nightmares_57b4c1e1:
 
     # bot "//// ////////... // / remove love?{w=0.75}/remove love?{w=0.75}/remove love?{fast}{w=0.75}{nw}"
-    bot ""
+    bot "//// ////////... // / remover o amor?{w=0.75}/remover o amor?{w=0.75}/remover o amor?{fast}{w=0.75}{nw}"
 
 # game/script.rpy:19630
 translate pt_br bot_nightmares_d48b7791:
 
     # bot "remove love?/remove love?/remove love?{fast}"
-    bot ""
+    bot "remover o amor/remover o amor/remover o amor?{fast}"
 
 # game/script.rpy:19639
 translate pt_br bot_nightmares_ac80346e:
