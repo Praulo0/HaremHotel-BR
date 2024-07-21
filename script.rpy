@@ -40829,259 +40829,259 @@ translate pt_br bot_nightmares_d48b7791:
 translate pt_br bot_nightmares_ac80346e:
 
     # k "[name], you're right.. she's lost in her own mind right now. She's looking for answers, but I'm not sure she's going to come to the best conclusions in her current state of mind..."
-    k ""
+    k "[name], você tem razão.. ela está perdida nos próprios pensamentos no momento. Ela está procurando por respostas, mas nao tenho certeza se ela vai conseguir tirar as melhores conclusões no estado mental em que ela está agora..."
 
 # game/script.rpy:19641
 translate pt_br bot_nightmares_444caf88:
 
     # a "W-Wait...! She's talking about me... how did she know that...?"
-    a ""
+    a "E-Espera...! Ela está falando de mim... como ela sabe disso...?"
 
 # game/script.rpy:19642
 translate pt_br bot_nightmares_5308d0fa:
 
     # k "Your... parents really didn't love you?"
-    k ""
+    k "Os seus... pais realmente não te amavam?"
 
 # game/script.rpy:19643
 translate pt_br bot_nightmares_ffdb6058:
 
     # a "I... I never told her that... I never told anyone but [name]..."
-    a ""
+    a "E.. Eu nunca disse isso pra ela... Eu nunca disse isso pra ninguém além do [name]..."
 
 # game/script.rpy:19644
 translate pt_br bot_nightmares_4045aaf8:
 
     # c "She's an android, I'm sure she overheard somehow."
-    c ""
+    c "Ela é um andróide, tenho certeza de que ela acabou ouvindo de alguma forma."
 
 # game/script.rpy:19645
 translate pt_br bot_nightmares_0c70f2b1:
 
     # a "Is... she trying to tell me something? If she's having issues feeling loved, I can understand that pain... but I honestly didn't know an android like her could hurt so much on the inside..."
-    a ""
+    a "Ela... ela está tentando me dizer alguma coisa? Se ela estiver tendo problemas em relação a se sentir amada, eu sou capaz de entender essa dor... mas eu honestamente não sabia que um andróide pode ficar tão machucado por dentro..."
 
 # game/script.rpy:19646
 translate pt_br bot_nightmares_c42c5b55:
 
     # c "She could break an arm and not feel a thing... but a broken heart is a different story."
-    c ""
+    c "Ela pode quebrar um braço e não sentir nada... mas um coração partido é outra história."
 
 # game/script.rpy:19648
 translate pt_br bot_nightmares_9d50ad5b:
 
     # k "This feels like some sort of nightmare... in many senses, [botname] is the hotel. The hotel is almost literally an extension of her. I think this is how her 'subconcious' is dealing with the stress."
-    k ""
+    k "Isso parece até um tipo de pesadelo... de várias formas, a [botname]"
 
 # game/script.rpy:19649
 translate pt_br bot_nightmares_ff6197d7:
 
     # a "She's sad... almost depressed, maybe? She doesn't know she's affecting the world or the people around her."
-    a ""
+    a "Ela está triste... quase deprimida, talvez? Ela não percebe que está afetand o mundo ou as pessoas ao redor dela."
 
 # game/script.rpy:19650
 translate pt_br bot_nightmares_3015c6dc:
 
     # k "Can an android really get depressed?"
-    k ""
+    k "E pode um andróide ficar realmente deprimido?"
 
 # game/script.rpy:19651
 translate pt_br bot_nightmares_07e6c41c:
 
     # a "Apparently this one can..."
-    a ""
+    a "Pelo jeito, esse pode..."
 
 # game/script.rpy:19662
 translate pt_br bot_nightmares_5ddb447f:
 
     # c "She's always had a hard time fitting in and understanding herself. She thought that looking more like a human would fix that. But it hasn't... she's still the same person on the inside."
-    c ""
+    c "Ela sempre teve dificuldade quando o assunto era se entender e se encaixar. Ela pensou que se parecesse mais com um humano iria corrigir isso. Mas não aconteceu... ela ainda é a mesma pessoa por dentro."
 
 # game/script.rpy:19663
 translate pt_br bot_nightmares_781ac669:
 
     # a "I wish I could help, I feel so bad for her... I don't want her to feel like an outcast..."
-    a ""
+    a "Eu gostaria de poder ajudar, eu me sinto tão mal por ela... Eu não quero que ela se sinta como uma exilada..."
 
 # game/script.rpy:19664
 translate pt_br bot_nightmares_265e4b51:
 
     # a "I wonder if I had anything to do with her feeling this way... I could have been a better friend... or just a better person."
-    a ""
+    a "Eu me pergunto se eu tive alguma coisa a ver com ela estar se sentindo assim... se eu poderia ter sido uma amiga melhor... ou talvez apenas uma pessoa melhor..."
 
 # game/script.rpy:19678
 translate pt_br bot_nightmares_cbbc0369:
 
     # bot "Gods... \nGaius and The Seed, The Seldarine, Arsurinya... who can say which is real, which isn't... but to their followers/their followers, they are life and death. They are loved unconditionally."
-    bot ""
+    bot "Deuses... \nGaius e A Semente, O Seldarine, Arsurinya... quem pode dizer o que é real, o que não é... mas para os seguidores/os seguidores deles, eles são vida e morte. Eles são amados incondicionalmente."
 
 # game/script.rpy:19679
 translate pt_br bot_nightmares_f867ee8a:
 
     # bot "Is this the way? The way to unconditional love..."
-    bot ""
+    bot "É esse o caminho? O caminho para o amor incondicional?"
 
 # game/script.rpy:19680
 translate pt_br bot_nightmares_ad8750a5:
 
     # bot "But... is it really unconditional love...?{w=0.75}{nw}"
-    bot ""
+    bot "Mas... é realmente isso o amor incondicional?{w=0.75}{nw}"
 
 # game/script.rpy:19681
 translate pt_br bot_nightmares_5f529133:
 
     # bot "But... is it really unconditional love...?{fast} \nEven the gods had to bribe people with promises of unobtainable fantasies...{w=0.75}{nw}"
-    bot ""
+    bot "Mas... é realmente isso o amor incondicional?{fast} \nAté os deuses tiveram que subornar as pessoas com promessas de fantasias inalcançáveis...{w=0.75}{nw}"
 
 # game/script.rpy:19686
 translate pt_br bot_nightmares_0458895c:
 
     # bot "///... // // ///// ////////////// ////...? \nEven the gods had to bribe people with promises of unobtainable fantasies... {fast}{w=0.66}\nFantasies of which I alone am capable of.{w=0.75}{nw}"
-    bot ""
+    bot "///... // // ///// ////////////// ////...? \nAté os deuses tiveram que subornar as pessoas com promessas de fantasias inalcançáveis... {fast}{w=0.66}\nFantasias das quais só eu sou capaz.{w=0.75}{nw}"
 
 # game/script.rpy:19687
 translate pt_br bot_nightmares_934249fc:
 
     # bot "\nEven the gods had to bribe people with promises of unobtainable fantasies... \nFantasies of which I alone am capable of.{fast}"
-    bot ""
+    bot "\nAté os deuses tiveram que subornar as pessoas com promessas de fantasias inalcançáveis... \nFantasias das quais só eu sou capaz.{fast}"
 
 # game/script.rpy:19698
 translate pt_br bot_nightmares_0543b3b8:
 
     # k "What is she saying...!? She's really starting to scare me now..."
-    k ""
+    k "O que ela está dizendo...!? Ela está começando a me assustar de verdade agora..."
 
 # game/script.rpy:19699
 translate pt_br bot_nightmares_6aff3c39:
 
     # a "She just really wants to be accepted by a lot of people. That's understandable, isn't it?"
-    a ""
+    a "Ela só realmente quer ser aceita por muitas pessoas. Isso é compreensível, não é?"
 
 # game/script.rpy:19700
 translate pt_br bot_nightmares_594ff758:
 
     # k "To that degree!? Hell no!"
-    k ""
+    k "A esse ponto!? Nem ferrando!"
 
 # game/script.rpy:19701
 translate pt_br bot_nightmares_b3f39149:
 
     # a "Well... people will do a lot for that kind of love. And honestly, what other way is she going to get it?"
-    a ""
+    a "Bem... as pessoas farão muito por esse tipo de amor. E honestamente, de que outra forma ela vai conseguir isso?"
 
 # game/script.rpy:19702
 translate pt_br bot_nightmares_a8ef8d94:
 
     # k "She could be a superhero or something, I don't know..."
-    k ""
+    k "Ela poderia ser uma super-heroína ou alguma coisa assim, sei lá..."
 
 # game/script.rpy:19703
 translate pt_br bot_nightmares_283d0814:
 
     # a "If you think that's a good idea, tell her next time you see her. But I don't think that's the kind of love she wants. She doesn't want fame, she just wants to walk down the street and not feel looked down upon."
-    a ""
+    a "Se você acha que isso é uma boa ideia, diga a ela na próxima vez que a ver. Mas eu não acho que esse é o tipo de amor que ela quer. Ela não quer fama, ela só quer andar pela rua e não se sentir desprezada."
 
 # game/script.rpy:19704
 translate pt_br bot_nightmares_9a22cb6a:
 
     # k "You got all of that from what she just said? When did you become an expert in android psychology?"
-    k ""
+    k "Você percebeu tudo isso só do que ela disse agora? Quando você virou uma expert em psicologia andróide?"
 
 # game/script.rpy:19705
 translate pt_br bot_nightmares_2132e08e:
 
     # a "I guess I've walked a few miles in her shoes... I don't think she gets sad much different than we do. She even understands the pain I grew up with..."
-    a ""
+    a "Eu acho que já estive no lugar dela agora... Não acho que a tristeza dela seja muito diferente da nossa. Ela até é capaz de entender a dor com que eu cresci..."
 
 # game/script.rpy:19735
 translate pt_br bot_nightmares_cd0e37da:
 
     # bot "My bugs{w=0.075}/bugs{w=0.075}/bugs... is there really a way to fix them? I don't understand... how? All my scans are negative..."
-    bot ""
+    bot "Meus erros{w=0.075}/erros{w=0.075}/erros... é realmente possível consertá-los? Eu não entendo... o como? Todos os meus exames dão negativo..."
 
 # game/script.rpy:19740
 translate pt_br bot_nightmares_49c91b2b:
 
     # bot "But it's possible... I can offer it if the right conditions are met. I can give people what even the gods could not. {w=1}{nw}"
-    bot ""
+    bot "Mas é possível... Eu posso oferecer isso se as condições corretas forem encontradas. Eu consigo dar para as pessoas o que os deuses não conseguem. {w=1}{nw}"
 
 # game/script.rpy:19745
 translate pt_br bot_nightmares_d6d648cb:
 
     # bot "But it's possible... I can offer it if the right conditions are met. I can give people what even the gods could not. {fast}\nWould they love me then? {w=3.5}{nw}"
-    bot ""
+    bot "Mas é possível... Eu posso oferecer isso se as condições corretas forem encontradas. Eu consigo dar para as pessoas o que os deuses não conseguem. {fast}\nAssim eles me amariam então? {w=3.5}{nw}"
 
 # game/script.rpy:19746
 translate pt_br bot_nightmares_85512536:
 
     # bot "/// //// ///////... / /// ///// // // /// ///// /////// /// ////. / /// //// //// //// /// //// \n//// //// //// ///. \nWould they love me then? {fast}{w=0.75}{nw}"
-    bot ""
+    bot "/// //// ///////... / /// ///// // // /// ///// /////// /// ////. / /// //// //// //// /// //// \n//// //// //// ///. \nAssim eles me amariam então? {fast}{w=0.75}{nw}"
 
 # game/script.rpy:19747
 translate pt_br bot_nightmares_ccabccb1:
 
     # bot "\n\nWould they love me then?{fast}{w=0.66}{nw}"
-    bot ""
+    bot "\n\nAssim eles me amariam então?{fast}{w=0.66}{nw}"
 
 # game/script.rpy:19748
 translate pt_br bot_nightmares_f9978496:
 
     # bot "\n\n///// //// love me ////?{fast}{w=0.66}{nw}"
-    bot ""
+    bot "\n\n///// //// me amariam ////?{fast}{w=0.66}{nw}"
 
 # game/script.rpy:19749
 translate pt_br bot_nightmares_33af4baf:
 
     # bot "\n\nlove me{fast}{w=2}{nw}"
-    bot ""
+    bot "\n\nme amariam{fast}{w=2}{nw}"
 
 # game/script.rpy:19750
 translate pt_br bot_nightmares_ce1097a6:
 
     # bot "\n\nove me{fast}{w=0.05}{nw}"
-    bot ""
+    bot "\n\nme amari{fast}{w=0.05}{nw}"
 
 # game/script.rpy:19751
 translate pt_br bot_nightmares_62a0106a:
 
     # bot "\n\nve me{fast}{w=0.05}{nw}"
-    bot ""
+    bot "\n\nme ama{fast}{w=0.05}{nw}"
 
 # game/script.rpy:19752
 translate pt_br bot_nightmares_9b217c51:
 
     # bot "\n\ne me{fast}{w=0.05}{nw}"
-    bot ""
+    bot "\n\nme a{fast}{w=0.05}{nw}"
 
 # game/script.rpy:19753
 translate pt_br bot_nightmares_7ef814b1:
 
     # bot "\n\n me{fast}{w=0.05}{nw}"
-    bot ""
+    bot "\n\n me{fast}{w=0.05}{nw}"
 
 # game/script.rpy:19754
 translate pt_br bot_nightmares_9aa57827:
 
     # bot "\n\nme{fast}{w=0.05}{nw}"
-    bot ""
+    bot "\n\nme{fast}{w=0.05}{nw}"
 
 # game/script.rpy:19755
 translate pt_br bot_nightmares_8a58899d:
 
     # bot "\n\ne{fast}{w=0.05}{nw}"
-    bot ""
+    bot "\n\ne{fast}{w=0.05}{nw}"
 
 # game/script.rpy:19756
 translate pt_br bot_nightmares_ca75f0dc:
 
     # bot "\n\n{fast}{w=0.75}{nw}"
-    bot ""
+    bot "\n\n{fast}{w=0.75}{nw}"
 
 # game/script.rpy:19769
 translate pt_br bot_nightmares_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19771
 translate pt_br bot_nightmares_5034455a:
