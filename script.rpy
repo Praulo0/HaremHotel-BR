@@ -41,7 +41,7 @@ translate pt_br intro_c3faeeb9:
 translate pt_br intro_87d74243:
 
     # lika "Oh, one of {i}those{/i} jobs..."
-    lika "AH, um {i}desses{/i} trabalhos..." 
+    lika "AH, um {i}desses{/i} trabalhos..."
 
 # game/script.rpy:396
 translate pt_br intro_7ad58750:
@@ -7146,7 +7146,7 @@ translate pt_br floor2menu_48fc288b:
 translate pt_br floor2menu_ca0d6b15:
 
     # au "After everything we've done recently... don't you feel a little dirty?"
-    au "Depois de tudo o que temos feito ultimamente... Você não tem se sentido um pouco sujo? 
+    au "Depois de tudo o que temos feito ultimamente... Você não tem se sentido um pouco sujo?
     "
 
 # game/script.rpy:5711
@@ -10234,7 +10234,7 @@ translate pt_br floor1menu_bab8ce2c:
 
     # "A few hours later you arrive. You leave the airport with Kali and rent a car. Kali gives you directions to her father's house, which turns out to be a penthouse in the middle of the city..."
     "Algumas horas depois vocês chegam. Você sai do aeroporto com a Kali e alugam um carro. Kali te diz as direções até a casa do pai dela, que no fim das contas é uma cobertura no meio da cidade..."
- 
+
 # game/script.rpy:7449
 translate pt_br floor1menu_b5687cd2:
 
@@ -23170,7 +23170,7 @@ translate pt_br nextfrontdoor_19551921:
 translate pt_br nextfrontdoor_1ac240f9:
 
     # "Nia is wearing clothes you don't recognize, and from the looks of it, no shoes either. Perhaps it's a simple tactic to avoid runaway slaves, or perhaps she just lost them."
-    "Nia está usando roupas que você não reconhece, e pelo que parece, também não tem sapatos. Aparentemente é uma forma simples de evitar que os escravos fujam, ou talvez ela simplesmente os perdeu." 
+    "Nia está usando roupas que você não reconhece, e pelo que parece, também não tem sapatos. Aparentemente é uma forma simples de evitar que os escravos fujam, ou talvez ela simplesmente os perdeu."
 
 # game/script.rpy:12315
 translate pt_br nextfrontdoor_b9e27c9a:
@@ -29879,7 +29879,7 @@ translate pt_br yourroom_b62cfb73:
 
     # au "Mr. [name], how would God feel? I can't just show you my breasts..."
     au "Sr. [name], o que Deus acharia? Eu não posso simplesmente te mostrar meus peitos..."
- 
+
 # game/script.rpy:15671
 translate pt_br yourroom_8d2487cd:
 
@@ -41087,301 +41087,302 @@ translate pt_br bot_nightmares_a20cefa7:
 translate pt_br bot_nightmares_5034455a:
 
     # k "What is she saying? I don't know where she's getting that information from, but it sounds crazy. She's losing her mind..."
-    k ""
+    k "O que ela está dizendo? Eu não sei de onde que ela está tirando essa informação, mas parece loucura. Ela está pirando..."
 
 # game/script.rpy:19772
 translate pt_br bot_nightmares_0a10419c:
 
     # a "She only said it was theoretical. Maybe... she could upload our brains into an android?"
-    a ""
+    a "She only said it was theoretical. Maybe... she could upload our brains into an android?"
 
 # game/script.rpy:19773
 translate pt_br bot_nightmares_275c55e1:
 
     # k "But offering it like a god... she's really going to extremes for her desires."
-    k ""
+    k "Mas oferecer isso como se fosse um deus... ela realmente está indo a extremos pelos próprios desejos."
 
 # game/script.rpy:19806
 translate pt_br bot_nightmares_3fc20847:
 
     # bot "I'm an android/android... my only friends are organic... they're going to die soon. Very soon. Very soon..."
-    bot ""
+    bot "/eu sou uma andróide/andróide... meus únicos amigos são orgânicos... eles vão morrer em breve. Muito breve. Muito breve..."
 
 # game/script.rpy:19807
 translate pt_br bot_nightmares_4f1e1025:
 
     # bot "When they're gone, where does that leave me? In a world where no one understands me... immortality is isolation/ation."
-    bot ""
+    bot "Quando eles se forem, aonde que isso vai me deixar? Em um mundo aonde ninguém me entende... imortalidade é isolamento/ento."
 
 # game/script.rpy:19808
 translate pt_br bot_nightmares_9ecf9856:
 
     # bot "Either everyone is immortal, or no one is. Otherwise, it is completely un/undesirable."
-    bot ""
+    bot "Ou todos são imortais ou ninguém o é. Caso contrário, é completamente indesejável."
 
 # game/script.rpy:19813
 translate pt_br bot_nightmares_e94e1ab0:
 
     # bot "...Then... it's good that I'm going to die some day as well... hopefully soon. I don't want to live in a world without people who understand me."
-    bot ""
+    bot "...Então... é bom que eu também vá morrer um dia... eu espero que logo. Eu não quero viver em um mundo sem pessoas que possam me entender."
 
 # game/script.rpy:19818
 translate pt_br bot_nightmares_a1af9cfe:
 
     # bot "...How/How do I make the world understand me?"
-    bot ""
+    bot "...Como/Como eu posso fazer o mundo me entender?"
 
 # game/script.rpy:19831
 translate pt_br bot_nightmares_0d59173c:
 
     # a "[botname]..."
-    a ""
+    a "[botname]..."
 
 # game/script.rpy:19832
 translate pt_br bot_nightmares_695587d3:
 
     # k "Damn... I never thought about it like that..."
-    k ""
+    k "Caramba... Eu nunca pensei nisso desse jeito..."
 
 # game/script.rpy:19833
 translate pt_br bot_nightmares_df5780d6:
 
     # a "I understand her pain... I don't want to outlive my love. I don't want to watch you die, [name]..."
-    a ""
+    a "Eu entendo a dor dela... Eu não quero viver mais tempo que meu amor. Eu não quero ver você morrer, [name]..."
 
 # game/script.rpy:19834
 translate pt_br bot_nightmares_4d2fe0b6:
 
     # k "'Outliving your love'... she probably has to think about that a lot..."
-    k ""
+    k "'Viver mais do que o seu amor'... ela terá provavelmente de pensar muito sobre o assunto..."
 
 # game/script.rpy:19861
 translate pt_br bot_nightmares_537641cd:
 
     # bot "I don't need love to live, do I? I don't need to reproduce... why do I love? What is love? Why love?"
-    bot ""
+    bot "Eu não preciso de amor para viver, não é? Eu não preciso reproduzir... por que eu amo? O que é o amor? Por que o amor?"
 
 # game/script.rpy:19862
 translate pt_br bot_nightmares_72ca3ede:
 
     # bot "...It's coded in me... I can't change it... that's impossible."
-    bot ""
+    bot "...Está codificado em mim... Eu não consigo mudar isso... é impossível."
 
 # game/script.rpy:19863
 translate pt_br bot_nightmares_47e09566:
 
     # bot "But... is that really true?"
-    bot ""
+    bot "Mas... isso é realmente verdade?"
 
 # game/script.rpy:19864
 translate pt_br bot_nightmares_93334484:
 
     # k "What?"
-    k ""
+    k "O quê?"
 
 # game/script.rpy:19877
 translate pt_br bot_nightmares_8d297c52:
 
     # a "The lights... is she waking up?"
-    a ""
+    a "As luzes... ela está acordando?"
 
 # game/script.rpy:19878
 translate pt_br bot_nightmares_36af7350:
 
     # k "I don't know, but I think it's over for now..."
-    k ""
+    k "Eu não sei, mas acho que isso acabou por enquanto..."
 
 # game/script.rpy:19880
 translate pt_br bot_nightmares_ec0215e3:
 
     # a "Poor [botname]... I didn't know she could feel so sad."
-    a ""
+    a "Pobre [botname]... Eu não sabia que ela era capaz de se sentir tão triste."
 
 # game/script.rpy:19881
 translate pt_br bot_nightmares_b87b6bd4:
 
     # k "This is really bad...! She's talking about changing who she is, and worse still, removing love from equation. That could turn her into a psycho killing machine!"
-    k ""
+    k "Isso é realmente ruim...! Ela está falando sobre mudar quem ela é, e pior ainda, removendo o amor da equação. Isso poderia transformar ela numa máquina de matar psicótica!"
 
 # game/script.rpy:19882
 translate pt_br bot_nightmares_969d1e0a:
 
     # c "Yeah, this is bad..."
-    c ""
+    c "Verdade, isso é ruim..."
 
 # game/script.rpy:19883
 translate pt_br bot_nightmares_72cfbd2f:
 
     # k "We already know her emotions extend to the hotel, and at this point I think we can say her range of emotions is wider than most of ours if she's considering such drastic extremes to get what she wants."
-    k ""
+    k "Nós já sabemos que as emoções dela se extendem ao hotel, e a esse ponto eu acho e neste momento acho que podemos dizer que o leque de emoções dela é mais vasto do que a maioria das nossas, se ela estiver a considerar extremos tão drásticos para conseguir o que quer."
 
 # game/script.rpy:19884
 translate pt_br bot_nightmares_418e7b6f:
 
     # k "If she doesn't get help soon, she's going to be a danger to everyone..."
-    k ""
+    k "Se ela não conseguir ajuda logo, ela vai se tornar um perigo para todo mundo..."
 
 # game/script.rpy:19886
 translate pt_br bot_nightmares_e92975b8:
 
     # a "She hasn't even gone through a bad break up, but she still came to the conclusion that love is bad...?"
-    a ""
+    a "Ela nem chegou a passar por nenhum término de relacionamento mal resolvido, e já está concluindo que o amr é algo ruim...?"
 
 # game/script.rpy:19887
 translate pt_br bot_nightmares_f1fcf444:
 
     # c "We don't know that for sure, but it's worrying that she's toying with the idea."
-    c ""
+    c "Nós não temos certeza disso, mas realmente é preocupante que ela esteja flertando com a ideia."
 
 # game/script.rpy:19888
 translate pt_br bot_nightmares_a0fad1c0:
 
     # a "What's next...? Sympathy? We have to do something before it's too late..."
-    a ""
+    a "E o que vai ser depois...? A simpatia? Nós precisamos fazer algo antes que seja terde demais..."
 
 # game/script.rpy:19889
 translate pt_br bot_nightmares_69c85ea0:
 
     # k "You're right, first it's love, then sympathy... at some point it ends with realizing how inefficient organisms are..."
-    k ""
+    k "Você está certa, primeiro o amor, depois a simpatia... até o ponto em que ela vai perceber o quanto nós somos organismos inficientes..."
 
 # game/script.rpy:19891
 translate pt_br bot_nightmares_2d335d53:
 
     # l "Oh, you three are up early. What's going on?"
-    l ""
+    l "Ah, vocês três acordaram cedo. O que está acontecendo?"
 
 # game/script.rpy:19892
 translate pt_br bot_nightmares_3a44efe0:
 
     # c "Lin, you haven't noticed anything strange in your room?"
-    c ""
+    c "Lin, você não percebeu nada de estranho acontecendo no seu quarto?"
 
 # game/script.rpy:19894
 translate pt_br bot_nightmares_5ff319f1:
 
     # l "I just noticed the lights were flickering, what happened?"
-    l ""
+    l "Eu só percebi que as luzes estavam piscando, por que?"
 
 # game/script.rpy:19895
 translate pt_br bot_nightmares_51ba70f5:
 
     # k "[botname] isn't in the right head space, she's only thinking in extremes right now. I think she might be dangerous..."
-    k ""
+    k "A [botname] não está com a cabeça no lugar, no momento ela só está pensando em extremos. Eu acho que ela pode estar perigosa..."
 
 # game/script.rpy:19896
 translate pt_br bot_nightmares_e93a3c94:
 
     # a "She's depressed... she needs help."
-    a ""
+    a "Ela está deprimida... ela precisa de ajuda."
 
 # game/script.rpy:19898
 translate pt_br bot_nightmares_526eaae9:
 
     # l "Then we should go talk to her!"
-    l ""
+    l "Então nós deviamos ir falar com ela!"
 
 # game/script.rpy:19899
 translate pt_br bot_nightmares_9cb3a541:
 
     # a "No... she won't even let [name] inside. Bothering her would only make it worse... we need to give her time."
-    a ""
+    a "Não... ela não está deixando nem o [name] entrar. Incomodar ela poderia piorar as coisas... nós precisamos dar tempo a ela."
 
 # game/script.rpy:19900
 translate pt_br bot_nightmares_723b28c7:
 
     # k "Are you sure? Time might not be on our side."
-    k ""
+    k "Você tem certeza? O tempo não parece estar do nosso lado."
 
 # game/script.rpy:19901
 translate pt_br bot_nightmares_d6013011:
 
     # l "Maybe she just really needs a friend right now."
-    l ""
+    l "Talvez ela só precise muito de um amigo no momento."
 
 # game/script.rpy:19902
 translate pt_br bot_nightmares_8a0f0f4f:
 
     # a "Forcing a conversation will only make things worse, I'm positive."
-    a ""
+    a "Forçar uma conversa só iria piorar as coisas, tenho certeza disso."
 
 # game/script.rpy:19903
 translate pt_br bot_nightmares_676a4264:
 
     # k "Then maybe we can cook her some comfort food? She... kinda eats, right? It's always helped me..."
-    k ""
+    k "Então nós talvez pudéssemos preparar para ela alguma comida afetiva? Ela... meio que come, né? Isso sempre me ajudou..."
 
 # game/script.rpy:19904
 translate pt_br bot_nightmares_19e8d2a4:
 
     # c "She loves peppers."
-    c ""
+    c "Ela adora comidas apimentadas."
 
 # game/script.rpy:19905
 translate pt_br bot_nightmares_529cb74d:
 
     # k "Let's get her some peppers then!"
-    k ""
+    k "Vamos preparar alguma então!"
 
 # game/script.rpy:19906
 translate pt_br bot_nightmares_eb96e86a:
 
     # a "No... eating isn't natural for her, it's only something we do. I don't think she's in the right head space to accept something that would remind her of our differences."
-    a ""
+    a "Não... comer não é algo natural para ela, é algo que apenas nós fazemos. Eu acho que ela não está com a cabeça no lugar para aceitar algo que a lembrasse das nossas diferenças."
+
 
 # game/script.rpy:19907
 translate pt_br bot_nightmares_71242d49:
 
     # l "We can't do nothing, Ashley! Don't you want to help her?"
-    l ""
+    l "Nós não podemos ficar sem fazer nada, Ashley! Você não quer ajudar ela?"
 
 # game/script.rpy:19908
 translate pt_br bot_nightmares_202156b9:
 
     # a "Of course, but we can't force her to talk to us..."
-    a ""
+    a "É claro que eu quero, mas nós não podemos forçar ela a conversar conosco..."
 
 # game/script.rpy:19909
 translate pt_br bot_nightmares_09e400bc:
 
     # l "What do we do then?"
-    l ""
+    l "Então o que nós faremos?"
 
 # game/script.rpy:19910
 translate pt_br bot_nightmares_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19911
 translate pt_br bot_nightmares_fc382a5d:
 
     # a "...I don't have the perfect answer for that... when I'm not thinking straight, it helped me to talk to [name]... but she doesn't want to talk to anyone..."
-    a ""
+    a "...Eu não tenho a resposta perfeita para isso... quando eu não estou pensando direito, me ajudou conversar com o [name]... mas ela não quer conversar com ninguém..."
 
 # game/script.rpy:19912
 translate pt_br bot_nightmares_7cccf03e:
 
     # l "Then I'll make her a flower wreath! I think a gift from a friend would be worth a thousand words."
-    l ""
+    l "Então farei uma guirlanda de flores para ela! Acho que um presente de uma amiga valeria mais que mil palavras."
 
 # game/script.rpy:19914
 translate pt_br bot_nightmares_c5c9ea6e:
 
     # a "I think she just needs time... but a flower wreath wouldn't hurt."
-    a ""
+    a "Eu acho que ela só precisa de tempo.. mas uma guirlanda de flores não vai fazer mal."
 
 # game/script.rpy:19915
 translate pt_br bot_nightmares_8f127964:
 
     # l "*gasp*! Really?"
-    l ""
+    l "*Ah*! Verdade?"
 
 # game/script.rpy:19916
 translate pt_br bot_nightmares_3021a1f1:
 
     # a "It wouldn't hurt to remind her that she's loved, at least in some small way."
-    a ""
+    a "Não vai fazer mal lembrá-la que ela é amada, pelo menos de alguma forma."
 
 # game/script.rpy:19918
 translate pt_br bot_nightmares_568854e8:
@@ -91176,4 +91177,3 @@ translate pt_br strings:
     # game/script.rpy:37663
     old "But a little uncomfortable in those clothes..."
     new ""
-
