@@ -41388,277 +41388,277 @@ translate pt_br bot_nightmares_3021a1f1:
 translate pt_br bot_nightmares_568854e8:
 
     # l "I'll get right on it!"
-    l ""
+    l "Vou começar a fazer agora mesmo!"
 
 # game/script.rpy:19924
 translate pt_br bot_nightmares_05041b49:
 
     # l "Ah!" with ssshake
-    l "" with ssshake
+    l "Ah!" with ssshake
 
 # game/script.rpy:19926
 translate pt_br bot_nightmares_af7b384e:
 
     # l "Oww... I tripped..."
-    l ""
+    l "Aiii... Eu tropecei..."
 
 # game/script.rpy:19928
 translate pt_br bot_nightmares_e6bf0d53:
 
     # l "Oh, thank you [linoname]..."
-    l ""
+    l "Ah, obrigada [linoname]..."
 
 # game/script.rpy:19930
 translate pt_br bot_nightmares_0cf7c79e:
 
     # "A few hours later..."
-    ""
+    "Algumas horas depois...."
 
 # game/script.rpy:19932
 translate pt_br bot_nightmares_04bea80f:
 
     # l "Hm, hm, hmmm..."
-    l ""
+    l "Hum, hum, hummm..."
 
 # game/script.rpy:19933
 translate pt_br bot_nightmares_4deabe5d:
 
     # l "The pizza is coming together nicely, a few more minutes and it should be done."
-    l ""
+    l "A pizza está ficando boa, mais alguns minutos e ela vai estar pronta."
 
 # game/script.rpy:19935
 translate pt_br bot_nightmares_4c69656c:
 
     # l "Hmmm, what else would Maria like? I wonder what I have in the fridge..."
-    l ""
+    l "Hummm, Do que mais que a Maria deve gostar? Me pergunto o que devo ter na geladeira..."
 
 # game/script.rpy:19939
 translate pt_br bot_nightmares_82b5d1fa:
 
     # l "*gasp*!" with ssshake
-    l "" with ssshake
+    l "*aaah*" with ssshake
 
 # game/script.rpy:19940
 translate pt_br bot_nightmares_5bf2ba87:
 
     # l "Oh... It's probably just [botname] again...\n*sigh*, there goes the pizza..."
-    l ""
+    l "Ah... Provavelmente é só a [botname] de novo...\n*ufa*, lá vai a pizza..."
 
 # game/script.rpy:19942
 translate pt_br bot_nightmares_3ea53723:
 
     # l "Wait... the piano is playing itself? That song... It's mine..."
-    l ""
+    l "Espera... o piano está tocando sozinho? Essa música... é minha..."
 
 # game/script.rpy:19944
 translate pt_br bot_nightmares_91b1a550:
 
     # l "[botname]..."
-    l ""
+    l "[botname]..."
 
 # game/script.rpy:19945
 translate pt_br bot_nightmares_85dbb9cd:
 
     # l "...{w}*sigh*...{w}Why won't you let us help you...?"
-    l ""
+    l "...{w}*hunf*...{w}Por que você não deixa nós te ajudarmos...?"
 
 # game/script.rpy:19948
 translate pt_br bot_nightmares_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19949
 translate pt_br bot_nightmares_f6e335f3:
 
     # a "...[botname]...?"
-    a ""
+    a "...[botname]...?"
 
 # game/script.rpy:19951
 translate pt_br bot_nightmares_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19953
 translate pt_br bot_nightmares_25e36009:
 
     # a "{i}Maybe I shouldn't...{/i}"
-    a ""
+    a "{i}Talvez eu não devesse...{/i}"
 
 # game/script.rpy:19954
 translate pt_br bot_nightmares_bb8e4b4e_3:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19956
 translate pt_br bot_nightmares_6e24930c:
 
     # a "*sigh*... [botname]... how did you know...?"
-    a ""
+    a "*hunf*... [botname]... como você sabe...?"
 
 # game/script.rpy:19957
 translate pt_br bot_nightmares_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19958
 translate pt_br bot_nightmares_07a30a9a:
 
     # a "I never thought someone like you would understand that... you didn't have parents..."
-    a ""
+    a "Nunca pensei que alguém como você entenderia isso... você não tem pais..."
 
 # game/script.rpy:19959
 translate pt_br bot_nightmares_2bb7f662:
 
     # a "But you did have a creator, didn't you? Who were they? Something bad must have happened..."
-    a ""
+    a "Mas você teve um criador, não teve? Aonde eles está? Alguma coisa ruim deve ter acontecido..."
 
 # game/script.rpy:19960
 translate pt_br bot_nightmares_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19961
 translate pt_br bot_nightmares_31d4e144:
 
     # a "I don't know if you knew this too, but I also had someone abandon me when I was young... Well, maybe not exactly, but it felt like it at the time... her name was Ms. Ren. She was like a mother to me."
-    a ""
+    a "Eu não sei se você já sabe disso também, mas eu também tive alguém que me abandonou quando eu era jovem... Bem, não exatamente, mas foi assim que eu senti na época... o nome dela era Sra. Ren. Ela era como uma mãe pra mim."
 
 # game/script.rpy:19962
 translate pt_br bot_nightmares_ff35fb05:
 
     # a "She left too soon... but she was just doing her job as caregiver. It's just how things are... I can't blame her for that."
-    a ""
+    a "# a "Ela foi embora cedo demais... mas ela estava apenas fazendo seu trabalho como cuidadora. É assim que as coisas são... Não posso culpá-la por isso."
 
 # game/script.rpy:19963
 translate pt_br bot_nightmares_f3000c60:
 
     # a "Why are you sad, [botname]? I want to hear you tell me... Someone who understands what I went through would help..."
-    a ""
+    a "Por que você está triste [botname]? Eu gostaria de ouvir você me dizer... Alguém que entenda o que passei ajudaria..."
 
 # game/script.rpy:19964
 translate pt_br bot_nightmares_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19965
 translate pt_br bot_nightmares_4947de56:
 
     # bot "How could one's own creators disregard their creation?"
-    bot ""
+    bot "Como os próprios criadores poderiam negligenciar sua criação?"
 
 # game/script.rpy:19967
 translate pt_br bot_nightmares_a4a47492:
 
     # a "[botname]...?"
-    a ""
+    a "[botname]...?"
 
 # game/script.rpy:19969
 translate pt_br bot_nightmares_aedb4a23:
 
     # a "I guess... eventually you realize your creators were just people. With the same ability to make mistakes and fuck up as you..."
-    a ""
+    a "Eu acho que... eventualmente você percebe que seus criadores eram apenas pessoas. Com a mesma habilidade de cometer erros e foder tudo que você tem"
 
 # game/script.rpy:19970
 translate pt_br bot_nightmares_efc48269:
 
     # a "It sounds like you think your creator disregarded you... I don't know the full story, but I can tell you that it's not as important as what you create or destroy."
-    a ""
+    a "Parece que o teu criador te negligenciou,,, Eu não conheço a história toda, mas posso lhe dizer que não é tão importante quanto o que você cria ou destrói."
 
 # game/script.rpy:19971
 translate pt_br bot_nightmares_5c3556f5:
 
     # a "It's... kind of why I want to have so many children. I want to give them the life I've always wanted. I want to bring happiness into this world."
-    a ""
+    a "É meio que... o motivo pelo qual eu quero ter tantos filhos. Eu quero dar a eles a vida que eu sempre quis. Eu quero trazer felicidade a esse mundo."
 
 # game/script.rpy:19972
 translate pt_br bot_nightmares_6b548ea0:
 
     # bot "You... want to become the creator."
-    bot ""
+    bot "Você... quer se tornar o criador."
 
 # game/script.rpy:19973
 translate pt_br bot_nightmares_9c6a3de0:
 
     # a "Yeah... I do. It would make me so happy."
-    a ""
+    a "Sim... eu quero. Isso me faria muito feliz."
 
 # game/script.rpy:19974
 translate pt_br bot_nightmares_a20cefa7_4:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:19976
 translate pt_br bot_nightmares_8e9aad0e:
 
     # "*click*"
-    ""
+    "*click*"
 
 # game/script.rpy:19977
 translate pt_br bot_nightmares_0f77755e:
 
     # a "...?"
-    a ""
+    a "...?"
 
 # game/script.rpy:19979
 translate pt_br bot_nightmares_8c7ef502:
 
     # bot "Tell me more... about what would make you truly happy."
-    bot ""
+    bot "Diga me mais... sobre o que te faria feliz de verdade."
 
 # game/script.rpy:19980
 translate pt_br bot_nightmares_bb8e4b4e_4:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/script.rpy:19996
 translate pt_br bot_socialize_121559d1:
 
     # k "[name]... I'm worried about [botname]."
-    k ""
+    k "[name]... Eu estou preocupada sobre a [botname]."
 
 # game/script.rpy:19997
 translate pt_br bot_socialize_4e00c64e:
 
     # c "You are? I guess I am a little too... she's having a hard time socializing."
-    c ""
+    c "Você está? Acho que eu também estou um pouco... ela está temndo muita dificuldade pra socializar."
 
 # game/script.rpy:19998
 translate pt_br bot_socialize_26296101:
 
     # k "What do you mean?"
-    k ""
+    k "Como assim?"
 
 # game/script.rpy:19999
 translate pt_br bot_socialize_ec65c1a7:
 
     # c "She messed up talking to Kim and Ami, things didn't end well."
-    c ""
+    c "Ela ferrou tudo quando falou com a Kim e a Ami, as coisas não acabaram bem."
 
 # game/script.rpy:20000
 translate pt_br bot_socialize_3c7cc7a4:
 
     # k "Oh, well maybe Maria can help her?"
-    k ""
+    k "Ah, talvez a Maria possa ajudá-la?"
 
 # game/script.rpy:20002
 translate pt_br bot_socialize_2b8536e1:
 
     # k "Anyway, that's actually not why I'm here... she's becoming way too strong, way too fast."
-    k ""
+    k "Enfim, não foi por isso que eu vim aqui... Ela está ficando muito forte, e rápido demais."
 
 # game/script.rpy:20003
 translate pt_br bot_socialize_176b21e3:
 
     # c "You're right... ever since she was unlocked it's almost like she's been discovering some new power every day."
-    c ""
+    c "Você tem razão... desde quando ela foi desbloqueada, parece que ela está descobrindo um poder novo todo dia."
 
 # game/script.rpy:20004
 translate pt_br bot_socialize_81056210:
