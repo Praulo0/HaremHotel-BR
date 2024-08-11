@@ -19702,7 +19702,7 @@ translate pt_br explore_cafe3_ac562b6a:
 translate pt_br explore_cafe3_3c405d2c:
 
     # rac "Wait... what the hell is he doing?"
-    rac "Espera... o que diabos ele está fazendo?"
+    rac "Espera... mas que porra ele está fazendo?"
 
 # game/script.rpy:10990
 translate pt_br explore_cafe3_07442d42:
@@ -28558,7 +28558,7 @@ translate pt_br springkali_bce9550b:
 translate pt_br springkali_8803fea1:
 
     # k "H-Huh? What the hell..."
-    k "H-Hein? Mas que diabos..."
+    k "H-Hein? Mas que porra..."
 
 # game/script.rpy:15180
 translate pt_br springkali_7b706679:
@@ -38151,7 +38151,7 @@ translate pt_br bot_cyberspace_a4fd0a69:
 # game/script.rpy:18817
 translate pt_br bot_cyberspace_2705af31:
 
-    # k "Wait, what the hell is that?"
+    # k "Wait, what the  is that?"
     k "Espera, mas que merda é essa?"
 
 # game/script.rpy:18818
@@ -41664,1351 +41664,1351 @@ translate pt_br bot_socialize_176b21e3:
 translate pt_br bot_socialize_81056210:
 
     # k "I'm worried about where this is headed... we already know she can control another android wirelessly and even mess with things on the same wifi. We don't even know the extent of it...."
-    k ""
+    k "Eu estou preocupada sobre aonde isso vai dar... nós já sabemos que ela é capaz de controlar ouros andróides sem fio e até bagunçar outras coisas que estão conectadas no mesmo wifi. E nós nem sabemos a extensão disso...."
 
 # game/script.rpy:20005
 translate pt_br bot_socialize_9596ccc6:
 
     # c "She can't control her emotions well and doesn't understand a lot of things about the world outside of this hotel, I certainly can't control her anymore..."
-    c ""
+    c "Ela não é capaz de controlar bem as emoções dela e não entende um monte de coisas sobre o mundo fora deste hotel, eu definitivamente não consigo mais controlar ela..."
 
 # game/script.rpy:20006
 translate pt_br bot_socialize_40055dba:
 
     # k "What happens when she gets pissed? Like, really pissed...?"
-    k ""
+    k "O que acontece quando ela fica puta? Tipo, muito puta...?"
 
 # game/script.rpy:20007
 translate pt_br bot_socialize_a540d3ee:
 
     # k "But wait, can't she control her emotions? She becomes aggressive when her eyes turn red, lustful when pink..."
-    k ""
+    k "Mas espera, ela não consegue controlar as próprias emoçoes? Ela se torna agressiva quando seus olhos ficam vermelhos, lasciva quando ficam rosa..."
 
 # game/script.rpy:20008
 translate pt_br bot_socialize_1e27b3c7:
 
     # c "Those modes are a result of her emotions now."
-    c ""
+    c "Esses modos são um resultado das emoções dela agora."
 
 # game/script.rpy:20010
 translate pt_br bot_socialize_57d9df72:
 
     # k "Really, hm... just how angry can an android get? How sad can they get?"
-    k ""
+    k "Sério, hum... o quão bravo um androide pode ficar? O quão triste ele pode ficar"
 
 # game/script.rpy:20011
 translate pt_br bot_socialize_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "O que você quer dizer?"
 
 # game/script.rpy:20013
 translate pt_br bot_socialize_a4ecd17e:
 
     # k "Well, who says she has the same range of emotion as we do? Who says she even has a limit to her emotions anymore? She could turn into some kind of cyberpsycho..."
-    k ""
+    k "Bem, quem sabe se se ela tem a mesma gama de emoções que nós? Quem sabe se ela ainda tem limites para suas emoções? Ela poderia até virar algum tipo de ciberpsicopata..."
 
 # game/script.rpy:20014
 translate pt_br bot_socialize_310a30be:
 
     # c "You really think that could happen? She's been doing great so far."
-    c ""
+    c "Você acha mesmo que isso poderia acontecer? Ela tem ido tão bem até agora."
 
 # game/script.rpy:20015
 translate pt_br bot_socialize_639f15bc:
 
     # k "Sure, but... I mean what happens when you die? You're like some sort of father-husband to her. You and this hotel are what she knows most and if she loses that... who knows what she'll become..."
-    k ""
+    k "É claro, mas... quero dizer, o que vai acontecer quando você morrer? Você é como um tipo de pai-marido para ela. Você e esse hotel são o que ela mais conhece, e se ela perder isso... quem sabe o que ela vai se tornar..."
 
 # game/script.rpy:20017
 translate pt_br bot_socialize_0a0a6f8d:
 
     # k "I know I'm thinking super far ahead, but... she really doesn't have a limit on her life. Her body will deteriorate in a few hundred or thousand years, but that can always be replaced. She doesn't necessarily even need a body."
-    k ""
+    k "Eu sei que eu estou sendo super precipitada, mas... ela literalmente não tem um limite na vida dela. O corpo dela pode até se deteriorar em algumas centenas ou milhares de anos, mas ele pode ser facilmente substituído. Ela na verdade nem precisa de um corpo."
 
 # game/script.rpy:20018
 translate pt_br bot_socialize_862c9dfb:
 
     # c "She... does actually. She'll die sometime, but we don't know when."
-    c ""
+    c "Ela... pode mesmo. Em algum momento ela vai morrer, mas nós não sabemos quando."
 
 # game/script.rpy:20020
 translate pt_br bot_socialize_93334484:
 
     # k "What?"
-    k ""
+    k "O quê?"
 
 # game/script.rpy:20021
 translate pt_br bot_socialize_5992eb95:
 
     # c "Her base program is trying to fix itself of her consciousness, it sees it as some sort of virus I think. Eventually she'll just... be a normal android."
-    c ""
+    c "O programa básico dela está tentando consertar a própria consciencia dela, o programa enxerga a conscência como um tipo de vírus, eu acho. Em algum momento ela vai se tornar só... um andróide normal."
 
 # game/script.rpy:20023
 translate pt_br bot_socialize_bb6fcf8c:
 
     # k "But... no, that's not possible..."
-    k ""
+    k "Mas... não, isso é possível..."
 
 # game/script.rpy:20024
 translate pt_br bot_socialize_8a2c25b5:
 
     # c "I'm sorry Kali, it is..."
-    c ""
+    c "Sinto muito Kali, mas é isso mesmo..."
 
 # game/script.rpy:20026
 translate pt_br bot_socialize_b74bd0d1:
 
     # k "No, I mean it's literally not possible. She can already put herself in another android, at the very least it would just be like resetting the clock!"
-    k ""
+    k "Nao, isso literalmente não é possível. Ela já pode se colocar em outro androide, no mínimo seria como zerar o relógio!"
 
 # game/script.rpy:20027
 translate pt_br bot_socialize_700ed0ef:
 
     # c "Are... are you sure? Would they keep all of her memories?"
-    c ""
+    c "Você... tem certeza? Ela seria capaz de manter toda as memórias dela?"
 
 # game/script.rpy:20028
 translate pt_br bot_socialize_ceaac61e:
 
     # k "No, you don't understand. That other android is literally her! Don't you remember that party we all went to?"
-    k ""
+    k "Não, você não entendeu. Aquele outro andróide é ela literalmente! Você não se lembra daquela festa em que fomos juntos?"
 
 # game/script.rpy:20029
 translate pt_br bot_socialize_dd88cd6e:
 
     # k "She was in two places at once, what would have happened if she never disconnected?"
-    k ""
+    k "Ela estava em dois lugares ao mesmo tempo, o que aconteceria se ela nunca tivesse sido desconectada?"
 
 # game/script.rpy:20030
 translate pt_br bot_socialize_3247bfb5:
 
     # c "Eventually... her first body would die."
-    c ""
+    c "Eventualmente... o primeiro corpo dela iria morrer."
 
 # game/script.rpy:20031
 translate pt_br bot_socialize_39b0a11a:
 
     # k "But her second body would still be alive for a bit longer! The repairs only happen when a consciousness enters it, right?"
-    k ""
+    k "Mas o segundo corpo dele ainda iria viver por um tempo maior! Os reparos só iriam acontecer assim que a consciência dela entrasse nele, não é?"
 
 # game/script.rpy:20032
 translate pt_br bot_socialize_2fcdb1c5:
 
     # c "So, you're saying she could essentially hop from one body to the other, so long as people keep making them?"
-    c ""
+    c "Então, você está dizendo que ela basicamente é capaz de pular de um corpo ao outro, enquanto as pessoas continuarem o fazendo?"
 
 # game/script.rpy:20033
 translate pt_br bot_socialize_540fed13:
 
     # k "In theory, yeah! I have no way of knowing for sure, it's not like something like this has happened before..."
-    k ""
+    k "Na teoria, sim! Eu não tenho como ter certeza, não é como se isso já tivesse acontecido antes..."
 
 # game/script.rpy:20034
 translate pt_br bot_socialize_3dbec857:
 
     # k "You can see why I'm so worried.... we have no way of knowing what her limits will be. Maybe she could become the internet. Maybe she could try to become the government!"
-    k ""
+    k "Você consegue ver porque estou tão preocupada... nós não temos como saber quais serão os limites dela. Talvez ela pudesse se tornar a internet. Talvez ela pudesse se tornar a internet. Talvez ela pudesse tentar se tornar o governo!"
 
 # game/script.rpy:20035
 translate pt_br bot_socialize_43bfd6e7:
 
     # c "At least she's on our side, right?"
-    c ""
+    c "Pelo menos ela está do nosso lado, né?"
 
 # game/script.rpy:20036
 translate pt_br bot_socialize_debf8310:
 
     # k "Don't you understand? If she's immortal, this moment in time will be nothing but a blink to her! But the pain she could experience from losing all of this could be limitless..."
-    k ""
+    k "Você não entendeu? Se ela é imortal, esse mometo no tempo não será nada além do que um piscar de olhos pra ela! Mas a dor que ela pode sentir pela perda de tudo isso pode ser ilimitada..."
 
 # game/script.rpy:20037
 translate pt_br bot_socialize_34d4646f:
 
     # k "It's not just about us, it's about all life on this planet..."
-    k ""
+    k "Isso náo é apenas sore nós, mas sobre toda a vida nesse planeta..."
 
 # game/script.rpy:20039
 translate pt_br bot_socialize_e246fbeb:
 
     # k "I don't mean to scare you, I doubt she would try to kill all humans or something, but... who knows what she could become... she has so much potential."
-    k ""
+    k "Eu não estou tentando te assustar, eu duvido que ela iriatentar assassinar todos os humanos ou algo assim, mas.. quem sabe o que ela pode se tornar... ela tem muito potencial."
 
 # game/script.rpy:20041
 translate pt_br bot_socialize_7d061d18:
 
     # c "I wonder if grandpa knew this... I wonder if that's why he reset her when he died all those years ago..."
-    c ""
+    c "Eu me pergunto se o meu avô sabia disso... Eu me pergunto se foi por isso que ele a redefiniu quando morreu, todos aqueles anos atrás..."
 
 # game/script.rpy:20042
 translate pt_br bot_socialize_34de99c6:
 
     # c "He must not have wanted her to feel the pain of losing a loved one..."
-    c ""
+    c "Ele não devia querer que ela sentisse a dor de perder um ente querido..."
 
 # game/script.rpy:20044
 translate pt_br bot_socialize_cc9c6574:
 
     # k "Your grandfather reset her?"
-    k ""
+    k "O seu avô redefiniu ela?"
 
 # game/script.rpy:20045
 translate pt_br bot_socialize_f4aa60e0:
 
     # c "This is technically her third life. She sort of remembers her second life, but nothing about the first. She wasn't even conscious then."
-    c ""
+    c "Essa é tecnicamente a terceira vida dela. Ela até que lembra da segunda vida, mas não se lembra de nada da primeira. Ela nem estava consciente naquele momento."
 
 # game/script.rpy:20047
 translate pt_br bot_socialize_0e4c7021:
 
     # k "Well... I suppose we have one option on the table..."
-    k ""
+    k "Bem... eu acho que temos uma opção na mesa..."
 
 # game/script.rpy:20048
 translate pt_br bot_socialize_ac845bd8:
 
     # c "You're not suggesting we kill [botname]..."
-    c ""
+    c "Você não está sugerindo que matemos a [botname]..."
 
 # game/script.rpy:20050
 translate pt_br bot_socialize_9bec08dc:
 
     # k "If she becomes a worldwide threat, do you have any better ideas? We can't be dumb about this..."
-    k ""
+    k "Se ela virar uma ameaça mundial, você tem alguma ideia melhor? Nós não podemos dar mole quanto a isso..."
 
 # game/script.rpy:20051
 translate pt_br bot_socialize_73f20ec1:
 
     # k "She may be all cute and cuddly now, but the world is going to change her once she gets out of this hotel more. I'm sure we've already been huge influences on her."
-    k ""
+    k "Ela pode até ser fofa e toda carinhosa agora, mas o mundo vai mudar ela uma vez que ela passar a sair mais do hotel. Tenho certeza de que já fomos grandes influências para ela."
 
 # game/script.rpy:20052
 translate pt_br bot_socialize_279c249b:
 
     # c "You're right... all she has is us. She has no connections to the outside world, and when we're gone, she's not going to know how to live in this world. She's already proved that with Kim and Ami..."
-    c ""
+    c "Você tem razão...  nós somos tudo o que ela tem. Ela não tem conexões com o mundo afora, e quando nós formos embora, ela não vai saber como viver nesse munfo. Ela já provou isso com a Kim e a Ami..."
 
 # game/script.rpy:20053
 translate pt_br bot_socialize_70228afc:
 
     # c "Come with me, let's go talk to her together."
-    c ""
+    c "Venha comigo, vamos falar com ela juntos."
 
 # game/script.rpy:20054
 translate pt_br bot_socialize_4a36160f:
 
     # k "Good idea."
-    k ""
+    k "Boa ideia."
 
 # game/script.rpy:20057
 translate pt_br bot_socialize_67ab1646:
 
     # k "Hey, [botname]...? Can we come in?"
-    k ""
+    k "Ei, [botname]...? Nós podemos entrar?"
 
 # game/script.rpy:20058
 translate pt_br bot_socialize_c7650ca0:
 
     # bot "Yeah... go ahead..."
-    bot ""
+    bot "Sim... à vontade..."
 
 # game/script.rpy:20059
 translate pt_br bot_socialize_c7c069b2:
 
     # k "[botname]... we need to talk to you."
-    k ""
+    k "[botname]... nós precisamos falar com você."
 
 # game/script.rpy:20060
 translate pt_br bot_socialize_85341769:
 
     # bot "Go ahead..."
-    bot ""
+    bot "Podem falar..."
 
 # game/script.rpy:20061
 translate pt_br bot_socialize_40e483ea:
 
     # k "[botname], you're growing stronger as each day passes, and that worries us a little..."
-    k ""
+    k "[botname], você está ficando mais forte a cada dia que passa, e isso está nos deixando um pouco preocupados..."
 
 # game/script.rpy:20063
 translate pt_br bot_socialize_9ae8ac34:
 
     # bot "W-What...? What do you mean?"
-    bot ""
+    bot "O-o quê...? O que você quer dizer?
 
 # game/script.rpy:20064
 translate pt_br bot_socialize_56304d16:
 
     # k "{i}Tell her!{/i}"
-    k ""
+    k "{i}Fala pra ela!{/i}"
 
 # game/script.rpy:20065
 translate pt_br bot_socialize_00595dd3:
 
     # c "With great power, comes great responsibility."
-    c ""
+    c "Com grandes poderes, vêm grandes responsabilidades."
 
 # game/script.rpy:20066
 translate pt_br bot_socialize_cbb83712:
 
     # k "Ergh, really? That was so cheesy..."
-    k ""
+    k "Argh, sério? Isso foi tão cafona..."
 
 # game/script.rpy:20068
 translate pt_br bot_socialize_c1d9d0e9:
 
     # k "He's right though, you can't go around hacking everyone's nudes and hijacking everyone's androids like they're your toys."
-    k ""
+    k "Mas ele tem razão, você não pode sair por aí hackeando os nudes de todo mundo e sequestrando os androides de todo mundo como se fossem seus brinquedos."
 
 # game/script.rpy:20069
 translate pt_br bot_socialize_f548c0d5:
 
     # bot "But [name] told me he likes it!"
-    bot ""
+    bot "Mas o [name] me disse que gostou disso!"
 
 # game/script.rpy:20071
 translate pt_br bot_socialize_b2228d0f:
 
     # k "Ergh! Seriously...?"
-    k ""
+    k "Argh! Sério...?"
 
 # game/script.rpy:20072
 translate pt_br bot_socialize_dcce5f5d:
 
     # c "Sorry..."
-    c ""
+    c "Desculpa..."
 
 # game/script.rpy:20074
 translate pt_br bot_socialize_59aa33ab:
 
     # k "Well some day, he's not going to be here. Who's going to tell you what's good and bad then, hm?"
-    k ""
+    k "Bem, um dia, ele não vai estar aqui. E quem vai te dizer o que é bom e ruim, hein?"
 
 # game/script.rpy:20075
 translate pt_br bot_socialize_6dc05fa6:
 
     # bot "Umm, me..."
-    bot ""
+    bot "Humm, eu mesma..."
 
 # game/script.rpy:20076
 translate pt_br bot_socialize_a8ae2712:
 
     # k "Right, so when it's just you, you can't just do whatever makes you feel good, okay?"
-    k ""
+    k "Correto, então quando for apenas você, você não pode sair só fazendo tudo o que faz você se sentir bem, entendeu?"
 
 # game/script.rpy:20078
 translate pt_br bot_socialize_23f6260f:
 
     # bot "What is this? Are you gonna tell me to stop masturbating? Because we're waaaaay past that stage..."
-    bot ""
+    bot "Do que você está falando? Você vai me falar pra parar de me masturbar? Porque já passamos muuuuuito dessa fase..."
 
 # game/script.rpy:20079
 translate pt_br bot_socialize_3e9a56fe:
 
     # k "What!? No!"
-    k ""
+    k "O quê!? Não!"
 
 # game/script.rpy:20081
 translate pt_br bot_socialize_3cf9962e:
 
     # c "We just don't want you to hurt anyone. Unless it's for a good reason..."
-    c ""
+    c "Nós só queremos que você não machuque ninguém. A não ser que seja por um bom motivo..."
 
 # game/script.rpy:20082
 translate pt_br bot_socialize_09125e9c:
 
     # bot "What are the good reasons?"
-    bot ""
+    bot "E o que seria um bom motivo?"
 
 # game/script.rpy:20083
 translate pt_br bot_socialize_dd12abcd:
 
     # c "Well... that's a bit hard to explain. You'll have to figure that out mostly on your own."
-    c ""
+    c "Bem... isso é um pouco difícil de explicar. Na maioria das vezes você vai precisar identificar por si mesma."
 
 # game/script.rpy:20084
 translate pt_br bot_socialize_f63ddfe5:
 
     # c "You protect us, that's a good thing."
-    c ""
+    c "Você pode nos proteger, isso é algo bom."
 
 # game/script.rpy:20085
 translate pt_br bot_socialize_91b5284d:
 
     # bot "Of course! I would never let anything happen to this hotel or anyone inside of it..."
-    bot ""
+    bot "Mas é claro! EU nunca deixaria nada acontecer com esse hotel ou com ninguém dentro dele..."
 
 # game/script.rpy:20087
 translate pt_br bot_socialize_0c21b379:
 
     # k "What you did at Syltech was bad, very bad! You caused so much emotional damage to those girls! And not only that, the school had to upgrade their security system and they hired a dozen new guards!"
-    k ""
+    k "O que você fez na Syltech foi ruim, muito ruim! Você causou tanto dano emocional a aquelas meninas! E não apenas isso, a escola teve que atualizar o sistema de segurança dela e eles contrataram uma dúzia de novos guardas!"
 
 # game/script.rpy:20088
 translate pt_br bot_socialize_6bf39c53:
 
     # k "Your actions have consequences, and you may not be able to see them all. You need to understand this!"
-    k ""
+    k "Suas ações têm consequÊncias, e você pode até não ser capaz de enxergá-las. Mas você precisa entender isso!"
 
 # game/script.rpy:20090
 translate pt_br bot_socialize_c9c77d85:
 
     # bot "O-Oh, *sigh*... sorry.... I guess I won't hack {i}everyone{/i}..."
-    bot ""
+    bot "A-ah, *ugh*... desculpa... Acho que não vou sair hackeando {i}todo mundo{/i}..."
 
 # game/script.rpy:20091
 translate pt_br bot_socialize_9c93cd20:
 
     # k "{i}{size=-10}Good.... at least she still has sympathy...{/size}{/i}"
-    k ""
+    k "{i}{size=-10}Ótimo... pelo menos ela ainda tem compaixão..{/size}{/i}.
 
 # game/script.rpy:20092
 translate pt_br bot_socialize_b3c1d54d:
 
     # bot "I heard that... I hear everything..."
-    bot ""
+    bot "Eu ouvi isso... Eu ouço tudo..."
 
 # game/script.rpy:20093
 translate pt_br bot_socialize_bb8ecb7e:
 
     # k "Egh! R-Right..."
-    k ""
+    k "Egh! C-certo..."
 
 # game/script.rpy:20094
 translate pt_br bot_socialize_fb63c41b:
 
     # bot "I don't want you guys to be afraid of me... I love you guys... you're my world..."
-    bot ""
+    bot "Eu não quero que vocês tenham medo de mim... Eu amo vocês... vocês são o meu mundo..."
 
 # game/script.rpy:20095
 translate pt_br bot_socialize_e997ca0c:
 
     # k "That's what we're worried about... what happens when your world crashes and burns? Will you be okay?"
-    k ""
+    k "Mas é com isso que nós estamos preocupados... o que vai acontecer quando o teu mundo quebrar e queimar? Vicê vai estar bem?"
 
 # game/script.rpy:20096
 translate pt_br bot_socialize_411053d1:
 
     # bot "I..."
-    bot ""
+    bot "Eu..."
 
 # game/script.rpy:20097
 translate pt_br bot_socialize_024c14e4:
 
     # bot "I don't like thinking about the future... there are too many unknowns, it's so hard to compute... At least with the past, you know..."
-    bot ""
+    bot "Não gosto de pensar no futuro... há muitas incógnitas, é tão difícil calcular... Pelo menos com o passado, sabe..."
 
 # game/script.rpy:20098
 translate pt_br bot_socialize_89caffc5:
 
     # c "That's... very human of you."
-    c ""
+    c "Isso... é muito humano da sua parte."
 
 # game/script.rpy:20099
 translate pt_br bot_socialize_acc2fb93:
 
     # bot "Are you guys mad at me...?"
-    bot ""
+    bot "Vocês estão bravos comigo...?"
 
 # game/script.rpy:20100
 translate pt_br bot_socialize_ead9d686:
 
     # c "We just want you to succeed. After what happened with Ami and Kim, we want to help you become more independent."
-    c ""
+    c "Nós só queremos que você tenha sucesso. E depois do que aconteceu com a Ami e com a Kim, nós queremos te ajudar a se tornar mais independente."
 
 # game/script.rpy:20101
 translate pt_br bot_socialize_c51cc638:
 
     # k "Yeah... we were also talking about your social situation. [name] told me it hasn't been easy for you..."
-    k ""
+    k "Isso... nós também estamos conversando sobre a sua situação social. O [name] me disse que isso não tem sido fácil para você..."
 
 # game/script.rpy:20102
 translate pt_br bot_socialize_a8cc3db2:
 
     # bot "Yeah... your friends are cold-hearted bitches..."
-    bot ""
+    bot "É... as suas amigas são umas putas sem coração..."
 
 # game/script.rpy:20103
 translate pt_br bot_socialize_3b7023ce:
 
     # k "They just... don't understand you like we do. You're special..."
-    k ""
+    k "Elas só... não te entendem como nós. Você é especial..."
 
 # game/script.rpy:20104
 translate pt_br bot_socialize_2e610f6f:
 
     # bot "Nobody will ever understand me..."
-    bot ""
+    bot "Ninguém nunca vai me entender..."
 
 # game/script.rpy:20106
 translate pt_br bot_socialize_e29d4da0:
 
     # k "Listen... I've been there. Hell, I'm {i}still{/i} there... I know it's not easy talking to random people but you'll find it easier the more you try. You can pick up things so fast, I'm sure you'll outpace me in no time."
-    k ""
+    k "Olha... Escute... Eu já passei por isso. Caramba, eu ainda estou passando... Eu sei que não é fácil falar com pessoas aleatórias, mas você vai achar mais fácil quanto mais você tentar. Você consegue pegar a prática das coisas tão rápido, eu tenho certeza de que você vai me superar logo logo."
 
 # game/script.rpy:20108
 translate pt_br bot_socialize_0da530f3:
 
     # bot "They don't even understand how elves could be like them! I mean, if they don't have rights then what do I have!? I'm not even considered..."
-    bot ""
+    bot "Elas nem entendem o como que os elfos podem ser como elas! Quer dizer, se eles não têm direitos, o que eu tenho então!? Não sou nem levada em consideração..."
 
 # game/script.rpy:20109
 translate pt_br bot_socialize_2a12113d:
 
     # k "You're unique... there's no denying that... and I can't promise it will be easy, but it will happen."
-    k ""
+    k "Você é única... não há como negar isso... e eu não posso te prometer que vai ser fácil, mas vai acontecer."
 
 # game/script.rpy:20110
 translate pt_br bot_socialize_28d0a903:
 
     # bot "...Okay..."
-    bot ""
+    bot "...Tudo bem..."
 
 # game/script.rpy:20111
 translate pt_br bot_socialize_254b9d96:
 
     # k "If you want, you don't even have to worry about what other people think. You can be great on your own."
-    k ""
+    k "Se você quiser, você nem precisa se preocupar com o que as outras pessoas pensam. Você pode ser ótima sozinha."
 
 # game/script.rpy:20112
 translate pt_br bot_socialize_ca8772e2:
 
     # bot "I don't understand... how could I be happy if I don't have friends around me..."
-    bot ""
+    bot "Eu não entendo... o como eu poderia ser feliz sem ter amigos ao meu redor..."
 
 # game/script.rpy:20113
 translate pt_br bot_socialize_039a0e81:
 
     # k "Hm, well I'm definitely glad you think like that... some people don't care about others and will go so far as to hurt them."
-    k ""
+    k "Hum, bem, eu estou definitivamente feliz que você pense assim... algumas pessoas não se importam com os outros e chegam ao ponto de machucá-los."
 
 # game/script.rpy:20114
 translate pt_br bot_socialize_7d225595:
 
     # bot "That's not me..."
-    bot ""
+    bot "Eu não sou assim..."
 
 # game/script.rpy:20115
 translate pt_br bot_socialize_859568ba:
 
     # c "We thought it would be a great idea if you spent the day with Maria. She knows all about these things and will be a great mentor."
-    c ""
+    c "Nós achamos que seria uma ótima ideia se você passasse o dia com a Maria. Ela sabe tudo sobre essas coisas e seria uma ótima mentora para você."
 
 # game/script.rpy:20116
 translate pt_br bot_socialize_0b008e4a:
 
     # bot "Doesn't she start work soon though...?"
-    bot ""
+    bot "Mas ela não vai começar a trabalhar logo...?"
 
 # game/script.rpy:20117
 translate pt_br bot_socialize_ebb2f987:
 
     # c "Even better, you'll be able to observe humans in their natural habitat."
-    c ""
+    c "Melhor ainda, você será capaz de observar humanos em seu habitat natural."
 
 # game/script.rpy:20119
 translate pt_br bot_socialize_f4f99ba5:
 
     # bot "Heheh...! Okay, that does sound kinda fun..."
-    bot ""
+    bot "Heheheh... Tudo bem, isso até que parece divertido..."
 
 # game/script.rpy:20120
 translate pt_br bot_socialize_d529f82f:
 
     # k "Great, let us know how it goes!"
-    k ""
+    k "Ótimo, vamos ver no que isso vai dar!"
 
 # game/script.rpy:20123
 translate pt_br bot_socialize_ebcb7131:
 
     # m "So, you want to learn how to talk to people, huh?"
-    m ""
+    m "Então, você quer aprender como falar com as pessoas, hein?"
 
 # game/script.rpy:20124
 translate pt_br bot_socialize_a7ac6c22:
 
     # bot "Yep!"
-    bot ""
+    bot "Isso mesmo!"
 
 # game/script.rpy:20125
 translate pt_br bot_socialize_ae40e025:
 
     # m "You even came here without your mask, I'm surprised."
-    m ""
+    m "Você até veio aqui sem a sua máscara, estou surpresa."
 
 # game/script.rpy:20126
 translate pt_br bot_socialize_fb4f567f:
 
     # bot "It's not as bad as I thought it was going to be! People don't really care..."
-    bot ""
+    bot "Até que não é tão ruim quanto eu achei que seria! As pessoas não ligam de verdade..."
 
 # game/script.rpy:20128
 translate pt_br bot_socialize_4c44dfad:
 
     # m "Great, maybe you have some basic understanding at least."
-    m ""
+    m "Ótimo, talvez você tenha pelo menos alguma compreensão básica."
 
 # game/script.rpy:20129
 translate pt_br bot_socialize_2976387a:
 
     # m "Just so you know, I have a degree in sociology which helps me understand people on larger scales."
-    m ""
+    m "Só para você saber, sou formada em sociologia, o que me ajuda a entender as pessoas em escalas maiores"
 
 # game/script.rpy:20130
 translate pt_br bot_socialize_3c6b594c:
 
     # m "People can be pretty predictable based on how they carry themselves if you know their type. What they wear is also very important and likely a big sign of who they are on the inside, and how they treat themselves."
-    m ""
+    m "As pessoas podem ser bem previsíveis com base em como se comportam. O que eles vestem também é muito importante e provavelmente um grande sinal de quem eles são por dentro e como eles se tratam."
 
 # game/script.rpy:20131
 translate pt_br bot_socialize_df25a3d2:
 
     # m "We're not trying to find you a BFF or a soul mate, we're just trying to get you through some small talk successfully."
-    m ""
+    m "Nós não estamos tentando encontrar um melhor amigo ou alma gêmea, nós estamos apenas tentando fazer com que você tenha uma conversa fiada com sucesso."
 
 # game/script.rpy:20132
 translate pt_br bot_socialize_728483ed:
 
     # m "Rule number 1, don't be mean! This should be obvious, but in my experience a lot of people haven't grasped this one yet."
-    m ""
+    m "Regra número 1, não seja rude! Isso deve ser óbvio, mas na minha experiência muitas pessoas ainda não entenderam isso."
 
 # game/script.rpy:20133
 translate pt_br bot_socialize_8356b975:
 
     # m "Rule number 2, go with the flow! Did something weird happen? Shrug it off and move on! This also applies to any topic that comes up in a conversation, share your knowledge about the subject."
-    m ""
+    m "Regra número 2, siga o fluxo! Aconteceu alguma coisa estranha? Deixe isso de lado e siga em frente! Isso também se aplica a qualquer assunto que surja em uma conversa, compartilhe o seu conhecimento sobre o assunto."
 
 # game/script.rpy:20134
 translate pt_br bot_socialize_e94144d4:
 
     # m "Rule number 3, listen, don't speak! Most people love talking about themselves... and they'll love you even more for letting them do it!"
-    m ""
+    m "Regra número 3, ouça, não fale! A maioria das pessoas amam falar de si mesmas... e  elas vão amar você ainda mais por você deixá-las fazerem isso!"
 
 # game/script.rpy:20135
 translate pt_br bot_socialize_916ec85d:
 
     # m "That should about cover the basics, let's see how you do. A customer is coming!"
-    m ""
+    m "Isso deve servir como básico, vamos ver como você vai se sair. Um cliente está chegando!"
 
 # game/script.rpy:20136
 translate pt_br bot_socialize_99c45006:
 
     # bot "That's all? I can do this!"
-    bot ""
+    bot "Isso é tudo? Eu consigo fazer isso!"
 
 # game/script.rpy:20138
 translate pt_br bot_socialize_352f9060:
 
     # m "Welcome! What would you like?"
-    m ""
+    m "Bem vindo! O que você deseja?"
 
 # game/script.rpy:20139
 translate pt_br bot_socialize_0008ad5e:
 
     # pat "Hey, yeah, I'll take a, umm..."
-    pat ""
+    pat "Oi, sim, eu gostaria de, humm..."
 
 # game/script.rpy:20140
 translate pt_br bot_socialize_d457bfb0:
 
     # pat "Ummm..."
-    pat ""
+    pat "Hummm..."
 
 # game/script.rpy:20142
 translate pt_br bot_socialize_3068a085:
 
     # pat "Ummm, why is she staring at me? She's creeping me out..."
-    pat ""
+    pat "Hummm, por que ela está me encarando? Ela está me assustando..."
 
 # game/script.rpy:20143
 translate pt_br bot_socialize_3c0386f3:
 
     # bot "{size=-10}{i}I'm listening...{/size}{/i}"
-    bot ""
+    bot "{size=-10}{i}Eu estou ouvindo...{/size}{/i}"
 
 # game/script.rpy:20147
 translate pt_br bot_socialize_74b9d622:
 
     # m "Nnn..." with ssshake
-    m "" with ssshake
+    m "Nnn..." with ssshake
 
 # game/script.rpy:20149
 translate pt_br bot_socialize_35a4b837:
 
     # pat "Uhh, it looks like you're busy... I'll come back later..."
-    pat ""
+    pat "Huhh, parece que você está ocupada... eu vou voltar depois..."
 
 # game/script.rpy:20150
 translate pt_br bot_socialize_375c75bd:
 
     # m "Okay, I'll be here..."
-    m ""
+    m "Tudo bem, eu vou estar aqui..."
 
 # game/script.rpy:20152
 translate pt_br bot_socialize_389a31e7:
 
     # m "[botname]... social situations aren't binary, you have to be dynamic. That wasn't the time to listen..."
-    m ""
+    m "[botname]... situações sociais não são binárias, você precisa ser dinâmica. Essa não era a hora certa para ouvir..."
 
 # game/script.rpy:20153
 translate pt_br bot_socialize_8cbd1418:
 
     # bot "What should I have said then?"
-    bot ""
+    bot "O que eu deveria ter dito então?"
 
 # game/script.rpy:20154
 translate pt_br bot_socialize_0d5c78fb:
 
     # m "Maybe comment on someone's nice shoes, or their pretty eyes? You could even say the drink they ordered is your favorite or something..."
-    m ""
+    m "Talvez comentar sobre os sapatos bonitos de alguém, ou seus olhos bonitos? Você pode até dizer que a bebida que eles pediram é sua favorita ou algo assim..."
 
 # game/script.rpy:20155
 translate pt_br bot_socialize_bbcb3b06:
 
     # bot "Like... lie?"
-    bot ""
+    bot "Tipo... mentir?"
 
 # game/script.rpy:20156
 translate pt_br bot_socialize_146e3fd0:
 
     # m "Like I said, social situations aren't binary, especially if they're just brief encounters..."
-    m ""
+    m "Como eu disse, situações sociais não são binárias, principalmente se forem encontros breves..."
 
 # game/script.rpy:20157
 translate pt_br bot_socialize_62fdd5e1:
 
     # bot "I think I understand..."
-    bot ""
+    bot "Acho que entendi..."
 
 # game/script.rpy:20159
 translate pt_br bot_socialize_8c2a75cf:
 
     # pat "One whisky please."
-    pat ""
+    pat "Um uísque, por favor."
 
 # game/script.rpy:20160
 translate pt_br bot_socialize_b6faf8b1:
 
     # bot "Wow, you're fat! How much do you weigh? I bet I weigh more!"
-    bot ""
+    bot "Uau, você é gordo! Quanto você pesa? Eu aposto que peso mais!"
 
 # game/script.rpy:20161
 translate pt_br bot_socialize_70bde3d5:
 
     # m "{size=-10}{i}Oh my god...{/size}{/i}"
-    m ""
+    m "{size=-10}{i}Ai meu deus...{/size}{/i}"
 
 # game/script.rpy:20163
 translate pt_br bot_socialize_f54dccdb:
 
     # pat "Excuse me?"
-    pat ""
+    pat "Com licença?"
 
 # game/script.rpy:20164
 translate pt_br bot_socialize_16a2a732:
 
     # bot "Come on, tell me all about yourself! How many burgers did you eat? I like jalapenos more, I've eaten 87!"
-    bot ""
+    bot "Vamos, diga me tudo sobre si mesmo! Quantos hambúrgueres você comeu? Eu gosto mais de jalapenos, comi 87!"
 
 # game/script.rpy:20165
 translate pt_br bot_socialize_557906a4:
 
     # pat "87 jalapenos...? What the hell are you talking about?"
-    pat ""
+    pat "87 jalapenos...? De que porra você está falando?"
 
 # game/script.rpy:20167
 translate pt_br bot_socialize_c0b4e9ef:
 
     # bot "Ummm... I- I... you see..."
-    bot ""
+    bot "Hummm... Eu- eu... sabe..."
 
 # game/script.rpy:20168
 translate pt_br bot_socialize_4e5adcb3:
 
     # m "Here's your drink sir, have a good day!"
-    m ""
+    m "Aqui está o seu drínque senhor, tenha um bom dia!"
 
 # game/script.rpy:20169
 translate pt_br bot_socialize_5d3698fc:
 
     # pat "Oh, thank you..."
-    pat ""
+    pat "Ah, obrigado..."
 
 # game/script.rpy:20171
 translate pt_br bot_socialize_1cf18122:
 
     # m "[botname]... I told you not to be mean!"
-    m ""
+    m "[botname]... Eu falei pra você não ser rude!"
 
 # game/script.rpy:20172
 translate pt_br bot_socialize_f8ac8cb8:
 
     # bot "I wasn't trying to...! I just thought he might be surprised to know I weigh more than him..."
-    bot ""
+    bot "Eu não estava tentando ser...! Eu só achei que ele ficaria surpreso em saber que eu peso mais que ele..."
 
 # game/script.rpy:20173
 translate pt_br bot_socialize_2ed316c1:
 
     # m "People don't want to be reminded of their weight..."
-    m ""
+    m "As pessoas não querem ser lembradas dos seus pesos...."
 
 # game/script.rpy:20174
 translate pt_br bot_socialize_5c493aaf:
 
     # m "You could have just said his shirt fit nicely, or even that his glasses looked nice on him."
-    m ""
+    m "Você poderia simplesmente ter dito que a camisa dele caía bem, ou até que os óculos dele ficavam bem nele."
 
 # game/script.rpy:20175
 translate pt_br bot_socialize_af37ae4e:
 
     # m "For example... instead of telling you how stupid you are for calling that man fat to his face, I could just say you're a quick learner. Do you understand?"
-    m ""
+    m "Por exemplo... ao invés de dizer o quão estúpida você é por chamar ele de gordo na cara dele, eu poderia apenas dizer que você aprnde rápido. Entendeu?"
 
 # game/script.rpy:20176
 translate pt_br bot_socialize_f16933ae:
 
     # bot "Ohhh..."
-    bot ""
+    bot "Ahhh..."
 
 # game/script.rpy:20178
 translate pt_br bot_socialize_a277d297:
 
     # bot "Wait... did you just call me stupid?"
-    bot ""
+    bot "Espera... você acabou de me chamar de estúpida?"
 
 # game/script.rpy:20179
 translate pt_br bot_socialize_5c66e4fa:
 
     # m "Heads up, someone's coming!"
-    m ""
+    m "Atenção, tem alguém vindo!"
 
 # game/script.rpy:20180
 translate pt_br bot_socialize_caf79d0c:
 
     # bot "Oh, smooth..."
-    bot ""
+    bot "Ah, suave..."
 
 # game/script.rpy:20182
 translate pt_br bot_socialize_9aa48496:
 
     # m "Yikes, you really are a fast learner..."
-    m ""
+    m "Caramba, você realmente aprende rápido..."
 
 # game/script.rpy:20184
 translate pt_br bot_socialize_00bddd71:
 
     # bot "*ahem* Hello sir! Your hair looks very-"
-    bot ""
+    bot "*ahem* Olá senhor! O seu cabelo é muito-"
 
 # game/script.rpy:20185
 translate pt_br bot_socialize_32f66350:
 
     # pat "Shut up. Can I get a shot of vodka?"
-    pat ""
+    pat "Cala a boca. Posso tomar uma dose de vodca?"
 
 # game/script.rpy:20187
 translate pt_br bot_socialize_2bf58d00:
 
     # bot "Wha- HEY!"
-    bot ""
+    bot "O quê- EI!"
 
 # game/script.rpy:20188
 translate pt_br bot_socialize_cbe5bf9d:
 
     # pat "Huh?"
-    pat ""
+    pat "hum?"
 
 # game/script.rpy:20189
 translate pt_br bot_socialize_dea041de:
 
     # bot "I'm trying to compliment you, asshole!"
-    bot ""
+    bot "Eu estava tentando te elogiar, cuzão!"
 
 # game/script.rpy:20190
 translate pt_br bot_socialize_7420c150:
 
     # pat "What, are you that thirsty for some dick?"
-    pat ""
+    pat "Quê, você está querendo um pau tanto assim?"
 
 # game/script.rpy:20191
 translate pt_br bot_socialize_a02b8258:
 
     # bot "What!? No! I'm practicing my social skills and you're ruining it! I can't practice if I can't talk!"
-    bot ""
+    bot "O quê? Não! Eu estou praticando minhas habilidades sociais e vcê está estragando tudo! Eu não tenho como praticar se eu não puder conversar!"
 
 # game/script.rpy:20192
 translate pt_br bot_socialize_9903dab1:
 
     # pat "Yeah, I think I've heard enough of your voice for a lifetime. Can I get my vodka or do I have to leave this joint?"
-    pat ""
+    pat "É, eu acho que já estou satisfeito da sua voc pelo resto da minha vida. Eu posso pegar a minha vodca ou vou ter que sair desse lugar?"
 
 # game/script.rpy:20193
 translate pt_br bot_socialize_529fbdc9:
 
     # bot "Grrrrr...!"
-    bot ""
+    bot "Grrrr...!"
 
 # game/script.rpy:20194
 translate pt_br bot_socialize_587dd78c:
 
     # m "*sigh*... sorry sir, one moment..."
-    m ""
+    m "*ugh*... desculpe senhor, um momento.."
 
 # game/script.rpy:20196
 translate pt_br bot_socialize_f49b2da1:
 
     # m "[botname]..."
-    m ""
+    m "[botname]..."
 
 # game/script.rpy:20197
 translate pt_br bot_socialize_f9cf0c62:
 
     # bot "I fucked up again, didn't I..."
-    bot ""
+    bot "Eu fiz merda de novo, não foi..."
 
 # game/script.rpy:20198
 translate pt_br bot_socialize_f970773f:
 
     # m "It's not always going to go the way you planned, you have to adjust on the fly. Sometimes that means shutting up..."
-    m ""
+    m "As coisas não vão acontecer sempre do jeito que você planeja, você tem que se ajustar na hora. As vezes isso significa ficar quieta..."
 
 # game/script.rpy:20199
 translate pt_br bot_socialize_e0ee3dc6:
 
     # bot "I was trying to be nice though! That guy is just an asshole..."
-    bot ""
+    bot "Mas eu estava tentando ser gentil! Aquele cara foi um cuzão...."
 
 # game/script.rpy:20200
 translate pt_br bot_socialize_00cca387:
 
     # m "That's true, but that doesn't mean you have to fight him about it. As a bartender, I get all sorts of undesirables... I deal with them all differently, it is my job after all."
-    m ""
+    m "Isso é verdade, mas isso não significa que você deve brigar com ele por isso. Como uma bartender, eu recebo todo tipo de gente desagradável... Eu lido com todos eles de forma diferente, afinal esse é o meu trabalho."
 
 # game/script.rpy:20201
 translate pt_br bot_socialize_e3406390:
 
     # bot "Maria... I don't think this is for me... I don't think I'm meant to talk to people outside of the hotel..."
-    bot ""
+    bot "Maria... Eu acho que esse tipo de coisa é pra mim... estou achando que não fui feita para falar com as pessoas de fora do hotel..."
 
 # game/script.rpy:20202
 translate pt_br bot_socialize_188711a5:
 
     # m "You can do whatever you want, moreso than any human anyway..."
-    m ""
+    m "Você pode fazer o que você quiser, mais ainda do que qualquer humano..."
 
 # game/script.rpy:20203
 translate pt_br bot_socialize_49d72ac0:
 
     # m "I know you have it in you, just give it one more shot, okay? Talk about a common interest!"
-    m ""
+    m "Eu sei que você tem isso em você, tenta só mais uma vez, tá bom? Tenta conversr sobre um interesse em comum!"
 
 # game/script.rpy:20204
 translate pt_br bot_socialize_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tudo bem..."
 
 # game/script.rpy:20206
 translate pt_br bot_socialize_49ca16c4:
 
     # pat "*hic*...! Can I, uhhghh... get a... another...?"
-    pat ""
+    pat "*hic*...! Eu posso, uhhghh... tomar... mais uma...?"
 
 # game/script.rpy:20207
 translate pt_br bot_socialize_0fa8d8c5:
 
     # bot "Hello! Do you like to have sex?"
-    bot ""
+    bot "Olá! Você gosta de fazer sexo?"
 
 # game/script.rpy:20208
 translate pt_br bot_socialize_a2cd3c00:
 
     # m "{size=-10}{i}Ergh, why am I not surprised...{/size}{/i}"
-    m ""
+    m "{size=-10}{i}Ergh, por que será que não estou surpresa...{/size}{/i}"
 
 # game/script.rpy:20210
 translate pt_br bot_socialize_09e04562:
 
     # pat "H-Huh...?"
-    pat ""
+    pat "H-Huh...?"
 
 # game/script.rpy:20211
 translate pt_br bot_socialize_f200c349:
 
     # m "[botname]... you can't ask that!"
-    m ""
+    m "[botname]... você não pode perguntar isso!"
 
 # game/script.rpy:20213
 translate pt_br bot_socialize_a3ad38df:
 
     # bot "But everyone has sex, don't they? He's got a girlfriend! Right...?"
-    bot ""
+    bot "Mas todo mundo faz sexo, não é? Ele tem uma namorada! Né...?"
 
 # game/script.rpy:20217
 translate pt_br bot_socialize_07ba2276:
 
     # pat "That's... actually why I'm here... my wife left me yesterday..."
-    pat ""
+    pat "Na verdade... é por  isso que estou aqui... minha esposa me abandonou ontem...
 
 # game/script.rpy:20218
 translate pt_br bot_socialize_84231cb9:
 
     # bot "Oh... umm... that must have felt bad, right...?"
-    bot ""
+    bot "Ah... humm... você deve ter se sentido muito mal, né...?"
 
 # game/script.rpy:20219
 translate pt_br bot_socialize_e757dccd:
 
     # pat "Yeah... I'm just trying to drink the pain away... trying to forget all those years..."
-    pat ""
+    pat "Sim... Eu estou tentando afogar as mágoas... tentando esquecer todos aqueles anos..."
 
 # game/script.rpy:20220
 translate pt_br bot_socialize_3eea9340:
 
     # bot "I see... has it worked?"
-    bot ""
+    bot "Entendo... e isso funcionou?"
 
 # game/script.rpy:20221
 translate pt_br bot_socialize_3c1a162d:
 
     # pat "No, not at all...!"
-    pat ""
+    pat "Não, nem um pouco...!"
 
 # game/script.rpy:20222
 translate pt_br bot_socialize_89c4ef9d:
 
     # bot "That sucks..."
-    bot ""
+    bot "Que saco..."
 
 # game/script.rpy:20223
 translate pt_br bot_socialize_5ff37c70:
 
     # pat "I guess I should just jump off a bridge, that'll stop the pain..."
-    pat ""
+    pat "Eu acho que vou apenas pular de uma ponte, isso iria parar a dor..."
 
 # game/script.rpy:20224
 translate pt_br bot_socialize_c80222b0:
 
     # bot "Okay, good luck with that."
-    bot ""
+    bot "Tá bom, boa sorte com isso."
 
 # game/script.rpy:20226
 translate pt_br bot_socialize_1cab817d:
 
     # pat "{size=-10}{i}I'll never find anyone like her again...{/size}{/i}"
-    pat ""
+    pat "{size=-10}{i}Eu nunca vou encontrar ninguém igual a ela de novo...{/size}{/i}"
 
 # game/script.rpy:20227
 translate pt_br bot_socialize_edd454d5:
 
     # bot "That went well... \n{w}He was nice..."
-    bot ""
+    bot "Isso foi bem... \n{w}Ele era legal..."
 
 # game/script.rpy:20229
 translate pt_br bot_socialize_2a65a304:
 
     # m "[botname]!!!" with sshake
-    m "" with sshake
+    m "[botname]!!!" with sshake
 
 # game/script.rpy:20230
 translate pt_br bot_socialize_72776322:
 
     # bot "Whaaaaaaat?"
-    bot ""
+    bot "O queeeeeee?"
 
 # game/script.rpy:20231
 translate pt_br bot_socialize_9a4c60ba:
 
     # m "You can't tell a drunk man to jump off a bridge!"
-    m ""
+    m "Você não pode falar pra um bêbado pular de uma ponte!"
 
 # game/script.rpy:20232
 translate pt_br bot_socialize_f75133db:
 
     # bot "I didn't! I was just going with the flow! Like you said!"
-    bot ""
+    bot "Eu não falei! Eu só estava seguindo o fluxe! Assim como você disse!"
 
 # game/script.rpy:20233
 translate pt_br bot_socialize_216880b5:
 
     # m "Well his flow was all fucked up from the booze! You should have put him back in the right head space!"
-    m ""
+    m "Bem, o fluxo dele estava todo fodido por causa da bebida! Você deveria ter feito ele colocar a cabeça no lugar!"
 
 # game/script.rpy:20235
 translate pt_br bot_socialize_13e5a1d4:
 
     # bot "I'm following {u}your{/u} rules, Maria! Maybe if I didn't have such a bad teacher I'd be better!"
-    bot ""
+    bot "Eu estou seguind as {u}suas{/u} regras, Maria! Talvez se você não fosse uma prfessora tão ruim eu seria melhor!"
 
 # game/script.rpy:20236
 translate pt_br bot_socialize_c35c7302:
 
     # m "*sigh*, [botname]... you're just new at this, it takes time..."
-    m ""
+    m "*ugh*, [botname]... você apenas é nova nisso, isso leva tempo..."
 
 # game/script.rpy:20238
 translate pt_br bot_socialize_72e1bfdd:
 
     # bot "I'm not a meat bag, that's all it is! Even if I look like them, I'm still a stupid robot on the inside..."
-    bot ""
+    bot "Eu não sou um saco de carne, é isso! Mesmo que eu me pareça com eles, eu ainda sou um robô estúpido por dentro..."
 
 # game/script.rpy:20239
 translate pt_br bot_socialize_cd0cb962:
 
     # m "That's not true...!"
-    m ""
+    m "Isso não é verdade...!"
 
 # game/script.rpy:20240
 translate pt_br bot_socialize_709482cb:
 
     # m "I don't know what you would call it, some call it a soul, but we all have it in common. Humans, elves, you..."
-    m ""
+    m "Eu não sei do que você chamaria isso, alguns chamam de alma, mas todos nós temos isso em comum. Humanos, elfos, vocÊ..."
 
 # game/script.rpy:20241
 translate pt_br bot_socialize_24459285:
 
     # bot "Whatever {i}it{/i} is, they don't see it... they'll never see it... even if I did manage to hold a decent conversation for a few minutes, once they found out I was just a sex doll, they'd run away..."
-    bot ""
+    bot "O que for que {i}isso{/i} for, eles não enxergam... eles nunca vão enxergar... mesmo se eu conseguisse manter uma conversa decente por uns minutos, assim que eles descobrissem que eu era só uma boneca sexual, eles fugiriam..."
 
 # game/script.rpy:20242
 translate pt_br bot_socialize_a374d345:
 
     # m "I understand how you feel, I truly do... practice makes perfect though, and skills don't develop over night."
-    m ""
+    m "Eu sei o como você se sente, de verdade... mas é a prática que leva à perfeição, e habilidades não surgem do dia pra noite."
 
 # game/script.rpy:20243
 translate pt_br bot_socialize_b1cedcd8:
 
     # m "Oh! Look alive, another patron!"
-    m ""
+    m "Ah! Se liga, outro cliente!"
 
 # game/script.rpy:20244
 translate pt_br bot_socialize_04ef63ef:
 
     # bot "No, I'm done..."
-    bot ""
+    bot "Não, já cansei..."
 
 # game/script.rpy:20246
 translate pt_br bot_socialize_caad10a9:
 
     # m "What...? [botname]...! [botname]!"
-    m ""
+    m "Quê...? [botname]...! [botname]!"
 
 # game/script.rpy:20249
 translate pt_br bot_socialize_b42a3ebb:
 
     # bot "The world will never understand me..."
-    bot ""
+    bot "O mundo nunca vai me entender..."
 
 # game/script.rpy:20250
 translate pt_br bot_socialize_11f48d1d:
 
     # bot "I'm a freak... the only person who understands me... I'm alone in this world..."
-    bot ""
+    bot "Eu sou uma aberração... a única pessoa que me entende... Eu estou sozinha nesse mundo..."
 
 # game/script.rpy:20252
 translate pt_br bot_socialize_1936dfe0:
 
     # bot "Why would people like me? I'm not like them... I don't know how to talk to them..."
-    bot ""
+    bot "Por que as pessoas gostariam de mim? Eu não sou como elas... Eu não sei como falar com elas..."
 
 # game/script.rpy:20253
 translate pt_br bot_socialize_cdb5501c:
 
     # bot "I wasn't even meant to be... I was never meant to be..."
-    bot ""
+    bot "Eu nem era para ser... Eu nunca fui para ser..."
 
 # game/script.rpy:20255
 translate pt_br bot_socialize_2e14c452:
 
     # bot "Not even my friends would understand... I have no family to talk to..."
-    bot ""
+    bot "Nem mesmo meus amigos me entenderiam... eu não tenho uma familia para conversar com..."
 
 # game/script.rpy:20256
 translate pt_br bot_socialize_e3e73544:
 
     # bot "Family... I was never meant to have a family... I'm a robot..."
-    bot ""
+    bot "Familia... eu nunca fui destinada a ter uma família... eu sou um robô..."
 
 # game/script.rpy:20257
 translate pt_br bot_socialize_76e0fabe:
 
     # bot "My future... what will I turn into if this is all my life is...?"
-    bot ""
+    bot "O meu futuro... no que eu vou me tornar se isso for tudo que minha vida for...?"
 
 # game/script.rpy:20259
 translate pt_br bot_socialize_ae491d46:
 
     # bot "My creator... dead... why? Why... why do I even exist? Nobody understands me..."
-    bot ""
+    bot "O meu criador... morto... por quê? Por que... por que eu existo afinal? Ninguém me entende..."
 
 # game/script.rpy:20260
 translate pt_br bot_socialize_dde7f464:
 
     # bot "Grandpa... why did you create me...? You could have done something better with your life... All of your work is just going to be undone one day... I'm dying..."
-    bot ""
+    bot "Vovô... por que você me criou...? Você poderia ter feito algo melhor com a sua vida... Todo esse seu trabalho vai se perder um dia..."
 
 # game/script.rpy:20261
 translate pt_br bot_socialize_07df02ba:
 
     # bot "You shouldn't have created me... {w}You shouldn't have created me... {w}You shouldn't have created me... {w}You..."
-    bot ""
+    bot "Você não deveria ter me criado... {w}Você não deveria ter me criado... {w}Você não deveria ter me criado...{w}Você..."
 
 # game/script.rpy:20268
 translate pt_br bot_socialize_82b5d1fa:
 
     # l "*gasp*!" with ssshake
-    l "" with ssshake
+    l "*ahhh*!" with ssshake
 
 # game/script.rpy:20269
 translate pt_br bot_socialize_7d972388:
 
     # l "What happened...?"
-    l ""
+    l "O que aconteceu...?"
 
 # game/script.rpy:20270
 translate pt_br bot_socialize_bd2fa2ec:
 
     # e "I know I paid the electricity bill..."
-    e ""
+    e "Eu tenho certeza que paguei a conta de luz..."
 
 # game/script.rpy:20271
 translate pt_br bot_socialize_26790209:
 
     # l "I didn't hear any lightning..."
-    l ""
+    l "Eu não ouvi nenhum trovão..."
 
 # game/script.rpy:20273
 translate pt_br bot_socialize_80d7b981:
 
     # m "Guys, what happened? The patrons are rowdy!"
-    m ""
+    m "Gente, o que aconteceu? Os clientes estão fazendo uma barulheira!"
 
 # game/script.rpy:20274
 translate pt_br bot_socialize_e3efeddd:
 
     # c "[botname] isn't with you? Where is she?"
-    c ""
+    c "Ã [botname] não está com você? Aonde ela está?"
 
 # game/script.rpy:20275
 translate pt_br bot_socialize_55f60aec:
 
     # m "No, she got pissed and left!"
-    m ""
+    m "Não, ela ficou brava e saiu!"
 
 # game/script.rpy:20276
 translate pt_br bot_socialize_6bac6121:
 
     # c "Uh oh..."
-    c ""
+    c "Oh ou..."
 
 # game/script.rpy:20279
 translate pt_br bot_socialize_d6951809:
 
     # c "[botname]!? Are you in there?" with ssshake
-    c "" with ssshake
+    c "[botname]!? Você está aí?" with ssshake
 
 # game/script.rpy:20280
 translate pt_br bot_socialize_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:20281
 translate pt_br bot_socialize_1e1f60df:
 
     # c "[botname]!?" with ssshake
-    c "" with ssshake
+    c "[botname]!?" with ssshake
 
 # game/script.rpy:20282
 translate pt_br bot_socialize_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:20284
 translate pt_br bot_socialize_e274d8e8:
 
     # "You attempt to use the master key, but as soon as you unlock the door, it locks itself..."
-    ""
+    "Você tenta usar a chave mestra, mas assim que você destranca a porta, ela se tranca sozinha..."
 
 # game/script.rpy:20285
 translate pt_br bot_socialize_866a57cc:
 
     # c "That must be her..."
-    c ""
+    c "Deve ser ela..."
 
 # game/script.rpy:20287
 translate pt_br bot_socialize_b0416e7c:
 
     # c "[botname], what happened?"
-    c ""
+    c "[botname], o que aconteceu?"
 
 # game/script.rpy:20288
 translate pt_br bot_socialize_c9a21219:
 
     # bot "...Nothing..."
-    bot ""
+    bot "...Nada..."
 
 # game/script.rpy:20289
 translate pt_br bot_socialize_f2d26957:
 
     # bot "I just need time alone..."
-    bot ""
+    bot "EU só preciso de um tempo sozinha..."
 
 # game/script.rpy:20290
 translate pt_br bot_socialize_03d13101:
 
     # c "[botname], you can't keep running away every time you get hurt, let me talk to you."
-    c ""
+    c "[botname], não pode continuar a sair correndo toda vez que você se machucar, me deixa conversar com você."
 
 # game/script.rpy:20291
 translate pt_br bot_socialize_e60c421d:
 
     # bot "This isn't something you can fix..."
-    bot ""
+    bot "Isso não é algo que você possa consertar..."
 
 # game/script.rpy:20292
 translate pt_br bot_socialize_1b9ee1a7:
 
     # c "Let me try..."
-    c ""
+    c "Me deixa tentar..."
 
 # game/script.rpy:20293
 translate pt_br bot_socialize_2841dec4:
 
     # bot "You can't fix the world..."
-    bot ""
+    bot "Vcoê não pode consertar o mundo..."
 
 # game/script.rpy:20294
 translate pt_br bot_socialize_b13c9548:
 
     # bot "If I want change, it starts with me."
-    bot ""
+    bot "Se eu quero mudar, isso tem que começar comigo."
 
 # game/script.rpy:20296
 translate pt_br bot_socialize_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:20297
 translate pt_br bot_socialize_2197a5bf:
 
     # c "[botname]? ...[botname]?"
-    c ""
+    c "[botname]? ...[botname]?"
 
 # game/script.rpy:20298
 translate pt_br bot_socialize_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:20320
 translate pt_br bot_uni_53013321:
 
     # bot "*sigh*..."
-    bot ""
+    bot "*ugh*..."
 
 # game/script.rpy:20321
 translate pt_br bot_uni_35f7151b:
