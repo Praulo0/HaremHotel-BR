@@ -43014,2173 +43014,2173 @@ translate pt_br bot_uni_53013321:
 translate pt_br bot_uni_35f7151b:
 
     # e "Good evening, [name]!"
-    e ""
+    e "Boa noite, [name]!"
 
 # game/script.rpy:20322
 translate pt_br bot_uni_b9b5eae5:
 
     # c "Hey Ellen."
-    c ""
+    c "Oi Ellen."
 
 # game/script.rpy:20323
 translate pt_br bot_uni_16a3e00e:
 
     # c "Hey [botname], what are you up to?"
-    c ""
+    c "Ei [botname], o que você está fazendo?"
 
 # game/script.rpy:20325
 translate pt_br bot_uni_67c43a0e:
 
     # bot "Hi [botown], I'm just being bored... watching whatever's on TV... but that's boring too..."
-    bot ""
+    bot "Olá [botown], estou apenas entediada... assistindo o que quer que esteja na TV... mas isso também é chato..."
 
 # game/script.rpy:20326
 translate pt_br bot_uni_9f85d48d:
 
     # bot "I wish I had a job, or had to go to school... this place is starting to feel like a prison..."
-    bot ""
+    bot "Eu queria ter um trabalho, ou ter que ir pra escola... esse lugar está começando a parecer uma prisão..."
 
 # game/script.rpy:20327
 translate pt_br bot_uni_23e37cb6:
 
     # c "Oh, that's not good... but you do have a job, you work here."
-    c ""
+    c "Ah, isso não é bom mesmo... mas você tem um trabalho, você trabalha aqui."
 
 # game/script.rpy:20328
 translate pt_br bot_uni_c12cdc0f:
 
     # bot "No, I live here... there's a difference. I just have more responsibilities than the rest of my family."
-    bot ""
+    bot "Não, eu vivo aqui... tem uma diferença. Eu só tenho mais responsabilidades que o resto da minha família."
 
 # game/script.rpy:20329
 translate pt_br bot_uni_9d6920e1:
 
     # bot "I see Ashley going to school and Kali going to work and I think... 'maybe that's what I'm missing... social responsibility.'"
-    bot ""
+    bot "Eu vejo a Ashley indo pra escola e a Kali indo trabalhar e penso... 'talvez seja isso que estou sentindo falta... responsabilidade social.'"
 
 # game/script.rpy:20330
 translate pt_br bot_uni_d04aeaa4:
 
     # bot "I love being needed by my family, but... it gets kinda boring if that's all you do... and it is all I do..."
-    bot ""
+    bot "Adoro ser necessária para minha família, mas... fica meio chato se é só isso que você faz... e é tudo o que eu faço...""
 
 # game/script.rpy:20331
 translate pt_br bot_uni_379f4db4:
 
     # c "I like that you think of everyone here as a part of your family, that's kind of you."
-    c ""
+    c "Eu gosto que você veja todo mundo aqui como parte da tua família, é bem legal da sua parte."
 
 # game/script.rpy:20332
 translate pt_br bot_uni_b936d5c6:
 
     # c "So, you're ready to leave the nest, huh?"
-    c ""
+    c "Então, você se sente pronta para sair do ninho, hein?"
 
 # game/script.rpy:20333
 translate pt_br bot_uni_c44cf02e:
 
     # bot "Nest? What nest?"
-    bot ""
+    bot "Ninho? Que ninho?"
 
 # game/script.rpy:20334
 translate pt_br bot_uni_d064a978:
 
     # c "It's something baby birds do once they outgrow their parents. It's a figure of speech."
-    c ""
+    c "E algo que os pássaros filhotes fazem quando ficam crescidos. É uma figura de linguagem."
 
 # game/script.rpy:20335
 translate pt_br bot_uni_78e6c040:
 
     # bot "Oh... well, I don't want to leave anyone..."
-    bot ""
+    bot "Ah... bem, eu não quero abandonar ninguém..."
 
 # game/script.rpy:20336
 translate pt_br bot_uni_144fe2ed:
 
     # bot "I just want to... I don't know really. I want to meet random people, do things for others and with others... make new friends, too."
-    bot ""
+    bot "Eu só quero... eu não sei de verdade. Eu quero conheer pessoas aleatórias, fazer coisas com os outros e para os outros... fazer novos amigos, também."
 
 # game/script.rpy:20337
 translate pt_br bot_uni_bcbe7171:
 
     # c "That's normal. But I doubt you would be able to apply for college... Do you want to grab a bite to eat or something?"
-    c ""
+    c "Isso é normal. Mas e duvido que você conseguiria se matricular numa universidade... Você não quer comer alguma coisa ou algo assim?"
 
 # game/script.rpy:20338
 translate pt_br bot_uni_a85fcbe3:
 
     # bot "No..."
-    bot ""
+    bot "Não..."
 
 # game/script.rpy:20340
 translate pt_br bot_uni_699a798c:
 
     # bot "Oh! Do you think I could visit Kali at her university? I bet she has some friends there! Maybe I could even help her during class!"
-    bot ""
+    bot "Ah! Você acha que eupoderia visitar a Kali na universidade dela? Eu aposto que ela tem uns amigos lá! Talvez eu pudesse até ajudar ela durante a aula!"
 
 # game/script.rpy:20341
 translate pt_br bot_uni_31e3c826:
 
     # c "I don't know if that would work..."
-    c ""
+    c "Eu não sei se isso daria certo..."
 
 # game/script.rpy:20342
 translate pt_br bot_uni_e6194566:
 
     # bot "Why not? No one's going to notice I'm an android!"
-    bot ""
+    bot "Por que não? Ninguém vai saber que sou uma andróide!"
 
 # game/script.rpy:20343
 translate pt_br bot_uni_6c5b1cf2:
 
     # c "They might not be too happy about two random people walking in unannounced."
-    c ""
+    c "Ele podem não ficar muito felizes com a ideia de duas pessoas aleatórias aparecendo lá do nada."
 
 # game/script.rpy:20344
 translate pt_br bot_uni_93682ed5:
 
     # bot "We can talk it out! Please [botown]...? I really want to feel like a real girl..."
-    bot ""
+    bot "A gente dá um jeito! Por favor [botown]...? Eu quero muito me sentir como uma menina de verdade..."
 
 # game/script.rpy:20345
 translate pt_br bot_uni_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:20346
 translate pt_br bot_uni_0eaffc8b:
 
     # c "...Alright, we can try."
-    c ""
+    c "...Tá bom, nós podemos tentar."
 
 # game/script.rpy:20347
 translate pt_br bot_uni_c0a591b9:
 
     # bot "YES! Thank you!"
-    bot ""
+    bot "ISSO! Obrigada!"
 
 # game/script.rpy:20349
 translate pt_br bot_uni_e7ef658e:
 
     # "You drive [botname] to Kali's university..."
-    ""
+    "Você leva [botname] para a universidade de Kali..."
 
 # game/script.rpy:20351
 translate pt_br bot_uni_9bc3a9ff:
 
     # bot "Ah~! There she is!"
-    bot ""
+    bot "Ah~! Lá está ela!"
 
 # game/script.rpy:20353
 translate pt_br bot_uni_e8d6a450:
 
     # bot "Kali!! Hey Kali!"
-    bot ""
+    bot "Kali!! Ei Kali!"
 
 # game/script.rpy:20355
 translate pt_br bot_uni_2e949ba5:
 
     # sbot "HALT. UNKNOWN PERSONS HAVE ENTERED THE PREMISES DURING AN ACTIVE EDUCATIONAL PERIOD. STATE YOUR NAME AND BUSINESS." with sshake
-    sbot "" with sshake
+    sbot "ALTO. PESSOAS DESCONHECIDAS ENTRARAM NAS INSTALAÇÕES DURANTE UM PERÍODO EDUCACIONAL ATIVO. INFORME SEU NOME E NEGÓCIO." with sshake
 
-# game/script.rpy:20356
+ # game/script.rpy:20356
 translate pt_br bot_uni_9ecb088e:
 
     # bot "Ah!"
-    bot ""
+    bot "Ah!"
 
 # game/script.rpy:20357
 translate pt_br bot_uni_4917eada:
 
     # shan "Oh, hello Mr. [name]!"
-    shan ""
+    shan "Ah, olá Sr. [name]!"
 
 # game/script.rpy:20358
 translate pt_br bot_uni_3a202f3d:
 
     # shan "I know them, let them through please!"
-    shan ""
+    shan "Eu os conheço, deixe-os passar, por favor"
 
 # game/script.rpy:20360
 translate pt_br bot_uni_641e2dd5:
 
     # shan "ACCESS APPROVED BY ADMIN. ENJOY YOUR STAY AT SYLTECH."
-    shan ""
+    shan "ACESSO APROVADO PELO ADMINISTRADOR. APROVEITEM SUA ESTADIA NA SYLTECH."
 
 # game/script.rpy:20361
 translate pt_br bot_uni_27c4333c:
 
     # bot "Hm? She's talking weird..."
-    bot ""
+    bot "Hum? Ela está falando esquisito..."
 
 # game/script.rpy:20362
 translate pt_br bot_uni_f591c4a0:
 
     # shan "Can I help you Mr. [name]?"
-    shan ""
+    shan "Como posso te ajudar Sr. [name]?"
 
 # game/script.rpy:20363
 translate pt_br bot_uni_28ca74fd:
 
     # c "I'm just here to check on my girlfriend."
-    c ""
+    c "Eu só vim dar uma olhada na minha namorada."
 
 # game/script.rpy:20364
 translate pt_br bot_uni_feb9399a:
 
     # shan "Very well, don't annoy the class and you can stay. Grab a stool if you'd like."
-    shan ""
+    shan "Muito bem, não incomode a turma e você pode ficar. Pegue um banco se quiser."
 
 # game/script.rpy:20365
 translate pt_br bot_uni_053432b7:
 
     # bot "Okay!"
-    bot ""
+    bot "Certo!"
 
 # game/script.rpy:20366
 translate pt_br bot_uni_e897fbb0:
 
     # c "Thank you."
-    c ""
+    c "Obrigado!"
 
 # game/script.rpy:20368
 translate pt_br bot_uni_4f645559:
 
     # bot "Hey Kali!"
-    bot ""
+    bot "Ei Kali!"
 
 # game/script.rpy:20369
 translate pt_br bot_uni_ec25d026:
 
     # k "Hey you two... what are you doing here...?"
-    k ""
+    k "Ei vocês dois... o que estão fazendo aqui...?"
 
 # game/script.rpy:20371
 translate pt_br bot_uni_999715a9:
 
     # bot "We just came to say hi!"
-    bot ""
+    bot "Nós só viemos dizer oi!"
 
 # game/script.rpy:20372
 translate pt_br bot_uni_72cfbd43:
 
     # k "Oh, really? During class?"
-    k ""
+    k "Ah, sério? Durante a aula?"
 
 # game/script.rpy:20373
 translate pt_br bot_uni_8a0c12a4:
 
     # bot "Yeah, I was really bored... what are you working on?"
-    bot ""
+    bot "Sim, eu estava muito entediada... no que vocês estão trabalhando?"
 
 # game/script.rpy:20374
 translate pt_br bot_uni_dc2fdec2:
 
     # k "Motor function."
-    k ""
+    k "Função motora."
 
 # game/script.rpy:20375
 translate pt_br bot_uni_df0ec071:
 
     # bot "What's that?"
-    bot ""
+    bot "O que é isso?"
 
 # game/script.rpy:20376
 translate pt_br bot_uni_05df3107:
 
     # k "It's how I would move your body around, like make your arm grab a cup or something."
-    k ""
+    k "É o como eu moveria o seu corpo, como fazer o seu braço pegar um copo ou qualquer coisa assim?"
 
 # game/script.rpy:20377
 translate pt_br bot_uni_06320539:
 
     # bot "Ooooh, cool! Can you do it to me now?"
-    bot ""
+    bot "Aaaah, legal! Você conseguie fazer isso comigo agora?"
 
 # game/script.rpy:20378
 translate pt_br bot_uni_400a4c7a:
 
     # k "It doesn't work like that... and you're not even a, uh... {size=-10}{i}an elfbot...{/i}{/size}"
-    k ""
+    k "Não é assim que funciona... e você nem é um, uh... {size=-10}{i}elfo-robô...{/i}{/size}"
 
 # game/script.rpy:20379
 translate pt_br bot_uni_bd0c2661:
 
     # bot "Oh, right... when do you get to the reason I'm alive?"
-    bot ""
+    bot "Ah, sim... quando você vai descobrir o motivo de eu estar vivo?"
 
 # game/script.rpy:20380
 translate pt_br bot_uni_eb3b1244:
 
     # k "Umm... I don't think they teach that here, haha."
-    k ""
+    k "Humm... eu acho que não ensinam isso aqui, haha."
 
 # game/script.rpy:20382
 translate pt_br bot_uni_e338217c:
 
     # kim "Hey Kali! Who's your new friend?"
-    kim ""
+    kim "Ei Kali! Quem é esse seu novo amigo?"
 
 # game/script.rpy:20383
 translate pt_br bot_uni_22d781e8:
 
     # k "Oh, hey Kim, hey Ami."
-    k ""
+    k "Ah, ei Kim, ei Ami."
 
 # game/script.rpy:20384
 translate pt_br bot_uni_bd011152:
 
     # ami "Nice hair! Why did you choose white? Are you a robot...? Heheh!"
-    ami ""
+    ami "Cabelo bonito! Por que você escolheu branco? Você é um robô...? Heheh!"
 
 # game/script.rpy:20385
 translate pt_br bot_uni_74f00e56:
 
     # bot "I just like it!"
-    bot ""
+    bot "Eu só gosto dele assim!"
 
 # game/script.rpy:20386
 translate pt_br bot_uni_2bfa6a85:
 
     # ami "If it's supposed to send a message, what is it?"
-    ami ""
+    ami "Se isso é para de enviar uma mensagem, qual mensagem é?"
 
 # game/script.rpy:20388
 translate pt_br bot_uni_7a309df7:
 
     # van "Obviously it's social commentary on how she's a product of our capitalist society and her only worth as a woman is through her body in our patriarchal society. Right?"
-    van ""
+    van "Obviamente é um comentário social sobre como ela é um produto da nossa sociedade capitalista e seu único valor como mulher é através do seu corpo na nossa sociedade patriarcal. Não é?"
 
 # game/script.rpy:20389
 translate pt_br bot_uni_9acd0f86:
 
     # bot "Not quite... I just like the look."
-    bot ""
+    bot "Não exatamente... eu só gostei de como ele ficou."
 
 # game/script.rpy:20390
 translate pt_br bot_uni_0f946bd7:
 
     # van "Hm. I dig it either way."
-    van ""
+    van "Hum. Eu gosto de qualquer maneira."
 
 # game/script.rpy:20391
 translate pt_br bot_uni_153920da:
 
     # bot "Aw, how nice!"
-    bot ""
+    bot "Own, que bom!"
 
 # game/script.rpy:20393
 translate pt_br bot_uni_cedcaefe:
 
     # ami "Are you new here? I've never seen you before."
-    ami ""
+    ami "Você é nova por aqui? Eu nunca vi você antes."
 
 # game/script.rpy:20394
 translate pt_br bot_uni_816214d6:
 
     # bot "No, I'm just visiting my friend!"
-    bot ""
+    bot "Não, eu só estou visitando minha amiga!"
 
 # game/script.rpy:20395
 translate pt_br bot_uni_8f46ac99:
 
     # kim "You have friends? Lucky!"
-    kim ""
+    kim "Você tem amigos? Que sortuda!"
 
 # game/script.rpy:20396
 translate pt_br bot_uni_ac4b34f8:
 
     # k "Yeah... uh... we go way back."
-    k ""
+    k "É... uh... nós temos uma longa história."
 
 # game/script.rpy:20398
 translate pt_br bot_uni_6377fc8d:
 
     # shan "Okay everyone! Lessons will begin now, please be seated!"
-    shan ""
+    shan "Muito bem todo mundo! As lições vão começar agora, por favor sentem-se!"
 
 # game/script.rpy:20400
 translate pt_br bot_uni_dac1b1d7:
 
     # kim "Okay! Gotta go! Good luck, Kali!"
-    kim ""
+    kim "Tudo bem! Tenho que ir! Boa sorte, Kali!"
 
 # game/script.rpy:20401
 translate pt_br bot_uni_bff48eb9:
 
     # k "Good luck..."
-    k ""
+    k "Boa sorte..."
 
 # game/script.rpy:20403
 translate pt_br bot_uni_8b36b110:
 
     # k "Take a seat, it's going to be a while..."
-    k ""
+    k "Sentem-se, isso vai levar algum tempo..."
 
 # game/script.rpy:20404
 translate pt_br bot_uni_8077f933:
 
     # bot "I'm so excited!"
-    bot ""
+    bot "Eu estou muito ansiosa!"
 
 # game/script.rpy:20406
 translate pt_br bot_uni_adf16917:
 
     # "1 hour later..."
-    ""
+    "1 hora depois..."
 
 # game/script.rpy:20408
 translate pt_br bot_uni_2ddad5c8:
 
     # bot "I'm so bored..."
-    bot ""
+    bot "Estou tão entendiada..."
 
 # game/script.rpy:20409
 translate pt_br bot_uni_22850469:
 
     # k "What did you expect? It's school..."
-    k ""
+    k "O que mais você esperava? É uma escola..."
 
 # game/script.rpy:20410
 translate pt_br bot_uni_d9582b09:
 
     # bot "All of this stuff is already on the internet! Why do humans pay for this...?"
-    bot ""
+    bot "Todas essas coisas estão na internet! Por que os humanos paam por isso...?"
 
 # game/script.rpy:20411
 translate pt_br bot_uni_bed6decf:
 
     # k "Because it's easier for us to learn from a teacher than trying to teach ourselves."
-    k ""
+    k "Porque é mais fácil para nós aprender com um professor do que para aprendermos sozinhos."
 
 # game/script.rpy:20412
 translate pt_br bot_uni_bc850499:
 
     # bot "What? That's stupid..."
-    bot ""
+    bot "O quê? Isso é estúpido..."
 
 # game/script.rpy:20413
 translate pt_br bot_uni_09a07b95:
 
     # k "Sorry for being human..."
-    k ""
+    k "Desculpa por ser humana..."
 
 # game/script.rpy:20414
 translate pt_br bot_uni_e398352d:
 
     # bot "*sigh*, it's okay..."
-    bot ""
+    bot "*ugh*, está tudo bem..."
 
 # game/script.rpy:20416
 translate pt_br bot_uni_897a3959:
 
     # bot "Urghhh...! What am I supposed to do..." with ssshake
-    bot "" with ssshake
+    bot "Urghhh...! O que que eu devo fazer..." with ssshake
 
 # game/script.rpy:20417
 translate pt_br bot_uni_a8ed53fd:
 
     # k "You could try to learn something..."
-    k ""
+    k "Você poderia tentar aprender alguma coisa..."
 
 # game/script.rpy:20418
 translate pt_br bot_uni_95f8f19e:
 
     # bot "I don't care about this, I only have so much memory you know..."
-    bot ""
+    bot "Eu não ligo pra isso, eu só tenho uma quantidade limitada de memória, sabia..."
 
 # game/script.rpy:20419
 translate pt_br bot_uni_9fa05921:
 
     # q "Excuse me, can I use the restroom?"
-    q ""
+    q ""Com licença, posso ir ao banheiro?
 
 # game/script.rpy:20420
 translate pt_br bot_uni_9e6b4928:
 
     # shan "Yes, go ahead."
-    shan ""
+    shan "Sim, pode ir."
 
 # game/script.rpy:20422
 translate pt_br bot_uni_148f3ab0:
 
     # q "Thank you..."
-    q ""
+    q "Obrigada..."
 
 # game/script.rpy:20424
 translate pt_br bot_uni_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:20426
 translate pt_br bot_uni_3d18f86f:
 
     # bot "...?"
-    bot ""
+    bot "...?"
 
 # game/script.rpy:20428
 translate pt_br bot_uni_53d1eb46:
 
     # bot "Hmmm..."
-    bot ""
+    bot "Hmmm..."
 
 # game/script.rpy:20430
 translate pt_br bot_uni_31a8989c:
 
     # bot "...{w}...{w}..."
-    bot ""
+    bot "...{w}...{w}..."
 
 # game/script.rpy:20432
 translate pt_br bot_uni_b9e7b607:
 
     # bot "Got it!"
-    bot ""
+    bot "Consegui!"
 
 # game/script.rpy:20434
 translate pt_br bot_uni_f9dc4339:
 
     # bot "Hey [botown], check your phone..."
-    bot ""
+    bot "Ei [botown], olha o seu celular..."
 
 # game/script.rpy:20435
 translate pt_br bot_uni_eaf10a31:
 
     # c "My phone?"
-    c ""
+    c "Meu celular?"
 
 # game/script.rpy:20436
 translate pt_br bot_uni_22b673d0:
 
     # "*ding*" with ssshake
-    "" with ssshake
+    "*ding*" with ssshake
 
 # game/script.rpy:20437
 translate pt_br bot_uni_7214cfe2:
 
     # c "Oh..."
-    c ""
+    c "Ah..."
 
 # game/script.rpy:20443
 translate pt_br bot_uni_e717211a:
 
     # c "Woah, where did you get this from?"
-    c ""
+    c "Uau, aonde foi que você conseguiu isso?"
 
 # game/script.rpy:20445
 translate pt_br bot_uni_42c4bd6b:
 
     # bot "Over there!"
-    bot ""
+    bot "Logo ali!"
 
 # game/script.rpy:20446
 translate pt_br bot_uni_ab62a084:
 
     # c "The laptop?"
-    c ""
+    c "No notebook?"
 
 # game/script.rpy:20448
 translate pt_br bot_uni_012a2545:
 
     # bot "Pretty cool, huh?"
-    bot ""
+    bot "Bem legal, né?"
 
 # game/script.rpy:20451
 translate pt_br bot_uni_7523bb59:
 
     # c "Yeah, nice. When did you learn how to do this?"
-    c ""
+    c "Sim, bacana. Quando você arendeu a fazer isso?"
 
 # game/script.rpy:20452
 translate pt_br bot_uni_97b2bc82:
 
     # bot "I dunno, just now I guess."
-    bot ""
+    bot "Não sei, acho que agora mesmo."
 
 # game/script.rpy:20454
 translate pt_br bot_uni_03544878:
 
     # k "Huh? What happened?"
-    k ""
+    k "Hum? o que aconteceu?"
 
 # game/script.rpy:20455
 translate pt_br bot_uni_abe89e5c:
 
     # c "[botname] just hacked someone's nudes and sent them to me."
-    c ""
+    c "A [botname] acabou de hackear os nudes de alguém e os enviou para mim."
 
 # game/script.rpy:20457
 translate pt_br bot_uni_b1c3c19f:
 
     # k "What!? When!?"
-    k ""
+    k "O quê!? Quando!?"
 
 # game/script.rpy:20458
 translate pt_br bot_uni_78b3bda6:
 
     # bot "Just now silly!"
-    bot ""
+    bot "Agora mesmo, bobinha!"
 
 # game/script.rpy:20459
 translate pt_br bot_uni_4342bc78:
 
     # k "You can just wirelessly go into anyone's computer now and look through their shit!? How!?"
-    k ""
+    k "Você consegue entrar no computador de qualque um sem fio e olhar as merdas deles!? Como!?"
 
 # game/script.rpy:20460
 translate pt_br bot_uni_9e2dd1c4:
 
     # bot "I dunno."
-    bot ""
+    bot "Eu não sei."
 
 # game/script.rpy:20461
 translate pt_br bot_uni_cc45556c:
 
     # k "What!?"
-    k ""
+    k "Quê!?"
 
 # game/script.rpy:20462
 translate pt_br bot_uni_bc1ad7af:
 
     # bot "She left her laptop connected to the internet, so I just... found her. We're on the same version and everything!"
-    bot ""
+    bot "Ela deixou o notebook dela conectado à internet, então eu só... encontrei. Nós estamos na mesma versão e tudo!"
 
 # game/script.rpy:20463
 translate pt_br bot_uni_c5e67c30:
 
     # k "Huh!? Just how connected to the internet are you?"
-    k ""
+    k "Hum!? O quão conectada a internet vocÊ está?"
 
 # game/script.rpy:20465
 translate pt_br bot_uni_9256629d:
 
     # k "Wait, same version...?"
-    k ""
+    k "Espera, na mesma versão...?"
 
 # game/script.rpy:20466
 translate pt_br bot_uni_ecc305ff:
 
     # k "Does this have anything to do with your new body?"
-    k ""
+    k "Isso tem alguma coisa a ver com o seu corpo novo?"
 
 # game/script.rpy:20467
 translate pt_br bot_uni_9238bd2f:
 
     # bot "Maybe. I have started to notice a few differences..."
-    bot ""
+    bot "Talvez. Eu comecei a perceber algumas diferenças..."
 
 # game/script.rpy:20469
 translate pt_br bot_uni_7e18792c:
 
     # k "Egh, you're starting to worry me, you're becoming very powerful..."
-    k ""
+    k "Egh, você está começando a me deixar preocupada, você está ficando muito poderosa..."
 
 # game/script.rpy:20473
 translate pt_br bot_uni_389574b1:
 
     # shan "Hm?"
-    shan ""
+    shan "Hum?"
 
 # game/script.rpy:20475
 translate pt_br bot_uni_29d8d5c9:
 
     # k "[botname]...? Is that you...?"
-    k ""
+    k "[botname]...? Isso foi você...?"
 
 # game/script.rpy:20476
 translate pt_br bot_uni_cc2de560:
 
     # bot "Heheheh..."
-    bot ""
+    bot "Heheheh..."
 
 # game/script.rpy:20478
 translate pt_br bot_uni_2ae93d7d:
 
     # shan "What's going on? Who did that?"
-    shan ""
+    shan "O que está acontecendo? Quem fez isso?"
 
 # game/script.rpy:20482
 translate pt_br bot_uni_ea26a85d:
 
     # clas "*gasp*!"
-    clas ""
+    clas "*aaah*!"
 
 # game/script.rpy:20483
 translate pt_br bot_uni_b674fea4:
 
     # shan "OH MY GOODNESS!"
-    shan ""
+    shan "AI MINHA NOSSA!"
 
 # game/script.rpy:20485
 translate pt_br bot_uni_5d13407f:
 
     # shan "Who is- ...is that Nala!?"
-    shan ""
+    shan "Quem é-... essa é a Nala!?"
 
 # game/script.rpy:20486
 translate pt_br bot_uni_82e24a14:
 
     # bot "Heheheheh!"
-    bot ""
+    bot "Heheheheh!"
 
 # game/script.rpy:20488
 translate pt_br bot_uni_5cd803f1:
 
     # van "She has a nice body..."
-    van ""
+    van "Ela tem um corpo bonito..."
 
 # game/script.rpy:20489
 translate pt_br bot_uni_b04cc93b:
 
     # student "Fuck it, I'm saving this for later..." with flash
-    student "" with flash
+    student "Foda-se, eu vou salvar isso pra depois..." with flash
 
 # game/script.rpy:20491
 translate pt_br bot_uni_3e7dd1de:
 
     # k "{i}What are you doing!?!?{/i}"
-    k ""
+    k "{i}O que você está fazendo!?!{/i}"
 
 # game/script.rpy:20493
 translate pt_br bot_uni_6a723ecb:
 
     # kim "{b}AAAAAAAAAAAAAGH!!!{/b}" with sshake
-    kim "" with sshake
+    kim "{b}AAAAAAAAAAAAAGH!!!{/b}" with sshake
 
 # game/script.rpy:20495
 translate pt_br bot_uni_057090f7:
 
     # kim "NOOOOO! TURN IT OFF, TURN IT OFF, TURN IT OFF!"
-    kim ""
+    kim "NÃOOOOO! DESLIGA ISSO, DESLIGA ISSO, DESLIGA ISSO!"
 
 # game/script.rpy:20496
 translate pt_br bot_uni_204180ef:
 
     # shan "I didn't turn it {i}on{/i}!"
-    shan ""
+    shan "Eu não {i}liguei{/i} isso! "
 
 # game/script.rpy:20498
 translate pt_br bot_uni_3f3471d9:
 
     # kim "AAAAGH! THAT'S MY BUTT! I DIDN'T SEND THAT TO ANYONE, I SWEAR!!!"
-    kim ""
+    kim "AAAAGH! ESSA É A MINHA BUNDNA! EU NÃO ENVIEI ISSO PRA NINGUÉM, EU JURO!!!"
 
 # game/script.rpy:20499
 translate pt_br bot_uni_0a95d977:
 
     # van "Holy shit! You must have really pissed someone off..."
-    van ""
+    van "Puta merda! Você deve ter realmente irritado alguém..."
 
 # game/script.rpy:20501
 translate pt_br bot_uni_951c6363:
 
     # shan "AMI! Is this your doing!?"
-    shan ""
+    shan "AMI! Isso é coisa tua?"
 
 # game/script.rpy:20502
 translate pt_br bot_uni_e024eb99:
 
     # ami "OF COURSE NOT!"
-    ami ""
+    ami "É CLARO QUE NÃO!"
 
 # game/script.rpy:20504
 translate pt_br bot_uni_cc41ed75:
 
     # kim "WAAAAAAAH!" with ssshake
-    kim "" with ssshake
+    kim "WAAAAAAAH!" with ssshake
 
 # game/script.rpy:20505
 translate pt_br bot_uni_78d0e3ea:
 
     # ami "Sis!"
-    ami ""
+    ami "Irmã!"
 
 # game/script.rpy:20507
 translate pt_br bot_uni_1e1f4619:
 
     # k "{i}[botname], what are you doing!?{/i}"
-    k ""
+    k "{i}[botname], o que você está fazendo!?{/i}"
 
 # game/script.rpy:20508
 translate pt_br bot_uni_31a08aa0:
 
     # bot "Having fun! Heheheheheh!"
-    bot ""
+    bot "Me divertindo! Heheheheheh!"
 
 # game/script.rpy:20509
 translate pt_br bot_uni_8adfa846:
 
     # k "{i}Fucking stop! Ergh, I swear to god! You better not hack me!{/i}"
-    k ""
+    k "{i}Para com isso, porra! Ergh, eu juro por deus! É bom você não me hackear!{/i}"
 
 # game/script.rpy:20511
 translate pt_br bot_uni_0a994f11:
 
     # ami "Wait... if she got hacked..."
-    ami ""
+    ami "Espera... se ela foi hackeada..."
 
 # game/script.rpy:20515
 translate pt_br bot_uni_24edc3e3:
 
     # ami "{b}AAAAAAAAAAAAAAAAAAAAAAAAAH!{/b}"
-    ami ""
+    ami "{b}AAAAAAAAAAAAAAAAAAAAAAAAAH!{/b}"
 
 # game/script.rpy:20516
 translate pt_br bot_uni_21f216c4:
 
     # shan "Oh, I guess not..."
-    shan ""
+    shan "Ah, acho que não..."
 
 # game/script.rpy:20518
 translate pt_br bot_uni_1368880e:
 
     # ami "What the fuck!? Turn it off Mrs. Shannon!"
-    ami ""
+    ami "Mas que porra!? Desliga isso, Sra. Shannon!"
 
 # game/script.rpy:20519
 translate pt_br bot_uni_2bb45e35:
 
     # shan "Okay, okay!"
-    shan ""
+    shan "Tá bom, tá bom!"
 
 # game/script.rpy:20521
 translate pt_br bot_uni_a390a1fd:
 
     # ami "{b}MRS. SHANNON!!!{/b}" with ssshake
-    ami "" with ssshake
+    ami "{b}SRA. SHANNON!!!{/b}" with ssshake
 
 # game/script.rpy:20522
 translate pt_br bot_uni_521cf1cc:
 
     # shan "I'm trying!"
-    shan ""
+    shan "Eu estou tentando!"
 
 # game/script.rpy:20524
 translate pt_br bot_uni_ca78c046:
 
     # ami "WAAAH! THAT'S SO EMBARRASSING!!!"
-    ami ""
+    ami "WAAAH! ISSO É TÃO CONSTRANGEDOR!!!"
 
 # game/script.rpy:20525
 translate pt_br bot_uni_d2b12b6e:
 
     # bot "Heheheheh, hahahahah!"
-    bot ""
+    bot "Heheheheh, hahahahah!"
 
 # game/script.rpy:20527
 translate pt_br bot_uni_ed18a336:
 
     # shan "Why doesn't this work!? I'm clicking the right button, aren't I!?"
-    shan ""
+    shan "Por que não está funcionando!? Eu estou apertando o botão certo, não estou?"
 
 # game/script.rpy:20528
 translate pt_br bot_uni_1870128b:
 
     # ami "FUCK, FUCK, FUCK! TURN IT OFF BEFORE-"
-    ami ""
+    ami "PORRA, PORRA, PORRA! DESLIGA ISSO ANTES QUE-"
 
 # game/script.rpy:20531
 translate pt_br bot_uni_3e2eb42d:
 
     # ami "{b}{i}OH. MY. GODDDDDDDDD!!!{/b}{/i}" with ssshake
-    ami "" with ssshake
+    ami "{b}{i}AI. MEU. DEEEEEEEEEUS!!!{/b}{/i}" with ssshake
 
 # game/script.rpy:20532
 translate pt_br bot_uni_80a4053b:
 
     # clas "*muttering*"
-    clas ""
+    clas "*murmurando*"
 
 # game/script.rpy:20533
 translate pt_br bot_uni_053e961e:
 
     # student "Fuck, you are so hot, Ami..."
-    student ""
+    student "Caralho, você é gostosa demais, Ami..."
 
 # game/script.rpy:20534
 translate pt_br bot_uni_63b1e8be:
 
     # ami "SHUT UP ANDERSON!"
-    ami ""
+    ami "CALA A BOCA, ANDERSON!"
 
 # game/script.rpy:20536
 translate pt_br bot_uni_3fd0c16a:
 
     # van "Knew you two got into some freaky shit...!"
-    van ""
+    van "Eu sabia que vocês duas tinham algum tipo de merda esquisita...!"
 
 # game/script.rpy:20537
 translate pt_br bot_uni_32f57862:
 
     # ami "WE DON'T! WE DON'T!!!"
-    ami ""
+    ami "NÓS NÃO TEMOS! NÓS NÃO TEMOS!!!"
 
 # game/script.rpy:20539
 translate pt_br bot_uni_e0f7b958:
 
     # ami "SHUT THE FUCKING POWER OFF OR SOMETHING!!"
-    ami ""
+    ami "DESLIGUE A PORRA DA ENERGIA OU ALGO ASSIM!!"
 
 # game/script.rpy:20540
 translate pt_br bot_uni_dacb45e0:
 
     # shan "Don't be ridiculous!"
-    shan ""
+    shan "Não seja ridícula!"
 
 # game/script.rpy:20541
 translate pt_br bot_uni_d75f8f6b:
 
     # c "{i}(I should probably stop this, but...){/i}"
-    c ""
+    c "{i}(Eu provavelmente deveria parar isso, mas...){/i}"
 
 # game/script.rpy:20543
 translate pt_br bot_uni_8af5407e:
 
     # kim "Ami...? That wasn't you, was-"
-    kim ""
+    kim "Ami...? Essa não era você, era-"
 
 # game/script.rpy:20545
 translate pt_br bot_uni_4da92862:
 
     # kim "{b}AAAAAAAAAAAAAAAAH!!!{/b}" with sshake
-    kim "" with sshake
+    kim "{b}AAAAAAAAAAAAAAAAH!!!{/b}" with sshake
 
 # game/script.rpy:20546
 translate pt_br bot_uni_9a602557:
 
     # ami "Kimmy, no!"
-    ami ""
+    ami "Kimmy, não!"
 
 # game/script.rpy:20548
 translate pt_br bot_uni_0c78f4c8:
 
     # kim "WAAAH! THIS ISN'T WHAT IT LOOKS LIKE!!"
-    kim ""
+    kim "WAAAH! ISSO NÃO É O QUE PARECE!!"
 
 # game/script.rpy:20549
 translate pt_br bot_uni_7652c6e9:
 
     # ami "We were just having fun! Harmless fun!! AGH!!!"
-    ami ""
+    ami "Nós estavamos só nos divertindo! Era só uma diversão inofensiva!! AGH!!!"
 
 # game/script.rpy:20551
 translate pt_br bot_uni_652b278c:
 
     # kim "*GASP*! AMI!?!? When did you take this!?"
-    kim ""
+    kim "*AAAH*! AMI?!? Quando foi que você tirou isso?!"
 
 # game/script.rpy:20552
 translate pt_br bot_uni_69585dea:
 
     # ami "I- ...It was just a prank!"
-    ami ""
+    ami "Eu- ...Isso era só uma pegadinha!"
 
 # game/script.rpy:20553
 translate pt_br bot_uni_d8bce43b:
 
     # kim "What the fuck!?"
-    kim ""
+    kim "Mas que porra!?"
 
 # game/script.rpy:20555
 translate pt_br bot_uni_e35af09b:
 
     # van "WHAT!?" with sshake
-    van "" with sshake
+    van "QUÊ!?" with sshake
 
 # game/script.rpy:20556
 translate pt_br bot_uni_3c64eacf:
 
     # shan "VANESSA!"
-    shan ""
+    shan "VANESSA!"
 
 # game/script.rpy:20557
 translate pt_br bot_uni_b5731295:
 
     # van "I-..."
-    van ""
+    van "Eu-..."
 
 # game/script.rpy:20559
 translate pt_br bot_uni_b8be2e0d:
 
     # bot "Heheheh, nice tan lines...!"
-    bot ""
+    bot "Heheheh, belas marcas de bronzeado...!""
 
 # game/script.rpy:20560
 translate pt_br bot_uni_8b8cf651:
 
     # van "Oh my fucking god...!"
-    van ""
+    van "Ai meu deus do céu...!"
 
 # game/script.rpy:20562
 translate pt_br bot_uni_41070e41:
 
     # ami "CAN YOU TURN IT OFF ALREADY!? Tell the fucking robot to shoot the projector or something!!"
-    ami ""
+    ami "VOCÊ JÁ PODE DESLIGAR ISSO!? Fala pra porra do robô atirar no projetor ou algo assim!!"
 
 # game/script.rpy:20563
 translate pt_br bot_uni_495872d8:
 
     # shan "Don't be ridiculous! I'll just call the technician."
-    shan ""
+    shan "Não seja ridícula! Eu já vou chamar o técnico."
 
 # game/script.rpy:20565
 translate pt_br bot_uni_3583f372:
 
     # shan "*GASP*! SHOOT IT! FUCKING SHOOT IT!" with ssshake
-    shan "" with ssshake
+    shan "*AAAH*! ATIRA! PORRA, ATIRA!" with ssshake
 
 # game/script.rpy:20566
 translate pt_br bot_uni_2ab0fbf1:
 
     # bot "Muahahaha!"
-    bot ""
+    bot "Muahhaha!"
 
 # game/script.rpy:20568
 translate pt_br bot_uni_20a07424:
 
     # ami "Doesn't fucking feel good, does it!?"
-    ami ""
+    ami "Não é uma sensação boa, né!?"
 
 # game/script.rpy:20569
 translate pt_br bot_uni_aa80fca0:
 
     # shan "I felt confident that day, okay...!? They were meant for my husband!"
-    shan ""
+    shan "Eu estava me sentindo confiante naquele dia, tá...!? Elas eram pro meu marido!"
 
 # game/script.rpy:20570
 translate pt_br bot_uni_055662d6:
 
     # shan "Fuck it! Class is dismissed! I'm getting the technician right now!"
-    shan ""
+    shan "Foda-se! A aula acabou! Eu vou chamar o técnico agora mesmo!"
 
 # game/script.rpy:20572
 translate pt_br bot_uni_1a2fe818:
 
     # k "Why aren't you fucking stopping this!?"
-    k ""
+    k "Por que que você não está parando essa porra!?"
 
 # game/script.rpy:20573
 translate pt_br bot_uni_070b3054:
 
     # c "You're right. [botname], stop. You know you shouldn't do that."
-    c ""
+    c "Você tem razão. [botname], chega. Você não deveria estar fazendo isso."
 
 # game/script.rpy:20575
 translate pt_br bot_uni_a9423f79:
 
     # bot "What? Why not...? It's so fun! And I was so borrrrrred..."
-    bot ""
+    bot "O quê? Por que não...? Isso é tão divertido! E eu estava tãããããão entediada..."
 
 # game/script.rpy:20576
 translate pt_br bot_uni_df2d8e55:
 
     # c "It was fun, trust me... but that's really hurting the people you're doing that to."
-    c ""
+    c "Foi divertido, é verdade... mas você está machucando muito as pessoas com quem você está fazendo isso."
 
 # game/script.rpy:20577
 translate pt_br bot_uni_bef4cc1b:
 
     # bot "I'm not actually hurting them! And I'll never see them again after this anyway, why does it matter?"
-    bot ""
+    bot "Eu não estou machucando ninguém de verdade. E eu nunca vou ver elas de novo depois disso, então qual é o problema?"
 
 # game/script.rpy:20578
 translate pt_br bot_uni_649f320c:
 
     # c "I thought you wanted to make new friends?"
-    c ""
+    c "Eu pensei que você quisesse fazer novos amigos?"
 
 # game/script.rpy:20579
 translate pt_br bot_uni_fd0227de:
 
     # bot "This is fun too..."
-    bot ""
+    bot "Isso é divertido também..."
 
 # game/script.rpy:20580
 translate pt_br bot_uni_3519916a:
 
     # c "Well, it matters because they're people with lives... and you're damaging their social standing because of this. The teacher could lose her job as well..."
-    c ""
+    c "Bem, o problema é que elas são pessoas com vidas... e você está prejudicando a posição social deles por causa disso. Inclusive a professoar pode acabar perdendo o emprego..."
 
 # game/script.rpy:20582
 translate pt_br bot_uni_7ef4d346:
 
     # bot "You show me off in public all the time!"
-    bot ""
+    bot "Você me expõe em público toda hora!"
 
 # game/script.rpy:20584
 translate pt_br bot_uni_aec1486b:
 
     # k "Yeah, me too, but that's because he has our fucking permission!"
-    k ""
+    k "Sim, a mim também, mas só por que ele tem a nossa permissão, porra!"
 
 # game/script.rpy:20585
 translate pt_br bot_uni_10f971b7:
 
     # bot "But..."
-    bot ""
+    bot "Mas..."
 
 # game/script.rpy:20587
 translate pt_br bot_uni_f2b068e4:
 
     # c "That's because I have your permission..."
-    c ""
+    c "Aquilo foi porque eu tive a sua permissão..."
 
 # game/script.rpy:20588
 translate pt_br bot_uni_10f971b7_1:
 
     # bot "But..."
-    bot ""
+    bot "Mas..."
 
 # game/script.rpy:20589
 translate pt_br bot_uni_8a8f09bb:
 
     # c "It might be fun to do what you did, but that doesn't mean it was just."
-    c ""
+    c "Pode ter sido divertido ter feito  que você fez, mas isso não significa que foi justo."
 
 # game/script.rpy:20590
 translate pt_br bot_uni_ecc3d560:
 
     # bot "Just...?"
-    bot ""
+    bot "Justo...?"
 
 # game/script.rpy:20591
 translate pt_br bot_uni_a97a0dba:
 
     # bot "Okay... I'll try to be 'just'..."
-    bot ""
+    bot "Tá bom... eu vou tentar ser 'justa'...."
 
 # game/script.rpy:20593
 translate pt_br bot_uni_7333f294:
 
     # k "*sigh of relief*... finally, you learned your lesson..."
-    k ""
+    k "*ufa*... finalmente, você aprendeu sua lição..."
 
 # game/script.rpy:20594
 translate pt_br bot_uni_eabcb655:
 
     # c "{size=-5}{i}Psst, can you send those photos to my computer?{/i}{/size}"
-    c ""
+    c "{size=-5}{i}Psiu, você pode enviar as fotos pro meu computador?{/i}{/size}"
 
 # game/script.rpy:20595
 translate pt_br bot_uni_1824b2e9:
 
     # bot "{size=-5}{i}Heheh, sure...!{/i}{/size}"
-    bot ""
+    bot "{size=-5}{i}Heheh, claro...!{/i}{/size}"
 
 # game/script.rpy:20597
 translate pt_br bot_uni_e50d10b2:
 
     # ami "Kali..."
-    ami ""
+    ami "Kali..."
 
 # game/script.rpy:20598
 translate pt_br bot_uni_ec02c06f:
 
     # k "Huh? Hm?"
-    k ""
+    k "Huh? Hum?"
 
 # game/script.rpy:20599
 translate pt_br bot_uni_ac5c93b4:
 
     # bot "Hey~ Nice boobies!"
-    bot ""
+    bot "EI~ Belas tetas!"
 
 # game/script.rpy:20600
 translate pt_br bot_uni_fe5d4d72:
 
     # kim "Nnnn..."
-    kim ""
+    kim "Nnnn..."
 
 # game/script.rpy:20601
 translate pt_br bot_uni_a1d487a0:
 
     # ami "I didn't see your photo up there..."
-    ami ""
+    ami "Eu não vi a sua foto lá..."
 
 # game/script.rpy:20602
 translate pt_br bot_uni_d929e640:
 
     # k "Maybe that's because I don't take any nudes... I have a boyfriend, we actually fuck..."
-    k ""
+    k "Talvez seja porque eu não tiro fotos nuas... Eu tenho um namorado, nós realmente transamos...""
 
 # game/script.rpy:20603
 translate pt_br bot_uni_34ef83d1:
 
     # ami "If anything, having a boyfriend is cause for more nudes! What are you hiding new girl!?"
-    ami ""
+    ami "Na verdade, ter namorado é motivo de mais nudes! O que você está escondendo, garota nova!?"
 
 # game/script.rpy:20604
 translate pt_br bot_uni_75164bc8:
 
     # k "Nothing! I didn't have anything to do with it, I swear!"
-    k ""
+    k "Nada! Eu não tive nada a ver com isso, eu juro!"
 
 # game/script.rpy:20605
 translate pt_br bot_uni_a87a5bdd:
 
     # bot "She's not lying!"
-    bot ""
+    bot "Ela não está mentindo!"
 
 # game/script.rpy:20606
 translate pt_br bot_uni_7d77b3dc:
 
     # ami "EVERYONE THINKS WE'RE INCESTUOUS LESBIANS NOW!"
-    ami ""
+    ami "TODO MUNDO PENSA QUE SOMOS LÉSBICAS INCESTUOSAS AGORA!"
 
 # game/script.rpy:20607
 translate pt_br bot_uni_e48859dd:
 
     # ami "You know, some people are saying you're some kinda hacker spy for Trenero Inc... you're not trying to sow dissent in our schools, are you?"
-    ami ""
+    ami "Sabe, algumas pessoas estão dizendo que você é algum tipo de espião hacker da trenero Inc... você não está tentando semear discórdia nas nossas escolas, está?"
 
 # game/script.rpy:20608
 translate pt_br bot_uni_6ec8167f:
 
     # k "What!? What are you even talking about?"
-    k ""
+    k "O quê!? Do que é que você está falando?"
 
 # game/script.rpy:20609
 translate pt_br bot_uni_8f363fe7:
 
     # ami "I'll have you know I'm very skilled in hacking as well, so if you had anything to do with this, I will find out!"
-    ami ""
+    ami "Eu quero que você fique sabendo que eu sou muito habilidosa com hacks também, então se você tiver alguma coisa a ver com isso, eu vou descobrir!"
 
 # game/script.rpy:20610
 translate pt_br bot_uni_e3df99dd:
 
     # k "Okay, sheesh... can I go back to work?"
-    k ""
+    k "Tá bom, nossa... posso voltar a trabalhar?"
 
 # game/script.rpy:20611
 translate pt_br bot_uni_33504254:
 
     # ami "Hmmm..."
-    ami ""
+    ami "Hmmmm..."
 
 # game/script.rpy:20614
 translate pt_br bot_uni_7c3c8f8d:
 
     # c "Hey, hey... why don't I buy everyone lunch to get our minds off things?"
-    c ""
+    c "Ei, ei... por que não compro um almoço para todo mundo para tirarmos a cabeça dessas coisas?"
 
 # game/script.rpy:20615
 translate pt_br bot_uni_c3818da1:
 
     # ami "What!? You saw our bodies and now you're asking us out? TOGETHER!?"
-    ami ""
+    ami "O quê!? Você viu todos os nossos corpos e agora está falando pra nós sairmos? JUNTOS!?"
 
 # game/script.rpy:20616
 translate pt_br bot_uni_77433b35:
 
     # c "No, no! My friend [botname] here is... new in town. She would love to make new friends."
-    c ""
+    c "nÃO, NÃO! A minha amiga aqui, a [botname]... é nova na cidade. Ela adoraria fazer novas amizades."
 
 # game/script.rpy:20619
 translate pt_br bot_uni_3652fc00:
 
     # kim "Oh, that's right... he's a landlord."
-    kim ""
+    kim "Ah, é verdade... ele é o proprietário."
 
 # game/script.rpy:20620
 translate pt_br bot_uni_816ee074:
 
     # c "Hotel manager."
-    c ""
+    c "O gerente de hotel."
 
 # game/script.rpy:20621
 translate pt_br bot_uni_c7d6d514:
 
     # kim "He probably has lots of guests... Kali is one as well."
-    kim ""
+    kim "Ele provavelmente tem vários clientes... A Kali é uma deles."
 
 # game/script.rpy:20622
 translate pt_br bot_uni_0907ba9a:
 
     # ami "Oh, really? Class was just dismissed..."
-    ami ""
+    ami "Ah, é mesmo? As aulas acabaram de terminar..."
 
 # game/script.rpy:20624
 translate pt_br bot_uni_f6662328:
 
     # ami "Free lunch?"
-    ami ""
+    ami "ALmoço de graça?"
 
 # game/script.rpy:20625
 translate pt_br bot_uni_13ef3fc3:
 
     # kim "Free lunch!"
-    kim ""
+    kim "Almoço de graça!"
 
 # game/script.rpy:20630
 translate pt_br bot_uni_3703a902:
 
     # bot "Stop? But why? Don't you like seeing titties?"
-    bot ""
+    bot "Parar? Mas por que? Você não gosta de ver tetas?"
 
 # game/script.rpy:20631
 translate pt_br bot_uni_52e17e16:
 
     # c "Sure, but how do you think they feel about it?"
-    c ""
+    c "Claro, mas como você acha que elas estão e sentindo sobre isso?"
 
 # game/script.rpy:20632
 translate pt_br bot_uni_9a59557e:
 
     # bot "Probably not that good..."
-    bot ""
+    bot "Não bem, provavelmente..."
 
 # game/script.rpy:20633
 translate pt_br bot_uni_2ed60296:
 
     # k "You can't just steal nudes, [botname]! Come on!"
-    k ""
+    k "Você não pode simplesmente sair roubando nudes, [botname]! Fala sério! "
 
 # game/script.rpy:20635
 translate pt_br bot_uni_c12deceb:
 
     # "You and Android sit silently through the next hour..."
-    ""
+    "Você e a Andróide se sentam silenciosamente pela hora seguinte..."
 
 # game/script.rpy:20637
 translate pt_br bot_uni_af432a28:
 
     # k "*sigh*, that was rough..."
-    k ""
+    k "*ugh*, isso foi dureza..."
 
 # game/script.rpy:20638
 translate pt_br bot_uni_8916487e:
 
     # bot "Aw come on, it wasn't that bad. You know half this stuff already."
-    bot ""
+    bot "Aw, vamos lá, isso não foi tão ruim. Você já sabe metade dessas coisas."
 
 # game/script.rpy:20640
 translate pt_br bot_uni_fe9ab234:
 
     # c "My friend here is new in town and looking to make some new friends. Would you like grab some coffee together?"
-    c ""
+    c "Minha amiga aqui é nova na cidade e está tentando fazer uns amigos novos. Vocês não gostariam de tomar um café juntas?"
 
 # game/script.rpy:20641
 translate pt_br bot_uni_6b348c6b:
 
     # ami "The white haired one? She seems interesting."
-    ami ""
+    ami "A de cabelo branco? Ela parece interessante."
 
 # game/script.rpy:20642
 translate pt_br bot_uni_d340bf11:
 
     # kim "She doesn't go to this school though..."
-    kim ""
+    kim "Mas ela não vai para essa escola..."
 
 # game/script.rpy:20644
 translate pt_br bot_uni_b6d75732:
 
     # ami "Free lunch though?"
-    ami ""
+    ami "Mesmo assim, almoço de graça?"
 
 # game/script.rpy:20645
 translate pt_br bot_uni_13ef3fc3_1:
 
     # kim "Free lunch!"
-    kim ""
+    kim "Almoço de graça."
 
 # game/script.rpy:20651
 translate pt_br bot_uni_e3d4ea7e:
 
     # ami "Okay, we'll go with you. Thanks Mr. uh... landlord."
-    ami ""
+    ami "Tudo bem, nós vamos com voê. Origada Sr. hum... proprietário."
 
 # game/script.rpy:20652
 translate pt_br bot_uni_5e96a022:
 
     # c "You can call me [name]..."
-    c ""
+    c "Você pode me chamar de [name]..."
 
 # game/script.rpy:20654
 translate pt_br bot_uni_26fe241d:
 
     # c "Let's head out!"
-    c ""
+    c "Vamos sair logo!"
 
 # game/script.rpy:20655
 translate pt_br bot_uni_b961b91d:
 
     # k "Sorry, I'm really behind..."
-    k ""
+    k "Desculpa, estou muito atrasada..."
 
 # game/script.rpy:20656
 translate pt_br bot_uni_2c6523cc:
 
     # bot "Aww, okay... well I'm excited!"
-    bot ""
+    bot "Own, tá bom... eu bem que estou excitada!"
 
 # game/script.rpy:20658
 translate pt_br bot_uni_7f0e1a76:
 
     # ami "Where are you taking us?"
-    ami ""
+    ami "PAra onde você está nos levando?"
 
 # game/script.rpy:20659
 translate pt_br bot_uni_3aab7dd4:
 
     # c "Corpus Cafe."
-    c ""
+    c "Para a Cafeteria Corpus."
 
 # game/script.rpy:20660
 translate pt_br bot_uni_e07f6791:
 
     # ami "Oh my favorite, I'm down!"
-    ami ""
+    ami "Ah, o meu favorito, estou dentro!"
 
 # game/script.rpy:20661
 translate pt_br bot_uni_cf142be1:
 
     # kim "I'd love a breakfast bagel! Let's do it!"
-    kim ""
+    kim "Eu adoraria um bagel de café da manhã! Vamos lá!"
 
 # game/script.rpy:20663
 translate pt_br bot_uni_cbaf9751:
 
     # ami "Okay, we'll go with you... we'll also have to take your car because we got here by monorail."
-    ami ""
+    ami "Tá bom, nós vamos com você... e nós também vamos precisar usar o seu carro porque viemos aqui de monotrilho."
 
 # game/script.rpy:20664
 translate pt_br bot_uni_867c6044:
 
     # ami "You'd better not rape us..."
-    ami ""
+    ami "É melhor você não nos estuprar..."
 
 # game/script.rpy:20665
 translate pt_br bot_uni_626f58c0:
 
     # kim "I have two rape whistles! You've been warned..."
-    kim ""
+    kim "Eu tenho dois apitos de estupro! Você foi avisado..."
 
 # game/script.rpy:20666
 translate pt_br bot_uni_969aff2f:
 
     # c "Hah. Hah."
-    c ""
+    c "Hah. Hah."
 
 # game/script.rpy:20667
 translate pt_br bot_uni_3812236c:
 
     # bot "I'll protect you!"
-    bot ""
+    bot "Eu vou te proteger!"
 
 # game/script.rpy:20668
 translate pt_br bot_uni_74252150:
 
     # ami "Heheh, thanks..."
-    ami ""
+    ami "Heheh, obrigada..."
 
 # game/script.rpy:20671
 translate pt_br bot_uni_31585291:
 
     # "You drive [botname], Kim, and Ami to your favorite cafe. After ordering, you all sit down..."
-    ""
+    "Você dirige levando [botname], Kim e Ami para a sua cafeteria favorita. Depois de ordenar, vocês todos se sentam..."
 
 # game/script.rpy:20673
 translate pt_br bot_uni_679763e6:
 
     # ami "Thanks for the food! We love trying new places."
-    ami ""
+    ami "Obrigada pela comida! Nós adoramos experimentar lugares novos."
 
 # game/script.rpy:20675
 translate pt_br bot_uni_d6d2950e:
 
     # ami "I guess I'll address the elephant in the room... quite the way to meet, right...?"
-    ami ""
+    ami "Acho que vou abordar o elefante na sala... que bela maneira de conhecer pessoas, não é mesmo?"
 
 # game/script.rpy:20676
 translate pt_br bot_uni_0318b218:
 
     # ami "Uhhh... we were... drunk. You know how it goes..."
-    ami ""
+    ami "Hummm... nós estávamos... bêbadas. Você sabe como a história termina..."
 
 # game/script.rpy:20677
 translate pt_br bot_uni_666c26f7:
 
     # c "You didn't look drunk. But you don't need to find an excuse for me..."
-    c ""
+    c "Você não parecia bêbada. Mas você não precisa encontrar desculpas para mim..."
 
 # game/script.rpy:20678
 translate pt_br bot_uni_ab6c502e:
 
     # ami "Haha, okay..."
-    ami ""
+    ami "Haha, tá bom..."
 
 # game/script.rpy:20680
 translate pt_br bot_uni_f4554a92:
 
     # ami "So! Who's the new-new girl? Are you thinking of joining Syltech too?"
-    ami ""
+    ami "Então! Quem é a nova garota? Você está planejando entrar na Syltech também?"
 
 # game/script.rpy:20681
 translate pt_br bot_uni_234bf42a:
 
     # bot "Ummm, maybe! I don't know... I never really saw myself going to school."
-    bot ""
+    bot "Hummm, talvez! Eu não sei... Eu nunca me imaginei indo à escola."
 
 # game/script.rpy:20682
 translate pt_br bot_uni_5bec892d:
 
     # ami "What are you saying? Haha, you never went to school?"
-    ami ""
+    ami "Do que você está falando? Haha, você nunca foi à escola?"
 
 # game/script.rpy:20683
 translate pt_br bot_uni_341328cc:
 
     # bot "Nnnnnyes..?"
-    bot ""
+    bot "Nnnnnsim..?"
 
 # game/script.rpy:20684
 translate pt_br bot_uni_e869d212:
 
     # ami "Ahaha, oh you were homeschooled!"
-    ami ""
+    ami "Ahaha, você foi educada em casa!"
 
 # game/script.rpy:20685
 translate pt_br bot_uni_88267ed5:
 
     # bot "Yes!"
-    bot ""
+    bot "Sim!"
 
 # game/script.rpy:20686
 translate pt_br bot_uni_69ade848:
 
     # ami "Why didn't you just lead with that? That's fine, I promise it's a lot of fun!"
-    ami ""
+    ami "Por que você não começou com isso? Tudo bem, eu prometo que é muito divertido!"
 
 # game/script.rpy:20687
 translate pt_br bot_uni_9e433412:
 
     # bot "Have you made any... friends?"
-    bot ""
+    bot "Você fez algum... amigo?"
 
 # game/script.rpy:20688
 translate pt_br bot_uni_75deaa3a:
 
     # ami "Friends? Sure, that's half the reason you go to school after all, isn't it?"
-    ami ""
+    ami "Amigos? Claro, afinal essa é a metade dos motivos pelo qual você vai à escola, não é?"
 
 # game/script.rpy:20690
 translate pt_br bot_uni_d0944e2c:
 
     # kim "Vanessa and I met at a slave market. Our parents are masters... we were there to buy a slave, she was there to protest the place. After we realized we went to the same school, the rest was history!"
-    kim ""
+    kim "Eu e a Vanessa nos conhecemos no mercado de escravos. Os nossos pais são mestres... nós estávamos lá para comprar um escravo, ela estava lá para protestar contra o lugar. Nós percebemos que estudamos na mesma escola, e o resto foi história!"
 
 # game/script.rpy:20691
 translate pt_br bot_uni_1e0d7c26:
 
     # ami "And I met Kimmy after I came out of the womb, hehe!"
-    ami ""
+    ami "E eu conheci a Kimmy assim que eu saí do ventre, hehe!"
 
 # game/script.rpy:20693
 translate pt_br bot_uni_12c28154:
 
     # ami "Why are you looking for new friends? You're not lonely are you? That sucks..."
-    ami ""
+    ami "Por que você está procurando novos amigos? Você não está carente, está? Isso é um saco..."
 
 # game/script.rpy:20694
 translate pt_br bot_uni_9d8e1612:
 
     # bot "I'm kinda just bored..."
-    bot ""
+    bot "Eu meio que estou só entediada..."
 
 # game/script.rpy:20696
 translate pt_br bot_uni_1ee77ec4:
 
     # kim "You must have a hobby, right?"
-    kim ""
+    kim "Você deve ter um hobby, não é?"
 
 # game/script.rpy:20697
 translate pt_br bot_uni_0dd8a2c0:
 
     # bot "...Does browsing the internet late at night count as a hobby?"
-    bot ""
+    bot "...Pesquisar na internet a tarde da noite conta como hobby?"
 
 # game/script.rpy:20698
 translate pt_br bot_uni_1d9c8ea2:
 
     # kim "Heheh, noooo..."
-    kim ""
+    kim "Heheh, nããão..."
 
 # game/script.rpy:20699
 translate pt_br bot_uni_693b7117:
 
     # bot "Hmmm... does sex count as a hobby? I'm great at that!"
-    bot ""
+    bot "Hmmm... e sexo, conta como hobby? Eu sou ótima nisso!
 
 # game/script.rpy:20701
 translate pt_br bot_uni_0088319c:
 
     # ami "Oh! That's uh... blunt..."
-    ami ""
+    ami "Ah! Isso foi hum... franco..."
 
 # game/script.rpy:20702
 translate pt_br bot_uni_1514140f:
 
     # kim "I guess... you could consider it a hobby..."
-    kim ""
+    kim "Eu acho... que dá para considerar isso como um hobby..."
 
 # game/script.rpy:20704
 translate pt_br bot_uni_7ab0c6f6:
 
     # ami "No! Like do you paint? Or play the piano or anything?"
-    ami ""
+    ami "Não! Tipo, você pinta? OU toca piano ou algumacoisa assim?"
 
 # game/script.rpy:20705
 translate pt_br bot_uni_53939e36:
 
     # bot "Sure, I could do either of those."
-    bot ""
+    bot "Claro, eu consigo fazer os dois."
 
 # game/script.rpy:20706
 translate pt_br bot_uni_0c558ce8:
 
     # ami "Really!? You're an artist AND a musician?"
-    ami ""
+    ami "É sério!? Você é uma artista E uma musicista?"
 
 # game/script.rpy:20707
 translate pt_br bot_uni_8b603f69:
 
     # bot "I... I guess...?"
-    bot ""
+    bot "Eu... eu acho...?"
 
 # game/script.rpy:20708
 translate pt_br bot_uni_fd15250f:
 
     # bot "I can run pretty fast too..."
-    bot ""
+    bot "Eu consigo correr bem rápido também..."
 
 # game/script.rpy:20710
 translate pt_br bot_uni_909cb993:
 
     # kim "And you're an athlete!?"
-    kim ""
+    kim "E ainda é uma atleta?"
 
 # game/script.rpy:20711
 translate pt_br bot_uni_eb980cdf:
 
     # bot "Sure! I could even answer any math question you give me!"
-    bot ""
+    bot "É clarp! E eu também consiguiria responder qualquer questão matemática que você me fizesse!"
 
 # game/script.rpy:20713
 translate pt_br bot_uni_2a1aa0ea:
 
     # kim "No way! What's 748 divided by 23?"
-    kim ""
+    kim "Não acredito! Quanto é 748 dividido por 23?"
 
 # game/script.rpy:20714
 translate pt_br bot_uni_aac65014:
 
     # bot "32.5217!"
-    bot ""
+    bot "32.5217!"
 
 # game/script.rpy:20716
 translate pt_br bot_uni_0b3c7cb4:
 
     # ami "Oh, that's oddly specific... I don't even know if that's right... I didn't expect you to try honestly."
-    ami ""
+    ami "Ah, isso eé estranhamente específico... Nem eu mesma sei se isso está certo... Eu realmente não esperava que você tentasse responder."
 
 # game/script.rpy:20717
 translate pt_br bot_uni_98152b8b:
 
     # bot "It is right! Give me another!"
-    bot ""
+    bot "Mas está certo! Me faz outra!"
 
 # game/script.rpy:20719
 translate pt_br bot_uni_88f2114a:
 
     # ami "I'll take your word for it, heheh."
-    ami ""
+    ami "Acho que vou acreditar na sua palavra, heheh"
 
 # game/script.rpy:20721
 translate pt_br bot_uni_c0c90ea8:
 
     # kim "You're so talented!"
-    kim ""
+    kim "Você é tão talentosa!"
 
 # game/script.rpy:20722
 translate pt_br bot_uni_d0218465:
 
     # ami "What's your secret?"
-    ami ""
+    ami "Qual é o seu segredo?"
 
 # game/script.rpy:20723
 translate pt_br bot_uni_27713962:
 
     # c "She can cook perfect food as well."
-    c ""
+    c "Ela também consegue cozinhar perfeitamente."
 
 # game/script.rpy:20724
 translate pt_br bot_uni_e32ed5b7:
 
     # ami "AND you're a chef!? I'm jelly! I couldn't fry a steak to save my life..."
-    ami ""
+    ami "E ainda é uma chef!? Que inveja! Eu não seria capaz de fritar um bife pra salvar a minha vida..."
 
 # game/script.rpy:20725
 translate pt_br bot_uni_d7e6c3d7:
 
     # bot "Yes! I'm also a chef! Thank you so much!"
-    bot ""
+    bot "Sim! Também sou uma chef! Muito obrigada!"
 
 # game/script.rpy:20726
 translate pt_br bot_uni_8618db67:
 
     # bot "I can also speak common, elvish, and 3 other languages fluently!"
-    bot ""
+    bot ""Eu também sei falar em élfico comum e mais três línguas fluentemente!
 
 # game/script.rpy:20727
 translate pt_br bot_uni_70c83b90:
 
     # ami "Oh, um... you're not lying, are you? You're very experienced for someone your age..."
-    ami ""
+    ami "Ah, hum... você não está mentindo, está? Você é experiente demais pra alguém da sua idade..."
 
 # game/script.rpy:20729
 translate pt_br bot_uni_3d6a949b:
 
     # bot "No, not at all! I'm very serious!"
-    bot ""
+    bot "Não, não estou mesmo! Estou falando sério!"
 
 # game/script.rpy:20730
 translate pt_br bot_uni_a49a9c46:
 
     # bot "I can even make lightning come out of my hands!"
-    bot ""
+    bot "Eu posso até fazer raios saírem das minhas mãos!"
 
 # game/script.rpy:20731
 translate pt_br bot_uni_297d93f3:
 
     # c "What?"
-    c ""
+    c "Quê?"
 
 # game/script.rpy:20732
 translate pt_br bot_uni_b8a5012a:
 
     # kim "Huh?"
-    kim ""
+    kim "Huh?"
 
 # game/script.rpy:20734
 translate pt_br bot_uni_c94f276f:
 
     # ami "Haha! Oh my god, the look on your face! You looked so serious!"
-    ami ""
+    ami "Haha! Ai meu deus, a sua cara! Você parecia estar falando tão sério?"
 
 # game/script.rpy:20735
 translate pt_br bot_uni_a46d2319:
 
     # bot "I am! Look!"
-    bot ""
+    bot "Eu estou! Olha!"
 
 # game/script.rpy:20739
 translate pt_br bot_uni_55cac9c8:
 
     # ami "AAH!" with ssshake
-    ami "" with ssshake
+    ami "AAH!" with ssshake
 
 # game/script.rpy:20741
 translate pt_br bot_uni_dcaa81a0:
 
     # ami "W-What the fuck!?"
-    ami ""
+    ami "M-Mas que porra!?"
 
 # game/script.rpy:20742
 translate pt_br bot_uni_1e32793c:
 
     # kim "Oooh, a magician too!"
-    kim ""
+    kim "Aaah, e é mágica também!"
 
 # game/script.rpy:20743
 translate pt_br bot_uni_e278732a:
 
     # bot "Yeah, see!"
-    bot ""
+    bot "Sim, olha!"
 
 # game/script.rpy:20744
 translate pt_br bot_uni_24a2f5d0:
 
     # ami "I- I see! Um...! Can you put that away?"
-    ami ""
+    ami "Eu-Eu consegui ver! Hum...! Você pode parar com isso?"
 
 # game/script.rpy:20746
 translate pt_br bot_uni_c3229e8a:
 
     # kim "Teach me! I can't even do the quarter thing..."
-    kim ""
+    kim "Me ensina! Eu não consigo nem fazer a coisa da moeda."
 
 # game/script.rpy:20747
 translate pt_br bot_uni_4d9ff8e3:
 
     # ami "Kim, that was fucking real...!"
-    ami ""
+    ami "Kim, essa porra foi de verdade...!"
 
 # game/script.rpy:20749
 translate pt_br bot_uni_43d63cec:
 
     # ami "Do you work for the government!? Are you a Nero operative? What the FUCK is going on!? You won't get anything out of me!"
-    ami ""
+    ami "Você trabalha pro governo!? Você é uma operativa da Nero? Que PORRA é essa que está acontecendo!? Você não vai conseguir nada de mim!"
 
 # game/script.rpy:20750
 translate pt_br bot_uni_f997e1a6:
 
     # c "Ummm... [botname], why did you do that?"
-    c ""
+    c "Hummm... [botname], por que você fez isso?"
 
 # game/script.rpy:20751
 translate pt_br bot_uni_ee0420ef:
 
     # bot "They thought I was lying...!"
-    bot ""
+    bot "Elas pensaram que eu estava mentindo...!"
 
 # game/script.rpy:20753
 translate pt_br bot_uni_3a7fb7f1:
 
     # ami "Wait... the white hair..."
-    ami ""
+    ami "Espera... o cabelo branco..."
 
 # game/script.rpy:20754
 translate pt_br bot_uni_36dc17a9:
 
     # ami "You're a... you're a robot?"
-    ami ""
+    ami "Você é... um robô?"
 
 # game/script.rpy:20755
 translate pt_br bot_uni_bc874cfd:
 
     # bot "Android..."
-    bot ""
+    bot "Um andróide..."
 
 # game/script.rpy:20757
 translate pt_br bot_uni_c7896d38:
 
     # ami "Is this some kind of joke...? Why are you making her do this? Who's controlling her?"
-    ami ""
+    ami "Isso é um tipo de piada...? Por que você está fazendo ela fazer isso? Quem está controlando ela?"
 
 # game/script.rpy:20758
 translate pt_br bot_uni_4c5e9da9:
 
     # c "You really put me in an awkward situation, [botname]... Fuck."
-    c ""
+    c "Porra... você realmente me colocou num  situação esquisita, [botname...]"
 
 # game/script.rpy:20760
 translate pt_br bot_uni_16c02a9c:
 
     # bot "No one controls me, not anymore! Only I control me now!"
-    bot ""
+    bot "Ninguém me controla, não mais! Apenas eu me controlo agora!"
 
 # game/script.rpy:20761
 translate pt_br bot_uni_a42a8e52:
 
     # bot "Please don't be mean... I only wanted to impress you..."
-    bot ""
+    bot "Por favor, não sejam rudes... eu só queria impressionar vocês..."
 
 # game/script.rpy:20763
 translate pt_br bot_uni_788d6c1e:
 
     # ami "Well, it was very nice meeting you [name], but I think we're late for something, right Kimmy?"
-    ami ""
+    ami "Bem, foi muito bom te conhecer, [name], mas eu acoh que estamos atrasadas para algo, não estamos, Kimmy?"
 
 # game/script.rpy:20764
 translate pt_br bot_uni_6deccf24:
 
     # kim "Class doesn't start for another 30 minutes..."
-    kim ""
+    kim "A aula ainda não vai começar por mais 30 minutos..."
 
 # game/script.rpy:20765
 translate pt_br bot_uni_b9ce6979:
 
     # ami "It will take a while to get back by taxi, Kim!"
-    ami ""
+    ami "Vai levar um tempo para voltarmos de taxi, Kim!"
 
 # game/script.rpy:20766
 translate pt_br bot_uni_3a1cfd93:
 
     # kim "Taxi...?"
-    kim ""
+    kim "Taxi..?"
 
 # game/script.rpy:20767
 translate pt_br bot_uni_2828714a:
 
     # bot "No! Don't go! Don't you want to be friends?"
-    bot ""
+    bot "Não! Não vão! Vocês não querem ser minhas amigas?"
 
 # game/script.rpy:20769
 translate pt_br bot_uni_96757b53:
 
     # ami "KIMMY!" with ssshake
-    ami "" with ssshake
+    ami "KIMMY!" with ssshake
 
 # game/script.rpy:20770
 translate pt_br bot_uni_700a4d86:
 
     # kim "Okay, okay!"
-    kim ""
+    kim "Tá bom, tá bom!"
 
 # game/script.rpy:20772
 translate pt_br bot_uni_010c5e78:
 
     # ami "{i}{size=-5}Oh my god, what a freak...{/i}{/size}"
-    ami ""
+    ami "{i}{size=-5}Ai meu deus, que aberração...{/i}{/size}"
 
 # game/script.rpy:20773
 translate pt_br bot_uni_92430836:
 
     # bot "Hey, wait!"
-    bot ""
+    bot "Ei, espera!"
 
 # game/script.rpy:20774
 translate pt_br bot_uni_33211e7d:
 
     # kim "{i}{size=-5}She didn't seem so bad...{/i}{/size}"
-    kim ""
+    kim "{i}{size=-5}Ela não parecia ser tão ruim assim...{/i}{/size}"
 
 # game/script.rpy:20775
 translate pt_br bot_uni_43815d91:
 
     # ami "{i}{size=-5}She isn't fucking real, Kim! He's just a perv!{/i}{/size}"
-    ami ""
+    ami "{i}{size=-5} Kim, ela não é real, porra! Ele é só um pervertido!{/i}{/size}"
 
 # game/script.rpy:20776
 translate pt_br bot_uni_47b102d0:
 
     # bot "Stooooop!"
-    bot ""
+    bot "Paaraaa!"
 
 # game/script.rpy:20777
 translate pt_br bot_uni_7e8b08c3:
 
     # ami "{i}{size=-5}If she gets up, fucking run...!{/i}{/size}"
-    ami ""
+    ami "{i}{size=-5}Se ela se levantar, corre, caralho...!{/i}{/size}"
 
 # game/script.rpy:20779
 translate pt_br bot_uni_18fa6864:
 
     # bot "But... I-..."
-    bot ""
+    bot "Mas... Eu-..."
 
 # game/script.rpy:20781
 translate pt_br bot_uni_bcb576eb:
 
     # bot "Rrrrgh!" with ssshake
-    bot "" with ssshake
+    bot "Rrrrgh!" with ssshake
 
 # game/script.rpy:20783
 translate pt_br bot_uni_e412323d:
 
     # bot "YOU WANT TO TALK ABOUT FREAKS? I'M NOT THE ONE FUCKING MY SISTER!" with ssshake
-    bot "" with ssshake
+    bot "VOCÊ QUER FALAR DE ABERRAÇÕES? NÃO SOU EU QUEM ESTÁ FODENDO A MINHA IRMÃ!" with ssshake
 
 # game/script.rpy:20784
 translate pt_br bot_uni_bc67b0d1:
 
     # ami "Ah, run!"
-    ami ""
+    ami "Ah, corre!"
 
 # game/script.rpy:20785
 translate pt_br bot_uni_fdf8ee61:
 
     # bot "NNNGH! Get back here!!"
-    bot ""
+    bot "NNNGH! Voltem aqui!"
 
 # game/script.rpy:20787
 translate pt_br bot_uni_0d765542:
 
     # bot "I WAS THE ONE WHO HACKED YOU! I HACKED EVERYONE! I CAN FIND OUT EVERYTHING ABOUT YOU!" with ssshake
-    bot "" with ssshake
+    bot "FUI EU QUEM TE HACKEOU! EU HACKEEI TODO MUNDO! EU POSSO DESCOBRIR TUDO SOBRE VOCÊ!" with ssshake
 
 # game/script.rpy:20788
 translate pt_br bot_uni_3e068167:
 
     # bot "I'LL SHARE YOUR NUDES ALL OVER THE FUCKING INTERNET! EVERYONE WILL KNOW WHERE YOU LIVE!!!" with ssshake
-    bot "" with ssshake
+    bot "EU VOU ESPALHAR TODAS AS SUAS NUDES PELA PORRA DA INTERNET! TODO MUNDO VAI SABER AONDE VOCÊ VIVE!!!" with ssshake
 
 # game/script.rpy:20789
 translate pt_br bot_uni_eed0925a:
 
     # ami "Oh my god, go!!!"
-    ami ""
+    ami "Ah meu deus, vai logo!!!"
 
 # game/script.rpy:20791
 translate pt_br bot_uni_c8fceb19:
 
     # c "[botname]..."
-    c ""
+    c "[botname]...."
 
 # game/script.rpy:20792
 translate pt_br bot_uni_b60a2f47:
 
     # bot "*sniff*! Fucking leave, bitches! *sniff*! I never wanted to be your friends anyway!"
-    bot ""
+    bot "*sniff*! Vão embora, suas putas! *sniff*! Eu nunca quis ser amiga de vocês, mesmo!"
 
 # game/script.rpy:20793
 translate pt_br bot_uni_84db354b:
 
     # c "[botname], calm down... let's get out of here."
-    c ""
+    c "[botname], fica calma... vamos sair daqui."
 
 # game/script.rpy:20794
 translate pt_br bot_uni_93e10a4f:
 
     # bot "No! *sniff*! Fuck you!"
-    bot ""
+    bot "Não! *sniff*! Vai se foder!"
 
 # game/script.rpy:20795
 translate pt_br bot_uni_cb46feb3:
 
     # c "[botname]!"
-    c ""
+    c "[botname]!"
 
 # game/script.rpy:20797
 translate pt_br bot_uni_f04649b2:
 
     # bot "*sniff*! ...Fine!"
-    bot ""
+    bot "*sniff*! ...Tá!"
 
 # game/script.rpy:20800
 translate pt_br bot_uni_72dc2244:
 
     # bot "*sniff*...! *sob*..."
-    bot ""
+    bot "*sniff*...! *sob*..."
 
 # game/script.rpy:20801
 translate pt_br bot_uni_ad783894:
 
     # c "That was rough... are you okay?"
-    c ""
+    c "Isso foi dureza... você está bem?"
 
 # game/script.rpy:20803
 translate pt_br bot_uni_2644495e:
 
     # bot "Do I look okay...!?"
-    bot ""
+    bot "Eu pareço estar...!?"
 
 # game/script.rpy:20804
 translate pt_br bot_uni_733431c1:
 
     # c "No..."
-    c ""
+    c "Não..."
 
 # game/script.rpy:20806
 translate pt_br bot_uni_97c80fbf:
 
     # bot "I just don't understand what happened...! They seemed to really like me!"
-    bot ""
+    bot "Eu só não entendi o que aconteceu...! Elas pareciam ter gostado tanto de mim!"
 
 # game/script.rpy:20807
 translate pt_br bot_uni_1956e1b4:
 
     # c "Nobody would expect what you just did... and you really made it seem like I was trying to do something heinous to them, I can't really blame them for leaving..."
-    c ""
+    c "Ninguém esperaria o que você acabou de fazer... e você realmente fez parecer que eu estava tentando fazer algo hediondo com eles, não posso culpá-los por irem embora..."
 
 # game/script.rpy:20809
 translate pt_br bot_uni_fd6066dc:
 
     # bot "So it's me... I'll never make true human friends... I should just stick with the family I know..."
-    bot ""
+    bot "Então sou eu... Eu nunca farei verdadeiros amigos humanos... Eu deveria ficar com a família que eu conheço...""
 
 # game/script.rpy:20810
 translate pt_br bot_uni_c5f2dac3:
 
     # c "If Kali and I can love you, anyone can..."
-    c ""
+    c "Se eu e a Kali podemos te amar, qualquer um pode..."
 
 # game/script.rpy:20811
 translate pt_br bot_uni_c382f6e3:
 
     # bot "That's because you understand me, nobody else wants to understand me..."
-    bot ""
+    bot "Isso é porque você me entende, ninguém mais quer me entender..."
 
 # game/script.rpy:20813
 translate pt_br bot_uni_394e92ee:
 
     # bot "There's no one in the world who can truly understand me, there's no one else like me...!"
-    bot ""
+    bot "Não tem ninguém no mundo que realmente possa me entender, não tem mais ninguém igual a mim...!"
 
 # game/script.rpy:20814
 translate pt_br bot_uni_e4c960fb:
 
     # c "I'd like to say that isn't true, but... you truly are one of a kind."
-    c ""
+    c "Eu gostaria de dizer que isso não é verdade, mas... sim, você realmente é única."
 
 # game/script.rpy:20815
 translate pt_br bot_uni_b9ae8959:
 
     # c "Don't sweat it though, you can make other friends."
-    c ""
+    c "Mas isso não é algo pra voê se preocupar, você pode fazer outros amigos."
 
 # game/script.rpy:20816
 translate pt_br bot_uni_4bff054d:
 
     # c "Maybe some day you can even explain the situation to them."
-    c ""
+    c "Talvez um dia você possa até explicar a situação para elas."
 
 # game/script.rpy:20817
 translate pt_br bot_uni_4291b75d:
 
     # bot "They'll never understand...!"
-    bot ""
+    bot "Elas nunca entenderiam...!"
 
 # game/script.rpy:20818
 translate pt_br bot_uni_2c2cfa07:
 
     # c "They were shocked to learn who you truly were, but that doesn't mean the world won't be ready for you some day. You just have to keep giving everyone a chance, and maybe they'll even change their minds some day."
-    c ""
+    c "Elas ficaram chocadas ao saber quem você realmente era, mas isso não significa que o mundo não vai estr pronto pra você um dia. Você só precisa continuar dando uma chance para todo mundo, e talvez um dia eles possam até  mudar de ideia. "
 
 # game/script.rpy:20820
 translate pt_br bot_uni_5f1c7b99:
 
     # bot "Whatever..."
-    bot ""
+    bot "Que seja..."
 
 # game/script.rpy:20821
 translate pt_br bot_uni_c4ae927e:
 
     # c "Chin up, [botname]. You'll get better at socializing."
-    c ""
+    c "Cabeça erguida, [botname]. Você vai ficar melhor em socializar."
 
 # game/script.rpy:20822
 translate pt_br bot_uni_30415327:
 
     # c "And what is this lightning thing you've been doing? When did you learn this?"
-    c ""
+    c "E o que era esse raio que você fez? Quando vocâ aprendeu isso?"
 
 # game/script.rpy:20823
 translate pt_br bot_uni_4473f323:
 
     # bot "Not too long ago... I noticed my hands seemed slightly more magnetic with this new body. And sending a lot of power towards my hands creates a lightning arc..."
-    bot ""
+    bot "Não faz muito tempo... Eu percebi que as minhas mãos pareciam luvemente mais magnéticas com esse corpo novo. E enviar muita energia em direção às minhas mãos cria um arco de relâmpago...""
 
 # game/script.rpy:20824
 translate pt_br bot_uni_ee4b9d19:
 
     # c "Can you... shoot it out of your hands?"
-    c ""
+    c "Você consegue...atirar eles para fora das suas mãos? "
 
 # game/script.rpy:20825
 translate pt_br bot_uni_5053f5ed:
 
     # bot "That's not how electromagnetic waves work..."
-    bot ""
+    bot "Não é assim que ondas eletromagnéticas funcionam..."
 
 # game/script.rpy:20826
 translate pt_br bot_uni_fcbbb9d3:
 
     # c "Oh, if you say so."
-    c ""
+    c "Ah, se você diz."
 
 # game/script.rpy:20827
 translate pt_br bot_uni_ed7084c8:
 
     # bot "Can you take me home...?"
-    bot ""
+    bot "... Você pode me levar pra casa...?"
 
 # game/script.rpy:20828
 translate pt_br bot_uni_f2b7182b:
 
     # c "Of course..."
-    c ""
+    c "Mas é claro..."
 
 # game/script.rpy:20841
 translate pt_br bot_tech_c742ec7d:
