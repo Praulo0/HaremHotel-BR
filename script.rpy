@@ -46299,397 +46299,397 @@ translate pt_br bot_mardom_e61dba7e:
 translate pt_br bot_mardom_506c11b1:
 
     # c "What are you doing?"
-    c ""
+    c "O que você está fazendo?"
 
 # game/script.rpy:21114
 translate pt_br bot_mardom_64ced05e:
 
     # bot "I'm thinking."
-    bot ""
+    bot "Estou pensando."
 
 # game/script.rpy:21115
 translate pt_br bot_mardom_64985423:
 
     # c "About what?"
-    c ""
+    c "Sobre o que?"
 
 # game/script.rpy:21116
 translate pt_br bot_mardom_90fe04c1:
 
     # bot "About what to do... hmm..."
-    bot ""
+    bot "Sobre o que fazer... Hmm..."
 
 # game/script.rpy:21118
 translate pt_br bot_mardom_5629f405:
 
     # bot "I've been really wanting to test myself out! I want to see what I'm capable of now that I've been unlocked!"
-    bot ""
+    bot "Eu estava realmente querendo me testar! Eu quero ver do que sou capaz agora que fui desbloqueada!"
 
 # game/script.rpy:21120
 translate pt_br bot_mardom_6abc3b2e:
 
     # bot "But what should I do? Hmm... something I've never done before..."
-    bot ""
+    bot "Mas o que eu deveria fazer? Hmm... alguma coisa que eu nunca fiz antes..."
 
 # game/script.rpy:21122
 translate pt_br bot_mardom_63df6d4e:
 
     # bot "I've got it!"
-    bot ""
+    bot "Já sei!"
 
 # game/script.rpy:21124
 translate pt_br bot_mardom_8fe81104:
 
     # bot "I wanna be really rough with another girl~"
-    bot ""
+    bot "Eu quero ser realmente bruta com outra garota~"
 
 # game/script.rpy:21125
 translate pt_br bot_mardom_be8b7287:
 
     # c "How so?"
-    c ""
+    c "Como assim?"
 
 # game/script.rpy:21128
 translate pt_br bot_mardom_8239cec9:
 
     # bot "I can make my fingers vibrate and my hands are super quick! I think I can make someone feel really good!"
-    bot ""
+    bot "Eu posso fazer meus dedos vibrarem e as minhas mãos são super rápidas! Eu acho que consigo fazer alguém se sentir muito bem!"
 
 # game/script.rpy:21130
 translate pt_br bot_mardom_dd5a190b:
 
     # bot "I'll turn on femdom mode and see where it goes from there!"
-    bot ""
+    bot "Eu vou ativar o meu modo dominadora e ver no que isso vai dar!"
 
 # game/script.rpy:21133
 translate pt_br bot_mardom_d3d6c448:
 
     # bot "You can come along and watch if you'd like, heheh... but don't be spotted."
-    bot ""
+    bot "Você pode vir comigo e assistir se você quiser, heheh... só não seja visto."
 
 # game/script.rpy:21136
 translate pt_br bot_mardom_73b60489:
 
     # bot "Hm... who shall be my victim..."
-    bot ""
+    bot "Hum... quem é que vai ser a minha vítima..."
 
 # game/script.rpy:21138
 translate pt_br bot_mardom_52a0804b:
 
     # bot "Lin likes it rough, right?"
-    bot ""
+    bot "A Lin gosta de brutalidade, né?"
 
 # game/script.rpy:21139
 translate pt_br bot_mardom_49e53b01:
 
     # bot "She's pretty weak though, I don't think she could handle all of me..."
-    bot ""
+    bot "Mas ela é bem fraca, acho que ela não conseguiria lidar comigo..."
 
 # game/script.rpy:21141
 translate pt_br bot_mardom_43fea795_1:
 
     # bot "Hm..."
-    bot ""
+    bot "Hum..."
 
 # game/script.rpy:21143
 translate pt_br bot_mardom_381fce2f:
 
     # bot "*gasp*! Oh, I know who..."
-    bot ""
+    bot "*ahh*! Já sei quem..."
 
 # game/script.rpy:21145
 translate pt_br bot_mardom_a3446554:
 
     # bot "Hmmm... Let's have some fun..."
-    bot ""
+    bot "Hummm... Vamos nos divertir um pouco..."
 
 # game/script.rpy:21146
 translate pt_br bot_mardom_0bfb69af:
 
     # bot "*ehem*..."
-    bot ""
+    bot "*ehem*..."
 
 # game/script.rpy:21147
 translate pt_br bot_mardom_1465ee8e:
 
     # bot "M-Maria...?"
-    bot ""
+    bot "M-Maria...?"
 
 # game/script.rpy:21148
 translate pt_br bot_mardom_0f943ea2:
 
     # m "Come in!"
-    m ""
+    m "Pode entrar!"
 
 # game/script.rpy:21150
 translate pt_br bot_mardom_8c3fd8ed:
 
     # m "What's up? I like the new look."
-    m ""
+    m "E aí? Gostei do visual novo."
 
 # game/script.rpy:21151
 translate pt_br bot_mardom_42096e9d:
 
     # bot "I-I was thinking about the time you used those toys on me..."
-    bot ""
+    bot "E-Eu estava pensando naquela vez em que você usou aqueles brinquedos em mim.."
 
 # game/script.rpy:21153
 translate pt_br bot_mardom_1f41a3b3:
 
     # m "Oh?"
-    m ""
+    m "É mesmo?"
 
 # game/script.rpy:21154
 translate pt_br bot_mardom_74d1eea1:
 
     # bot "W-Well... I couldn't get it out of my head..."
-    bot ""
+    bot "B-Bem... Eu não consegui tirar da minha cabeça..."
 
 # game/script.rpy:21156
 translate pt_br bot_mardom_29b58b32:
 
     # m "Ohhh?"
-    m ""
+    m "É mesmo?~"
 
 # game/script.rpy:21157
 translate pt_br bot_mardom_085938bb:
 
     # bot "I-I was thinking... maybe... we could..."
-    bot ""
+    bot "E-Eu estava pensando... que talvez... nós pudéssemos..."
 
 # game/script.rpy:21158
 translate pt_br bot_mardom_31cd4172:
 
     # bot "You know..."
-    bot ""
+    bot "Você sabe..."
 
 # game/script.rpy:21160
 translate pt_br bot_mardom_2d1b1c43:
 
     # m "Yes! Absolutely! I've been dying to taste you again!"
-    m ""
+    m "Sim! Claro! Eu estava morrendo de vontade de provar de novo!"
 
 # game/script.rpy:21161
 translate pt_br bot_mardom_546ebb55:
 
     # bot "Was I really that good...?"
-    bot ""
+    bot "Eu fui tão boa assim...?"
 
 # game/script.rpy:21163
 translate pt_br bot_mardom_269c4ce2:
 
     # m "Yes you were..."
-    m ""
+    m "Sim, você foi..."
 
 # game/script.rpy:21164
 translate pt_br bot_mardom_b56d2040:
 
     # m "Did you have anything specific you wanted to do?"
-    m ""
+    m "Tem alguma coisa específica que você queira fazer?"
 
 # game/script.rpy:21165
 translate pt_br bot_mardom_fb11046d:
 
     # bot "I don't know... y-you're in charge."
-    bot ""
+    bot "Eu não sei... v-você que manda."
 
 # game/script.rpy:21166
 translate pt_br bot_mardom_c58c29da:
 
     # m "Hmmm... Okay..."
-    m ""
+    m "Hummm... Tudo bem..."
 
 # game/script.rpy:21168
 translate pt_br bot_mardom_0d3a9b19:
 
     # m "Take everything off, I'm going to put you in something sexy."
-    m ""
+    m "Tire tudo, vou te vestir com algo sexy."
 
 # game/script.rpy:21172
 translate pt_br bot_mardom_9f7cc5ba:
 
     # m "It fits you so well!"
-    m ""
+    m "Isso combina tão bem com você!"
 
 # game/script.rpy:21173
 translate pt_br bot_mardom_963b005c:
 
     # bot "A-Are the restraints really necessary...?"
-    bot ""
+    bot "E-Essas amarras são necessárias...?"
 
 # game/script.rpy:21174
 translate pt_br bot_mardom_084a7ea0:
 
     # m "Yes, they are."
-    m ""
+    m "Sim, elas são.
 
 # game/script.rpy:21175
 translate pt_br bot_mardom_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tudo bem..."
 
 # game/script.rpy:21176
 translate pt_br bot_mardom_6360c145:
 
     # m "Now, get on the bed."
-    m ""
+    m "Agora, deite na cama."
 
 # game/script.rpy:21178
 translate pt_br bot_mardom_de313540:
 
     # m "You're very good at following orders, I can't wait to see what you're capable of..."
-    m ""
+    m "Você é muito boa seguindo ordens, eu mal posso esperar pra ver do que mais você é capaz..."
 
 # game/script.rpy:21179
 translate pt_br bot_mardom_afd82e5d:
 
     # bot "{i}(Me too... heheh!){/i}"
-    bot ""
+    bot "{i}(Eu também... heheh!){/i}"
 
 # game/script.rpy:21181
 translate pt_br bot_mardom_33d06390:
 
     # m "I'm going to enjoy playing with my bitch."
-    m ""
+    m "Eu vou adorar brincar com a minha putinha."
 
 # game/script.rpy:21182
 translate pt_br bot_mardom_9d86e17a:
 
     # bot "Nnh..."
-    bot ""
+    bot "Nnh..."
 
 # game/script.rpy:21184
 translate pt_br bot_mardom_725b4ec7:
 
     # m "Mm, you're wet already? Have you been thinking about this all day?"
-    m ""
+    m "MM, você já está molhada? Você esteve pensando nisso o dia todo?"
 
 # game/script.rpy:21185
 translate pt_br bot_mardom_da10f95c:
 
     # bot "Stop teasing me..."
-    bot ""
+    bot "Para de me provocar..."
 
 # game/script.rpy:21186
 translate pt_br bot_mardom_a74f89b4:
 
     # m "Answer me."
-    m ""
+    m "Responda-me."
 
 # game/script.rpy:21187
 translate pt_br bot_mardom_aa850697:
 
     # bot "...I want your fingers inside..."
-    bot ""
+    bot "...Eu quero os seus dedos dentro..."
 
 # game/script.rpy:21190
 translate pt_br bot_mardom_bf4e4be9:
 
     # bot "Ah!" with ssshake
-    bot "" with ssshake
+    bot "Ah!" with ssshake
 
 # game/script.rpy:21192
 translate pt_br bot_mardom_bb8ecbe9:
 
     # m "That wasn't what I asked, answer the question."
-    m ""
+    m "Não foi isso o que eu perguntei, responda a pergunta."
 
 # game/script.rpy:21193
 translate pt_br bot_mardom_bd7dbb1f:
 
     # bot "I... I've been thinking about what you would do to me since I woke up..."
-    bot ""
+    bot "Eu... eu estive pensando no que você faria comigo desde quando eu acordei..."
 
 # game/script.rpy:21194
 translate pt_br bot_mardom_b605bccb:
 
     # m "Mmm, good girl..."
-    m ""
+    m "Mmm, boa garota..."
 
 # game/script.rpy:21196
 translate pt_br bot_mardom_a02c9dae:
 
     # bot "Mmmh!" with ssshake
-    bot "" with ssshake
+    bot "Mmmh!" with ssshake
 
 # game/script.rpy:21197
 translate pt_br bot_mardom_c2d5230c:
 
     # m "Does it feel good? Was this what you were hoping for?"
-    m ""
+    m "Isso é tão bom assim? Era isso o que você estava esperando?"
 
 # game/script.rpy:21198
 translate pt_br bot_mardom_8fa7d49f:
 
     # bot "Mmm! More!"
-    bot ""
+    bot "Mmm! Mais!"
 
 # game/script.rpy:21200
 translate pt_br bot_mardom_1c82cdf8:
 
     # m "Oh, I can do more..."
-    m ""
+    m "AH, eu posso fazer mais..."
 
 # game/script.rpy:21202
 translate pt_br bot_mardom_c5fe3289:
 
     # bot "Ahh, yes...!"
-    bot ""
+    bot "Ahh, isso...!"
 
 # game/script.rpy:21205
 translate pt_br bot_mardom_33873932:
 
     # bot "Ahhh! Mmmnnn...!"
-    bot ""
+    bot "Ahhh! Mmmnnn...!"
 
 # game/script.rpy:21206
 translate pt_br bot_mardom_9e0c060d:
 
     # bot "Mmmmh, mmmaria...!"
-    bot ""
+    bot "Mmmmh, Mmmmaria...!"
 
 # game/script.rpy:21207
 translate pt_br bot_mardom_d79e4f02:
 
     # bot "Mmh, ahh... inside... please...! Ahhh...!"
-    bot ""
+    bot "Mmh, ahh... dentro... por favor...! Ahhh...!"
 
 # game/script.rpy:21208
 translate pt_br bot_mardom_16bad46e:
 
     # m "Inside? Already...? You didn't turn slut mode on by accident, did you?"
-    m ""
+    m "Dentro? Mas já...? Você não ativou o modo vadia por acidente, ativou?"
 
 # game/script.rpy:21209
 translate pt_br bot_mardom_467efab3:
 
     # bot "Nnnnh...! No..."
-    bot ""
+    bot "Nnnnh...! Não..."
 
 # game/script.rpy:21211
 translate pt_br bot_mardom_01043917:
 
     # m "Mmm, you're a horny little bitch, aren't you? Answer me."
-    m ""
+    m "Mmm, você é uma putinha safada, não é? Me responda."
 
 # game/script.rpy:21212
 translate pt_br bot_mardom_a92573cb:
 
     # bot "Yes... I'm a horny bitch..."
-    bot ""
+    bot "Sim... eu sou uma puta safada..."
 
 # game/script.rpy:21214
 translate pt_br bot_mardom_a775d253:
 
     # bot "Hnnnaaah!" with ssshake
-    bot "" with ssshake
+    bot "Hnnnaaah!" with ssshake
 
 # game/script.rpy:21215
 translate pt_br bot_mardom_d3d9e810:
 
     # bot "Nnnnnghhh!"
-    bot ""
+    bot "Nnnnnghhh!"
 
 # game/script.rpy:21216
 translate pt_br bot_mardom_fc9910b5:
