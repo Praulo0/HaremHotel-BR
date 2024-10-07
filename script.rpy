@@ -46695,13 +46695,13 @@ translate pt_br bot_mardom_d3d9e810:
 translate pt_br bot_mardom_fc9910b5:
 
     # m "You're so wet... I can hear your sloppy pussy from here."
-    m ""
+    m "Você está tão molhada... eu consigo ouvir a sua bucessa molhada daqui."
 
 # game/script.rpy:21217
 translate pt_br bot_mardom_32820d61:
 
     # bot "S-Sorry...! Mmh, I'm just so horny! Ahh... I can't control it!"
-    bot ""
+    bot "D-Desculpa...! Mmh, eu só estou excitada! Ahh... eu não consigo controlar!"
 
 # game/script.rpy:21219
 translate pt_br bot_mardom_629aa557:
@@ -46713,169 +46713,169 @@ translate pt_br bot_mardom_629aa557:
 translate pt_br bot_mardom_69c70924:
 
     # bot "Nnnnnngh! Mess my pussy up... please Maria...! ngh!"
-    bot ""
+    bot "Nnnnnnhgh! Mexe na minha boceta... por favor Maria...! ngh!"
 
 # game/script.rpy:21221
 translate pt_br bot_mardom_2894274f:
 
     # m "Hmm, I don't think so... I want to tease you... I want to get you nice and wet..."
-    m ""
+    m "Hmm, acho que não... eu quero te provocar... Quero deixar você bem molhada..."
 
 # game/script.rpy:21223
 translate pt_br bot_mardom_576c9a43:
 
     # bot "Nnn...! Ahh...!"
-    bot ""
+    bot "Nnn...! Ahh...!"
 
 # game/script.rpy:21224
 translate pt_br bot_mardom_cfcd5277:
 
     # m "Don't worry, I'll make you cum... eventually."
-    m ""
+    m "Não fica preocupada, eu vou fazer você gozar... eventualmente..."
 
 # game/script.rpy:21227
 translate pt_br bot_mardom_a6f14af3:
 
     # m "I won't be finished with you until I have a whole glass of your delicious juices."
-    m ""
+    m "Eu não vou terminar isso até eu conseguir um copo inteiro dos seus sucos deliciosos."
 
 # game/script.rpy:21228
 translate pt_br bot_mardom_793b0a30:
 
     # bot "Mmmmgh!"
-    bot ""
+    bot "Mmmmgh!"
 
 # game/script.rpy:21231
 translate pt_br bot_mardom_cd236130:
 
     # bot "Ooooghhh~"
-    bot ""
+    bot "Ooooghhh~"
 
 # game/script.rpy:21232
 translate pt_br bot_mardom_aae3c04f:
 
     # m "Good girl... just like that!"
-    m ""
+    m "Boa menina... continue assim!"
 
 # game/script.rpy:21233
 translate pt_br bot_mardom_7a4f9dcf:
 
     # bot "P-Please! I'm so close! MMMM!"
-    bot ""
+    bot "P-Por favor! Eu estou tão perto! MMMM!"
 
 # game/script.rpy:21235
 translate pt_br bot_mardom_3cd36baa:
 
     # bot "*gasp*! Huh!? No!"
-    bot ""
+    bot "*aah*! Hein!? Não!"
 
 # game/script.rpy:21236
 translate pt_br bot_mardom_3498cf9a:
 
     # m "Oh, do you want it back...?"
-    m ""
+    m "Ah, você quer isso de volta...?"
 
 # game/script.rpy:21237
 translate pt_br bot_mardom_88267ed5:
 
     # bot "Yes!"
-    bot ""
+    bot "Sim!"
 
 # game/script.rpy:21239
 translate pt_br bot_mardom_5e87d55a:
 
     # m "Llln... You're going to have to make me cum first..."
-    m ""
+    m "Llln... Então você vai ter que me fazer gozar primeiro..."
 
 # game/script.rpy:21240
 translate pt_br bot_mardom_22278c01:
 
     # bot "I... I can do that...!"
-    bot ""
+    bot "Eu... eu consigo fazer isso...!"
 
 # game/script.rpy:21243
 translate pt_br bot_mardom_40111d1b:
 
     # m "Be a good girl and show me what your tongue can do."
-    m ""
+    m "SEja uma boa menina e me mostra o que a sua língua consegue fazer."
 
 # game/script.rpy:21244
 translate pt_br bot_mardom_ab0a89e8:
 
     # bot "Mmmph! I will... Llln... {w}Mmmlmnn... Alllmmnn...! {w}Mmph... Nnln..."
-    bot ""
+    bot "Mmmph! Eu vou... Llln... {w}Mmmlmnn... Alllmmnn...! {w}Mmph... Nnln..."
 
 # game/script.rpy:21245
 translate pt_br bot_mardom_3d9527a1:
 
     # m "You know... I don't think you're eager enough... {w}Turn on slut mode!"
-    m ""
+    m "Sabe... eu nao acho que você não está ansiosa o suficiente... {w}Ative o modo vadia!"
 
 # game/script.rpy:21247
 translate pt_br bot_mardom_756021ce:
 
     # m "Mmmmph!" with ssshake
-    m "" with ssshake
+    m "Mmmmph!" with ssshake
 
 # game/script.rpy:21248
 translate pt_br bot_mardom_34672f24:
 
     # m "Oh... oh, fuck! Mmm!"
-    m ""
+    m "Ah... ah, porra! Mmm!"
 
 # game/script.rpy:21249
 translate pt_br bot_mardom_c68429a4:
 
     # bot "Lllmmm...! Mmmmnnn!!!"
-    bot ""
+    bot "Lllmmm...! Mmmmnnn!!!"
 
 # game/script.rpy:21250
 translate pt_br bot_mardom_92b10997:
 
     # m "There you go! Much better...! Ahhh! Lick me good..."
-    m ""
+    m "Agora sim! Bem melhor...! Ahhh! Lambe bem gostoso..."
 
 # game/script.rpy:21251
 translate pt_br bot_mardom_4737db7d:
 
     # bot "Mmmmph! Lllmmmnnn!"
-    bot ""
+    bot "Mmmmph! Lllmmmnnn!"
 
 # game/script.rpy:21252
 translate pt_br bot_mardom_e32ed95e:
 
     # m "Ahhh! Aaah! You're so much better than all my other toys, haha! Mmmn!"
-    m ""
+    m "Ahhh! Aaah! Você é muito melhor do que todos os meus outros brinquedos, haha! Mmmn!"
 
 # game/script.rpy:21254
 translate pt_br bot_mardom_051ad01e:
 
     # m "Fuck, nnnh... you're really good at this... Ahh... You really want that orgasm, don't you?" with ssshake
-    m "" with ssshake
+    m "Porra, nnnh... você é realmente boa nisso... Ahh... Você realmente quer esse orgasmo, não é?" with ssshake
 
 # game/script.rpy:21256
 translate pt_br bot_mardom_bfe0cbf9:
 
     # m "Ahh...! Ah! Fuck! MMM!"
-    m ""
+    m "Aaa...! Ah! Porra! MMM!"
 
 # game/script.rpy:21257
 translate pt_br bot_mardom_dbf674a3:
 
     # m "AHH~! Nnn! Slow down a little...! Ahh! Fuck...!"
-    m ""
+    m "AHH~! Nnn! Um pouco mais devagar...! Ahh! Porra...!"
 
 # game/script.rpy:21258
 translate pt_br bot_mardom_1da701e1:
 
     # bot "Lmmmmn...! Mmmph..."
-    bot ""
+    bot "Lmmmmn...! Mmmph..."
 
 # game/script.rpy:21259
 translate pt_br bot_mardom_9983ad07:
 
     # m "Shit... wow... ahhh...!"
-    m ""
+    m "Merda... uau... ahhh...!"
 
 # game/script.rpy:21260
 translate pt_br bot_mardom_98a6a91f:
