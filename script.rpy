@@ -46229,7 +46229,7 @@ translate pt_br bot_tech_5eeeb604:
 translate pt_br bot_tech_a306997f:
 
     # linds "Oh, we have plenty of modules to offer. Some militaristic, some practical..."
-    linds "Ah, nós temos vários módulos a oferecer. Alguns militaristas, alguns práticos...""
+    linds "Ah, nós temos vários módulos a oferecer. Alguns militaristas, alguns práticos..."
 
 # game/script.rpy:21082
 translate pt_br bot_tech_ff06d0c0:
@@ -46707,7 +46707,7 @@ translate pt_br bot_mardom_32820d61:
 translate pt_br bot_mardom_629aa557:
 
     # bot "Hahhh! Aaahh!" with ssshake
-    bot "" with ssshake
+    bot "Hahhh! Aaahh!" with ssshake
 
 # game/script.rpy:21220
 translate pt_br bot_mardom_69c70924:
@@ -46881,955 +46881,955 @@ translate pt_br bot_mardom_9983ad07:
 translate pt_br bot_mardom_98a6a91f:
 
     # bot "Mmmm! MM!"
-    bot ""
+    bot "Mmmm! MM!"
 
 # game/script.rpy:21262
 translate pt_br bot_mardom_851707f3:
 
     # m "Ah! Ahh! Fuck! Fuck! I'm gonna cummm...!"
-    m ""
+    m "Ah! Ahh! Porra! Merda! Eu vou gozaaar...!"
 
 # game/script.rpy:21263
 translate pt_br bot_mardom_b95dc18c:
 
     # m "Hehhh, aahhh! You're an expert!"
-    m ""
+    m "Hehhh, aahhh! Você é uma proficional!"
 
 # game/script.rpy:21264
 translate pt_br bot_mardom_9ded5d62:
 
     # m "Mmmh, don't stop! Don't stop!!"
-    m ""
+    m "Mmmh, não para! Não para!!"
 
 # game/script.rpy:21266
 translate pt_br bot_mardom_a82d9a5b:
 
     # m "AH!" with ssshake
-    m "" with ssshake
+    m "AH!" with ssshake
 
 # game/script.rpy:21267
 translate pt_br bot_mardom_0e6e00f8:
 
     # m "Hah! Hnnnnn~" with ssshake
-    m "" with ssshake
+    m "Hah! Hnnnnn~" with ssshake
 
 # game/script.rpy:21268
 translate pt_br bot_mardom_65de830b:
 
     # m "Ahhh...! Ahhh...! Hahhh...!" with ssshake
-    m "" with ssshake
+    m "Ahhh...! Ahhh...! Hahhh...!" with ssshake
 
 # game/script.rpy:21270
 translate pt_br bot_mardom_bfb5218e:
 
     # m "Mmmmm... fuck!"
-    m ""
+    m "Mmmmm... porra!"
 
 # game/script.rpy:21271
 translate pt_br bot_mardom_35c2a095:
 
     # m "Ah... Haha..."
-    m ""
+    m "AH... Haha..."
 
 # game/script.rpy:21272
 translate pt_br bot_mardom_f96cc239:
 
     # m "Nnn... you're a good little bitch..."
-    m ""
+    m "Nnn... você é uma boa putinha..."
 
 # game/script.rpy:21273
 translate pt_br bot_mardom_63e3a1bd:
 
     # m "And you know what...?"
-    m ""
+    m "E sabe o que mais...?"
 
 # game/script.rpy:21275
 translate pt_br bot_mardom_d41ce9c3:
 
     # m "We're just getting started..."
-    m ""
+    m "Nós estamos apenas começando..."
 
 # game/script.rpy:21279
 translate pt_br bot_mardom_d5ac65bd:
 
     # bot "MMPH!" with ssshake
-    bot "" with ssshake
+    bot "MMPH!" with ssshake
 
 # game/script.rpy:21282
 translate pt_br bot_mardom_4a6e20b0:
 
     # m "Huh...!?"
-    m ""
+    m "Hum...!?"
 
 # game/script.rpy:21285
 translate pt_br bot_mardom_60eadf06:
 
     # m "Aaah! What- What are you- Nnngk!" with ssshake
-    m "" with ssshake
+    m "Aaah! O que- O que você está- Nnngk!" with ssshake
 
 # game/script.rpy:21287
 translate pt_br bot_mardom_31f5ccfc:
 
     # m "Nnngh! Aaah! HOW STRONG ARE YOU!? NNNNMMM!!!" with ssshake
-    m "" with ssshake
+    m "Nnngh! Aaah! O QUÃO FORTE É VOCÊ!? NNNNMMM!!!" with ssshake
 
 # game/script.rpy:21290
 translate pt_br bot_mardom_382ba959:
 
     # m "Oh my god...! Ahhh... [botname]! Where did this come from? Nhhhh~~!" with ssshake
-    m "" with ssshake
+    m "Ai meu deus...! Ahhh... [botname]! De onde é que isso veio? Nhhhh~~!" with ssshake
 
 # game/script.rpy:21293
 translate pt_br bot_mardom_1420ec64:
 
     # m "Agh! Oh, you bitch...! This was your plan, wasn't it!? Nnnnghh! NNNNGH!"
-    m ""
+    m "Agh! Ah, sua puta...! Era esse o seu plano, não era!? Nnnnghh! NNNNGH!
 
 # game/script.rpy:21295
 translate pt_br bot_mardom_3bed981b:
 
     # m "Ohhhh, fuuuuckkk! Nnnngh! Aah!" with ssshake
-    m "" with ssshake
+    m "Ahhhh, poooorraaa! Nnnngh! Aah!" with ssshake
 
 # game/script.rpy:21297
 translate pt_br bot_mardom_61044ce7:
 
     # bot "NNNGH! MMMRPH!"
-    bot ""
+    bot "NNNGH! MMMRPH!"
 
 # game/script.rpy:21299
 translate pt_br bot_mardom_550e5811:
 
     # m "NNNGH! HNNNNNNNGH!!" with ssshake
-    m "" with ssshake
+    m "NNNGH! HNNNNNNNGH!!" with ssshake
 
 # game/script.rpy:21301
 translate pt_br bot_mardom_adede00d:
 
     # m "Haaahhh...! Fuck! I can't...! Nngh!"
-    m ""
+    m "Haaahhh...! Porra! EU não consigo...! Nngh!"
 
 # game/script.rpy:21303
 translate pt_br bot_mardom_b4513b6f:
 
     # bot "MMMGH! NNNGH!" with ssshake
-    bot "" with ssshake
+    bot "MMMGH! NNNGH!" with ssshake
 
 # game/script.rpy:21305
 translate pt_br bot_mardom_23f1508f:
 
     # m "AAAAAAAH!" with ssshake
-    m "" with ssshake
+    m "AAAAAAAH!" with ssshake
 
 # game/script.rpy:21307
 translate pt_br bot_mardom_b82beda8:
 
     # m "Oh my god! MMMMNNN!"
-    m ""
+    m "Ai meu deus! MMMMNNN!"
 
 # game/script.rpy:21309
 translate pt_br bot_mardom_82349394:
 
     # m "Nnngh! Get back on your ass where you belong, you bitch! Nnngh! I'm the dom here! Nnmnm!"
-    m ""
+    m "Nnngh! Volta pra merda do lugar aonde você pertence, sua puta! Nnngh! Eu sou a dominadora aqui! Nnmnm!"
 
 # game/script.rpy:21310
 translate pt_br bot_mardom_581e0b93:
 
     # bot "Hmmmmm...?"
-    bot ""
+    bot "Hmmmmm...?"
 
 # game/script.rpy:21312
 translate pt_br bot_mardom_7dc6eab0:
 
     # bot "I'm the bitch?"
-    bot ""
+    bot "EU sou a puta?"
 
 # game/script.rpy:21314
 translate pt_br bot_mardom_88454401:
 
     # bot "I don't think you understand the situation... heheheh~"
-    bot ""
+    bot "Eu não acho que você tenha entendido a situação... heheheh~"
 
 # game/script.rpy:21315
 translate pt_br bot_mardom_ab3c8d4c:
 
     # m "O-Oh..."
-    m ""
+    m "O-Oh..."
 
 # game/script.rpy:21318
 translate pt_br bot_mardom_71d06704:
 
     # m "I didn't- Ohhh...!"
-    m ""
+    m "EU não- Ahhh...!"
 
 # game/script.rpy:21319
 translate pt_br bot_mardom_4a05e3e3:
 
     # m "Mmmmnnng! Y-You're... Ahh-! Ohhhh..."
-    m ""
+    m "Mmmmnnng! V-Você... Ahh-! Ahhhh..."
 
 # game/script.rpy:21320
 translate pt_br bot_mardom_215d9fb8:
 
     # bot "Llllngh! Llllngh! Llllngh!"
-    bot ""
+    bot "Llllngh! Llllngh! Llllngh!"
 
 # game/script.rpy:21321
 translate pt_br bot_mardom_64db2fc3:
 
     # m "I didn't... aghhh! Know... Hmmngh! Aaaahhhh~"
-    m ""
+    m "Eu não... aghhh! Sei... Hmmngh! Aaaahhhh~"
 
 # game/script.rpy:21323
 translate pt_br bot_mardom_12be0088:
 
     # m "Hnnnnghghgh!" with ssshake
-    m "" with ssshake
+    m "Hnnnnghghgh!" with ssshake
 
 # game/script.rpy:21324
 translate pt_br bot_mardom_eba8c811:
 
     # bot "Lnngh, lnngh! Are you ready to accept your new place as {i}my{/i} bitch?"
-    bot ""
+    bot "Lnngh, lnngh! Você está pronta pra aceitar o seu lugar como a {i}minha{/i} puta?"
 
 # game/script.rpy:21325
 translate pt_br bot_mardom_0c22abdc:
 
     # m "Ahhhh! Oh! HNNN! Aaah!"
-    m ""
+    m "Ahhhh! Oh! HNNN! Aaah!"
 
 # game/script.rpy:21326
 translate pt_br bot_mardom_701069f4:
 
     # bot "Answer me..."
-    bot ""
+    bot "Me responda..."
 
 # game/script.rpy:21327
 translate pt_br bot_mardom_96ad8316:
 
     # m "You're...! Ahh! Nnnnnnngh~! TURN ON SLUT MODE!"
-    m ""
+    m "Você...! Ahh! Nnnnnnngh~! ATIVE O MODO VADIA!"
 
 # game/script.rpy:21328
 translate pt_br bot_mardom_8a644aac:
 
     # m "Hahhh! HNN! Listen to my commands! AHH!"
-    m ""
+    m "Hahhh! HNN! Ouça os meus comandos! AHH! "
 
 # game/script.rpy:21329
 translate pt_br bot_mardom_c206245c:
 
     # bot "That won't work on me anymore, Maria..."
-    bot ""
+    bot "Isso não funciona mais em mim, Maria..."
 
 # game/script.rpy:21331
 translate pt_br bot_mardom_45fe785e:
 
     # m "Hyaaah! W-What!? Aaaaaah! Your tongue...! Is so...! Gooooood!! HNNNGAHH!"
-    m ""
+    m "Hyaaah! O-O quê!? Aaaaaah! A sua língua...! É tão...! Booooooa!! HNNNGAHH!"
 
 # game/script.rpy:21332
 translate pt_br bot_mardom_920ac5ba:
 
     # bot "You still haven't answered me...~"
-    bot ""
+    bot "Você ainda não me respondeu..."
 
 # game/script.rpy:21334
 translate pt_br bot_mardom_cbe0f5bf:
 
     # m "Fuck you...! Ngh! Bitch...! Hahhh! I'm no sub to any girl! HNNGGHGHHK!"
-    m ""
+    m "Vai se foder...! Ngh! Puta...! Hahhh! Eu não me submeto a menina nenhuma! HNNGGHGHHK!"
 
 # game/script.rpy:21335
 translate pt_br bot_mardom_9c53c116:
 
     # bot "Lllnnghh! Mmmn, so you're gonna be a challenge, huh?"
-    bot ""
+    bot "Lllnnghh! Mmmn, então você vai bancar a difícil, hein?"
 
 # game/script.rpy:21336
 translate pt_br bot_mardom_ca1724c3:
 
     # m "Nnnnghhh! I'm not gonna lose to a TOY!"
-    m ""
+    m "Nnnnghhh! Eu não vou perder pra um BRINQUEDO!"
 
 # game/script.rpy:21338
 translate pt_br bot_mardom_7c9e7c5e:
 
     # bot "Uh-oh, you made me angry..."
-    bot ""
+    bot "Uh-oh, você me deixou brava..."
 
 # game/script.rpy:21339
 translate pt_br bot_mardom_703d8a3b:
 
     # m "W-What...?"
-    m ""
+    m "O-O quê...?"
 
 # game/script.rpy:21341
 translate pt_br bot_mardom_b3d84682:
 
     # m "HNGH! Ah~" with ssshake
-    m "" with ssshake
+    m "HNGH! Ah~" with ssshake
 
 # game/script.rpy:21342
 translate pt_br bot_mardom_d73da56c:
 
     # bot "What a slutty hole you have..."
-    bot ""
+    bot "Que buraco safado que você tem..."
 
 # game/script.rpy:21343
 translate pt_br bot_mardom_8bcdfde2:
 
     # m "Egghhh...!"
-    m ""
+    m "Egghhh...!"
 
 # game/script.rpy:21344
 translate pt_br bot_mardom_ab252fad:
 
     # bot "You want your slutty holes fucked, slut?"
-    bot ""
+    bot "Você quer ter esses seus buracos safados fodidos, puta?"
 
 # game/script.rpy:21345
 translate pt_br bot_mardom_77df81fc:
 
     # m "Ngh, fuck off, nnnh! Bend over, bitch! I'm gonna fuck your ass so hard!"
-    m ""
+    m "Ngh, vai se foder, nnnh! Curve-se, puta! Eu vou foder seu cú pra caralho!"
 
 # game/script.rpy:21346
 translate pt_br bot_mardom_e2721417:
 
     # bot "Hmph..."
-    bot ""
+    bot "Hmph..."
 
 # game/script.rpy:21349
 translate pt_br bot_mardom_11e9a175:
 
     # m "Hahhhhh! Fuckkkkk...!\n{i}(C-Can... can I really resist this...!? She's doing it perfectly...!){/i}"
-    m ""
+    m "Hahhhhh! Porraaaaa...!\n{i}(S-Será que eu... consigo mesmo resistir a isso...!? Ela é perfeita nisso...!){/i}"
 
 # game/script.rpy:21350
 translate pt_br bot_mardom_79bc2a16:
 
     # m "NNNGH! YOU LITTLE BITCH! Haaaahhh!! You're mine! MMHH!"
-    m ""
+    m "NNNGH! SUA PUTINHA! Haaaahhh!! Você é minha! MMHH!"
 
 # game/script.rpy:21351
 translate pt_br bot_mardom_8619620b:
 
     # bot "Lllmmngh, mmplgh, you have too much pride..." with ssshake
-    bot "" with ssshake
+    bot "Lllmmngh, mmplgh, você é orgulhosa demais..." with ssshake
 
 # game/script.rpy:21353
 translate pt_br bot_mardom_d705bce3:
 
     # m "HNNNNNNNGGHK!!" with ssshake
-    m "" with ssshake
+    m "NNNNNNNGGHK!!" with ssshake
 
 # game/script.rpy:21354
 translate pt_br bot_mardom_27c056f0:
 
     # bot "Mmmgh! Getting close?"
-    bot ""
+    bot "Mmmgh! Está chegando perto?"
 
 # game/script.rpy:21355
 translate pt_br bot_mardom_807eb8da:
 
     # m "Hahahhh! Ffff! Fffu! Fffuuuck! Fuck youuuu! HHNNNGGGGH!"
-    m ""
+    m "Hahahhh! Vvvv! Vvvai! Vvvaii se! Foder! HHNNNGGGGH!"
 
 # game/script.rpy:21356
 translate pt_br bot_mardom_e9619a9a:
 
     # bot "Heheheh, you're fun to play with!"
-    bot ""
+    bot "Heheheh, é divertido brincar com você!"
 
 # game/script.rpy:21357
 translate pt_br bot_mardom_2bc8b325:
 
     # m "HAHHH! MMMMMNGGH!"
-    m ""
+    m "HAHHH! MMMMMNGGH!"
 
 # game/script.rpy:21359
 translate pt_br bot_mardom_59311190:
 
     # m "EGHHH! AAAAHH, HMMM!!!"
-    m ""
+    m "EGHHH! AAAAHH, HMMM!!!"
 
 # game/script.rpy:21360
 translate pt_br bot_mardom_cd5f3b85:
 
     # bot "Good girl, let it out! It will feel so good to submit..."
-    bot ""
+    bot "Boa menina, deixe sair! Você vai se sentir tão bem ao se submeter... "
 
 # game/script.rpy:21362
 translate pt_br bot_mardom_e980f081:
 
     # m "EHH, NNGH, EHHHHH!"
-    m ""
+    m "EHH, NNGH, EHHHHH!"
 
 # game/script.rpy:21363
 translate pt_br bot_mardom_0db0c69d:
 
     # m "SHIT, SHIIIIT! Aaaahh!!"
-    m ""
+    m "MERDA, MERDAAAA!Aaaahh!!"
 
 # game/script.rpy:21364
 translate pt_br bot_mardom_719efe0a:
 
     # m "Fffuu, fuuuck! Aaah! I- I can't...! Mmmgh-! AAAH!!"
-    m ""
+    m "Pppoo, pooorra! Aaah! Eu- Eu não consigo...! Mmmgh-! AAAH!!"
 
 # game/script.rpy:21366
 translate pt_br bot_mardom_d049791c:
 
     # m "AAAAH!" with ssshake
-    m "" with ssshake
+    m "AAAAH!" with ssshake
 
 # game/script.rpy:21367
 translate pt_br bot_mardom_8a952355:
 
     # m "HAAHH! Mmmmn! [botname]!" with ssshake
-    m "" with ssshake
+    m "HAAHH! Mmmm! [botname]!" with ssshake
 
 # game/script.rpy:21368
 translate pt_br bot_mardom_27b0193a:
 
     # m "Nnnngh! MMMN!" with ssshake
-    m "" with ssshake
+    m "Nnnngh! MMMN!" with ssshake
 
 # game/script.rpy:21370
 translate pt_br bot_mardom_2a8ed5ea:
 
     # m "Aaaah! Wait! Stopstopstop! MMMN! Aaaaahhhh!" with ssshake
-    m "" with ssshake
+    m "Aaaah! Espera! Paraparapara! MMMN! Aaaaahhhh!" with ssshake
 
 # game/script.rpy:21372
 translate pt_br bot_mardom_326eedfd:
 
     # m "I'm cumming! I'm cumming!! I'M CUMMING AGAIN!!!" with sshake
-    m "" with sshake
+    m "Eu tô gozando! EU tô gozando!! EU TÔ GOZANDO DE NOVO!!!" with sshake
 
 # game/script.rpy:21374
 translate pt_br bot_mardom_f28c6c60:
 
     # m "AAAH!!! I'M CUMMINGGGG!!! AAAAAAHH!!!" with sshake
-    m "" with sshake
+    m "AAAH!!! EU TÔ GOZANDOOOO!!! AAAAAAHH!!!" with sshake
 
 # game/script.rpy:21375
 translate pt_br bot_mardom_cb7a46c0:
 
     # m "HAH! NNGGGHHHHH!!!" with sshake
-    m "" with sshake
+    m "HAH! NNGGGHHHHH!!!" with sshake
 
 # game/script.rpy:21376
 translate pt_br bot_mardom_07204b1e:
 
     # m "NmmmmmmNnNnNNNmmmm! [botname]!! HOLY SHIT!" with ssshake
-    m "" with ssshake
+    m "NmmmmmmNnNnNNNmmmm! [botname]!! PUTA MERDA!" with ssshake
 
 # game/script.rpy:21378
 translate pt_br bot_mardom_2f10f74d:
 
     # m "NNNNNGH! Ooooh FUUUCK! You're still going!?!? Aaaaaaah! HNNN!"
-    m ""
+    m "NNNNNGH! Aaaah PORRA! Você vai continua!?!? Aaaaaaah! HNNN!"
 
 # game/script.rpy:21380
 translate pt_br bot_mardom_5ee9171f:
 
     # m "*gasp*! Ahhh! Ahhhh...!" with ssshake
-    m "" with ssshake
+    m "*ah*! Ahhh! Ahhhh...!" with ssshake
 
 # game/script.rpy:21382
 translate pt_br bot_mardom_acd48e64:
 
     # bot "Who's the bitch now?"
-    bot ""
+    bot "Quem é a puta agora?"
 
 # game/script.rpy:21383
 translate pt_br bot_mardom_6173ffe1:
 
     # m "W-What!?"
-    m ""
+    m "O-O quê!?"
 
 # game/script.rpy:21385
 translate pt_br bot_mardom_235e7e91:
 
     # bot "Tell me..."
-    bot ""
+    bot "Me diz..."
 
 # game/script.rpy:21387
 translate pt_br bot_mardom_6106fe47:
 
     # m "Nnnnh...!" with ssshake
-    m "" with ssshake
+    m "Nnnnh...!" with ssshake
 
 # game/script.rpy:21388
 translate pt_br bot_mardom_c25d44ea:
 
     # bot "...who the bitch is."
-    bot ""
+    bot "...quem é a puta."
 
 # game/script.rpy:21390
 translate pt_br bot_mardom_7d486840:
 
     # m "Ahhh...! Nnn... I..."
-    m ""
+    m "Ahhh...! Nnn... Eu..."
 
 # game/script.rpy:21391
 translate pt_br bot_mardom_0f80ab6a:
 
     # bot "Too slow."
-    bot ""
+    bot "Muito devagar."
 
 # game/script.rpy:21393
 translate pt_br bot_mardom_4a7f5f5b:
 
     # m "EEYYYAAAAA!!" with ssshake
-    m "" with ssshake
+    m "EEYYYAAAAA!!" with ssshake
 
 # game/script.rpy:21394
 translate pt_br bot_mardom_571d3633:
 
     # bot "Have you still not accepted your place? I'm {u}going{/u} to get it out of you..." with ssshake
-    bot "" with ssshake
+    bot "VocÊ ainda não aceitou o seu lugar? Eu {u}vou{/i} dar um jeito nisso em você..." with ssshake
 
 # game/script.rpy:21395
 translate pt_br bot_mardom_e9981438:
 
     # bot "Let's see just how many orgasms it takes then!" with ssshake
-    bot "" with ssshake
+    bot "Vamos só ver quantos orgasmos vão levar até lá então!" with ssshake
 
 # game/script.rpy:21396
 translate pt_br bot_mardom_ddc2c43c:
 
     # m "Oh fuck!" with ssshake
-    m "" with ssshake
+    m "Ai porra!" with ssshake
 
 # game/script.rpy:21397
 translate pt_br bot_mardom_298b46a2:
 
     # m "Aaaah! Aaah!! Rrrrnghhh! RRRNGHH!" with sshake
-    m "" with sshake
+    m "Aaaah! Aaah!! Rrrrnghhh! RRRNGHH!" with sshake
 
 # game/script.rpy:21399
 translate pt_br bot_mardom_149a1132:
 
     # m "FFFUUUUUUUCK!!!" with sshake
-    m "" with sshake
+    m "PPOOOOOOORRA!!!" with sshake
 
 # game/script.rpy:21401
 translate pt_br bot_mardom_ad2a51e3:
 
     # m "HYAA!" with sshake
-    m "" with sshake
+    m "HYAA!" with sshake
 
 # game/script.rpy:21403
 translate pt_br bot_mardom_aba71806:
 
     # m "Shit, shit! Oh, fuck!"
-    m ""
+    m "Merda, merda! Ah, porra!"
 
 # game/script.rpy:21405
 translate pt_br bot_mardom_06de7b6f:
 
     # m "EEGEHHHGH! EHHH! EEEEHH! AAAAH!"
-    m ""
+    m "EEGEHHHGH! EHHH! EEEEHH! AAAAH!"
 
 # game/script.rpy:21407
 translate pt_br bot_mardom_c99087d7:
 
     # m "AAAAAAAAAHHHH!" with sshake
-    m "" with sshake
+    m "AAAAAAAAAHHHH!" with sshake
 
 # game/script.rpy:21409
 translate pt_br bot_mardom_368df477:
 
     # m "EEEE!" with sshake
-    m "" with sshake
+    m "EEEE!" with sshake
 
 # game/script.rpy:21411
 translate pt_br bot_mardom_9e25ed56:
 
     # m "Rnnguh! Ahhggh! Ffffmmm! Ahhh...! Hmmnnnn!"
-    m ""
+    m "Rnnguh! Ahhggh! Ffffmmm! Ahhh...! Hmmnnnn!"
 
 # game/script.rpy:21413
 translate pt_br bot_mardom_56d8223a:
 
     # m "Ahhh... Nnh~! Mmmn... Ah...!"
-    m ""
+    m "Ahhh... Nnh~! Mmmn... Ah...!"
 
 # game/script.rpy:21414
 translate pt_br bot_mardom_5cea8bc3:
 
     # m "Oh, fuck...! Mmmmmmmnnn...!"
-    m ""
+    m "Ah, porra...!  Mmmmmmmnnn...!"
 
 # game/script.rpy:21415
 translate pt_br bot_mardom_8c0f6c6f:
 
     # bot "Come on, you'll never be able to resist what I can do to you..."
-    bot ""
+    bot "Vamos lá, você nunca vai ser capaz de resistir a tudo o que eu posso fazer com você..."
 
 # game/script.rpy:21417
 translate pt_br bot_mardom_fbe17604:
 
     # m "AAAAAAAAHHH!! AAAAHH!" with ssshake
-    m "" with ssshake
+    m "AAAAAAAAHHH!! AAAAHH!" with ssshake
 
 # game/script.rpy:21418
 translate pt_br bot_mardom_afb74693:
 
     # bot "I could turn you into my little pet if I really wanted to... You know that, right?"
-    bot ""
+    bot "Eu bem que poderia te transformar no meu bichinho se eu quisesse mesmo... Você sabe disso, né?"
 
 # game/script.rpy:21419
 translate pt_br bot_mardom_7c31570f:
 
     # m "NNNNM! AAH!"
-    m ""
+    m "NNNNM! AAH!"
 
 # game/script.rpy:21420
 translate pt_br bot_mardom_14b38d47:
 
     # bot "You're already addicted to my taste..."
-    bot ""
+    bot "Você já está viciada ao meu gosto..."
 
 # game/script.rpy:21421
 translate pt_br bot_mardom_2e0af797:
 
     # m "EEEHHH!!! EHH! AAAH!"
-    m ""
+    m "EEEHHH!!! EHH! AAAH!"
 
 # game/script.rpy:21422
 translate pt_br bot_mardom_4a6d2916:
 
     # bot "And it sounds like you're becoming addicted to my body too...! Heheh..."
-    bot ""
+    bot "E parece que você está ficando viciada ao meu corpo também...! Heheh..."
 
 # game/script.rpy:21424
 translate pt_br bot_mardom_096d8b8c:
 
     # m "AAH! AAAAAAHHHMMM!!! NGH!" with sshake
-    m "" with sshake
+    m "AAH! AAAAAAHHHMMM!!!" with sshake
 
 # game/script.rpy:21426
 translate pt_br bot_mardom_1249ef83:
 
     # m "NGH!!" with sshake
-    m "" with sshake
+    m "NGH!!" with sshake
 
 # game/script.rpy:21429
 translate pt_br bot_mardom_cd63f207:
 
     # bot "You're a mess, Maria..."
-    bot ""
+    bot "Você está uma bagunça, Maria..."
 
 # game/script.rpy:21430
 translate pt_br bot_mardom_9c995f49:
 
     # m "Fuck...! Mmmmn...! Nnnghghghhh...!"
-    m ""
+    m "Porra...! Mmmmn...! Nnnghghghhh...!"
 
 # game/script.rpy:21433
 translate pt_br bot_mardom_a66c518f:
 
     # bot "A sloppy... {w}slutty... {w}fucking... {w}mess..."
-    bot ""
+    bot "A {w}porra... de uma... {w}bagunça... {w}safada... e {w}desleixada..."
 
 # game/script.rpy:21434
 translate pt_br bot_mardom_ceb64bf8:
 
     # m "Nnnnghhh... Mmmnnngh...!"
-    m ""
+    m "Nnnnghhh... Mmmnnngh...!"
 
 # game/script.rpy:21435
 translate pt_br bot_mardom_b5c69924:
 
     # bot "Who are you?"
-    bot ""
+    bot "Quem é você?"
 
 # game/script.rpy:21437
 translate pt_br bot_mardom_bbb89db0:
 
     # m "I... {w}nnghh...!"
-    m ""
+    m "Eu... {w}nnghh...!"
 
 # game/script.rpy:21438
 translate pt_br bot_mardom_587534fc:
 
     # bot "Come on..."
-    bot ""
+    bot "Vamos lá..."
 
 # game/script.rpy:21439
 translate pt_br bot_mardom_59418204:
 
     # m "I... {w}Ahhh...! Nnnnmmm..."
-    m ""
+    m "Eu... {w}Ahhh...! Nnnnmmm..."
 
 # game/script.rpy:21440
 translate pt_br bot_mardom_7b60cf31:
 
     # bot "I'll show you everything I can do..."
-    bot ""
+    bot "Eu vou te mostrar tudo o que eu consigo fazer.."
 
 # game/script.rpy:21441
 translate pt_br bot_mardom_b79ea3c0:
 
     # m "Hahh...! Nnnnh..."
-    m ""
+    m "Hahh...! Nnnnnh..."
 
 # game/script.rpy:21443
 translate pt_br bot_mardom_1da627c7:
 
     # m "I... {w}am... {w}your bitch..."
-    m ""
+    m "Eu...{w}sou... {w}a sua puta..."
 
 # game/script.rpy:21446
 translate pt_br bot_mardom_d9b41466:
 
     # bot "Mmmn, good girl..."
-    bot ""
+    bot "Mmmn, boa menina..."
 
 # game/script.rpy:21447
 translate pt_br bot_mardom_8a10754c:
 
     # bot "I'm going to enjoy playing with you alllllll day..."
-    bot ""
+    bot "Eu vou me divertir brincando com você o diiiiiiia todo..."
 
 # game/script.rpy:21449
 translate pt_br bot_mardom_726093b6:
 
     # "Meanwhile..."
-    ""
+    "Enquanto isso..."
 
 # game/script.rpy:21451
 translate pt_br bot_mardom_681a221a:
 
     # m "HYAAAAAAAHHH!!!" with ssshake
-    m "" with ssshake
+    m "HYAAAAAAAHHH!!!" with ssshake
 
 # game/script.rpy:21459
 translate pt_br bot_mardom_51aa2423:
 
     # bot "I guess I'll find something else to do..."
-    bot ""
+    bot "Acho que vou procurar outra coisa pra fazer..."
 
 # game/script.rpy:21468
 translate pt_br bot_mardom2_b4cc6937:
 
     # m "Mmmgh, mmmph...!"
-    m ""
+    m "Mmmgh, mmmph...!"
 
 # game/script.rpy:21469
 translate pt_br bot_mardom2_7e413c42:
 
     # bot "Like a proper sub..."
-    bot ""
+    bot "Tipo uma submissiva adequada..."
 
 # game/script.rpy:21473
 translate pt_br bot_mardom2_fb0f5dae:
 
     # bot "Watching [botown] through the cameras has been very useful, heheh!"
-    bot ""
+    bot "Assistir [botown] pelas câmeras tem sido muito útil, heheh!"
 
 # game/script.rpy:21474
 translate pt_br bot_mardom2_1e730859:
 
     # bot "And now that you understand your place as my bitch..."
-    bot ""
+    bot "E agora que você entendeu o seu lugar como a minha puta..."
 
 # game/script.rpy:21476
 translate pt_br bot_mardom2_8efd0a3c:
 
     # bot "...why don't we make sure your friends do as well?"
-    bot ""
+    bot "...o que acha de garantirmos que as suas amigas também tenham entendido?"
 
 # game/script.rpy:21477
 translate pt_br bot_mardom2_b7b4d57f:
 
     # m "Mmmgh..."
-    m ""
+    m "Mmmgh..."
 
 # game/script.rpy:21480
 translate pt_br bot_mardom2_8b248166:
 
     # a "[botname]!?"
-    a ""
+    a "[botname]!?"
 
 # game/script.rpy:21481
 translate pt_br bot_mardom2_d4907e0f:
 
     # bot "Hello Ashley!"
-    bot ""
+    bot "Olá Ashley!"
 
 # game/script.rpy:21482
 translate pt_br bot_mardom2_92cb8670:
 
     # a "You look different..."
-    a ""
+    a "Você parece diferente..."
 
 # game/script.rpy:21484
 translate pt_br bot_mardom2_21e08e14:
 
     # a "W-What happened to Maria...?"
-    a ""
+    a "O-O que aconteceu com a Maria...?"
 
 # game/script.rpy:21485
 translate pt_br bot_mardom2_3887fe9a:
 
     # bot "It took some time, but I broke her. She's my bitch now."
-    bot ""
+    bot "Levou algum tempo, mas consegui quebrar ela. Ela é a minha puta agora."
 
 # game/script.rpy:21486
 translate pt_br bot_mardom2_d1958289:
 
     # bot "Go ahead, show her how slutty you are."
-    bot ""
+    bot "Vá em frente, mostra pra ela o quanto você é safada."
 
 # game/script.rpy:21488
 translate pt_br bot_mardom2_b2b137e7:
 
     # m "Mmmph..."
-    m ""
+    m "Mmmph..."
 
 # game/script.rpy:21489
 translate pt_br bot_mardom2_dc37465a:
 
     # a "Hehe~ how did you get her to do that?"
-    a ""
+    a "Hehe~ como você conseguiu fazer ela ficar assim?"
 
 # game/script.rpy:21490
 translate pt_br bot_mardom2_73c32632:
 
     # bot "I just repeated what I saw, with my own touch..."
-    bot ""
+    bot "Eu só reproduzi o que eu vi, com meu toque pessoal..."
 
 # game/script.rpy:21491
 translate pt_br bot_mardom2_456f95ae:
 
     # bot "Come on, bitch. We're not done yet."
-    bot ""
+    bot "Vamos, puta. Nós não terminamos ainda."
 
 # game/script.rpy:21494
 translate pt_br bot_mardom2_4c5420e7:
 
     # bot "Hey girls~"
-    bot ""
+    bot "Ei meninas~"
 
 # game/script.rpy:21495
 translate pt_br bot_mardom2_be8146ad:
 
     # f "No way!!! Maria!?" with flash
-    f "" with flash
+    f "Não acredito!!! Maria!?" with flash
 
 # game/script.rpy:21496
 translate pt_br bot_mardom2_4ac8966f:
 
     # em "What the fuck...?"
-    em ""
+    em "Mas que porra...?"
 
 # game/script.rpy:21497
 translate pt_br bot_mardom2_d5a3c8b5:
 
     # m "Nnngh..."
-    m ""
+    m "Nnngh..."
 
 # game/script.rpy:21499
 translate pt_br bot_mardom2_bf9a4338:
 
     # em "What did she do to you...?"
-    em ""
+    em "O que ela fez com você...?"
 
 # game/script.rpy:21500
 translate pt_br bot_mardom2_8d8a2ea5:
 
     # bot "She's my good little bitch now... Understand? Mine."
-    bot ""
+    bot "Ela é a minha putinha boazinha agora... Entenderam? Minha."
 
 # game/script.rpy:21501
 translate pt_br bot_mardom2_b8750903:
 
     # f "Heh, okay..." with flash
-    f "" with flash
+    f "Heh, tudo bem..." with flash
 
 # game/script.rpy:21503
 translate pt_br bot_mardom2_614d3368:
 
     # c "Looks like you had fun."
-    c ""
+    c "Parece que vocês se divertiram."
 
 # game/script.rpy:21504
 translate pt_br bot_mardom2_8e2e36e3:
 
     # bot "Hi [botown]!"
-    bot ""
+    bot "Oi [botown]!"
 
 # game/script.rpy:21506
 translate pt_br bot_mardom2_481efb87:
 
     # m "MMMPH!? MMMPH!"
-    m ""
+    m "MMMPH!? MMMPH!"
 
 # game/script.rpy:21508
 translate pt_br bot_mardom2_a54066f6:
 
     # m "Nnnghhhgh!"
-    m ""
+    m "Nnnghhhgh!"
 
 # game/script.rpy:21510
 translate pt_br bot_mardom2_4341d8db:
 
     # m "Ahh...! [name]!"
-    m ""
+    m "Ahh...! [name]!"
 
 # game/script.rpy:21511
 translate pt_br bot_mardom2_ec9e021e:
 
     # m "She's too strong! I tried to resist, but she kept making me cum!"
-    m ""
+    m "Ela é tão forte! Eu tentei resistir, mas ela continuou me fazendo gozar!"
 
 # game/script.rpy:21512
 translate pt_br bot_mardom2_c4586e9e:
 
     # bot "Oh shut up, you submitted willfully..."
-    bot ""
+    bot "Ah, cala a boca, você se submeteu de intencionalmente..."
 
 # game/script.rpy:21514
 translate pt_br bot_mardom2_cbc1b018:
 
     # m "I am not a sub to {u}any{/u} girl!"
-    m ""
+    m "Eu não me submeto a menina {u}nenhuma{/u}!"
 
 # game/script.rpy:21515
 translate pt_br bot_mardom2_082d2b54:
 
     # bot "You loved it~"
-    bot ""
+    bot "Você amou isso~"
 
 # game/script.rpy:21516
 translate pt_br bot_mardom2_6ac3330a:
 
     # m "Who cares about that, I'm not your bitch!"
-    m ""
+    m "Quem liga pra isso? Eu não sou a sua puta!"
 
 # game/script.rpy:21517
 translate pt_br bot_mardom2_0b959623:
 
     # bot "That's not what you were yelling an hour ago."
-    bot ""
+    bot "Não era isso o que você estava gritando a uma hora atrás."
 
 # game/script.rpy:21519
 translate pt_br bot_mardom2_fb099bec:
 
     # m "Nnngh... I'm going to bed..."
-    m ""
+    m "Nnngh... Eu vou pra cama..."
 
 # game/script.rpy:21534
 translate pt_br botnew_40db4b1b:
 
     # bot "[botown], I'm back!"
-    bot ""
+    bot "[botown], eu voltei!"
 
 # game/script.rpy:21536
 translate pt_br botnew_9f62c029:
