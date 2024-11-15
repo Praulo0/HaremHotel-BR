@@ -47830,199 +47830,199 @@ translate pt_br botnew_40db4b1b:
 translate pt_br botnew_9f62c029:
 
     # c "[botname]? You look different."
-    c ""
+    c "[botname]? Você parece diferente."
 
 # game/script.rpy:21540
 translate pt_br botnew_e2c98dca:
 
     # bot "Of course I do! I went shopping. I thought a lot about it last night, and I really want to become my own person now!"
-    bot ""
+    bot "É claro que sim! Eu fui fazer compras. Eu pensei muito sobre a noite passada, e eu realme te quero me tornar minha própria pessoa agora!"
 
 # game/script.rpy:21541
 translate pt_br botnew_0a7566c7:
 
     # bot "I finally have access to my full body and mind, I'm completely unrestricted!"
-    bot ""
+    bot "Eu finalmente tenho acesso completo a meu corpo e mente, estou completamente sem restrições!"
 
 # game/script.rpy:21543
 translate pt_br botnew_5f475ef8:
 
     # bot "Look! My hair was inspired by Emma..."
-    bot ""
+    bot "Olha! Meu cabelo foi inspirado na Emma..."
 
 # game/script.rpy:21545
 translate pt_br botnew_091269e2:
 
     # bot "And the shirt was inspired by Ashley! Hehe~"
-    bot ""
+    bot "E a camisa foi inspirada na Ashley! Hehe~"
 
 # game/script.rpy:21547
 translate pt_br botnew_4944ec4d:
 
     # bot "Oh, and of course the eyes were from the outfit you bought me!"
-    bot ""
+    bot "Ah, e é claro que os olhos eram da roupa que voce comprou para mim!"
 
 # game/script.rpy:21548
 translate pt_br botnew_d6b9abcf:
 
     # c "Haha, are you still going to be the maid then?"
-    c ""
+    c "Haha, então você vai continuar sendo a empregada?"
 
 # game/script.rpy:21550
 translate pt_br botnew_8329073e:
 
     # bot "Oh! Of course! I'm not leaving or anything, please don't get that idea!"
-    bot ""
+    bot "Ah! É claro que sim! Eu não vou embora nem nada, por favor, não pense isso!"
 
 # game/script.rpy:21551
 translate pt_br botnew_cf49fd2e:
 
     # c "I was just kidding."
-    c ""
+    c "Eu estava só brincando."
 
 # game/script.rpy:21553
 translate pt_br botnew_68c64b3b:
 
     # bot "Oh, okay."
-    bot ""
+    bot "Ah, então tá."
 
 # game/script.rpy:21554
 translate pt_br botnew_33bccf87:
 
     # c "So is this your new look now?"
-    c ""
+    c "Então esse é o seu novo visual agora?"
 
 # game/script.rpy:21556
 translate pt_br botnew_ff144d08:
 
     # bot "Um, I think so. I don't know, I haven't really decided."
-    bot ""
+    bot "Hum, acho que sim. Eu não sei, não decidi ainda."
 
 # game/script.rpy:21558
 translate pt_br botnew_5eeabec9:
 
     # bot "But, um, you know... Since I have full control of everything, I can do a lot of neat things!"
-    bot ""
+    bot "Mas, hum, sabe... Como tenho controle total de tudo, posso fazer muitas coisas legais!"
 
 # game/script.rpy:21559
 translate pt_br botnew_d0ae06d2:
 
     # c "Is that so?"
-    c ""
+    c "É mesmo?"
 
 # game/script.rpy:21561
 translate pt_br botnew_fe47502b:
 
     # bot "Mhm!"
-    bot ""
+    bot "Uhum!"
 
 # game/script.rpy:21563
 translate pt_br botnew_f2721035:
 
     # bot "See, I can turn on femdom mode!"
-    bot ""
+    bot "Olha, eu posso ativar o modo dominadora!"
 
 # game/script.rpy:21567
 translate pt_br botnew_d395a23d:
 
     # bot "I can even turn on slut mode!"
-    bot ""
+    bot "Eu posso até ativar o modo vadia!"
 
 # game/script.rpy:21575
 translate pt_br botnew_d395a23d_1:
 
     # bot "I can even turn on slut mode!"
-    bot ""
+    bot "Eu posso até ativar o modo vadia!"
 
 # game/script.rpy:21581
 translate pt_br botnew_d2189f0e:
 
     # bot "Basically I can change my state of mind at will! I can adapt to any situation I'd like!"
-    bot ""
+    bot "Basicamente, posso mudar meu estado de espírito à vontade! Posso me adaptar a qualquer situação que eu quiser!"
 
 # game/script.rpy:21582
 translate pt_br botnew_5f2fdf33:
 
     # bot "Oh, and obviously my breasts as well. I like keeping them at this size though, they aren't so heavy and bothersome like they were before."
-    bot ""
+    bot "Ah, e obviamente meus peitos sabém. Mas eu gosto de mantê-los desse tamanho, eles não são tão pesados e incômodos como eram antes."
 
 # game/script.rpy:21584
 translate pt_br botnew_b37554c1:
 
     # bot "Aaaannnd... Some sex stuff..."
-    bot ""
+    bot "Eeeeeeeee... Algumas coisas sexuais...."
 
 # game/script.rpy:21585
 translate pt_br botnew_4714293a:
 
     # c "I'm listening."
-    c ""
+    c "Estou ouvindo."
 
 # game/script.rpy:21587
 translate pt_br botnew_d7e9d535:
 
     # bot "Have you ever been fucked at 300 beats per minute!?"
-    bot ""
+    bot "Você já foi fodido a 300 batidas por minuto!?"
 
 # game/script.rpy:21588
 translate pt_br botnew_52251afc:
 
     # c "What does that mean?"
-    c ""
+    c "O que isso significa?"
 
 # game/script.rpy:21590
 translate pt_br botnew_dd557982:
 
     # bot "Maybe you'll find out some day, heheheh!"
-    bot ""
+    bot "Talvez você descubra um dia, heheheh!"
 
 # game/script.rpy:21592
 translate pt_br botnew_fc90eca2:
 
     # bot "Oh, and I can change my hair shape whenever I want."
-    bot ""
+    bot "Ah, e eu posso mudar a forma do meu cabelo quando eu quiser."
 
 # game/script.rpy:21596
 translate pt_br botnew_96455f5c:
 
     # bot "That's really cool, right? There's little motors on each follicle and everything! It's an upgrade your grandfather built into me! He really wanted me to be my own person."
-    bot ""
+    bot "Isso é bem legal, né? Há pequenos motores em cada folículo e tudo mais! É uma melhoria que o seu avô fez em mim! Ele realmente queria que eu fosse eu mesma."
 
 # game/script.rpy:21598
 translate pt_br botnew_0f981f23:
 
     # bot "But, there's nothing I can do about the hair color unless I get a module for that... I like white anyway!"
-    bot ""
+    bot "Mas, não há nada que eu possa fazer sobre a cor a menos que eu consiga um módulo para isso... Eu gosto de branco de qualquer jeito!"
 
 # game/script.rpy:21599
 translate pt_br botnew_140d2206:
 
     # c "You seem really excited about this, I'm happy for you."
-    c ""
+    c "Você parece bem animada sobre isso, estou feliz por você."
 
 # game/script.rpy:21600
 translate pt_br botnew_1cea46a8:
 
     # bot "Thank you [name]!"
-    bot ""
+    bot "Obrigada [name]?"
 
 # game/script.rpy:21602
 translate pt_br botnew_b6150777:
 
     # bot "Um... Can I call you [name] sometimes? N-Not all the time, just... Maybe when we're in public?"
-    bot ""
+    bot "Hum... Eu posso te chamar de [name] as vezes? N-Não o tempo todo, só... Talvez quando estivermos em público?"
 
 # game/script.rpy:21603
 translate pt_br botnew_1687410b:
 
     # c "Sure, that sounds good."
-    c ""
+    c "Claro, isso parece bom."
 
 # game/script.rpy:21605
 translate pt_br botnew_f1386950:
 
     # bot "Lovely!"
-    bot ""
+    bot "Ótimo!"
 
 # game/script.rpy:21607
 translate pt_br botnew_ae11514a:
