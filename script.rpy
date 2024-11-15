@@ -48033,7 +48033,7 @@ translate pt_br botnew_f1386950:
 translate pt_br botnew_ae11514a:
 
     # l "[botname]?"
-    l ""
+    l "[botname]?"
 
 # game/script.rpy:21608
 translate pt_br botnew_d5d794fb:
