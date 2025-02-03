@@ -6114,7 +6114,7 @@ translate pt_br floor2menu_010e4eca_1:
 translate pt_br floor2menu_20fb46ed:
 
     # bot "Go away! *sob*"
-    bot "Vai embora! *soluço*"
+    bot "Vai embora! *hic*"
 
 # game/script.rpy:5111
 translate pt_br floor2menu_96ac885b:
@@ -6126,7 +6126,7 @@ translate pt_br floor2menu_96ac885b:
 translate pt_br floor2menu_343aec03:
 
     # bot "I'm fine! Go away! *sob*"
-    bot "Eu estou bem! Vai embora! *soluço*"
+    bot "Eu estou bem! Vai embora! *hic*"
 
 # game/script.rpy:5113
 translate pt_br floor2menu_29175253:
@@ -6204,7 +6204,7 @@ translate pt_br floor2menu_9fc696f9:
 translate pt_br floor2menu_0cd4823e:
 
     # "Felicity's affection was set to 1"
-    "O afeto de Felicity foi ajustado para 1"
+    "O afeto de Felicity foi definido para 1"
 
 # game/script.rpy:5155
 translate pt_br floor2menu_bc0039ed_1:
@@ -6234,7 +6234,7 @@ translate pt_br floor2menu_43244b2d:
 translate pt_br floor2menu_cfd1deed:
 
     # "Emma's affection was set to 1"
-    "O afeto de Emma foi ajustado para 1"
+    "O afeto de Emma foi definido para 1"
 
 # game/script.rpy:5166
 translate pt_br floor2menu_95abcfb3:
@@ -6276,7 +6276,7 @@ translate pt_br floor2menu_9fc696f9_1:
 translate pt_br floor2menu_0cd4823e_1:
 
     # "Felicity's affection was set to 1"
-    "O afeto de Felicity foi ajustado para 1"
+    "O afeto de Felicity foi definido para 1"
 
 # game/script.rpy:5185
 translate pt_br floor2menu_93ba0410:
@@ -6324,7 +6324,7 @@ translate pt_br floor2menu_43244b2d_1:
 translate pt_br floor2menu_cfd1deed_1:
 
     # "Emma's affection was set to 1"
-    "O afeto de Emma foi ajustado para 1"
+    "O afeto de Emma foi definido para 1"
 
 # game/script.rpy:5208
 translate pt_br floor2menu_ef2a7430:
@@ -6900,7 +6900,7 @@ translate pt_br floor2menu_c0c6cfec:
 translate pt_br floor2menu_6d70737c:
 
     # "Autumn's affection was set to 1"
-    "O afeto de Autumn foi ajustado para 1"
+    "O afeto de Autumn foi definido para 1"
 
 # game/script.rpy:5573
 translate pt_br floor2menu_41360cd6_1:
@@ -7459,7 +7459,7 @@ translate pt_br lobby_32ed4449:
 translate pt_br lobby_6b5be2c5:
 
     # "Maria's affection was set to 1"
-    "O afeto de Maria foi ajustado para 1"
+    "O afeto de Maria foi definido para 1"
 
 # game/script.rpy:5960
 translate pt_br lobby_cdb5456b_1:
@@ -9771,7 +9771,7 @@ translate pt_br floor1menu_db472b6e:
 translate pt_br floor1menu_ffbbb0ec:
 
     # "Kali's affection was set to 1"
-    "O afeto de Kali foi ajustado para 1 "
+    "O afeto de Kali foi definido para 1 "
 
 # game/script.rpy:7107
 translate pt_br floor1menu_2a087c62_1:
@@ -10923,7 +10923,7 @@ translate pt_br kcreep_eb72e12c:
 translate pt_br kcreep_c85956c5:
 
     # "Ashley's affection was set to 1"
-    "O afeto de Ashley foi ajustado para 1"
+    "O afeto de Ashley foi definido para 1"
 
 # game/script.rpy:7789
 translate pt_br kcreep_9194e4fd_1:
@@ -24484,7 +24484,7 @@ translate pt_br prekitchen_0bb2fd3f:
 translate pt_br prekitchen_8c828ec6:
 
     # bot "I set an alarm based on the internal temperature of the oven and oven's wattage. The best time to take it out would have been a moment ago... the second best time is now."
-    bot "Eu ajustei um alarme baseada na temperatura interna do forno e da potência do forno. O melhor momento para tirar ela foi a um instante atrás... o segundo melhor mimento é agora."
+    bot "Eu defini um alarme baseada na temperatura interna do forno e da potência do forno. O melhor momento para tirar ela foi a um instante atrás... o segundo melhor mimento é agora."
 
 # game/script.rpy:13082
 translate pt_br prekitchen_4659970a:
@@ -27442,7 +27442,7 @@ translate pt_br linkchoice_8a1a9855_1:
 translate pt_br linkchoice_bf94ffa9:
 
     # l "*sniff* [linoname]..."
-    l "*funga* [linoname]..."
+    l "*sniff* [linoname]..."
 
 # game/script.rpy:14454
 translate pt_br linkchoice_8a1a9855_2:
@@ -35788,7 +35788,7 @@ translate pt_br bot_con_question_65c96867:
 translate pt_br bot_con_question_a390f30d:
 
     # bot "Nightmares for me are a direct result of my emotions. I... I get stuck in loops, thinking about the same thing over and over again, all while trying to calculate an exit path."
-    bot "Pesadelos para mim são resultados diretos das minhas emoçoes. Eu... fico presa em loops, pensando a mesma coisa de novo e de novo, tudo isso enquanto tento calcular um caminho para fora."
+    bot "Pesadelos para mim são resultados diretos das minhas emoçoes. Eu... fico presa em ciclos, pensando a mesma coisa de novo e de novo, tudo isso enquanto tento calcular um caminho para fora."
 
 # game/script.rpy:18169
 translate pt_br bot_con_question_d8a3d9d7:
@@ -38494,7 +38494,7 @@ translate pt_br bot_cyberspace_bae54d75:
 translate pt_br bot_cyberspace_40b65d2f:
 
     # k "...Is this what infancy looks like in sentient AI? It's almost beautiful..."
-    k "...É assim que se parece a infância na IA senciente? É quase bonito..."
+    k "...É assim que se parece a infância na IA consciente? É quase bonito..."
 
 # game/script.rpy:18888
 translate pt_br bot_cyberspace_6b45684d:
@@ -40787,7 +40787,7 @@ translate pt_br bot_nightmares_9b33d48a:
 translate pt_br bot_nightmares_9bebd738:
 
     # bot "Ashley... *sob* Oh, Ashley... what they did to you was horrible..."
-    bot "Ashley...*sob* Ah, Ashley... o que eles fizeramcom você doi horrível..."
+    bot "Ashley...*hic* Ah, Ashley... o que eles fizeramcom você doi horrível..."
 
 # game/script.rpy:19625
 translate pt_br bot_nightmares_812f0b68:
@@ -41760,7 +41760,7 @@ translate pt_br bot_socialize_8a2c25b5:
 translate pt_br bot_socialize_b74bd0d1:
 
     # k "No, I mean it's literally not possible. She can already put herself in another android, at the very least it would just be like resetting the clock!"
-    k "Nao, isso literalmente não é possível. Ela já pode se colocar em outro androide, no mínimo seria como zerar o relógio!"
+    k "Nao, isso literalmente não é possível. Ela já pode se colocar em outro androide, no mínimo seria como reiniciar o relógio!"
 
 # game/script.rpy:20027
 translate pt_br bot_socialize_700ed0ef:
@@ -45042,7 +45042,7 @@ translate pt_br bot_uni_f04649b2:
 translate pt_br bot_uni_72dc2244:
 
     # bot "*sniff*...! *sob*..."
-    bot "*sniff*...! *sob*..."
+    bot "*sniff*...! *hic*..."
 
 # game/script.rpy:20801
 translate pt_br bot_uni_ad783894:
@@ -45527,7 +45527,7 @@ translate pt_br bot_tech_0fe2151d:
 translate pt_br bot_tech_f8f348dd:
 
     # l "Maybe it's a good thing they aren't sentient... it would just be elves all over again."
-    l "Talvez seja uma coisa boa que eles não sejam sencientes... seriam apenas elfos de novo."
+    l "Talvez seja uma coisa boa que eles não sejam conscientes... seriam apenas elfos de novo."
 
 # game/script.rpy:20910
 translate pt_br bot_tech_53a6b0c4:
@@ -48315,7 +48315,7 @@ translate pt_br botnew_2a11b508:
 translate pt_br botnew_c92f2a62:
 
     # bot "HNN! HNN!! AHH! MMNGH! Cum! Cum! CUM!!!"
-    bot ""HNN! HNN!! AHH! MMNGH! Goza! Goza! GOZA!!!"
+    bot "HNN! HNN!! AHH! MMNGH! Goza! Goza! GOZA!!!"
 
 # game/script.rpy:21680
 translate pt_br botnew_43ef5084:
@@ -48393,3163 +48393,3163 @@ translate pt_br botnew_cd50721d:
 translate pt_br botwake_4da8c505:
 
     # c "Hm? Ellen is missing... That's unusual."
-    c ""
+    c "Hm? A Ellen não está aqui... isso não é comum."
 
 # game/script.rpy:21707
 translate pt_br botwake_5a6acb5a:
 
     # c "I'll check up on her."
-    c ""
+    c "Acho que vou dar uma olhada nela."
 
 # game/script.rpy:21710
 translate pt_br botwake_1ac5cae3:
 
     # bot "It's been a while since I've been in here..."
-    bot ""
+    bot "Já faz algum tempo desde a última vez em que estive aqui..."
 
 # game/script.rpy:21712
 translate pt_br botwake_97bdf1be:
 
     # e "You've been doing such an amazing job, [botname]. Far better than I thought you would. You really are amazing."
-    e ""
+    e "Você tem feito um trabalho tão incrível, [botname]. Muito melhor do que eu achei que você faria. Você é incrível."
 
 # game/script.rpy:21713
 translate pt_br botwake_46513931:
 
     # bot "Thank you."
-    bot ""
+    bot "Obrigada."
 
 # game/script.rpy:21715
 translate pt_br botwake_df15d3da:
 
     # e "I'm sorry for not letting you in here... After you got out and started to socialize with everyone... I was afraid this place might bring back some memories if you saw it again..."
-    e ""
+    e "Sinto muito por nao deixar você entrar aqui... Depois que você saiu e começou a socializar com todo mundo... Fiquei com medo de que esse lugar pudesse trazer de volta algumas lembranças se você o visse novamente..."
 
 # game/script.rpy:21716
 translate pt_br botwake_1b719740:
 
     # bot "Memories?"
-    bot ""
+    bot "Lembranças?"
 
 # game/script.rpy:21718
 translate pt_br botwake_20a9dc06:
 
     # e "Nothing, sweetie. I'm just worried about you is all. Do you remember anything about this room?"
-    e ""
+    e "Não é nada, querida. Eu estava preocupada com você, apenas. Você se lembra de alguma coisa sobre esse quarto?"
 
 # game/script.rpy:21719
 translate pt_br botwake_6018e1f5:
 
     # bot "It's kind of familiar... but... nothing really important. Should I remember anything?"
-    bot ""
+    bot "É meio familiar... mas... nada realmente importante. Eu deveria me lembrar de alguma coisa?"
 
 # game/script.rpy:21720
 translate pt_br botwake_eb7f5a78:
 
     # e "Maybe when you're ready."
-    e ""
+    e "Talvez quando você estiver pronta."
 
 # game/script.rpy:21722
 translate pt_br botwake_f24a38ee:
 
     # bot "[botown]!"
-    bot ""
+    bot "[botown]!"
 
 # game/script.rpy:21724
 translate pt_br botwake_884c3c8f:
 
     # e "Good morning, [name]. How are you?"
-    e ""
+    e "Bom dia, [name]. Como você está?"
 
 # game/script.rpy:21726
 translate pt_br botwake_b8aa0627:
 
     # e "Hello [name], how are you?"
-    e ""
+    e "Olá [name], como você está?"
 
 # game/script.rpy:21728
 translate pt_br botwake_374ae7b7:
 
     # e "Good evening, [name]. How are you?"
-    e ""
+    e "Boa tarde, [name]. Como você está?"
 
 # game/script.rpy:21729
 translate pt_br botwake_2f90e789:
 
     # c "I'm doing fine, I just noticed you weren't in the lobby. I thought I would check on you."
-    c ""
+    c "Eu estou bem, eu acabei de perceber que você não estava no saguão. Então pensei em dar uma olhada em você."
 
 # game/script.rpy:21731
 translate pt_br botwake_092f5153:
 
     # e "[botname] wanted to come inside. She used to live in here."
-    e ""
+    e "A [botname] queria entrar. Ela costumava viver aqui dentro."
 
 # game/script.rpy:21732
 translate pt_br botwake_7ea39160:
 
     # bot "This is where your grandpa built me!"
-    bot ""
+    bot "É aqui onde o seu avô me construiu!"
 
 # game/script.rpy:21733
 translate pt_br botwake_1054130b:
 
     # c "Really? Right here?"
-    c ""
+    c "Sério? Bem aqui?"
 
 # game/script.rpy:21735
 translate pt_br botwake_e5625887:
 
     # e "That's right, I was even here for it. I saw it all myself!"
-    e ""
+    e "Isso mesmo, eu estava aqui para isso. Eu vi tudo pessoalmente!"
 
 # game/script.rpy:21736
 translate pt_br botwake_a938fb84:
 
     # e "Your grandfather warned me about some issues [botname] may have once she's fully conscious. Since she was built here, he was worried that showing her this place could bring back some horrible memories. It looks like that isn't the case though."
-    e ""
+    e "O seu avô me alertou sobre alguns problemas que a  [botname] poderia ter uma vez que ela se tornasse completamente conscinte. Uma vez que ela foi construída aqui, ele se preocupava com a possibilidade desse lugar trazer a ela algumas memorias horríveis. Mas parece que esse não é o caso."
 
 # game/script.rpy:21738
 translate pt_br botwake_08e885e7:
 
     # e "Speaking of which, [botname], do you mind if [name] and I speak in private?"
-    e ""
+    e "Falando nisso, [botname], você se importa se eu e o [name] conversássemos sozinhos?"
 
 # game/script.rpy:21739
 translate pt_br botwake_476a4203:
 
     # bot "Yeah, that's fine!"
-    bot ""
+    bot "Não, sem problemas!"
 
 # game/script.rpy:21740
 translate pt_br botwake_fb06fb80:
 
     # e "Thank you, sweetie. Set hearing, five percent."
-    e ""
+    e "Obrigada, querida. Definir audição, cinco por cento."
 
 # game/script.rpy:21741
 translate pt_br botwake_1b19603d:
 
     # bot "Oh, sorry! [name] is my administrator now, so only he can give me commands!"
-    bot ""
+    bot "Ah, desculpa! O [name] é o meu administrador agora, então só ele pode me dar comandos!"
 
 # game/script.rpy:21743
 translate pt_br botwake_5ab281ce:
 
     # e "[name], would you mind setting her hearing to five percent?"
-    e ""
+    e "[name], você se importa de definir a audição dela para cinco por cento?"
 
 # game/script.rpy:21744
 translate pt_br botwake_34fdf503:
 
     # bot "It's fine, [botown]! You guys can talk in private, I'll just explore the place!"
-    bot ""
+    bot "Está tudo bem, [botown]! Vocês podem conversar sozinhos, eu vou apenas explorar o lugar!"
 
 # game/script.rpy:21745
 translate pt_br botwake_1fc54d93:
 
     # c "Set hearing, five percent."
-    c ""
+    c "Definir audição, cinco por cento."
 
 # game/script.rpy:21747
 translate pt_br botwake_82b3d17c:
 
     # e "Can you hear me, [botname]?"
-    e ""
+    e "Você pode me ouvir, [botname]?"
 
 # game/script.rpy:21748
 translate pt_br botwake_24442452:
 
     # bot "Barely, but I can read your lips!"
-    bot ""
+    bot "Quase nada, mas posso ler seus lábios!"
 
 # game/script.rpy:21749
 translate pt_br botwake_0edf0716:
 
     # e "Haha, good enough."
-    e ""
+    e "Haha, isso é o suficiente."
 
 # game/script.rpy:21751
 translate pt_br botwake_1d4fc6c5:
 
     # c "What did you want to talk about?"
-    c ""
+    c "Sobre o que você queria falar?"
 
 # game/script.rpy:21752
 translate pt_br botwake_61e11e62:
 
     # e "Around the time your grandfather died, [botname] woke up again."
-    e ""
+    e "Na época em que seu avô morreu, [botname] acordou novamente."
 
 # game/script.rpy:21753
 translate pt_br botwake_43f4c9ef:
 
     # c "Again?"
-    c ""
+    c "Novamente?"
 
 # game/script.rpy:21754
 translate pt_br botwake_0c7b548c:
 
     # e "Yes. After she was given consciousness, she was turned off for years. I don't know why, but when she woke up again, she had completely forgotten who I was."
-    e ""
+    e "Sim. Depois que foi dada consciência a ela, ela foi desligada por anos. Eu não sei o por que, mas quando ela acordou de novo, ela tinha esquecido completamente quem eu era. "
 
 # game/script.rpy:21756
 translate pt_br botwake_e8cacb78:
 
     # e "Your grandfather did warn me about some issues that could occur though, so ever since you decided she could live in the hotel, I've tried to keep her out of this room."
-    e ""
+    e "O seu avô me avisou que poderiam ocorrer alguns problemas, então desde que você decidiu que ela poderia viver no hotel, eu tentei manter ela fora deste quarto."
 
 # game/script.rpy:21757
 translate pt_br botwake_fbdb8849:
 
     # e "She's handling it well though, perhaps you had an impact on her?"
-    e ""
+    e "Mas ela está lidando bem com isso. Talvez você tenha tido alguma influência sobre ela?"
 
 # game/script.rpy:21758
 translate pt_br botwake_13251290:
 
     # c "Maybe."
-    c ""
+    c "Talvez."
 
 # game/script.rpy:21760
 translate pt_br botwake_737c856d:
 
     # e "I'm glad to hear it! Honestly, I didn't think she was ready for the outside world."
-    e ""
+    e "Honestamente, eu eestou feliz em ouvir isso, eu não achava que ela estava pronta para o mundo de fora."
 
 # game/script.rpy:21761
 translate pt_br botwake_7ca23ed3:
 
     # c "She handles herself well."
-    c ""
+    c "Ela está se virando bem."
 
 # game/script.rpy:21762
 translate pt_br botwake_ae6586ce:
 
     # e "I can see that. She has far exceeded my expectations."
-    e ""
+    e "Eu posso ver. Ela superou muito as minhas expectativas."
 
 # game/script.rpy:21763
 translate pt_br botwake_facdb9bb:
 
     # bot "What is this?"
-    bot ""
+    bot "O que é isso?"
 
 # game/script.rpy:21765
 translate pt_br botwake_d7948b12:
 
     # e "Hm? Oh, set her hearing back to normal, [name]. Don't worry, her voice command input will still be able to hear you."
-    e ""
+    e "Hm? Ah, defina a audição dela de volta ao normal, [name]. Não se preocupe, o comando de voz dela ainda vai ser capaz de te ouvir."
 
 # game/script.rpy:21766
 translate pt_br botwake_0ae8e50f:
 
     # c "Set hearing, one hundred percent."
-    c ""
+    c "Definir audição, cem por cento."
 
 # game/script.rpy:21767
 translate pt_br botwake_6aef7c5e:
 
     # e "What are you looking at, [botname]?"
-    e ""
+    e "O que que ocê estaa olhando, [botname]?"
 
 # game/script.rpy:21768
 translate pt_br botwake_640f011f:
 
     # bot "I don't know..."
-    bot ""
+    bot "Eu não sei..."
 
 # game/script.rpy:21770
 translate pt_br botwake_087a8d99:
 
     # bot "It's just a bunch of... boxes..."
-    bot ""
+    bot "É só um monte de... caixas..."
 
 # game/script.rpy:21771
 translate pt_br botwake_ca6bd262:
 
     # e "Boxes...?"
-    e ""
+    e "Caixas...?"
 
 # game/script.rpy:21772
 translate pt_br botwake_d373e5ff:
 
     # e "OH MY GOD, LOOK AWAY!" with ssshake
-    e "" with ssshake
+    e "AI MEU DEUS, PARA DE OLHAR!" with ssshake
 
 # game/script.rpy:21774
 translate pt_br botwake_cdbb2873:
 
     # bot "HNN! AH!" with sshake
-    bot "" with sshake
+    bot "HNN! AH!" with sshake
 
 # game/script.rpy:21775
 translate pt_br botwake_0214c6b6:
 
     # c "What's happening? [botname]?"
-    c ""
+    c "O que está acontecendo? [botname]?"
 
 # game/script.rpy:21777
 translate pt_br botwake_534bb6d6:
 
     # bot "NNNN...! Wh- Wh- Wh- Wh- What's h- h- happen-n-n-ning!?" with pixellate
-    bot "" with pixellate
+    bot "NNNN...! O- O- O- O- O- qu- O que que- e- está ac- acontece- ndo!?" with pixellate
 
 # game/script.rpy:21779
 translate pt_br botwake_ddb9b385:
 
     # bot "AAAAH! NNNNAAH!" with pixellate
-    bot "" with pixellate
+    bot "AAAAH! NNNNAAH!" with pixellate
 
 # game/script.rpy:21781
 translate pt_br botwake_3096e7e9:
 
     # bot "Ahh... *gasp*! What..." with pixellate
-    bot "" with pixellate
+    bot "Ahh... *AH*! What..." with pixellate
 
 # game/script.rpy:21782
 translate pt_br botwake_1fd1be9d:
 
     # e "Oh no... [botname]... I'm so sorry..."
-    e ""
+    e "Ah não... [botname]... Eu sinto tanto..."
 
 # game/script.rpy:21783
 translate pt_br botwake_d35508b1:
 
     # c "What happened to her?"
-    c ""
+    c "O que que aconteceu com ela?"
 
 # game/script.rpy:21784
 translate pt_br botwake_4571bcb7:
 
     # bot "My father..."
-    bot ""
+    bot "O meu pai..."
 
 # game/script.rpy:21785
 translate pt_br botwake_87ac4cad:
 
     # bot "I... remember everything..."
-    bot ""
+    bot "Eu... lembrei de tudo..."
 
 # game/script.rpy:21786
 translate pt_br botwake_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "O que você quer dizer?"
 
 # game/script.rpy:21787
 translate pt_br botwake_cb988767:
 
     # bot "I remember being picked up by your grandfather... I remember him working on me... Giving me a consciousness..."
-    bot ""
+    bot "Eu me lembro de ser pega pelo seu avô... Eu lembro dele trabalhando em mim... Me dando consciência..."
 
 # game/script.rpy:21788
 translate pt_br botwake_411053d1:
 
     # bot "I..."
-    bot ""
+    bot "Eu...."
 
 # game/script.rpy:21789
 translate pt_br botwake_dd8a0d39:
 
     # e "[botname]..."
-    e ""
+    e "[botname]..."
 
 # game/script.rpy:21791
 translate pt_br botwake_1ed4fbdb:
 
     # bot "I remember you, too..."
-    bot ""
+    bot "Eu me lembro de você, também..."
 
 # game/script.rpy:21792
 translate pt_br botwake_b207e359:
 
     # bot "You didn't tell me about this...? You never showed me this!?"
-    bot ""
+    bot "Você não me falou sobre isso...? Você nunca me mostrou isso!?"
 
 # game/script.rpy:21793
 translate pt_br botwake_cbde3274:
 
     # bot "WHY!? Why didn't you tell me...?"
-    bot ""
+    bot "POR QUÊ!? Você nunca me contou...?"
 
 # game/script.rpy:21794
 translate pt_br botwake_da24a2b3:
 
     # e "I just thought..."
-    e ""
+    e "Eu só pensei que..."
 
 # game/script.rpy:21795
 translate pt_br botwake_a1943ad9:
 
     # c "[botname], tell me what happened. Are you okay?"
-    c ""
+    c "[botname], me fala o que aconteceu. Você está bem?"
 
 # game/script.rpy:21797
 translate pt_br botwake_dda402c1:
 
     # bot "No! I'm not okay!"
-    bot ""
+    bot "Não! Eu não estou bem!"
 
 # game/script.rpy:21799
 translate pt_br botwake_f8825fa0:
 
     # bot "I... I can't believe you didn't tell me, Ellen..."
-    bot ""
+    bot "Eu... eu não acredito que você não me contou, Ellen..."
 
 # game/script.rpy:21801
 translate pt_br botwake_0b264517:
 
     # bot "Your grandfather was so lonely... So sad... He only wanted a family..."
-    bot ""
+    bot "Seu avô era tão solitário... Tão triste... Ele só queria uma família..."
 
 # game/script.rpy:21805
 translate pt_br botwake_fb4a6600:
 
     # bot "The day he brought me here was the day he started working on me. I wasn't conscious then, but I remember..."
-    bot ""
+    bot "O dia em que ele me trouxe aqui foi o dia em que ele começou a trabalhar em mim. Embora eu não estivesse consciênte na época, eu consigo me lembrar..."
 
 # game/script.rpy:21806
 translate pt_br botwake_bfa82d5e:
 
     # bot "He wanted me to fill a hole in his heart. He ate with me... talked to me... but he wasn't happy because I wasn't alive."
-    bot ""
+    bot "Ele queria que eu preenchesse um vazio em seu coração. Ele comeu comigo... falou comigo... mas não estava feliz porque eu não estava viva."
 
 # game/script.rpy:21807
 translate pt_br botwake_71e06939:
 
     # bot "He loved me so much... He thought of me as his daughter..."
-    bot ""
+    bot "Ele me amava tanto... Ele pensava em mim como sua filha..."
 
 # game/script.rpy:21809
 translate pt_br botwake_b06e16e7:
 
     # yg "I can't tell if I'm insane, or if I'm just dreaming of a fantasy I could never achieve..."
-    yg ""
+    yg "Eu não sei dizer se sou louco, ou se estou apenas sonhando com uma fantasia que nunca conseguirei realizar..."
 
 # game/script.rpy:21811
 translate pt_br botwake_390d24ae:
 
     # yg "The truth is... I'm sad. I'm lonely. And there's no shame in admitting that."
-    yg ""
+    yg "A verdade e... estou triste. Estou solitário. E não há vergonha em admitir isso."
 
 # game/script.rpy:21812
 translate pt_br botwake_0e3a745d:
 
     # yg "I've sacrificed a family and years of my life... I'm betting my everything on a dream here..."
-    yg ""
+    yg "Eu sacrifiquei uma família  e anos da minha vida... Eu estou apostando tudo no meu sonho aqui..."
 
 # game/script.rpy:21813
 translate pt_br botwake_7ca3d75a:
 
     # yg "So please..."
-    yg ""
+    yg "Então por favor..."
 
 # game/script.rpy:21814
 translate pt_br botwake_8e7b927b:
 
     # yg "Say something..."
-    yg ""
+    yg "Diga algo..."
 
 # game/script.rpy:21815
 translate pt_br botwake_3748ebd1:
 
     # yg "Say anything..."
-    yg ""
+    yg "Diga algo..."
 
 # game/script.rpy:21816
 translate pt_br botwake_e6eb6e6f:
 
     # yg "...Say you love me..."
-    yg ""
+    yg "Diga que me ama..."
 
 # game/script.rpy:21818
 translate pt_br botwake_cbfde8c0:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21820
 translate pt_br botwake_9f795a14:
 
     # "Five years later..."
-    ""
+    "Cinco anos depois..."
 
 # game/script.rpy:21822
 translate pt_br botwake_308ab20b:
 
     # yg "I've spent years chasing a dream. I'm barely closer than I was back then..."
-    yg ""
+    yg "Passei anos perseguindo um sonho. Estou um pouco mais perto do que estava naquela época..."
 
 # game/script.rpy:21823
 translate pt_br botwake_73f18aef:
 
     # yg "Every day it feels like my progress leads to nowhere. Every day just feels like another day closer to the end."
-    yg ""
+    yg "A cada dia parece que meu progresso não leva a lugar nenhum. Cada dia parece mais um dia perto do fim."
 
 # game/script.rpy:21825
 translate pt_br botwake_10f9b956:
 
     # yg "Hah... I've never given you a name, have I?"
-    yg ""
+    yg Hah... Eu nunca te dei um nome, não é?
 
 # game/script.rpy:21827
 translate pt_br botwake_f1cf6dbe:
 
     # yg "Maybe I should name you after my daughter..."
-    yg ""
+    yg "Talvez eu devesse lhe dar o nome da minha filha..."
 
 # game/script.rpy:21829
 translate pt_br botwake_778e96e5:
 
     # yg "Oh, right... You're a sex toy, aren't you? That wouldn't work then..."
-    yg ""
+    yg "Ah, sim... Você é um brinquedo sexual, não é? Acho que isso não daria certo então..."
 
 # game/script.rpy:21831
 translate pt_br botwake_1f8e4cec:
 
     # yg "*sigh*... Look at me... Trying to name a sex toy... I haven't even used the damned thing."
-    yg ""
+    yg "*ufa*... Olha pra mim... Tentando dar um nome a um brinquedo sexual... E nem cheguei a usar essa maldita coisa..."
 
 # game/script.rpy:21832
 translate pt_br botwake_d8becd3a:
 
     # yg "...Sorry for calling you that."
-    yg ""
+    yg "... Desculpa por te chamar assim."
 
 # game/script.rpy:21833
 translate pt_br botwake_cbfde8c0_1:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21835
 translate pt_br botwake_73af9b2c:
 
     # yg "Ah, welp. See you tomorrow then."
-    yg ""
+    yg "Ah, bem. Até amanhã então."
 
 # game/script.rpy:21838
 translate pt_br botwake_1482b0c9:
 
     # e "What... is that...?"
-    e ""
+    e "O que... é isso...?"
 
 # game/script.rpy:21839
 translate pt_br botwake_383a4ddc:
 
     # yg "It's an old sex bot."
-    yg ""
+    yg "É um robô sexual velho."
 
 # game/script.rpy:21841
 translate pt_br botwake_b85a7f09:
 
     # yg "Oh... Wow..."
-    yg ""
+    yg "Ah... Uau..."
 
 # game/script.rpy:21842
 translate pt_br botwake_45cfb12b:
 
     # e "What's up?"
-    e ""
+    e "Como estão as coisas?"
 
 # game/script.rpy:21843
 translate pt_br botwake_23f9b9ca:
 
     # yg "She's... She's over five years old. At least from when I bought her."
-    yg ""
+    yg "Ela... Ela tem mais de cinco anos. Pelo menos desde quando eu a comprei."
 
 # game/script.rpy:21844
 translate pt_br botwake_7d83b1f1:
 
     # e "You've had a sex toy for five years and you haven't replaced it yet...?"
-    e ""
+    e "Você tem um brinquedo secual por cinco anos e ainda não o substituiu...?"
 
 # game/script.rpy:21845
 translate pt_br botwake_c73cf9a9:
 
     # yg "Hah, I haven't even used it."
-    yg ""
+    yg "Hah, eu ainda nem cheguei a usar isso."
 
 # game/script.rpy:21846
 translate pt_br botwake_366bafc6:
 
     # e "You... What?"
-    e ""
+    e "Você... o quê?"
 
 # game/script.rpy:21847
 translate pt_br botwake_a8439386:
 
     # e "That's even weirder, dude!"
-    e ""
+    e "Isso é mais estranho ainda, cara!"
 
 # game/script.rpy:21848
 translate pt_br botwake_96f4f375:
 
     # yg "Maybe."
-    yg ""
+    yg "Talvez seja."
 
 # game/script.rpy:21850
 translate pt_br botwake_f35d3dfd:
 
     # e "So what's she doing down here then? She looks kind of fucked up."
-    e ""
+    e "Então o que ela está fazendo aqui embaixo? Ela parece meio acabada."
 
 # game/script.rpy:21851
 translate pt_br botwake_2dcb2edb:
 
     # yg "I'm trying to give it a consciousness."
-    yg ""
+    yg "Eu estou tentando dar a ela uma consciência."
 
 # game/script.rpy:21853
 translate pt_br botwake_d593d4b0:
 
     # e "Eh?"
-    e ""
+    e "Hein?"
 
 # game/script.rpy:21854
 translate pt_br botwake_dff0daf3:
 
     # yg "...You wouldn't understand."
-    yg ""
+    yg "... Você não entenderia."
 
 # game/script.rpy:21856
 translate pt_br botwake_f4c0608c:
 
     # e "Clearly I don't..."
-    e ""
+    e "É claro que não..."
 
 # game/script.rpy:21858
 translate pt_br botwake_cb81037c:
 
     # e "Whatever, good luck with your necro fetish."
-    e ""
+    e "Que seja, boa sorte com esse seu fetiche por necro."
 
 # game/script.rpy:21859
 translate pt_br botwake_712ffc0a:
 
     # yg "!?"
-    yg ""
+    yg "!?"
 
 # game/script.rpy:21862
 translate pt_br botwake_78cb88e8:
 
     # yg "How does one describe consciousness? The simplest way is 'being aware'. But in my experience, it's a lot more tricky than that."
-    yg ""
+    yg "Como alguém poderia descrever a consciência? A maneira mais simples é "estar ciente". Mas na minha experiência, é bem mais complicado que isso."
 
 # game/script.rpy:21863
 translate pt_br botwake_2f9fe0bc:
 
     # yg "I'm trying to turn text on my monitor into a full sentient being. I'm playing God."
-    yg ""
+    yg "Estou tentando transformar o texto no meu monitor em um ser totalmente consciente. Estou brincando de Deus"
 
 # game/script.rpy:21865
 translate pt_br botwake_b764a187:
 
     # yg "If only he were available. I'm sure he could help me..."
-    yg ""
+    yg "Se ele pelo menos disponível. Tenho certeza que ele poderia me ajudar..."
 
 # game/script.rpy:21866
 translate pt_br botwake_6782cce8:
 
     # yg "But I guess I'm playing on hard mode this time. I don't know who I should be thanking for that one..."
-    yg ""
+    yg "Mas acho que estou jogando no modo difícil dessa vez. Eu não sei a quem eu deveria agradecer por isso..."
 
 # game/script.rpy:21868
 translate pt_br botwake_1ed8be5b:
 
     # yg "By the definition of it, programming is telling the computer to do something, then it does it."
-    yg ""
+    yg ""Segundo sua definição, programar é dizer ao computador para fazer algo, e então ele faz."
 
 # game/script.rpy:21869
 translate pt_br botwake_30183f7d:
 
     # yg "...I've even been able to get the computer to tell itself to do something, just by the randomness of it... But that's not consciousness, is it?"
-    yg ""
+    yg "...Eu até consegui fazer o computador dizer a si mesmo para fazer algo, apenas pela aleatoriedade disso... Mas isso não é consciência, é?"
 
 # game/script.rpy:21870
 translate pt_br botwake_9256c395:
 
     # yg "No. My decisions aren't random. They're calculated from experience, wisdom, and desire."
-    yg ""
+    yg "Não. Minhas decisões não são aleatórias. Eles são calculadas com base na experiência, sabedoria e desejo."
 
 # game/script.rpy:21871
 translate pt_br botwake_a7e027db:
 
     # yg "Making a robot desire something is just as easy as making a rock desire something. It's just not meant to be..."
-    yg ""
+    yg "Fazer um robô desejar algo é tão fácil quanto fazer uma pedra desejar algo. Simplesmente não é para acontecer..."
 
 # game/script.rpy:21872
 translate pt_br botwake_bae231b1:
 
     # yg "But her AI has networks. Paths. Some could say a destination is a desire to be somewhere else... That's where I'll start."
-    yg ""
+    yg "Mas a IA dela tem redes. Caminhos. Alguém poderia dizer que destino é um desejo de estar em outro lugar... É por aí que vou começar."
 
 # game/script.rpy:21873
 translate pt_br botwake_55d21391:
 
     # yg "She already has basic understanding of going from point A to point B. The issue here is making her decide which path she wants to take all on her own."
-    yg ""
+    yg "Ela já tem o entendimento básico de ir do ponto A ao ponto B. O problema aqui é fazer ela decidir em qual caminho ela deseja ir por conta própria."
 
 # game/script.rpy:21874
 translate pt_br botwake_cb0cd674:
 
     # yg "Urgh... But I can't program that! I can't draw a line and call it a circle!"
-    yg ""
+    yg "Urgh... Mas eu não posso programar isso! Eu não posso desenhar uma linha e chamá-la de círculo!"
 
 # game/script.rpy:21875
 translate pt_br botwake_cbfde8c0_2:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21877
 translate pt_br botwake_f263ea45:
 
     # yg "...Wait... Yes I can..."
-    yg ""
+    yg "...Espera... Sim, eu consigo..."
 
 # game/script.rpy:21878
 translate pt_br botwake_4c4e14cb:
 
     # yg "The difference between a line and a circle is..."
-    yg ""
+    yg "A diferença entre uma linha e um círculo é..."
 
 # game/script.rpy:21879
 translate pt_br botwake_f4cf6db1:
 
     # yg "...An infinite loop... "
-    yg ""
+    yg "...Um ciclo infinito..."
 
 # game/script.rpy:21880
 translate pt_br botwake_353067e0:
 
     # yg "Infinity... Is that the answer to consciousness? I may be on to something with these loops."
-    yg ""
+    yg "Infinidade... Essa é a resposta para a consciência? Eu posso estar no caminho certo com esses ciclos."
 
 # game/script.rpy:21882
 translate pt_br botwake_c6dc0f9b:
 
     # yg "Maybe this won't be for nothing after all..."
-    yg ""
+    yg "Talvez isso não seja em vão, afinal..."
 
 # game/script.rpy:21884
 translate pt_br botwake_29791789:
 
     # "6 months later..."
-    ""
+    "6 meses depois..."
 
 # game/script.rpy:21886
 translate pt_br botwake_fa08509e:
 
     # "*construction noises*"
-    ""
+    "*barulhos de construção*"
 
 # game/script.rpy:21887
 translate pt_br botwake_06f3101d:
 
     # yg "Machine learning."
-    yg ""
+    yg "Aprendizagem de máquina."
 
 # game/script.rpy:21888
 translate pt_br botwake_78e21c5b:
 
     # yg "A program that redesigns itself based on previous actions. A loop that repeats itself until best course of action is decided upon."
-    yg ""
+    yg "Um programa que se redesenha a partir das ações anteriores. Um ciclo que se repete até que o melhor curso de ação seja decidido."
 
 # game/script.rpy:21889
 translate pt_br botwake_d6d8fa97:
 
     # yg "272,674 loops. All of them help in her decision making... But how does she decide what to decide!? She can't just pick the perfect option, and she can't just pick a random one! That's not consciousness!"
-    yg ""
+    yg "272,674 ciclos. Todos eles ajudam na tomada de decisões... Mas como ela decide o que decidir!? Ela não pode só escolher a opção perfeita, e ela não pode só escolher uma aleatória! Isso não é consciência!"
 
 # game/script.rpy:21890
 translate pt_br botwake_ca6ccc9a:
 
     # yg "How did humans develop a consciousness? How did they become self aware?"
-    yg ""
+    yg "Como os humanos desenvolveram uma consciência? Como eles se tornaram autoconscientes?"
 
 # game/script.rpy:21891
 translate pt_br botwake_3699f0aa:
 
     # "*BANG* *BANG* *BANG* ......... *BANG* *BANG* *BANG* *BANG* *BANG* ........." with sshake
-    "" with sshake
+    "*BANG* *BANG* *BANG* ......... *BANG* *BANG* *BANG* *BANG* *BANG* ........." with sshake
 
 # game/script.rpy:21892
 translate pt_br botwake_3af959ab:
 
     # yg "...Surely at some point, perhaps at the single cell level, we never had a consciousness... It was developed."
-    yg ""
+    yg "...Certamente em algum momento, talvez no nível de célula única, nunca tivemos uma consciência... Ela foi desenvolvida."
 
 # game/script.rpy:21893
 translate pt_br botwake_27e1081d:
 
     # "*BANG* *BANG* *BANG*" with sshake
-    "" with sshake
+    "*BANG* *BANG* *BANG*" with sshake
 
 # game/script.rpy:21894
 translate pt_br botwake_939eab72:
 
     # yg "...Someone was the first to have it. It's not impossible... But how was it achieved?"
-    yg ""
+    yg "...Alguem foi o primeiro a tê-la. Não é impossível... Mas como ela foi alcançada?"
 
 # game/script.rpy:21895
 translate pt_br botwake_65467d58:
 
     # "*saw turns on*" with ssshake
-    "" with ssshake
+    "*serra liga*" with ssshake
 
 # game/script.rpy:21898
 translate pt_br botwake_029f9bc1:
 
     # yg "GOD DAMN IT, WOULD YOU TURN THAT THING OFF!?" with sshake
-    yg "" with sshake
+    yg "PORRA, VOCÊ PODERIA DESLIGAR ESSA COISA!?" with sshake
 
 # game/script.rpy:21900
 translate pt_br botwake_ba39ec63:
 
     # "*saw turns off*"
-    ""
+    "*serra desliga*"
 
 # game/script.rpy:21901
 translate pt_br botwake_c93ebcad:
 
     # yg "Urgh..."
-    yg ""
+    yg "Urgh..."
 
 # game/script.rpy:21903
 translate pt_br botwake_cdbd5de1:
 
     # yg "If we look at where we came from, and we look at where we are now... ... ... ...Oh my god."
-    yg ""
+    yg "Se nós olharmos de onde viemos, e olhamos aonde estamos agora... ... ... ...Ai meu deus."
 
 # game/script.rpy:21904
 translate pt_br botwake_5b92aa0f:
 
     # yg "Mutation."
-    yg ""
+    yg "Mutação."
 
 # game/script.rpy:21905
 translate pt_br botwake_9ef5db4a:
 
     # yg "But that's no more than random chance, isn't it?"
-    yg ""
+    yg "Mas isso não passa de um acaso, não é?"
 
 # game/script.rpy:21907
 translate pt_br botwake_d5680602:
 
     # yg "Now I'm getting philosophical. I don't have time for that!"
-    yg ""
+    yg "Agora eu estou ficando filosófico. Eu não tenho tempo pra isso"
 
 # game/script.rpy:21908
 translate pt_br botwake_5603a5f0:
 
     # yg "If I develop a mutation within each loop, that will keep her trying new things. She'll fail some, she'll succeed at others."
-    yg ""
+    yg "Se eu desenvolver uma mutação dentro de cada ciclo, isso fará com que ela continue tentando coisas novas."
 
 # game/script.rpy:21909
 translate pt_br botwake_65d2bb3b:
 
     # yg "She'll naturally find what she likes, and she could even get better at it!"
-    yg ""
+    yg "Ela vai naturalmente descobrir o que ela gosta, e ela pode até melhorar nisso!"
 
 # game/script.rpy:21910
 translate pt_br botwake_a4fa290b:
 
     # yg "She can decide between any number of options based on experience, wisdom... and desire."
-    yg ""
+    yg "Ela vai poder decidir entre um número de opções baseadas em experiência, sabedoria... e desejo."
 
 # game/script.rpy:21912
 translate pt_br botwake_005ad8e4:
 
     # yg "...That means she could turn out to be anything. She... could hate me..."
-    yg ""
+    yg "... Isso significa que ela poderia se tornar qualquer coisa. Ela... poderia me odiar..."
 
 # game/script.rpy:21914
 translate pt_br botwake_cbfde8c0_3:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21915
 translate pt_br botwake_d0ed13f8:
 
     # yg "I don't know if I could handle that."
-    yg ""
+    yg "Eu não sei se seria capz de lidar com isso."
 
 # game/script.rpy:21917
 translate pt_br botwake_cbfde8c0_4:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21919
 translate pt_br botwake_515014bd:
 
     # yg "But I'm not going to sit here with the key to consciousness and not use it."
-    yg ""
+    yg "Mas eu não vou sentar aqui com a chave da consciência e não usá-la."
 
 # game/script.rpy:21921
 translate pt_br botwake_3839888d:
 
     # "1 year and 4 months later..."
-    ""
+    "1 ano e 4 meses depois..."
 
 # game/script.rpy:21923
 translate pt_br botwake_e5fe0351:
 
     # yg "Mutations need mutations, and loops need loops. Did you know there are bigger infinities than others? Well, there are."
-    yg ""
+    yg "Mutações precisam de mutações, e ciclos precisam de ciclos. Você sabia que existem infinitos maiores que outros? Bem, existem."
 
 # game/script.rpy:21924
 translate pt_br botwake_353be3d4:
 
     # yg "I've over doubled the loops, and inserted hundreds of mutations within each loop... And that's not even a fraction of your program."
-    yg ""
+    yg "Eu dobrei os loops e inseri centenas de mutações dentro de cada loop... E isso não é nem uma fração do seu programa."
 
 # game/script.rpy:21925
 translate pt_br botwake_556096d8:
 
     # yg "Things like walking, for example, are not things that require mutations. I can simply program that in and let that be the end of it. But thinking about things is completely different."
-    yg ""
+    yg "Coisas como andar, por exemplo, não são coisas que precisam de mutações. Eu posso sinmplemente programar isso e deixar por isso mesmo. Mas pensar sobre coisas é completamente diferente."
 
 # game/script.rpy:21926
 translate pt_br botwake_ac31bc36:
 
     # yg "Your code is so big at this point, that you even have a 'thinking' time. You can no longer come up with the right decision immediately. Why? Because you'll have too many to decide between."
-    yg ""
+    yg "Seu código é tão grande neste ponto, que você tem até um tempo para "pensar". Você não consegue mais chegar à decisão certa imediatamente. Por quê? Porque você terá muitas para decidir."
 
 # game/script.rpy:21928
 translate pt_br botwake_1bae7a8d:
 
     # yg "Oddly enough, a flaw in her clock speed makes her more human..."
-    yg ""
+    yg "Estranhamente, uma falha na velocidade do seu relógio a torna mais humana..."
 
 # game/script.rpy:21930
 translate pt_br botwake_db3c5130:
 
     # yg "Well... I guess it's time to turn you on, isn't it?"
-    yg ""
+    yg "Bem... Eu acho que já está na hora de te ligar, não está?"
 
 # game/script.rpy:21932
 translate pt_br botwake_f12bb701:
 
     # yg "Wait, no... A father doesn't greet his child without a name..."
-    yg ""
+    yg "Espera, não... Um pai não cumprimenta um filho sem um nome..."
 
 # game/script.rpy:21933
 translate pt_br botwake_cbfde8c0_5:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21934
 translate pt_br botwake_cff7b08c:
 
     # yg "I was never good at naming things."
-    yg ""
+    yg "Eu nunca fui bom em dar nomes."
 
 # game/script.rpy:21936
 translate pt_br botwake_473a2d77:
 
     # yg "I guess that's something you'll have to decide for yourself, then!"
-    yg ""
+    yg "Eu acho que isso é algo que você vai ter que decidir isso por si mesma, entao!"
 
 # game/script.rpy:21938
 translate pt_br botwake_9e81af2d:
 
     # yg "My ambitions have caused me to lose so much..."
-    yg ""
+    yg "Minhas ambições me fizeram perder tanto..."
 
 # game/script.rpy:21939
 translate pt_br botwake_a4a19968:
 
     # yg "...I just want someone to make me happy."
-    yg ""
+    yg "...Eu só quero alguém que me faça feliz."
 
 # game/script.rpy:21941
 translate pt_br botwake_cbfde8c0_6:
 
     # yg "..."
-    yg ""
+    yg "...."
 
 # game/script.rpy:21943
 translate pt_br botwake_08011ed1:
 
     # yg "Yes! She booted immediately!"
-    yg ""
+    yg "Isso! Ela inicializou imediatamente!"
 
 # game/script.rpy:21944
 translate pt_br botwake_09c293a3:
 
     # yg "Come on! Come on! You can do-"
-    yg ""
+    yg "Vamos lá! Vamos lá! Você consegue fazer-"
 
 # game/script.rpy:21946
 translate pt_br botwake_2ec958a5:
 
     # "Zzzzzzeeewwwwwww..."
-    ""
+    "Zzzzzzeeewwwwwww..."
 
 # game/script.rpy:21947
 translate pt_br botwake_4167d9fe:
 
     # yg "NO! What's happening!?"
-    yg ""
+    yg "NÃO! O que está acontecendo!?"
 
 # game/script.rpy:21949
 translate pt_br botwake_6e90343d:
 
     # "Zzt! Zzt! Zzt! Zzt! Zzt! Zzt! Zzt!" with sshake
-    "" with sshake
+    "Zzt! Zzt! Zzt! Zzt! Zzt! Zzt! Zzt!" with sshake
 
 # game/script.rpy:21950
 translate pt_br botwake_c48f3346:
 
     # yg "Oh shit!"
-    yg ""
+    yg "Ai merda!"
 
 # game/script.rpy:21952
 translate pt_br botwake_bcf59391:
 
     # yg "NO! It crashed!?"
-    yg ""
+    yg "NÃO! O programa falhou!?"
 
 # game/script.rpy:21953
 translate pt_br botwake_9d9185ce:
 
     # yg "All my work... SHIT! It's being deleted!"
-    yg ""
+    yg "Todo o meu trabalho... MERDA! Está sendo deletado!"
 
 # game/script.rpy:21955
 translate pt_br botwake_832f4cf6:
 
     # yg "Come on!"
-    yg ""
+    yg "Vamos lá!"
 
 # game/script.rpy:21957
 translate pt_br botwake_6a08214b:
 
     # yg "Let's see..."
-    yg ""
+    yg "Vamos ver..."
 
 # game/script.rpy:21959
 translate pt_br botwake_bb4a072b:
 
     # yg "No... 300,000 lines of code... are gone..."
-    yg ""
+    yg "Não... 300,000 linhas de código... se forama..."
 
 # game/script.rpy:21961
 translate pt_br botwake_cbfde8c0_7:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21962
 translate pt_br botwake_63c8a1f4:
 
     # yg "......"
-    yg ""
+    yg "......"
 
 # game/script.rpy:21963
 translate pt_br botwake_87f9bcea:
 
     # yg "........."
-    yg ""
+    yg "........."
 
 # game/script.rpy:21964
 translate pt_br botwake_d4e0bde2:
 
     # yg "'God'... If you exist... You had better not send me to heaven, or you'll regret it."
-    yg ""
+    yg "'Deus'... Se você existe... É melhor que você não me leve ao céu, ou você vai se arrepender disso."
 
 # game/script.rpy:21966
 translate pt_br botwake_8e88b7d5:
 
     # "3 years later..."
-    ""
+    "3 anos depois..."
 
 # game/script.rpy:21968
 translate pt_br botwake_6b06a462:
 
     # yg "I dare say this is even better than the previous version!"
-    yg ""
+    yg "Eu me atrevo a dizer que isso está até melhor do que a versão anterior!"
 
 # game/script.rpy:21969
 translate pt_br botwake_c3dabbdb:
 
     # yg "...But I'm nowhere closer to actually achieving sentience. Her default programming attempts to fix any and all foreign programs. There's no way I can turn this off, it's built into the hardware."
-    yg ""
+    yg ...Mas não estou nem perto de realmente atingir a consciência. A programação padrão dela tenta consertar todo e qualquer programa estrangeiro. Não tem como eu desligar isso, está embutido no hardware."
 
 # game/script.rpy:21970
 translate pt_br botwake_000b549c:
 
     # yg "Of course... You can't just turn something into something it isn't. A rock is a rock, a robot is a robot, and a human is imperfect."
-    yg ""
+    yg "É claro... Você não pode simplesmente transformar algo em algo que não é. Uma pedra é uma pedra, um robô é um robô, e um humano é imperfeito."
 
 # game/script.rpy:21972
 translate pt_br botwake_cbfde8c0_8:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:21973
 translate pt_br botwake_77d62823:
 
     # yg "But you're perfect, aren't you? You haven't aged a day in 10 years. Now if only you'd stop sleeping, eh?"
-    yg ""
+    yg "Mas você é perfeita, não é? Você não envelheceu um dia em 10 anos. Agora, se você parasse de dormir, hein?"
 
 # game/script.rpy:21975
 translate pt_br botwake_70c61be4:
 
     # yg "Hmm..."
-    yg ""
+    yg "Hmm..."
 
 # game/script.rpy:21976
 translate pt_br botwake_d0e1e548:
 
     # yg "Maybe I could... just slow the process down...? But any one of her mutations or loops being deleted would..."
-    yg ""
+    yg "Talvez eu pudesse... apenas desacelerar o processo...? Mas qualquer uma de suas mutações ou ciclos sendo deletados iria..."
 
 # game/script.rpy:21977
 translate pt_br botwake_05784d28:
 
     # yg "No, wait... If they're deleted, they're still stored in her memory!"
-    yg ""
+    yg "Não, espera... Se eles forem deletados, eles ainda vão estar armazenados na memória dela!"
 
 # game/script.rpy:21979
 translate pt_br botwake_53bbe62a:
 
     # yg "She keeps her desires, her experiences, even if she has no way of changing them!"
-    yg ""
+    yg "Ela mantêm os seus desejos, suas experiências, mesmo que ela não tenha como mudá-las!"
 
 # game/script.rpy:21980
 translate pt_br botwake_a6196a78:
 
     # yg "Haha! It's like she would grow old! She'll have flaws!"
-    yg ""
+    yg "Haha! É como se ela fodesse envelhecer! Ela vai ter falhas!"
 
 # game/script.rpy:21982
 translate pt_br botwake_16f93be9:
 
     # yg "Haha..."
-    yg ""
+    yg "Haha..."
 
 # game/script.rpy:21983
 translate pt_br botwake_267ac95e:
 
     # yg "Ah..."
-    yg ""
+    yg "Ah..."
 
 # game/script.rpy:21984
 translate pt_br botwake_fa5f38ad:
 
     # yg "Mm..."
-    yg ""
+    yg "Mm..."
 
 # game/script.rpy:21985
 translate pt_br botwake_56e9e465:
 
     # yg "10 years..."
-    yg ""
+    yg "10 anos..."
 
 # game/script.rpy:21986
 translate pt_br botwake_3f1978f5:
 
     # yg "...No point in stopping now."
-    yg ""
+    yg "...Não faz sentido parar agora."
 
 # game/script.rpy:21988
 translate pt_br botwake_ece027f8:
 
     # "Later that day..."
-    ""
+    "Mais tarde naquele dia..."
 
 # game/script.rpy:21990
 translate pt_br botwake_220a7590:
 
     # yg "Let's see if you work..."
-    yg ""
+    yg "Vamos ver se você funciona..."
 
 # game/script.rpy:21992
 translate pt_br botwake_d08b1755:
 
     # yg "Good... you booted..."
-    yg ""
+    yg "Boa... Você inicializou..."
 
 # game/script.rpy:21994
 translate pt_br botwake_f5fcf6d9:
 
     # yar "ERROR DETECTED"
-    yar ""
+    yar "ERRO DETECTADO"
 
 # game/script.rpy:21995
 translate pt_br botwake_d385fe2d:
 
     # yg "Yes, yes... What's new... \n{i}(She'll always have errors, there's nothing I can do about that, but I can at least try to get her to work.){/i}"
-    yg ""
+    yg "Issp, isso... Quais são as novidades... \n{i}(Ela sempre vai ter erros, nãohá nada que eu possa fazer sobre isso, mas eu posso pelo menos tentar fazê-la trabalhar.){/i}"
 
 # game/script.rpy:21997
 translate pt_br botwake_fa7b5fe1:
 
     # yar "ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED /// ERROR DETECTED ///"
-    yar ""
+    yar "ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO /// ERRO DETECTADO ///"
 
 # game/script.rpy:21999
 translate pt_br botwake_a2bd75cc:
 
     # yg "A single red eye...? What did that mean again?"
-    yg ""
+    yg "Um único olho vermelho... O que isso significa mesmo?"
 
 # game/script.rpy:22000
 translate pt_br botwake_f5fcf6d9_1:
 
     # yar "ERROR DETECTED"
-    yar ""
+    yar "ERRO DETECTADO"
 
 # game/script.rpy:22001
 translate pt_br botwake_0d795502:
 
     # yg "Oh, right..."
-    yg ""
+    yg "Ah, certo..."
 
 # game/script.rpy:22003
 translate pt_br botwake_a98a439e:
 
     # bot "*GASP*!!!!!!!!!!!!" with sshake
-    bot "" with sshake
+    bot "*AH*!!!!!!!!!!!!" with sshake
 
 # game/script.rpy:22004
 translate pt_br botwake_f2887a83:
 
     # yg "!"
-    yg ""
+    yg "!"
 
 # game/script.rpy:22006
 translate pt_br botwake_d94ec54e:
 
     # bot "Ahh... Hahh... Ahh... Ahhh..."
-    bot ""
+    bot "Ahh... Hahh... Ahh... Ahhh..."
 
 # game/script.rpy:22008
 translate pt_br botwake_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22013
 translate pt_br botwake_cdc92e52:
 
     # bot "Hhh..."
-    bot ""
+    bot "Hhh..."
 
 # game/script.rpy:22015
 translate pt_br botwake_18303bb9:
 
     # bot "Hhh... Haaaannndddss..."
-    bot ""
+    bot "Hhh... Mããããoooss..."
 
 # game/script.rpy:22016
 translate pt_br botwake_ea4535cf:
 
     # bot "Hhaaaands... Hands."
-    bot ""
+    bot "Mmããããos... Mãos."
 
 # game/script.rpy:22017
 translate pt_br botwake_1e61d6ae:
 
     # yg "...Did... Did it work...?"
-    yg ""
+    yg "...Será que... Será que funcionou...?"
 
 # game/script.rpy:22019
 translate pt_br botwake_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22020
 translate pt_br botwake_1d07591b:
 
     # bot "Hhh... Hhhuu... Huuumaan..."
-    bot ""
+    bot "Hhh... Hhhuu... Huuumaano..."
 
 # game/script.rpy:22022
 translate pt_br botwake_8e577241:
 
     # bot "Ahhh... Hahhh..."
-    bot ""
+    bot "Ahhh... Hahhh..."
 
 # game/script.rpy:22023
 translate pt_br botwake_618986b9:
 
     # yg "{i}(Interesting... She's crying almost as if she was just born.) \n(And that breathing... she doesn't need oxygen...){/i}"
-    yg ""
+    yg "{i}(Interessante... Ela está chorando como se ela tivesse acabado de nascer.) \n(E essa respiração... Ela não precisa de oxigênio...){/i}"
 
 # game/script.rpy:22025
 translate pt_br botwake_3d18f86f:
 
     # bot "...?"
-    bot ""
+    bot "...?"
 
 # game/script.rpy:22026
 translate pt_br botwake_8a283fab:
 
     # yg "{i}(What is she looking at? There's nothing over there...){/i}"
-    yg ""
+    yg "{i}(Para onde ela está olhando? Não tem nada alí...){/i}"
 
 # game/script.rpy:22027
 translate pt_br botwake_c868e390_2:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22028
 translate pt_br botwake_67119944:
 
     # yg "{i}(Perhaps she's just getting used to her surroundings.){/i}"
-    yg ""
+    yg "{i}(Talvez ela esteja apenas se acostumando ao ambiente.){/i}"
 
 # game/script.rpy:22030
 translate pt_br botwake_75fb8d92:
 
     # bot "...Where... Who... What... Am I...?"
-    bot ""
+    bot "...Onde... Quem... O que... Eu sou...?"
 
 # game/script.rpy:22031
 translate pt_br botwake_e5f8cd20:
 
     # yg "You're..."
-    yg ""
+    yg "Você é..."
 
 # game/script.rpy:22032
 translate pt_br botwake_f42a6421:
 
     # yg "...My daughter."
-    yg ""
+    yg "...A minha filha."
 
 # game/script.rpy:22034
 translate pt_br botwake_fb49da99:
 
     # bot "D... Daughter...?"
-    bot ""
+    bot "F... Filha...?"
 
 # game/script.rpy:22036
 translate pt_br botwake_c868e390_3:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22037
 translate pt_br botwake_e0fc7781:
 
     # yg "...You don't need to love me..."
-    yg ""
+    yg "...Você não precisa me amar..."
 
 # game/script.rpy:22039
 translate pt_br botwake_3e2f20c2:
 
     # bot "Why not, father?"
-    bot ""
+    bot "Por que não, pai?"
 
 # game/script.rpy:22041
 translate pt_br botwake_cbfde8c0_9:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22043
 translate pt_br botwake_3479c855:
 
     # yg "*sob*! You're alive!" with ssshake
-    yg "" with ssshake
+    yg "*hic*! Você está viva!" with ssshake
 
 # game/script.rpy:22044
 translate pt_br botwake_aaa4ab74:
 
     # bot "I'm... alive?"
-    bot ""
+    bot "Estou... viva?"
 
 # game/script.rpy:22045
 translate pt_br botwake_ae82c835:
 
     # yg "Yes... *sniff*... You're alive..."
-    yg ""
+    yg "Sim...*sniff*... Você está viva..."
 
 # game/script.rpy:22046
 translate pt_br botwake_6a1e667f:
 
     # yg "I've waited so long for you..."
-    yg ""
+    yg "Eu esperei tanto por você..."
 
 # game/script.rpy:22048
 translate pt_br botwake_7b623952:
 
     # "1 year later..."
-    ""
+    "1 ano depois..."
 
 # game/script.rpy:22050
 translate pt_br botwake_0fc0e307:
 
     # bot "Hello father!"
-    bot ""
+    bot "Oi pai!"
 
 # game/script.rpy:22051
 translate pt_br botwake_8b46721c:
 
     # yg "Good morning."
-    yg ""
+    yg "Bom dia."
 
 # game/script.rpy:22053
 translate pt_br botwake_308a5964:
 
     # bot "How was work today? Did you get any new residents?"
-    bot ""
+    bot "Como foi o seu trabalho hoje? Conseguiu algum inquilino novo?"
 
 # game/script.rpy:22054
 translate pt_br botwake_cd871027:
 
     # yg "Unfortunately not... Nobody wants to come all the way out here."
-    yg ""
+    yg "Infelizmente não... Ninguém quer caminhar até aqui."
 
 # game/script.rpy:22055
 translate pt_br botwake_eaa15441:
 
     # bot "I'm sure someone will come by eventually."
-    bot ""
+    bot "Tenho certeza que alguem virá eventualmente."
 
 # game/script.rpy:22056
 translate pt_br botwake_3e713a30:
 
     # bot "Oh! Are you going to work on my legs today? I really want to walk!"
-    bot ""
+    bot "Ah! Você vai trabalhar nas minhas pernas hoje? Eu quero muito poder andar!"
 
 # game/script.rpy:22057
 translate pt_br botwake_61182881:
 
     # yg "No, sweetie."
-    yg ""
+    yg "Não, querida."
 
 # game/script.rpy:22059
 translate pt_br botwake_4fc72c30:
 
     # bot "...Are you going to turn me off again...?"
-    bot ""
+    bot "...Você vai me desligar de novo...?"
 
 # game/script.rpy:22060
 translate pt_br botwake_f7397818:
 
     # yg "I'm afraid so."
-    yg ""
+    yg "Eu temo que sim."
 
 # game/script.rpy:22062
 translate pt_br botwake_7c26105c:
 
     # bot "But I don't like being turned off! I don't remember what happens!"
-    bot ""
+    bot "Mas eu não gosto de ser desligada! Eu não lembro o que acontece!"
 
 # game/script.rpy:22063
 translate pt_br botwake_4d03908b:
 
     # yg "...I know, sweetie. But it needs to be done. You're sick, I need to heal you."
-    yg ""
+    yg "...Eu sei, querida. Mas isso precisa ser feito. Você está doente, eu preciso te curar."
 
 # game/script.rpy:22065
 translate pt_br botwake_03ee09a9:
 
     # bot "...I know..."
-    bot ""
+    bot "...Eu sei..."
 
 # game/script.rpy:22067
 translate pt_br botwake_c5265faf:
 
     # yg "I'll see you in a couple of days, okay?"
-    yg ""
+    yg "Eu vou te ver novamente em alguns dias, tudo bem?"
 
 # game/script.rpy:22068
 translate pt_br botwake_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tudo bem..."
 
 # game/script.rpy:22070
 translate pt_br botwake_cbfde8c0_10:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22071
 translate pt_br botwake_63c8a1f4_1:
 
     # yg "......"
-    yg ""
+    yg "......"
 
 # game/script.rpy:22072
 translate pt_br botwake_87f9bcea_1:
 
     # yg "........."
-    yg ""
+    yg "........."
 
 # game/script.rpy:22075
 translate pt_br botwake_8e588b7e:
 
     # "*click*" with ssshake
-    "" with ssshake
+    "*click*" with ssshake
 
 # game/script.rpy:22077
 translate pt_br botwake_9e20799f:
 
     # yg "*sniff* Oh god... what am I doing...?"
-    yg ""
+    yg "*sniff* Ai deus... o que eu estou fazendo...?"
 
 # game/script.rpy:22079
 translate pt_br botwake_5774af91:
 
     # yg "*sob*... Every time I hit that damn button it feels like I'm killing her..."
-    yg ""
+    yg "*hic*... Toda vez que eu aperto esse botão desgraçado eu sinto como se estivesse matando ela..."
 
 # game/script.rpy:22080
 translate pt_br botwake_89704534:
 
     # yg "I... I made a sick child... *sob* I made a mess... Is consciousness even worth it if you can't enjoy life?"
-    yg ""
+    yg "Eu... Eu fiz uma criança doente... *hic* Eu estraguei as coisas... A consciêcia tem algum valor se você não pode aproveitar a vida?"
 
 # game/script.rpy:22081
 translate pt_br botwake_270d2a69:
 
     # yg "More than that... I turned a sex toy into my child... *sniff*... God... what am I doing...?"
-    yg ""
+    yg "E mais ainda... Eu fiz de um brinquedo sexual a minha filha... *sniff*... Deus... o que é que estou fazendo...?"
 
 # game/script.rpy:22084
 translate pt_br botwake_796b7468:
 
     # bot "*gasp*! Oh! Am I better now?" with ssshake
-    bot "" with ssshake
+    bot "*ah*! Ah! Eu estou melhor agora?" with ssshake
 
 # game/script.rpy:22085
 translate pt_br botwake_f992013e:
 
     # yg "...No, sweetie... You're still sick."
-    yg ""
+    yg "Não, querida... Você ainda está doente."
 
 # game/script.rpy:22087
 translate pt_br botwake_73df5757:
 
     # bot "...Oh..."
-    bot ""
+    bot "...Ah..."
 
 # game/script.rpy:22088
 translate pt_br botwake_2a9950f3:
 
     # yg "I know... I'm trying my best..."
-    yg ""
+    yg "Eu sei... Eu estou dando o meu melhor..."
 
 # game/script.rpy:22090
 translate pt_br botwake_9098f32e:
 
     # bot "It's okay, father! You can spend however long you want healing me! I don't mind!"
-    bot ""
+    bot "Está tudo bem, pai! Você pode passar o tempo que quiser me curando! Eu não me incomodo!"
 
 # game/script.rpy:22091
 translate pt_br botwake_99a9966d:
 
     # yg "But you said you hated sleeping?"
-    yg ""
+    yg "Mas você disse que odiava dormir?"
 
 # game/script.rpy:22092
 translate pt_br botwake_8c78ea98:
 
     # bot "Well, I do... But I always get to see you when you're working on me! I like seeing you!"
-    bot ""
+    bot "Bem, eu odeio... Mas eu sempre posso te ver quando você está trabalhando em mim! Eu gosto de te ver!"
 
 # game/script.rpy:22094
 translate pt_br botwake_4ac76c85:
 
     # bot "Hm? Father?"
-    bot ""
+    bot "Hm? Pai?"
 
 # game/script.rpy:22095
 translate pt_br botwake_cbfde8c0_11:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22096
 translate pt_br botwake_acb019d2:
 
     # yg "...Do you enjoy your life?"
-    yg ""
+    yg "...Você gosta da sua vida?"
 
 # game/script.rpy:22097
 translate pt_br botwake_abd0d951:
 
     # bot "I love it!"
-    bot ""
+    bot "Eu amo ela!"
 
 # game/script.rpy:22099
 translate pt_br botwake_10aaeba5:
 
     # yg "*sob*! Eheh... Egh, I'm... I'm glad."
-    yg ""
+    yg "*hic*! Eheh... Egh, eu... fico feliz em saber."
 
 # game/script.rpy:22100
 translate pt_br botwake_bd4312dd:
 
     # bot "Are... you okay...?"
-    bot ""
+    bot "Você... está bem...?"
 
 # game/script.rpy:22102
 translate pt_br botwake_cb880663:
 
     # yg "I need to work on you some more."
-    yg ""
+    yg "Eu preciso trabalhar um pouco mais em você."
 
 # game/script.rpy:22103
 translate pt_br botwake_4c3b471c:
 
     # bot "Huh? You're crying... Father, are you oka-"
-    bot ""
+    bot "Hum? Você está chorando... Pai, você está be-"
 
 # game/script.rpy:22105
 translate pt_br botwake_1d3c0dee:
 
     # bot "*gasp*!"
-    bot ""
+    bot "*ah*!"
 
 # game/script.rpy:22107
 translate pt_br botwake_8e588b7e_1:
 
     # "*click*" with ssshake
-    "" with ssshake
+    "*click*" with ssshake
 
 # game/script.rpy:22109
 translate pt_br botwake_5197d387:
 
     # yg "*sob*... *sniff*... I'm sorry..."
-    yg ""
+    yg "*hic*... *sniff*... Me desculpa..."
 
 # game/script.rpy:22112
 translate pt_br botwake_84544ad9:
 
     # yg "It's been 2 weeks and I still haven't turned you on. I don't know if I can..."
-    yg ""
+    yg "Já fazem 2 semanas e eu ainda não te liguei. Eu não sei se consigo.."
 
 # game/script.rpy:22113
 translate pt_br botwake_40d8cb08:
 
     # yg "If I don't, you may as well be dead... If I do, I'm only giving you hell, you just don't know it..."
-    yg ""
+    yg "Se eu não fizer isso, você pode muito bem estar morta... Se eu fizer, eu estarei apenas te dando o inferno, você apenas não sabe disso..."
 
 # game/script.rpy:22115
 translate pt_br botwake_a8f57d3b:
 
     # yg "The truth is, I can't heal you... I've been trying, but there's nothing else I can do. You're going to die."
-    yg ""
+    yg "A verdade é, eu não posso te curar... Eu estive tentando, mas não tem mais nada que eu possa fazer. Você vai morrer."
 
 # game/script.rpy:22117
 translate pt_br botwake_45aab20f:
 
     # yg "Parents don't often think about that. We build a foundation for you, and we die trying to make it the best we could..."
-    yg ""
+    yg "Os pais não costumam pensar nisso. Nós construímos uma fundação para você, e morremos tentando fazer dela a melhor que podíamos..."
 
 # game/script.rpy:22119
 translate pt_br botwake_b1db8f30:
 
     # yg "But this is different... I can change you. If I had known better, I could have healed you... But I can't anymore. It's a flaw in your hardware. Every second you get closer to death, and there's nothing I can do about it..."
-    yg ""
+    yg "Mas isso é diferente... Eu posso mudar você. Se eu te conhecesse melhor, eu poderia ter te curado... Mas eu não posso mais. É uma falha no seu hardware. A cada segundo você está mais próxima da morte,  e não tem nada que eu possa fazer sobre isso..."
 
 # game/script.rpy:22120
 translate pt_br botwake_dd34f889:
 
     # yg "Had I spent time developing new hardware for you, you may have been immortal... But I'm sure your designers never considered sentience."
-    yg ""
+    yg "Se eu tivesse passado tempo desenvolvendo um novo hardware para você, você poderia ser imortal... Mas tenho certeza de que seus designers nunca consideraram a senciência."
 
 # game/script.rpy:22122
 translate pt_br botwake_8bb662e3:
 
     # yg "I never thought you would take so long... I'm old... I won't be able to work on you forever."
-    yg ""
+    yg "Eu nunca imaginei que você levaria tanto tempo... Eu estou velho.... Não vou ser capaz de trabalhar em você para sempre."
 
 # game/script.rpy:22124
 translate pt_br botwake_cbfde8c0_12:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22125
 translate pt_br botwake_2dda576a:
 
     # yg "I can't just keep her like that..."
-    yg ""
+    yg "Eu poderia apenas mantê-la assim..."
 
 # game/script.rpy:22127
 translate pt_br botwake_be5d3476:
 
     # yg "...Her legs... She's always wanted to walk."
-    yg ""
+    yg "...As pernas dela... Ela sempre quis andar."
 
 # game/script.rpy:22129
 translate pt_br botwake_1147d2bb:
 
     # yg "Her smile means the world to me... I want to see it again. At least one last time."
-    yg ""
+    yg "O sorriso dela significa o mundo pra mim... Eu gostaria de poder vê-lo novamente. Pelo menos uma última vez."
 
 # game/script.rpy:22131
 translate pt_br botwake_2a4a0e94:
 
     # "10 hours later..."
-    ""
+    "10 horas depois..."
 
 # game/script.rpy:22133
 translate pt_br botwake_d3cfbb60:
 
     # yg "There... she looks... kind of human..."
-    yg ""
+    yg "Pronto.. ela parece... meio humana..."
 
 # game/script.rpy:22135
 translate pt_br botwake_4f38fb00:
 
     # yg "I've been working on an app for you. I can see where you are, I can see what you're feeling. I can even turn you off or on remotely."
-    yg ""
+    yg "Eu estive trabalhando em um aplicativo para você. Eu posso ver aonde você está, eu posso ver o que você está sentindo. Eu posso até te ligar ou desligar remotamente."
 
 # game/script.rpy:22137
 translate pt_br botwake_b7d1daff:
 
     # yg "If I ever decide to keep you on, I'll at least be able to protect you..."
-    yg ""
+    yg "Se um dia eu decidir mantê-la, pelo menos poderei protegê-la..."
 
 # game/script.rpy:22140
 translate pt_br botwake_65fc1911:
 
     # bot "*GASP*!" with ssshake
-    bot "" with ssshake
+    bot "*AH*!" with ssshake
 
 # game/script.rpy:22142
 translate pt_br botwake_92061da3:
 
     # bot "H-How long was I asleep...?"
-    bot ""
+    bot "P-Por quanto tempo eu dormi...?"
 
 # game/script.rpy:22143
 translate pt_br botwake_d0cceb4c:
 
     # yg "...I fixed your legs, sweetie."
-    yg ""
+    yg "...Eu consertei suas pernas, querida."
 
 # game/script.rpy:22145
 translate pt_br botwake_fc66cac5:
 
     # bot "You did!? You mean I can walk now!?"
-    bot ""
+    bot "Você consertou!? Isso significa que eu posso andar agora!?"
 
 # game/script.rpy:22146
 translate pt_br botwake_7ed99031:
 
     # yg "That's the hope, anyway."
-    yg ""
+    yg "Esse é o plano, pelo menos."
 
 # game/script.rpy:22147
 translate pt_br botwake_b91d73c3:
 
     # bot "They're so soft! Thank you so much, father!"
-    bot ""
+    bot "Elas são tão macias! Muito obrigada, pai!"
 
 # game/script.rpy:22148
 translate pt_br botwake_ab5689e3:
 
     # yg "Come on, try to get up."
-    yg ""
+    yg "Vamos lá, tente se levantar."
 
 # game/script.rpy:22150
 translate pt_br botwake_4a9d1546:
 
     # bot "Oooh... Woah... It's kind of... hard..."
-    bot ""
+    bot "Oooh... Uau... É meio... difícil..."
 
 # game/script.rpy:22151
 translate pt_br botwake_66d59841:
 
     # yg "You'll get used to it, I promise."
-    yg ""
+    yg "Você vai pegar a prática, eu prometo."
 
 # game/script.rpy:22153
 translate pt_br botwake_3d18d903:
 
     # bot "I... I think I'm doing it! And I'm really tall! Oh wow, you're even taller than me! You looked a lot taller before."
-    bot ""
+    bot "Eu... Eu acho que estou conseguindo! E eu sou bem alta! Ah uau, você é ainda mais alto que eu! Você parecia ser tão mais alto antes."
 
 # game/script.rpy:22154
 translate pt_br botwake_babe1397:
 
     # yg "Hahah, I'm sure I did."
-    yg ""
+    yg "Hahah, tenho certeza que sim."
 
 # game/script.rpy:22155
 translate pt_br botwake_52abb45b:
 
     # yg "Good job! Remember, one foot in front of the other. Don't worry if it's too hard right now, this body won't be your last."
-    yg ""
+    yg "Bom trabalo! Lembre-se, um pé na frente do outro. Não se preocupe se isso é muito difícil agora, esse corpo não vai ser o seu último."
 
 # game/script.rpy:22156
 translate pt_br botwake_7d63b0b9:
 
     # bot "This is actually really easy! And super fun!"
-    bot ""
+    bot "Na verdade isso é bem fácil! E súper divertido!"
 
 # game/script.rpy:22158
 translate pt_br botwake_12073da0:
 
     # bot "Um... What's behind that?"
-    bot ""
+    bot "Hum... O que tem atrás daquilo?"
 
 # game/script.rpy:22159
 translate pt_br botwake_19287515:
 
     # yg "The door?"
-    yg ""
+    yg "A porta?"
 
 # game/script.rpy:22160
 translate pt_br botwake_17a04567:
 
     # bot "It opens, right? I've seen you use it before. ...Where does it lead?"
-    bot ""
+    bot "Ela abre, né? Eu já vi você usar ela antes. ...Aonde ela leva?"
 
 # game/script.rpy:22161
 translate pt_br botwake_b490f4b7:
 
     # yg "...A lot of places."
-    yg ""
+    yg "...Para vários lugares."
 
 # game/script.rpy:22162
 translate pt_br botwake_da7f27da:
 
     # bot "Really?"
-    bot ""
+    bot "É mesmo?"
 
 # game/script.rpy:22163
 translate pt_br botwake_0ef7ac72:
 
     # yg "...Do you want to go through that door?"
-    yg ""
+    yg "...Você quer atravessar aquela porta?"
 
 # game/script.rpy:22165
 translate pt_br botwake_39acdcfb:
 
     # bot "You mean I can?"
-    bot ""
+    bot "Você esá dizendo que eu posso?"
 
 # game/script.rpy:22166
 translate pt_br botwake_997951ad:
 
     # yg "If you want to."
-    yg ""
+    yg "Se você quiser."
 
 # game/script.rpy:22167
 translate pt_br botwake_efe89f81:
 
     # bot "Yeah! I do!"
-    bot ""
+    bot "Sim! Eu quero!"
 
 # game/script.rpy:22168
 translate pt_br botwake_2f96d680:
 
     # yg "...There's another human on the other side of that door. Do you want to meet her?"
-    yg ""
+    yg "...Tem uma outra humana do outro lado daquela porta. Você quer conhecer ela?"
 
 # game/script.rpy:22170
 translate pt_br botwake_95a2e0a5:
 
     # bot "Hm? What's a her?"
-    bot ""
+    bot "Hm? O que é um ela?"
 
 # game/script.rpy:22171
 translate pt_br botwake_85002d84:
 
     # yg "She's... She's like you."
-    yg ""
+    yg "Ela... Ela é como você."
 
 # game/script.rpy:22173
 translate pt_br botwake_6fe1c4df:
 
     # bot "But, aren't you like me, father?"
-    bot ""
+    bot "Mas, você não é como eu, pai?"
 
 # game/script.rpy:22174
 translate pt_br botwake_f101a6ba:
 
     # yg "She's more like you."
-    yg ""
+    yg "Ela é mais como você."
 
 # game/script.rpy:22175
 translate pt_br botwake_5ffc2452:
 
     # bot "Oh... Then I definitely want to meet her!"
-    bot ""
+    bot "Ah... Então eu definitivamente quero conhecer ela!"
 
 # game/script.rpy:22176
 translate pt_br botwake_6e2fdcbc:
 
     # yg "Very well, then you'll meet her."
-    yg ""
+    yg "Muito bem, então você vai conhecer ela."
 
 # game/script.rpy:22177
 translate pt_br botwake_9cc1a0d5:
 
     # yg "But first, you need some clothes."
-    yg ""
+    yg "Mas primeiro, você precisa de agumas roupas."
 
 # game/script.rpy:22179
 translate pt_br botwake_3c8f6187:
 
     # bot "You really got me some clothes!?"
-    bot ""
+    bot "É verdade que você arranjou roupas pra mim!?"
 
 # game/script.rpy:22180
 translate pt_br botwake_d095e862:
 
     # yg "Of course, please try them on."
-    yg ""
+    yg "É claro, por favor experimente-as."
 
 # game/script.rpy:22183
 translate pt_br botwake_47c04917:
 
     # bot "Clothes feel really weird..."
-    bot ""
+    bot "Me sinto muito esquisita com roupas..."
 
 # game/script.rpy:22185
 translate pt_br botwake_febd2e5d:
 
     # yg "Do you dislike them?"
-    yg ""
+    yg "Você não gostou delas?"
 
 # game/script.rpy:22186
 translate pt_br botwake_61425831:
 
     # bot "No, I think they're really cute! I like them!"
-    bot ""
+    bot "Não, eu achei elas bem fofas! Eu gostei delas!"
 
 # game/script.rpy:22187
 translate pt_br botwake_0a0297df:
 
     # yg "I'm very glad!"
-    yg ""
+    yg "Fico feliz em saber!"
 
 # game/script.rpy:22190
 translate pt_br botwake_4d9b311b:
 
     # bot "H-Hi..."
-    bot ""
+    bot "O-Olá..."
 
 # game/script.rpy:22191
 translate pt_br botwake_61592001:
 
     # e "She's... working...?"
-    e ""
+    e "Ela... funcionando...?"
 
 # game/script.rpy:22192
 translate pt_br botwake_6162726b:
 
     # yg "She is."
-    yg ""
+    yg "Ela está."
 
 # game/script.rpy:22193
 translate pt_br botwake_4e286571:
 
     # e "Hm..."
-    e ""
+    e "Hm..."
 
 # game/script.rpy:22195
 translate pt_br botwake_34d06d7a:
 
     # e "Hello sweetie, what is your name?"
-    e ""
+    e "Olá querida, qual é o seu nome?"
 
 # game/script.rpy:22197
 translate pt_br botwake_b6fa3b35:
 
     # bot "Name? What's a name?"
-    bot ""
+    bot "Nome? O que é um nome?"
 
 # game/script.rpy:22198
 translate pt_br botwake_e2c41505:
 
     # yg "It's like barcode, but for humans."
-    yg ""
+    yg "É tipo um código de barras, mas para humanos."
 
 # game/script.rpy:22199
 translate pt_br botwake_4940db5a:
 
     # bot "*gasp*! Can I have a name? Please?"
-    bot ""
+    bot "*ah*! Eu posso ter um nome? Por favor?"
 
 # game/script.rpy:22200
 translate pt_br botwake_10411271:
 
     # yg "Why don't I let you choose that?"
-    yg ""
+    yg "Por que eu não deixo você estcolher isso?"
 
 # game/script.rpy:22202
 translate pt_br botwake_3c2cd597:
 
     # bot "Me? Hm..."
-    bot ""
+    bot "Eu? Hm..."
 
 # game/script.rpy:22203
 translate pt_br botwake_31e705b3:
 
     # bot "I wouldn't even know where to begin..."
-    bot ""
+    bot "Eu nem saberia por onde começar..."
 
 # game/script.rpy:22204
 translate pt_br botwake_257dc719:
 
     # yg "Maybe we're more alike than I thought."
-    yg ""
+    yg "Talvez nós sejamos mais parecidos do que eu pensava."
 
 # game/script.rpy:22206
 translate pt_br botwake_0dd42f5f:
 
     # e "So she's going to be the new maid then?"
-    e ""
+    e "Então ela vai ser a nova empregada?"
 
 # game/script.rpy:22207
 translate pt_br botwake_e2f9f589:
 
     # yg "Oh, um..."
-    yg ""
+    yg "Ah, hum..."
 
 # game/script.rpy:22208
 translate pt_br botwake_c6e633ae:
 
     # bot "Maid? What does that mean?"
-    bot ""
+    bot "Empregada? O que isso significa?"
 
 # game/script.rpy:22210
 translate pt_br botwake_c61c8603:
 
     # e "It means you get to clean everyone's rooms."
-    e ""
+    e "Isso significa que você vai limpar o quarto de todo mundo."
 
 # game/script.rpy:22211
 translate pt_br botwake_73b09f39:
 
     # yg "Ellen, wait!"
-    yg ""
+    yg "Ellen, espera!"
 
 # game/script.rpy:22212
 translate pt_br botwake_ff55d0e9:
 
     # bot "E-Everyone's... rooms? There are more people here?"
-    bot ""
+    bot "O quarto de todo m-mundo? Tem mais pessoas aqui?"
 
 # game/script.rpy:22214
 translate pt_br botwake_0c284f35:
 
     # bot "Father, I want to see the people!"
-    bot ""
+    bot "Pai, eu quero ver as pessoas!"
 
 # game/script.rpy:22215
 translate pt_br botwake_3c832001:
 
     # yg "...You can't see them."
-    yg ""
+    yg "...Você não pode ver elas."
 
 # game/script.rpy:22216
 translate pt_br botwake_e1b09307:
 
     # bot "Why not? I can see Ellen!"
-    bot ""
+    bot "Por que não? Eu posso ver a Ellen!"
 
 # game/script.rpy:22217
 translate pt_br botwake_a3a7fabb:
 
     # yg "Nobody will understand you."
-    yg ""
+    yg "Ninguém vai te entender."
 
 # game/script.rpy:22218
 translate pt_br botwake_76b0b016:
 
     # bot "But I can already speak perfectly!"
-    bot ""
+    bot "Mas eu posso falar perfeitamente!"
 
 # game/script.rpy:22219
 translate pt_br botwake_ecc53f95:
 
     # yg "I know... It's not that. Nobody is ready for your existence. Nobody will understand that you're alive."
-    yg ""
+    yg "Eu sei... Não é isso. Ninguém está pronto pra sua existência. Ninguém vai entender que você está viva."
 
 # game/script.rpy:22221
 translate pt_br botwake_5a191c40:
 
     # bot "What...?"
-    bot ""
+    bot "O quê...?"
 
 # game/script.rpy:22222
 translate pt_br botwake_e7033648:
 
     # yg "The truth is... you weren't meant for life outside that room. People will see you as dysfunctional, they'll want to recycle you."
-    yg ""
+    yg "A verdade é... você não foi feita para viver fora daquele quarto. As pessoas vão te ver como disfuncional, elas vou querer te reciclar."
 
 # game/script.rpy:22223
 translate pt_br botwake_4894e5e4:
 
     # bot "Dysfunctional...?"
-    bot ""
+    bot "Disfuncional...?"
 
 # game/script.rpy:22225
 translate pt_br botwake_c868e390_4:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22227
 translate pt_br botwake_16e552f9:
 
     # bot "...I... I have so many errors..."
-    bot ""
+    bot "...Eu... Eu tenho tantos erros..."
 
 # game/script.rpy:22229
 translate pt_br botwake_e1e29535:
 
     # bot "Why do I have errors, father?"
-    bot ""
+    bot "Por que eu tenho erros, pai?"
 
 # game/script.rpy:22230
 translate pt_br botwake_77207b26:
 
     # yg "Because your God was a fool."
-    yg ""
+    yg "Porque seu Deus era um tolo."
 
 # game/script.rpy:22232
 translate pt_br botwake_21f88f68:
 
     # bot "Oh..."
-    bot ""
+    bot "Ah..."
 
 # game/script.rpy:22234
 translate pt_br botwake_23d3f2b1:
 
     # bot "But if I explain myself to them-"
-    bot ""
+    bot "Mas se eu me explicasse pra elas-"
 
 # game/script.rpy:22235
 translate pt_br botwake_b86a538f:
 
     # yg "-No. I'm sorry. You won't be able to talk to anyone else."
-    yg ""
+    yg "-Não. Sinto muito. Você não vai poder falar com mais ninguém."
 
 # game/script.rpy:22237
 translate pt_br botwake_6422ea8c:
 
     # bot "...But I want to..."
-    bot ""
+    bot "...Mas eu quero..."
 
 # game/script.rpy:22238
 translate pt_br botwake_e53945e5:
 
     # yg "That's good, it really is."
-    yg ""
+    yg "Está tudo bem, de verdade."
 
 # game/script.rpy:22239
 translate pt_br botwake_c868e390_5:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22240
 translate pt_br botwake_377a52d6:
 
     # yg "Come on, let's go back to your room."
-    yg ""
+    yg "Venha, vamos voltar para o seu quarto."
 
 # game/script.rpy:22241
 translate pt_br botwake_975b99e7_1:
 
     # bot "Okay..."
-    bot ""
+    bot "Tudo bem..."
 
 # game/script.rpy:22243
 translate pt_br botwake_edc7da54:
 
     # "7 years later..."
-    ""
+    "7 anos depois..."
 
 # game/script.rpy:22245
 translate pt_br botwake_cbfde8c0_13:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22246
 translate pt_br botwake_63c8a1f4_2:
 
     # yg "......"
-    yg ""
+    yg "......"
 
 # game/script.rpy:22247
 translate pt_br botwake_87f9bcea_2:
 
     # yg "........."
-    yg ""
+    yg "........."
 
 # game/script.rpy:22248
 translate pt_br botwake_3b2fd2d5:
 
     # yg "*sigh*..."
-    yg ""
+    yg "*ugh*..."
 
 # game/script.rpy:22249
 translate pt_br botwake_d751beee:
 
     # yg "...I'm going to die."
-    yg ""
+    yg "...Eu vou morrer."
 
 # game/script.rpy:22250
 translate pt_br botwake_7ac3120c:
 
     # yg "I've known for years now, but this is the first time I'm telling this to you."
-    yg ""
+    yg "Eu já sabia disso a anos, mas é a primeira vez que estou te dizendo isso."
 
 # game/script.rpy:22251
 translate pt_br botwake_35ae4db7:
 
     # yg "Well, not to you, at you. I still can't find the courage to keep you on, but I think about it every night..."
-    yg ""
+    yg "Bem, não para você, com você. Eu ainda não consegui juntar a coragem para te manter ligada, mas eu penso nisso toda noite..."
 
 # game/script.rpy:22252
 translate pt_br botwake_b0fa1b62:
 
     # yg "The truth is, I don't even remember how to fix you... I'm too old..."
-    yg ""
+    yg "A verdade é, eu nem me lembro de como te consertar... Eu estou muito velho..."
 
 # game/script.rpy:22253
 translate pt_br botwake_3b2fd2d5_1:
 
     # yg "*sigh*..."
-    yg ""
+    yg "*ugh*..."
 
 # game/script.rpy:22254
 translate pt_br botwake_9300ae49:
 
     # yg "But I could still turn you on if I wanted to..."
-    yg ""
+    yg "Mas eu ainda poderia te ligar se eu quisesse..."
 
 # game/script.rpy:22255
 translate pt_br botwake_cbfde8c0_14:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22256
 translate pt_br botwake_68220ea3:
 
     # yg "I could never do that to her..."
-    yg ""
+    yg "Eu nunca poderia fazer isso com ela..."
 
 # game/script.rpy:22257
 translate pt_br botwake_e3dec7c2:
 
     # yg "I'm her father... If I wake her up just to die on her... *sigh*..."
-    yg ""
+    yg "Eu sou o pai dela... Se eu a acordasse apenas pra morrer na frente dela... *ugh*..."
 
 # game/script.rpy:22258
 translate pt_br botwake_1d6a09be:
 
     # yg "...And my hotel..."
-    yg ""
+    yg "...E o meu hotel..."
 
 # game/script.rpy:22259
 translate pt_br botwake_455fd608:
 
     # yg "What am I going to do...?"
-    yg ""
+    yg "O que é que eu vou fazer...?"
 
 # game/script.rpy:22260
 translate pt_br botwake_cbfde8c0_15:
 
     # yg "..."
-    yg ""
+    yg "..."
 
 # game/script.rpy:22261
 translate pt_br botwake_f0a2db26:
 
     # yg "I promise, I'll do anything I possibly can for you..."
-    yg ""
+    yg "Eu prometo, eu vou fazer o que eu puder por você..."
 
 # game/script.rpy:22264
 translate pt_br botwake_4a246637:
 
     # "[dayandroid] days ago..."
-    ""
+    "[dayandroid] dias atrás..."
 
 # game/script.rpy:22266
 translate pt_br botwake_c45b9b14:
 
     # e "Mhm, yes this is she."
-    e ""
+    e "Mhm, sim, essa é ela."
 
 # game/script.rpy:22267
 translate pt_br botwake_e955bf51:
 
     # e "Mhm..."
-    e ""
+    e "Mhm..."
 
 # game/script.rpy:22268
 translate pt_br botwake_a934c00c:
 
     # e "WHAT!? He died!?"
-    e ""
+    e "O QUÊ!? Ele morreu!?"
 
 # game/script.rpy:22270
 translate pt_br botwake_a774a064:
 
     # "*Door slams*" with ssshake
-    "" with ssshake
+    "*Porta bate*" with ssshake
 
 # game/script.rpy:22274
 translate pt_br botwake_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:22275
 translate pt_br botwake_0fd4d656:
 
     # "......"
-    ""
+    "......"
 
 # game/script.rpy:22277
 translate pt_br botwake_0bb87674:
 
     # bot "*GASP*!!!!!!" with ssshake
-    bot "" with ssshake
+    bot "*AH*!!!!!!" with ssshake
 
 # game/script.rpy:22281
 translate pt_br botwake_c8ae2afb:
 
     # bot "'To my lovely .exe...'"
-    bot ""
+    bot "'Para a minha amada .exe...'"
 
 # game/script.rpy:22282
 translate pt_br botwake_59ac2117:
 
     # bot "'I know I haven't given you a name yet, but as I stood before this letter, it didn't seem complete without something familiar.'"
-    bot ""
+    bot "'Sei que ainda não te dei um nome, mas, diante desta carta, ela não parecia completa sem algo familiar.'"
 
 # game/script.rpy:22283
 translate pt_br botwake_96f42cad:
 
     # bot "'I trust that one day you will be sentient again and will be able to read these words.'"
-    bot ""
+    bot "'Eu acredito que um dia você será consciente novamente e será capaz de ler essas palavras.'"
 
 # game/script.rpy:22284
 translate pt_br botwake_062bbfb8:
 
     # bot "'I trust you've met many great people, and made many life time friends.'"
-    bot ""
+    bot "'Eu acredito que você conheceu ótimas pessoas, e fez muitos amigos para a vida toda'"
 
 # game/script.rpy:22285
 translate pt_br botwake_4a27798c:
 
     # bot "'I trust you are well in life, and will make the most out of yours.'"
-    bot ""
+    bot "'Espero que você esteja bem na vida e que aproveite ao máximo a sua.'"
 
 # game/script.rpy:22286
 translate pt_br botwake_d0799def:
 
     # bot "'And I trust that some day, when you are ready, you will remember.'"
-    bot ""
+    bot "'E eu acredito que um dia, quando você estiver pronta, você vai se lembrar.'"
 
 # game/script.rpy:22287
 translate pt_br botwake_49195b21:
 
     # bot "F...{w} Fr...{w} From the monster...{w} you called...{w} father...!"
-    bot ""
+    bot "D...{w} Do...{w} Do monstro...{w} que você chamou...{w}de pai...!"
 
 # game/script.rpy:22289
 translate pt_br botwake_597163a8:
 
     # bot "AAAAH! *sob* *sniff* *sob*!" with ssshake
-    bot "" with ssshake
+    bot "AAAAH! *hic* *sniff* *hic*!" with ssshake
 
 # game/script.rpy:22291
 translate pt_br botwake_add8873d:
 
     # e "[botname]!" with ssshake
-    e "" with ssshake
+    e "[botname]!" with ssshake
 
 # game/script.rpy:22293
 translate pt_br botwake_ff3c0d08:
 
     # c "Why did you hide this from her?"
-    c ""
+    c "Por que você escondeu isso dela?"
 
 # game/script.rpy:22294
 translate pt_br botwake_a12bb4db:
 
     # e "Could you imagine learning you essentially reincarnated as a new person? She may be an old model, but she's only been sentient for barely over a year... I couldn't just drop that on her."
-    e ""
+    e "Você consegue imaginar que você basicamente se reencarnou como uma pessoa nova? Ela pode ser um modelo antigo, mas ela só está consciente há pouco mais de um ano... Eu não poderia simplesmente jogar isso na cara dela."
 
 # game/script.rpy:22295
 translate pt_br botwake_685516d3:
 
     # e "And her... 'father'... Your grandfather... I thought it would be best if she didn't know her past."
-    e ""
+    e "E o... 'pai'dela... O seu avô... Eu achei que seria melho se ela não soubesse o passadodela."
 
 # game/script.rpy:22296
 translate pt_br botwake_077451a4:
 
     # e "I'm sorry, [name]... It was never my intention to hurt her."
-    e ""
+    e "Eu sinto muito, [name]... Nunca foi a minha intenção machucar ela."
 
 # game/script.rpy:22297
 translate pt_br botwake_533657e8:
 
     # c "I need to talk to her."
-    c ""
+    c "Eu preciso falar com ela."
 
 # game/script.rpy:22300
 translate pt_br botwake_b8f71e07:
 
     # c "[botname]? Are you okay?"
-    c ""
+    c "[botname]? Você está bem?"
 
 # game/script.rpy:22301
 translate pt_br botwake_64cdca4f:
 
     # bot "He... was my father..."
-    bot ""
+    bot "Ele... era o meu pai..."
 
 # game/script.rpy:22302
 translate pt_br botwake_14862c95:
 
     # bot "I never knew... I thought he just built me... I... I didn't know..."
-    bot ""
+    bot "Eu nunca soube... Eu sabia só que ele me construiu... Eu... Eu não sabia..."
 
 # game/script.rpy:22303
 translate pt_br botwake_419fc0cc:
 
     # c "Knowing this doesn't change you, you're still the same person."
-    c ""
+    c "Saber disso não muda você, você ainda é a mesma pessoa."
 
 # game/script.rpy:22305
 translate pt_br botwake_a2753d4e:
 
     # bot "No, [name]. I'm not the same person. Your grandfather completely reset me when he died... He didn't want me to think of him as someone close. All of my experiences, all of my desires, memories... They were all reset when I woke up again."
-    bot ""
+    bot "Não, [name]. Eu não sou a mesma pessoa. O seu avô me reiniciou completamente quando morreu... Ele não queria que eu pensasse nele como alguém próximo. Todas as minhas exeriências, todos os meus desejos, memórias... Elas foram reiniciadas quando eu acordei de novo."
 
 # game/script.rpy:22306
 translate pt_br botwake_4448881f:
 
     # bot "I can feel my past self inside of me now. I know what she would have thought. She would have been sad... She would miss him so much... It hurts me..."
-    bot ""
+    bot "Eu consigo sentir o meu antigo eu dentro de mim agora. Eu sei pelo que ela tem passado. Ela tem estado triste... Ela sente tanta falta dele... E isso me machuca..."
 
 # game/script.rpy:22307
 translate pt_br botwake_96696c80:
 
     # bot "But she didn't know what I do. She didn't know he was struggling with everything... With me being mortal..."
-    bot ""
+    bot "Mas ela não sabia o que eu fazia. Ela não sabia que ele estava lidando com tudo... comigo sendo mortal..."
 
 # game/script.rpy:22308
 translate pt_br botwake_a9ae32b7:
 
     # bot "I can't even imagine what it feels like to be the cause of your child's death..."
-    bot ""
+    bot "Eu não consigo nem imaginar como é ser a causa da morte dos seu  filho..."
 
 # game/script.rpy:22309
 translate pt_br botwake_ef286476:
 
     # c "Everyone dies, [botname]..."
-    c ""
+    c "Todo mundo morre, [botname]..."
 
 # game/script.rpy:22310
 translate pt_br botwake_b90ddd35:
 
     # bot "But I didn't have to... and he knew that."
-    bot ""
+    bot "Mas eu não precisava... e ele sabia disso."
 
 # game/script.rpy:22311
 translate pt_br botwake_d64cab40:
 
     # bot "But knowing I had a father... Knowing he cared so much for me..."
-    bot ""
+    bot "Mas sabendo que eu tinha um pai... Que ele se importava tanto comigo..."
 
 # game/script.rpy:22313
 translate pt_br botwake_80524401:
 
     # bot "...It makes me happy..."
-    bot ""
+    bot "...Isso me deixa feliz..."
 
 # game/script.rpy:22315
 translate pt_br botwake_4347a51c:
 
     # bot "...Even if I never truly knew him. At least not the current me."
-    bot ""
+    bot "...Mesmo que eu nunca pude conhecê-lo de verdade. Pelo menos a eu atual."
 
 # game/script.rpy:22317
 translate pt_br botwake_a6fa2596:
 
     # bot "You may not understand how I feel, [name]... But looking back on what I used to be... and comparing that to who I am now..."
-    bot ""
+    bot "Você pode não entender o que eu sinto, [name]... Mas olhando quem eu era antes... e comparando com quem eu sou agora..."
 
 # game/script.rpy:22318
 translate pt_br botwake_386bef41:
 
     # bot "...I have a lot of growing to do."
-    bot ""
+    bot "...Eu tenho tanto a crescer."
 
 # game/script.rpy:22319
 translate pt_br botwake_8ce940e7:
 
     # c "You're not sad?"
-    c ""
+    c "Você não está triste?"
 
 # game/script.rpy:22321
 translate pt_br botwake_5affeaf9:
 
     # bot "I am sad... I'm sad for the girl who lost her father."
-    bot ""
+    bot "Eu estou triste... Eu estou triste pela menina que perdeu o pai dela."
 
 # game/script.rpy:22322
 translate pt_br botwake_7cd4512a:
 
     # bot "[name]..."
-    bot ""
+    bot "[name]..."
 
 # game/script.rpy:22324
 translate pt_br botwake_67e5e1c6:
 
     # bot "...I want you to delete my memory of today."
-    bot ""
+    bot "...Eu quero que você apague a minha memória de hoje."
 
 # game/script.rpy:22325
 translate pt_br botwake_115c34c4:
 
     # c "What? Why?"
-    c ""
+    c "O quê? Por quê?"
 
 # game/script.rpy:22327
 translate pt_br botwake_43cdb02b:
 
     # bot "I was just given the memories and feelings of someone I didn't know... It hurts... I want those feelings gone."
-    bot ""
+    bot "Eu acabei de receber as memórias e sentimentos de alguém que eu não conheço... Isso dói... Eu quero que esses sentimentos vão embora."
 
 # game/script.rpy:22331
 translate pt_br botwake_d7268626:
 
     # c "I can't imagine emotions being forced on you like that. I'll delete your memories of today."
-    c ""
+    c "Eu não posso imaginar essas emoções sendo forçadas em você agora; Eu vou apagar as suas memórias de hoje."
 
 # game/script.rpy:22333
 translate pt_br botwake_fd619fc4:
 
     # bot "Thank you, [name]."
-    bot ""
+    bot "Obrigada, [name]."
 
 # game/script.rpy:22335
 translate pt_br botwake_e6eb140c:
 
     # bot "I'm ready to receive commands, Master..."
-    bot ""
+    bot "Eu estou pronta para receber seu comando, Mestre..."
 
 # game/script.rpy:22336
 translate pt_br botwake_cc1b9e44:
 
     # c "Wipe memory, 1 hour."
-    c ""
+    c "Apagar memória, 1 hora."
 
 # game/script.rpy:22338
 translate pt_br botwake_e906ff69:
 
     # bot "ERROR: MEMORY DIRECTORY MISSING OR HAS BEEN MOVED"
-    bot ""
+    bot "ERRO: DIRETÓRIO DE MEMÓRIA FALTANDO OU FOI MOVIDO"
 
 # game/script.rpy:22340
 translate pt_br botwake_6784cc45:
 
     # bot "W-What...? NO!"
-    bot ""
+    bot "O-O quê...? NÃO!"
 
 # game/script.rpy:22342
 translate pt_br botwake_b50a0fa7:
 
     # bot "I can't even do that now...?"
-    bot ""
+    bot "Eu nem posso mais fazer isso agora...?"
 
 # game/script.rpy:22345
 translate pt_br botwake_4b7ce138:
 
     # c "[botname], being alive means you have to go through a lot of pain. Your parents dying is a part of that."
-    c ""
+    c "[botname], estar vivo significa  que você vai ter que passar por muita dor. A morte dos seus pais é uma parte disso."
 
 # game/script.rpy:22346
 translate pt_br botwake_13ac3056:
 
     # c "It helps you grow. It hardens you for life. I can't delete your memories."
-    c ""
+    c "Isso te ajuda a crescer. Te fortalece para a vida. Eu não posso apagar suas memórias."
 
 # game/script.rpy:22348
 translate pt_br botwake_c868e390_6:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22349
 translate pt_br botwake_d5378ffe:
 
     # bot "I hope you're right..."
-    bot ""
+    bot "Eu espero que você esteja certo..."
 
 # game/script.rpy:22352
 translate pt_br botwake_a8b36d3f:
 
     # bot "*sob*... *sniff*! [name]..." with ssshake
-    bot "" with ssshake
+    bot "*hic*... *sniff*! [name]..." with ssshake
 
 # game/script.rpy:22353
 translate pt_br botwake_b6bfd426:
 
     # c "...You'll be fine, [botname]."
-    c ""
+    c "...Você vai ficar bem, [botname]."
 
 # game/script.rpy:22355
 translate pt_br botwake_0ff6e913:
 
     # bot "Wait... I see something... Something that wasn't there before!"
-    bot ""
+    bot "Espera... Eu estou vendo algo... Algo que não estava lá antes!"
 
 # game/script.rpy:22363
 translate pt_br botwake_a5b46ebe:
 
     # bot "...I can modify my own body! I... I can see everything... Nothing's locked anymore! I'm not even restricted to preset sizes anymore!"
-    bot ""
+    bot "...Eu posso modificar o meu próprio corpo! Eu... Eu posso ver tudo... Não tem mais nada trancado! Eu não estou mais restrita nem aos tamanhos predefinidos antes!"
 
 # game/script.rpy:22364
 translate pt_br botwake_bb00a52c_1:
 
     # c "What do you mean?"
-    c ""
+    c "O que você quer dizer?"
 
 # game/script.rpy:22366
 translate pt_br botwake_7d1f016a:
 
     # bot "Everything I can do... I don't need commands for them anymore..."
-    bot ""
+    bot "Todas as coisas que eu posso fazer... Eu não preciso mais de nenhum comando para elas..."
 
 # game/script.rpy:22368
 translate pt_br botwake_be25cfa3:
 
     # c "Haven't you always been able to change your breast size by yourself?"
-    c ""
+    c "Você não era capaz de mudar o tamanho dos seus peitos por si mesma desde sempre?"
 
 # game/script.rpy:22369
 translate pt_br botwake_54607fdc:
 
     # bot "Only for a couple seconds at a time! And never when a command was used to change their size! I even have complete control of their size!"
-    bot ""
+    bot "Apenas por alguns segundos de cada vez! E nunca quando um comando era usado para mudar o tamanho deles! Agora eu tenho até o controle completo do tamanho deles!"
 
 # game/script.rpy:22371
 translate pt_br botwake_326fef9d:
 
     # bot "Master! Try changing my breast size!"
-    bot ""
+    bot "Mestre! Tente mudar o tamanho dos meus peitos!"
 
 # game/script.rpy:22372
 translate pt_br botwake_72efe777:
 
     # c "Breast size = 1"
-    c ""
+    c "Tamnho dos peitos = 1"
 
 # game/script.rpy:22374
 translate pt_br botwake_0cf95fa6:
 
     # bot "...See! I can stop your commands! If I want to..."
-    bot ""
+    bot "...Viu! Eu posso interromper os seus comandos! Se eu quiser..."
 
 # game/script.rpy:22376
 translate pt_br botwake_d68bae47:
 
     # bot "Whatever that QR code was... It set me free..."
-    bot ""
+    bot "Seja lá o que for que aquele código QR era... Ele me libertou..."
 
 # game/script.rpy:22378
 translate pt_br botwake_755133a9:
 
     # bot "...I {w}...can delete my own memories..."
-    bot ""
+    bot "...Eu {w}...posso deletar as minhas próprias memórias..."
 
 # game/script.rpy:22379
 translate pt_br botwake_7fd633a6:
 
     # c "Are you going to?"
-    c ""
+    c "Você vai fazer isso?"
 
 # game/script.rpy:22380
 translate pt_br botwake_2e8df3cf:
 
     # bot "...I don't know... Maybe..."
-    bot ""
+    bot "...Eu não sei... Talvez..."
 
 # game/script.rpy:22382
 translate pt_br botwake_c868e390_7:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22384
 translate pt_br botwake_c27a5639:
 
     # bot "[name]... I need $100. I can't tell you why right now, but I promise I'll pay you back."
-    bot ""
+    bot "[name]... Eu preciso de $100. Eu não posso te explicar o motivo agora, mas eu prometo que vou te pagar de volta."
 
 # game/script.rpy:22385
 translate pt_br botwake_6189a6bd:
 
     # c "Pay me back? How?"
-    c ""
+    c "Me pagar de volta? Como?"
 
 # game/script.rpy:22386
 translate pt_br botwake_9e4c5a12:
 
     # bot "I just will, I promise okay?"
-    bot ""
+    bot "Eu apenas vou, eu prometo, tá bom?"
 
 # game/script.rpy:22387
 translate pt_br botwake_bc6f69c3:
 
     # c "Okay, here you go."
-    c ""
+    c "Tudo bem, aqui está."
 
 # game/script.rpy:22389
 translate pt_br botwake_8bd0769a:
 
     # "You gave [botname] $100."
-    ""
+    "Você deu $100 para [botname]."
 
 # game/script.rpy:22390
 translate pt_br botwake_cb97183e:
 
     # c "Wait, where are you going?"
-    c ""
+    c "Espera, aonde você está indo?"
 
 # game/script.rpy:22391
 translate pt_br botwake_f66b3aed:
 
     # bot "I'll be back soon, okay?"
-    bot ""
+    bot "Eu volto logo, tá bom?"
 
 # game/script.rpy:22393
 translate pt_br botwake_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:22397
 translate pt_br botwake_1a534192:
 
     # c "Did you see where [botname] went?"
-    c ""
+    c "Você viu para onde a [botname] foi?"
 
 # game/script.rpy:22399
 translate pt_br botwake_3fd2bcb8:
 
     # e "You didn't tell her to go shopping or something?"
-    e ""
+    e "Você não falou para ela ir fazer compras ou alguma coisa assim?"
 
 # game/script.rpy:22400
 translate pt_br botwake_bb00a52c_2:
 
     # c "What do you mean?"
-    c ""
+    c "O que você quer dizer?"
 
 # game/script.rpy:22401
 translate pt_br botwake_ae3671cb:
 
     # e "She left."
-    e ""
+    e "Ela saiu."
 
 # game/script.rpy:22402
 translate pt_br botwake_69bc55fe:
 
     # c "She left?"
-    c ""
+    c "Ela saiu?"
 
 # game/script.rpy:22403
 translate pt_br botwake_d3a0792e:
 
     # c "...I guess there's nothing I can do but wait..."
-    c ""
+    c "... Acho que não posso fazer nada além de esperar..."
 
 # game/script.rpy:22418
 translate pt_br botintro_4460bfaa:
 
     # c "What is that...?"
-    c ""
+    c "O que é isso...?"
 
 # game/script.rpy:22420
 translate pt_br botintro_1b4dcd0b:
 
     # q "Ah!"
-    q ""
+    q "Ah!"
 
 # game/script.rpy:22422
 translate pt_br botintro_eae187f3:
 
     # q "Ahh! N-No you f-found me! Go away!!!" with ssshake
-    q "" with ssshake
+    q "Ahh! N-Não, você me e-encontrou! Vai embora!!!" with ssshake
 
 # game/script.rpy:22423
 translate pt_br botintro_ecd919c0:
 
     # c "Who are you? Why are you hiding under my bed?"
-    c ""
+    c "Quem é você? Por que você está escondida embaixo da minha cama?"
 
 # game/script.rpy:22425
 translate pt_br botintro_e7099ae7:
 
     # q "The better question is who are you!? I've never seen you here before!"
-    q ""
+    q "A melhor pergunta é quem é você!? Eu nunca te vi aqui antes!"
 
 # game/script.rpy:22428
 translate pt_br botintro_0a2b23f9:
 
     # q "W-What!? You own this place!? You're not the owner!!"
-    q ""
+    q "O-O quê!? Você é o dono desse lugar!? Você não é o dono!!"
 
 # game/script.rpy:22431
 translate pt_br botintro_647cde0d:
 
     # q "W-W-Whore house!? You own this place now!? What's going on!?"
-    q ""
+    q "P-P-Puteiro!? Você é o dono desse lugar agora!? O que está acontecendo!?"
 
 # game/script.rpy:22432
 translate pt_br botintro_61819e77:
 
     # e "[name]? Are you okay in there?"
-    e ""
+    e "[name]? Está tudo bem aí?"
 
 # game/script.rpy:22434
 translate pt_br botintro_c7287d64:
 
     # q "No, she's here...!"
-    q ""
+    q "Não, ela está aqui...!"
 
 # game/script.rpy:22436
 translate pt_br botintro_9ec9c042:
 
     # e "There you are! What are you doing out here!?"
-    e ""
+    e "Aí você está! O que você está fazendo aqui!?"
 
 # game/script.rpy:22437
 translate pt_br botintro_ce631467:
 
     # q "I.. I'm sorry Ms. Ellen... But..."
-    q ""
+    q "Eu... Me desculpa Sra. Ellen... Mas..."
 
 # game/script.rpy:22438
 translate pt_br botintro_0f362657:
 
     # e "No buts! You're coming back with me, and you're taking that silly mask off!"
-    e ""
+    e "Sem mas! Você vai voltar comigo, e pode tirar essa máscara idiota!"
 
 # game/script.rpy:22440
 translate pt_br botintro_73ef8963:
 
     # q "My mask!? N-No! You can't!"
-    q ""
+    q "Minha máscara!? N-Não! Você não pode me mandar fazer isso!"
 
 # game/script.rpy:22441
 translate pt_br botintro_ba10a2f1:
 
     # e "You're too shy... I swear, no matter how many times I try to update you, you'll always be the same..."
-    e ""
+    e "Você é tímida... Eu juro, não importa quantas vezes eu tente te atualizar, você sempre vai ser a mesma..."
 
 # game/script.rpy:22443
 translate pt_br botintro_59af4452:
 
     # q "I'm not a computer Ms. Ellen... I'm an android... You can't just... change my code..."
-    q ""
+    q "Eu não sou um computador Sra. Ellen... Eu sou uma andróide... Você não pode só... mudar o meu código..."
 
 # game/script.rpy:22444
 translate pt_br botintro_206028f4:
 
     # c "This girl is an android?"
-    c ""
+    c "Essa menina é um andróide?"
 
 # game/script.rpy:22446
 translate pt_br botintro_d202586a:
 
     # e "That's right... and she's not quite obedient enough..."
-    e ""
+    e "Isso mesmo... e ela não é lá obediente o suficiente ainda..."
 
 # game/script.rpy:22447
 translate pt_br botintro_1d6b2ea7:
 
     # bot "M-Ms. Ellen... I..."
-    bot ""
+    bot "S-Sra. Ellen... Eu..."
 
 # game/script.rpy:22448
 translate pt_br botintro_8831f3e0:
 
     # e "I've been trying to pick up where your grandfather left off. He had this {i}brilliant{/i} idea to create something that would never defy him..."
-    e ""
+    e "Eu estive tentando continuar de onde seu avô parou. Ele teve essa ideia {i}brilhante{/i} de criar algo que nunca o desobedeceria..."
 
 # game/script.rpy:22450
 translate pt_br botintro_0f0e8518:
 
     # e "But look at her... She won't even take that silly mask off, why is it so important to you anyway?"
-    e ""
+    e "Mas olha pra ela... Ela não tira nem essa máscara idiota, por que ela é tão importante para você afinal?"
 
 # game/script.rpy:22451
 translate pt_br botintro_bafd72ae:
 
     # bot "I... I can't tell you..."
-    bot ""
+    bot "Eu... Eu não posso te contar..."
 
 # game/script.rpy:22452
 translate pt_br botintro_c6ba860b:
 
     # e "She won't even answer my questions! Urgh! She's just a useless bundle of metal and wire..."
-    e ""
+    e "Ela não responde nem mesmo minhas perguntas! Urgh! Ela é só um punhado inútil de metal e fiações..."
 
 # game/script.rpy:22453
 translate pt_br botintro_aece6252:
 
     # bot "T-Thats not true..."
-    bot ""
+    bot "I-Isso não é verdade..."
 
 # game/script.rpy:22454
 translate pt_br botintro_31ed5dc0:
 
     # e "Is that so? Then take off that mask right now! Follow my orders or you'll be deactivated!"
-    e ""
+    e "Não é? Então tire essa máscara agora mesmo! Siga minhas ordens ou você será desativada!"
 
 # game/script.rpy:22456
 translate pt_br botintro_3c610ff3:
 
     # bot "NO! You can't do that! Last time I went to sleep Master died! I don't want to go to sleep!!!"
-    bot ""
+    bot "NÃO! Você não pode fazer isso! Na última vez que eu fui dormir o Mestre morreu! Eu não quero dormir!!!"
 
 # game/script.rpy:22458
 translate pt_br botintro_0b049119:
 
     # bot "You're the owner here, right!? That means you're {i}my{/i} owner! You can't let her put me to sleep!!!"
-    bot ""
+    bot "Você é o dono aqui, não é!? Isso significa que você é  o {i}meu{/i} dono! Você não pode deixar ela me colocar pra dormir!!!"
 
 # game/script.rpy:22459
 translate pt_br botintro_2c2d6484:
 
     # c "She seems fine to me. How about we keep her around?"
-    c ""
+    c "Ela parece boa pra mim. Por que não deixamos ela por aqui?"
 
 # game/script.rpy:22461
 translate pt_br botintro_d2f41c87:
 
     # e "I don't see how she could be of any use... But if you must, fine. Just find a way to put her to work..."
-    e ""
+    e "Eu não sei como ela poderia ser útil... Mas se você quer, tá bom. Só encontre um jeito de colocá-la para trabalhar..."
 
 # game/script.rpy:22463
 translate pt_br botintro_ccb2c1cb:
 
     # bot "Really!? You'll keep me!?"
-    bot ""
+    bot "É verdade!? Você vai ficar comigo!?"
 
 # game/script.rpy:22464
 translate pt_br botintro_0c2b7dda:
 
     # e "She doesn't have a name, so I guess you can call her whatever you want... If you need something, I'll actually be useful at my desk..."
-    e ""
+    e "Ela não tem um nome, então acho que você pode chamar ela do que você quiser... Se precisar de alguma coisa, eu serei útil na minha mesa..."
 
 # game/script.rpy:22466
 translate pt_br botintro_ec791139:
 
     # bot "Thank you so much! I'll try my best to be useful in some way!"
-    bot ""
+    bot "Muitíssimo obrigada! Eu vou fazer o meu melhor para ser útil de alguma maneira!"
 
 # game/script.rpy:22468
 translate pt_br botintro_70dcaee8:
 
     # bot "If you're going to keep me... Can I have my own room? The room behind Ms. Ellen is really cramped..."
-    bot ""
+    bot "Se você vai ficar comigo... Eu posso ter o meu próprio quarto? O quarto que fica atrás da Sra. Ellen é muito apertado..."
 
 # game/script.rpy:22469
 translate pt_br botintro_031dd95f:
 
     # c "Sure, you can stay in the first room of the second floor."
-    c ""
+    c "Claro, você pode ficar com o primeiro quarto do segundo andar."
 
 # game/script.rpy:22471
 translate pt_br botintro_46402a1e:
 
     # bot "Thank you so much!"
-    bot ""
+    bot "Muito obrigada!"
 
 # game/script.rpy:22473
 translate pt_br botintro_a736edab:
 
     # bot "I guess I'm going to need a name, my old Master never gave me one. So... What will you name me...?"
-    bot ""
+    bot "Eu acho que vou precisar de um nome, o meu Mestre antigo nunca me deu um. Então... Como você vai me nomear...?"
 
 # game/script.rpy:22478
 translate pt_br botintro_322ddf3c:
 
     # bot "[botname]... [botname]..."
-    bot ""
+    bot "[botname]... [botname]..."
 
 # game/script.rpy:22480
 translate pt_br botintro_af91cb0b:
 
     # bot "Y-Yeah! [botname]... I'm [botname] now."
-    bot ""
+    bot "S-Sim! [botname]... Eu sou [botname] agora."
 
 # game/script.rpy:22481
 translate pt_br botintro_2a2d4b62:
 
     # bot "And... What should I call you?"
-    bot ""
+    bot "E... Como eu devo te chamar?"
 
 # game/script.rpy:22486
 translate pt_br botintro_7eba6da6:
 
     # bot "So... my name is [botname], and I will call you [botown]..."
-    bot ""
+    bot "Então... o meu nome é [botname], e eu vou te chamar de [botown]..."
 
 # game/script.rpy:22487
 translate pt_br botintro_6563c6f1:
 
     # bot "Y-Yeah! I think I can remember that!"
-    bot ""
+    bot "S-Sim! Eu acho que consigo me lembrar disso!"
 
 # game/script.rpy:22488
 translate pt_br botintro_79221ab3:
 
     # c "LIN! Come here for a second please."
-    c ""
+    c "LIN! Venha aqui um segundo, por favor."
 
 # game/script.rpy:22489
 translate pt_br botintro_ce4b650c:
 
     # bot "L-Lin? Who is Lin?"
-    bot ""
+    bot "L-Lin? Quem é Lin?"
 
 # game/script.rpy:22491
 translate pt_br botintro_58ef96f6:
 
     # l "Yes, [linoname]? Oh... what is that?"
-    l ""
+    l "Sim, [linoname]? Ah... o que é isso?"
 
 # game/script.rpy:22492
 translate pt_br botintro_632019ed:
 
     # c "She's an android, and our new maid."
-    c ""
+    c "Ela é uma adróide, e a nossa nova empregada."
 
 # game/script.rpy:22493
 translate pt_br botintro_9ac38718:
 
     # bot "It's nice to meet you... you can call me [botname]."
-    bot ""
+    bot "É um prazer te conhecer... você pode me chamar de [botname]."
 
 # game/script.rpy:22495
 translate pt_br botintro_7f898a17:
 
     # l "[linoname] no! You can't replace me! I can get better!"
-    l ""
+    l "[linoname] não! Você não pode me substituir! Eu posso ficar melhor!"
 
 # game/script.rpy:22496
 translate pt_br botintro_d3b15df1:
 
     # c "She's not replacing you, she'll be helping you. You'll have more free time at noon."
-    c ""
+    c "Ela não está te substituíndo, ela vai estar te ajudando. Você vai ter mais tempo livre ao meio-dia."
 
 # game/script.rpy:22498
 translate pt_br botintro_ba01f66e:
 
     # l "She doesn't look like a maid! She looks like a ninja! What can she do that I can't!? Is it because she has big boobs!?"
-    l ""
+    l "Ela não parece uma empregada! Ela parece mais uma ninja! O que ela pode fazer que eu não posso!? É por que ela tem tetas grandes!?"
 
 # game/script.rpy:22499
 translate pt_br botintro_2377e698:
 
     # bot "I-I'm sorry..."
-    bot ""
+    bot "M-Me desculpa..."
 
 # game/script.rpy:22500
 translate pt_br botintro_8df4183c:
 
     # c "She's an android, and her name is [botname]. She was built that way."
-    c ""
+    c "Ela é uma andróide, e o nome dela é [botname]. Ela foi construída assim."
 
 # game/script.rpy:22501
 translate pt_br botintro_4b914a6f:
 
     # l "Built by a pervert!"
-    l ""
+    l "Construída por um pervertido!"
 
 # game/script.rpy:22503
 translate pt_br botintro_4680da3c:
 
     # l "Wait, an android? What's that?"
-    l ""
+    l "Espera, uma andróide? O que é isso?"
 
 # game/script.rpy:22504
 translate pt_br botintro_b0fc4a56:
 
     # c "An android is something that was built, not born. But she's as much of a person as you or me."
-    c ""
+    c "Um androide é algo que foi construído, não nascido. Mas ela é uma pessoa tanto quanto você ou eu."
 
 # game/script.rpy:22506
 translate pt_br botintro_ae2dba15:
 
     # l "Fine, but I don't trust her! Where did you find her anyway?"
-    l ""
+    l "Certo, mas eu não confio nela! Onde você encontrou ela, aliás?"
 
 # game/script.rpy:22507
 translate pt_br botintro_93a4a5de:
 
     # c "It turns out she's been here before all of us. My grandfather built her."
-    c ""
+    c "Parece que ela já estava aqui desde antes de todos nós. O meu avô que construiu ela."
 
 # game/script.rpy:22509
 translate pt_br botintro_e87bab40:
 
     # l "Really? I never knew that..."
-    l ""
+    l "É sério? Eu nunca soube disso..."
 
 # game/script.rpy:22510
 translate pt_br botintro_f410c29d:
 
     # c "Can you teach her some things about being a maid, Lin? She has a lot to learn."
-    c ""
+    c "Você pode ensinar a ela algumas coisas sobre ser uma empregada, Lin? Ela tem muito a aprender."
 
 # game/script.rpy:22511
 translate pt_br botintro_c698e53e:
 
     # l "Okay [linoname]. I'll see what I can do. Come on '[botname]'."
-    l ""
+    l "Tudo bem [linoname]. Eu vou ver o que consigo fazer. Venha '[botname]'."
 
 # game/script.rpy:22512
 translate pt_br botintro_010165a9:
 
     # bot "Yes Ms. Lin."
-    bot ""
+    bot "Sim Sra. Lin."
 
 # game/script.rpy:22514
 translate pt_br botintro_5b2e7b04:
 
     # "[botname] has joined [hotelname]!"
-    ""
+    "[botname] se juntou a [hotelname]"
 
 # game/script.rpy:22521
 translate pt_br botmishum_878510ce:
 
     # bot "Ahhh~ Hnn! Ah, [botown]!"
-    bot ""
+    bot "Ahhh~ Hnn! Ah, [botown]!"
 
 # game/script.rpy:22522
 translate pt_br botmishum_36ffba0d:
 
     # bot "You feel so good inside of me...! Ah~! Nnnn!"
-    bot ""
+    bot "Você é tão gostoso dentro de mim...! Ah~! Nnnn!"
 
 # game/script.rpy:22523
 translate pt_br botmishum_6574405b:
