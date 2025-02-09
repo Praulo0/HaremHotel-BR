@@ -27004,7 +27004,7 @@ translate pt_br kitchen_ab773f49:
 translate pt_br kitchen_bac7ae83:
 
     # l "Well... It's all I know... I guess I'm pretty young when it comes to Elves. There was a time before we all became slaves that I can remember. But... I've been a slave for 97 percent of my life..."
-    l "Bem... Isso é tudo que sei... Eu acho que sou bem jovem quando se trata de Elfos. Tem uma epoca antes de todos nós nos tornarmos escravos que consigo lembrar. Mas... Eu fui uma escrava por 97 por cento da minha vida..."
+    l "Bem... Isso é tudo que sei... Eu acho que sou bem jovem quando se trata de Elfos. Tem uma época antes de todos nós nos tornarmos escravos que consigo lembrar. Mas... Eu fui uma escrava por 97 por cento da minha vida..."
 
 # game/script.rpy:14125
 translate pt_br kitchen_67beb31b:
@@ -49059,7 +49059,7 @@ translate pt_br botwake_6782cce8:
 translate pt_br botwake_1ed8be5b:
 
     # yg "By the definition of it, programming is telling the computer to do something, then it does it."
-    yg ""Segundo sua definição, programar é dizer ao computador para fazer algo, e então ele faz."
+    yg Segundo sua definição, programar é dizer ao computador para fazer algo, e então ele faz."
 
 # game/script.rpy:21869
 translate pt_br botwake_30183f7d:
@@ -51555,835 +51555,835 @@ translate pt_br botmishum_36ffba0d:
 translate pt_br botmishum_6574405b:
 
     # bot "Do you -Ah! ...Like it when I squeeze you? Hahh, Hehe, I can always make you feel better!"
-    bot ""
+    bot "Você -Ah! ...Gosta quando eu aperto você? Hahh, Hehe, eu sempre posso fazer você se sentir melhor!"
 
 # game/script.rpy:22524
 translate pt_br botmishum_cd6bc73b:
 
     # bot "Ahh, ahhh! Ahhh! [botown]! You're going to make me cum!"
-    bot ""
+    bot "Ahh, ahhh! Ahhh! [botown]! Você vai me fazer gozar!"
 
 # game/script.rpy:22527
 translate pt_br botmishum_4f7d0adc:
 
     # bot "Ah! Ahhh! Yes, please fill me up! I want to cum on your cock [botown]!"
-    bot ""
+    bot "Ah! Ahhh! Isso, por favor me preencha! Eu quero gozar no seu pau [botown]!"
 
 # game/script.rpy:22528
 translate pt_br botmishum_15cf1bf6:
 
     # bot "Nnnnnn! Nnnnn! Cum inside, please, please! Please! AHH!"
-    bot ""
+    bot "Nnnnnn! Nnnnn! Goza dentro, por favor, por favor! Por favor! AHH!"
 
 # game/script.rpy:22529
 translate pt_br botmishum_065f2202:
 
     # bot "YES! AHH! [botown]! NNNGH!!! AH!"
-    bot ""
+    bot "ISSO! AHH! [botown]! NNNGH!!! AH!"
 
 # game/script.rpy:22531
 translate pt_br botmishum_3a796d28:
 
     # bot "AAAAAAAAAAAAAAAAAAAAAHHHH! NNNNNnnnnnn!" with sshake
-    bot "" with sshake
+    bot "AAAAAAAAAAAAAAAAAAAAAHHHH! NNNNNnnnnnn!" with sshake
 
 # game/script.rpy:22533
 translate pt_br botmishum_288f8cb6:
 
     # bot "W-Wait! [botown], you didn't cum yet!"
-    bot ""
+    bot "E-Espera! [botown], você não gozou ainda!"
 
 # game/script.rpy:22535
 translate pt_br botmishum_44807680:
 
     # bot "Nnnh! I'll help you [botown]!"
-    bot ""
+    bot "Nnnh! Eu vou te ajudar [botown]!"
 
 # game/script.rpy:22536
 translate pt_br botmishum_bfda50e2:
 
     # bot "Ahhh, hahh! Nn, I'm so sensitive now, but... Please fuck me until you cum!"
-    bot ""
+    bot "Ahhh, hahh! Nn, eu estou muito sensível agora, mas... Por favor, me fode até você gozar!"
 
 # game/script.rpy:22542
 translate pt_br botmishum_e5450c94:
 
     # bot "Nnngh!" with ssshake
-    bot "" with ssshake
+    bot "Nnngh!" with ssshake
 
 # game/script.rpy:22543
 translate pt_br botmishum_5a56f092:
 
     # bot "Ahh~!" with ssshake
-    bot "" with ssshake
+    bot "Ahh~!" with ssshake
 
 # game/script.rpy:22544
 translate pt_br botmishum_3c224e37:
 
     # bot "Hnnnn!" with ssshake
-    bot "" with ssshake
+    bot "Hnnnn!" with ssshake
 
 # game/script.rpy:22546
 translate pt_br botmishum_65d55100:
 
     # bot "Your cum feels so good inside my pussy, [botown]...!"
-    bot ""
+    bot "É tão gostoso sentir o seu gozo dentro da minha boceta, [botown]...!"
 
 # game/script.rpy:22550
 translate pt_br botmishum_d95bc2f4:
 
     # bot "Ahh, wow... I'm covered..."
-    bot ""
+    bot "Ahh, uau... eu estou coberta..."
 
 # game/script.rpy:22561
 translate pt_br botmisform_878510ce:
 
     # bot "Ahhh~ Hnn! Ah, [botown]!"
-    bot ""
+    bot "Ahhh~ Hnn! Ah, [botown]!"
 
 # game/script.rpy:22562
 translate pt_br botmisform_36ffba0d:
 
     # bot "You feel so good inside of me...! Ah~! Nnnn!"
-    bot ""
+    bot "É tão gostoso sentir você dentro de mim...! Ah~! Nnnn!"
 
 # game/script.rpy:22563
 translate pt_br botmisform_6574405b:
 
     # bot "Do you -Ah! ...Like it when I squeeze you? Hahh, Hehe, I can always make you feel better!"
-    bot ""
+    bot "Você -Ah! ...Gosta quando eu aperto você? Hahh, Hehe, eu sempre posso fazer você se sentir melhor!"
 
 # game/script.rpy:22564
 translate pt_br botmisform_cd6bc73b:
 
     # bot "Ahh, ahhh! Ahhh! [botown]! You're going to make me cum!"
-    bot ""
+    bot "Ahh, ahhh! Ahhh! [botown]! Você vai me fazer gozar!"
 
 # game/script.rpy:22567
 translate pt_br botmisform_4f7d0adc:
 
     # bot "Ah! Ahhh! Yes, please fill me up! I want to cum on your cock [botown]!"
-    bot ""
+    bot "Ah! Ahhh! Isso, por favor me preencha! Eu quero gozar no seu pau [botown]!"
 
 # game/script.rpy:22568
 translate pt_br botmisform_15cf1bf6:
 
     # bot "Nnnnnn! Nnnnn! Cum inside, please, please! Please! AHH!"
-    bot ""
+    bot "Nnnnnn! Nnnnn! Goza dentro, por favor, por favor! Por favor! AHH!"
 
 # game/script.rpy:22569
 translate pt_br botmisform_065f2202:
 
     # bot "YES! AHH! [botown]! NNNGH!!! AH!"
-    bot ""
+    bot "ISSO! AHH! [botown]! NNNGH!!! AH!"
 
 # game/script.rpy:22571
 translate pt_br botmisform_3a796d28:
 
     # bot "AAAAAAAAAAAAAAAAAAAAAHHHH! NNNNNnnnnnn!" with sshake
-    bot "" with sshake
+    bot "AAAAAAAAAAAAAAAAAAAAAHHHH! NNNNNnnnnnn!" with sshake
 
 # game/script.rpy:22573
 translate pt_br botmisform_288f8cb6:
 
     # bot "W-Wait! [botown], you didn't cum yet!"
-    bot ""
+    bot "E-Espera! [botown], você não gozou ainda!"
 
 # game/script.rpy:22575
 translate pt_br botmisform_44807680:
 
     # bot "Nnnh! I'll help you [botown]!"
-    bot ""
+    bot "Nnnh! Eu vou te ajudar [botown]!"
 
 # game/script.rpy:22576
 translate pt_br botmisform_d7448db3:
 
     # bot "Ahhh, hahh! Nn, I'm so sensitive now... So fuck me until you cum!"
-    bot ""
+    bot "Ahhh, hahh! Nn, eu estou muito sensível agora... Então me fode até você gozar!"
 
 # game/script.rpy:22582
 translate pt_br botmisform_e5450c94:
 
     # bot "Nnngh!" with ssshake
-    bot "" with ssshake
+    bot "Nnngh!" with ssshake
 
 # game/script.rpy:22583
 translate pt_br botmisform_5a56f092:
 
     # bot "Ahh~!" with ssshake
-    bot "" with ssshake
+    bot "Ahh~!" with ssshake
 
 # game/script.rpy:22584
 translate pt_br botmisform_3c224e37:
 
     # bot "Hnnnn!" with ssshake
-    bot "" with ssshake
+    bot "Hnnnn!" with ssshake
 
 # game/script.rpy:22586
 translate pt_br botmisform_65d55100:
 
     # bot "Your cum feels so good inside my pussy, [botown]...!"
-    bot ""
+    bot "É tão gostoso sentir o seu gozo dentro da minha boceta, [botown]...!"
 
 # game/script.rpy:22590
 translate pt_br botmisform_ca244931:
 
     # bot "Ahh, wow... I'm covered!"
-    bot ""
+    bot "Ahh, uau... eu estou coberta!"
 
 # game/script.rpy:22599
 translate pt_br bothuman_32ef7c3a:
 
     # bot "What do you think? How do I look?"
-    bot ""
+    bot "O que você acha? Como eu estou?"
 
 # game/script.rpy:22600
 translate pt_br bothuman_dc4b030c:
 
     # c "Surprisingly human..."
-    c ""
+    c "Surpreendentemete humana..."
 
 # game/script.rpy:22601
 translate pt_br bothuman_47273069:
 
     # bot "Thank you! I really like the hair! I even braided it! And the eyes too! They look so pretty!"
-    bot ""
+    bot "Obrigada! Eu gostei muito do cabelo! Eu até prencei ele! E os olhos também! Eles são tão bonitos!"
 
 # game/script.rpy:22602
 translate pt_br bothuman_2782c4f1:
 
     # c "Hahah, calm down. You shrunk your breasts?"
-    c ""
+    c "Hahah, calma. Você encolheu os seus seios?"
 
 # game/script.rpy:22604
 translate pt_br bothuman_0256be8a:
 
     # bot "I did! Humans breasts are typically much smaller than my normal ones. I think I'll draw less attention this way!"
-    bot ""
+    bot "Encolhi sim! Os seios dos humanos normalmente são muito menores que os meus normais. Acho que assim eu chamo menos atenção!"
 
 # game/script.rpy:22605
 translate pt_br bothuman_204780d0:
 
     # c "Smart."
-    c ""
+    c "Esperta."
 
 # game/script.rpy:22607
 translate pt_br bothuman_5e7de261:
 
     # bot "Um, but [botown]... I really can't wear the mask? Isn't it kind of... Lewd... Like this...?"
-    bot ""
+    bot "Hum, mas [botown]... Eu não posso mesmo usar a máscara? Não é meio... erótico... assim...?"
 
 # game/script.rpy:22608
 translate pt_br bothuman_ebae235f:
 
     # c "You're fine, you look human. Nothing is wrong with your mouth anyway."
-    c ""
+    c "Você está bem, parece humana. Não há nada de errado com sua boca, de qualquer forma."
 
 # game/script.rpy:22610
 translate pt_br bothuman_259173d0:
 
     # bot "I guess you're right. If I look human, then it's not weird!"
-    bot ""
+    bot "Acho que você tem razão. Se eu parecer humana, então não deve ser estranho!"
 
 # game/script.rpy:22612
 translate pt_br bothuman_e3c1c4fc:
 
     # "You drive [botname] to the city once more. This time, you're hoping you'll be able to get in with her..."
-    ""
+    "Você dirige com [botname] para a cidade mais uma vez. Dessa vez, esperando que você possa entrar junto com ela..."
 
 # game/script.rpy:22614
 translate pt_br bothuman_8aaf80fa:
 
     # durn "Ahh, I see you're back! Welcome."
-    durn ""
+    durn "Ahh, vejo que você voltou! Seja bem vindo."
 
 # game/script.rpy:22615
 translate pt_br bothuman_086a8171:
 
     # durn "How many will we be serving today?"
-    durn ""
+    durn "Quantas pessoas atenderemos hoje?"
 
 # game/script.rpy:22616
 translate pt_br bothuman_6e09ee6d:
 
     # c "Two."
-    c ""
+    c "Duas."
 
 # game/script.rpy:22617
 translate pt_br bothuman_25a85997:
 
     # durn "Wonderful!"
-    durn ""
+    durn "Maravilha!"
 
 # game/script.rpy:22619
 translate pt_br bothuman_7d485f65:
 
     # durn "Hello Mrs, I'm sure you'll enjoy your stay."
-    durn ""
+    durn "Olá Sra, tenho certeza que você irá apreciar sua estadia."
 
 # game/script.rpy:22620
 translate pt_br bothuman_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "obrigada!"
 
 # game/script.rpy:22622
 translate pt_br bothuman_fc77bf9f:
 
     # durn "Right this way..."
-    durn ""
+    durn "Venham pr aqui..."
 
 # game/script.rpy:22624
 translate pt_br bothuman_4b7010a9:
 
     # durn "Let me know when you've decided on a dish."
-    durn ""
+    durn "Avisem-me quando tiverem decidido um prato."
 
 # game/script.rpy:22625
 translate pt_br bothuman_053432b7:
 
     # bot "Okay!"
-    bot ""
+    bot "Tudo bem!"
 
 # game/script.rpy:22627
 translate pt_br bothuman_00318d42:
 
     # bot "Wow, he really didn't notice!"
-    bot ""
+    bot "Uau, ele realmente não percebeu!"
 
 # game/script.rpy:22629
 translate pt_br bothuman_905b7078:
 
     # bot "I can't believe he saw my mouth... I feel so dirty!"
-    bot ""
+    bot "Eu não acredito que ele viu a minha boca... Eu me sinto tão suja!"
 
 # game/script.rpy:22630
 translate pt_br bothuman_a1a0cc0a:
 
-    # bot "I hear Dark Elves have a bit of a hard time seeing in the light. It's pretty dim in here, so he probably didn't notice my elbows!"
-    bot ""
+        # bot "I hear Dark Elves have a bit of a hard time seeing in the light. It's pretty dim in here, so he probably didn't notice my elbows!"
+    bot "Ouvi dizer que os Elfos Negros têm um pouco de dificuldade para enxergar na luz. Está bem escuro aqui, então ele provavelmente não notou meus cotovelos!"
 
 # game/script.rpy:22632
 translate pt_br bothuman_b41868d3:
 
     # bot "We finally made it [botown]! What do you think I should order?"
-    bot ""
+    bot "Nós finalmente conseguimos [botown]! O que você acha que eu deveria pedir?"
 
 # game/script.rpy:22633
 translate pt_br bothuman_2d7d0259:
 
     # c "Curry maybe?"
-    c ""
+    c "Curry talvez?"
 
 # game/script.rpy:22634
 translate pt_br bothuman_40361572:
 
     # bot "Lin made me some curry, I want something even spicier!"
-    bot ""
+    bot "A Lin fez um pouco de curry pra mim, eu quero algo ainda mais picante!"
 
 # game/script.rpy:22635
 translate pt_br bothuman_f5846f43:
 
     # c "I guess you could just order some peppers."
-    c ""
+    c "Então acho que você pode apenas pedir algumas pimentas."
 
 # game/script.rpy:22637
 translate pt_br bothuman_aa9ac119:
 
     # bot "Peppers? Are those really spicy!?"
-    bot ""
+    bot "Pimentas? Elas são picantes mesmo!?"
 
 # game/script.rpy:22638
 translate pt_br bothuman_28ebbfab:
 
     # c "More than curry."
-    c ""
+    c "Mais do que curry."
 
 # game/script.rpy:22639
 translate pt_br bothuman_23c270dd:
 
     # bot "I really want to try that then!"
-    bot ""
+    bot "Então eu realmente quero experimentar!"
 
 # game/script.rpy:22641
 translate pt_br bothuman_2c16abef:
 
     # durn "Are we ready to order?"
-    durn ""
+    durn "Vocês estão prontos para pedir?"
 
 # game/script.rpy:22642
 translate pt_br bothuman_fce6ecaf:
 
     # bot "Yes please! I want a plate of your spiciest peppers!"
-    bot ""
+    bot "Sim, por favor! Eu quero um prato das suas pimentas mais picantes!"
 
 # game/script.rpy:22643
 translate pt_br bothuman_1feb2e63:
 
     # durn "Oh, that's interesting... Will that be all for you, ma'am?"
-    durn ""
+    durn "Ah, isso é interessante... Todas elas serão para você, madame?"
 
 # game/script.rpy:22644
 translate pt_br bothuman_88267ed5:
 
     # bot "Yes!"
-    bot ""
+    bot "Sim!"
 
 # game/script.rpy:22646
 translate pt_br bothuman_57e64580:
 
     # "You order your favorite meal, and you each wait for your dishes to arrive."
-    ""
+    "Você pede a sua refeição favorita, e então vocês esperam cada um de seus pratos chegarem."
 
 # game/script.rpy:22647
 translate pt_br bothuman_48f75b13:
 
     # "When your dishes arrive, [botname] grabs a handful of peppers and immediately digs in."
-    ""
+    "Quando seus pratos chegam, [botname] pega um punhado de pimenta e imediatamente as come."
 
 # game/script.rpy:22649
 translate pt_br bothuman_b81aafc1:
 
     # bot "*crunch crunch crunch*" with sshake
-    bot "" with sshake
+    bot "*chomp chomp chomp*" with sshake
 
 # game/script.rpy:22651
 translate pt_br bothuman_ad686d8e:
 
     # bot "Ahhh! My tongue feels sho good~" with ssshake
-    bot "" with ssshake
+    bot "Ahhh! A minha língua se shente tão bem~" with ssshake
 
 # game/script.rpy:22652
 translate pt_br bothuman_57ef6dde:
 
     # bot "Nnn, I want more, [botown]~"
-    bot ""
+    bot "Nnn, eu quero mais, [botown]~"
 
 # game/script.rpy:22653
 translate pt_br bothuman_0b3f80ba:
 
     # c "I haven't even touched my food..."
-    c ""
+    c "Eu nem encostei na minha comida ainda..."
 
 # game/script.rpy:22655
 translate pt_br bothuman_64e87bc1:
 
     # bot "Oh, okay... I'll order more when you finish!"
-    bot ""
+    bot "Ah, tudo bem... Eu peço mais quando você tiver acabado!"
 
 # game/script.rpy:22656
 translate pt_br bothuman_2f34f788:
 
     # bot "The other day was my first time seeing another Model-1! I guess we all look the same. That's weird, right?"
-    bot ""
+    bot "Aquele outro dia foi a  minha primeira vez vendo outro Modelo-1! Acho que todas nós parecemos iguais. Isso não é estranho?"
 
 # game/script.rpy:22659
 translate pt_br bothuman_9edd723e:
 
     # bot "I guess it makes sense, but just imagine having thousands of people that look just like you!"
-    bot ""
+    bot "Acho que até faz sentido, mas imagina ter milhares de pessoas que parecem iguaizinhas a você!"
 
 # game/script.rpy:22661
 translate pt_br bothuman_a4b6fa65:
 
     # bot "I could have a whole harem of you! Hehehe."
-    bot ""
+    bot "Eu poderia ter um harém inteiro de você! Hehehe."
 
 # game/script.rpy:22663
 translate pt_br bothuman_6165feb6:
 
     # bot "I could dress up as them you know..."
-    bot ""
+    bot "Você sabe que eu poderia me vestir como elas, né..."
 
 # game/script.rpy:22664
 translate pt_br bothuman_5cf81f29:
 
     # c "The other girls?"
-    c ""
+    c "As outras meninas?"
 
 # game/script.rpy:22665
 translate pt_br bothuman_fe47502b:
 
     # bot "Mhm!"
-    bot ""
+    bot "Mhm!"
 
 # game/script.rpy:22667
 translate pt_br bothuman_4a61daa8:
 
     # bot "Maybe even Ashley if I try hard enough! Hehe!"
-    bot ""
+    bot "Talez até como a Ashley se eu tentasse o suficiente! Hehe!"
 
 # game/script.rpy:22669
 translate pt_br bothuman_ae3ac115:
 
     # bot "Just imagine having thousands of people that look just like you!"
-    bot ""
+    bot "Só imagina ter milhares de pessoas que parecem iguaizinhas a você!"
 
 # game/script.rpy:22671
 translate pt_br bothuman_a4b6fa65_1:
 
     # bot "I could have a whole harem of you! Hehehe."
-    bot ""
+    bot "Eu poderia ter um harém inteiro de você! Hehehe."
 
 # game/script.rpy:22673
 translate pt_br bothuman_6165feb6_1:
 
     # bot "I could dress up as them you know..."
-    bot ""
+    bot "Você sabe que eu poderia me vestir como elas, né..."
 
 # game/script.rpy:22674
 translate pt_br bothuman_5cf81f29_1:
 
     # c "The other girls?"
-    c ""
+    c "As outras meninas?"
 
 # game/script.rpy:22675
 translate pt_br bothuman_fe47502b_1:
 
     # bot "Mhm!"
-    bot ""
+    bot "Mhm!"
 
 # game/script.rpy:22677
 translate pt_br bothuman_4a61daa8_1:
 
     # bot "Maybe even Ashley if I try hard enough! Hehe!"
-    bot ""
+    bot "Talez até como a Ashley se eu tentasse o suficiente! Hehe!"
 
 # game/script.rpy:22680
 translate pt_br bothuman_f3a1778a:
 
     # bot "Do you want a whole harem of me...? Hehehe."
-    bot ""
+    bot "Você quer um harém inteiro só de mim...? Hehehe."
 
 # game/script.rpy:22683
 translate pt_br bothuman_8171f9fd:
 
     # bot "I don't think the other girls would like being replaced though."
-    bot ""
+    bot "Mas não acho que as outras meninas gostariam de ser substituídas."
 
 # game/script.rpy:22685
 translate pt_br bothuman_6165feb6_2:
 
     # bot "I could dress up as them you know..."
-    bot ""
+    bot "Você sabe que eu poderia me vestir como elas, né..."
 
 # game/script.rpy:22687
 translate pt_br bothuman_4a61daa8_2:
 
     # bot "Maybe even Ashley if I try hard enough! Hehe!"
-    bot ""
+    bot "Talez até como a Ashley se eu tentasse o suficiente! Hehe!"
 
 # game/script.rpy:22689
 translate pt_br bothuman_353b3330:
 
     # bot "I could buy a wig, some clothes, and change my body enough to look like them! But my face can't change... Maybe it would just be creepy..."
-    bot ""
+    bot "Eu poderia colocar uma peruca, algumas roupas, e mudar o meu corpo o suficiente para ficar igual a elas! Mas o meu rosto não muda.. Talvez isso só seja bizarro demais..."
 
 # game/script.rpy:22690
 translate pt_br bothuman_251c9a80:
 
     # c "What else can you do?"
-    c ""
+    c "O que mais você consegue fazer?"
 
 # game/script.rpy:22692
 translate pt_br bothuman_eb4656ea:
 
     # bot "I can warm up food in my stomach! Just like a microwave!"
-    bot ""
+    bot "Eu posso aquecer comida no meu estômago! Igualzinho a um microondas!"
 
 # game/script.rpy:22693
 translate pt_br bothuman_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:22695
 translate pt_br bothuman_e58876f6:
 
     # bot "*gasp*! Was that weird...?"
-    bot ""
+    bot "*ah*! Isso foi tão estranho assim...?"
 
 # game/script.rpy:22696
 translate pt_br bothuman_8668fc44:
 
     # c "A bit."
-    c ""
+    c "Um pouco."
 
 # game/script.rpy:22698
 translate pt_br bothuman_4be5286c:
 
     # bot "Well... What if you were stranded on an island with me...? I could warm up a coconut or something..."
-    bot ""
+    bot "Bem... E se você estivesse preso numa ilha comigo...? Eu poderia aquecer um coco ou alguma coisa assim..."
 
 # game/script.rpy:22699
 translate pt_br bothuman_5ef6bbae:
 
     # bot "...Maybe it's not that necessary after all..."
-    bot ""
+    bot "... Talvez isso não seja tão útil no fim das contas..."
 
 # game/script.rpy:22701
 translate pt_br bothuman_a7cd59ad:
 
     # bot "Oh! Um, I can see in infrared! It's very useful to see who has a fever! But I rarely use it..."
-    bot ""
+    bot "Ah! Hum, eu consigo enxergar em infravermelho! É bem útil pra ver quem está com ebre! Mas eu acabo raramente usando..."
 
 # game/script.rpy:22702
 translate pt_br bothuman_6262b011:
 
     # bot "You already know I can see through every camera in the hotel, but I can also monitor other things with Wi-Fi!"
-    bot ""
+    bot "Você já sabe que eu consigo ver através de cada câmera do hotel, mas eu também posso monitorar outras coisas com Wi-Fi!"
 
 # game/script.rpy:22703
 translate pt_br bothuman_e731bf1a:
 
     # c "Can you hack people's phones?"
-    c ""
+    c "Você consegue hackear o telefone das outras pessoas?"
 
 # game/script.rpy:22705
 translate pt_br bothuman_e6b6d439:
 
     # bot "Firewalls are pretty hard to get past, [botown]..."
-    bot ""
+    bot "É bem difícil de ultrapassar firewalls, [botown]..."
 
 # game/script.rpy:22707
 translate pt_br bothuman_8641bae2:
 
     # bot "Also, I'm only a MK-1... The MK-2's can do it better..."
-    bot ""
+    bot "E também eu sou só uma MK-1... Os MK-2 conseguem fazer isso melhor..."
 
 # game/script.rpy:22708
 translate pt_br bothuman_79812dcf:
 
     # bot "I hear they're going to release a MK-3 R sometime soon as well..."
-    bot ""
+    bot "Ouvi dizer que eles vão lançar um MK-3 R em breve também..."
 
 # game/script.rpy:22710
 translate pt_br bothuman_69d6cd23:
 
     # bot "But don't forget! My model was built over 25 years ago, so I'm limited by the technology of my time!"
-    bot ""
+    bot "Mas não se esqueça! Meu modelo foi construído há mais de 25 anos, então estou limitado pela tecnologia do meu tempo!"
 
 # game/script.rpy:22712
 translate pt_br bothuman_5ab43ddb:
 
     # bot "They're coming out with a MK-3 R for people with budgets, and they have my technology in them! They're ripping people off..."
-    bot ""
+    bot "Eles estão lançando um MK-3 R para pessoas com orçamento limitado, e eles têm a minha tecnologia neles! Eles estão roubando as pessoas..."
 
 # game/script.rpy:22713
 translate pt_br bothuman_c3c96ba7:
 
     # c "Could you hack other Androids?"
-    c ""
+    c "Você consegue hackear outros Andróides?"
 
 # game/script.rpy:22715
 translate pt_br bothuman_2262725d:
 
     # bot "Ummm... I guess it's possible..."
-    bot ""
+    bot "Hummm... Acho que isso é possível..."
 
 # game/script.rpy:22716
 translate pt_br bothuman_60e80b57:
 
     # bot "I don't think I could get into the systems of anything above a Model-1, but even then..."
-    bot ""
+    bot "Eu não acho que seria capaz de invadir os sistemas de nada acima de um Modelo-1, mesmo asssim..."
 
 # game/script.rpy:22717
 translate pt_br bothuman_6171d047:
 
     # bot "Hmm, maybe if we found a dead Model-1 without any firewalls I could? But... It would be really hard to just find one..."
-    bot ""
+    bot "Humm, talvez se eu encontrasse um Modelo-1 morto e sem nenhum firewall eu pudesse? Mas... seria bem difícil simplesmente encontrar um..."
 
 # game/script.rpy:22718
 translate pt_br bothuman_c8c66c80:
 
     # c "Where did my grandfather get you from?"
-    c ""
+    c "Aonde o meu avô te encontrou?"
 
 # game/script.rpy:22720
 translate pt_br bothuman_7ff0bbc0:
 
     # bot "He said he bought me from a recycling center really cheap!"
-    bot ""
+    bot "Ele disse que me comprou em um centro de reciclagem muito barato!"
 
 # game/script.rpy:22722
 translate pt_br bothuman_09122b28:
 
     # bot "But don't tell anyone, you could get sued! You're not supposed to buy Androids like that, they don't even sell our parts! Just upgrades..."
-    bot ""
+    bot "Mas não conte para ninguém, você poderia ser processado! Não é permitido comprar Andróides dessa forma, eles não vendem nem mesmo nossas partes! Apenas melhorias..."
 
 # game/script.rpy:22723
 translate pt_br bothuman_ce3e083a:
 
     # c "What if you needed repairs?"
-    c ""
+    c "E se você precisar de reparos?"
 
 # game/script.rpy:22725
 translate pt_br bothuman_528a6b8c:
 
     # bot "There are plenty of repair centers!"
-    bot ""
+    bot "Existem vários centros de reparos!"
 
 # game/script.rpy:22727
 translate pt_br bothuman_6613b2bb:
 
     # bot "But I don't know if I could be repaired at one since I'm technically dead in their systems..."
-    bot ""
+    bot "Mas eu não sei se eu poderia ser reparada em um, já que eu estou tecnicamente morta nos sistemas deles..."
 
 # game/script.rpy:22728
 translate pt_br bothuman_8177d472:
 
     # c "You're definitely one of a kind."
-    c ""
+    c "Você realmente é única."
 
 # game/script.rpy:22730
 translate pt_br bothuman_5cc47a7a:
 
     # bot "Thank you [botown]!"
-    bot ""
+    bot "Obrigada [botown]!"
 
 # game/script.rpy:22731
 translate pt_br bothuman_5806f70f:
 
     # c "Do you remember anything before you met me?"
-    c ""
+    c "Você se lembra de alguma coisa antes de ter me conhecido?"
 
 # game/script.rpy:22733
 translate pt_br bothuman_24498ed0:
 
     # bot "Not too much, but I reactivated not too long before you became the new manager!"
-    bot ""
+    bot "Não de muita coisa, mas não faz muito tempo que eu fui reativada desde que você se tornou o novo gerente!"
 
 # game/script.rpy:22734
 translate pt_br bothuman_dd671f4a:
 
     # c "Who activated you?"
-    c ""
+    c "Quem te ativou?"
 
 # game/script.rpy:22736
 translate pt_br bothuman_b8d4018c:
 
     # bot "Ummm... I don't know..."
-    bot ""
+    bot "Hummm... Eu não sei..."
 
 # game/script.rpy:22738
 translate pt_br bothuman_65286447:
 
     # bot "I think I just... Turned on?"
-    bot ""
+    bot "Eu acho que só... Liguei?"
 
 # game/script.rpy:22740
 translate pt_br bothuman_c2d1b126:
 
     # bot "I only keep logs of when I've been activated and deactivated, but nothing about who or why..."
-    bot ""
+    bot ""Eu só mantenho registros de quando fui ativado e desativado, mas nãda sobre quem fez ou o porquê..."
 
 # game/script.rpy:22741
 translate pt_br bothuman_a78447bc:
 
     # c "You said you were reactivated, do you remember anything from back then?"
-    c ""
+    c "Você disse que foi reativada, você se lembra de qualquer coisa antes disso?"
 
 # game/script.rpy:22742
 translate pt_br bothuman_d261bd9e:
 
     # bot "Almost nothing... I know I was activated before I was conscious, but I can't find any memories that far back... I think they were deleted or something before I was sent to the recycling center..."
-    bot ""
+    bot "De quase nada... Eu sei que eu fui ativada antes de ter consciência, mas eu não consigo encontrar nenhuma memória daquela época... Eu acho que elas foram deletadas ou alguma coisa assim antes de eu ter sido enviada para o centro de reciclagem..."
 
 # game/script.rpy:22743
 translate pt_br bothuman_4b27d684:
 
     # bot "But, with your grandfather... I do remember a couple of things..."
-    bot ""
+    bot "Mas, com o seu avô... Eu consigo me lembrar de algumas coisas..."
 
 # game/script.rpy:22744
 translate pt_br bothuman_fb2dba7e:
 
     # bot "I know he loved me like a daughter and he wanted to protect me... But that's all..."
-    bot ""
+    bot "Eu lembro que ele me amava como uma filha e queria me proteger... Mas isso é tudo..."
 
 # game/script.rpy:22745
 translate pt_br bothuman_6451aa31:
 
     # bot "And I want to protect him, too... But I don't know exactly why."
-    bot ""
+    bot "E eu queria proteger ele, também... Mas eu não me lembro exatamente o porquê."
 
 # game/script.rpy:22746
 translate pt_br bothuman_f0816e86:
 
     # c "Is that all?"
-    c ""
+    c "Só isso?"
 
 # game/script.rpy:22747
 translate pt_br bothuman_46abdc70:
 
     # bot "Well, there is a little more..."
-    bot ""
+    bot "Bem, tem um pouco mais..."
 
 # game/script.rpy:22748
 translate pt_br bothuman_42835cb7:
 
     # bot "I remember sounds like hammers and saws, and I remember being in a dark room a lot, but those memories are really hazy..."
-    bot ""
+    bot "Eu  lembro de sons de martelos e serras, e eu lembro de ter ficado muito tempo numa sala escura, mas essas memórias são muito nebulosas..."
 
 # game/script.rpy:22749
 translate pt_br bothuman_3d36bbda:
 
     # c "A lot of your life is missing it seems."
-    c ""
+    c "Parece que muito da sua vida foi perdido."
 
 # game/script.rpy:22751
 translate pt_br bothuman_158c6d04:
 
     # bot "I don't really care who I was back then! It's not important. I'll stick to living this life."
-    bot ""
+    bot "Eu não me importo com quem eu era na época! Não é important. Eu estou satisfeita em viver essa vida."
 
 # game/script.rpy:22753
 translate pt_br bothuman_6bc04f7d:
 
     # "You've finally finished your meal. After [botname] orders and eats her second plate of peppers, you make your way back to the hotel..."
-    ""
+    "Você finalmente termina sua refeição. Depois que [botname] pede o segundo prato de pimentas dela, vocês tomam seu rumo de volta ao hotel..."
 
 # game/script.rpy:22755
 translate pt_br bothuman_54fb8d07:
 
     # bot "Thank you so much for taking me out to eat! I loved it so much!"
-    bot ""
+    bot "Muito obrigada por me levar para comer! Eu amei demais!"
 
 # game/script.rpy:22757
 translate pt_br bothuman_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:22758
 translate pt_br bothuman_125557b9:
 
     # bot "Um... Can you... K-Kiss me...? I want my first kiss to be yours..."
-    bot ""
+    bot "Hum... Você pode... Me b-beijar...? Eu quero que meu primeiro beijo seja seu..."
 
 # game/script.rpy:22760
 translate pt_br bothuman_0887c16d:
 
     # bot "Hmmmm...! Mmmn..."
-    bot ""
+    bot "Hmmmm...! Mmmn..."
 
 # game/script.rpy:22764
 translate pt_br bothuman_e10d9c63:
 
     # bot "I didn't expect it to feel so good..."
-    bot ""
+    bot "Eu não esperava que isso fosse tão bom..."
 
 # game/script.rpy:22765
 translate pt_br bothuman_efb0e1ae:
 
     # bot "See you later, [botown]..."
-    bot ""
+    bot "Nosn vemos depois, [botown]..."
 
 # game/script.rpy:22793
 translate pt_br botcasual_50da731f:
 
     # "You each head north to the nearest city in your car. [botname] loves the scenery, and how fast it goes by."
-    ""
+    ""Cada um de vocês vai para o norte, para a cidade mais próxima, em seu carro. [botname] adora a paisagem e a rapidez com que ela passa.""
 
 # game/script.rpy:22794
 translate pt_br botcasual_342b83c3:
