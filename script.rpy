@@ -18544,7 +18544,7 @@ translate pt_br explore_cafe1_30e5978e:
 translate pt_br explore_cafe1_a8dc1031:
 
     # mono "Wonderful! Have you considered upgrading your slaves to the next generation? Come on! Don't be stuck in the past, buy an android from Monotech! They'll never complain and they work day and night!"
-    mono "Maravilha! Você já considerou aprimorar os seus escravos para a próxima geração? Vamos! Não fique preso no passado, compre uma andróide da Monotech! Eles nunca reclamam e eles trabalham dia e noite!"
+    mono "Maravilha! Você já considerou aprimorar os seus escravos para a próxima geração? Vamos! Não fique preso no passado, compre um andróide da Monotech! Eles nunca reclamam e eles trabalham dia e noite!"
 
 # game/script.rpy:10687
 translate pt_br explore_cafe1_fe482483:
@@ -36868,7 +36868,7 @@ translate pt_br bot_con_question_8866ee05:
 translate pt_br bot_con_question_5ffbfee9:
 
     # c "Right... Moon, [botname] is an android. A conscious android, and that's her... child."
-    c "Certp... Moon, [botname] é uma andróide. Uma andróide consciente, e esse é o... filho dela."
+    c "Certp... Moon, [botname] é um andróide. Um andróide consciente, e esse é o... filho dela."
 
 # game/script.rpy:18464
 translate pt_br bot_con_question_367218a2:
@@ -36880,7 +36880,7 @@ translate pt_br bot_con_question_367218a2:
 translate pt_br bot_con_question_97e918bc:
 
     # ally "Mommy, what's an android?"
-    ally "Mamãe, o que é uma andróide?"
+    ally "Mamãe, o que é um andróide?"
 
 # game/script.rpy:18467
 translate pt_br bot_con_question_b7369c89:
@@ -41105,7 +41105,7 @@ translate pt_br bot_nightmares_275c55e1:
 translate pt_br bot_nightmares_3fc20847:
 
     # bot "I'm an android/android... my only friends are organic... they're going to die soon. Very soon. Very soon..."
-    bot "/eu sou uma andróide/andróide... meus únicos amigos são orgânicos... eles vão morrer em breve. Muito breve. Muito breve..."
+    bot "/eu sou um andróide/andróide... meus únicos amigos são orgânicos... eles vão morrer em breve. Muito breve. Muito breve..."
 
 # game/script.rpy:19807
 translate pt_br bot_nightmares_4f1e1025:
@@ -43128,7 +43128,7 @@ translate pt_br bot_uni_31e3c826:
 translate pt_br bot_uni_e6194566:
 
     # bot "Why not? No one's going to notice I'm an android!"
-    bot "Por que não? Ninguém vai saber que sou uma andróide!"
+    bot "Por que não? Ninguém vai saber que sou um andróide!"
 
 # game/script.rpy:20343
 translate pt_br bot_uni_6c5b1cf2:
@@ -51267,7 +51267,7 @@ translate pt_br botintro_ba10a2f1:
 translate pt_br botintro_59af4452:
 
     # q "I'm not a computer Ms. Ellen... I'm an android... You can't just... change my code..."
-    q "Eu não sou um computador Sra. Ellen... Eu sou uma andróide... Você não pode só... mudar o meu código..."
+    q "Eu não sou um computador Sra. Ellen... Eu sou um andróide... Você não pode só... mudar o meu código..."
 
 # game/script.rpy:22444
 translate pt_br botintro_206028f4:
@@ -51477,7 +51477,7 @@ translate pt_br botintro_2377e698:
 translate pt_br botintro_8df4183c:
 
     # c "She's an android, and her name is [botname]. She was built that way."
-    c "Ela é uma andróide, e o nome dela é [botname]. Ela foi construída assim."
+    c "Ela é um andróide, e o nome dela é [botname]. Ela foi construída assim."
 
 # game/script.rpy:22501
 translate pt_br botintro_4b914a6f:
@@ -51489,7 +51489,7 @@ translate pt_br botintro_4b914a6f:
 translate pt_br botintro_4680da3c:
 
     # l "Wait, an android? What's that?"
-    l "Espera, uma andróide? O que é isso?"
+    l "Espera, um andróide? O que é isso?"
 
 # game/script.rpy:22504
 translate pt_br botintro_b0fc4a56:
@@ -52275,7 +52275,7 @@ translate pt_br bothuman_65286447:
 translate pt_br bothuman_c2d1b126:
 
     # bot "I only keep logs of when I've been activated and deactivated, but nothing about who or why..."
-    bot ""Eu só mantenho registros de quando fui ativado e desativado, mas nãda sobre quem fez ou o porquê..."
+    bot "Eu só mantenho registros de quando fui ativado e desativado, mas nãda sobre quem fez ou o porquê..."
 
 # game/script.rpy:22741
 translate pt_br bothuman_a78447bc:
@@ -52383,229 +52383,229 @@ translate pt_br bothuman_efb0e1ae:
 translate pt_br botcasual_50da731f:
 
     # "You each head north to the nearest city in your car. [botname] loves the scenery, and how fast it goes by."
-    ""Cada um de vocês vai para o norte, para a cidade mais próxima, em seu carro. [botname] adora a paisagem e a rapidez com que ela passa.""
+    "Cada um de vocês vai para o norte, para a cidade mais próxima, em seu carro. [botname] adora a paisagem e a rapidez com que ela passa."
 
 # game/script.rpy:22794
 translate pt_br botcasual_342b83c3:
 
     # "She takes note of all the different types of cars you pass, surprised they come in so many different shapes and colors and peers out her window at the landscape as you cruise by."
-    ""
+    "Ela observa todos os diferentes tipos de carros que você passa, se surpreendendo por eles terem tantas formas e cores diferentes e olha pela janela a paisagem conforme você avança."
 
 # game/script.rpy:22795
 translate pt_br botcasual_eaf9fdce:
 
     # "Her face pressed up against the glass, she marvels at the beauty of each scene; rolling hills dotted by copses of trees, sprawling fields of golden wheat, and an open meadow resplendent with wildflowers being grazed upon by a small herd of sheep."
-    ""
+    "Com o rosto pressionado contra o vidro, ela se maravilha com a beleza de cada cena; colinas onduladas pontilhadas por bosques de árvores, extensos campos de trigo dourado e um prado aberto resplandecente com flores silvestres pastadas por um pequeno rebanho de ovelhas."
 
 # game/script.rpy:22796
 translate pt_br botcasual_6d5c31bb:
 
     # "In her curious gaze, each cloud can be an animal, or a train, or a smiling face, shifting slowly from one form to the next as they lazily drift towards the horizon. Each and every new experience fascinates her."
-    ""
+    "Em seu olhar curioso, cada nuvem pode ser um animal, ou um trem, ou um rosto sorridente, mudando lentamente de uma forma para a outra enquanto vagam preguiçosamente em direção ao horizonte. Cada nova experiência a fascina."
 
 # game/script.rpy:22797
 translate pt_br botcasual_67b93336:
 
     # "She may be an Android, a conscious Android, but she is still an Android."
-    ""
+    "Ela pode ser um Andróide, um Andróide consciente,, mas ainda assim é um Andróide."
 
 # game/script.rpy:22798
 translate pt_br botcasual_5964b48c:
 
     # "Objectively she's fairly young. Her model was made roughly 25 years ago, but she's only been conscious for about 1 year of that. But in all respects other than that, she's an adult, because she was made to be one."
-    ""
+    "Objetivamente, ela é bem jovem. O modelo dela foi feito há cerca de 25 anos, mas ela só está consciente há cerca de 1 ano disso. Mas em todos os aspectos, exceto isso, ela é adulta, porque foi feita para ser uma."
 
 # game/script.rpy:22799
 translate pt_br botcasual_57d04f9e:
 
     # "You realize that even though she has the mind and body of an adult, she lacks the experience and wisdom of one. She's innocent, and she's only seen the world with you. Whatever you teach her, she'll know. Whatever you show her, she'll see..."
-    ""
+    "Você percebe que mesmo ela tendo um corpo e mente de uma adulta, ela não possui a experiência e sabedoria de uma. Ela é inoscente, e só viu o mundo com você. O que quer que você ensine a ela, ela saberá. O que quer que você mostre a ela, ela verá..."
 
 # game/script.rpy:22800
 translate pt_br botcasual_c36d88e1:
 
     # "You arrive to the city, and begin your walk to the restaurant..."
-    ""
+    "Vocês chegam na cidade, e começam sua caminhada até o restaurante..."
 
 # game/script.rpy:22802
 translate pt_br botcasual_093b31f0:
 
     # bot "Look, [botown]! It's another Android!"
-    bot ""
+    bot "Olha, [botown]! É outro Andróide!"
 
 # game/script.rpy:22804
 translate pt_br botcasual_814f5a18:
 
     # bot "Hello! Wow, you look just like me! You must be another Model-1!"
-    bot ""
+    bot "Olá! Uau, você parece igualzinha a mim! Você deve ser outro Modelo-1!"
 
 # game/script.rpy:22805
 translate pt_br botcasual_0b4ffb39:
 
     # q "Urgh, what do you want?"
-    q ""
+    q "Urgh, o que é que você quer?"
 
 # game/script.rpy:22809
 translate pt_br botcasual_1d9b4fc6:
 
     # q "Hah, your Android...?"
-    q ""
+    q "Hah, seu Andróide...?"
 
 # game/script.rpy:22811
 translate pt_br botcasual_1f48d02a:
 
     # q "I don't know what game you're trying to play, but if that's a pick up line, you're pretty unique..."
-    q ""
+    q "Eu não sei que jogo você está tentando jogar, mas se isso é uma cantada, você é bem único..."
 
 # game/script.rpy:22815
 translate pt_br botcasual_e0070da5:
 
     # bot "Don't say that, [botown]!"
-    bot ""
+    bot "Não diga isso, [botown]!"
 
 # game/script.rpy:22816
 translate pt_br botcasual_9a41cdcb:
 
     # q "Gross! Robot, who is this man!?"
-    q ""
+    q "Que rude! Robô, quem é esse homem!?"
 
 # game/script.rpy:22817
 translate pt_br botcasual_2f4f7e1a:
 
     # robot "Analyzing // ... // [name]."
-    robot ""
+    robot "Analizando // ... // [name]."
 
 # game/script.rpy:22818
 translate pt_br botcasual_b823068a:
 
     # q "And what's his last!?"
-    q ""
+    q "E qual é o sobrenome dele!?"
 
 # game/script.rpy:22819
 translate pt_br botcasual_77547826:
 
     # robot "Analyzing // ... // ... // ... // Cross-dimensional analysis not yet invented."
-    robot ""
+    robot "Analizando // ... // ... // ... // Análise interdimensional ainda não inventada."
 
 # game/script.rpy:22821
 translate pt_br botcasual_0af62ede:
 
     # q "What!?"
-    q ""
+    q "O quê!?"
 
 # game/script.rpy:22822
 translate pt_br botcasual_144417e4:
 
     # bot "I want to be friends with her, please don't make her angry!"
-    bot ""
+    bot "Eu quero fazer amizade com ela, por favor, não irrite ela!"
 
 # game/script.rpy:22824
 translate pt_br botcasual_1cf23dc7:
 
     # q "Well fuck off, pervert! I don't know what kind of game you're trying to play making your Android say she wants to be 'friends' or whatever. Just leave me alone!"
-    q ""
+    q "Bem, foda-se, pervertido! Eu não sei que jogo você está tentando jogar fazendo o seu Andróide dizer que quer fazer 'amizade' ou sei lá. Só me deixa em paz! "
 
 # game/script.rpy:22825
 translate pt_br botcasual_d9a8af4a:
 
     # c "...Sorry, it's just a joke..."
-    c ""
+    c "...Desculpa, era só uma piada..."
 
 # game/script.rpy:22827
 translate pt_br botcasual_7a51f250:
 
     # bot "Hello...?"
-    bot ""
+    bot "Olá...?"
 
 # game/script.rpy:22829
 translate pt_br botcasual_685c0b46:
 
     # bot "She's not looking at me, [botown]..."
-    bot ""
+    bot "Ela não está olhando pra mim, [botown]..."
 
 # game/script.rpy:22831
 translate pt_br botcasual_eb19400e:
 
     # q "Uh, yeah. She's protecting me... What is this? Did you write a script for her and everything?"
-    q ""
+    q "Ah, sim. Ela está me protegendo... O que é isso? Você fez um script pra ela e tudo?"
 
 # game/script.rpy:22832
 translate pt_br botcasual_59467cec:
 
     # c "Maybe you should stop talking, [botname]..."
-    c ""
+    c "Talvez você devesse parar de falar, [botname]..."
 
 # game/script.rpy:22833
 translate pt_br botcasual_75f0320a:
 
     # bot "But I don't get to talk to many Androids like me!"
-    bot ""
+    bot "Mas eu não tenho a oportunidade de falar com muitos Andróides como eu!"
 
 # game/script.rpy:22834
 translate pt_br botcasual_58283001:
 
     # q "You even scripted that into her dialog...? Hahah..."
-    q ""
+    q "Você até escreveu isso no diálogo dela...? Hahah..."
 
 # game/script.rpy:22836
 translate pt_br botcasual_82c43810:
 
     # bot "I'm not a stupid robot!" with ssshake
-    bot "" with ssshake
+    bot "Eu não sou um robôe estúpido!" with ssshake
 
 # game/script.rpy:22837
 translate pt_br botcasual_1eb3a2b3:
 
     # q "AH! S-She's attacking me!"
-    q ""
+    q "AH! E-Ela está me atacando!"
 
 # game/script.rpy:22839
 translate pt_br botcasual_bd70643f:
 
     # bot "Ahh! N-No! I'm not trying to attack you!" with sshake
-    bot "" with sshake
+    bot "Ahh! N-Não! Eu não estou te atacando!" with sshake
 
 # game/script.rpy:22840
 translate pt_br botcasual_1be2d2fa:
 
     # q "Oh, she's got a bug..."
-    q ""
+    q "Ah, ela está com um bug..."
 
 # game/script.rpy:22842
 translate pt_br botcasual_3523ee53:
 
     # q "Fix your fucking robot."
-    q ""
+    q "Conserta a porra do seu robô."
 
 # game/script.rpy:22848
 translate pt_br botcasual_2f334760:
 
     # bot "Sorry, [botown]... I didn't mean to embarrass you..."
-    bot ""
+    bot "Desculpa, [botown]... Eu não queria te envergonhar..."
 
 # game/script.rpy:22849
 translate pt_br botcasual_7cc93316:
 
     # c "It's okay, I didn't think they would react to you like that."
-    c ""
+    c "Está tudo bem, eu não imaginei que ela fosse reagir assim a você."
 
 # game/script.rpy:22850
 translate pt_br botcasual_3a8b9a05:
 
     # bot "I didn't either..."
-    bot ""
+    bot "Eu também não..."
 
 # game/script.rpy:22852
 translate pt_br botcasual_1fef9643:
 
     # bot "Can we still go eat some spicy food?"
-    bot ""
+    bot "Nós ainda podemos ir comer alguma comida picante?"
 
 # game/script.rpy:22853
 translate pt_br botcasual_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "É claro."
 
 # game/script.rpy:22855
 translate pt_br botcasual_32ce1d18:
@@ -52617,217 +52617,217 @@ translate pt_br botcasual_32ce1d18:
 translate pt_br botcasual_5103dc73:
 
     # bot "Wow, there's a lot of people in here too! And it's much bigger than the hotel!"
-    bot ""
+    bot "Uau, tem muita gente aqui também! E aqui é muito maior que o hotel!"
 
 # game/script.rpy:22860
 translate pt_br botcasual_55f5ed57:
 
     # bot "This place is amazing, [botown]! I can't wait to eat the food!"
-    bot ""
+    bot "Esse lugar é incrível, [botown]! Eu mal posso esperar pra comer a comida!"
 
 # game/script.rpy:22862
 translate pt_br botcasual_b1c43046:
 
     # durn "Hello valued customer, my name is Durn. How many shall we be serving today?"
-    durn ""
+    durn "Olá querido cliente, o meu nome é Durnl. A quantas pessoas estarei servindo hoje?"
 
 # game/script.rpy:22863
 translate pt_br botcasual_9d681f49:
 
     # bot "{size=-10}{i}He's so tall...{/i}{/size}"
-    bot ""
+    bot "{size=-10}{i}Ele é tão alto...{/i}{/size}"
 
 # game/script.rpy:22865
 translate pt_br botcasual_43dd34b7:
 
     # durn "To you, little one."
-    durn ""
+    durn "Para você, pequenina."
 
 # game/script.rpy:22866
 translate pt_br botcasual_70173aeb:
 
     # bot "How old are you?"
-    bot ""
+    bot "Quantos anos você tem?"
 
 # game/script.rpy:22867
 translate pt_br botcasual_0caba0cc:
 
     # durn "Can you believe it? I'm over 400 years old!"
-    durn ""
+    durn "Você consegue acreditar nisso? Eu tenho mais de 400 anos!"
 
 # game/script.rpy:22868
 translate pt_br botcasual_0fbe1c99:
 
     # bot "Wow, so old!"
-    bot ""
+    bot "Uau, que velho!"
 
 # game/script.rpy:22870
 translate pt_br botcasual_ee632077:
 
     # durn "Your child must be very sick."
-    durn ""
+    durn "Sua filha deve estar bem doente."
 
 # game/script.rpy:22871
 translate pt_br botcasual_297d93f3:
 
     # c "What?"
-    c ""
+    c "Como?"
 
 # game/script.rpy:22872
 translate pt_br botcasual_728aa092:
 
     # durn "You are showing your child the city through the eyes of this Android, are you not? It's an admirable thing."
-    durn ""
+    durn "Você está mostrando para a sua filha a cidade através dos olhos desse Andróide, não é? É algo admirável."
 
 # game/script.rpy:22873
 translate pt_br botcasual_0eed3fa3:
 
     # c "No, this is just my Android, we came to eat."
-    c ""
+    c "Não, essa é apenas a minha Andróide, nós viemos comer."
 
 # game/script.rpy:22875
 translate pt_br botcasual_16181d8d:
 
     # durn "What?"
-    durn ""
+    durn "O quê?"
 
 # game/script.rpy:22877
 translate pt_br botcasual_83f764a1:
 
     # durn "I'm sorry, sir, but if you were meaning to eat with this, we won't be able to serve you. It's very unsanitary."
-    durn ""
+    durn "Sinto muito, senhor, mas se você estava querendo comer com isso, não poderemos servi-lo. É muito anti-higiênico."
 
 # game/script.rpy:22878
 translate pt_br botcasual_e53e6186:
 
     # c "Oh, right..."
-    c ""
+    c "Ah, certo..."
 
 # game/script.rpy:22879
 translate pt_br botcasual_28552bcb:
 
     # durn "You may stay in the lobby if you wish, but I can not let you get past here, I am sorry."
-    durn ""
+    durn "Vocês podem ficar no saguão se quiserem, mas eu não posso deixá-los passarem daqui, sinto muito."
 
 # game/script.rpy:22880
 translate pt_br botcasual_e1d9c95b:
 
     # c "It's fine, thanks."
-    c ""
+    c "Está tudo bem, obrigado."
 
 # game/script.rpy:22882
 translate pt_br botcasual_9d153170:
 
     # bot "We can't eat here...?"
-    bot ""
+    bot "Nós não podemos comer aqui...?"
 
 # game/script.rpy:22883
 translate pt_br botcasual_97ca0b98:
 
     # c "I guess not."
-    c ""
+    c "Acredito que não."
 
 # game/script.rpy:22884
 translate pt_br botcasual_53013321:
 
     # bot "*sigh*..."
-    bot ""
+    bot "*ufa*..."
 
 # game/script.rpy:22885
 translate pt_br botcasual_38c3e2c0:
 
     # bot "Everybody thinks I'm weird because I don't act like those robots, and people don't even want to be next to me... I'm cleaner than they are!"
-    bot ""
+    bot "Todo mundo acha que eu sou estranha eu não me comporto como aqueles robôs e não querem nem ficar perto de mim... Eu sou mais limpa que eles!"
 
 # game/script.rpy:22886
 translate pt_br botcasual_b929a431:
 
     # bot "This place is so amazing, I've never seen anything like it... But I'll never be able to come back..."
-    bot ""
+    bot "Esse lugar é tão incrível, eu nunca vi nada assim... Mas nunca poderei voltar..."
 
 # game/script.rpy:22887
 translate pt_br botcasual_3a0ef2f5:
 
     # bot "...I wish I was a human girl..."
-    bot ""
+    bot "...Eu queria ser uma menina humana..."
 
 # game/script.rpy:22888
 translate pt_br botcasual_f924eb8f:
 
     # c "Maybe you can at least look like one."
-    c ""
+    c "Talvez você pudesse pelo menos parecer como uma."
 
 # game/script.rpy:22890
 translate pt_br botcasual_13a2c1db:
 
     # bot "What do you mean?"
-    bot ""
+    bot "O que você quer dizer?"
 
 # game/script.rpy:22891
 translate pt_br botcasual_511f8f2d:
 
     # c "Well, the problem is that you look like an Android, not that you act like one. So if you didn't look like one..."
-    c ""
+    c "Bem, o problema é que você se parece com um Andróide, não que você se comporta como uma. Então se você não se parecesse com um..."
 
 # game/script.rpy:22893
 translate pt_br botcasual_3003ea09:
 
     # bot "I could eat here!"
-    bot ""
+    bot "Eu poderia comer aqui!"
 
 # game/script.rpy:22894
 translate pt_br botcasual_f9c698b6:
 
     # c "Exactly."
-    c ""
+    c "Exatamente."
 
 # game/script.rpy:22896
 translate pt_br botcasual_93670c10:
 
     # bot "That's a great idea, [botown]! We have to try it!"
-    bot ""
+    bot "Essa é uma ótima ideia, [botown]! Nós precisamos tentar isso!"
 
 # game/script.rpy:22897
 translate pt_br botcasual_4de55965:
 
     # bot "Can we do it now?"
-    bot ""
+    bot "Nós podemos fazer isso agora?"
 
 # game/script.rpy:22898
 translate pt_br botcasual_10391d73:
 
     # c "I'll have to order everything online."
-    c ""
+    c "Eu vou ter que encomendar tudo pela internet."
 
 # game/script.rpy:22899
 translate pt_br botcasual_607e44d6:
 
     # bot "But it's the city! Aren't there some clothing shops?"
-    bot ""
+    bot "Mas essa é a cidade! Não tem nenhuma loja de roupas?"
 
 # game/script.rpy:22900
 translate pt_br botcasual_39f95bb8:
 
     # c "I'll need more than clothes. You'll see."
-    c ""
+    c "Eu vou precisar de mais do que roupas. Você vai ver."
 
 # game/script.rpy:22901
 translate pt_br botcasual_cdaad569:
 
     # bot "Okay, [botown]! I'll wait for you to buy the clothes! It was a great trip anyway!"
-    bot ""
+    bot "Tudo bem, [botown]! Eu vou esperar você comprar as roupas! Foi um ótimo passeio de qualquer jeito!"
 
 # game/script.rpy:22903
 translate pt_br botcasual_cdc9107a:
 
     # "Although the trip was quite somber, [botname] upholds her fascination and love for the world."
-    ""
+    "Embora a viagem tenha sido bastante sombria, [botname] mantém seu fascínio e amor pelo mundo."
 
 # game/script.rpy:22904
 translate pt_br botcasual_e403e729:
 
     # c "I'll need to buy her the Human Kit on my computer so we can do things in public."
-    c ""
+    c "Eu vou precisar comprar para ela o Kit Humano pra ela no meu computador para podermos fazer coisas em público."
 
 # game/script.rpy:22923
 translate pt_br banalss_8a3c4b8a:
