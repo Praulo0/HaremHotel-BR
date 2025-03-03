@@ -53577,7 +53577,7 @@ translate pt_br botpinups_1b6a4e04:
 translate pt_br botpinups_f2af34eb:
 
     # bot "These boobies are so soft! Squeeeeze~"
-    bot "Essas tetas sção tão macias! Squiish~"
+    bot "Essas tetas são tão macias! Squiish~"
 
 # game/script.rpy:23241
 translate pt_br botpinups_6f6964a2:
