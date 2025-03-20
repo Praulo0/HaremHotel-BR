@@ -54717,97 +54717,97 @@ translate pt_br botbot_628e577a:
 translate pt_br botbeach_c9086937:
 
     # bot "Wow... It looks like it goes on forever [botown]!"
-    bot ""
+    bot "Uau... Parece que não acaba nunca [botown]!"
 
 # game/script.rpy:23718
 translate pt_br botbeach_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23719
 translate pt_br botbeach_2a7f9c9d:
 
     # bot "Hnn..."
-    bot ""
+    bot "Hnn..."
 
 # game/script.rpy:23721
 translate pt_br botbeach_0e3127c7:
 
     # c "Are you nervous?"
-    c ""
+    c "Você está nervosa?"
 
 # game/script.rpy:23722
 translate pt_br botbeach_eaca5bb4:
 
     # bot "Yeah..."
-    bot ""
+    bot "Sim..."
 
 # game/script.rpy:23723
 translate pt_br botbeach_2420d954:
 
     # c "You don't have to if you don't want to."
-    c ""
+    c "Você não precisa fazer isso se não quiser."
 
 # game/script.rpy:23725
 translate pt_br botbeach_b1cd39ba:
 
     # bot "I do! I mean, of course I want to!"
-    bot ""
+    bot "Eu vou fazer! Digo, é claro que eu quero!"
 
 # game/script.rpy:23727
 translate pt_br botbeach_66409ab9:
 
     # bot "It's just..."
-    bot ""
+    bot "É só que..."
 
 # game/script.rpy:23728
 translate pt_br botbeach_61398cc0:
 
     # bot "It's sort of my instinct to avoid water, so..."
-    bot ""
+    bot "É meio que meu instinto de evitar água, então..."
 
 # game/script.rpy:23730
 translate pt_br botbeach_062fd0b9:
 
     # bot "C-Can you go in first [botown]?"
-    bot ""
+    bot "V-Você pode ir primeiro [botown]?"
 
 # game/script.rpy:23731
 translate pt_br botbeach_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/script.rpy:23733
 translate pt_br botbeach_06228748:
 
     # bot "Hehe, can you make a big splash?"
-    bot ""
+    bot "Hehe, você consegue fazer um grande respingo?"
 
 # game/script.rpy:23734
 translate pt_br botbeach_8b6c31c9:
 
     # c "I can try."
-    c ""
+    c "Eu posso tentar."
 
 # game/script.rpy:23735
 translate pt_br botbeach_5cc47a7a:
 
     # bot "Thank you [botown]!"
-    bot ""
+    bot "Obrigada, [botown]!"
 
 # game/script.rpy:23737
 translate pt_br botbeach_d213eebe:
 
     # "You take a step back, start running, begin your leap, and..."
-    ""
+    "Você dá um passo para trás, começa a correr, inicia seu salto e..."
 
 # game/script.rpy:23739
 translate pt_br botbeach_24cff48e:
 
     # "*SPLASH!*" with ssshake
-    "" with ssshake
+    "*TCHIBUM!*" with ssshake
 
 # game/script.rpy:23741
 translate pt_br botbeach_27266eb0:
