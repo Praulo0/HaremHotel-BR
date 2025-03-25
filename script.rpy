@@ -52449,7 +52449,7 @@ translate pt_br botcasual_0b4ffb39:
 translate pt_br botcasual_1d9b4fc6:
 
     # q "Hah, your Android...?"
-    q "Hah, seu Andróide...?"
+    q "Hah, sua Andróide...?"
 
 # game/script.rpy:22811
 translate pt_br botcasual_1f48d02a:
@@ -52503,7 +52503,7 @@ translate pt_br botcasual_144417e4:
 translate pt_br botcasual_1cf23dc7:
 
     # q "Well fuck off, pervert! I don't know what kind of game you're trying to play making your Android say she wants to be 'friends' or whatever. Just leave me alone!"
-    q "Bem, foda-se, pervertido! Eu não sei que jogo você está tentando jogar fazendo o seu Andróide dizer que quer fazer 'amizade' ou sei lá. Só me deixa em paz! "
+    q "Bem, foda-se, pervertido! Eu não sei que jogo você está tentando jogar fazendo a sua Andróide dizer que quer fazer 'amizade' ou sei lá. Só me deixa em paz! "
 
 # game/script.rpy:22825
 translate pt_br botcasual_d9a8af4a:
@@ -54783,7 +54783,7 @@ translate pt_br botbeach_c48dc32f:
 translate pt_br botbeach_06228748:
 
     # bot "Hehe, can you make a big splash?"
-    bot "Hehe, você consegue fazer um grande respingo?"
+    bot "Hehe, você consegue fazer respingar bastante?"
 
 # game/script.rpy:23734
 translate pt_br botbeach_8b6c31c9:
@@ -54807,637 +54807,637 @@ translate pt_br botbeach_d213eebe:
 translate pt_br botbeach_24cff48e:
 
     # "*SPLASH!*" with ssshake
-    "*TCHIBUM!*" with ssshake
+    "*TIBUM!*" with ssshake
 
 # game/script.rpy:23741
 translate pt_br botbeach_27266eb0:
 
     # bot "Wow! That splash was so big!"
-    bot ""
+    bot "Uau! Respingou demais!"
 
 # game/script.rpy:23742
 translate pt_br botbeach_1150086f:
 
     # c "Your turn!"
-    c ""
+    c "Sua vez!"
 
 # game/script.rpy:23743
 translate pt_br botbeach_0a563f72:
 
     # bot "O-Okay! Here I go!"
-    bot ""
+    bot "T-Tudo bem! Aqui vou eu!"
 
 # game/script.rpy:23745
 translate pt_br botbeach_9ecb088e:
 
     # bot "Ah!"
-    bot ""
+    bot "Ah!"
 
 # game/script.rpy:23747
 translate pt_br botbeach_4348f888:
 
     # bot "*SPLASH!*"
-    bot ""
+    bot "*TIBUM!*"
 
 # game/script.rpy:23751
 translate pt_br botbeach_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:23752
 translate pt_br botbeach_ed847e67:
 
     # c "Where'd she go?"
-    c ""
+    c "Cadê ela?"
 
 # game/script.rpy:23754
 translate pt_br botbeach_f6af4b57:
 
     # bot "{i}(Ah! I sank!){/i}"
-    bot ""
+    bot "{i}(Ah! Eu afundei!){/i}"
 
 # game/script.rpy:23756
 translate pt_br botbeach_39675da0:
 
     # bot "{i}(My mask!){/i}"
-    bot ""
+    bot "{i}(Minha máscara!){/i}"
 
 # game/script.rpy:23758
 translate pt_br botbeach_50be8e36:
 
     # bot "{i}(Grr... I should have known I would sink...){/i}"
-    bot ""
+    bot "{i}(Grr... Eu deveria saber que eu afundaria...){/i}"
 
 # game/script.rpy:23759
 translate pt_br botbeach_6ccc117b:
 
     # bot "{i}(And now my mask and ribbon are gone...){/i}"
-    bot ""
+    bot "{i}(E agora a minha máscara e laço se foram...){/i}"
 
 # game/script.rpy:23760
 translate pt_br botbeach_53191244:
 
     # bot "{i}(I can't open my mouth or I'll go into a coma again, so I can't call for [botown]...){/i}"
-    bot ""
+    bot "{i}(Eu não posso abrir a minha boca ou eu entro em coma de novo, então não tenho como chamar o [botown]...){/i}"
 
 # game/script.rpy:23761
 translate pt_br botbeach_0eac0670:
 
     # bot "{i}(Eghh... What should I do?){/i}"
-    bot ""
+    bot "{i}(Eghh... O que eu faço agora?){/i}"
 
 # game/script.rpy:23763
 translate pt_br botbeach_9968f4c8:
 
     # bot "{i}(Oh, right. If I expand my breasts I'll float!){/i}"
-    bot ""
+    bot "{i}(Ah, é mesmo. Se eu expandir os meus peitos eu vou flutuar!){/i}"
 
 # game/script.rpy:23765
 translate pt_br botbeach_10e9ef9e:
 
     # bot "{i}(There! Now any moment I should-){/i}"
-    bot ""
+    bot "{i}(Isso! Agora em qualquer momento eu devo-){/i}"
 
 # game/script.rpy:23767
 translate pt_br botbeach_2d708897:
 
     # bot "[botown]!" with ssshake
-    bot "" with ssshake
+    bot "[botown]!" with ssshake
 
 # game/script.rpy:23768
 translate pt_br botbeach_3420b363:
 
     # c "Ah!"
-    c ""
+    c "Ah!"
 
 # game/script.rpy:23769
 translate pt_br botbeach_9bfaae9d:
 
     # bot "Hehe, did I scare you?"
-    bot ""
+    bot "Hehe, eu te assustei?"
 
 # game/script.rpy:23770
 translate pt_br botbeach_86564d6e:
 
     # c "A little. What happened to your mask?"
-    c ""
+    c "Um pouco. O que aconteceu com a sua máscara?"
 
 # game/script.rpy:23772
 translate pt_br botbeach_f95dadbe:
 
     # bot "It floated away when I dove in the water... I hope I can find it soon..."
-    bot ""
+    bot "Ela saiu flutuando quando eu mergulhei na água... Eu espero conseguir encontrá-la logo..."
 
 # game/script.rpy:23774
 translate pt_br botbeach_1afbd998:
 
     # bot "I remembered what I did last time to float, so I expanded my breasts!"
-    bot ""
+    bot "Eu lembrei o que eu fiz da última vez pra flutuar, entao eu expandi os meus peitos!"
 
 # game/script.rpy:23776
 translate pt_br botbeach_502bfe7c:
 
     # bot "It's very useful! Thanks for buying it!"
-    bot ""
+    bot "É muito útil! Obrigada por ter comprado!"
 
 # game/script.rpy:23778
 translate pt_br botbeach_52163c42:
 
     # bot "I think I saw a fish down there too! I wish I could breathe like them."
-    bot ""
+    bot "Eu acho que vi até um peixe lá embaixo também! Eu queria poder respirar como eles."
 
 # game/script.rpy:23780
 translate pt_br botbeach_dcf21f74:
 
     # bot "*gasp*! Do you think you can buy me a water breathing module?"
-    bot ""
+    bot "*ah*! Você acha que pode comprar um módulo de respiração aquática pra mim?"
 
 # game/script.rpy:23781
 translate pt_br botbeach_eadca52f:
 
     # c "I don't know how useful that would be."
-    c ""
+    c "Eu não sei se isso seria muito útil."
 
 # game/script.rpy:23782
 translate pt_br botbeach_499a5ae1:
 
     # bot "It would still be fun though! Heheh!"
-    bot ""
+    bot "Mesmo assim seria divertido! Heheh!"
 
 # game/script.rpy:23784
 translate pt_br botbeach_56c35bd7:
 
     # q "OH MY GOD! Your Android is in the water!"
-    q ""
+    q "AI MEU DEUS! A sua Andróide está na água!"
 
 # game/script.rpy:23785
 translate pt_br botbeach_7b4dc9b7:
 
     # q "Push her over here! I'll help you get her out!"
-    q ""
+    q "Empurre ela até aqui! Eu vou te ajudar a tirar ela!"
 
 # game/script.rpy:23786
 translate pt_br botbeach_5ef2cb27:
 
     # bot "Oh no! Someone's here! Where's my mask?"
-    bot ""
+    bot "Ah não! Tem alguém aqui! Cadê a minha máscara?"
 
 # game/script.rpy:23787
 translate pt_br botbeach_6a5e10da:
 
     # q "Sir! Hurry! She's going to break!"
-    q ""
+    q "Senhor! Rápido! Ela vai acabar quebrando!"
 
 # game/script.rpy:23791
 translate pt_br botbeach_7d371137:
 
     # c "She's fine! She's water proof!"
-    c ""
+    c "Ela está bem! Ela é à prova d'água"
 
 # game/script.rpy:23792
 translate pt_br botbeach_ba8859c3:
 
     # q "What?"
-    q ""
+    q "O quê?"
 
 # game/script.rpy:23793
 translate pt_br botbeach_2028d60d:
 
     # c "Come on [botname], let's get out of the water."
-    c ""
+    c "Venha [botname], vamos sair da água."
 
 # game/script.rpy:23794
 translate pt_br botbeach_f7ca2905:
 
     # bot "Mmm..."
-    bot ""
+    bot "Mmm..."
 
 # game/script.rpy:23796
 translate pt_br botbeach_781fd07c:
 
     # bot "Umm?"
-    bot ""
+    bot "Humm?"
 
 # game/script.rpy:23797
 translate pt_br botbeach_65898697:
 
     # q "Oh my god, your eye is red! Are you okay!?"
-    q ""
+    q "Ai meu deus, o seu olho é vermelho! Você está bem!?"
 
 # game/script.rpy:23799
 translate pt_br botbeach_69d43676:
 
     # bot "W-What? Oh, Yes, I'm okay..."
-    bot ""
+    bot "O-O quê? Ah, sim, eu estou bem..."
 
 # game/script.rpy:23800
 translate pt_br botbeach_088d8334:
 
     # q "Please run a diagnostics check for me."
-    q ""
+    q "Por favor, faça uma checagem de diagnóstico pra mim."
 
 # game/script.rpy:23801
 translate pt_br botbeach_23a1d434:
 
     # bot "What?"
-    bot ""
+    bot "Quê?"
 
 # game/script.rpy:23802
 translate pt_br botbeach_7fe3233d:
 
     # q "Oh, she's an old model, hmm..."
-    q ""
+    q "Ah, ela é um modelo antigo, hmm..."
 
 # game/script.rpy:23803
 translate pt_br botbeach_665e6d41:
 
     # q "Play diagnostics, 1 hour."
-    q ""
+    q "Execute um diagnóstico, 1 hora."
 
 # game/script.rpy:23805
 translate pt_br botbeach_79068d16:
 
     # bot "{i}RUNNING DIAGNOSTICS: 1 HOUR /// REQUESTED TRANSPORTATION FROM OWNER /// ARRIVED AT DESTINATION /// LARGE BODY OF WATER DETECTED! AVOID WATER! AVOID WATER! AVOID WATER!{/i}"
-    bot ""
+    bot "{i}DIAGNÓSTICO EM EXECUÇÃO: 1 HORA /// TRANSPORTE SOLICITADO PELO PROPRIETÁRIO /// CHEGOU AO DESTINO /// GRANDE CORPO DE ÁGUA DETECTADO! EVITE ÁGUA! EVITE ÁGUA! EVITE ÁGUA!{/i}"
 
 # game/script.rpy:23806
 translate pt_br botbeach_2e89f7e9:
 
     # bot "{i}WARNING OVERRIDDEN BY OWNER /// WARNING! UNIT SUBMERGED: NO LEAKAGE DETECTED /// BREAST EXPANSION MODULE ACTIVATED /// WARNING! UNIT PARTIALLY SUBMERGED!{/i}"
-    bot ""
+    bot "{i}AVISO SUBMERSO PELO PROPRIETÁRIO /// AVISO! UNIDADE SUBMERSA: NENHUM VAZAMENTO DETECTADO /// MÓDULO DE EXPANSÃO DE MAMA ATIVADO /// AVISO! UNIDADE PARCIALMENTE SUBMERSA!{/i}"
 
 # game/script.rpy:23807
 translate pt_br botbeach_6c3e48e0:
 
     # bot "{i}UNIT EMERGED FROM WATER /// WARNING: OVER 88,000 ERRORS DETECTED!{/i}"
-    bot ""
+    bot "{i}UNIDADE EMERGIDA DA ÁGUA /// AVISO: MAIS DE 88.000 ERROS DETECTADOS!{/i}"
 
 # game/script.rpy:23809
 translate pt_br botbeach_4c5b509e:
 
     # bot "H-Hey... Warn me first..."
-    bot ""
+    bot "E-Ei... Me avise primeiro..."
 
 # game/script.rpy:23810
 translate pt_br botbeach_05a36ffc:
 
     # q "You made your Android get into the water!?"
-    q ""
+    q "Você fez a sua Andróide entrar na água!?"
 
 # game/script.rpy:23811
 translate pt_br botbeach_a337518b:
 
     # c "Relax, she's water proof."
-    c ""
+    c "Relaxa, ela é à prova d'água."
 
 # game/script.rpy:23812
 translate pt_br botbeach_4a244edf:
 
     # q "What about those errors then? You can see her eye, right?"
-    q ""
+    q "Mas e quanto a esses erros? Você está vendo o olho dela, né?"
 
 # game/script.rpy:23813
 translate pt_br botbeach_6e032029:
 
     # c "She's had that since I first met her."
-    c ""
+    c "Ela já tem isso desde que a conheci."
 
 # game/script.rpy:23815
 translate pt_br botbeach_5d40d22d:
 
     # q "And you... Bought her like that? Even knowing she was bug riddled?"
-    q ""
+    q "E você... Comprou ela assim? Mesmo sabendo que ela estava cheia de bugs?"
 
 # game/script.rpy:23816
 translate pt_br botbeach_f7508fce:
 
     # c "My grandfather built her."
-    c ""
+    c "O meu avô construiu ela."
 
 # game/script.rpy:23818
 translate pt_br botbeach_a6f85296:
 
     # q "Really...?"
-    q ""
+    q "É mesmo...?"
 
 # game/script.rpy:23819
 translate pt_br botbeach_d0f26c39:
 
     # bot "That's correct."
-    bot ""
+    bot "É isso mesmo."
 
 # game/script.rpy:23820
 translate pt_br botbeach_ef5359a8:
 
     # q "He must have been quite smart. Looks like he used one of the first Android models, must have been at around 25 years ago."
-    q ""
+    q "Ele deve ser bem esperto. Parece que ele usou um dos primeiros modelos de Andróide, deve ter sido a uns 25 anos atrás."
 
 # game/script.rpy:23822
 translate pt_br botbeach_cabfb7e9:
 
     # q "But she's had those errors since she was built? You really ought to get your grandfather to fix her for you."
-    q ""
+    q "Mas ela tem esses erros desde quando foi construída? Você realmente deveria pedir para seu avô consertá-la para você."
 
 # game/script.rpy:23823
 translate pt_br botbeach_7949b582:
 
     # c "I think I'll pass."
-    c ""
+    c "Eu acho que vou passar."
 
 # game/script.rpy:23824
 translate pt_br botbeach_03870510:
 
     # q "Okay, but don't blame me when she kills you in your sleep."
-    q ""
+    q "Tudo bem, mas não me culpe quando ela te matar enquanto você dorme."
 
 # game/script.rpy:23826
 translate pt_br botbeach_bd1d3a2d:
 
     # bot "W-What!?"
-    bot ""
+    bot "Q-Quê!?"
 
 # game/script.rpy:23827
 translate pt_br botbeach_81c54aa7:
 
     # q "I'm just joking sweetie."
-    q ""
+    q "Estou só brincando, querida."
 
 # game/script.rpy:23829
 translate pt_br botbeach_aabc4e8a:
 
     # q "{i}{size=-10}SERIOUSLY THOUGH, FIX HER!{/size}{/i}"
-    q ""
+    q "{i}{size=-10}MAS É SERIO, CONSERTE ELA!{/size}{/i}"
 
 # game/script.rpy:23831
 translate pt_br botbeach_42f8cfef:
 
     # el "Oh, I'm sorry! Hi, my name is Elizabeth! And this is my Android, Pixel!"
-    el ""
+    el "Ah, sinto muito! Olá, o meu nome é Elizabeth! E essa é a minha Andróide, Pixel!"
 
 # game/script.rpy:23832
 translate pt_br botbeach_7da246bd:
 
     # pix "Hello."
-    pix ""
+    pix "Olá."
 
 # game/script.rpy:23834
 translate pt_br botbeach_115c7e20:
 
     # bot "That's my name..."
-    bot ""
+    bot "Esse é o meu nome..."
 
 # game/script.rpy:23835
 translate pt_br botbeach_721a86b1:
 
     # el "She's one of the newer bots. It's easy to tell, just look at the markings under their eyes!"
-    el ""
+    el "Ela é uma dos robôs mais recentes. É fácil distinguir, basta ver essa marca embaixo dos olhos deles!"
 
 # game/script.rpy:23836
 translate pt_br botbeach_7e52460d:
 
     # bot "She's an Android too? She doesn't have a red eye [botown]..."
-    bot ""
+    bot "Ela é uma Andróide também? Ela não tem um olho vermelho [botown]..."
 
 # game/script.rpy:23837
 translate pt_br botbeach_54186875:
 
     # el "Those old bots don't have all the new bells and whistles these new ones have. But the old ones still have a charm to them, don't they?"
-    el ""
+    el "Esses robôs antigos não têm todos os recursos novos que esses novos têm. Mas os antigos ainda têm um charme, não é?"
 
 # game/script.rpy:23838
 translate pt_br botbeach_28234c5e:
 
     # el "I bet she's still amazing in bed!"
-    el ""
+    el "Aposto que ela é incrível na cama!"
 
 # game/script.rpy:23839
 translate pt_br botbeach_7e1a4630:
 
     # bot "W-What?"
-    bot ""
+    bot "Q-Quê?"
 
 # game/script.rpy:23840
 translate pt_br botbeach_c60de7af:
 
     # el "Oh come on, don't act all innocent you guys. Androids being maids is just for advertisements, we all know why everyone buys one."
-    el ""
+    el "Ah, vamos lá, vocês não precisam se fazer de inocentes. Androides sendo empregadas domésticas são apenas para propaganda, todos nós sabemos por que todo mundo compra um."
 
 # game/script.rpy:23842
 translate pt_br botbeach_f848b332:
 
     # el "It's for pleasure, of course!"
-    el ""
+    el "É por prazer, claro!"
 
 # game/script.rpy:23845
 translate pt_br botbeach_85ff4183:
 
     # bot "S-S-She has a dick!"
-    bot ""
+    bot "E-E-Ela tem um pau!"
 
 # game/script.rpy:23846
 translate pt_br botbeach_f3f365a2:
 
     # el "And a pussy as well, but I mostly use her cock. My husband bought her for me! He's always working..."
-    el ""
+    el "E uma boceta tamnbém, mas eu uso mais o pau dela. O meu marido comprou ela pra mim! Ele está sempre trabalhando..."
 
 # game/script.rpy:23848
 translate pt_br botbeach_6dbee9f9:
 
     # el "They don't come with a penis module, you have to buy that for yourself. All Androids are strictly female at creation. Men and Women prefer submissive girls over submissive boys. Just how the world works, I guess."
-    el ""
+    el "Elas não vêm com um módulo de pênis, você teria que comprar pra ela por conta própria. Todos os Androids são estritamente femininos na criação."
 
 # game/script.rpy:23849
 translate pt_br botbeach_89206b7c:
 
     # el "If I could have bought a male Android, I would have, but Pixel will do! And it feels just like the real thing."
-    el ""
+    el "Se eu pudesse comprar um Andróide homem, eu teria comprado, mas a Pixel serve! E parece bem com o de verdade."
 
 # game/script.rpy:23851
 translate pt_br botbeach_70fa3bb3:
 
     # el "Maybe our bots could have some fun."
-    el ""
+    el "Talvez nossos robôes pudessem se divertir um pouco."
 
 # game/script.rpy:23852
 translate pt_br botbeach_51b1b924:
 
     # pix "If that's what you wish."
-    pix ""
+    pix "Se esse for o seu desejo."
 
 # game/script.rpy:23855
 translate pt_br botbeach_a78d42e7:
 
     # bot "W-Wait, what!? No! Nonononono!"
-    bot ""
+    bot "E-Espera, quê!? Não! Nãonãonãonãonão!"
 
 # game/script.rpy:23856
 translate pt_br botbeach_96e8890d:
 
     # el "Aww, she's so cute! I see your Owner likes shy personalities. Okay, calm down Pixel."
-    el ""
+    el "Ownt, ela é tão fofa! Vejo que o seu Dono gosta de personalidades tímidas. Tudo bem, relaxa Pixel."
 
 # game/script.rpy:23858
 translate pt_br botbeach_f37eeec5:
 
     # el "You know, you should really set administrative priviledges to your Android. If they knew the command book of the Model-1's, they could make her do whatever they want."
-    el ""
+    el "Sabe, você realmente deveria definir privilégios administrativos para a sua Andróide! Se alguém conhecer o livro de comandos do Modelo 1, poderia fazê-la fazer o que quisessem."
 
 # game/script.rpy:23860
 translate pt_br botbeach_4a213376:
 
     # bot "Wait really?"
-    bot ""
+    bot "Espera, sério?"
 
 # game/script.rpy:23861
 translate pt_br botbeach_1c642d92:
 
     # el "Of course. You two need to be very careful."
-    el ""
+    el "É claro. Vocês dois precisam tomar muito cuidado."
 
 # game/script.rpy:23863
 translate pt_br botbeach_685214fa:
 
     # el "Well, anyway. I had planned to relax in the sun while my bot waited on me when the day's still nice. I hope you learned something Mister..."
-    el ""
+    el "Bem, de qualquer forma. Eu tinha planejado relaxar no sol enquanto meu bot me esperava quando o dia ainda estivesse bonito. Espero que você tenha aprendido alguma coisa, Senhor..."
 
 # game/script.rpy:23864
 translate pt_br botbeach_0e5b3a10:
 
     # c "[name]."
-    c ""
+    c "[name]."
 
 # game/script.rpy:23865
 translate pt_br botbeach_b406a1c8:
 
     # el "Mr. [name]. Have a good day."
-    el ""
+    el "Sr. [name]. Tenha um bom dia."
 
 # game/script.rpy:23867
 translate pt_br botbeach_d7c90103:
 
     # bot "{size=-10}She has a penis...{/size}"
-    bot ""
+    bot "{size=-10}Ela tem um pênis...{/size}"
 
 # game/script.rpy:23869
 translate pt_br botbeach_e6d8d83e:
 
     # bot "O-Oh! Um, we should probably go home and do the admin thing she said, right?"
-    bot ""
+    bot "A-Ah! Hum, nós provavelmente deveriamos ir para casa e fazer a coisa administrativa que ela falou, não é?"
 
 # game/script.rpy:23870
 translate pt_br botbeach_1d10bcda:
 
     # c "That's a good idea, come on."
-    c ""
+    c "Essa é uma boa ideia, vamos;"
 
 # game/script.rpy:23871
 translate pt_br botbeach_f31a6807:
 
     # bot "Wait! I need to find my mask first..."
-    bot ""
+    bot "Espera! Eu preciso encontrar a minha máscara antes..."
 
 # game/script.rpy:23873
 translate pt_br botbeach_afa4af3f:
 
     # "After she finds her mask, you both jump in your car, head to the hotel, and go into [botname]'s room..."
-    ""
+    "Após ela encontrar a máscara dela, vocês dois entram no seu carro, vão até o hotel e até o quarto de [botname]..."
 
 # game/script.rpy:23875
 translate pt_br botbeach_c0280d8d:
 
     # c "Do you know what we need to do?"
-    c ""
+    c "Você sabe o que precisamos fazer?"
 
 # game/script.rpy:23876
 translate pt_br botbeach_58438464:
 
     # bot "Yes! After looking around in my code, I found exactly what we need to do!"
-    bot ""
+    bot "Sim! Depois de explorar meu código, eu econtrei exatamente o que precisamos fazer!"
 
 # game/script.rpy:23877
 translate pt_br botbeach_ceaa6243:
 
     # bot "All you have to do is say my model number, followed by 'set admin', followed by your name, followed by a password!"
-    bot ""
+    bot "Tudo o que você precisa fazer é dizer o meu número de modelo, seguido de 'definir administrador', seguido de uma senha!"
 
 # game/script.rpy:23879
 translate pt_br botbeach_9c90721d:
 
     # bot "I'm so excited! I feel like we're getting married! -Or, something..."
-    bot ""
+    bot "Estou tão animada! Eu sinto como se estivéssemos nos casando! -Ou algo assim..."
 
 # game/script.rpy:23881
 translate pt_br botbeach_40cb102a:
 
     # bot "I'm ready whenever you are!"
-    bot ""
+    bot "Estarei pronta quando você estiver!"
 
 # game/script.rpy:23882
 translate pt_br botbeach_4313523f:
 
     # c "What's your model number?"
-    c ""
+    c "Qual é o seu numero de modelo?"
 
 # game/script.rpy:23883
 translate pt_br botbeach_e92b846b:
 
     # bot "Oh, right, It's M1-P5-61-27!"
-    bot ""
+    bot "Ah, certo, é  M1-P5-61-27!"
 
 # game/script.rpy:23884
 translate pt_br botbeach_8726f423:
 
     # c "Okay. M1-P5-61-27 Set Admin [name], uh... Password:"
-    c ""
+    c "Tudo bem. M1-P5-61-27 Definir Administrador [name], hum... Senha:"
 
 # game/script.rpy:23888
 translate pt_br botbeach_92a3480f:
 
     # bot "*DING* Administrator set!"
-    bot ""
+    bot "*DING* Administrador definido!"
 
 # game/script.rpy:23890
 translate pt_br botbeach_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23891
 translate pt_br botbeach_b7d55b25:
 
     # bot "Thank you [botown]..."
-    bot ""
+    bot "Obrigada [botown]..."
 
 # game/script.rpy:23895
 translate pt_br botbeach_92a3480f_1:
 
     # bot "*DING* Administrator set!"
-    bot ""
+    bot "*DING* Administrador definido!"
 
 # game/script.rpy:23897
 translate pt_br botbeach_ad30886a:
 
     # bot "There! All done!"
-    bot ""
+    bot "Pronto! Está feito!"
 
 # game/script.rpy:23900
 translate pt_br botbeach_92a3480f_2:
 
     # bot "*DING* Administrator set!"
-    bot ""
+    bot "*DING* Administrador definido!"
 
 # game/script.rpy:23902
 translate pt_br botbeach_c85de70d:
 
     # bot "That was a weird password... But I guess no one will guess it..."
-    bot ""
+    bot "Essa é uma senha estranha... Mas acho que ninguém vai adivinhar..."
 
 # game/script.rpy:23904
 translate pt_br botbeach_e80f188b:
 
     # bot "Now you're my [botown] and my admin! Heheh!"
-    bot ""
+    bot "Agora você é o meu [botown] e meu administrador! Heheh!"
 
 # game/script.rpy:23913
 translate pt_br bot_firstdate_91cfe740:
