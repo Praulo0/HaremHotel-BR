@@ -1518,7 +1518,7 @@ translate pt_br lobby2_c72ea88e:
 translate pt_br lobby2_b066788f:
 
     # l "Hmmm.... [linoname]! My pussy..."
-    l "Hmmm... [linoname]! Minha buceta..."
+    l "Hmmm... [linoname]! Minha boceta..."
 
 # game/script.rpy:1895
 translate pt_br lobby2_bded1f7c:
@@ -14757,7 +14757,7 @@ translate pt_br explore_brothel1_f089999c:
 translate pt_br explore_brothel1_c637b366:
 
     # ray "Okay, so first thing's first; you need to know that this is a human only brothel. That means luxury here. We're not just any elvish whorehouse, this pussy is premium. So no slapping, biting, or anything rough. If the mark lasts longer than it takes for her to get dressed then you're in trouble."
-    ray "Certo, então vamos começar do início; você precisa saber que esse é um bordel só de humanos. Isso significa luxo aqui. Nós não somos só um puteiro élfico qualquer, essa buceta é premium. Portanto, nada de tapas, mordidas nem nada bruto. Se ficar alguma marca durar por mais tempo do que ela leva para se vestir, você está em apuros."
+    ray "Certo, então vamos começar do início; você precisa saber que esse é um bordel só de humanos. Isso significa luxo aqui. Nós não somos só um puteiro élfico qualquer, essa boceta é premium. Portanto, nada de tapas, mordidas nem nada bruto. Se ficar alguma marca durar por mais tempo do que ela leva para se vestir, você está em apuros."
 
 # game/script.rpy:9162
 translate pt_br explore_brothel1_26f2a77d:
@@ -15549,7 +15549,7 @@ pagar
 translate pt_br explore_brothel3_824f520b:
 
     # bbun "You want my pussy? Sure."
-    bbun "Então você quer a minha buceta? Claro."
+    bbun "Então você quer a minha boceta? Claro."
 
 # game/script.rpy:9416
 translate pt_br explore_brothel3_cc1d0229:
@@ -15585,7 +15585,7 @@ translate pt_br blue_bunny_talk_4cd2c28b:
 translate pt_br blue_bunny_talk_824f520b:
 
     # bbun "You want my pussy? Sure."
-    bbun "Você quer minha a buceta? Claro."
+    bbun "Você quer minha a boceta? Claro."
 
 # game/script.rpy:9455
 translate pt_br blue_bunny_talk_4cd2c28b_1:
@@ -15759,19 +15759,19 @@ translate pt_br purpbun_sex_f5cae7aa:
 translate pt_br purpbun_sex_76c0b64b:
 
     # pbun "Mhm, mhm! Yeah! Fuck my pussy! Ah! Yeah! Mmmh! Don't hold back!"
-    pbun "Mhm, mhm! Isso! Fode a minha buceta! Ah! Isso! Não se contenha!"
+    pbun "Mhm, mhm! Isso! Fode a minha boceta! Ah! Isso! Não se contenha!"
 
 # game/script.rpy:9572
 translate pt_br purpbun_sex_f44f538b:
 
     # pbun "There you go, ah! Yeah! Fuck that pussy like you mean it! Mmmh! Mmmh! Aaah!"
-    pbun "Aqui vai, ah! Isso! Fode essa buceta com vontade! Mmmh! Mmmh! Aaah!"
+    pbun "Aqui vai, ah! Isso! Fode essa boceta com vontade! Mmmh! Mmmh! Aaah!"
 
 # game/script.rpy:9575
 translate pt_br purpbun_sex_d23ead1c:
 
     # pbun "Fuck, fuck!! Ah, you like that pussy, don't you? Mmmmh~ Yeah, it's all yours baby~"
-    pbun "Porra, porra!! Ah, você gosta dessa buceta, não gosta? Mmmmh~ela é toda sua bebê~"
+    pbun "Porra, porra!! Ah, você gosta dessa boceta, não gosta? Mmmmh~ela é toda sua bebê~"
 
 # game/script.rpy:9576
 translate pt_br purpbun_sex_d4faebe8:
@@ -16192,7 +16192,7 @@ translate pt_br bluebun_sex_1ed29640:
 translate pt_br bluebun_sex_5915d8b3:
 
     # bbun "Yeah, yeah! Mmmh! Fuck my pussy, yeah! Nnnh~"
-    bbun "Isso, isso! Mmmh! Fode a minha buceta, isso! Nnnh~"
+    bbun "Isso, isso! Mmmh! Fode a minha boceta, isso! Nnnh~"
 
 # game/script.rpy:9765
 translate pt_br bluebun_sex_febe10b8:
@@ -16204,7 +16204,7 @@ translate pt_br bluebun_sex_febe10b8:
 translate pt_br bluebun_sex_fe4e5bc2:
 
     # bbun "Mmmh, yeah! I want you to feel so good inside my pussy~ Mmmh! Don't stop!"
-    bbun "Mmmh, isso! Eu quero que você se sinta muito bem dentro da minha buceta~ Mmmh! Não para!"
+    bbun "Mmmh, isso! Eu quero que você se sinta muito bem dentro da minha boceta~ Mmmh! Não para!"
 
 # game/script.rpy:9769
 translate pt_br bluebun_sex_398439f4:
@@ -23416,7 +23416,7 @@ translate pt_br shower_3c6ac26b:
 translate pt_br shower_05582c87:
 
     # m "*gasp*! Your pussy! It's so pretty and warm inside..."
-    m "*AH*! A sua buceta! É tão bonita e quente dentro..."
+    m "*AH*! A sua boceta! É tão bonita e quente dentro..."
 
 # game/script.rpy:12434
 translate pt_br shower_0bbbdfbf:
@@ -23566,7 +23566,7 @@ translate pt_br shower_869aa8a5:
 translate pt_br shower_2df1d428:
 
     # f "Nnn! You're filling my pussy up [name]! Yes, yes!" with ssshake
-    f "Nnn! Você está enchendo minha buceta toda [name]! Isso, isso!" with ssshake
+    f "Nnn! Você está enchendo minha boceta toda [name]! Isso, isso!" with ssshake
 
 # game/script.rpy:12483
 translate pt_br shower_16939a2d:
@@ -23638,7 +23638,7 @@ translate pt_br shower_7dea8959:
 translate pt_br shower_2672015e:
 
     # em "Fuck, this view is so hot! I can see your cock ramming into my pussy! Nnnn!"
-    em "Porra, essa visão é tão excitante! Eu consigo ver o seu pau batendo na minnha buceta! Nnnn!"
+    em "Porra, essa visão é tão excitante! Eu consigo ver o seu pau batendo na minnha boceta! Nnnn!"
 
 # game/script.rpy:12528
 translate pt_br shower_8a773880:
@@ -23974,7 +23974,7 @@ translate pt_br shower_1b391623:
 translate pt_br shower_48bd7dc3:
 
     # a "Ahhhn~ Mmn! Yes! Don't stop, don't stop! Don't ever stop! Keep pounding my tight pussy until you explode inside! I want it!"
-    a "Ahhhn~ Mmn! Isso! Não para, não para! Não pare nunca! Continue empurrando na minha buceta apertada até você explodir dentro! Eu quero isso!"
+    a "Ahhhn~ Mmn! Isso! Não para, não para! Não pare nunca! Continue empurrando na minha boceta apertada até você explodir dentro! Eu quero isso!"
 
 # game/script.rpy:12724
 translate pt_br shower_9d36f27e:
@@ -27682,7 +27682,7 @@ translate pt_br linkchoice_6b0bb899:
 translate pt_br linkchoice_869fd4e3:
 
     # c "You put it inside your pussy."
-    c "Você coloca isso dentro da sua buceta."
+    c "Você coloca isso dentro da sua boceta."
 
 # game/script.rpy:14702
 translate pt_br linkchoice_0e269cfa:
@@ -27970,7 +27970,7 @@ translate pt_br linkchoice_6ff6fd48:
 translate pt_br linkchoice_dcc61cd5:
 
     # l "Here's my pussy for you [linoname]..."
-    l "Aqui está a minha buceta para você [linoname]..."
+    l "Aqui está a minha boceta para você [linoname]..."
 
 # game/script.rpy:14876
 translate pt_br linkchoice_b49f4d54:
@@ -29434,7 +29434,7 @@ translate pt_br yourroom_63612ca0:
 translate pt_br yourroom_7bcc3d23:
 
     # a "Mmmmph! Mmmmngh...! \n{i}(Ahhh~! My throat is being fucked like a pussy...! Hahh! {/i})"
-    a "Mmmmph! Mmmmngh...! \n{i}(Ahhh~! Minha garganta está sendo fodida que nem uma buceta...! Hahh! {/i})"
+    a "Mmmmph! Mmmmngh...! \n{i}(Ahhh~! Minha garganta está sendo fodida que nem uma boceta...! Hahh! {/i})"
 
 # game/script.rpy:15492
 translate pt_br yourroom_d8a77927:
@@ -29476,7 +29476,7 @@ translate pt_br yourroom_ae6cf9c7:
 translate pt_br yourroom_e43ecc6d:
 
     # a "That was fun, huh? I've never had my throat used like a pussy..."
-    a "Isso foi divertido, hein? Eu nunca tive a minha garganta sendo usada como uma buceta..."
+    a "Isso foi divertido, hein? Eu nunca tive a minha garganta sendo usada como uma boceta..."
 
 # game/script.rpy:15505
 translate pt_br yourroom_e6ee3a4c:
@@ -30664,7 +30664,7 @@ translate pt_br yourroom_4d94da3a:
 translate pt_br yourroom_026f9b85:
 
     # a "Since you love my pussy so much, I thought you should know what it tastes like! Ahhh... how is it...?"
-    a "Já que você gosta tanto da minha buceta, eu achei que você iria querer saber qual é o sabor! Ahhh... como é...?"
+    a "Já que você gosta tanto da minha boceta, eu achei que você iria querer saber qual é o sabor! Ahhh... como é...?"
 
 # game/script.rpy:15970
 translate pt_br yourroom_0016cf60:
@@ -36568,7 +36568,7 @@ translate pt_br bot_con_question_91f28e5d:
 translate pt_br bot_con_question_fd6dbb92:
 
     # bot "I can tell she has a good heart though, she just thinks with her pussy more often than her brain around me, heheh."
-    bot "Eu sei que ela tem bom coração, mas ela pensa mais com a buceta do que com o cérebro dela quando ela está perto de mim, heheh."
+    bot "Eu sei que ela tem bom coração, mas ela pensa mais com a boceta do que com o cérebro dela quando ela está perto de mim, heheh."
 
 # game/script.rpy:18383
 translate pt_br bot_con_question_e3cee3a9:
@@ -39178,7 +39178,7 @@ translate pt_br bot_washingmachine_39c9790f:
 translate pt_br bot_washingmachine_0fb92c5f:
 
     # bot "Nnnh, but it feels so good...! I need to rub my pussy...!"
-    bot "Nnnh, mas isso é tão bom...! Eu preciso esfregar minha buceta...!"
+    bot "Nnnh, mas isso é tão bom...! Eu preciso esfregar minha boceta...!"
 
 # game/script.rpy:19052
 translate pt_br bot_washingmachine_ffa2dfd5:
@@ -39358,7 +39358,7 @@ translate pt_br bot_washingmachine_c115159e:
 translate pt_br bot_washingmachine_bc9de1f1:
 
     # bot "Hnn, hnnn! I have to...! Mmmn! I'm sorry [botown], I have to rub my pussy...!"
-    bot "Hnn, hnnn! Eu preciso...! Mmmn! Me desculpa [botown], eu preciso esfregar minha buceta..."
+    bot "Hnn, hnnn! Eu preciso...! Mmmn! Me desculpa [botown], eu preciso esfregar minha boceta..."
 
 # game/script.rpy:19100
 translate pt_br bot_washingmachine_d484087a:
@@ -45192,7 +45192,7 @@ translate pt_br bot_tech_c742ec7d:
 translate pt_br bot_tech_712a60dd:
 
     # bot "I've seen your pussy, but you still cover that up don't you? Heheh..."
-    bot "Eu já vi a sua buceta, mas você ainda a cobre, não é? Heheh..."
+    bot "Eu já vi a sua boceta, mas você ainda a cobre, não é? Heheh..."
 
 # game/script.rpy:20843
 translate pt_br bot_tech_5d5f2074:
@@ -48213,7 +48213,7 @@ translate pt_br botnew_d0ae06d2_1:
 translate pt_br botnew_3a5f89a0:
 
     # bot "I can use the same juices from my pussy to make your cock feel {i}super{/i} good! There's even something at the back of my throat that makes me feel really good, it's like a G spot! So I'll be using my throat as well, [botown]!"
-    bot "Eu posso usar os mesmos sucos da minha buceta pra fazer o seu mpau se sentir {i}super{/i} bem! Tem até uma coisa atras da minha garganta que fazer eu me sentir bem, é tipo um ponto G! Então eu vou usar a minha garganta também, [botown]!"
+    bot "Eu posso usar os mesmos sucos da minha boceta pra fazer o seu mpau se sentir {i}super{/i} bem! Tem até uma coisa atras da minha garganta que fazer eu me sentir bem, é tipo um ponto G! Então eu vou usar a minha garganta também, [botown]!"
 
 # game/script.rpy:21652
 translate pt_br botnew_93cc2e26:
@@ -55443,421 +55443,421 @@ translate pt_br botbeach_e80f188b:
 translate pt_br bot_firstdate_91cfe740:
 
     # "Birds" "*tweet, tweet, tweet*\n*tweet, tweet, tweet*\n*tweet, tweet, tweet*"
-    "Birds" ""
+    "Birds" "*piu, piu, piu*\n*piu, piu, piu*\n*piu, piu, piu*"
 
 # game/script.rpy:23914
 translate pt_br bot_firstdate_65a909b1:
 
     # bot "Hi~!\nHello!\nWho are you?"
-    bot ""
+    bot "Oie~!\nOlá!\nQuem são vocês?"
 
 # game/script.rpy:23915
 translate pt_br bot_firstdate_7eab1496:
 
     # c "[botname]...?"
-    c ""
+    c "[botname]...?"
 
 # game/script.rpy:23918
 translate pt_br bot_firstdate_06a43db9:
 
     # bot "Aww, you scared them... you can't be so loud!" with ssshake
-    bot "" with ssshake
+    bot "Ahh, você assustou eles... você não pode fazer tanto barulho!" with ssshake
 
 # game/script.rpy:23920
 translate pt_br bot_firstdate_7dac5151:
 
     # bot "You finally made it!"
-    bot ""
+    bot "Você finalmente conseguiu!"
 
 # game/script.rpy:23921
 translate pt_br bot_firstdate_59b31bef:
 
     # c "How did you do that?"
-    c ""
+    c "Como você fez isso?"
 
 # game/script.rpy:23922
 translate pt_br bot_firstdate_b0bab9b6:
 
     # bot "Do what? They just came to me."
-    bot ""
+    bot "Fiz o que? Eles só vieram até mim."
 
 # game/script.rpy:23923
 translate pt_br bot_firstdate_2057d7e7:
 
     # c "You didn't call them or anything?"
-    c ""
+    c "Você não chamou eles nem nada?"
 
 # game/script.rpy:23924
 translate pt_br bot_firstdate_0f1549af:
 
     # bot "Nope. I was just waiting for you. Should we start our date now?"
-    bot ""
+    bot "Não. Eu estava só esperando por você. Vamos começar o nosso encontro agora?"
 
 # game/script.rpy:23925
 translate pt_br bot_firstdate_d97d9598:
 
     # c "Yeah, take a seat."
-    c ""
+    c "Claro, sente-se."
 
 # game/script.rpy:23927
 translate pt_br bot_firstdate_82234076:
 
     # bot "This is such a nice place, it was definitely worth the time. I really love nature too! Birds are so friendly."
-    bot ""
+    bot "Esse é um lugar tão bonito, definitivamente valeu a pena. Eu amo muito a natureza também! Pássaros são tão amigáveis."
 
 # game/script.rpy:23928
 translate pt_br bot_firstdate_7ee65a35:
 
     # c "They've never liked me."
-    c ""
+    c "Eles nunca gostaram de mim."
 
 # game/script.rpy:23930
 translate pt_br bot_firstdate_6e3e7c49:
 
     # bot "Really? You didn't eat one of them, did you? That would upset me too..."
-    bot ""
+    bot "Sério? Você não comeu nenhum deles, né? Isso me deixaria chateada também..."
 
 # game/script.rpy:23931
 translate pt_br bot_firstdate_e414d1d8:
 
     # c "Nothing like that. Birds don't usually like humans or elves. Most animals don't actually."
-    c ""
+    c "Não é por nenhum motivo assim. Pássaros não costumam gostar de humanos ou elfos. Na verdade a maioria dos animais são assim."
 
 # game/script.rpy:23933
 translate pt_br bot_firstdate_2da5e3ea:
 
     # bot "Well maybe I'm special, I am an android after all."
-    bot ""
+    bot "Bem, talvez eu seja especial, afinal eu sou uma andróide."
 
 # game/script.rpy:23934
 translate pt_br bot_firstdate_7d38ceff:
 
     # c "You are special, there's no doubt about that."
-    c ""
+    c "Você é especial, não há duvidas disso."
 
 # game/script.rpy:23935
 translate pt_br bot_firstdate_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/script.rpy:23936
 translate pt_br bot_firstdate_279aa193:
 
     # c "So you've really never left the hotel before?"
-    c ""
+    c "Então você realmente nunca saiu do hotel antes?"
 
 # game/script.rpy:23938
 translate pt_br bot_firstdate_9040aa4d:
 
     # bot "[botown]... until recently my whole world was inside just one room. Now there are so many rooms, with so many people... just being out here is overstimulating."
-    bot ""
+    bot "[botown]... até recentemente o meu mundo inteiro era apenas um quarto. Agora tem tantos quartos, com tantas pessoas... só de estar aqui fora já é bem superestimulante."
 
 # game/script.rpy:23939
 translate pt_br bot_firstdate_6b2d96fc:
 
     # bot "The wind, the birds, the bugs... even how each leaf reacts to the wind. These are all things I've never had to consider before, and now they're everywhere."
-    bot ""
+    bot "O vento, os pássaros, os insetos... até o como cada folha reage ao vento. Essas todas são coisas que eu nunca tive que considerar antes, e agora elas estão tem todos os lugares."
 
 # game/script.rpy:23940
 translate pt_br bot_firstdate_48f32e94:
 
     # bot "I'm afraid to leave the hotel. I'm afraid that if I do, I won't be able to handle it..."
-    bot ""
+    bot "Eu tenho medo de sair do hotel. Medo que se eu fizer, eu não vou ser capaz de lidar com tudo isso..."
 
 # game/script.rpy:23941
 translate pt_br bot_firstdate_807f64ba:
 
     # c "You don't need to pay attention to everything going on, only the important things. Try to block out everything but me."
-    c ""
+    c "Você não precisa prestar atenção em tudo que está acontecendo, só nas coisas importantes. Tente bloquear tudo, menos eu."
 
 # game/script.rpy:23942
 translate pt_br bot_firstdate_99d38834:
 
     # bot "It's hard, [botown]. It's not even just that though, I can see everything that goes on in the hotel at the same time."
-    bot ""
+    bot "É difícil, [botown]. E não é nem só isso, eu posso ver tudo que acontece no hotel ao mesmo tempo."
 
 # game/script.rpy:23943
 translate pt_br bot_firstdate_4adb792c:
 
     # c "Don't let the anxiety get to you. If it's one thing I know you're capable of, it's surprises."
-    c ""
+    c "Não deixe a ansiedade te dominar. Se tem uma coisa que eu sei que você é capaz de fazer, é de surpresas."
 
 # game/script.rpy:23945
 translate pt_br bot_firstdate_93b2cdb5:
 
     # bot "Thank you [botown]. But I am also worried about how others will see me."
-    bot ""
+    bot "Obrigada [botown]. Mas eu também fico preocupada sobre o como os outros vão me ver."
 
 # game/script.rpy:23946
 translate pt_br bot_firstdate_08279210:
 
     # c "Androids like you are all over the place, it wouldn't be strange to be around you in public."
-    c ""
+    c "Tem andróides como você em todos os lugares, não seria estranho você estar em público."
 
 # game/script.rpy:23948
 translate pt_br bot_firstdate_8e4c5c41:
 
     # bot "I don't want to be treated like any android, I want to be treated like an individual."
-    bot ""
+    bot "Eu não quero ser tratada como qualquer andróide, eu quero ser tratada como um indivíduo."
 
 # game/script.rpy:23949
 translate pt_br bot_firstdate_385a5310:
 
     # c "I think for now it's best if people think you're like any other android."
-    c ""
+    c "Eu acho que por agora é melhor que as pessoas pensem em você como qualquer outra andróide."
 
 # game/script.rpy:23950
 translate pt_br bot_firstdate_cde841d0:
 
     # bot "You're probably right... but how long would I need to keep the act up? I don't want to act for the rest of my life."
-    bot ""
+    bot "Você provavelmente está certo... mas por quanto tempo eu vou ter que manter essa atuação? Eu não quero atuar pelo resto da minha vida."
 
 # game/script.rpy:23951
 translate pt_br bot_firstdate_7c779134:
 
     # c "Let's take it one step at a time. We don't need to think about everything at once, remember? Let's focus."
-    c ""
+    c "Vamos dar um passo de cada vez. Nós não precisamos decidir tudo de uma vez, lembra? Vamos focar."
 
 # game/script.rpy:23953
 translate pt_br bot_firstdate_91c57267:
 
     # bot "You're right, once again...\nHmm, let's focus on..."
-    bot ""
+    bot "Você está certo, de novo...\nHmm, vamos focar..."
 
 # game/script.rpy:23955
 translate pt_br bot_firstdate_9ba30d14:
 
     # bot "Time! How does it work? Why does it only go in one direction? And why does it keep changing speed?"
-    bot ""
+    bot "Tempo! Como isso funciona? Por que ele só segue em uma direção? E por que ele fica mudando de velocidade?"
 
 # game/script.rpy:23956
 translate pt_br bot_firstdate_552e59c2:
 
     # c "Time changing speed? What do you mean?"
-    c ""
+    c "O tempo mudando de velocidade? O que você quer dizer?"
 
 # game/script.rpy:23958
 translate pt_br bot_firstdate_f4cf6c61:
 
     # bot "You mean you don't know how time works either? That's not good..."
-    bot ""
+    bot "Você quer dizer que não sabe como o tempo funciona também? Isso não é bom..."
 
 # game/script.rpy:23959
 translate pt_br bot_firstdate_f68c6380:
 
     # c "It doesn't change speed for me, I'll tell you that much. At least not that I've noticed."
-    c ""
+    c "Ele não muda de velocidade pra mim, isso eu te garanto. Pelo menos não que eu tenha notado."
 
 # game/script.rpy:23961
 translate pt_br bot_firstdate_760dd574:
 
     # bot "Maybe time doesn't like me because I've been in and out of it so much... but when I'm not doing anything, time speeds up. When I'm overstimulated, it slows down. The more tasks I have to do the slower they seem."
-    bot ""
+    bot "Talvez o tempo não goste de mim porque tenho entrado e saído dele tantas vezes... mas quando eu não estou fazendo nada, o tempo se acelera. Quando eu estou superestimulada, ele desacelera. Quanto mais tarefas eu tenho que fazer, mais lentas elas se parecem."
 
 # game/script.rpy:23962
 translate pt_br bot_firstdate_d88472a4:
 
     # bot "Social connections are some of the most complex concepts in life that I've come across. I end up creating dozens of new variables each time I interact with someone, all from knowledge gained or a skilled learned. All that just through a single conversation."
-    bot ""
+    bot "Conexões sociais é um dos conceitos mais complexos que eu me deparei na vida. Eu acabo criando dezenas de novas variáveis a cada vez que eu interajo com alguém, todas elas através de conhecimentos adquiridos ou de habilidades aprendidas. Tudo isso de uma conversação simples."
 
 # game/script.rpy:23963
 translate pt_br bot_firstdate_aca546af:
 
     # bot "Yet still... a second is a second, and 60 of those turn into a minute every time. It doesn't make any sense to me..."
-    bot ""
+    bot "E ainda assim... um segundo é um segundo, e 60 deles se tornam um minuto toda vez. Isso não faz sentido para mim..."
 
 # game/script.rpy:23964
 translate pt_br bot_firstdate_f5a4b36c:
 
     # c "I guess it's just something we have to accept."
-    c ""
+    c "Eu acho que isso é algo que só precisamos aceitar."
 
 # game/script.rpy:23966
 translate pt_br bot_firstdate_4a07161b:
 
     # bot "Information left null is unsettling to me... I need to know if time ends! What if it ends tomorrow!?"
-    bot ""
+    bot "Informações deixadas nulas são perturbadoras para mim... Eu preciso saber se o tempo acaba! E se ele acabar amanhã!?"
 
 # game/script.rpy:23967
 translate pt_br bot_firstdate_2964d5b1:
 
     # c "Then we'll need to make every second count."
-    c ""
+    c "Então nós precisamos fazer cada segundo contar."
 
 # game/script.rpy:23968
 translate pt_br bot_firstdate_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:23970
 translate pt_br bot_firstdate_ad6396b6:
 
     # bot "I see, time is a valuable resource that should not be wasted. That is a satisfying answer. Let's never waste a moment, [botown]."
-    bot ""
+    bot "Entendi, o tempo é um recurso valioso que não deve ser desperdiãdo. Essa é uma resposta satisfatória. não vamos nunca desperdiçar nenhum momento, [botown]."
 
 # game/script.rpy:23972
 translate pt_br bot_firstdate_17e63874:
 
     # bot "Now let's talk about..."
-    bot ""
+    bot "Agora vamos falar de..."
 
 # game/script.rpy:23974
 translate pt_br bot_firstdate_ea2d707b:
 
     # bot "Sex! Did you know that my cum is addictive?"
-    bot ""
+    bot "Sexo! Você sabia que o meu gozo é viciante?"
 
 # game/script.rpy:23975
 translate pt_br bot_firstdate_a2f2a6e3:
 
     # c "What now?"
-    c ""
+    c "Como é?"
 
 # game/script.rpy:23977
 translate pt_br bot_firstdate_60aa80c1:
 
     # bot "Yep! Once you have sex with me you'll never want to go back to normal pussy."
-    bot ""
+    bot "É isso mesmo! Uma vez que você faz sexo comigo, você nunca mais vai querer voltar pra uma boceta normal."
 
 # game/script.rpy:23978
 translate pt_br bot_firstdate_d4df68d5:
 
     # bot "You could even change my pussy texture when you get bored! Or fuck me so hard that you break me! That's going to be hard to do though, heheh."
-    bot ""
+    bot "Você pode até mudar a textura da minha boceta quando você ficar enjoado! Ou me foder até eu ficar acabada! O que é bem difícil, heheh."
 
 # game/script.rpy:23979
 translate pt_br bot_firstdate_bf235757:
 
     # c "Is that a challenge?"
-    c ""
+    c "Isso é um desafio?"
 
 # game/script.rpy:23980
 translate pt_br bot_firstdate_4cdca482:
 
     # bot "If you want it to be! I would certainly love to see you try. It might get expensive though..."
-    bot ""
+    bot "Se você quiser que seja! Eu definitivamente adoraria ver você tentar. Mas isso pode ficar meio caro..."
 
 # game/script.rpy:23982
 translate pt_br bot_firstdate_538b077a:
 
     # bot "I've also noticed that Maria really likes to look at my breasts. Probably even more than you..."
-    bot ""
+    bot "Eu também percebi qe a Maria gosta bastante de olhar para os meus peitos. Provavelmente até mais do que você..."
 
 # game/script.rpy:23983
 translate pt_br bot_firstdate_bc98ecfa:
 
     # c "Does that bother you?"
-    c ""
+    c "Isso te incomoda?"
 
 # game/script.rpy:23984
 translate pt_br bot_firstdate_100a3eab:
 
     # bot "Not really. It just bothers me when that's all she sees. But we've been talking every day and I can tell she's a nice person on the inside, even though she's horny all the time."
-    bot ""
+    bot "Até que não. Só me incomoda quando isso é tudo o que ela vê. Mas nós temos conversado diariamente e eu consigo saber que ela é uma pessoa boa por dentro, mesmo que ela esteja com tesão o tempo todo."
 
 # game/script.rpy:23987
 translate pt_br bot_firstdate_be74fdf8:
 
     # c "You should keep your distance, I wouldn't want her corrupting you."
-    c ""
+    c "Você deveria manter alguma distância, eu não gostaria que ela te corrompesse."
 
 # game/script.rpy:23989
 translate pt_br bot_firstdate_9f6b68ed:
 
     # bot "Oh no... does she have malware? *sigh*, I knew she was the type to not use protection..."
-    bot ""
+    bot "Ah não... ela tem algum tipo de malware? *ufa*, Eu sabia que ela não era o tipo de pessoa que usa proteção..."
 
 # game/script.rpy:23990
 translate pt_br bot_firstdate_1d46e4f8:
 
     # c "No, nothing like that. Just keep your distance."
-    c ""
+    c "Não, bão é nada assim. Só mantenha alguma distância."
 
 # game/script.rpy:23991
 translate pt_br bot_firstdate_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tudo bem..."
 
 # game/script.rpy:23993
 translate pt_br bot_firstdate_fa365e99:
 
     # c "She is a good person, I'm sure you two will become good friends in time."
-    c ""
+    c "Ela é uma boa pessoa, eu tenho certeza de que vocês duas vão se tornar ótimas amigas com o tempo."
 
 # game/script.rpy:23995
 translate pt_br bot_firstdate_ce223384:
 
     # bot "I hope so! I would like to become friends with everyone!"
-    bot ""
+    bot "Eu espero que sim! Eu gostaria de ser amiga de todo mundo!"
 
 # game/script.rpy:23996
 translate pt_br bot_firstdate_beec89e4:
 
     # c "Maria has a very high sex drive though, so don't be surprised if she looks at your tits."
-    c ""
+    c "De qualquer jeito, a Maria tem um apetite sexual bem grande, então não se surpreenda se ela ficar olhando as suas tetas."
 
 # game/script.rpy:23997
 translate pt_br bot_firstdate_e72c329d:
 
     # bot "Of course. It's easy to tell when Maria is horny, she has no shame about it at all! But some of the others really try to repress those feelings."
-    bot ""
+    bot "Claro. É fácil perceber quando a Maria está com tesão,ela não tem a mínima vergonha disso! Mas algumas das outras realmente tentam reprimir esses sentimentos.
 
 # game/script.rpy:23998
 translate pt_br bot_firstdate_ac37de72:
 
     # c "How can you tell?"
-    c ""
+    c "Como você consegue perceber?"
 
 # game/script.rpy:24000
 translate pt_br bot_firstdate_92d4fcb5:
 
     # bot "The change in their heartrate, pupil size, and body temperature. All of it correlates to lust! Maria leans into those feelings every time they come up, while Kali's natural instinct is to repress them."
-    bot ""
+    bot "A mudança no ritmo cardíaco, o tamanho das pupilas, e temperatura corporal. Todas essas coisas se correlacionam com a luxúria. A Maria se entrega a esses sentimentos sempre que eles surgem, enquanto o instinto natural da Kali é reprimi-los."
 
 # game/script.rpy:24001
 translate pt_br bot_firstdate_6418d5c4:
 
     # c "Interesting..."
-    c ""
+    c "Interessante..."
 
 # game/script.rpy:24003
 translate pt_br bot_firstdate_0bc06114:
 
     # bot "I think she would be really easy to control if I got her addicted to my cum! Would you like that?"
-    bot ""
+    bot "Eu acho que ela seria realmente fácil de controlar se eu deixar ela viciada no meu gozo! Você gostaria disso?"
 
 # game/script.rpy:24004
 translate pt_br bot_firstdate_36af5937:
 
     # c "She can be a bit wild at times... but no, I like her better with her freedom intact."
-    c ""
+    c "Ela pode até ser meio desenfreada as vezes... mas não, eu gosto mais dela com a liberdade dela intacta."
 
 # game/script.rpy:24005
 translate pt_br bot_firstdate_adf2ca25:
 
     # bot "Do you think it's even possible to completely satisfy someone like that?"
-    bot ""
+    bot "Você acha que é possível satisfazer completamenta alguém assim?"
 
 # game/script.rpy:24006
 translate pt_br bot_firstdate_cf177cf2:
 
     # c "I'd like to see you try sometime."
-    c ""
+    c "Eu gostaria de ver você tentar algum dia.""
 
 # game/script.rpy:24007
 translate pt_br bot_firstdate_1d6a0e8c:
 
     # bot "Heheh, okay! You're my new favorite person, so if it makes you happy, then it makes me happy!"
-    bot ""
+    bot "Heheh, tudo bem! Você é a minha nova pessoa favorita, então se isso te fizer feliz, então eu vou estar feliz!"
 
 # game/script.rpy:24010
 translate pt_br bot_firstdate_1e7e14e0:
 
     # bot "There's something I am concerned about though..."
-    bot ""
+    bot "Mas tem uma coisa que tem me deixado preocupada..."
 
 # game/script.rpy:24011
 translate pt_br bot_firstdate_0518b533:
