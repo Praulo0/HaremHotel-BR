@@ -5886,13 +5886,13 @@ translate pt_br floor2menu_39f95f9c:
 translate pt_br floor2menu_e8e359f3:
 
     # c "An egg vibe."
-    c "Um vibe de ovo."
+    c "Um vibrador de ovo."
 
 # game/script.rpy:5014
 translate pt_br floor2menu_c4b82cf3:
 
     # bot "Egg vibe? What does it do?"
-    bot "Vibe de ovo? O que isso faz?"
+    bot "Vibrador de ovo? O que isso faz?"
 
 # game/script.rpy:5015
 translate pt_br floor2menu_8b132956:
@@ -11301,7 +11301,7 @@ translate pt_br kcreep_3ab81655_1:
 translate pt_br kcreep_34315e0b:
 
     # c "Put your egg vibe in."
-    c "Coloca o seu ovo vibrador."
+    c "Coloca o seu vibrador de ovo."
 
 # game/script.rpy:7954
 translate pt_br kcreep_33ac6aba:
@@ -11511,7 +11511,7 @@ translate pt_br kcreep_02843aeb:
 translate pt_br kcreep_f361fef5:
 
     # a "*gasp* an egg vibe! Maria has a ton of these, but I've never tried them out before!"
-    a "*AH* um ovo vibrador! a Maria tem um monte desses, mas eu nunca experimentei eles antes."
+    a "*AH* um vibrador de ovo! a Maria tem um monte desses, mas eu nunca experimentei eles antes."
 
 # game/script.rpy:8122
 translate pt_br kcreep_eaa718df:
@@ -20416,7 +20416,7 @@ translate pt_br needy_help_1fa9e0cb:
 translate pt_br needy_help_92f6ad90:
 
     # abby "Fine, just take it. Go on, then get out of here."
-    abby "Cero, só pega isso. Pega, e cai fora daqui."
+    abby "Certo, só pega isso. Pega, e cai fora daqui."
 
 # game/script.rpy:11196
 translate pt_br needy_help_b60145c1:
@@ -27706,7 +27706,7 @@ translate pt_br linkchoice_30620b7e_1:
 translate pt_br linkchoice_23f41c77:
 
     # "Lin takes her panties off and inserts the egg vibe"
-    "Lin tira a calcinha dela e insere o ovo vibrador."
+    "Lin tira a calcinha dela e insere o vibrador de ovo."
 
 # game/script.rpy:14716
 translate pt_br linkchoice_5b27cbd8:
@@ -27760,7 +27760,7 @@ translate pt_br linkchoice_16235293_1:
 translate pt_br linkchoice_6e6e1131:
 
     # l "Oh, the egg vibe again?"
-    l "Ah, o ovo vibrador de novo?"
+    l "Ah, o vibrador de ovo de novo?"
 
 # game/script.rpy:14748
 translate pt_br linkchoice_56d0beb3:
@@ -27778,7 +27778,7 @@ translate pt_br linkchoice_30620b7e_2:
 translate pt_br linkchoice_23f41c77_1:
 
     # "Lin takes her panties off and inserts the egg vibe"
-    "Lin tira a calcinha dela e insere o ovo vibrador"
+    "Lin tira a calcinha dela e insere o vibrador de ovo"
 
 # game/script.rpy:14759
 translate pt_br linkchoice_5178d61f:
@@ -36694,7 +36694,7 @@ translate pt_br bot_con_question_eb805985:
 translate pt_br bot_con_question_d8171874:
 
     # bot "I got back at her though, heheh! I convinced her that you were sick and that the only way to cure you was through lewd stuff! And she bought it!"
-    bot "Eu me vinguei dela aaté, heheh! Eu a convenci de que você estava doente e a única forma de te curar era fazendo coisas pervertidas! E ela acreditou!"
+    bot "Eu me vinguei dela aaté, heheh! Eu a convenci de que você estava doente e a única forma de te curar era fazendo coisas indecentes! E ela acreditou!"
 
 # game/script.rpy:18418
 translate pt_br bot_con_question_a62cb7b7:
@@ -39172,7 +39172,7 @@ translate pt_br bot_washingmachine_889a6787:
 translate pt_br bot_washingmachine_39c9790f:
 
     # bot "Hnnng~! I can't take it anymore... why am I so lewd...!? Mmmmn~!"
-    bot "Hnnng~! Eu não aguento mais... por que eu sou tão tarada....!? Mmmmn~!"
+    bot "Hnnng~! Eu não aguento mais... por que eu sou tão indecente....!? Mmmmn~!"
 
 # game/script.rpy:19049
 translate pt_br bot_washingmachine_0fb92c5f:
@@ -51771,7 +51771,7 @@ translate pt_br bothuman_204780d0:
 translate pt_br bothuman_5e7de261:
 
     # bot "Um, but [botown]... I really can't wear the mask? Isn't it kind of... Lewd... Like this...?"
-    bot "Hum, mas [botown]... Eu não posso mesmo usar a máscara? Não é meio... erótico... assim...?"
+    bot "Hum, mas [botown]... Eu não posso mesmo usar a máscara? Não é meio... indecente... Desse jeito...?"
 
 # game/script.rpy:22608
 translate pt_br bothuman_ebae235f:
@@ -53595,7 +53595,7 @@ translate pt_br botpinups_0dacdf9e:
 translate pt_br botpinups_a88626f1:
 
     # bot "Hm, maybe this is too lewd...?"
-    bot "Hm, talvez isso seja um pouco erótico demais...?"
+    bot "Hm, talvez isso seja um pouco indecente demais...?"
 
 # game/script.rpy:23256
 translate pt_br botpinups_a3452f96:
@@ -55845,7 +55845,7 @@ translate pt_br bot_firstdate_adf2ca25:
 translate pt_br bot_firstdate_cf177cf2:
 
     # c "I'd like to see you try sometime."
-    c "Eu gostaria de ver você tentar algum dia.""
+    c "Eu gostaria de ver você tentar algum dia."
 
 # game/script.rpy:24007
 translate pt_br bot_firstdate_1d6a0e8c:
@@ -55863,1363 +55863,1363 @@ translate pt_br bot_firstdate_1e7e14e0:
 translate pt_br bot_firstdate_0518b533:
 
     # c "What is that?"
-    c ""
+    c "E o que é?"
 
 # game/script.rpy:24013
 translate pt_br bot_firstdate_a18db617:
 
     # bot "It's Ellen. She's the only connection I have to my past, but she has never liked me..."
-    bot ""
+    bot "É a Ellenn. Ela é a única conexão que eu tenho com o meu passado, mas ela nunca gostou de mim..."
 
 # game/script.rpy:24014
 translate pt_br bot_firstdate_1bc47770:
 
     # c "Why is that?"
-    c ""
+    c "Por que isso acontece?"
 
 # game/script.rpy:24015
 translate pt_br bot_firstdate_db64e57f:
 
     # bot "I wish I knew. From the moment our eyes first met she has always looked at me a certain way... like I didn't belong."
-    bot ""
+    bot "Bem que eu gostaria de saber. Desde o momento em que nossos olhos se encontraram pela primeira vez, ela sempre me olhou de uma certa maneira... como se eu não pertencesse a este lugar."
 
 # game/script.rpy:24016
 translate pt_br bot_firstdate_1339b9e7:
 
     # bot "I do everything she says but she still yells at me sometimes, even if I just slightly mess something up or misunderstand her..."
-    bot ""
+    bot "Eu faço tudo o que ela me manda, e mesmo assim ela ainda grita comigo as vezes, mesmo quando eu faço uma besteira pequena ou entendo ela mal..."
 
 # game/script.rpy:24018
 translate pt_br bot_firstdate_b5b518d8:
 
     # bot "She kept me locked away in her room this whole time. She was worried I was going to hurt someone. I was even here for your arrival but... she wouldn't let me see you..."
-    bot ""
+    bot "Ela me deixou trancada no quarto dela durante todo esse tempo. Ela estava com medo que eu machucasse alguém. Eu estava aqui na sua chegada, mas... ela não me deixou te ver..."
 
 # game/script.rpy:24019
 translate pt_br bot_firstdate_44e1b048:
 
     # c "I'm sorry, I wish I knew."
-    c ""
+    c "Eu sinto muito, eu gostaria de ter sabido disso na epoca."
 
 # game/script.rpy:24021
 translate pt_br bot_firstdate_361794e5:
 
     # bot "I just wish people would ask more questions, you know? I don't mind talking about myself, or why I do the things I do, but people are quicker to accuse me of things that are more relevant to them than to me."
-    bot ""
+    bot "Eu só queria que as pessoas fizessem mais perguntas, sabe? Eu não me incomodo de falar sobre mim, ou o porque de eu fazer as coisas que faço, mas as pessoas são rápidas pra me acusar de coisas que são mais importantes para elas do que para mim."
 
 # game/script.rpy:24022
 translate pt_br bot_firstdate_ea5d9508:
 
     # bot "It's just like you said, talking things out usually ends better. I just wish everyone knew that..."
-    bot ""
+    bot "É como você disse, conversar costuma acabar melhor. Eu só queria que todos soubessem disso..."
 
 # game/script.rpy:24023
 translate pt_br bot_firstdate_7bf53c8b:
 
     # c "We're better at surviving than thinking. One day you'll realize most people are just making it up as they go along. Once you do, try not to hate us too much for it."
-    c ""
+    c "Somos melhores em sobreviver do que em pensar. Um dia você vai perceber que a maioria das pessoas está apenas inventando. Quando perceber, tente não nos odiar tanto por isso."
 
 # game/script.rpy:24025
 translate pt_br bot_firstdate_8555be1a:
 
     # bot "I don't hate anyone."
-    bot ""
+    bot "Eu não odeio ninguém."
 
 # game/script.rpy:24026
 translate pt_br bot_firstdate_acf6fdc2:
 
     # c "One day you will."
-    c ""
+    c "Um dia você vai."
 
 # game/script.rpy:24028
 translate pt_br bot_firstdate_ed3c9922:
 
     # bot "I don't {i}want{/i} to hate anyone... I know everyone makes mistakes, and I can forgive them for that."
-    bot ""
+    bot "Eu não {i}quero{/i} odiar ninguém... Eu sei que todo mundo erra, e eu posso perdoar eles por isso."
 
 # game/script.rpy:24029
 translate pt_br bot_firstdate_06ed4d90:
 
     # c "What if it isn't a mistake?"
-    c ""
+    c "E se não for um erro?"
 
 # game/script.rpy:24030
 translate pt_br bot_firstdate_c868e390_1:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:24032
 translate pt_br bot_firstdate_e1518886:
 
     # bot "Then we shoot 'em in the face with my gun!"
-    bot ""
+    bot "Então nós vamos atirar da cara deles com a minha arma!"
 
 # game/script.rpy:24033
 translate pt_br bot_firstdate_3167ab93:
 
     # c "No...\nWhere did you even get that?"
-    c ""
+    c "Não...\nDe onde você tirou isso?"
 
 # game/script.rpy:24035
 translate pt_br bot_firstdate_a30a80c9:
 
     # bot "It was a gift..."
-    bot ""
+    bot "Foi um presente..."
 
 # game/script.rpy:24036
 translate pt_br bot_firstdate_257adda1:
 
     # c "From who?"
-    c ""
+    c "De quem?"
 
 # game/script.rpy:24037
 translate pt_br bot_firstdate_6b35f8a9:
 
     # bot "Your grandfather...\nOne day he told me to protect the hotel against any looters when it was under construction, so I did. No one came around though."
-    bot ""
+    bot "Do seu avô...\nUm dia ele me disse para proteger o hotel contra saqueadores quando estava em construção, então eu o fiz. De qualquer jeito ninguém veio."
 
 # game/script.rpy:24038
 translate pt_br bot_firstdate_bf57b6dc:
 
     # c "And you've kept it ever since, huh?"
-    c ""
+    c "E você tem guardado isso desde então, é?"
 
 # game/script.rpy:24039
 translate pt_br bot_firstdate_bce0c5ec:
 
     # bot "He told me it was my job to protect the hotel, so I will! I monitor everything that goes on, inside and out! Nothing gets past me."
-    bot ""
+    bot "Ele disse que proteger o hotel era o meu trabalho, então eu vou! Eu monitoro tudo o que acontece, dentro e fora do hotel! Nada passa por mim."
 
 # game/script.rpy:24040
 translate pt_br bot_firstdate_f26b2b58:
 
     # c "Boy am I glad you're on my side."
-    c ""
+    c "Mano... eu fico feliz por você estar do meu lado."
 
 # game/script.rpy:24042
 translate pt_br bot_firstdate_dd8234fd:
 
     # bot "Heheh, I'm glad I'm on your side too! I like you more every time I talk to you!"
-    bot ""
+    bot "Heheh, eu também estou feliz por estar do seu lado! A cada vez que eu converso com você, eu passo a gostar ainda mais de você!"
 
 # game/script.rpy:24044
 translate pt_br bot_firstdate_a1074399:
 
     # bot "It just happened again! Did you feel that too?"
-    bot ""
+    bot "Isso acabou de acontecer de novo! Você sentiu isso também?"
 
 # game/script.rpy:24045
 translate pt_br bot_firstdate_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:24046
 translate pt_br bot_firstdate_c485d095:
 
     # bot "Oh well... it was really nice speaking with you again [botown]. Ellen's going to yell at me if I don't get back to work soon though."
-    bot ""
+    bot "Ah bem... foi muito bom conversar de novo com você [botown]. Mas a Ellen vai gritar comigo se eu não voltar ao trabalho logo."
 
 # game/script.rpy:24047
 translate pt_br bot_firstdate_61ea9386:
 
     # c "Don't forget, I'm the manager."
-    c ""
+    c "Não se esqueça que eu sou o gerente."
 
 # game/script.rpy:24049
 translate pt_br bot_firstdate_a2e7992b:
 
     # bot "But she's the scary one..."
-    bot ""
+    bot "Mas ela é a assustadora..."
 
 # game/script.rpy:24050
 translate pt_br bot_firstdate_6467e32a:
 
     # bot "Sorry [botown], I don't want her to become angry with me. I gotta go..."
-    bot ""
+    bot "Desculpa [botown], eu não quero que ela fique brava comigo. Eu preciso ir..."
 
 # game/script.rpy:24051
 translate pt_br bot_firstdate_dd384b41:
 
     # c "Haha, alright. I'll see you."
-    c ""
+    c "Haha, tudo bem. Nos vemos depois."
 
 # game/script.rpy:24053
 translate pt_br bot_firstdate_1bb7f7a3:
 
     # bot "Bye-bye! And thank you for helping me focus!"
-    bot ""
+    bot "Tchau-tchau! E obrigada por me ajudar a me concentrar!"
 
 # game/script.rpy:24061
 translate pt_br botmar_c6bdfee4:
 
     # r "Some of [botname]'s earlier content, including this event, is dated and in need if a remake. For now, please just bear with it :)"
-    r ""
+    r "Parte do conteúdo anterior de [botname], incluindo este evento, está datado e precisa de um remake. Por enquanto, por favor, aguentem :)"
 
 # game/script.rpy:24062
 translate pt_br botmar_8c43eb92:
 
     # bot "Maria, what are you doing in my room again...?"
-    bot ""
+    bot "Maria, o que você está fazendo no meu quarto de novo...?"
 
 # game/script.rpy:24063
 translate pt_br botmar_c194d267:
 
     # m "What? Can't a girl check up on her friends?"
-    m ""
+    m "O quê? Uma garota não pode visitar as amigas dela?"
 
 # game/script.rpy:24064
 translate pt_br botmar_9a480b7a:
 
     # bot "W-We're friends?"
-    bot ""
+    bot "N-Nós somos amigas?"
 
 # game/script.rpy:24065
 translate pt_br botmar_75510bbc:
 
     # m "Of course! I even got you a gift!"
-    m ""
+    m "Mas é claro! Eu até mesmo trouxe um presente para você!"
 
 # game/script.rpy:24066
 translate pt_br botmar_39f95f9c:
 
     # bot "Really? What is it?"
-    bot ""
+    bot "Verdade? O que é?"
 
 # game/script.rpy:24068
 translate pt_br botmar_db46b746:
 
     # m "This!"
-    m ""
+    m "Isso!"
 
 # game/script.rpy:24069
 translate pt_br botmar_1683bb64:
 
     # bot "Um... that doesn't really answer my question..."
-    bot ""
+    bot "Hum... isso não responde a minha pergunta..."
 
 # game/script.rpy:24070
 translate pt_br botmar_05fab0fc:
 
     # m "Have a seat, I'll show you..."
-    m ""
+    m "Sente-se, eu vou te mostrar..."
 
 # game/script.rpy:24074
 translate pt_br botmar_3a38286d:
 
     # bot "It looks... phallic..."
-    bot ""
+    bot "Isso parece... fálico..."
 
 # game/script.rpy:24075
 translate pt_br botmar_955325b8:
 
     # m "Of course! That's the point!"
-    m ""
+    m "É claro! Esse é o ponto!"
 
 # game/script.rpy:24076
 translate pt_br botmar_7c2b0c83:
 
     # bot "So what do you do with it?"
-    bot ""
+    bot "Então o que você vai fazer com isso?"
 
 # game/script.rpy:24077
 translate pt_br botmar_af283547:
 
     # m "You put it between your legs and it makes you feel really good!"
-    m ""
+    m "Você coloca isso entre as suas pernas e você vai se sentir muito bem!"
 
 # game/script.rpy:24078
 translate pt_br botmar_e9b707c4:
 
     # bot "Really? How does it work?"
-    bot ""
+    bot "É mesmo? Como isso funciona?"
 
 # game/script.rpy:24079
 translate pt_br botmar_1d14fda3:
 
     # m "Let me show you... open up your legs..."
-    m ""
+    m "Deixa eu te mostrar... abra as suas pernas..."
 
 # game/script.rpy:24080
 translate pt_br botmar_b88a89c1:
 
     # bot "O-Okay..."
-    bot ""
+    bot "T-Tudo bem..."
 
 # game/script.rpy:24082
 translate pt_br botmar_a45d1d5e:
 
     # bot "Nnnn... What are you doing...?"
-    bot ""
+    bot "Nnnn... O que você está fazendo...?"
 
 # game/script.rpy:24083
 translate pt_br botmar_1b20a361:
 
     # m "It'll feel so much better with your breasts out..."
-    m ""
+    m "Você vai se sentir muito melhor com os seus peitos para fora..."
 
 # game/script.rpy:24084
 translate pt_br botmar_2919bdd1:
 
     # bot "Really? ...Okay..."
-    bot ""
+    bot "Verdade? ...Tudo bem..."
 
 # game/script.rpy:24086
 translate pt_br botmar_0f238c76:
 
     # m "Mmmm, you've got really good breasts [botname]..."
-    m ""
+    m "Mmmm, seus peitos são muito bons [botname]..."
 
 # game/script.rpy:24087
 translate pt_br botmar_14d9c968:
 
     # bot "T-Thank you..."
-    bot ""
+    bot "O-Obrigada..."
 
 # game/script.rpy:24089
 translate pt_br botmar_3014cb92:
 
     # bot "Ahh... my p-pussy..."
-    bot ""
+    bot "Ahh... a minha b-boceta..."
 
 # game/script.rpy:24093
 translate pt_br botmar_26513051:
 
     # m "Your panties will just get in the way..."
-    m ""
+    m "A sua calcinha só vai atrapalhar..."
 
 # game/script.rpy:24094
 translate pt_br botmar_89f0c324:
 
     # bot "Oh... okay..."
-    bot ""
+    bot "Ah... certo..."
 
 # game/script.rpy:24095
 translate pt_br botmar_a86cc96b:
 
     # m "Are you ready to feel really good [botname]?"
-    m ""
+    m "Você está pronta pra se sentir muito bem, [botaname]?"
 
 # game/script.rpy:24096
 translate pt_br botmar_074c89e7:
 
     # bot "Y-Yes..."
-    bot ""
+    bot "S-Sim..."
 
 # game/script.rpy:24098
 translate pt_br botmar_2bb57ee6:
 
     # bot "NNNNNG!!!" with ssshake
-    bot "" with ssshake
+    bot "NNNNNG!!!" with ssshake
 
 # game/script.rpy:24099
 translate pt_br botmar_d75f73b2:
 
     # bot "W-What's that feeling!?" with ssshake
-    bot "" with ssshake
+    bot "O-O que é esse sentimento!?" with ssshake
 
 # game/script.rpy:24100
 translate pt_br botmar_d8f52bb9:
 
     # m "It's a vibrator..." with ssshake
-    m "" with ssshake
+    m "Isso é um vibrador..." with ssshake
 
 # game/script.rpy:24101
 translate pt_br botmar_8529c869:
 
     # bot "It feels... different!" with ssshake
-    bot "" with ssshake
+    bot "É uma sensação... diferente!" with ssshake
 
 # game/script.rpy:24102
 translate pt_br botmar_a1d1d5e1:
 
     # m "But good right?" with ssshake
-    m "" with ssshake
+    m "Mas é boa, não é?" with ssshake
 
 # game/script.rpy:24103
 translate pt_br botmar_09ead7b4:
 
     # bot "SO GOOD!" with ssshake
-    bot "" with ssshake
+    bot "É BOA DEMAIS!" with ssshake
 
 # game/script.rpy:24105
 translate pt_br botmar_4ab40563:
 
     # bot "Nnn! So good!" with ssshake
-    bot "" with ssshake
+    bot "Nnn! Tão bom!" with ssshake
 
 # game/script.rpy:24108
 translate pt_br botmar_b97fdaa2:
 
     # bot "Mmm! Harder! Press harder!" with ssshake
-    bot "" with ssshake
+    bot "Mmm! Mais forte! Aperta mais forte!" with ssshake
 
 # game/script.rpy:24109
 translate pt_br botmar_119ac4cc:
 
     # m "I can turn it up if you want..." with ssshake
-    m "" with ssshake
+    m "Eu posso aumentar se você quiser..." with ssshake
 
 # game/script.rpy:24110
 translate pt_br botmar_ba7d169d:
 
     # bot "Yes! Yes! Turn it up!" with ssshake
-    bot "" with ssshake
+    bot "Sim! Sim! Aumenta!" with ssshake
 
 # game/script.rpy:24113
 translate pt_br botmar_8b3b22e6:
 
     # bot "Ahhhh!!!" with sshake
-    bot "" with sshake
+    bot "Ahhhh!!!" with sshake
 
 # game/script.rpy:24115
 translate pt_br botmar_f6a8c9ba:
 
     # bot "I've never felt like this before!" with ssshake
-    bot "" with ssshake
+    bot "Eu nunca me senti assim antes!" with ssshake
 
 # game/script.rpy:24116
 translate pt_br botmar_7da87aaa:
 
     # bot "It's not even inside me and it feels so good!" with ssshake
-    bot "" with ssshake
+    bot "Isso nem está dentro de mim e já é tão bom!" with ssshake
 
 # game/script.rpy:24117
 translate pt_br botmar_6fa2008f:
 
     # m "You've never touched your clit before?" with ssshake
-    m "" with ssshake
+    m "Você nunca tocou o seu clitóris antes?" with ssshake
 
 # game/script.rpy:24118
 translate pt_br botmar_cf67e736:
 
     # bot "Ahh! C-Clit?" with ssshake
-    bot "" with ssshake
+    bot "Ahh! C-Clitóris?" with ssshake
 
 # game/script.rpy:24119
 translate pt_br botmar_cad8c511:
 
     # m "Have you even masturbated before?" with ssshake
-    m "" with ssshake
+    m "Você chegou a pelo menos se masturbar antes?" with ssshake
 
 # game/script.rpy:24120
 translate pt_br botmar_3d37cd2d:
 
     # bot "N-No! Of course not!" with ssshake
-    bot "" with ssshake
+    bot "N-Não! É claro que não!" with ssshake
 
 # game/script.rpy:24121
 translate pt_br botmar_dd7b326f:
 
     # m "Why not?" with ssshake
-    m "" with ssshake
+    m "Por que não?" with ssshake
 
 # game/script.rpy:24122
 translate pt_br botmar_d91eadda:
 
     # bot "T-Too lewd!" with ssshake
-    bot "" with ssshake
+    bot "É-É muito indecente!" with ssshake
 
 # game/script.rpy:24123
 translate pt_br botmar_5255e31f:
 
     # m "But isn't this lewd too?" with ssshake
-    m "" with ssshake
+    m "Mas isso não é indecente assim também?" with ssshake
 
 # game/script.rpy:24124
 translate pt_br botmar_ec502c57:
 
     # bot "Nnnnnn..." with ssshake
-    bot "" with ssshake
+    bot "Nnnnnn..." with ssshake
 
 # game/script.rpy:24127
 translate pt_br botmar_57175392:
 
     # bot "C-Can it go faster!? I want it faster!!!" with ssshake
-    bot "" with ssshake
+    bot "I-Isso pode ir mais rápido!? Eu quero isso mais rápido!!!" with ssshake
 
 # game/script.rpy:24128
 translate pt_br botmar_3e964257:
 
     # m "Mmm... Mmhmm, it can..." with ssshake
-    m "" with ssshake
+    m "Mmm... Mmhmm, pode sim..." with ssshake
 
 # game/script.rpy:24129
 translate pt_br botmar_b77b9a16:
 
     # bot "P-Please! Faster! I want to cum!!!" with ssshake
-    bot "" with ssshake
+    bot "P-Por favor! Mais rápido! Eu quero gozar!!!" with ssshake
 
 # game/script.rpy:24130
 translate pt_br botmar_4b731af5:
 
     # m "I want you to beg for it..." with ssshake
-    m "" with ssshake
+    m "Eu quero que você implore por isso..." with ssshake
 
 # game/script.rpy:24131
 translate pt_br botmar_b6c6aecc:
 
     # bot "Ahhh! P-Please! Make me cum! I want to feel better!" with ssshake
-    bot "" with ssshake
+    bot "Ahhh! P-Por favor! Me faz gozar! Eu quero me sentir melhor!" with ssshake
 
 # game/script.rpy:24132
 translate pt_br botmar_f15f7f1b:
 
     # bot "Mariaaa! Please! Please! Please!" with ssshake
-    bot "" with ssshake
+    bot "Mariaaa! Por favor! Por favor! Por favor!" with ssshake
 
 # game/script.rpy:24133
 translate pt_br botmar_3894a483:
 
     # bot "I'll do anything you want! Anything!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu faço o que você quiser! Qualquer coisa!!!" with ssshake
 
 # game/script.rpy:24134
 translate pt_br botmar_8a026e85:
 
     # m "Anything...?" with sshake
-    m "" with sshake
+    m "Qualquer coisa...?" with sshake
 
 # game/script.rpy:24135
 translate pt_br botmar_5bbac489:
 
     # bot "ANYTHING!!!" with sshake
-    bot "" with sshake
+    bot "QUALQUER COISA!!!" with sshake
 
 # game/script.rpy:24136
 translate pt_br botmar_f7085cf3:
 
     # m "Okay... Only if you let me see your breasts whenever I want..." with ssshake
-    m "" with ssshake
+    m "Certo... Só se você deixar eu ver os seus peitos quando eu quiser..." with ssshake
 
 # game/script.rpy:24137
 translate pt_br botmar_fa444d83:
 
     # bot "W-What!? Nnnn..." with ssshake
-    bot "" with ssshake
+    bot "O-O quê!?" with ssshake
 
 # game/script.rpy:24138
 translate pt_br botmar_ba4d24f6:
 
     # m "Or I can turn it off..." with ssshake
-    m "" with ssshake
+    m "Ou então eu posso desligar..." with ssshake
 
 # game/script.rpy:24139
 translate pt_br botmar_85f7d4ed:
 
     # bot "Ahh! No! No don't turn it off!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Não! Não desliga!" with ssshake
 
 # game/script.rpy:24140
 translate pt_br botmar_2e41320e:
 
     # bot "Nnnn! Okay! Whenever you want! You can see my breasts whenever you want!" with ssshake
-    bot "" with ssshake
+    bot "Nnnn! Tá bom! o que você quiser! Você pode ver meus peitos quando você quiser!" with ssshake
 
 # game/script.rpy:24141
 translate pt_br botmar_135dd6ea:
 
     # m "Good girl..." with ssshake
-    m "" with ssshake
+    m "Boa menina..." with ssshake
 
 # game/script.rpy:24144
 translate pt_br botmar_aebf690d:
 
     # bot "NNNGGHKK!!!" with sshake
-    bot "" with sshake
+    bot "NNNGGHKK!!!" with sshake
 
 # game/script.rpy:24146
 translate pt_br botmar_c7ee61f7:
 
     # bot "AHHHHH!!!" with sshake
-    bot "" with sshake
+    bot "AHHHHH!!!" with sshake
 
 # game/script.rpy:24147
 translate pt_br botmar_d0982fd5:
 
     # bot "SO GOOD!" with sshake
-    bot "" with sshake
+    bot "TÃO BOM!" with sshake
 
 # game/script.rpy:24150
 translate pt_br botmar_43c40e5e:
 
     # bot "HARDER! WANT IT HARDER!" with sshake
-    bot "" with sshake
+    bot "MAIS FORTE! EU QUERO ISSO MAIS FORTE!" with sshake
 
 # game/script.rpy:24151
 translate pt_br botmar_8093ead2:
 
     # m "It can't go any harder than that..." with sshake
-    m "" with sshake
+    m "Isso não pode ficar mais forte do que está agora..." with sshake
 
 # game/script.rpy:24152
 translate pt_br botmar_c55511d3:
 
     # bot "NOO! HARDER! PLEASE! AH!" with sshake
-    bot "" with sshake
+    bot "NÃOO! MAIS FORTE! POR FAVOR! AH!" with sshake
 
 # game/script.rpy:24155
 translate pt_br botmar_408a653f:
 
     # bot "AH! HAHH!! NNNN!!! AHH!!! MMMM!!!" with sshake
-    bot "" with sshake
+    bot "AH! HAHH!! NNNN!!! AHH!!! MMMM!!!" with sshake
 
 # game/script.rpy:24156
 translate pt_br botmar_c7d58101:
 
     # m "You're really enjoying this, huh?" with sshake
-    m "" with sshake
+    m "Você está gostando mesmo disso, hein?" with sshake
 
 # game/script.rpy:24157
 translate pt_br botmar_92fffa30:
 
     # bot "YES! THANK YOU MARIA! YESS!!!" with sshake
-    bot "" with sshake
+    bot "SIM! MUITO OBRIGADA MARIA! ISSOO!!!" with sshake
 
 # game/script.rpy:24158
 translate pt_br botmar_ad7e237a:
 
     # m "Of course! I can do this whenever you want because we're such good friends..." with sshake
-    m "" with sshake
+    m "Sem problemas! Eu posso fazer isso quando você quiser, já que somos amigas tão boas..." with sshake
 
 # game/script.rpy:24159
 translate pt_br botmar_5d84800e:
 
     # bot "YES! FRIENDS!!!" with sshake
-    bot "" with sshake
+    bot "SIM! AMIGAS!!!" with sshake
 
 # game/script.rpy:24160
 translate pt_br botmar_9a3f2139:
 
     # m "Mmmmmm... good girl... Are you going to cum soon?" with sshake
-    m "" with sshake
+    m "Mmmmmm... boa menina... Você vai gozar logo?" with sshake
 
 # game/script.rpy:24161
 translate pt_br botmar_4906cd0a:
 
     # bot "YES! YESSS!!! GOING TO CUM!" with sshake
-    bot "" with sshake
+    bot "SIM! SIIIM!!! EU VOU GOZAR!" with sshake
 
 # game/script.rpy:24165
 translate pt_br botmar_f79f028e:
 
     # bot "NNNNNNNNNNNN!!!!!!!" with sshake
-    bot "" with sshake
+    bot "NNNNNNNNNNNN!!!!!!!" with sshake
 
 # game/script.rpy:24166
 translate pt_br botmar_3ba866a4:
 
     # bot "AHHHHHHHH!!!!" with sshake
-    bot "" with sshake
+    bot "AHHHHHHHH!!!!" with sshake
 
 # game/script.rpy:24167
 translate pt_br botmar_d2c31f58:
 
     # bot "CUMMINGGGGGGGGGG!!!!!!!" with sshake
-    bot "" with sshake
+    bot "GOZANDOOOOOOOOOO!!!!!!!" with sshake
 
 # game/script.rpy:24171
 translate pt_br botmar_9d7addd4:
 
     # bot "Ahhh... hahhhhh... ahhh... mmmm...."
-    bot ""
+    bot "Ahhh... hahhhhh... ahhh... mmmm...."
 
 # game/script.rpy:24172
 translate pt_br botmar_ab96bac4:
 
     # bot "M-Maria... you made me cum... I don't think... I've ever cum before..."
-    bot ""
+    bot "M-Maria... você me fez gozar... eu acho que... nunca tinha gozado antes..."
 
 # game/script.rpy:24173
 translate pt_br botmar_646f0a21:
 
     # m "Really? Well that's a shame... you can always come to me if you need help with that..."
-    m ""
+    m "É mesmo? Isso é bem chato... você sempre pode vir até mim quando precisar de ajuda com isso..."
 
 # game/script.rpy:24174
 translate pt_br botmar_808a697c:
 
     # bot "Mmmm... okay..."
-    bot "Mmmm..."
+    bot "Mmmm... tudo bem..."
 
 # game/script.rpy:24178
 translate pt_br botmar_df4c8f31:
 
     # c "Maria, what are you doing?"
-    c ""
+    c "Maria, o que você está fazendo?"
 
 # game/script.rpy:24180
 translate pt_br botmar_ffa9c1ff:
 
     # m "[name]! I was just showing [botname] something..."
-    m ""
+    m "[name]! Eu estava só mostrano uma coisa pra [botname]..."
 
 # game/script.rpy:24181
 translate pt_br botmar_f5a824cb:
 
     # c "Get out of here..."
-    c ""
+    c "Sai daqui logo..."
 
 # game/script.rpy:24182
 translate pt_br botmar_390c7036:
 
     # m "O-Okay!"
-    m ""
+    m "T-Tudo bem!"
 
 # game/script.rpy:24191
 translate pt_br botmar3_f014fe1c:
 
     # m "[botname]... I need to talk to you..."
-    m ""
+    m "[botname]... Eu preciso falar com você..."
 
 # game/script.rpy:24192
 translate pt_br botmar3_d6000258:
 
     # bot "Maria, are you okay?"
-    bot ""
+    bot "Maria, está tudo bem?"
 
 # game/script.rpy:24193
 translate pt_br botmar3_d4812615:
 
     # m "Sort of..."
-    m ""
+    m "Mais ou menos..."
 
 # game/script.rpy:24194
 translate pt_br botmar3_23879ed6:
 
     # bot "What happened?"
-    bot ""
+    bot "O que aconteceu?"
 
 # game/script.rpy:24196
 translate pt_br botmar3_b111cf84:
 
     # m "You! I can't stop thinking about you! Your juices... got me addicted!"
-    m ""
+    m "Você! Eu não consigo para de pensar em você! Os seus sucos... me deixaram viciada!"
 
 # game/script.rpy:24197
 translate pt_br botmar3_a14cfa44:
 
     # bot "Oh no... I warned you..."
-    bot ""
+    bot "Ah não... Eu te avisei..."
 
 # game/script.rpy:24199
 translate pt_br botmar3_b3dc3156:
 
     # m "I want to redeem a favor! I want to lick your pussy!"
-    m ""
+    m "Quero te pagar um favor! Quero lamber sua boceta!"
 
 # game/script.rpy:24202
 translate pt_br botmar3_f73a44a4:
 
     # bot "But that's... lewd..."
-    bot ""
+    bot "Mas isso é... indecente..."
 
 # game/script.rpy:24203
 translate pt_br botmar3_871e59a1:
 
     # m "I don't care! I need to drink your juices! We're friends, right?"
-    m ""
+    m "Eu não ligo! Eu preciso beber os seus sucos! Nós somos amigas, não somos?"
 
 # game/script.rpy:24204
 translate pt_br botmar3_fcdcc866:
 
     # bot "I... I guess we are..."
-    bot ""
+    bot "Eu... Eu acho que sim...."
 
 # game/script.rpy:24205
 translate pt_br botmar3_3f942376:
 
     # m "Then let's 69! I'll make you feel good and you'll make me feel good!"
-    m ""
+    m "Então vamos fazer um 69! "Eu vou fazer você se sentir bem e você vai fazer eu me sentir bem!
 
 # game/script.rpy:24206
 translate pt_br botmar3_e49e3e2b:
 
     # bot "But... I would have to take my mask off for that... I can't do that!"
-    bot ""
+    bot "Mas... Eu iria precisar tirar a minha mácara pra isso... Eu não posso fazer isso!"
 
 # game/script.rpy:24207
 translate pt_br botmar3_d737c7d1:
 
     # m "Why not? You don't have a pussy where your mouth should be, do you?"
-    m ""
+    m "Por que não? Você não tem uma boceta no lugar da sua boca, tem?"
 
 # game/script.rpy:24208
 translate pt_br botmar3_9c408391:
 
     # bot "No... It's a normal mouth... I think..."
-    bot ""
+    bot "Não... É uma boca normal... Eu acho..."
 
 # game/script.rpy:24209
 translate pt_br botmar3_22d62950:
 
     # m "Then I'll just lick you and you can sit back! As long as I lick you I don't care!"
-    m ""
+    m "Então eu vou lamber você e você podeficar só sentada! Desde que eu te lamba, eu não ligo!"
 
 # game/script.rpy:24210
 translate pt_br botmar3_92d13e5e:
 
     # bot "Will it feel good?"
-    bot ""
+    bot "Isso vai fazer eu me sentir bem?"
 
 # game/script.rpy:24211
 translate pt_br botmar3_6b6be7cd:
 
     # m "Yes! Of course! I'll make sure!"
-    m ""
+    m "Sim! É claro! Eu vou garantir isso!"
 
 # game/script.rpy:24212
 translate pt_br botmar3_c18243b2:
 
     # bot "Well... okay then."
-    bot ""
+    bot "Bem... então tá bom."
 
 # game/script.rpy:24213
 translate pt_br botmar3_2847be15:
 
     # m "Good! Get your boobs big! Please!"
-    m ""
+    m "Boa! Deixe os seus peitos grandes! Por favor!"
 
 # game/script.rpy:24214
 translate pt_br botmar3_0cebebf0:
 
     # bot "...Okay"
-    bot ""
+    bot "...Tá bom"
 
 # game/script.rpy:24216
 translate pt_br botmar3_aa45e74f:
 
     # m "Ahhh... Take them out! Get undressed! Hurry!"
-    m ""
+    m "Ahhh... Põe eles pra fora! Fica pelada! Rapido!"
 
 # game/script.rpy:24218
 translate pt_br botmar3_f85a79ea:
 
     # bot "Maria... I'm nervous..."
-    bot ""
+    bot "Maria... Eu estou nervosa..."
 
 # game/script.rpy:24219
 translate pt_br botmar3_d37244bf:
 
     # m "Don't worry, I'll get you wet first so you can leak more!"
-    m ""
+    m "Não se preocupe, vou molhar você primeiro para que você possa vazar mais!"
 
 # game/script.rpy:24220
 translate pt_br botmar3_b031ea84:
 
     # bot "Maria I don't want you to get too addicted..."
-    bot ""
+    bot "Maria, eu não quero que você fique muito viciada..."
 
 # game/script.rpy:24221
 translate pt_br botmar3_425db447:
 
     # m "I won't! This is the last time, trust me!"
-    m ""
+    m "Eu não vou! Essa vai ser a última vez, eu prometo!"
 
 # game/script.rpy:24222
 translate pt_br botmar3_975b99e7:
 
     # bot "Okay..."
-    bot ""
+    bot "Tá bom..."
 
 # game/script.rpy:24224
 translate pt_br botmar3_25953ec6:
 
     # bot "Nnn! Your fingers!"
-    bot ""
+    bot "Nnn! Os seus dedos!"
 
 # game/script.rpy:24226
 translate pt_br botmar3_8df49064:
 
     # bot "Ah! Too fast!"
-    bot ""
+    bot "Ah! Rápido demais!"
 
 # game/script.rpy:24227
 translate pt_br botmar3_1aa75d8d:
 
     # m "Your juices will come out faster if I go faster!"
-    m ""
+    m "Os seus sucos vão sair mais rápido se eu for mais rápida!"
 
 # game/script.rpy:24228
 translate pt_br botmar3_0505a1f0:
 
     # bot "Nnn!!!"
-    bot ""
+    bot "Nnn!!!"
 
 # game/script.rpy:24231
 translate pt_br botmar3_c2f311d6:
 
     # bot "Gggh! Where are you hitting?" with ssshake
-    bot "" with ssshake
+    bot "Gggh! Aonde você está batendo?" with ssshake
 
 # game/script.rpy:24232
 translate pt_br botmar3_7a52d9aa:
 
     # bot "Nnngg! It feels good!" with ssshake
-    bot "" with ssshake
+    bot "Nnngg! Isso é gostoso!" with ssshake
 
 # game/script.rpy:24233
 translate pt_br botmar3_44dcd4d8:
 
     # m "It's your g-spot! It'll make you wetter!"
-    m ""
+    m "É o seu ponto-g! Isso vai deixar você mais molhada!"
 
 # game/script.rpy:24234
 translate pt_br botmar3_34228370:
 
     # bot "Ahhh~"
-    bot ""
+    bot "Ahhh~"
 
 # game/script.rpy:24238
 translate pt_br botmar3_8a0f07bf:
 
     # bot "Nn! You stopped!"
-    bot ""
+    bot "Nn! Você parou!"
 
 # game/script.rpy:24239
 translate pt_br botmar3_1d5323c8:
 
     # m "You're wet! Ah~ I'm going to lick now!"
-    m ""
+    m "Você está molhada! Ah~ Eu vou começar a lamber agora!"
 
 # game/script.rpy:24241
 translate pt_br botmar3_532c2159:
 
     # bot "Ahhh! Your tongue feels weird!"
-    bot ""
+    bot "Ahhh! A sua língua parece estranha!"
 
 # game/script.rpy:24242
 translate pt_br botmar3_8a3f20ce:
 
     # m "Mmmph, Nnggh... Doesh it feel good?"
-    m ""
+    m "Mmmph, Nnggh... Isso não é gostoso?"
 
 # game/script.rpy:24243
 translate pt_br botmar3_7ad02119:
 
     # bot "Ah, I don't know yet!"
-    bot ""
+    bot "Ah, eu não sei ainda!"
 
 # game/script.rpy:24244
 translate pt_br botmar3_3cf64f07:
 
     # m "Mm, Nng, Mmph... Sho tashty!!!"
-    m ""
+    m "Mm, Nng, Mmph... Tão goxtoso!!!"
 
 # game/script.rpy:24245
 translate pt_br botmar3_c22ac667:
 
     # bot "Mmmm... Maria..."
-    bot "Mmmm..."
+    bot "Mmmm... Maria..."
 
 # game/script.rpy:24249
 translate pt_br botmar3_c4fc9811:
 
     # m "NNNNNGGG!?" with ssshake
-    m "" with ssshake
+    m "NNNNNGGG!?" with ssshake
 
 # game/script.rpy:24250
 translate pt_br botmar3_f24a38ee:
 
     # bot "[botown]!"
-    bot ""
+    bot "[botown]!"
 
 # game/script.rpy:24251
 translate pt_br botmar3_ba827e3f:
 
     # m "[name]!? What are you-"
-    m ""
+    m "[name]!? O que você-"
 
 # game/script.rpy:24253
 translate pt_br botmar3_4b5d817f:
 
     # m "Nnnngggg..."
-    m ""
+    m "Nnnngggg..."
 
 # game/script.rpy:24254
 translate pt_br botmar3_d572b560:
 
     # bot "[botown]... did you come to feel good with us?"
-    bot ""
+    bot "[botown]... Você veio se sentir bem com a gente?"
 
 # game/script.rpy:24255
 translate pt_br botmar3_55e39aea:
 
     # m "Ohhh fuuuckkk!"
-    m ""
+    m "Ahhh pooorraaa!"
 
 # game/script.rpy:24260
 translate pt_br botmar3_433ed44b:
 
     # bot "Ahh, it feels better with you here [botown]!!!"
-    bot ""
+    bot "Ahh, isso é melhor com você aqui [botown]!!!"
 
 # game/script.rpy:24261
 translate pt_br botmar3_76767b1a:
 
     # m "F-FUCK! It's too much! I feel sooo goood!"
-    m ""
+    m "P-PORRA! Isso é demais! Eu me sinto tããão beeem!"
 
 # game/script.rpy:24262
 translate pt_br botmar3_c453346a:
 
     # m "I'm gonna cum!!!"
-    m ""
+    m "Eu vou gozar!!!"
 
 # game/script.rpy:24263
 translate pt_br botmar3_7debfba1:
 
     # bot "Me too! Ahhh!!! Ahhh!!!!"
-    bot ""
+    bot "Eu também! Ahhh!!! Ahhh!!!"
 
 # game/script.rpy:24266
 translate pt_br botmar3_f35723c6:
 
     # m "GGGGGGHHHK!!" with ssshake
-    m "" with ssshake
+    m "GGGGGGHHHK!!" with ssshake
 
 # game/script.rpy:24267
 translate pt_br botmar3_e7a78735:
 
     # m "Mmmmnngg!!!" with ssshake
-    m "" with ssshake
+    m "Mmmmnngg!!!" with ssshake
 
 # game/script.rpy:24268
 translate pt_br botmar3_d1500afc:
 
     # bot "AHHH!!!" with ssshake
-    bot "" with ssshake
+    bot "AHHH!!!" with ssshake
 
 # game/script.rpy:24269
 translate pt_br botmar3_784a8697:
 
     # bot "I'M CUMMINGGGG!!!" with ssshake
-    bot "" with ssshake
+    bot "EU ESTOU GOZANDOOOO!!!" with ssshake
 
 # game/script.rpy:24271
 translate pt_br botmar3_bd4f7d85:
 
     # m "Gggghh!" with ssshake
-    m "" with ssshake
+    m "Gggghh!" with ssshake
 
 # game/script.rpy:24272
 translate pt_br botmar3_10996a4b:
 
     # m "I'm being... filled up!!!" with ssshake
-    m "" with ssshake
+    m "Eu estou... sendo preenchida!!!" with ssshake
 
 # game/script.rpy:24273
 translate pt_br botmar3_8445d765:
 
     # m "Ahhh!!!" with ssshake
-    m "" with ssshake
+    m "Ahhh!!!" with ssshake
 
 # game/script.rpy:24275
 translate pt_br botmar3_4ed52c9e:
 
     # m "Mmmmm..."
-    m ""
+    m "Mmmmm..."
 
 # game/script.rpy:24276
 translate pt_br botmar3_8acfa995:
 
     # bot "Ahhh... Hahhh.... Nnnn... That felt so good..."
-    bot ""
+    bot "Ahhh... Hahhh.... Nnnn... Isso foi tão bom..."
 
 # game/script.rpy:24277
 translate pt_br botmar3_d3c04a49:
 
     # m "Yeah... Thanks [name]..."
-    m ""
+    m "É mesmo... Obrigada [name]..."
 
 # game/script.rpy:24281
 translate pt_br botmar3_e38b6294:
 
     # bot "Ahhh... Maria it feels good!"
-    bot ""
+    bot "Ahhh... Maria, isso é bom!"
 
 # game/script.rpy:24282
 translate pt_br botmar3_22d5b8f8:
 
     # m "Mmm, Mmmhmm... Cum for me so I can taste more juices!"
-    m ""
+    m "Mmm, Mmmhmm... Goza pra mim para eu provar mais sucos!"
 
 # game/script.rpy:24283
 translate pt_br botmar3_5ea9678a:
 
     # bot "Ahhh, Ahh!!"
-    bot ""
+    bot "Ahhh, Ahh!!"
 
 # game/script.rpy:24284
 translate pt_br botmar3_002d696c:
 
     # bot "I'm... I'm cumming!!!"
-    bot ""
+    bot "Eu estou... Eu estou gozando!!!"
 
 # game/script.rpy:24286
 translate pt_br botmar3_07d2510d:
 
     # bot "Ahhh!!!"
-    bot ""
+    bot "Ahhh!!!"
 
 # game/script.rpy:24287
 translate pt_br botmar3_4f680296:
 
     # m "Yesh! Yessshh!!!"
-    m ""
+    m "Issho! Isssshhoo!!!"
 
 # game/script.rpy:24288
 translate pt_br botmar3_8f196afa:
 
     # m "Sho gooood!!!"
-    m ""
+    m "Tão boooom!!!"
 
 # game/script.rpy:24290
 translate pt_br botmar3_f0722202:
 
     # m "Mmmm... that was so good [botname]... Thank you..."
-    m "Mmmm..."
+    m "Mmmm... isso foi tão bom [botname]... Obrigada..."
 
 # game/script.rpy:24291
 translate pt_br botmar3_141e5679:
 
     # bot "You're welcome..."
-    bot ""
+    bot "De nada..."
 
 # game/script.rpy:24293
 translate pt_br botmar3_69600bf1:
 
     # c "Maria..."
-    c ""
+    c "Maria..."
 
 # game/script.rpy:24295
 translate pt_br botmar3_b20e29fe:
 
     # m "[name]! Where did you come from!?"
-    m ""
+    m "[name]! De onde você veio!?"
 
 # game/script.rpy:24296
 translate pt_br botmar3_3525e20a:
 
     # c "Get out..."
-    c ""
+    c "Sai daqui..."
 
 # game/script.rpy:24297
 translate pt_br botmar3_36c170be:
 
     # m "Sorry!"
-    m ""
+    m "Desculpa!"
 
 # game/script.rpy:24305
 translate pt_br botmar2_4ae213b4:
 
     # bot "Maria... you're in my room again..."
-    bot ""
+    bot "Maria... você está no meu quarto de novo..."
 
 # game/script.rpy:24306
 translate pt_br botmar2_ebfb9a4a:
 
     # m "That's right! And I brought another gift!"
-    m ""
+    m "Eu estou sim! E eu comprei outro presente para você!"
 
 # game/script.rpy:24307
 translate pt_br botmar2_da7f27da:
 
     # bot "Really?"
-    bot ""
+    bot "Sério?"
 
 # game/script.rpy:24309
 translate pt_br botmar2_619f5b47:
 
     # m "Of course! Here it is!"
-    m ""
+    m "É claro! Aqui está!"
 
 # game/script.rpy:24310
 translate pt_br botmar2_27f0b825:
 
     # bot "W-What is it?"
-    bot ""
+    bot "O-O que é isso?"
 
 # game/script.rpy:24311
 translate pt_br botmar2_8adcba53:
 
     # m "They're anal beads!"
-    m ""
+    m "Essas são bolas anais!"
 
 # game/script.rpy:24312
 translate pt_br botmar2_00f4e157:
 
     # bot "Y-You mean..."
-    bot ""
+    bot "V-Você quer dizer..."
 
 # game/script.rpy:24313
 translate pt_br botmar2_645f29e4:
 
     # m "Yup! They go in your butt..."
-    m ""
+    m "Isso! Elas vão na sua bunda..."
 
 # game/script.rpy:24314
 translate pt_br botmar2_41f1c606:
 
     # bot "Why would I want anything in my butt?"
-    bot ""
+    bot "Por que eu iria querer qualquer coisa na minha bunda?"
 
 # game/script.rpy:24315
 translate pt_br botmar2_1c4f1595:
 
     # m "Because it would feel good!"
-    m ""
+    m "Porque você acharia gostoso!"
 
 # game/script.rpy:24318
 translate pt_br botmar2_5e0a56e0:
 
     # bot "I don't know... Have you ever tried it out before?"
-    bot ""
+    bot "Eu não sei... Você já tentou fazer isso antes?"
 
 # game/script.rpy:24319
 translate pt_br botmar2_28ada9dc:
 
     # m "I have... trust me! It'll feel really good..."
-    m ""
+    m "Já sim... confia em mim! Você vai gostar bastante..."
 
 # game/script.rpy:24320
 translate pt_br botmar2_124ed9c9:
 
     # bot "I... I guess... I wouldn't mind trying it out..."
-    bot ""
+    bot "Eu... Eu acho... . Eu não me importaria de experimentar...."
 
 # game/script.rpy:24321
 translate pt_br botmar2_8ad54bc3:
 
     # bot "I guess that's what my butt is for anyway..."
-    bot ""
+    bot "Acho que é pra isso que a minha bunda foi feita, de qualquer jeito..."
 
 # game/script.rpy:24323
 translate pt_br botmar2_077ad8e9:
 
     # m "Wow... you have such a nice ass [botname]... And that pussy..."
-    m ""
+    m "Uau... você tem uma bunda tão noa [botname]... E essa boceta..."
 
 # game/script.rpy:24324
 translate pt_br botmar2_14d9c968:
 
     # bot "T-Thank you..."
-    bot ""
+    bot "O-Obrigada..."
 
 # game/script.rpy:24327
 translate pt_br botmar2_9ecb088e:
 
     # bot "Ah!"
-    bot ""
+    bot "Ah!"
 
 # game/script.rpy:24328
 translate pt_br botmar2_8eb353e8:
 
     # bot "What was that for!?"
-    bot ""
+    bot "Para que foi isso!?"
 
 # game/script.rpy:24329
 translate pt_br botmar2_148476a1:
 
     # m "I'm getting your ass sensitive... It'll feel so much better."
-    m ""
+    m "Eu estou deixando a sua bunda mais sensivel... Você vai sentir bem melhor assim."
 
 # game/script.rpy:24330
 translate pt_br botmar2_13b92cd2:
 
     # bot "Nnnn... But it hurts..."
-    bot ""
+    bot "Nnnn... Mas isso dói..."
 
 # game/script.rpy:24331
 translate pt_br botmar2_4f46d27d:
 
     # m "It'll be worth it... trust me..."
-    m ""
+    m "Vai valer a pena... eu prometo..."
 
 # game/script.rpy:24332
 translate pt_br botmar2_e92e4b8a:
 
     # bot "Mmmmm... Okay..."
-    bot ""
+    bot "Mmmmm... Tudo bem..."
 
 # game/script.rpy:24334
 translate pt_br botmar2_2c27434c:
 
     # bot "Mm!!!"
-    bot ""
+    bot "Mm!!!"
 
 # game/script.rpy:24338
 translate pt_br botmar2_71e00e3d:
 
     # m "Okay... I think you're ready for it."
-    m ""
+    m "Beleza... Acho que você está pronta pra isso..."
 
 # game/script.rpy:24339
 translate pt_br botmar2_6e522173:
 
     # bot "I'm nervous... but... I want to feel good... like you said..."
-    bot ""
+    bot "Eu estou nervosa... mas... Eu quero me sentir bem... como você disse..."
 
 # game/script.rpy:24340
 translate pt_br botmar2_096da49b:
 
     # m "Okay, here I go."
-    m ""
+    m "Certo, aqui vou eu."
 
 # game/script.rpy:24342
 translate pt_br botmar2_1c863bc7:
 
     # bot "Nnn!" with ssshake
-    bot "" with ssshake
+    bot "Nnn!" with ssshake
 
 # game/script.rpy:24343
 translate pt_br botmar2_db113a90:
 
     # m "One..."
-    m ""
+    m "Um..."
 
 # game/script.rpy:24345
 translate pt_br botmar2_0e9cfcfb:
 
     # bot "Mmm!"
-    bot ""
+    bot "Mmm!"
 
 # game/script.rpy:24346
 translate pt_br botmar2_2e3b78ee:
 
     # m "Two... And..."
-    m ""
+    m "Dois... E..."
 
 # game/script.rpy:24348
 translate pt_br botmar2_9ecb088e_1:
 
     # bot "Ah!"
-    bot ""
+    bot "Ah!"
 
 # game/script.rpy:24349
 translate pt_br botmar2_e863e5e8:
 
     # m "Three!"
-    m ""
+    m "Três!"
 
 # game/script.rpy:24350
 translate pt_br botmar2_03330dc7:
 
     # bot "It feels weird..."
-    bot ""
+    bot "Isso é estranho..."
 
 # game/script.rpy:24353
 translate pt_br botmar2_223c9d2b:
 
     # bot "Ahhh... my pussy is leaking..."
-    bot ""
+    bot "Ahhh... a minha boceta está vazando..."
 
 # game/script.rpy:24356
 translate pt_br botmar2_914f755e:
 
     # m "Ohhh, really?"
-    m ""
+    m "Ahhh, é mesmo?"
 
 # game/script.rpy:24361
 translate pt_br botmar2_0510cf2b:
@@ -57231,175 +57231,175 @@ translate pt_br botmar2_0510cf2b:
 translate pt_br botmar2_3c38ab2e:
 
     # m "Wow! This tastes amazing! It's actually... really... good..."
-    m ""
+    m "Uau! Isso é gostoso demais! Na verdade isso é... realmente... bom..."
 
 # game/script.rpy:24363
 translate pt_br botmar2_0f2d66cb:
 
     # bot "Y-Yes... it can be addictive too... Don't consume too much..."
-    bot ""
+    bot "S-Sim... Mas também pode ser viciante... Não beba demais..."
 
 # game/script.rpy:24364
 translate pt_br botmar2_43684306:
 
     # bot "Nnn... my butt is... aching..."
-    bot ""
+    bot "Nnn... a minha bunda está... dolorida..."
 
 # game/script.rpy:24365
 translate pt_br botmar2_a3c839d7:
 
     # m "Oh, right... Let's fix that..."
-    m ""
+    m "Ah, certo... Vamos dar um jeito nisso..."
 
 # game/script.rpy:24368
 translate pt_br botmar2_97a07a2c:
 
     # bot "Ahhhh... it feels... better... Ah!"
-    bot ""
+    bot "Ahhhh... agora está... melhor... Ah!"
 
 # game/script.rpy:24369
 translate pt_br botmar2_ccdb37fb:
 
     # bot "Nnng!"
-    bot ""
+    bot "Nnng!"
 
 # game/script.rpy:24372
 translate pt_br botmar2_bf36a1e0:
 
     # bot "My butt! Feels so funny!"
-    bot ""
+    bot "A minha bunda! Parece tão estranha!"
 
 # game/script.rpy:24373
 translate pt_br botmar2_9565ae63:
 
     # m "Does it feel good? Do you like it?"
-    m ""
+    m "Isso é bom? Você está gostando?"
 
 # game/script.rpy:24374
 translate pt_br botmar2_1101fe68:
 
     # bot "Urggh! Yes!"
-    bot ""
+    bot "Urggh! Sim!"
 
 # game/script.rpy:24375
 translate pt_br botmar2_f986b6b2:
 
     # bot "B-But! My... Pussy!"
-    bot ""
+    bot "M-Mas! A minha... boceta!"
 
 # game/script.rpy:24376
 translate pt_br botmar2_6a3f2020:
 
     # m "What's wrong?"
-    m ""
+    m "O que está errado?"
 
 # game/script.rpy:24377
 translate pt_br botmar2_3294a940:
 
     # bot "It feels funny! Needs to be touched!"
-    bot ""
+    bot "Ela parece estranha! Precisa ser tocada!"
 
 # game/script.rpy:24378
 translate pt_br botmar2_ba743829:
 
     # m "Oh, I've got something for that..."
-    m ""
+    m "Ah, Eu tenho uma coisa pra isso..."
 
 # game/script.rpy:24380
 translate pt_br botmar2_108c2aac:
 
     # bot "AHH!!! What is that!?" with ssshake
-    bot "" with ssshake
+    bot "AHH!!!! O que é isso!?" with ssshake
 
 # game/script.rpy:24381
 translate pt_br botmar2_801111e8:
 
     # m "An egg vibe, how does it feel?"
-    m ""
+    m "É um vibrador de ovo, o que você está sentindo?"
 
 # game/script.rpy:24382
 translate pt_br botmar2_c2d06513:
 
     # bot "Nnn! Really good!!!"
-    bot ""
+    bot "Nnn! Muito bem!!!"
 
 # game/script.rpy:24385
 translate pt_br botmar2_df0902ec:
 
     # bot "Ahh! Mmm!!! So good!!!!"
-    bot ""
+    bot "Ahh! Mmm!!! Tão bom!!!!"
 
 # game/script.rpy:24386
 translate pt_br botmar2_f530661d:
 
     # m "You really like it, don't you?"
-    m ""
+    m "Você gostou mesmo disso, não é?"
 
 # game/script.rpy:24387
 translate pt_br botmar2_1095bf7b:
 
     # bot "Yes! My holes! Feel so good!"
-    bot ""
+    bot "Sim! Os meus buracos! Se sentem tão bem!"
 
 # game/script.rpy:24390
 translate pt_br botmar2_54cca452:
 
     # bot "NNNN!!! Gonna... Cum!!!"
-    bot ""
+    bot "NNNN!!! Eu vou... gozar!!!"
 
 # game/script.rpy:24394
 translate pt_br botmar2_44dfef74:
 
     # bot "AHHHHHHHH!!!!!!"
-    bot ""
+    bot "AHHHHHHHH!!!!!!"
 
 # game/script.rpy:24398
 translate pt_br botmar2_6a09f24b:
 
     # bot "Urgh... Hnnnn... I... came..."
-    bot ""
+    bot "Urgh... Hnnnn... Eu... gozei..."
 
 # game/script.rpy:24399
 translate pt_br botmar2_3588de42:
 
     # m "Looks like you had a lot of fun..."
-    m ""
+    m "Parece que você se divertiu bastante..."
 
 # game/script.rpy:24400
 translate pt_br botmar2_f8258955:
 
     # bot "Ahhh... yes..."
-    bot ""
+    bot "Ahhh... isso...."
 
 # game/script.rpy:24401
 translate pt_br botmar2_dc624f12:
 
     # bot "Mmmmmmmmmmmmmmmmm..."
-    bot ""
+    bot "Mmmmmmmmmmmmmmmmm..."
 
 # game/script.rpy:24403
 translate pt_br botmar2_69600bf1:
 
     # c "Maria..."
-    c ""
+    c "Maria..."
 
 # game/script.rpy:24405
 translate pt_br botmar2_175594f0:
 
     # m "[name]!"
-    m ""
+    m "[name]!"
 
 # game/script.rpy:24406
 translate pt_br botmar2_f5a824cb:
 
     # c "Get out of here..."
-    c ""
+    c "Sai daqui logo..."
 
 # game/script.rpy:24407
 translate pt_br botmar2_cf7f12b2:
 
     # m "S-Sorry!"
-    m ""
+    m "D-Desculpa!"
 
 # game/script.rpy:24415
 translate pt_br botexlobbysex_8d973a5c:
