@@ -5286,7 +5286,7 @@ translate pt_br floor2menu_0e33a937:
 translate pt_br floor2menu_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me enche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:4739
 translate pt_br floor2menu_62e50ac5:
@@ -15699,7 +15699,7 @@ translate pt_br purpbun_anal_df197c1e:
 translate pt_br purpbun_anal_3590f4a5:
 
     # pbun "Cum in me, yes! Mmmh! I want you to fill up my tight slutty ass~! Yeah! Cum in me! Cum in your fucking whore!"
-    pbun "Goza em mim, sim! Mmmh! Eeuquero que você deixe a minha bunda vadia toda cheia~! Isso! Goza em mim! Goza na sua puda do caralho!"
+    pbun "Goza em mim, sim! Mmmh! Eu quero que você deixe a minha bunda safada toda preenchida~! Isso! Goza em mim! Goza na sua puda do caralho!"
 
 # game/script.rpy:9540
 translate pt_br purpbun_anal_874b8ad0:
@@ -15987,7 +15987,7 @@ translate pt_br redbun_anal_54ab29be:
 translate pt_br redbun_anal_5d804517:
 
     # rbun "Hmmmm! Haaah! Aaah...! Fuck... you filled me up, baby... thank you~"
-    rbun "HMMMM! Haaah! Aaah...! Porra... você me encheu toda bebê... obrigada~"
+    rbun "HMMMM! Haaah! Aaah...! Porra... você me preencheu toda bebê... obrigada~"
 
 # game/script.rpy:9672
 translate pt_br redbun_anal_cd9c061c:
@@ -16234,13 +16234,13 @@ translate pt_br bluebun_sex_98ff11e9:
 translate pt_br bluebun_sex_f5d74b11:
 
     # bbun "Yeah, fill me up Daddy!" with ssshake
-    bbun "Isso, me deixa cheinha Papai!" with ssshake
+    bbun "Isso, me preenche toda Papai!" with ssshake
 
 # game/script.rpy:9780
 translate pt_br bluebun_sex_7b97795a:
 
     # bbun "Yeah, fill me up!" with ssshake
-    bbun "Isso, me enche!" with ssshake
+    bbun "Isso, me preenche toda!" with ssshake
 
 # game/script.rpy:9782
 translate pt_br bluebun_sex_ce5b847e:
@@ -16330,7 +16330,7 @@ translate pt_br bluebun_anal_51790c10:
 translate pt_br bluebun_anal_fc57fe40:
 
     # bbun "Yes, fill my ass~!" with ssshake
-    bbun "Sim, enche a minha buda~" with ssshake
+    bbun "Sim, preenche a minha buda~" with ssshake
 
 # game/script.rpy:9821
 translate pt_br bluebun_anal_68e7da87:
@@ -23566,7 +23566,7 @@ translate pt_br shower_869aa8a5:
 translate pt_br shower_2df1d428:
 
     # f "Nnn! You're filling my pussy up [name]! Yes, yes!" with ssshake
-    f "Nnn! Você está enchendo minha boceta toda [name]! Isso, isso!" with ssshake
+    f "Nnn! Você está preenchendo minha boceta toda [name]! Isso, isso!" with ssshake
 
 # game/script.rpy:12483
 translate pt_br shower_16939a2d:
@@ -23866,7 +23866,7 @@ translate pt_br shower_693a9159:
 translate pt_br shower_b428a3b9:
 
     # l "[linoname], are you going to cum inside? Please fill me up! Don't stop, just keep fucking me!"
-    l "[linoname], você vai gozar dentro? Por favor me encha toda!! Não para, só continua me fodendo!"
+    l "[linoname], você vai gozar dentro? Por favor me preenche toda!! Não para, só continua me fodendo!"
 
 # game/script.rpy:12665
 translate pt_br shower_111495a6:
@@ -23884,7 +23884,7 @@ translate pt_br shower_45c92196:
 translate pt_br shower_ce1bb851:
 
     # l "Mmmmn! You're filling me up so much, [linoname]!" with ssshake
-    l "Mmmmn! Você está me enchendo tanton [linoname]!" with ssshake
+    l "Mmmmn! Você está me preenchendo tanto [linoname]!" with ssshake
 
 # game/script.rpy:12669
 translate pt_br shower_4e818923:
@@ -51567,7 +51567,7 @@ translate pt_br botmishum_cd6bc73b:
 translate pt_br botmishum_4f7d0adc:
 
     # bot "Ah! Ahhh! Yes, please fill me up! I want to cum on your cock [botown]!"
-    bot "Ah! Ahhh! Isso, por favor me preencha! Eu quero gozar no seu pau [botown]!"
+    bot "Ah! Ahhh! Isso, por favor me preenche toda! Eu quero gozar no seu pau [botown]!"
 
 # game/script.rpy:22528
 translate pt_br botmishum_15cf1bf6:
@@ -51663,7 +51663,7 @@ translate pt_br botmisform_cd6bc73b:
 translate pt_br botmisform_4f7d0adc:
 
     # bot "Ah! Ahhh! Yes, please fill me up! I want to cum on your cock [botown]!"
-    bot "Ah! Ahhh! Isso, por favor me preencha! Eu quero gozar no seu pau [botown]!"
+    bot "Ah! Ahhh! Isso, por favor me preenche toda! Eu quero gozar no seu pau [botown]!"
 
 # game/script.rpy:22568
 translate pt_br botmisform_15cf1bf6:
@@ -52893,7 +52893,7 @@ translate pt_br banalss_0e33a937:
 translate pt_br banalss_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me preenche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:22941
 translate pt_br banalss_62e50ac5:
@@ -52977,7 +52977,7 @@ translate pt_br banal_0e33a937:
 translate pt_br banal_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me preenche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:22973
 translate pt_br banal_62e50ac5:
@@ -53061,7 +53061,7 @@ translate pt_br banalb_0e33a937:
 translate pt_br banalb_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me preenche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:23004
 translate pt_br banalb_62e50ac5:
@@ -53145,7 +53145,7 @@ translate pt_br banals_0e33a937:
 translate pt_br banals_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me preenche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:23035
 translate pt_br banals_62e50ac5:
@@ -53229,7 +53229,7 @@ translate pt_br banalvb_0e33a937:
 translate pt_br banalvb_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me preenche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:23066
 translate pt_br banalvb_62e50ac5:
@@ -53313,7 +53313,7 @@ translate pt_br banalvs_0e33a937:
 translate pt_br banalvs_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me preenche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:23097
 translate pt_br banalvs_62e50ac5:
@@ -53397,7 +53397,7 @@ translate pt_br banalv_0e33a937:
 translate pt_br banalv_9390cd46:
 
     # bot "Fill me up, [botown]!!!" with ssshake
-    bot "Me preenche, [botown]!!!" with ssshake
+    bot "Me preenche toda, [botown]!!!" with ssshake
 
 # game/script.rpy:23128
 translate pt_br banalv_62e50ac5:
@@ -57405,361 +57405,361 @@ translate pt_br botmar2_cf7f12b2:
 translate pt_br botexlobbysex_8d973a5c:
 
     # bot "Ahh..."
-    bot ""
+    bot "Ahh..."
 
 # game/script.rpy:24417
 translate pt_br botexlobbysex_d41aec22:
 
     # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
-    bot ""
+    bot "Hahh, [botown]! Eu amo fazer sexo com você! É tão gostoso!"
 
 # game/script.rpy:24418
 translate pt_br botexlobbysex_db848ba0:
 
     # bot "Ahh! Hahhh! Hnn! [botown]!"
-    bot ""
+    bot "Ahh! Hahhh! Hnn! [botown]!"
 
 # game/script.rpy:24419
 translate pt_br botexlobbysex_7772b045:
 
     # bot "Sex always feels so good with you! Ahh!"
-    bot ""
+    bot "Sexo é sempre tão bom com você! Ahh!"
 
 # game/script.rpy:24420
 translate pt_br botexlobbysex_e5523f60:
 
     # bot "Hnn! Hnng!"
-    bot ""
+    bot "Hnn! Hnng!"
 
 # game/script.rpy:24423
 translate pt_br botexlobbysex_197dfef1:
 
     # bot "[botown]! Cum inside me! I want to feel it!"
-    bot ""
+    bot "[botown]! Goza dentro de mim! Eu quero sentir isso!"
 
 # game/script.rpy:24424
 translate pt_br botexlobbysex_9391ed3a:
 
     # bot "Please! Please [botown]!"
-    bot ""
+    bot "Por favor! Por favor [botown]!"
 
 # game/script.rpy:24425
 translate pt_br botexlobbysex_dc90f030:
 
     # bot "Ahh! Ahh!!!"
-    bot ""
+    bot "Ahh! Ahh!!!"
 
 # game/script.rpy:24427
 translate pt_br botexlobbysex_434eefeb:
 
     # bot "Hnnn! You're filling me up [botown]!" with ssshake
-    bot "" with ssshake
+    bot "Hnnn! Você está me preenchendo toda [botown]!" with ssshake
 
 # game/script.rpy:24428
 translate pt_br botexlobbysex_0b96c038:
 
     # bot "Ghh!" with ssshake
-    bot "" with ssshake
+    bot "Ghh!" with ssshake
 
 # game/script.rpy:24429
 translate pt_br botexlobbysex_155798dc:
 
     # bot "Ahhh!" with ssshake
-    bot "" with ssshake
+    bot "Ahhh!" with ssshake
 
 # game/script.rpy:24431
 translate pt_br botexlobbysex_3b9820bf:
 
     # bot "Ahhh... [botown]..."
-    bot ""
+    bot "Ahhh... [botown]..."
 
 # game/script.rpy:24440
 translate pt_br botslutlobbysex_8d973a5c:
 
     # bot "Ahh..."
-    bot ""
+    bot "Ahh..."
 
 # game/script.rpy:24442
 translate pt_br botslutlobbysex_d41aec22:
 
     # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
-    bot ""
+    bot "Hahh, [botown]! Eu amo fazer sexo com você! É tão gostoso!"
 
 # game/script.rpy:24443
 translate pt_br botslutlobbysex_db848ba0:
 
     # bot "Ahh! Hahhh! Hnn! [botown]!"
-    bot ""
+    bot "Ahh! Hahhh! Hnn! [botown]!"
 
 # game/script.rpy:24444
 translate pt_br botslutlobbysex_7772b045:
 
     # bot "Sex always feels so good with you! Ahh!"
-    bot ""
+    bot "Sexo é sempre tão bom com você! Ahh!"
 
 # game/script.rpy:24445
 translate pt_br botslutlobbysex_e5523f60:
 
     # bot "Hnn! Hnng!"
-    bot ""
+    bot ""Hnn! Hnng!"
 
 # game/script.rpy:24448
 translate pt_br botslutlobbysex_197dfef1:
 
     # bot "[botown]! Cum inside me! I want to feel it!"
-    bot ""
+    bot "[botown]! Goza dentro de mim! Eu quero sentir isso!"
 
 # game/script.rpy:24449
 translate pt_br botslutlobbysex_9391ed3a:
 
     # bot "Please! Please [botown]!"
-    bot ""
+    bot "Por favor! Por favor [botown]!"
 
 # game/script.rpy:24450
 translate pt_br botslutlobbysex_dc90f030:
 
     # bot "Ahh! Ahh!!!"
-    bot ""
+    bot "Ahh! Ahh!!!"
 
 # game/script.rpy:24452
 translate pt_br botslutlobbysex_434eefeb:
 
     # bot "Hnnn! You're filling me up [botown]!" with ssshake
-    bot "" with ssshake
+    bot "Hnnn! Você está me preenchendo toda [botown]!" with ssshake
 
 # game/script.rpy:24453
 translate pt_br botslutlobbysex_0b96c038:
 
     # bot "Ghh!" with ssshake
-    bot "" with ssshake
+    bot "Ghh!" with ssshake
 
 # game/script.rpy:24454
 translate pt_br botslutlobbysex_155798dc:
 
     # bot "Ahhh!" with ssshake
-    bot "" with ssshake
+    bot "Ahhh!" with ssshake
 
 # game/script.rpy:24456
 translate pt_br botslutlobbysex_3b9820bf:
 
     # bot "Ahhh... [botown]..."
-    bot ""
+    bot "Ahhh... [botown]..."
 
 # game/script.rpy:24465
 translate pt_br botlobbysex_8d973a5c:
 
     # bot "Ahh..."
-    bot ""
+    bot "Ahh..."
 
 # game/script.rpy:24467
 translate pt_br botlobbysex_d41aec22:
 
     # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
-    bot ""
+    bot "Hahh, [botown]! Eu amo fazer sexo com você! É tão gostoso!"
 
 # game/script.rpy:24468
 translate pt_br botlobbysex_db848ba0:
 
     # bot "Ahh! Hahhh! Hnn! [botown]!"
-    bot ""
+    bot "Ahh! Hahhh! Hnn! [botown]!"
 
 # game/script.rpy:24469
 translate pt_br botlobbysex_7772b045:
 
     # bot "Sex always feels so good with you! Ahh!"
-    bot ""
+    bot "Sexo é sempre tão bom com você! Ahh!"
 
 # game/script.rpy:24470
 translate pt_br botlobbysex_e5523f60:
 
     # bot "Hnn! Hnng!"
-    bot ""
+    bot "Hnn! Hnng!"
 
 # game/script.rpy:24473
 translate pt_br botlobbysex_197dfef1:
 
     # bot "[botown]! Cum inside me! I want to feel it!"
-    bot ""
+    bot "[botown]! Goza dentro de mim! Eu quero sentir isso!"
 
 # game/script.rpy:24474
 translate pt_br botlobbysex_9391ed3a:
 
     # bot "Please! Please [botown]!"
-    bot ""
+    bot "Por favor! Por favor [botown]!"
 
 # game/script.rpy:24475
 translate pt_br botlobbysex_dc90f030:
 
     # bot "Ahh! Ahh!!!"
-    bot ""
+    bot "Ahh! Ahh!!!"
 
 # game/script.rpy:24477
 translate pt_br botlobbysex_434eefeb:
 
     # bot "Hnnn! You're filling me up [botown]!" with ssshake
-    bot "" with ssshake
+    bot "Hnnn! Você está me preenchendo toda [botown]!" with ssshake
 
 # game/script.rpy:24478
 translate pt_br botlobbysex_0b96c038:
 
     # bot "Ghh!" with ssshake
-    bot "" with ssshake
+    bot "Ghh!" with ssshake
 
 # game/script.rpy:24479
 translate pt_br botlobbysex_155798dc:
 
     # bot "Ahhh!" with ssshake
-    bot "" with ssshake
+    bot "Ahhh!" with ssshake
 
 # game/script.rpy:24481
 translate pt_br botlobbysex_3b9820bf:
 
     # bot "Ahhh... [botown]..."
-    bot ""
+    bot ""Ahhh... [botown]..."
 
 # game/script.rpy:24490
 translate pt_br bothumanlobbysex_8d973a5c:
 
     # bot "Ahh..."
-    bot ""
+    bot "Ahh..."
 
 # game/script.rpy:24492
 translate pt_br bothumanlobbysex_d41aec22:
 
     # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
-    bot ""
+    bot "Hahh, [botown]! Eu amo fazer sexo com você! É tão gostoso!"
 
 # game/script.rpy:24493
 translate pt_br bothumanlobbysex_db848ba0:
 
     # bot "Ahh! Hahhh! Hnn! [botown]!"
-    bot ""
+    bot "Ahh! Hahhh! Hnn! [botown]!"
 
 # game/script.rpy:24494
 translate pt_br bothumanlobbysex_7772b045:
 
     # bot "Sex always feels so good with you! Ahh!"
-    bot ""
+    bot "Sexo é sempre tão bom com você! Ahh!"
 
 # game/script.rpy:24495
 translate pt_br bothumanlobbysex_e5523f60:
 
     # bot "Hnn! Hnng!"
-    bot ""
+    bot "Hnn! Hnng!"
 
 # game/script.rpy:24498
 translate pt_br bothumanlobbysex_197dfef1:
 
     # bot "[botown]! Cum inside me! I want to feel it!"
-    bot ""
+    bot "[botown]! Goza dentro de mim! Eu quero sentir isso!"
 
 # game/script.rpy:24499
 translate pt_br bothumanlobbysex_9391ed3a:
 
     # bot "Please! Please [botown]!"
-    bot ""
+    bot "Por favor! Por favor [botown]!"
 
 # game/script.rpy:24500
 translate pt_br bothumanlobbysex_dc90f030:
 
     # bot "Ahh! Ahh!!!"
-    bot ""
+    bot "Ahh! Ahh!!!"
 
 # game/script.rpy:24502
 translate pt_br bothumanlobbysex_434eefeb:
 
     # bot "Hnnn! You're filling me up [botown]!" with ssshake
-    bot "" with ssshake
+    bot "Hnnn! Você está me preenchendo toda [botown]!" with ssshake
 
 # game/script.rpy:24503
 translate pt_br bothumanlobbysex_0b96c038:
 
     # bot "Ghh!" with ssshake
-    bot "" with ssshake
+    bot "Ghh!" with ssshake
 
 # game/script.rpy:24504
 translate pt_br bothumanlobbysex_155798dc:
 
     # bot "Ahhh!" with ssshake
-    bot "" with ssshake
+    bot "Ahhh!" with ssshake
 
 # game/script.rpy:24505
 translate pt_br bothumanlobbysex_3b9820bf:
 
     # bot "Ahhh... [botown]..."
-    bot ""
+    bot "Ahhh... [botown]..."
 
 # game/script.rpy:24514
 translate pt_br botsublobbysex_8d973a5c:
 
     # bot "Ahh..."
-    bot ""
+    bot "Ahh..."
 
 # game/script.rpy:24516
 translate pt_br botsublobbysex_d41aec22:
 
     # bot "Hahh, [botown]! I love having sex with you! It feels so good!"
-    bot ""
+    bot "Hahh, [botown]! Eu amo fazer sexo com você! É tão gostoso!"
 
 # game/script.rpy:24517
 translate pt_br botsublobbysex_db848ba0:
 
     # bot "Ahh! Hahhh! Hnn! [botown]!"
-    bot ""
+    bot "Ahh! Hahhh! Hnn! [botown]!"
 
 # game/script.rpy:24518
 translate pt_br botsublobbysex_7772b045:
 
     # bot "Sex always feels so good with you! Ahh!"
-    bot ""
+    bot "Sexo é sempre tão bom com você! Ahh!"
 
 # game/script.rpy:24519
 translate pt_br botsublobbysex_e5523f60:
 
     # bot "Hnn! Hnng!"
-    bot ""
+    bot "Hnn! Hnng!"
 
 # game/script.rpy:24522
 translate pt_br botsublobbysex_197dfef1:
 
     # bot "[botown]! Cum inside me! I want to feel it!"
-    bot ""
+    bot "[botown]! Goza dentro de mim! Eu quero sentir isso!"
 
 # game/script.rpy:24523
 translate pt_br botsublobbysex_9391ed3a:
 
     # bot "Please! Please [botown]!"
-    bot ""
+    bot "Por favor! Por favor [botown]!"
 
 # game/script.rpy:24524
 translate pt_br botsublobbysex_dc90f030:
 
     # bot "Ahh! Ahh!!!"
-    bot ""
+    bot "Ahh! Ahh!!!"
 
 # game/script.rpy:24526
 translate pt_br botsublobbysex_434eefeb:
 
     # bot "Hnnn! You're filling me up [botown]!" with ssshake
-    bot "" with ssshake
+    bot "Hnnn! Você está me preenchendo toda [botown]!" with ssshake
 
 # game/script.rpy:24527
 translate pt_br botsublobbysex_0b96c038:
 
     # bot "Ghh!" with ssshake
-    bot "" with ssshake
+    bot "Ghh!" with ssshake
 
 # game/script.rpy:24528
 translate pt_br botsublobbysex_155798dc:
 
     # bot "Ahhh!" with ssshake
-    bot "" with ssshake
+    bot "v" with ssshake
 
 # game/script.rpy:24529
 translate pt_br botsublobbysex_3b9820bf:
 
     # bot "Ahhh... [botown]..."
-    bot ""
+    bot "Ahhh... [botown]..."
 
 # game/script.rpy:24544
 translate pt_br botlobtv_47c284b0:
