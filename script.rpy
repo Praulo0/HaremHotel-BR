@@ -5100,7 +5100,7 @@ translate pt_br floor2menu_943da464:
 translate pt_br floor2menu_b86dedc9:
 
     # bot "Yay! Thank you so much [botown]! I can't wait to drive in your car again!"
-    bot "Yes! Obrigadíssima [botown]! Mal posso esperar para andar no seu carro de novo!"
+    bot "Yes! Muito obrigada [botown]! Mal posso esperar para andar no seu carro de novo!"
 
 # game/script.rpy:4677
 translate pt_br floor2menu_ba070653:
@@ -9501,7 +9501,7 @@ translate pt_br floor1menu_0c85484e:
 translate pt_br floor1menu_248f6490:
 
     # l "Thank you so much [linoname]! I'll get dressed! I can't wait!"
-    l "Muitíssimo obrigada [linoname]! Eu vou me vestir! Mal posso esperar!"
+    l "Muito obrigada [linoname]! Eu vou me vestir! Mal posso esperar!"
 
 # game/script.rpy:6864
 translate pt_br floor1menu_a594f0ca:
@@ -9543,7 +9543,7 @@ translate pt_br floor1menu_6c493eb8:
 translate pt_br floor1menu_b41fad52:
 
     # l "Ohh, I like it! Thank you so much, [linoname]! Maybe I can wear it for you some time..."
-    l "Ahh, eu gostei disso! Muitissimo obrigada, [linoname]! Talvez eu possa vestir isso para você em outra hora..."
+    l "Ahh, eu gostei disso! Muito obrigada, [linoname]! Talvez eu possa vestir isso para você em outra hora..."
 
 # game/script.rpy:6979
 translate pt_br floor1menu_1e16cffd_1:
@@ -9561,7 +9561,7 @@ translate pt_br floor1menu_6c493eb8_1:
 translate pt_br floor1menu_b41fad52_1:
 
     # l "Ohh, I like it! Thank you so much, [linoname]! Maybe I can wear it for you some time..."
-    l "Ahh, eu gostei disso! Muitissimo obrigada, [linoname]! Talvez eu possa vestir isso para você em outra hora..."
+    l "Ahh, eu gostei disso! Muito obrigada, [linoname]! Talvez eu possa vestir isso para você em outra hora..."
 
 # game/script.rpy:6991
 translate pt_br floor1menu_1e16cffd_2:
@@ -9579,7 +9579,7 @@ translate pt_br floor1menu_6c493eb8_2:
 translate pt_br floor1menu_b41fad52_2:
 
     # l "Ohh, I like it! Thank you so much, [linoname]! Maybe I can wear it for you some time..."
-    l "Ahh, eu gostei disso! Muitissimo obrigada, [linoname]! Talvez eu possa vestir isso para você em outra hora..."
+    l "Ahh, eu gostei disso! Muito obrigada, [linoname]! Talvez eu possa vestir isso para você em outra hora..."
 
 # game/script.rpy:7003
 translate pt_br floor1menu_1e16cffd_3:
@@ -38824,7 +38824,7 @@ translate pt_br bot_cyberspace_518a1603:
 translate pt_br bot_cyberspace_e598e34d:
 
     # a "Really? Thank you so much! I already have clothes in mind, we should go shopping too!"
-    a "Sério? Muito obrifada! Eu  até já tenho roupas em mente, nós deveríamos ir às compras também! "
+    a "Sério? Muito obrigada! Eu  até já tenho roupas em mente, nós deveríamos ir às compras também! "
 
 # game/script.rpy:18949
 translate pt_br bot_cyberspace_5d9c4a41:
@@ -51363,7 +51363,7 @@ translate pt_br botintro_0c2b7dda:
 translate pt_br botintro_ec791139:
 
     # bot "Thank you so much! I'll try my best to be useful in some way!"
-    bot "Muitíssimo obrigada! Eu vou fazer o meu melhor para ser útil de alguma maneira!"
+    bot "Muito obrigada! Eu vou fazer o meu melhor para ser útil de alguma maneira!"
 
 # game/script.rpy:22468
 translate pt_br botintro_70dcaee8:
@@ -57501,7 +57501,7 @@ translate pt_br botslutlobbysex_7772b045:
 translate pt_br botslutlobbysex_e5523f60:
 
     # bot "Hnn! Hnng!"
-    bot ""Hnn! Hnng!"
+    bot "Hnn! Hnng!"
 
 # game/script.rpy:24448
 translate pt_br botslutlobbysex_197dfef1:
@@ -57615,7 +57615,7 @@ translate pt_br botlobbysex_155798dc:
 translate pt_br botlobbysex_3b9820bf:
 
     # bot "Ahhh... [botown]..."
-    bot ""Ahhh... [botown]..."
+    bot "Ahhh... [botown]..."
 
 # game/script.rpy:24490
 translate pt_br bothumanlobbysex_8d973a5c:
@@ -57765,355 +57765,355 @@ translate pt_br botsublobbysex_3b9820bf:
 translate pt_br botlobtv_47c284b0:
 
     # bot "TV's are so cool..."
-    bot ""
+    bot "Televisões são tão legais..."
 
 # game/script.rpy:24546
 translate pt_br botlobtv_7aebe7d0:
 
     # bot "Why is that food guy so rude?"
-    bot ""
+    bot "Por que aquele cara da comida é tão rude?"
 
 # game/script.rpy:24547
 translate pt_br botlobtv_ec532e90:
 
     # bot "I guess the food does look bad though."
-    bot ""
+    bot "A comida também não parece tão boa também."
 
 # game/script.rpy:24549
 translate pt_br botlobtv_c342f708:
 
     # bot "It's nice to relax once in a while..."
-    bot ""
+    bot "É bom poder relaxar de vez em quando..."
 
 # game/script.rpy:24551
 translate pt_br botlobtv_fb4e3df2:
 
     # "You and [botname] watch a couple of shows. After some time, you both decide to stop, and you take her back to her room."
-    ""
+    "Você e [botname] assistem alguns programas. Após algum tempo, vocês dois decidem parar, e você a leva de volta ao quarto dela."
 
 # game/script.rpy:24558
 translate pt_br bothangdone_64b70d3e:
 
     # bot "Thanks for spending time with me [botown]!"
-    bot ""
+    bot "Obrigada por passar tempo comigo [botown]!"
 
 # game/script.rpy:24563
 translate pt_br bothangdone_4d98cfaf:
 
     # bot "Mmmm... I've gotten really horny suddenly [botown]... Can we have sex? Please?"
-    bot "Mmmm..."
+    bot "Mmmm... Do nada eu fiquei com muito tesão, [botown]... Nós podemos fazer sexo? Por favor?"
 
 # game/script.rpy:24568
 translate pt_br bothangdone_14c2e5b0:
 
     # bot "Yay! Hurry!"
-    bot "Yes!"
+    bot "Yes! Rápido!"
 
 # game/script.rpy:24574
 translate pt_br bothangdone_fecad308:
 
     # bot "Hnnn... [botown]..."
-    bot ""
+    bot "Hnnn... [botown]..."
 
 # game/script.rpy:24581
 translate pt_br bothangdone_e7c8e577:
 
     # bot "I know this is sudden but... I want to give you a boobjob [botown]!"
-    bot ""
+    bot "Eu sei que isso é do nada, mas... Eu quero muito te fazer uma espanhola [botown]!"
 
 # game/script.rpy:24586
 translate pt_br bothangdone_14c2e5b0_1:
 
     # bot "Yay! Hurry!"
-    bot "Yes!"
+    bot "Yes! Rápido!"
 
 # game/script.rpy:24592
 translate pt_br bothangdone_fecad308_1:
 
     # bot "Hnnn... [botown]..."
-    bot ""
+    bot "Hnnn... [botown]..."
 
 # game/script.rpy:24598
 translate pt_br bothangdone_36f53810:
 
     # bot "See you later [botown]!"
-    bot ""
+    bot "Nos vemos depois [botown]!"
 
 # game/script.rpy:24604
 translate pt_br botsink_b4a97cb9:
 
     # l "Hello [linoname], can I help you?"
-    l ""
+    l "Olá [linoname], como eu posso te ajudar?"
 
 # game/script.rpy:24605
 translate pt_br botsink_2c81f902:
 
     # c "Do you know where [botname] is?"
-    c ""
+    c "Você sabe aonde [botname] está?"
 
 # game/script.rpy:24606
 translate pt_br botsink_3b2ab187:
 
     # l "Oh, umm... I think I saw her going to the hot springs."
-    l ""
+    l "Ah, humm... Eu achonque vi ela indo para a fonte termal."
 
 # game/script.rpy:24607
 translate pt_br botsink_f3ac3fc4:
 
     # c "The hot springs? Why did she go in there? She could get hurt."
-    c ""
+    c "Para a fonte termal? Por que é que ela iria para lá? Ela pode acabar se machucando."
 
 # game/script.rpy:24610
 translate pt_br botsink_66bb5758:
 
     # l "Hurt? She just said she was going in real quick to clean. She seemed a bit nervous, but I was already cleaning the kitchen..."
-    l ""
+    l "Se machucando? Ela disse que ia só fazer uma limpeza rápida. Ela parecia um pouco nervosa, mas na hora eu já estava limpando a cozinha..."
 
 # game/script.rpy:24611
 translate pt_br botsink_bbe1d724:
 
     # l "Is she going to be okay? I hope I didn't put her in any danger..."
-    l ""
+    l "Ela vai ficar bem? Eu espero que não tenha a colocado em perigo..."
 
 # game/script.rpy:24612
 translate pt_br botsink_4604688b:
 
     # c "I better check on her..."
-    c ""
+    c "É melhor eu ir dar uma olhada nela..."
 
 # game/script.rpy:24614
 translate pt_br botsink_e721279a:
 
     # c "Hmmm..."
-    c ""
+    c "Hmmm..."
 
 # game/script.rpy:24617
 translate pt_br botsink_31c308a8:
 
     # c "Wait... is that...?"
-    c ""
+    c "Espera... aquilo é...?"
 
 # game/script.rpy:24619
 translate pt_br botsink_5552d342:
 
     # c "Oh shit! She's completely submerged! Who knows how long she's been in there..."
-    c ""
+    c "Ai merda! Ela está completamente submersa! E não faço a menor ideia de por quanto tempo ela ficou lá..."
 
 # game/script.rpy:24621
 translate pt_br botsink_ef185376:
 
     # "You attempt to drag her out of the water to prevent further damage, however she's very heavy. After a couple of attempts and through sheer willpower alone you're able to pull her out and dry her..."
-    ""
+    "Você tenta removê-la da água para prevenir que ela se danificasse ainda mais, no entanto ela é muito pesada. Depois de algumas tentativas e apenas com muita força de vontade, você consegue puxá-la para fora e secá-la..."
 
 # game/script.rpy:24623
 translate pt_br botsink_2e28f7a8:
 
     # c "She's unresponsive... She may still have some water inside of her."
-    c ""
+    c "Ela não está reagindo... Ela ainda deve estar com água dentro dela."
 
 # game/script.rpy:24624
 translate pt_br botsink_c9f0a037:
 
     # c "I should take her some place where it's less humid. Letting her sit here can only cause more damage."
-    c ""
+    c "Eu preciso levar ela para algum lugar menos úmido. Deixar ela sentada aqui só vai prejudicar mais ela."
 
 # game/script.rpy:24626
 translate pt_br botsink_e7b0268f:
 
     # "You attempt to pick her up into your arms, but fail. So you resort to dragging her up two flights of stairs. On your way you meet Ellen and tell her everything..."
-    ""
+    "Você tenta pegá-la nos seus braços, mas não consegue. Então você recorre à ideia de arrastá-la escada acima.No caminho você encontra a Ellen e conta tudo o que aconteceu..."
 
 # game/script.rpy:24628
 translate pt_br botsink_3325b529:
 
     # e "Oh, that poor girl..."
-    e ""
+    e "Ah, pobrezinha..."
 
 # game/script.rpy:24629
 translate pt_br botsink_f2636e71:
 
     # c "Is she going to be alright?"
-    c ""
+    c "Ela vai ficar bem?"
 
 # game/script.rpy:24631
 translate pt_br botsink_573ea59f:
 
     # e "I think so... Her nanobots should be able to repair any water damage left inside..."
-    e ""
+    e "Eu acredito que sim... Os nanorrobôs dela devem ser capazes de recuperar qualquer dano causado pela água que ainda pode estar dentro dela."
 
 # game/script.rpy:24633
 translate pt_br botsink_83c4828b:
 
     # e "I think she's just in some sort of coma right now. Her nanobots must be working overtime to get rid of all of that water."
-    e ""
+    e "Eu acho que ela apenas está em um tipo de coma agora. Os nanorrobôs dela devem estar trabalhando horas extras para se livrar de toda aquela água"
 
 # game/script.rpy:24634
 translate pt_br botsink_15aba3e0:
 
     # c "And if that water isn't removed?"
-    c ""
+    c "E se a água não for removida?"
 
 # game/script.rpy:24636
 translate pt_br botsink_3bc156f9:
 
     # e "It's hard to say really. She likely won't ever corrode... unless she were to stay submerged for days anyway. Her system wouldn't be able to handle that. Do you know how long she was underwater?"
-    e ""
+    e "É bem difícil de falar com certeza. Ela provavelmente nunca irá corroer... A não ser que ela ficasse submersa por dias seguidos. O sistema dela não seria capaz de lidar com isso. Você sabe por quanto tempo ela ficou submersa?"
 
 # game/script.rpy:24637
 translate pt_br botsink_ac8eb4d7:
 
     # c "Probably less than an hour."
-    c ""
+    c "Provavelmente menos de uma hora."
 
 # game/script.rpy:24639
 translate pt_br botsink_e15db791:
 
     # "{i}NNNN TSSSSSSSSSSSSSSS{/i}"
-    ""
+    "{i}NNNN TSSSSSSSSSSSSSSS{/i}"
 
 # game/script.rpy:24640
 translate pt_br botsink_2359dced:
 
     # e "Ahh, look at that! Her system is already releasing the moisture."
-    e ""
+    e "Ahh, olha só! O sistema dela já está liberando a umidade."
 
 # game/script.rpy:24641
 translate pt_br botsink_9ae80a76:
 
     # c "So now what?"
-    c ""
+    c "Então e agora?"
 
 # game/script.rpy:24643
 translate pt_br botsink_ccb7a3ff:
 
     # e "Hmmm... Well I'm sure she'll be fine but..."
-    e ""
+    e "Hmmm... Bem, eu tenho certeza de que ela vai ficar bem, mas..."
 
 # game/script.rpy:24645
 translate pt_br botsink_b475a1c0:
 
     # e "You should buy some water sealant for her so this doesn't happen again. By the time it arrives all of the moisture should evaporate. It should only be $10."
-    e ""
+    e "Você deveria comprar algum selante de água para ela para isso não acontecer de novo. Quando chegar, toda a umidade deverá evaporar. Deve custar apenas $10."
 
 # game/script.rpy:24646
 translate pt_br botsink_0509780c:
 
     # c "Isn't there anything else we can do?"
-    c ""
+    c "Não tem mais nada que possamos fazer?"
 
 # game/script.rpy:24647
 translate pt_br botsink_3d2e042b:
 
     # e "It would probably be best to hire a technician just to be sure. Do you know anyone?"
-    e ""
+    e "O melhor provavelmente seria contratar um técnico, só para garantir. Você conhece algum?"
 
 # game/script.rpy:24648
 translate pt_br botsink_e89c19be:
 
     # c "Kali's pretty good with computers."
-    c ""
+    c "A Kali é muito bom com computadores."
 
 # game/script.rpy:24649
 translate pt_br botsink_11337fa5:
 
     # e "Oh! Well there you go. I'm sure she'll be happy to help."
-    e ""
+    e "Ah! Então pronto. Eu tenho certeza que ela vai ficar feliz em ajudar."
 
 # game/script.rpy:24650
 translate pt_br botsink_46370be4:
 
     # e "Well that settles it then. I'll be sure to pick up the water sealant as soon as it arrives in the morning. Just make sure you buy it as soon as you can."
-    e ""
+    e "Bem, acho que está resolvido então. Vou pegar o selante de água assim que chegar pela manhã. Apenas tenha certeza de comprar assim que você puder."
 
 # game/script.rpy:24652
 translate pt_br botsink_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*toc toc toc*"
 
 # game/script.rpy:24655
 translate pt_br botsink_39dae445:
 
     # k "What's up?"
-    k ""
+    k "E aí?"
 
 # game/script.rpy:24656
 translate pt_br botsink_404a24ea:
 
     # c "[botname] fell in the water, I was hoping you'd be able to run some diagnostics or something."
-    c ""
+    c "[botname] caiu na água, eu estava esperando que você pudesse executar algum diagnóstico ou alguma coisa assim."
 
 # game/script.rpy:24659
 translate pt_br botsink_c9058512:
 
     # k "Oh no, is she okay?"
-    k ""
+    k "Ah não, ela está bem?"
 
 # game/script.rpy:24660
 translate pt_br botsink_d278c4d1:
 
     # c "It's looking like she'll be fine, but I wanted you to check up on her just in case."
-    c ""
+    c "Parece que ela vai ficar bem, mas eu gostaria que você desse uma olhada só por garantia."
 
 # game/script.rpy:24663
 translate pt_br botsink_463317c6:
 
     # k "Yeah, sure. I'll see what I can do. I'll head up there now."
-    k ""
+    k "Sim, claro. Eu vou ver o que posso fazer. Eu vou para lá agora."
 
 # game/script.rpy:24665
 translate pt_br botsink_046f1b24:
 
     # "You leave Kali with [botname] and head down to your room. You order the water sealant for $10."
-    ""
+    "Você deixa Kali com [botname] e vai para o seu quarto. Você encomenda o selante de água por $10."
 
 # game/script.rpy:24666
 translate pt_br botsink_adc76b00:
 
     # "Knowing there's nothing you can do but wait, you decide to sleep the whole day and night..."
-    ""
+    "Sabendo que não há mais nada a ser feito a não ser esperar, você decide dormir o dia e a noite inteira..."
 
 # game/script.rpy:24675
 translate pt_br botcity_c6bdfee4:
 
     # r "Some of [botname]'s earlier content, including this event, is dated and in need if a remake. For now, please just bear with it :)"
-    r ""
+    r "Parte do conteúdo anterior de [botname], incluindo este evento, está datado e precisa de um remake. Por enquanto, por favor, aguentem :)"
 
 # game/script.rpy:24677
 translate pt_br botcity_4e8aade8:
 
     # bot "Whoaaaaaa!!!"
-    bot ""
+    bot "Uaaaaaau!!!"
 
 # game/script.rpy:24678
 translate pt_br botcity_c7b8b836:
 
     # bot "There are so many people! The buildings are so tall as well! Do people really live in those?"
-    bot ""
+    bot "Tem tantas pessoas aqui! As contruções são tão altas também! As pessoas realmente vivem neles?"
 
 # game/script.rpy:24679
 translate pt_br botcity_916394bd:
 
     # bot "Oh my goodness! This is amazing!!!"
-    bot ""
+    bot "Ai minha nossa! Isso é incrível!!!"
 
 # game/script.rpy:24681
 translate pt_br botcity_636c6573:
 
     # bot "Thank you so much [botown]!"
-    bot ""
+    bot "Muito obrigada [botown]!"
 
 # game/script.rpy:24682
 translate pt_br botcity_5fbf3039:
 
     # bot "Oh! We definitely have to visit some stores, right? We could buy so much stuff here!"
-    bot ""
+    bot "Ah! Com certeza precisamos visitar algumas lojas, né? Poderíamos comprar tanta coisa aqui!"
 
 # game/script.rpy:24683
 translate pt_br botcity_0c000bcd:
 
     # c "I guess we could visit some places. Just try not to go too crazy."
-    c ""
+    c "Acho que nós podemos visitar alguns lugares. Só tenta não se empolgar demais."
 
 # game/script.rpy:24684
 translate pt_br botcity_32ce1d18:
