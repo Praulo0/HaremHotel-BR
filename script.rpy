@@ -14733,7 +14733,7 @@ translate pt_br explore_brothel1_f6fe389a:
 translate pt_br explore_brothel1_3942d94c:
 
     # ray "Hi, I'm Ray by the way! I'm the CEO of BunBun Incorporated, no big deal."
-    ray "Olá, eu sou a Ray aliás! Eu sou o diretor exclusivo da Incorporação BunBun, não é nada demais."
+    ray "Olá, eu sou a Ray aliás! Eu sou o diretor exclusivo da BunBun Incorporated, não é nada demais."
 
 # game/script.rpy:9156
 translate pt_br explore_brothel1_33ddbbe2:
@@ -58125,649 +58125,649 @@ translate pt_br botcity_32ce1d18:
 translate pt_br botcity_0885f60d:
 
     # bot "Let's see... Where to go... Where to go..."
-    bot ""
+    bot "Vamos ver... Aonde ir... Aonde ir..."
 
 # game/script.rpy:24687
 translate pt_br botcity_12e9cbe0:
 
     # bot "Hmmm... I don't really need to eat, so..."
-    bot ""
+    bot "Hmmm... Eu não preciso comer de verdade, então..."
 
 # game/script.rpy:24689
 translate pt_br botcity_32f325af:
 
     # bot "Oh! There's a clothing store right here!"
-    bot ""
+    bot "Ah! Tem uma loja de roupas bem aqui!"
 
 # game/script.rpy:24691
 translate pt_br botcity_407912f9:
 
     # bot "Can we go? Can we go?"
-    bot ""
+    bot "Nós podemos ir? Nós podemos ir?"
 
 # game/script.rpy:24692
 translate pt_br botcity_90f9f850:
 
     # c "You want to buy clothes?"
-    c ""
+    c "Você quer comprar roupas?"
 
 # game/script.rpy:24693
 translate pt_br botcity_c64c06d8:
 
     # bot "Yeah! I don't really have many clothes... Maybe I could find something cute!"
-    bot ""
+    bot "Quero! Na verdade eu não tenho muitas roupas... Talvez eu consiga encontrar alguma coisa fofa!"
 
 # game/script.rpy:24694
 translate pt_br botcity_cc91c547:
 
     # c "Alright, we can go."
-    c ""
+    c "Tudo bem, nós podemos ir, sim."
 
 # game/script.rpy:24696
 translate pt_br botcity_636c6573_1:
 
     # bot "Thank you so much [botown]!"
-    bot ""
+    bot "Muito obrigada [botown]!"
 
 # game/script.rpy:24698
 translate pt_br botcity_90b045e0:
 
     # bot "Ohh, this place is... interesting..."
-    bot ""
+    bot "Uuh, esse lugar é... interessante..."
 
 # game/script.rpy:24700
 translate pt_br botcity_6d3a6dad:
 
     # bot "Um, [botown]... There's a lady over there, I think we're supposed to talk to her... Can you do it for me? I'm a little nervous..."
-    bot ""
+    bot "Hum, [botown]... Tem uma moça ali, acho que a gente tem que falar com ela... Você pode fazer isso por mim? Estou um pouco nervosa..."
 
 # game/script.rpy:24701
 translate pt_br botcity_b469ab4b:
 
     # c "Come on, we'll go talk to her together."
-    c ""
+    c "Vem comigo, nós vamos falar com ela juntos."
 
 # game/script.rpy:24702
 translate pt_br botcity_b88a89c1:
 
     # bot "O-Okay..."
-    bot ""
+    bot "T-Tá bom..."
 
 # game/script.rpy:24704
 translate pt_br botcity_78e58f9e:
 
     # got "Hi, welcome to The Burning Topic, my name's Juliet, how may I help you..."
-    got ""
+    got "Olá, bem vindo ao The Burning Topic, o meu nome é Juliet, como posso te ajudá-lo?"
 
 # game/script.rpy:24707
 translate pt_br botcity_74ea3d9e:
 
     # got "Oh... Uh, Hi..."
-    got ""
+    got "Ah.. Uh, olá..."
 
 # game/script.rpy:24708
 translate pt_br botcity_2a754036:
 
     # c "Do I know you?"
-    c ""
+    c "Eu te conheço?"
 
 # game/script.rpy:24709
 translate pt_br botcity_8fd92b0d:
 
     # got "Um... No."
-    got ""
+    got "Hum... Não."
 
 # game/script.rpy:24711
 translate pt_br botcity_dac33429:
 
     # bot "Tell her [botown]..."
-    bot ""
+    bot "Fala pra ela [botown]..."
 
 # game/script.rpy:24713
 translate pt_br botcity_c3a9921b:
 
     # c "We're looking for some clothes."
-    c ""
+    c "Nós estamos procurando algumas roupas."
 
 # game/script.rpy:24714
 translate pt_br botcity_76603fd3:
 
     # got "Yeah... This would be the right place to look."
-    got ""
+    got "É... Este seria o lugar certo para procurar."
 
 # game/script.rpy:24715
 translate pt_br botcity_26947a38:
 
     # c "Wait, are you wearing a school uniform?"
-    c ""
+    c "Espera, Você está vestindo um uniforme escolar?"
 
 # game/script.rpy:24716
 translate pt_br botcity_53150b44:
 
     # got "Yeah? So?"
-    got ""
+    got "Estou? E daí?"
 
 # game/script.rpy:24717
 translate pt_br botcity_4268d157:
 
     # c "Shouldn't you be wearing..."
-    c ""
+    c "Você não deveria estar vestindo..."
 
 # game/script.rpy:24718
 translate pt_br botcity_0e0b1d00:
 
     # got "My Dad owns the store, I just work here in my spare time. Plus school uniforms are in style. You can buy one if you want."
-    got ""
+    got "O meu Pai é o dono da loja, eu só trabalho aqui quando tenho tempo livre. Inclusive uniformes escolares estão na moda. Você pode comprar um se quiser."
 
 # game/script.rpy:24719
 translate pt_br botcity_75107b29:
 
     # c "No thanks..."
-    c ""
+    c "Não, obrigado..."
 
 # game/script.rpy:24721
 translate pt_br botcity_cd2607c7:
 
     # bot "Tell her I want something cute..."
-    bot ""
+    bot "Fala para ela quebeu quero alguma coisa fofa..."
 
 # game/script.rpy:24723
 translate pt_br botcity_49d3b21e:
 
     # c "She wants something cute."
-    c ""
+    c "Ela quer alguma coisa fofa."
 
 # game/script.rpy:24724
 translate pt_br botcity_a4e8b7b6:
 
     # got "You could just look around... Egh, you know what, I'll find something..."
-    got ""
+    got "Você poderia simplesmente procurar por aí... Egh, você sabe disso, eu vou encontrar alguma coisa..."
 
 # game/script.rpy:24726
 translate pt_br botcity_6669dcbd:
 
     # bot "Yay! I can't wait!"
-    bot "Yes!"
+    bot "Yes! Eu mal posso esperar!"
 
 # game/script.rpy:24728
 translate pt_br botcity_06cd4b30:
 
     # got "Okay, there you go."
-    got ""
+    got "Tudo bem, aqui está."
 
 # game/script.rpy:24729
 translate pt_br botcity_d67c095f:
 
     # bot "Hmmm... This just looks like a sweater... It doesn't look very cute..."
-    bot ""
+    bot "Hmmm... Isso parece um suéter normal... Não é muito fofo..."
 
 # game/script.rpy:24730
 translate pt_br botcity_8d72ea56:
 
     # got "That's subjective, try it on and see for yourself."
-    got ""
+    got "Isso é subjetivo, experimente e veja por si mesma."
 
 # game/script.rpy:24731
 translate pt_br botcity_61b111a0:
 
     # bot "Well... Okay."
-    bot ""
+    bot "Bem... Tá bom."
 
 # game/script.rpy:24733
 translate pt_br botcity_6165536d:
 
     # bot "Ummm... Where do I change clothes?"
-    bot ""
+    bot "Hummm... Aonde eu posso trocar de roupa?"
 
 # game/script.rpy:24734
 translate pt_br botcity_5b5cc78f:
 
     # got "There's a door to your right that will bring you in to the changing room."
-    got ""
+    got "À sua direita tem uma porta que vai te levar ao vestiário."
 
 # game/script.rpy:24735
 translate pt_br botcity_153a304c:
 
     # bot "Oh okay!"
-    bot ""
+    bot "Ah, tudo bem!"
 
 # game/script.rpy:24739
 translate pt_br botvirginkiller_444311e3:
 
     # bot "Hnnn... Okay... You can't see me, can you?"
-    bot ""
+    bot "Hnnn... Tudo bem.... Você não pode me ver, né?"
 
 # game/script.rpy:24740
 translate pt_br botvirginkiller_7f2773f3:
 
     # c "Nobody can see you, you're fine."
-    c ""
+    c "Ninguém pode te ver, você vai ficar bem."
 
 # game/script.rpy:24741
 translate pt_br botvirginkiller_65f04159:
 
     # bot "Okay... Nnnn, it's kind of tight..."
-    bot ""
+    bot "Tudo bem... Nnn, é meio apertado..."
 
 # game/script.rpy:24742
 translate pt_br botvirginkiller_f204be86:
 
     # bot "Nnn... Hnnn! It's kind of short too..."
-    bot ""
+    bot "Nnn... Hnnn! É meio curto também..."
 
 # game/script.rpy:24743
 translate pt_br botvirginkiller_ad5d6e0c:
 
     # bot "Okay, I'm coming out!"
-    bot ""
+    bot "Tudo bem, eu estou saindo!"
 
 # game/script.rpy:24745
 translate pt_br botvirginkiller_54316081:
 
     # bot "Hmmm... It is kind of cute... Fancy too!"
-    bot ""
+    bot "Hmmm... Até que é fofo... e chique também!"
 
 # game/script.rpy:24747
 translate pt_br botvirginkiller_1a7ccfe9:
 
     # bot "A bit breezy tho- Oh... That's weird..."
-    bot ""
+    bot "Entra um pouco de vento por aqui, no entanto... Oh... Isso é estranho...""
 
 # game/script.rpy:24749
 translate pt_br botvirginkiller_a600cc78:
 
     # bot "So what do you think? Should I get it?"
-    bot ""
+    bot "Então o que você acha? Eu deveria levar esse?"
 
 # game/script.rpy:24752
 translate pt_br botvirginkiller_d2cf8770:
 
     # c "Sure, it looks great."
-    c ""
+    c "Claro, ficou ótimo."
 
 # game/script.rpy:24753
 translate pt_br botvirginkiller_8dcb93f3:
 
     # bot "Really! Thanks [botown]!"
-    bot ""
+    bot "É mesmo! Obrigada [botown]!"
 
 # game/script.rpy:24755
 translate pt_br botvirginkiller_7782f32d:
 
     # bot "Okay! I'll take this one please."
-    bot ""
+    bot "Tudo bem! Eu vou levar esse aqui, por favor."
 
 # game/script.rpy:24756
 translate pt_br botvirginkiller_84a5e5c4:
 
     # got "Great... That'll be $50."
-    got ""
+    got "Tudo bem... Esse vai custar $50."
 
 # game/script.rpy:24757
 translate pt_br botvirginkiller_37fbc1f4:
 
     # bot "$50!? I don't have $50!"
-    bot ""
+    bot "$50!? Eu não tenho $50!"
 
 # game/script.rpy:24758
 translate pt_br botvirginkiller_7571c3df:
 
     # bot "Wait... I don't have any money..."
-    bot ""
+    bot "Espera... Eu não tenho dinheiro nenhum..."
 
 # game/script.rpy:24760
 translate pt_br botvirginkiller_b37f0934:
 
     # bot "Hnnn..."
-    bot ""
+    bot "Hnnn..."
 
 # game/script.rpy:24761
 translate pt_br botvirginkiller_999cc489:
 
     # c "I'll pay for it..."
-    c ""
+    c "Eu vou pagar..."
 
 # game/script.rpy:24763
 translate pt_br botvirginkiller_5cc47a7a:
 
     # bot "Thank you [botown]!"
-    bot ""
+    bot "Obrigada [botown]!"
 
 # game/script.rpy:24765
 translate pt_br botvirginkiller_74bea9e4:
 
     # bot "[botown] will pay for it!"
-    bot ""
+    bot "O [botown] vai pagar!"
 
 # game/script.rpy:24766
 translate pt_br botvirginkiller_4bd3726f:
 
     # got "Ooookay."
-    got ""
+    got "Tuuuudo bem."
 
 # game/script.rpy:24767
 translate pt_br botvirginkiller_4630ddc2:
 
     # "You hand Juliet $50"
-    ""
+    "Você entrega $50 para Juliet"
 
 # game/script.rpy:24768
 translate pt_br botvirginkiller_55266047:
 
     # got "Great. Come again!"
-    got ""
+    got "Ótimo. Volte sempre!"
 
 # game/script.rpy:24770
 translate pt_br botvirginkiller_4cfab095:
 
     # bot "This was so fun [botown]! And I even got a new outfit! Thank you so much!"
-    bot ""
+    bot "Isso foi muito divertido [botown]! E eu consegui até uma roupa nova! Muito obrigada!"
 
 # game/script.rpy:24772
 translate pt_br botvirginkiller_b83f0ddc:
 
     # bot "Mmm... I guess we have to go back home now, don't we?"
-    bot ""
+    bot "Mm... Acho que nós precisamos voltar para casa agora, não é?"
 
 # game/script.rpy:24773
 translate pt_br botvirginkiller_2942e407:
 
     # c "Yeah, we probably should."
-    c ""
+    c "Sim, nós provavelmente deviamos."
 
 # game/script.rpy:24775
 translate pt_br botvirginkiller_729ffd0b:
 
     # bot "Well it was really fun! I hope we can come back soon!"
-    bot ""
+    bot "Bem, isso foi muito divertido! Eu espero que possamos voltar logo!"
 
 # game/script.rpy:24777
 translate pt_br botvirginkiller_d81c936e:
 
     # "You both hop back in your car and make your way to the hotel."
-    ""
+    "Vocês dois entram em seu carro e você dirige até o hotel."
 
 # game/script.rpy:24778
 translate pt_br botvirginkiller_e5cbe0e0:
 
     # "[botname] is overjoyed with her new outfit. She talks on and on about how she can't wait to wear it next..."
-    ""
+    "[botname] está muito feliz com sua nova roupa. Ela fala sem parar sobre como mal pode esperar para usá-lo novamente..."
 
 # game/script.rpy:24781
 translate pt_br botvirginkiller_69d0019c:
 
     # bot "What? I can't do that..."
-    bot ""
+    bot "Espera? Eu não posso fazer isso..."
 
 # game/script.rpy:24786
 translate pt_br botvirginkiller_3c2a7f97:
 
     # bot "What...? Here?"
-    bot ""
+    bot "Espera...? Aqui?"
 
 # game/script.rpy:24787
 translate pt_br botvirginkiller_56d0beb3:
 
     # c "That's right."
-    c ""
+    c "Isso mesmo."
 
 # game/script.rpy:24788
 translate pt_br botvirginkiller_36709be0:
 
     # got "What now?"
-    got ""
+    got "Como é?"
 
 # game/script.rpy:24789
 translate pt_br botvirginkiller_54891154:
 
     # bot "Hmm... Okay."
-    bot ""
+    bot "Hmm... Tudo bem."
 
 # game/script.rpy:24791
 translate pt_br botvirginkiller_ff078fc4:
 
     # bot "Here I go..."
-    bot ""
+    bot "Aqui vou eu..."
 
 # game/script.rpy:24793
 translate pt_br botvirginkiller_f3eeed6c:
 
     # bot "There's my top..."
-    bot ""
+    bot "Já foi a parte de cima..."
 
 # game/script.rpy:24795
 translate pt_br botvirginkiller_b37f0934_1:
 
     # bot "Hnnn..."
-    bot ""
+    bot "Hnnn"
 
 # game/script.rpy:24797
 translate pt_br botvirginkiller_f4ade31d:
 
     # bot "Ehhh..."
-    bot ""
+    bot "Ehhh..."
 
 # game/script.rpy:24799
 translate pt_br botvirginkiller_25f730a0:
 
     # bot "Okay... Everything is off!"
-    bot ""
+    bot "Pronto... Estou sem nada!"
 
 # game/script.rpy:24802
 translate pt_br botvirginkiller_a079c39f:
 
     # c "Your mask...?"
-    c ""
+    c "A sua máscara...?"
 
 # game/script.rpy:24804
 translate pt_br botvirginkiller_7e1a4630:
 
     # bot "W-What?"
-    bot ""
+    bot "O-O quê?"
 
 # game/script.rpy:24805
 translate pt_br botvirginkiller_814f32f9:
 
     # c "Take your mask off too..."
-    c ""
+    c "Tira a sua máscara também..."
 
 # game/script.rpy:24806
 translate pt_br botvirginkiller_5afbadb8:
 
     # bot "Nnnn... Okay..."
-    bot ""
+    bot "Nnnn... Tudo bem..."
 
 # game/script.rpy:24808
 translate pt_br botvirginkiller_274de411:
 
     # bot "I... It's off!"
-    bot ""
+    bot "Eu... Eu tirei!"
 
 # game/script.rpy:24811
 translate pt_br botvirginkiller_403c88e9:
 
     # got "...What the fuck..."
-    got ""
+    got "...Mas que porra..."
 
 # game/script.rpy:24812
 translate pt_br botvirginkiller_cdb65111:
 
     # c "Go ahead, put on your clothes."
-    c ""
+    c "Vá em frente, vista as roupas."
 
 # game/script.rpy:24814
 translate pt_br botvirginkiller_ae5be5ac:
 
     # bot "O-Oh! Right... I almost forgot..."
-    bot ""
+    bot "A-Ah! Certo... Eu quase esqueci..."
 
 # game/script.rpy:24816
 translate pt_br botvirginkiller_f1d7a83a:
 
     # bot "Okay, it's on!"
-    bot ""
+    bot "Tudo bem, está feito!"
 
 # game/script.rpy:24817
 translate pt_br botvirginkiller_14b601ee:
 
     # bot "Hmmm... It is kind of cute! But fancy too..."
-    bot ""
+    bot "Hmmm... Até que é fofo... e chique também!"
 
 # game/script.rpy:24818
 translate pt_br botvirginkiller_4dc162f1:
 
     # got "It's even got a hole in the back."
-    got ""
+    got "E tem até um buraco nas costas."
 
 # game/script.rpy:24820
 translate pt_br botvirginkiller_2178afc6:
 
     # bot "A hole? -Oh... I see..."
-    bot ""
+    bot "Um buraco? -Ah... Entendi..."
 
 # game/script.rpy:24821
 translate pt_br botvirginkiller_714b2340:
 
     # got "Not only is it cute, and fancy. It's also sexy. You can take it to a party, or... I don't know, do whatever you want..."
-    got ""
+    got "Não é só fofo e chique. Também é bem sensual. Você pode usar ele numa festa, ou... Eu sei lá, faz o que você quiser..."
 
 # game/script.rpy:24822
 translate pt_br botvirginkiller_8c50063b:
 
     # bot "Hmm..."
-    bot ""
+    bot "Hmm..."
 
 # game/script.rpy:24824
 translate pt_br botvirginkiller_6fa94212:
 
     # bot "What do you think [botown]? Should I get it?"
-    bot ""
+    bot "O que você acha [botown]? Eu deveria levar esse?"
 
 # game/script.rpy:24825
 translate pt_br botvirginkiller_d2cf8770_1:
 
     # c "Sure, it looks great."
-    c ""
+    c "Claro, ficou ótimo.."
 
 # game/script.rpy:24826
 translate pt_br botvirginkiller_fc2af515:
 
     # got "'[botown]'...?"
-    got ""
+    got "'[botown]'...?"
 
 # game/script.rpy:24828
 translate pt_br botvirginkiller_7dc1afe2:
 
     # bot "Really! Thank you!"
-    bot ""
+    bot "Obrigada! De verdade!"
 
 # game/script.rpy:24830
 translate pt_br botvirginkiller_7782f32d_1:
 
     # bot "Okay! I'll take this one please."
-    bot ""
+    bot "Tudo bem! Eu vou levar esse aqui, por favor."
 
 # game/script.rpy:24831
 translate pt_br botvirginkiller_84a5e5c4_1:
 
     # got "Great... That'll be $50."
-    got ""
+    got ""Tudo bem... Esse vai custar $50."
 
 # game/script.rpy:24832
 translate pt_br botvirginkiller_37fbc1f4_1:
 
     # bot "$50!? I don't have $50!"
-    bot ""
+    bot "$50!? Eu não tenho $50!"
 
 # game/script.rpy:24833
 translate pt_br botvirginkiller_7571c3df_1:
 
     # bot "Wait... I don't have any money..."
-    bot ""
+    bot "Espera... Eu não tenho dinheiro nenhum..."
 
 # game/script.rpy:24835
 translate pt_br botvirginkiller_b37f0934_2:
 
     # bot "Hnnn..."
-    bot ""
+    bot "Hnnn..."
 
 # game/script.rpy:24836
 translate pt_br botvirginkiller_999cc489_1:
 
     # c "I'll pay for it..."
-    c ""
+    c "Eu vou pagar..."
 
 # game/script.rpy:24838
 translate pt_br botvirginkiller_5cc47a7a_1:
 
     # bot "Thank you [botown]!"
-    bot ""
+    bot "Obrigada [botown]!"
 
 # game/script.rpy:24840
 translate pt_br botvirginkiller_74bea9e4_1:
 
     # bot "[botown] will pay for it!"
-    bot ""
+    bot "O [botown] vai pagar!"
 
 # game/script.rpy:24841
 translate pt_br botvirginkiller_4bd3726f_1:
 
     # got "Ooookay."
-    got ""
+    got "Tuuuudo bem."
 
 # game/script.rpy:24842
 translate pt_br botvirginkiller_4630ddc2_1:
 
     # "You hand Juliet $50"
-    ""
+    "Você entrega $50 para Juliet"
 
 # game/script.rpy:24844
 translate pt_br botvirginkiller_55266047_1:
 
     # got "Great. Come again!"
-    got ""
+    got "Ótimo. Volte sempre!"
 
 # game/script.rpy:24846
 translate pt_br botvirginkiller_4cfab095_1:
 
     # bot "This was so fun [botown]! And I even got a new outfit! Thank you so much!"
-    bot ""
+    bot "Isso foi muito divertido [botown]! E eu consegui até uma roupa nova! Muito obrigada!"
 
 # game/script.rpy:24848
 translate pt_br botvirginkiller_b83f0ddc_1:
 
     # bot "Mmm... I guess we have to go back home now, don't we?"
-    bot ""
+    bot "Mm... Acho que nós precisamos voltar para casa agora, não é?"
 
 # game/script.rpy:24849
 translate pt_br botvirginkiller_2942e407_1:
 
     # c "Yeah, we probably should."
-    c ""
+    c "Sim, nós provavelmente deviamos."
 
 # game/script.rpy:24851
 translate pt_br botvirginkiller_729ffd0b_1:
 
     # bot "Well it was really fun! I hope we can come back soon!"
-    bot ""
+    bot "Bem, isso foi muito divertido! Eu espero que possamos voltar logo!"
 
 # game/script.rpy:24853
 translate pt_br botvirginkiller_d81c936e_1:
 
     # "You both hop back in your car and make your way to the hotel."
-    ""
+    "Vocês dois entram em seu carro e você dirige até o hotel."
 
 # game/script.rpy:24854
 translate pt_br botvirginkiller_f68b44d7:
 
     # "[botname] is overjoyed with her new outfit, she had so much fun, she almost forgot about her mask..."
-    ""
+    "[botname] está muito feliz com sua nova roupa. Ela fala sem parar sobre como mal pode esperar para usá-lo novamente..."
 
 # game/script.rpy:24857
 translate pt_br botvirginkiller_94b412aa:
 
     # bot "Thank you for everything... I can't wait to wear it again!"
-    bot ""
+    bot "Obrigada por tudo... Eu mal posso esperar para vestir isso novamente!"
 
 # game/script.rpy:24863
 translate pt_br botcunni_000a94db:
