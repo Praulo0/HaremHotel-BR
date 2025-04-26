@@ -58371,7 +58371,7 @@ translate pt_br botvirginkiller_54316081:
 translate pt_br botvirginkiller_1a7ccfe9:
 
     # bot "A bit breezy tho- Oh... That's weird..."
-    bot "Entra um pouco de vento por aqui, no entanto... Oh... Isso é estranho...""
+    bot "Entra um pouco de vento por aqui, no entanto... Oh... Isso é estranho..."
 
 # game/script.rpy:24749
 translate pt_br botvirginkiller_a600cc78:
@@ -58671,7 +58671,7 @@ translate pt_br botvirginkiller_7782f32d_1:
 translate pt_br botvirginkiller_84a5e5c4_1:
 
     # got "Great... That'll be $50."
-    got ""Tudo bem... Esse vai custar $50."
+    got Tudo bem... Esse vai custar $50."
 
 # game/script.rpy:24832
 translate pt_br botvirginkiller_37fbc1f4_1:
@@ -58773,247 +58773,247 @@ translate pt_br botvirginkiller_94b412aa:
 translate pt_br botcunni_000a94db:
 
     # bot "{i}Initializing femdom mode...{/i}"
-    bot ""
+    bot "{i}Inicializando modo o dominadora...{/i}"
 
 # game/script.rpy:24865
 translate pt_br botcunni_342e54e5:
 
     # bot "Are you ready to serve your queen?"
-    bot ""
+    bot "Você está pronto para servir a sua rainha?"
 
 # game/script.rpy:24867
 translate pt_br botcunni_14b2d69f:
 
     # bot "Ahhh... Make sure you lick me up nice and good...."
-    bot ""
+    bot "Ahhh... Certifique-se de me lamber bem gostoso..."
 
 # game/script.rpy:24869
 translate pt_br botcunni_668412b5:
 
     # bot "Mmmm! Yes... good boy..."
-    bot ""
+    bot "Mmmm! Yes... bom garoto..."
 
 # game/script.rpy:24870
 translate pt_br botcunni_b5813837:
 
     # bot "Ahhh, your face feels so good licking my pussy. Mmmm, yes..."
-    bot ""
+    bot "Ahhh, seu rosto é tão gostoso lambendo minha boceta. Mmmm, sim..."
 
 # game/script.rpy:24871
 translate pt_br botcunni_7b21a15f:
 
     # bot "You do like my ass? Can you still breathe? Hahaha! Nnn..."
-    bot ""
+    bot "Você gosta da minha bunda? Ainda está conseguindo respirar? Hahaha! Nnn..."
 
 # game/script.rpy:24873
 translate pt_br botcunni_c7d7e81a:
 
     # "{i}You feel a sudden euphoria...{/i}"
-    ""
+    "{i}Você começa a sentir uma euforia repentina...{/i}"
 
 # game/script.rpy:24874
 translate pt_br botcunni_afc697ce:
 
     # bot "Yes, good job! Keep going! Please me! Ahh!"
-    bot ""
+    bot "Isso, bom trabalho! Continue! Por favor! Ahh!"
 
 # game/script.rpy:24875
 translate pt_br botcunni_6335ca0f:
 
     # bot "Mmm! Mmm! Keep licking! Keep licking!"
-    bot ""
+    bot "Mmm! Mmm! Continua lambendo! Continua lambendo!"
 
 # game/script.rpy:24877
 translate pt_br botcunni_117d491a:
 
     # "{i}You feel a pleasurable sensation wisping across your brain...{/i}"
-    ""
+    "{i}Você sente uma sensação prazerosa percorrendo seu cérebro...{/i}"
 
 # game/script.rpy:24878
 translate pt_br botcunni_bdd964d7:
 
     # bot "Mmm! Lick faster boy!"
-    bot ""
+    bot "Mmm! Lamba mais rápido, garoto!"
 
 # game/script.rpy:24879
 translate pt_br botcunni_b8d5ba12:
 
     # bot "Faster! Faster!!!"
-    bot ""
+    bot "Mais rápido! Mais rápido!!!"
 
 # game/script.rpy:24883
 translate pt_br botcunni_f6f79b58:
 
     # "{i}It's as though your brain is being caressed by a thousand angels...{/i}"
-    ""
+    "{i}É como se o seu cérebro estivesse sendo acariciado por mil anjos...{/i}"
 
 # game/script.rpy:24884
 translate pt_br botcunni_f352fabe:
 
     # bot "Are you addicted yet? Huh? Huh!? You will be! I'll make sure of it!"
-    bot ""
+    bot "Já está viciado? Hein? Hein!? Você vai ficar! Eu vou garantir isso!"
 
 # game/script.rpy:24885
 translate pt_br botcunni_9bcb558f:
 
     # bot "Hmph! I'm starting to get tired... Come here boy!"
-    bot ""
+    bot "Hmph! Eu estou começando a ficar enjoada... Venha aqui, garoto!"
 
 # game/script.rpy:24887
 translate pt_br botcunni_b2fc5b15:
 
     # bot "Ah! That's much better, don't start slacking now or I'll never cum like this!"
-    bot ""
+    bot "Ah! Assim é muito melhor,  não vá começar a relaxar ou eu nunca vou gozar assim!"
 
 # game/script.rpy:24888
 translate pt_br botcunni_af9928a7:
 
     # bot "Please your queen slave!"
-    bot ""
+    bot "Satisfaça a sua rainha, escravo!"
 
 # game/script.rpy:24890
 translate pt_br botcunni_c9e86074:
 
     # "{i}You feel the sensation of an orgasm rising to the surface of your brain...{/i}"
-    ""
+    "{i}Você sente a sensação de um orgasmo subindo à superfície do seu cérebro...{/i}"
 
 # game/script.rpy:24891
 translate pt_br botcunni_aefa25d5:
 
     # bot "Ahh! Yes! Yesss! Just like that!"
-    bot ""
+    bot "Ahh! Isso! Issooo! Bem assim!"
 
 # game/script.rpy:24892
 translate pt_br botcunni_7ca49954:
 
     # bot "You learn fast boy! Ahhh! I'm definitely keeping this one! Mmm!"
-    bot ""
+    bot "Você aprende rápido, garoto! Ahhh! Eu definitivamente vou ficar com este! Mmm!"
 
 # game/script.rpy:24893
 translate pt_br botcunni_7b7bf3d0:
 
     # bot "Ahh! Yes! Keep going! Don't stop!"
-    bot ""
+    bot "Ahh! Isso! Continua! Não para!"
 
 # game/script.rpy:24896
 translate pt_br botcunni_268dcd66:
 
     # bot "Yes! Yes! Yes! Good boy! Good boy!"
-    bot ""
+    bot "Isso! Isso! Isso! Bom garoto! Bom garoto!"
 
 # game/script.rpy:24897
 translate pt_br botcunni_865e9337:
 
     # bot "Ahh! Nnnn! You're going to make your queen cum! Keep going! Yes!"
-    bot ""
+    bot "Ahh! Nnnn! Você vai fazer a sua rainha gozar! Continua! Isso!"
 
 # game/script.rpy:24899
 translate pt_br botcunni_f10def46:
 
     # "{i}As she gets close to an orgasm, her juices begin to taste sweeter...{/i}"
-    ""
+    "{i}Conforme ela vai se aproximando de um orgasmo, os sucos dela começam a ficar mais doces...{/i}"
 
 # game/script.rpy:24900
 translate pt_br botcunni_b4a278b8:
 
     # bot "Ahhh! Hahhh! Make me cum! Make me cum!!!"
-    bot ""
+    bot "Ahhh! Hahhh! Me faz gozar! Me faz gozar!!!"
 
 # game/script.rpy:24902
 translate pt_br botcunni_100dc926:
 
     # bot "AHHHH!!!"
-    bot ""
+    bot "AHHHH!!!"
 
 # game/script.rpy:24904
 translate pt_br botcunni_4322f7b5:
 
     # bot "Ahhh... Hahhhh... Nnnn..."
-    bot ""
+    bot "Ahhh... Hahhhh... Nnnn..."
 
 # game/script.rpy:24905
 translate pt_br botcunni_93774e98:
 
     # bot "Haha! You did a good job boy!"
-    bot ""
+    bot "Haha! Você fez um bom trabalho, garoto!"
 
 # game/script.rpy:24914
 translate pt_br botspring_1d3b2b53:
 
     # "You and [botname] head to the hot springs..."
-    ""
+    "Você e [botname] vão a fonte termal..."
 
 # game/script.rpy:24919
 translate pt_br botspring_8af2229f:
 
     # bot "Hello [botown]! So what are we doing here?"
-    bot ""
+    bot "Olá [botown]! Então o que estamos fazendo aqui?"
 
 # game/script.rpy:24920
 translate pt_br botspring_7ac8078d:
 
     # c "Just thought you'd like to relax a little."
-    c ""
+    c "Eu só achei que você gostaria de relaxar um pouco."
 
 # game/script.rpy:24921
 translate pt_br botspring_68be653a:
 
     # bot "Oh, thanks for thinking of me!"
-    bot ""
+    bot "Ah, obrigada por pensar em mim!"
 
 # game/script.rpy:24926
 translate pt_br botspring_1db1b3f4:
 
     # bot "Egh... Don't you think it's a little hot here...?"
-    bot ""
+    bot "Egh... Você não acha que está um pouco quente aqui...?"
 
 # game/script.rpy:24927
 translate pt_br botspring_03a1ed99:
 
     # c "It's comfortable for me. Are you going to be alright?"
-    c ""
+    c "Para mim está confortável.  Você vai ficar bem?"
 
 # game/script.rpy:24928
 translate pt_br botspring_f3a8bae5:
 
     # bot "Yes... I think so. There's nothing in my code warning me about temperatures under 1,085 degrees celsius..."
-    bot ""
+    bot "Sim... Eu acho. Não há nada no meu código me alertando sobre temperaturas abaixo de 1.085 graus Celsius...""
 
 # game/script.rpy:24929
 translate pt_br botspring_f20891f2:
 
     # bot "But still... It feels a bit... hot..."
-    bot ""
+    bot "Mas ainda assim... Está um pouco... quente..."
 
 # game/script.rpy:24934
 translate pt_br botspring_34b92ea9:
 
     # bot "Oh well! It's probably nothing."
-    bot ""
+    bot "Ah bem! Não deve ser nada."
 
 # game/script.rpy:24939
 translate pt_br botspring_3590db60:
 
     # bot "Do humans find the heat relaxing?"
-    bot ""
+    bot "Os humanos acham o calor relaxante?"
 
 # game/script.rpy:24940
 translate pt_br botspring_2c52ed81:
 
     # c "Some do."
-    c ""
+    c "Alguns sim."
 
 # game/script.rpy:24941
 translate pt_br botspring_6d01d3a3:
 
     # bot "Really? It feels like I'm about to melt!"
-    bot ""
+    bot "Sério? Eu estou sentindo como se fosse derreter!"
 
 # game/script.rpy:24946
 translate pt_br botspring_acefb76c:
 
     # bot "Oh, I don't mean to scare you, I'm not actually going to melt. It's like... a fuzzy feeling I guess."
-    bot ""
+    bot "Ah, eu não quis te assuster, eu não vou derreter de verdade. "
 
 # game/script.rpy:24947
 translate pt_br botspring_966e6024:
