@@ -29134,7 +29134,7 @@ translate pt_br springash_40d7d3dd:
 translate pt_br yourroom_404d337c:
 
     # warning "Uh oh! Things don't seem right. The relationship level of one or more of the girls is way too high."
-    warning "Oh ou! As coisas não parecem estar certas. O nível de relacionamento de uma garota ou mais está muito alto."
+    warning "Oh-ou! As coisas não parecem estar certas. O nível de relacionamento de uma garota ou mais está muito alto."
 
 # game/script.rpy:15387
 translate pt_br yourroom_df8f0bc6:
@@ -42900,7 +42900,7 @@ translate pt_br bot_socialize_55f60aec:
 translate pt_br bot_socialize_6bac6121:
 
     # c "Uh oh..."
-    c "Oh ou..."
+    c "Oh-ou..."
 
 # game/script.rpy:20279
 translate pt_br bot_socialize_d6951809:
@@ -46755,7 +46755,7 @@ translate pt_br bot_mardom_cd236130:
 translate pt_br bot_mardom_aae3c04f:
 
     # m "Good girl... just like that!"
-    m "Boa menina... continue assim!"
+    m "Boa menina... assim mesmo!"
 
 # game/script.rpy:21233
 translate pt_br bot_mardom_7a4f9dcf:
@@ -53505,13 +53505,13 @@ translate pt_br botpinups_839b89f2:
 translate pt_br botpinups_b8b162f4:
 
     # bot "Egghhh...? Where's my 5th beer? I'm not drunk enough yet!"
-    bot "Egghhh...? Ode está a minha 5ª cerveja? Eu ainda não estou bêbada o suficiente!"
+    bot "Egghhh...? Onde está a minha 5ª cerveja? Eu ainda não estou bêbada o suficiente!"
 
 # game/script.rpy:23204
 translate pt_br botpinups_b09d275d:
 
     # bot "Uh oh! I've gotten too drunk!"
-    bot "Oh ou! Eu fiquei bêbada demais!"
+    bot "Oh-ou! Eu fiquei bêbada demais!"
 
 # game/script.rpy:23209
 translate pt_br botpinups_12284b7c:
@@ -53781,7 +53781,7 @@ translate pt_br botpinups_13ffaaa9:
 translate pt_br botpinups_4c94f4e7:
 
     # bot "Uh oh! My skirt fell off!"
-    bot "Oh ou! A minha saia caiu!"
+    bot "Oh-ou! A minha saia caiu!"
 
 # game/script.rpy:23368
 translate pt_br botpinups_c3f45144:
@@ -58791,7 +58791,7 @@ translate pt_br botcunni_14b2d69f:
 translate pt_br botcunni_668412b5:
 
     # bot "Mmmm! Yes... good boy..."
-    bot "Mmmm! Yes... bom garoto..."
+    bot "Mmmm! Isso... bom garoto..."
 
 # game/script.rpy:24870
 translate pt_br botcunni_b5813837:
@@ -58863,7 +58863,7 @@ translate pt_br botcunni_9bcb558f:
 translate pt_br botcunni_b2fc5b15:
 
     # bot "Ah! That's much better, don't start slacking now or I'll never cum like this!"
-    bot "Ah! Assim é muito melhor,  não vá começar a relaxar ou eu nunca vou gozar assim!"
+    bot "Ah! Assim é muito melhor, não vá começar a relaxar ou eu nunca vou gozar assim!"
 
 # game/script.rpy:24888
 translate pt_br botcunni_af9928a7:
@@ -58881,7 +58881,7 @@ translate pt_br botcunni_c9e86074:
 translate pt_br botcunni_aefa25d5:
 
     # bot "Ahh! Yes! Yesss! Just like that!"
-    bot "Ahh! Isso! Issooo! Bem assim!"
+    bot "Ahh! Isso! Issooo! Assim mesmo!"
 
 # game/script.rpy:24892
 translate pt_br botcunni_7ca49954:
@@ -58977,7 +58977,7 @@ translate pt_br botspring_03a1ed99:
 translate pt_br botspring_f3a8bae5:
 
     # bot "Yes... I think so. There's nothing in my code warning me about temperatures under 1,085 degrees celsius..."
-    bot "Sim... Eu acho. Não há nada no meu código me alertando sobre temperaturas abaixo de 1.085 graus Celsius...""
+    bot "Sim... Eu acho. Não há nada no meu código me alertando sobre temperaturas abaixo de 1.085 graus Celsius..."
 
 # game/script.rpy:24929
 translate pt_br botspring_f20891f2:
@@ -59013,985 +59013,985 @@ translate pt_br botspring_6d01d3a3:
 translate pt_br botspring_acefb76c:
 
     # bot "Oh, I don't mean to scare you, I'm not actually going to melt. It's like... a fuzzy feeling I guess."
-    bot "Ah, eu não quis te assuster, eu não vou derreter de verdade. "
+    bot "Ah, eu não quis te assustar, eu não vou derreter de verdade. "
 
 # game/script.rpy:24947
 translate pt_br botspring_966e6024:
 
     # c "So [botname], do you have any likes and dislikes?"
-    c ""
+    c "Então [botname], você tem algo que gosta ou não gosta?"
 
 # game/script.rpy:24952
 translate pt_br botspring_29f0abdb:
 
     # bot "Oh, of course! Ummm... I like when people are happy! And I don't like it when people are sad or angry..."
-    bot ""
+    bot "Ah, com certeza! Hummm... Eu gosto de quando as pessoas estão felizes! E não gosto de quando as pessoas estão tristes ou bravas..."
 
 # game/script.rpy:24953
 translate pt_br botspring_3578b8c6:
 
     # c "Besides that. Do you have any interests?"
-    c ""
+    c "Fora isso. Você tem algum interesse?"
 
 # game/script.rpy:24954
 translate pt_br botspring_f33e8e3e:
 
     # bot "Interests? Hmm... I guess I haven't really thought of that before... I was so determined to be perfect, I guess I didn't have time to think about anything else..."
-    bot ""
+    bot "Interesse? Hmm... Eu acho que nunca parei pra pensar nisso de verdade... Eu estive tão determinada em ser perfeita, que acho que nunca tive tempo pra pensar em mais nada..."
 
 # game/script.rpy:24955
 translate pt_br botspring_b15cfc01:
 
     # bot "Oh! I like learning things! People are really interesting. Everyone is so different and unique! But I guess that can be bad sometimes..."
-    bot ""
+    bot "Ah! Eu gosto de aprender coisas! As pessoas são muito interessantes. Todo mundo é tão diferente e único! Mas eu acho que isso pode ser algo ruim às vezes..."
 
 # game/script.rpy:24960
 translate pt_br botspring_8234952b:
 
     # bot "Like Ashley..."
-    bot ""
+    bot "Tipo a Ashley..."
 
 # game/script.rpy:24965
 translate pt_br botspring_70414e9d:
 
     # bot "But Lin is cool! I've never seen anyone with pointy ears before. But she has a rough past... I wish those people didn't do that to her..."
-    bot ""
+    bot "Mas a Lin é legal! Eu nunca vi ninguém com orelhas pontudas antes. Ela teve um passado difícil... Eu queria que aquelas pessoas não tivessem feito tudo aquilo com ela..."
 
 # game/script.rpy:24966
 translate pt_br botspring_9c7025c4:
 
     # bot "And I want to see everything! I've only ever lived in this hotel. It would be cool to see the snow, or maybe a volcano! But maybe I'd actually melt if I did that..."
-    bot ""
+    bot "E eu quero poder ver tudo! Eu só morei neste hotel. Seria legal poder ver a neve, ou talvez um vulcão! Mas eu provavelmente derreteria se eu fizese isso..."
 
 # game/script.rpy:24967
 translate pt_br botspring_81c9d2b6:
 
     # bot "Oh! Maybe another planet!"
-    bot ""
+    bot "Ah! Talvez um outro planeta!"
 
 # game/script.rpy:24968
 translate pt_br botspring_40a5c198:
 
     # c "That seems a bit unrealistic, don't you think?"
-    c ""
+    c "Isso é meio irrealista, não acha?"
 
 # game/script.rpy:24969
 translate pt_br botspring_9a9efe48:
 
     # bot "Why's that? It's not like I have an expiration date like humans. I'm going to live forever!"
-    bot ""
+    bot "Por que diz isso? Não é como se eu tivesse uma data de validade como os humanos. Eu vou viver para sempre!"
 
 # game/script.rpy:24974
 translate pt_br botspring_abecfa00:
 
     # bot "W-Wait..."
-    bot ""
+    bot "E-Espera..."
 
 # game/script.rpy:24975
 translate pt_br botspring_a46078a0:
 
     # bot "[botown]...?"
-    bot ""
+    bot "[botown]...?"
 
 # game/script.rpy:24976
 translate pt_br botspring_c49dd42c:
 
     # bot "Are you going to... die? Like your grandfather..."
-    bot ""
+    bot "Você vai... morrer? Como o seu avô..."
 
 # game/script.rpy:24977
 translate pt_br botspring_ae3defbf:
 
     # bot "I don't want you to die! You can live forever, right? Just like me?"
-    bot ""
+    bot "Eu não quero que você morra! Você pode viver para sempre, né? Igual a mim?"
 
 # game/script.rpy:24984
 translate pt_br botspring_031e5759:
 
     # bot "Oh haha! I didn't know that! That's good!"
-    bot ""
+    bot "Ah haha! Eu não sabia disso! Isso é bom!"
 
 # game/script.rpy:24986
 translate pt_br botspring_8f5a561e:
 
     # bot "Please don't die..."
-    bot ""
+    bot "Por favor não morra..."
 
 # game/script.rpy:24988
 translate pt_br botspring_72bd08d4:
 
     # c "How about we get in the water?"
-    c ""
+    c "O que acha de entrarmos na água?"
 
 # game/script.rpy:24993
 translate pt_br botspring_a7a4f359:
 
     # bot "That's not a good idea..."
-    bot ""
+    bot "Essa não é uma boa ideia..."
 
 # game/script.rpy:24994
 translate pt_br botspring_4e5a4202:
 
     # c "Why?"
-    c ""
+    c "Por quê?"
 
 # game/script.rpy:24995
 translate pt_br botspring_1da49727:
 
     # bot "Generally I'm water resistant... All I need to do is close my orifices, but prolonged exposure to water can be dangerous..."
-    bot ""
+    bot "Geralmente eu sou resistente à água... Tudo o que eu preciso fazer é fechar os meus orifícios, mas a exposição prolongada à água ainda pode ser perigosa."
 
 # game/script.rpy:24996
 translate pt_br botspring_be8b7287:
 
     # c "How so?"
-    c ""
+    c "Como assim?"
 
 # game/script.rpy:24997
 translate pt_br botspring_f00bf5a6:
 
     # bot "While water wouldn't be life threatening, it could still do some damage. If electrical parts of me were to contact water I could short circuit."
-    bot ""
+    bot "Mesmo que a água não seja uma ameaça à minha vida, ela ainda pode ser prejudicial. Se as minhas partes elétricas tiverem contato com a água eu posso sofrer um curto-circuito. "
 
 # game/script.rpy:24998
 translate pt_br botspring_7711cddf:
 
     # bot "Uncontrollable limbs and personality changes are a few side effects. A coma would be a more dire side effect."
-    bot ""
+    bot "Membros incontroláveis e mudanças de personalidade são alguns efeitos colaterais. Um coma seria um efeito colateral mais terrível."
 
 # game/script.rpy:24999
 translate pt_br botspring_99ef17e4:
 
     # c "Oh, that's good to know."
-    c ""
+    c "Ah, bom saber."
 
 # game/script.rpy:25004
 translate pt_br botspring_a637eab5:
 
     # c "So you have no organic parts in you?"
-    c ""
+    c "Então você tem partes orgânicas em você?"
 
 # game/script.rpy:25005
 translate pt_br botspring_dab4e933:
 
     # bot "Ummm... Maybe? I don't have any human organics in me... I'm made of mostly metals and synthetics... but..."
-    bot ""
+    bot "Hummm... Talvez? Eu não tenho nenhum componente humano orgânico em mim... Eu sou feita principalmente de metais e materiais sintéticos... mas... "
 
 # game/script.rpy:25006
 translate pt_br botspring_eb03dc2a:
 
     # bot "I guess I have micro organisms. Or maybe it would better be explained with the term nanobots? They help clean my insides and repair light damage to my body."
-    bot ""
+    bot "Eu acho que tenho micro-organismos. Ou talvez seria melhor explicar com o termo nanorrobôs? ELes me ajudam a manter a parte de dentro do meu corpo limpa e reparam danos leves ao meu corpo."
 
 # game/script.rpy:25007
 translate pt_br botspring_02561a45:
 
     # c "So you don't need to eat then?"
-    c ""
+    c "Então você não precisa comer?"
 
 # game/script.rpy:25008
 translate pt_br botspring_4bb84ee1:
 
     # bot "Well I can eat, but I don't need to."
-    bot ""
+    bot "Bem, eu posso comer, mas não preciso."
 
 # game/script.rpy:25009
 translate pt_br botspring_b504993c:
 
     # c "What do you mean you can eat?"
-    c ""
+    c "o que você quer dizer com 'você pode comer?'"
 
 # game/script.rpy:25010
 translate pt_br botspring_b5545716:
 
     # bot "Food's purpose is to fuel an organism. It gives it energy, right? Well food gives me energy but it's highly ineffecient. Plugging into a wall is a much better energy source."
-    bot ""
+    bot "A função da comida é alimentar o organismo. Ela lhe dá energia, certo? Bem, a comida me dá energia, mas ainda é bem ineficiente. Me conectar a uma parede é uma fonte de energia bem melhor."
 
 # game/script.rpy:25011
 translate pt_br botspring_de893dc4:
 
     # c "Would you die without electricity?"
-    c ""
+    c "Você morreria sem eletricidade?"
 
 # game/script.rpy:25012
 translate pt_br botspring_5f9d7587:
 
     # bot "Um... Yes!"
-    bot ""
+    bot "Hum... Sim!"
 
 # game/script.rpy:25013
 translate pt_br botspring_6588d3a2:
 
     # bot "Or no?"
-    bot ""
+    bot "Ou não?"
 
 # game/script.rpy:25014
 translate pt_br botspring_71fbe20f:
 
     # bot "Yes and no. I would completely shut down and receive no sensory data. I wouldn't be able to form new memories or anything like that. Which would be equivilent to a human's death."
-    bot ""
+    bot "Sim e não. Eu me desligaria completamente e não receberia nenhuma informação sensorial. Eu não seria capaz de criar novas memórias e nem nada assim. O que seria equivalente à morte de um humano."
 
 # game/script.rpy:25015
 translate pt_br botspring_7d08862f:
 
     # bot "But once I'm recharged everything will go back to normal. This happened when your grandfather died. He shut me off, so I was technically dead, but Ellen turned me on a few days before your arrival. I've been watching you ever since!"
-    bot ""
+    bot "Mas uma vez que eu fosse recarregada eu voltaria de volta ao normal. Foi o que aconteceu quando o seu avô morreu. Ele me desligou, então eu estava tecnicamente morta, Mas a Ellen me ligou novamente alguns dias antes de você chegar. Eu estive te assistindo desde então!"
 
 # game/script.rpy:25020
 translate pt_br botspring_e03ea2e3:
 
     # bot "I hope that's not creepy..."
-    bot ""
+    bot "Eu espero que isso não te assuste..."
 
 # game/script.rpy:25021
 translate pt_br botspring_4131247d:
 
     # c "Maybe a little."
-    c ""
+    c "Talvez um pouquinho."
 
 # game/script.rpy:25022
 translate pt_br botspring_5381f692:
 
     # bot "I didn't like you when I first saw you. Or all of the new girls in the hotel... It was like someone moved in to my home..."
-    bot ""
+    bot "Eu não gostei de você na primeira vez que te vi. Ou de nenhuma das meninas novas no hotel... Era como se alguém tivesse se mudado para a minha casa..."
 
 # game/script.rpy:25023
 translate pt_br botspring_f704301f:
 
     # bot "And I saw everything through the cameras placed in the girl's rooms..."
-    bot ""
+    bot "E eu via tudo através das câmeras colocadas nos quartos das meninas..."
 
 # game/script.rpy:25024
 translate pt_br botspring_7051bcf6:
 
     # c "Oh. What did you see?"
-    c ""
+    c "Ah. O que você viu?"
 
 # game/script.rpy:25025
 translate pt_br botspring_6edf8921:
 
     # bot "Everything..."
-    bot ""
+    bot "Tudo..."
 
 # game/script.rpy:25030
 translate pt_br botspring_006a327d:
 
     # bot "But it's okay! Now I like everyone!"
-    bot ""
+    bot "Mas está tudo bem! Agora eu gosto de todo mundo!"
 
 # game/script.rpy:25035
 translate pt_br botspring_1b6599cf:
 
     # bot "Except Ashley..."
-    bot ""
+    bot "Menos da AShley..."
 
 # game/script.rpy:25040
 translate pt_br botspring_41a3fafb:
 
     # bot "Oh and-"
-    bot ""
+    bot "Ah e-"
 
 # game/script.rpy:25045
 translate pt_br botspring_5d65423b:
 
     # bot "Nnn..." with ssshake
-    bot "" with ssshake
+    bot "Nnn..." with ssshake
 
 # game/script.rpy:25046
 translate pt_br botspring_3fc15ae0:
 
     # c "Are you okay?"
-    c ""
+    c "Você está bem?"
 
 # game/script.rpy:25047
 translate pt_br botspring_d4b133e4:
 
     # bot "Um... Yes I think so... I'm just... a little hot..."
-    bot ""
+    bot "Hum... Sim, eu acho... Eu só... Estou com um pouco de calor..."
 
 # game/script.rpy:25052
 translate pt_br botspring_56cb218f:
 
     # bot "It's okay! I'm not getting any warnings. So it must be nothing."
-    bot ""
+    bot "Está tudo bem! Eu não estou recebendo nenhum aviso. Então não deve ser nada."
 
 # game/script.rpy:25057
 translate pt_br botspring_d00fc00e:
 
     # bot "Ahn..." with ssshake
-    bot "" with ssshake
+    bot "Ahn..." with ssshake
 
 # game/script.rpy:25058
 translate pt_br botspring_4ab48eb3:
 
     # c "[botname]?"
-    c ""
+    c "[botname]?"
 
 # game/script.rpy:25059
 translate pt_br botspring_1c863bc7:
 
     # bot "Nnn!" with ssshake
-    bot "" with ssshake
+    bot "Nnn!" with ssshake
 
 # game/script.rpy:25064
 translate pt_br botspring_b628bf37:
 
     # bot "Uh oh..."
-    bot ""
+    bot "Oh-ou..."
 
 # game/script.rpy:25065
 translate pt_br botspring_a4f15064:
 
     # c "What's happening?"
-    c ""
+    c "O que está acontecendo?"
 
 # game/script.rpy:25066
 translate pt_br botspring_66a0f1c2:
 
     # bot "I didn't think about it, but... There's a lot of humidity here, isn't there?"
-    bot ""
+    bot "Eu não tinha pensado nisso, mas... Tem muita umidade aqui, não é?"
 
 # game/script.rpy:25067
 translate pt_br botspring_24c7ada5:
 
     # c "Yes?"
-    c ""
+    c "Sim?"
 
 # game/script.rpy:25072
 translate pt_br botspring_1c863bc7_1:
 
     # bot "Nnn!" with ssshake
-    bot "" with ssshake
+    bot "Nnn!" with ssshake
 
 # game/script.rpy:25073
 translate pt_br botspring_0365fb40:
 
     # bot "That explains why I'm not getting any errors..."
-    bot ""
+    bot "Isso explica por que não estou recebendo nenhum erro..."
 
 # game/script.rpy:25078
 translate pt_br botspring_c11db1ad:
 
     # bot "Ghh! I can't control it... Sorry [botown]..." with ssshake
-    bot "" with ssshake
+    bot "Ghh! Eu não consigo controlar...Desculpa [botown]..." with ssshake
 
 # game/script.rpy:25079
 translate pt_br botspring_9bcb8791:
 
     # c "For what?"
-    c ""
+    c "Por quê?"
 
 # game/script.rpy:25084
 translate pt_br botspring_2612699b:
 
     # bot "{i}ERROR: Water damage detected...{/i}"
-    bot ""
+    bot "{i}ERRO: Danos causados ​​pela água detectados...{/i}"
 
 # game/script.rpy:25085
 translate pt_br botspring_38d70ddd:
 
     # "Zzzt" with ssshake
-    "" with ssshake
+    "Zzzt" with ssshake
 
 # game/script.rpy:25086
 translate pt_br botspring_4ab48eb3_1:
 
     # c "[botname]?"
-    c ""
+    c "[botname]?"
 
 # game/script.rpy:25087
 translate pt_br botspring_975eb425:
 
     # bot "{i}Male voice detected. Initializing...{/i}"
-    bot ""
+    bot "{i}Voz masculina detectada. Inicializando...{/i}"
 
 # game/script.rpy:25088
 translate pt_br botspring_38d70ddd_1:
 
     # "Zzzt" with ssshake
-    "" with ssshake
+    "Zzzt" with ssshake
 
 # game/script.rpy:25089
 translate pt_br botspring_fde8e55c:
 
     # bot "{i}I-I-I-I-Initializing{/i}"
-    bot ""
+    bot "{i}I-I-I-I-Inicializando{/i}"
 
 # game/script.rpy:25090
 translate pt_br botspring_21f119da:
 
     # "Zzzt ... Zzzt" with ssshake
-    "" with ssshake
+    "Zzzt ... Zzzt" with ssshake
 
 # game/script.rpy:25091
 translate pt_br botspring_287b08ed:
 
     # bot "{i}Femdom mode activated... Initializ-iz-iz-zing{/i}"
-    bot ""
+    bot "{i}Modo dominadora ativado... Inicializ-iz-iz-zando{/i}"
 
 # game/script.rpy:25092
 translate pt_br botspring_5c2c289f:
 
     # c "Shit."
-    c ""
+    c "Merda."
 
 # game/script.rpy:25097
 translate pt_br botspring_e1fddd5e:
 
     # bot "You've been a n-n-naughty boy, haven't you?"
-    bot ""
+    bot "Você tem sido um menino m-m-malvado, não é?"
 
 # game/script.rpy:25098
 translate pt_br botspring_297d93f3:
 
     # c "What?"
-    c ""
+    c "Quê?"
 
 # game/script.rpy:25099
 translate pt_br botspring_769728f8:
 
     # bot "Don't play dumb with m-me... you're a bad boy, and you must be p-punished!"
-    bot ""
+    bot "Não se faça de bobo c-comigo... você é um menino mal, e deve ser p-punido!"
 
 # game/script.rpy:25104
 translate pt_br botspring_70b20cd0:
 
     # bot "What is this doing on my face? This won't do..."
-    bot ""
+    bot "O que isso está fazendo no meu rosto? Assim não vai dar..."
 
 # game/script.rpy:25109
 translate pt_br botspring_d49b514c:
 
     # bot "That's better..."
-    bot ""
+    bot "Assim é melhor..."
 
 # game/script.rpy:25110
 translate pt_br botspring_b3e12f42:
 
     # bot "Come with me, won't you? I promise you'll enjoy your punishment as much as I do..."
-    bot ""
+    bot "Você vai vir comigo, não vai? Eu prometo que você vai amar a sua punição tanto quanto eu..."
 
 # game/script.rpy:25111
 translate pt_br botspring_8c9f9573:
 
     # "{i}She seems really confident... It might be fun seeing where this could lead... I could always use a command to restore her personality whenever I want...{/i}"
-    ""
+    "{i}Ela parece bem confiante... Deve ser divertido ver aonde isso vai dar... De qualuqer jeito eu sempre posso usar o comando para restaurar a personalidade deala...{/i}"
 
 # game/script.rpy:25114
 translate pt_br botspring_7bfae757:
 
     # c "Lead the way..."
-    c ""
+    c "Mostre o caminho..."
 
 # game/script.rpy:25116
 translate pt_br botspring_78203aee:
 
     # "You follow [botname] up to her room..."
-    ""
+    "Você segue [botname] para o quarto dela..."
 
 # game/script.rpy:25118
 translate pt_br botspring_d7f8b65b:
 
     # bot "Are you ready for your punishment?"
-    bot ""
+    bot "Você esta pronto para a sua punição?"
 
 # game/script.rpy:25119
 translate pt_br botspring_ee45a00c:
 
     # bot "Get on the ground, now!"
-    bot ""
+    bot "Fique no chão, agora!"
 
 # game/script.rpy:25121
 translate pt_br botspring_8c6a6e03:
 
     # bot "Naughty boy, you're going to make me cum with your mouth!"
-    bot ""
+    bot "Menino mau, você vai me fazer gozar com a sua boca!"
 
 # game/script.rpy:25124
 translate pt_br botspring_186d6312:
 
     # bot "Make sure you lick me up nice and good. You're going to get addicted to my juices and keep coming back, understand?"
-    bot ""
+    bot "Ahhh... Certifique-se de me lamber bem gostoso. Você vai ficar viciando nos meus sucos e vai voltar por mais, entendido?"
 
 # game/script.rpy:25126
 translate pt_br botspring_668412b5:
 
     # bot "Mmmm! Yes... good boy..."
-    bot ""
+    bot "Mmmm! Isso... bom garoto..."
 
 # game/script.rpy:25127
 translate pt_br botspring_b5813837:
 
     # bot "Ahhh, your face feels so good licking my pussy. Mmmm, yes..."
-    bot ""
+    bot "Ahhh, seu rosto é tão gostoso lambendo minha boceta. Mmmm, sim..."
 
 # game/script.rpy:25128
 translate pt_br botspring_40f4f5e4:
 
     # bot "You do like my ass? Do you like when I smother my ass in your face? Ahhh..."
-    bot ""
+    bot "Você gosta da minha bunda? Você gosta quando eu esfrego a minha bunda na tua cara? Ahhh..."
 
 # game/script.rpy:25130
 translate pt_br botspring_c7d7e81a:
 
     # "{i}You feel a sudden euphoria...{/i}"
-    ""
+    "{i}Você começa a sentir uma euforia repentina...{/i}"
 
 # game/script.rpy:25131
 translate pt_br botspring_51596a24:
 
     # bot "Ahh, are you addicted yet? You're going to be completely dependant on my pussy juices, Mmm!"
-    bot ""
+    bot "Ahh, já está viciado? Você vai ficar completamente dependente dos sucos da minha buceta, Mmm!"
 
 # game/script.rpy:25132
 translate pt_br botspring_0772df3c:
 
     # bot "Mmm! Mmm! Keep licking! You better not start getting tired!"
-    bot ""
+    bot "Mmm! Mmm! Continua lambendo! É melhor você não começar a ficar cansado!"
 
 # game/script.rpy:25134
 translate pt_br botspring_117d491a:
 
     # "{i}You feel a pleasurable sensation wisping across your brain...{/i}"
-    ""
+    "{i}Você sente uma sensação prazerosa percorrendo seu cérebro...{/i}"
 
 # game/script.rpy:25135
 translate pt_br botspring_bdd964d7:
 
     # bot "Mmm! Lick faster boy!"
-    bot ""
+    bot "Mmm! Lamba mais rápido, garoto!"
 
 # game/script.rpy:25138
 translate pt_br botspring_b8d5ba12:
 
     # bot "Faster! Faster!!!"
-    bot ""
+    bot "Mais rápido! Mais rápido!!!"
 
 # game/script.rpy:25140
 translate pt_br botspring_f6f79b58:
 
     # "{i}It's as though your brain is being caressed by a thousand angels...{/i}"
-    ""
+    "{i}É como se o seu cérebro estivesse sendo acariciado por mil anjos...{/i}"
 
 # game/script.rpy:25141
 translate pt_br botspring_0ace4ae7:
 
     # bot "Are you addicted yet? Huh? Huh!?"
-    bot ""
+    bot "Já está viciado? Hein? Hein!?"
 
 # game/script.rpy:25142
 translate pt_br botspring_9bcb558f:
 
     # bot "Hmph! I'm starting to get tired... Come here boy!"
-    bot ""
+    bot "Hmph! Eu estou começando a ficar enjoada... Venha aqui, garoto!"
 
 # game/script.rpy:25144
 translate pt_br botspring_b2fc5b15:
 
     # bot "Ah! That's much better, don't start slacking now or I'll never cum like this!"
-    bot ""
+    bot "Ah! Assim é muito melhor, não vá começar a relaxar ou eu nunca vou gozar assim!"
 
 # game/script.rpy:25145
 translate pt_br botspring_af9928a7:
 
     # bot "Please your queen slave!"
-    bot ""
+    bot "Satisfaça a sua rainha, escravo!"
 
 # game/script.rpy:25147
 translate pt_br botspring_c9e86074:
 
     # "{i}You feel the sensation of an orgasm rising to the surface of your brain...{/i}"
-    ""
+    "{i}Você sente a sensação de um orgasmo subindo à superfície do seu cérebro...{/i}"
 
 # game/script.rpy:25148
 translate pt_br botspring_aefa25d5:
 
     # bot "Ahh! Yes! Yesss! Just like that!"
-    bot ""
+    bot "Ahh! Isso! Issooo! Assim mesmo!"
 
 # game/script.rpy:25149
 translate pt_br botspring_4e3cf8d6:
 
     # bot "You learn fast boy! Keep licking my pussy like that and you'll make me squirt all over your face!"
-    bot ""
+    bot "Você aprende rápido! Continue lambendo a minha buceta e você vai me fazer esguichar tudo no teu rosto!"
 
 # game/script.rpy:25150
 translate pt_br botspring_7b7bf3d0:
 
     # bot "Ahh! Yes! Keep going! Don't stop!"
-    bot ""
+    bot "Ahh! Isso! Continua! Não para!"
 
 # game/script.rpy:25153
 translate pt_br botspring_268dcd66:
 
     # bot "Yes! Yes! Yes! Good boy! Good boy!"
-    bot ""
+    bot "Isso! Isso! Isso! Bom garoto! Bom garoto!
 
 # game/script.rpy:25154
 translate pt_br botspring_865e9337:
 
     # bot "Ahh! Nnnn! You're going to make your queen cum! Keep going! Yes!"
-    bot ""
+    bot "Ahh! Nnnn! Você vai fazer a sua rainha gozzar! Continua! Isso!"
 
 # game/script.rpy:25156
 translate pt_br botspring_f10def46:
 
     # "{i}As she gets close to an orgasm, her juices begin to taste sweeter...{/i}"
-    ""
+    "{i}Conforme ela vai se aproximando de um orgasmo, os sucos dela começam a ficar mais doces...{/i}"
 
 # game/script.rpy:25157
 translate pt_br botspring_b4a278b8:
 
     # bot "Ahhh! Hahhh! Make me cum! Make me cum!!!"
-    bot ""
+    bot "Ahhh! Hahhh! Me faz gozer! Me faz gozar!!!"
 
 # game/script.rpy:25159
 translate pt_br botspring_100dc926:
 
     # bot "AHHHH!!!"
-    bot ""
+    bot "AHHHH!!!"
 
 # game/script.rpy:25161
 translate pt_br botspring_4322f7b5:
 
     # bot "Ahhh... Hahhhh... Nnnn..."
-    bot ""
+    bot "Ahhh... Hahhhh... Nnnn..."
 
 # game/script.rpy:25162
 translate pt_br botspring_680585b7:
 
     # bot "Haha! You did a good job boy! I'll have to keep yo-"
-    bot ""
+    bot "Haha! Bocê fez um bom trabalho, garoto! Eu vou precisar manter vo-"
 
 # game/script.rpy:25164
 translate pt_br botspring_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:25166
 translate pt_br botspring_fb1d364a:
 
     # bot "WHAT HAPPENED!?"
-    bot ""
+    bot "O QUE ACONTECEU!?  "
 
 # game/script.rpy:25167
 translate pt_br botspring_7113549d:
 
     # c "You short circuited. Something about humidity."
-    c ""
+    c "Você sofreu um curto-cirquito. Teve alguma coisa a ver com a umidade."
 
 # game/script.rpy:25169
 translate pt_br botspring_1c384c58:
 
     # bot "Nnn... My mask is off..."
-    bot ""
+    bot "Nnn... Eu estou sem a minha máscara..."
 
 # game/script.rpy:25170
 translate pt_br botspring_df82c9c3:
 
     # bot "Sorry [botown]..."
-    bot ""
+    bot "Desculpa [botown]..."
 
 # game/script.rpy:25171
 translate pt_br botspring_156d9659:
 
     # c "Is this Femdom mode something you knew about?"
-    c ""
+    c "Esse modo Dominadora é alguma coisa que você já sabia sobre?"
 
 # game/script.rpy:25172
 translate pt_br botspring_a045dfe6:
 
     # bot "Yes... I can activate it at any time. It was just a bit scary having it happen out of my control. Maybe it's best if I stay away from the hot spring..."
-    bot ""
+    bot "Sim... Eu posso ativar isso a qualquer momento. Só é um pouco assustador quando acontece estando fora do meu controle. Talvez fosse melhor eu ficar longe da fonte termal..."
 
 # game/script.rpy:25173
 translate pt_br botspring_71e81297:
 
     # bot "Nnn... I have a bit of a headache..."
-    bot ""
+    bot "Nnn... Eu estou com um pouco de dor de cabeça..."
 
 # game/script.rpy:25174
 translate pt_br botspring_8d0a4d31:
 
     # bot "I think I should take a rest. I'll see you later [botown]..."
-    bot ""
+    bot "Eu acho que eu deveria descansar. Eu tevejo depois [botname]..."
 
 # game/script.rpy:25179
 translate pt_br botspring_7bc8e8ca:
 
     # c "[botname]; Sleep."
-    c ""
+    c "[botname]; Durma."
 
 # game/script.rpy:25184
 translate pt_br botspring_83769121:
 
     # bot "Hah! I am not tired you-"
-    bot ""
+    bot "Hah! Eu não estou cansada, seu-"
 
 # game/script.rpy:25189
 translate pt_br botspring_15e7962a:
 
     # bot "*snore*" with ssshake
-    bot "" with ssshake
+    bot "*zzzzz*" with ssshake
 
 # game/script.rpy:25191
 translate pt_br botspring_0961a296:
 
     # "You attempt to pick up [botname] to take her to her room, but she's very heavy... Instead you drag her."
-    ""
+    "Você tenta pegar [botname] para levá-la para o quarto dela, mas ela é muito pesada... Em vez disso, você a arrasta."
 
 # game/script.rpy:25192
 translate pt_br botspring_e651954a:
 
     # "Upon reaching her room, you lay her down on her bed, and wait for her to wake up..."
-    ""
+    "Uma vez que você chea no quarto dela, você a coloca deitada na cama dela, e espera até ela acordar..."
 
 # game/script.rpy:25197
 translate pt_br botspring_3b3cd42f:
 
     # bot "Eghh... Huh? [botown]?"
-    bot ""
+    bot "Eghh... Huh? [botown]?"
 
 # game/script.rpy:25202
 translate pt_br botspring_fb1d364a_1:
 
     # bot "WHAT HAPPENED!?"
-    bot ""
+    bot "O QUE ACONTECEU!?"
 
 # game/script.rpy:25203
 translate pt_br botspring_7113549d_1:
 
     # c "You short circuited. Something about humidity."
-    c ""
+    c "Você sofreu um curto-cirquito. Teve alguma coisa a ver com a umidade."
 
 # game/script.rpy:25208
 translate pt_br botspring_1c384c58_1:
 
     # bot "Nnn... My mask is off..."
-    bot ""
+    bot "Nnn... Eu estou sem a minha máscara..."
 
 # game/script.rpy:25209
 translate pt_br botspring_df82c9c3_1:
 
     # bot "Sorry [botown]..."
-    bot ""
+    bot "Desculpa [botown]..."
 
 # game/script.rpy:25210
 translate pt_br botspring_156d9659_1:
 
     # c "Is this Femdom mode something you knew about?"
-    c ""
+    c "Esse modo Dominadora é alguma coisa que você já sabia sobre?"
 
 # game/script.rpy:25211
 translate pt_br botspring_a045dfe6_1:
 
     # bot "Yes... I can activate it at any time. It was just a bit scary having it happen out of my control. Maybe it's best if I stay away from the hot spring..."
-    bot ""
+    bot "Sim... Eu posso ativar isso a qualquer momento. Só é um pouco assustador quando acontece estando fora do meu controle. Talvez fosse melhor eu ficar longe da fonte termal..."
 
 # game/script.rpy:25212
 translate pt_br botspring_71e81297_1:
 
     # bot "Nnn... I have a bit of a headache..."
-    bot ""
+    bot "Nnn... Eu estou com um pouco de dor de cabeça..."
 
 # game/script.rpy:25213
 translate pt_br botspring_8d0a4d31_1:
 
     # bot "I think I should take a rest. I'll see you later [botown]..."
-    bot ""
+    bot "Eu acho que eu deveria descansar. Eu tevejo depois [botname]..."
 
 # game/script.rpy:25214
 translate pt_br botspring_a45ef141:
 
     # "You've unlocked new scenes with [botname]!"
-    ""
+    "Você desbloqueou novas cenas com [botname]!"
 
 # game/script.rpy:25220
 translate pt_br botface_ad7590fa:
 
     # bot "Hello [botown]! I'm so glad you're here!"
-    bot ""
+    bot "Olá [botown]! Estou muito feliz que esteja aqui!"
 
 # game/script.rpy:25221
 translate pt_br botface_89f0d2ac:
 
     # c "You seem happy."
-    c ""
+    c "Você parece feliz."
 
 # game/script.rpy:25222
 translate pt_br botface_adfdae09:
 
     # bot "I am! I'm very happy today!"
-    bot ""
+    bot "Eu estou! Eu estou muito feliz hoje!"
 
 # game/script.rpy:25224
 translate pt_br botface_e90adc4f:
 
     # bot "I have a gift for you [botown]."
-    bot ""
+    bot "Eu tenho um presente para você [botown]."
 
 # game/script.rpy:25225
 translate pt_br botface_fae09ab4:
 
     # c "You do?"
-    c ""
+    c "Você tem?"
 
 # game/script.rpy:25226
 translate pt_br botface_6cc3181f:
 
     # bot "That's correct. After what happened the other day... I really got to thinking..."
-    bot ""
+    bot "Isso mesmo. Depois do que aconteceu no outro dia.. Eu fiquei pensando bastante..."
 
 # game/script.rpy:25227
 translate pt_br botface_fbb84596:
 
     # bot "You never know what's going to happen tomorrow... It could be good, or it could be bad..."
-    bot ""
+    bot "Você nunca sabe o que vai acontecer amanhã... poderia ser algo bom, ou algo ruim..."
 
 # game/script.rpy:25228
 translate pt_br botface_2e84da54:
 
     # bot "And I really like the good parts of life! And... you're a really big part of that good."
-    bot ""
+    bot "E eu realmente gosto das coisas boas da vida! E... você é uma parte muito importante dessa coisa boa."
 
 # game/script.rpy:25229
 translate pt_br botface_bbdda47b:
 
     # bot "Knowing that at any point something bad could happen to me, or to you. I wanted to show you... my face."
-    bot ""
+    bot "Sabendo que a qualquer momento algo ruim poderia acontecer comigo, ou com você. Eu queria te mostrar o... meu rosto."
 
 # game/script.rpy:25230
 translate pt_br botface_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "É mesmo?"
 
 # game/script.rpy:25232
 translate pt_br botface_57fc35c7:
 
     # bot "Yes! It's very embarrassing for me... But for humans, it's something really important. You never know if everything could end tomorrow, so... what's the point of holding back?"
-    bot ""
+    bot "Sim! Isso é bem constrangedor pra mim... Mas para os humanos, é algo muito importante. Nunca se sabe se tudo pode acabar amanhã, então... qual o sentido de se segurar?"
 
 # game/script.rpy:25233
 translate pt_br botface_2d5df449:
 
     # bot "You want to see my face, right?"
-    bot ""
+    bot "Você quer ver o meu rosto, não é?"
 
 # game/script.rpy:25234
 translate pt_br botface_a83ab574:
 
     # c "Of course!"
-    c ""
+    c "Com certeza!"
 
 # game/script.rpy:25235
 translate pt_br botface_e59c0683:
 
     # bot "Oh, I was hoping you would say that [botown]!"
-    bot ""
+    bot "Ah, eu esperava que você fosse dizer isso [botown]!"
 
 # game/script.rpy:25236
 translate pt_br botface_1a31395f:
 
     # bot "Um... Okay, here I go..."
-    bot ""
+    bot "Hum... Tá bom, aqui vou eu..."
 
 # game/script.rpy:25238
 translate pt_br botface_e1eec7de:
 
     # bot "I hope you like it [botown]..."
-    bot ""
+    bot "Eu espero que você goste [botown]..."
 
 # game/script.rpy:25244
 translate pt_br botface_38020e22:
 
     # bot "Say something [botown]... What do you think?"
-    bot ""
+    bot "Diga alguma coisa [botown]... O que você achou?"
 
 # game/script.rpy:25245
 translate pt_br botface_31be08e4:
 
     # c "You look beautiful."
-    c ""
+    c "Você é linda."
 
 # game/script.rpy:25247
 translate pt_br botface_49f51682:
 
     # bot "Really!? You think so?"
-    bot ""
+    bot "É mesmo?! Você acha?"
 
 # game/script.rpy:25248
 translate pt_br botface_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Com certeza."
 
 # game/script.rpy:25249
 translate pt_br botface_7a5ff435:
 
     # bot "Thank you so much [botown]! I'm really happy!"
-    bot ""
+    bot "Muito obrigada [botown]! Eu fico muito feliz em ouvir isso!"
 
 # game/script.rpy:25252
 translate pt_br botface_e7e20b63:
 
     # bot "Um... I hope you don't expect me to keep my mask off... I may be a bit of an exhibitionist now... but I still have standards..."
-    bot ""
+    bot "Hum... Espero que você não espere que eu tire a máscara... Posso ser um pouco exibicionista agora... mas ainda tenho padrões..."
 
 # game/script.rpy:25254
 translate pt_br botface_97cd3fd8:
 
     # bot "Um... I hope you don't expect me to keep my mask off... I'm not much of an exhibitionist..."
-    bot ""
+    bot "Hum... Espero que você não espere que eu tire a máscara... Eu não sou muito exibicionista..."
 
 # game/script.rpy:25255
 translate pt_br botface_2cbb21e2:
 
     # c "That's alright."
-    c ""
+    c "Está tudo bem."
 
 # game/script.rpy:25256
 translate pt_br botface_b7d55b25:
 
     # bot "Thank you [botown]..."
-    bot ""
+    bot "Obrigada [botown]..."
 
 # game/script.rpy:25257
 translate pt_br botface_064eafff:
 
     # bot "Um..."
-    bot ""
+    bot "Hum..."
 
 # game/script.rpy:25258
 translate pt_br botface_d20a22e1:
 
     # bot "I was thinking... now that I've shown you my face... I could maybe... show you it's full potential some time..."
-    bot ""
+    bot "Eu estava pensando... agora que você viu o meu rosto... talvez eu pudesse... mostrar para você todo o potencial dele algum dia"
 
 # game/script.rpy:25259
 translate pt_br botface_df641f88:
 
     # bot "B-But not right now! I'm... still very shy..."
-    bot ""
+    bot "M-Mas não agora! Eu... ainda sou muito tímida..."
 
 # game/script.rpy:25260
 translate pt_br botface_5dfdbcc5:
 
     # c "That's fine."
-    c ""
+    c "Não tem problema."
 
 # game/script.rpy:25261
 translate pt_br botface_af4217c6:
 
     # bot "Thank you for being so understanding [botown]... I feel like this is the beginning of a new chapter in my life. I'm excited to see where things go from here..."
-    bot ""
+    bot "Obrigada por me entender [botown]... Eu sinto como se esse fosse o começo de um novo capítulo da minha vida. Eu estou ansiosa para ver aonde as coisas vão a partir daqui..."
 
 # game/script.rpy:25262
 translate pt_br botface_4d75c048:
 
     # bot "I think I'm going to take a rest now... I still haven't fully recovered... Goodbye [botown]."
-    bot ""
+    bot "Eu acho que vou dormir agora... Eu ainda não estou completamente recuperada... Até logo [botown]."
 
 # game/script.rpy:25268
 translate pt_br botcode2_458f2935:
