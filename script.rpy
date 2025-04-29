@@ -55107,7 +55107,7 @@ translate pt_br botbeach_6e032029:
 translate pt_br botbeach_5d40d22d:
 
     # q "And you... Bought her like that? Even knowing she was bug riddled?"
-    q "E você... Comprou ela assim? Mesmo sabendo que ela estava cheia de bugs?"
+    q "E você... Comprou ela assim? Mesmo sabendo que ela estava cheia de erros?"
 
 # game/script.rpy:23816
 translate pt_br botbeach_f7508fce:
@@ -59997,565 +59997,565 @@ translate pt_br botface_4d75c048:
 translate pt_br botcode2_458f2935:
 
     # bot "[botown]! Hello~"
-    bot ""
+    bot "[botown]! Olá~"
 
 # game/script.rpy:25269
 translate pt_br botcode2_bc8fbd4c:
 
     # k "Oh hey [name], wanna watch?"
-    k ""
+    k "Ah, ei [name], quer assistir?"
 
 # game/script.rpy:25270
 translate pt_br botcode2_f80627b2:
 
     # c "What's going on?"
-    c ""
+    c "O que está acontecendo?"
 
 # game/script.rpy:25271
 translate pt_br botcode2_984790d4:
 
     # bot "Kali said she was able to fix me! We're about to test it out!"
-    bot ""
+    bot "A Kali disse que consegue me consertar! Nós estamos prestes a testar!"
 
 # game/script.rpy:25272
 translate pt_br botcode2_07bf13e5:
 
     # c "Do you really need to be fixed?"
-    c ""
+    c "Você acha mesmo que ela precisa de conserto?"
 
 # game/script.rpy:25273
 translate pt_br botcode2_f5b21de0:
 
     # bot "I have so many bugs [botown], it's just best to be safe! It would also help me perfom my duties as maid better."
-    bot ""
+    bot "Eu tenho tantos erros [botown], é melhor prevenir! E isso também vai me ajudar a desempenhar melhor minhas tarefas como empregada."
 
 # game/script.rpy:25274
 translate pt_br botcode2_b96d6ccb:
 
     # c "Are you sure this is safe, Kali?"
-    c ""
+    c "Você tem certeza que isso é segura, Kali?"
 
 # game/script.rpy:25275
 translate pt_br botcode2_67ec6273:
 
     # k "Yep. I have her program backed up. I'm just swapping her program with mine so nothing is being deleted."
-    k ""
+    k "É sim. Eu já fiz uma cópia de segurança do programa dela. Eu estou só trocando o programa dela pelo meu, então nada será excluído."
 
 # game/script.rpy:25276
 translate pt_br botcode2_1e6821d0:
 
     # c "Is this really necessary?"
-    c ""
+    c "Isso é realmente necessário?"
 
 # game/script.rpy:25277
 translate pt_br botcode2_54e45dcc:
 
     # bot "Of course it is! I don't want to be broken."
-    bot ""
+    bot "É claro que sim! Eu não quero ser defeituosa."
 
 # game/script.rpy:25279
 translate pt_br botcode2_0481d055:
 
     # k "Before we begin the transfer, are there any variables you would like adjusted? I could change your eye color, hair length, breast size."
-    k ""
+    k "Antes de começarmos a troca, há alguma variável que você queira ajustar? Eu posso mudar a cor do seu olho, o comprimento do seu cabelo, o tamanho dos seios."
 
 # game/script.rpy:25280
 translate pt_br botcode2_8e89dfc0:
 
     # bot "No thank you! I just want to be perfect please."
-    bot ""
+    bot "Não, obrigada! Eu só quero ser perfeita, por favor."
 
 # game/script.rpy:25281
 translate pt_br botcode2_56bfea6a:
 
     # k "Alright, here it goes."
-    k ""
+    k "Tudo bem, aqui vai."
 
 # game/script.rpy:25283
 translate pt_br botcode2_468b2ed8:
 
     # bot "I can't wait! Look, it's almost done alre-"
-    bot ""
+    bot "Eu mal posso esperar! Olha, já está quase pro-"
 
 # game/script.rpy:25285
 translate pt_br botcode2_378d4f80:
 
     # c "Uh?"
-    c ""
+    c "Ué?"
 
 # game/script.rpy:25287
 translate pt_br botcode2_9c8d2443:
 
     # q "Rebooting... {w=1}... {w=1}..."
-    q ""
+    q "Reiniciando... {w=1}... {w=1}..."
 
 # game/script.rpy:25288
 translate pt_br botcode2_4ab48eb3:
 
     # c "[botname]?"
-    c ""
+    c "[botname]?"
 
 # game/script.rpy:25289
 translate pt_br botcode2_21fe7707:
 
     # q "Rebooting... R-R-Reboo-Reboo- T-T-T-T-T-T-T-T-T"
-    q ""
+    q "Reinicando... R-R-Reini-Reinicia- A-A-A-A-A-A-A-A-A"
 
 # game/script.rpy:25290
 translate pt_br botcode2_6cfa2fb0:
 
     # c "Kali!"
-    c ""
+    c "Kali!"
 
 # game/script.rpy:25291
 translate pt_br botcode2_aba93c82:
 
     # k "Give her some time, this is normal for computers."
-    k ""
+    k "Vamos esperar um pouco, isso é normal para computadores."
 
 # game/script.rpy:25292
 translate pt_br botcode2_e5a512fd:
 
     # c "How is THIS normal? The whole hotel is crashing!"
-    c ""
+    c "Como ISSO é normal? O hotel inteiro está quebrando!"
 
 # game/script.rpy:25294
 translate pt_br botcode2_8d2c0000:
 
     # q "*startup jingle plays*\n{i}Initializing...{/i} {i}Initializing...{/i}"
-    q ""
+    q "*Jingle de inicialização toca*{i}Inicializando....{/i} {i}Inicializando...{/i}"
 
 # game/script.rpy:25296
 translate pt_br botcode2_904a9369:
 
     # q "{i}{color=#E60000}ERROR 23: PERSONALITY NOT FOUND\nERROR 47: MISSING LOCAL VERNACULAR\nERROR 49: CULTURAL IDENTITY UNKNOWN\nERROR 93: REGIONAL DIALECT UNSELECTED{/color}{/i}"
-    q ""
+    q "{i}{color=#E60000}ERRO 23: PERSONALIDADE NÃO ENCONTRADA\nERRO 47: VERNÁCULO LOCAL AUSENTE\nERRO 49: IDENTIDADE CULTURAL DESCONHECIDA\nERRO 93: DIALETO REGIONAL NÃO SELECIONADO{/color}{/i}"
 
 # game/script.rpy:25298
 translate pt_br botcode2_2b02e9f3:
 
     # q "Rebooting..."
-    q ""
+    q "Reinicializando..."
 
 # game/script.rpy:25299
 translate pt_br botcode2_919251f4:
 
     # c "Uhhh, that can't be right... Kali, what's going on?"
-    c ""
+    c "Hummm, isso não parece bom... Kali, o que está acontecendo?"
 
 # game/script.rpy:25300
 translate pt_br botcode2_5116e7d6:
 
     # k "Hold on, hold on..."
-    k ""
+    k "Espera, espera..."
 
 # game/script.rpy:25302
 translate pt_br botcode2_9cf73e6c:
 
     # q "{i}{color=#E60000}ERROR 128: MALE VOICE UNKNOWN\nERROR 129: FEMALE VOICE UNKNOWN\nERROR 3: MISSING ADMIN{/color}{/i}"
-    q ""
+    q "{i}{color=#E60000}ERRO 128': VOZ MASCULINA DESCONHECIDA\nERRO 129: VOZ FEMININA DESCONHECIDA\nERRO 3: ADMINISTRADOR AUSENTE{/color}{i}"
 
 # game/script.rpy:25304
 translate pt_br botcode2_2b02e9f3_1:
 
     # q "Rebooting..."
-    q ""
+    q "Reinicializando..."
 
 # game/script.rpy:25305
 translate pt_br botcode2_1c20ba97:
 
     # k "Shit, shit..."
-    k ""
+    k "Merda, merda..."
 
 # game/script.rpy:25306
 translate pt_br botcode2_b5df1804:
 
     # c "Kali! What's happening?"
-    c ""
+    c "Kali! O que está acontecendo?"
 
 # game/script.rpy:25307
 translate pt_br botcode2_f387373c:
 
     # k "I don't know! I thought fixing the bugs would fix the issue, but I guess she needs to be set up again? Did I factory reset her on accident!?"
-    k ""
+    k "Eu não sei! Eu pensei que corrigir os erros iria resolver o problema, mas parece que ela precisa ser reconfigurada? Será que eu fiz uma restauração de fábrica por acidente!?"
 
 # game/script.rpy:25308
 translate pt_br botcode2_594c1c3e:
 
     # c "Where did she go then!? Get her back!"
-    c ""
+    c "Aonde ela foi então!? Traga ela de volta!"
 
 # game/script.rpy:25310
 translate pt_br botcode2_fded8c70:
 
     # q "Reset sucessful.\n*startup jingle plays*"
-    q ""
+    q "Restauração concluída. \n*Jingle de inicialização toca*"
 
 # game/script.rpy:25312
 translate pt_br botcode2_04fde71f:
 
     # q "Hello {i}{color=#E60000}[[ERROR 13: NAME NOT FOUND]{/color}{/i}\n{i}{color=#E60000}[[ERROR 14: GREETING NOT FOUND]{/color}{/i}\nAre you my administrator?"
-    q ""
+    q "Olá {i}{color=#E60000}[[ERRO 13: NOME NÃO ENCONTRADO]{/color}{/i}\n{i}{color=#E60000}[[ERRO 14: SAUDAÇÃO NÃO ENCONTRADA]{/color}{/i}\nVocê é o meu administrador?"
 
 # game/script.rpy:25313
 translate pt_br botcode2_b778ebb3:
 
     # c "Fix her, Kali!"
-    c ""
+    c "Conserta ela, Kali!"
 
 # game/script.rpy:25314
 translate pt_br botcode2_1f32b972:
 
     # k "I'm trying, I'm trying! Calm down!"
-    k ""
+    k "Estou tentando, estou tentando! Calma aí!"
 
 # game/script.rpy:25315
 translate pt_br botcode2_c5f69cc0:
 
     # q "{i}{color=#E60000}[[ERROR 14: GREETING NOT FOUND]{/color}{/i}, wonderful {i}{color=#E60000}[[ERROR 99: WEATHER UNKNOWN]{/color}{/i} day we're having, isn't it?"
-    q ""
+    q "{i}{color=#E60000}[[ERRO 14: SAUDAÇÃO NÃO ENCONTRADA]{/color}{/i}, maravilha {color=#E60000}[[ERRO 99: CLIMA DESCONHECIDO]{/color}{/i} dia nós estamos tendo, não é?"
 
 # game/script.rpy:25317
 translate pt_br botcode2_577171b5:
 
     # bot "[name]? Kali!? HELLO!? WHERE AM I!?" with ssshake
-    bot "" with ssshake
+    bot "[name]? Kali!? OLÁ!? ONDE EU ESTOU!?" with ssshake
 
 # game/script.rpy:25318
 translate pt_br botcode2_9547a2bb:
 
     # k "Agh! What the fuck!?"
-    k ""
+    k "Agh! Mas que porra!?"
 
 # game/script.rpy:25320
 translate pt_br botcode2_87190326:
 
     # c "[botname]? Can you hear us?"
-    c ""
+    c "[botname]? Você consegue nos ouvir?"
 
 # game/script.rpy:25321
 translate pt_br botcode2_239e0e4d:
 
     # bot "I can! I don't know where you are though! What's going on!?"
-    bot ""
+    bot "Eu consigo! Mas não sei aonde vocês estão! O que está acontecendo!?"
 
 # game/script.rpy:25322
 translate pt_br botcode2_12a04698:
 
     # k "Okay, okay. Let's just relax, we know she's alive now. We just need to figure out how to get you back inside your body."
-    k ""
+    k "Tá bom, tá bom! Vamos nos acalmar, nós sabemos que ela está viva agora. Nós só precisamos descobrir como colocar você de volta ao seu corpo."
 
 # game/script.rpy:25323
 translate pt_br botcode2_3922de44:
 
     # bot "But how!?"
-    bot ""
+    bot "Mas como!?"
 
 # game/script.rpy:25324
 translate pt_br botcode2_96fb4cbb:
 
     # k "Um...! Check the wifi, everything is connected to the hotel."
-    k ""
+    k "Hum...! Verifique o wifi, tudo está conectado ao hotel."
 
 # game/script.rpy:25325
 translate pt_br botcode2_056d373a:
 
     # bot "I see so many connections... which one is mine?"
-    bot ""
+    bot "Eu estou vendo tantas conexões... qual é a minha?"
 
 # game/script.rpy:25326
 translate pt_br botcode2_ded32d93:
 
     # bot "Umm... umm... Oh, my model number! I see it! Now what?"
-    bot ""
+    bot "Humm... hum... Ah, o meu número de modelo! Eu estou vendo! E agora?"
 
 # game/script.rpy:25327
 translate pt_br botcode2_db825efd:
 
     # k "It's all you from here on out I'm afraid... I don't know the first thing about what you're feeling."
-    k ""
+    k "Receio que seja você daqui em diante... Não sei nada sobre o que você está sentindo."
 
 # game/script.rpy:25328
 translate pt_br botcode2_039a5c9c:
 
     # c "Come on, you can do it. It shouldn't be much different from how you got there."
-    c ""
+    c "Vamos lá, você consegue fazer isso. Não deve ser muito diferente de como você chegou aí."
 
 # game/script.rpy:25329
 translate pt_br botcode2_3cb08917:
 
     # bot "O-Okay, umm.... Hnnn...! Nnnngh...! I'm trying, but nothing is happening Kali!"
-    bot ""
+    bot "T-Tá bom, humm.... Hnnn...! Nnnngh...! Eu estou tentando, mas não tem nada acontecendo, Kali!"
 
 # game/script.rpy:25330
 translate pt_br botcode2_68631818:
 
     # c "You know yourself better than anyone. Find yourself, focus on the connection, then swap places."
-    c ""
+    c "Você conhece a si mesma melhor que qualquer um. Descubra você mesmo, se concentre na conexão, e então troque de lugar."
 
 # game/script.rpy:25331
 translate pt_br botcode2_02cae71a:
 
     # bot "O-Okay, how am I supposed to do that though? I don't even have a physical form anymore! W-What even am I!?"
-    bot ""
+    bot "T-Tudo bem, mas como é que eu deveria fazer isso? Eu não tenho mais uma forma física! O-O que eu sou!?"
 
 # game/script.rpy:25332
 translate pt_br botcode2_d8f74eed:
 
     # c "Calm down [botname], focus. Find yourself."
-    c ""
+    c "Se acalme [botname], se concentre. Encontre a si mesma."
 
 # game/script.rpy:25333
 translate pt_br botcode2_9c4fca41:
 
     # bot "Nnnnh..."
-    bot ""
+    bot "Nnnnh..."
 
 # game/script.rpy:25335
 translate pt_br botcode2_76d9219a:
 
     # q "Input requested. Admin unknown."
-    q ""
+    q "Entrada requisitada. Administrador desconhecido."
 
 # game/script.rpy:25336
 translate pt_br botcode2_0306bccb:
 
     # bot "We're on the same network, but...\nWait-! What is that...?"
-    bot ""
+    bot "Nós estamos na mesma rede, mas...\nEspera-! O que é isso...?"
 
 # game/script.rpy:25338
 translate pt_br botcode2_46d1ba9c:
 
     # bot "Nnnngh! I think this is it! I think I found it!"
-    bot ""
+    bot "Nnnngh! Eu acho que é isso! Acho que encontrei!"
 
 # game/script.rpy:25339
 translate pt_br botcode2_631cf9cb:
 
     # c "Something is happening, keep it up."
-    c ""
+    c "Tem alguma coisa acontecendo, continue assim."
 
 # game/script.rpy:25340
 translate pt_br botcode2_a7ffa94f:
 
     # bot "Okay, I'm going in!"
-    bot ""
+    bot "Tudo bem, estou entrando!"
 
 # game/script.rpy:25342
 translate pt_br botcode2_84934720:
 
     # bot "Ow!\n...Huh?\nOh...! Nnngh I'm back..." with ssshake
-    bot "" with ssshake
+    bot "Ai!\n...Hein?\nAh...! Nnngh eu voltei..." with ssshake
 
 # game/script.rpy:25343
 translate pt_br botcode2_73f77ebd:
 
     # k "That fast?"
-    k ""
+    k "Rápido assim?"
 
 # game/script.rpy:25344
 translate pt_br botcode2_d39b7406:
 
     # c "Are you going to be alright?"
-    c ""
+    c "Você vai ficar bem?"
 
 # game/script.rpy:25345
 translate pt_br botcode2_d13440a3:
 
     # bot "I think so..."
-    bot ""
+    bot "Eu acho que sim..."
 
 # game/script.rpy:25347
 translate pt_br botcode2_5210cecf:
 
     # bot "What was that, Kali? I thought you knew what you were doing..."
-    bot ""
+    bot "O que foi aquilo, Kali? Eu pensei que você sabia o que estava fazendo..."
 
 # game/script.rpy:25348
 translate pt_br botcode2_adec986a:
 
     # k "I do! I did {u}everything{/u} right! You might just be an exception, I don't know..."
-    k ""
+    k "EU sei! EU fiz {u}tudo{/u} direitinho! Você é que deve ser um caso a parte, não sei..."
 
 # game/script.rpy:25349
 translate pt_br botcode2_2d5d615b:
 
     # k "It looks like fixing your code left a lot of unanswered questions in your programing. Enough of those errors piled up that your system just decided to return to factory settings. It's a good thing we did a transfer..."
-    k ""
+    k "Parece que consertar o teu código deixou um monte de questões não respondidas na sua programação. Já se acumularam tantos erros que o seu sistema simplesmente decidiu retornar às configurações de fábrica. Ainda bem que fizemos uma transferência..."
 
 # game/script.rpy:25350
 translate pt_br botcode2_624cba3c:
 
     # bot "So I can't be perfect...?"
-    bot ""
+    bot "Então eu não posso ser perfeita...?"
 
 # game/script.rpy:25351
 translate pt_br botcode2_17c656b4:
 
     # k "[botname], you were. That {i}was{/i} perfection, everything was flawless."
-    k ""
+    k "[botname], você estava. Aquilo {i}foi{/i} perfeito, tudo estava impecável."
 
 # game/script.rpy:25352
 translate pt_br botcode2_41d87a60:
 
     # bot "But... I wasn't me."
-    bot ""
+    bot "Mas... eu não era eu."
 
 # game/script.rpy:25353
 translate pt_br botcode2_7f980198:
 
     # k "Yeah... I know."
-    k ""
+    k "Sim... Eu sei."
 
 # game/script.rpy:25354
 translate pt_br botcode2_10f971b7:
 
     # bot "But..."
-    bot ""
+    bot "Mas..."
 
 # game/script.rpy:25356
 translate pt_br botcode2_782394b7:
 
     # c "[botname], are you-"
-    c ""
+    c "[botname], você está-"
 
 # game/script.rpy:25357
 translate pt_br botcode2_d438bc0e:
 
     # bot "-I need some time, [botown]..."
-    bot ""
+    bot "-Eu preciso de um tempo, [botown]"
 
 # game/script.rpy:25358
 translate pt_br botcode2_530c020b:
 
     # k "Hey...!"
-    k ""
+    k "Ei...!"
 
 # game/script.rpy:25360
 translate pt_br botcode2_9db19e3e:
 
     # k "Damn... she really wanted that."
-    k ""
+    k "Droga... ela realmente queria aquilo."
 
 # game/script.rpy:25361
 translate pt_br botcode2_6eb746a7:
 
     # c "Being perfect was a horrible goal to have, why didn't you stop her?"
-    c ""
+    c "Ser perfeito é um objetivo horrível a se ter, por que você não a impediu?"
 
 # game/script.rpy:25362
 translate pt_br botcode2_8088a00c:
 
     # k "Well- I mean- she's a buggy piece of hardware, what was I supposed to do? It's basically my instinct to fix her!"
-    k ""
+    k "Bem, quero dizer, ela é uma peça de hardware cheia de bugs, o que é que eu deveria fazer? É basicamente meu instinto consertá-la!"
 
 # game/script.rpy:25363
 translate pt_br botcode2_510a3e61:
 
     # c "Consider the person on the inside."
-    c ""
+    c "Considere a pessoa que está dentro."
 
 # game/script.rpy:25364
 translate pt_br botcode2_3d6a6a1a:
 
     # k "Egh, I guess you're right... should I go talk to her?"
-    k ""
+    k "Egh, acho que você tem razão... eu deveria ir falar com ela?"
 
 # game/script.rpy:25365
 translate pt_br botcode2_49c6ac3e:
 
     # c "I'll talk to her. Don't touch her program without asking me first."
-    c ""
+    c "Eu vou falar com ela. Não toque no programa dela sem me perguntar antes."
 
 # game/script.rpy:25366
 translate pt_br botcode2_5608e428:
 
     # k "Alright..."
-    k ""
+    k "Entendido..."
 
 # game/script.rpy:25369
 translate pt_br botcode2_75a5b528:
 
     # c "[botname]... are you sure you're alright?"
-    c ""
+    c "[botname]... você está bem?"
 
 # game/script.rpy:25370
 translate pt_br botcode2_c7589acc:
 
     # bot "Was it really so foolish of me to search for perfection?"
-    bot ""
+    bot "Foi tão tolo da minha parte assim tentar buscar pela perfeição?"
 
 # game/script.rpy:25371
 translate pt_br botcode2_8e94ae67:
 
     # c "I think that's a natural feeling we all have; to improve until we become our best self. But perfection... that's something else."
-    c ""
+    c "Eu acho que esse é um sentimento natural que todos nós temos; melhorar até nos tornarmos a nossa melhor versão. Mas perfeição... isso é outra coisa."
 
 # game/script.rpy:25372
 translate pt_br botcode2_c9c02343:
 
     # bot "I just wanted to be who I was meant to be..."
-    bot ""
+    bot "Eu só queria ser quem eu deveria ser..."
 
 # game/script.rpy:25373
 translate pt_br botcode2_46b8c05c:
 
     # c "No one decides that but you, [botname], and that's a very long process. It doesn't happen over night."
-    c ""
+    c "Isso é algo que ninguém pode decidir a não ser você mesma, [botname], e esse é um processo realmente muito longo. Não é algo que aconteça do dia pra noite."
 
 # game/script.rpy:25374
 translate pt_br botcode2_0f9d527e:
 
     # bot "*sigh*... you know [botown]... a wise man once said that flaws make us who we are. I think I truly understand that now. I don't really know what happened to me, but I know that it wasn't me."
-    bot ""
+    bot "*ufa*... sabe [botown]... um homem sábio disse uma vez que as falhas nos fazem ser quem somos. Acho que agora eu entendi isso de verdade. Eu não sei de verdade o que aconteceu comigo, mas eu sei que aquela não era eu."
 
 # game/script.rpy:25376
 translate pt_br botcode2_8e0ba092:
 
     # bot "If flaws means that I can be here, with you... then that's what I want! I'll find joy in being a broken mess like everyone else!"
-    bot ""
+    bot ""Se falhas significam que eu posso estar aqui, com você... então é isso o que eu quero! Eu vou encontrar alegria em ser uma bagunça quebrada assim como todo mundo!"
 
 # game/script.rpy:25378
 translate pt_br botcode2_c91b8c3a:
 
     # bot "My bugs make me... me."
-    bot ""
+    bot "Meus erros fazem com que eu seja... eu."
 
 # game/script.rpy:25380
 translate pt_br botcode2_2c4845af:
 
     # bot "I don't want to be perfect anymore, I just want to be me! The fact that you're still willing be my friend even with all the errors I have only makes me all the more happier!"
-    bot ""
+    bot "Eu não quero mais ser perfeita, eu quero apenas ser eu! O fato de você ainda estar disposto a ser meu amigo mesmo com todos os meus erros só me deixa ainda mais feliz!"
 
 # game/script.rpy:25381
 translate pt_br botcode2_53f1c5a0:
 
     # bot "Thank you [botown]! And tell Kali I said thanks too! Without both of you being there for me I wouldn't know myself as well."
-    bot ""
+    bot "Obrigada [botown]! E diga para a Kali que eu agradeço a ela também! Sem vocês estando aqui para mim eu não seria capaz de me conhecer tão bem."
 
 # game/script.rpy:25382
 translate pt_br botcode2_2e921f15:
 
     # c "That's what friends are for."
-    c ""
+    c "É para isso que os amigos são."
 
 # game/script.rpy:25384
 translate pt_br botcode2_5f16c2e2:
 
     # bot "I need a few hours to run a health checkup though, just to be safe..."
-    bot ""
+    bot "Mas eu ainda preciso de algumas horas para fazer uma checagem de saúde, só por garantia..."
 
 # game/script.rpy:25385
 translate pt_br botcode2_3e02b365:
 
     # c "Good idea, I'll leave you to it."
-    c ""
+    c "Boa ideia, eu vou deixar você com isso."
 
 # game/script.rpy:25386
 translate pt_br botcode2_c3e0de04:
 
     # bot "Bye [botown], I'll see you later."
-    bot ""
+    bot "Tchau [botown], te vejo depois."
 
 # game/script.rpy:25393
 translate pt_br botboobs_8ba1d5ee:
