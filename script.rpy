@@ -60513,7 +60513,7 @@ translate pt_br botcode2_0f9d527e:
 translate pt_br botcode2_8e0ba092:
 
     # bot "If flaws means that I can be here, with you... then that's what I want! I'll find joy in being a broken mess like everyone else!"
-    bot ""Se falhas significam que eu posso estar aqui, com você... então é isso o que eu quero! Eu vou encontrar alegria em ser uma bagunça quebrada assim como todo mundo!"
+    bot "Se falhas significam que eu posso estar aqui, com você... então é isso o que eu quero! Eu vou encontrar alegria em ser uma bagunça quebrada assim como todo mundo!"
 
 # game/script.rpy:25378
 translate pt_br botcode2_c91b8c3a:
@@ -60561,127 +60561,127 @@ translate pt_br botcode2_c3e0de04:
 translate pt_br botboobs_8ba1d5ee:
 
     # bot "Nnnh~ I can't wait anymore!"
-    bot ""
+    bot "Nnnh~ Eu não cosigo esperar mais!"
 
 # game/script.rpy:25395
 translate pt_br botboobs_e9b24f57:
 
     # bot "Ahhh, there... mmmh, just sit back and relax [botown], I'll take care of the rest..."
-    bot ""
+    bot "Ahhh, aí... mmmh, apenas sente-se e relaxe [botown], eu cuido do resto..."
 
 # game/script.rpy:25396
 translate pt_br botboobs_ae8980de:
 
     # bot "Haah... mmmn... your cock is throbbing so much already... it's making me horny... It's so hard too~"
-    bot ""
+    bot "Haah... mmmn... o seu pau já está latejando bastante... está me deixando excitada... E está tão duro também~"
 
 # game/script.rpy:25397
 translate pt_br botboobs_930236c7:
 
     # bot "Does that feel good? Do you like my big titties? Nnnh, they're all yours..."
-    bot ""
+    bot "Isso é gostoso? Você gosta das minhas tetas grandes? Nnnh, elas são todas suas..."
 
 # game/script.rpy:25400
 translate pt_br botboobs_62397fb5:
 
     # bot "Let's speed things up a little..."
-    bot ""
+    bot "Vamos acelerar as coisas um pouco..."
 
 # game/script.rpy:25402
 translate pt_br botboobs_23ff3984:
 
     # bot "Mmmh, that feels better doesn't it?"
-    bot ""
+    bot "Mmmh, assim é melhor, não é mesmo?"
 
 # game/script.rpy:25403
 translate pt_br botboobs_1b9a37b9:
 
     # bot "You're getting close, aren't you? Heheh, I can feel your heartrate increasing~"
-    bot ""
+    bot "Você está chegando perto, não está? Eu consigo sentir a tua frequência cardíaca aumentado~"
 
 # game/script.rpy:25404
 translate pt_br botboobs_1e8d03ed:
 
     # bot "Mmmh! Yes please cum~ Please cum! I want it so bad~"
-    bot ""
+    bot "Mmm! Isso, goza por favor~ Goza, por favor! Eu quero isso tanto~"
 
 # game/script.rpy:25405
 translate pt_br botboobs_7e572637:
 
     # bot "Cum for me, please! Please! I want you cover me in your hot cum, [botown]!"
-    bot ""
+    bot "Goza pra mim, por favor! Por favor! Eu quero que você me cubra com o seu gozo quente, [botown]!"
 
 # game/script.rpy:25410
 translate pt_br botboobs_34bd3c42:
 
     # bot "You came! Thank you [botown]~ I'm so glad I could make you feel good again!"
-    bot ""
+    bot "Você gozou! Obrigada [botown]~ Eu estão tão feliz por ter te feito se sentir bem novamente!"
 
 # game/script.rpy:25419
 translate pt_br botboobjob1_644549c0:
 
     # c "Oh, hello."
-    c ""
+    c "Ah, olá."
 
 # game/script.rpy:25420
 translate pt_br botboobjob1_7fd5d48a:
 
     # bot "Hi [botown]...\nI was thinking of ways I could be a better maid and it occured to me that I've done everything except please you sexually."
-    bot ""
+    bot "Oi [botown]...znEu estava pensando em maneiras de ser uma empregada melhor e eu percebi que já tenho feito de tudo, exceto te agradar sexualmente."
 
 # game/script.rpy:25421
 translate pt_br botboobjob1_6c3639f8:
 
     # c "You shouldn't feel like you have to."
-    c ""
+    c "Você não deveria se sentir obrigada a fazer isso."
 
 # game/script.rpy:25422
 translate pt_br botboobjob1_56be6fba:
 
     # bot "I know, but I still want to..."
-    bot ""
+    bot "Eu sei, mas eu quero fazer, mesmo assim..."
 
 # game/script.rpy:25423
 translate pt_br botboobjob1_fa272010:
 
     # bot "I {i}am{/i} fully functional after all..."
-    bot ""
+    bot "Afinal, {i}estou{/i} totalmente funcional..."
 
 # game/script.rpy:25425
 translate pt_br botboobjob1_f8dfe378:
 
     # bot "What do you think? Should we test the module out? Heheh."
-    bot ""
+    bot "O que você acha? Nós deveriamos experimentar o módulo? Heheh."
 
 # game/script.rpy:25428
 translate pt_br botboobjob1_93b38a15:
 
     # bot "Yes! I'm going to make sure you feel amazing! I've been researching porn all night!"
-    bot ""
+    bot "Isso! Vou garantir que você se sinta incrível! Eu estive pesquisando sobre pornografia a noite toda!"
 
 # game/script.rpy:25431
 translate pt_br botboobjob1_0463b8c1:
 
     # bot "Wow... just looking at it is making my variables go wild..."
-    bot ""
+    bot "Uau... só de olhar isso já faz minhas variáveis enlouquecerem..."
 
 # game/script.rpy:25432
 translate pt_br botboobjob1_b834febc:
 
     # bot "I-I mean... I like your cock. It's so hard!"
-    bot ""
+    bot "E-Eu quero dizer... Eu gosto do teu pau. É tão duro!"
 
 # game/script.rpy:25433
 translate pt_br botboobjob1_03dc3603:
 
     # bot "May I begin, [botown]?"
-    bot ""
+    bot "Eu posso começar, [botown]?"
 
 # game/script.rpy:25434
 translate pt_br botboobjob1_4072a7f4:
 
     # c "You may."
-    c ""
+    c "Você pode."
 
 # game/script.rpy:25436
 translate pt_br botboobjob1_f0f613a4:
