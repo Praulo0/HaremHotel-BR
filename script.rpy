@@ -60597,7 +60597,7 @@ translate pt_br botboobs_23ff3984:
 translate pt_br botboobs_1b9a37b9:
 
     # bot "You're getting close, aren't you? Heheh, I can feel your heartrate increasing~"
-    bot "Você está chegando perto, não está? Eu consigo sentir a tua frequência cardíaca aumentado~"
+    bot "Você está chegando perto, não está? Eu consigo sentir a sua frequência cardíaca aumentado~"
 
 # game/script.rpy:25404
 translate pt_br botboobs_1e8d03ed:
@@ -60687,1081 +60687,1081 @@ translate pt_br botboobjob1_4072a7f4:
 translate pt_br botboobjob1_f0f613a4:
 
     # bot "Mmmh... how do my breasts feel [botown]?"
-    bot ""
+    bot "Mmmh... o que acha dos meus peitos [botown]?"
 
 # game/script.rpy:25437
 translate pt_br botboobjob1_6d6160c1:
 
     # c "Surprisingly realistic..."
-    c ""
+    c "Surpreendentemente realistas..."
 
 # game/script.rpy:25438
 translate pt_br botboobjob1_21646d87:
 
     # bot "Heheh, I'm glad... I can feel your cock throbbing harder and harder too! You must be enjoying this~"
-    bot ""
+    bot "Heheh, fico feliz em saber... Eu consigo sentir o seu pau latejando a cada vez mais também! Você deve estar gostando disso~"
 
 # game/script.rpy:25439
 translate pt_br botboobjob1_095ab971:
 
     # c "How did you get so good at this already?"
-    c ""
+    c "E como foi que você ficou tão boa nisso?"
 
 # game/script.rpy:25440
 translate pt_br botboobjob1_92300de8:
 
     # bot "I was surprised to find out that I was preloaded with hundreds of documents on various sexual acts for all types of people! Handjobs, thighjobs, blowjobs, boobjobs... everything! It's all there."
-    bot ""
+    bot "Eu me surpreendi quando descobri que já estava pré-carregada com centenas de documentos sobre vários atos sexuais para todos os tipos de pessoas! Punhetas, punhetas nas coxas, boquetes, espanholas... tudo! "
 
 # game/script.rpy:25441
 translate pt_br botboobjob1_2cbcc6b0:
 
     # bot "The porn helped a lot too though, heheh~"
-    bot ""
+    bot "A pornografia também ajudou bastante, heheh~"
 
 # game/script.rpy:25444
 translate pt_br botboobjob1_62397fb5:
 
     # bot "Let's speed things up a little..."
-    bot ""
+    bot "Vamos acelerar as coisas um pouco..."
 
 # game/script.rpy:25446
 translate pt_br botboobjob1_d9e5a0d5:
 
     # bot "Ah~! How is that [botown]? Did you know my breasts could vibrate as well? It feels good, right?"
-    bot ""
+    bot "Ah~! O que acha disso [botown]? Você sabia que os meus peitos podem vibrar também? É gostoso, não é?"
 
 # game/script.rpy:25447
 translate pt_br botboobjob1_b06aa9ae:
 
     # c "Nnh, that's impressive..."
-    c ""
+    c "Nnh, isso é impressionante..."
 
 # game/script.rpy:25448
 translate pt_br botboobjob1_d770fa58:
 
     # bot "Heheh, thank you! I could make my breasts even warmer too~"
-    bot ""
+    bot "Heheh, obrigada! Eu posso deixar os meus peitos ainda mais quentes também~"
 
 # game/script.rpy:25449
 translate pt_br botboobjob1_6639058c:
 
     # bot "Mmmm, there... how's that?"
-    bot ""
+    bot "Mmmm, e então... o que acha?"
 
 # game/script.rpy:25450
 translate pt_br botboobjob1_4e255280:
 
     # c "Better..."
-    c ""
+    c "Melhor..."
 
 # game/script.rpy:25451
 translate pt_br botboobjob1_562eaea3:
 
     # bot "Are you going close? Heheh, I can feel your heartrate increasing~"
-    bot ""
+    bot "Você está chegando perto? Heheh, eu consigo sentir a sua frequência cardíaca aumentando"
 
 # game/script.rpy:25452
 translate pt_br botboobjob1_bd32d0bb:
 
     # bot "Mmmh! Yes please cum~ Please cum! Hnn, I need to know I can do this...!"
-    bot ""
+    bot "Mmmh! Isso, por favor goza~ Por favor goza! Hnn, eu preciso saber se consigo fazer isso...!"
 
 # game/script.rpy:25453
 translate pt_br botboobjob1_1f2c82c6:
 
     # bot "Cum for me, cum for me~! Mmmh! Please! I want you cover me in your hot cum, [botown]! Now!"
-    bot ""
+    bot "Goza pra mim, goza pra mim~! Mmmh! Por favor! Eu quero que você me cubra com o seu gozo quente, [botown]! Agora!"
 
 # game/script.rpy:25457
 translate pt_br botboobjob1_8d86502b:
 
     # bot "Ah~!" with ssshake
-    bot "" with ssshake
+    bot "Ah~!" with ssshake
 
 # game/script.rpy:25459
 translate pt_br botboobjob1_278ac5dd:
 
     # bot "I did it! Did that feel good, [botown]?"
-    bot ""
+    bot "Eu consegui! Você gostou disso, [botown]?"
 
 # game/script.rpy:25460
 translate pt_br botboobjob1_bcd6f6d2:
 
     # c "That was the best boobjob I've ever had."
-    c ""
+    c "Essa foi a melhor espanhola que eu já tive."
 
 # game/script.rpy:25461
 translate pt_br botboobjob1_30cb828d:
 
     # bot "Really!? Thank you! I'm so glad I could be of service!"
-    bot ""
+    bot "É mesmo!? Obrigada! Eu fico tão feliz que eu pude ser útil!"
 
 # game/script.rpy:25462
 translate pt_br botboobjob1_5f3dfbe0:
 
     # bot "I would love to do this again, so just ask! My boobs will be ready for you whenever you want them."
-    bot ""
+    bot "Eu adoraria fazer isso de novo, então é só pedir! Minhas tetas vão estar prontas para você quando você quiser."
 
 # game/script.rpy:25463
 translate pt_br botboobjob1_59cf9b7a:
 
     # bot "Thanks for the fun! I can't wait to tell my friends how much you came!"
-    bot ""
+    bot "Obrigada pela diversão! EU mal posso esperar pra contar para as minhas amigas o quanto você gozou!"
 
 # game/script.rpy:25471
 translate pt_br botboobjob1_cb63bc4f:
 
     # c "I don't have time for this."
-    c ""
+    c "Eu não tenho tempo para isso."
 
 # game/script.rpy:25472
 translate pt_br botboobjob1_90cb4c01:
 
     # bot "S-Sorry [botown]..."
-    bot ""
+    bot "D-Desculpa [botown]..."
 
 # game/script.rpy:25479
 translate pt_br bottopslut_c5558b1c:
 
     # bot "[botown]! Let's have sex! I don't want to overheat!"
-    bot ""
+    bot "[botown]! Vamos fazer sexo! Eu não quero superaquecer!"
 
 # game/script.rpy:25480
 translate pt_br bottopslut_4992f39b:
 
     # bot "Which breast size would you like? Hurry!"
-    bot ""
+    bot "De qual tamanho dos meus seios você gostaria? Rápido!"
 
 # game/script.rpy:25483
 translate pt_br bottopslut_57ddb2f2:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25485
 translate pt_br bottopslut_9f87c451:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25487
 translate pt_br bottopslut_c9e7e191:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25488
 translate pt_br bottopslut_4a1ea475:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25489
 translate pt_br bottopslut_693cf7b5:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25490
 translate pt_br bottopslut_06c54e71:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25491
 translate pt_br bottopslut_1882911f:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25492
 translate pt_br bottopslut_5b2b1ce8:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25493
 translate pt_br bottopslut_2f549282:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25494
 translate pt_br bottopslut_f4bfbb17:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25495
 translate pt_br bottopslut_348124ca:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25496
 translate pt_br bottopslut_21f1da02:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25500
 translate pt_br bottopslut_a43ee563:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25501
 translate pt_br bottopslut_e33ae9a5:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25502
 translate pt_br bottopslut_e8672e77:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25504
 translate pt_br bottopslut_da2b2fd6:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25510
 translate pt_br bottopslut_57ddb2f2_1:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25512
 translate pt_br bottopslut_c9e7e191_1:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25513
 translate pt_br bottopslut_4a1ea475_1:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25514
 translate pt_br bottopslut_693cf7b5_1:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25515
 translate pt_br bottopslut_06c54e71_1:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25516
 translate pt_br bottopslut_1882911f_1:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25517
 translate pt_br bottopslut_5b2b1ce8_1:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25518
 translate pt_br bottopslut_2f549282_1:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25519
 translate pt_br bottopslut_f4bfbb17_1:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25520
 translate pt_br bottopslut_348124ca_1:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25521
 translate pt_br bottopslut_21f1da02_1:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25525
 translate pt_br bottopslut_a43ee563_1:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25526
 translate pt_br bottopslut_e33ae9a5_1:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25527
 translate pt_br bottopslut_e8672e77_1:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25529
 translate pt_br bottopslut_da2b2fd6_1:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25535
 translate pt_br bottopslut_57ddb2f2_2:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25537
 translate pt_br bottopslut_9f87c451_1:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25539
 translate pt_br bottopslut_c9e7e191_2:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25540
 translate pt_br bottopslut_4a1ea475_2:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25541
 translate pt_br bottopslut_693cf7b5_2:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25542
 translate pt_br bottopslut_06c54e71_2:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25543
 translate pt_br bottopslut_1882911f_2:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25544
 translate pt_br bottopslut_5b2b1ce8_2:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25545
 translate pt_br bottopslut_2f549282_2:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25546
 translate pt_br bottopslut_f4bfbb17_2:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25547
 translate pt_br bottopslut_348124ca_2:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25548
 translate pt_br bottopslut_21f1da02_2:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25552
 translate pt_br bottopslut_a43ee563_2:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25553
 translate pt_br bottopslut_e33ae9a5_2:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25554
 translate pt_br bottopslut_e8672e77_2:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25556
 translate pt_br bottopslut_da2b2fd6_2:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25562
 translate pt_br bottopslut_04fa9c3c:
 
     # bot "Did it feel good for you [botown]?"
-    bot ""
+    bot "Foi gostoso para você [botown]?"
 
 # game/script.rpy:25563
 translate pt_br bottopslut_5dc3addd:
 
     # c "It did! You did great."
-    c ""
+    c "Foi sim! Você foi ótimo."
 
 # game/script.rpy:25566
 translate pt_br bottopslut_29e6e21b:
 
     # bot "Thank you so much! I'm glad you enjoyed me!"
-    bot ""
+    bot "Muito obrigada! Fico feliz que você tenha gostado!"
 
 # game/script.rpy:25580
 translate pt_br bottopveil_c5558b1c:
 
     # bot "[botown]! Let's have sex! I don't want to overheat!"
-    bot ""
+    bot "[botown]! Vamos fazer sexo! Eu não quero superaquecer!"
 
 # game/script.rpy:25581
 translate pt_br bottopveil_4992f39b:
 
     # bot "Which breast size would you like? Hurry!"
-    bot ""
+    bot "De qual tamanho dos meus seios você gostaria? Rápido!"
 
 # game/script.rpy:25584
 translate pt_br bottopveil_57ddb2f2:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25586
 translate pt_br bottopveil_9f87c451:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25588
 translate pt_br bottopveil_c9e7e191:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25589
 translate pt_br bottopveil_4a1ea475:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25590
 translate pt_br bottopveil_693cf7b5:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25591
 translate pt_br bottopveil_06c54e71:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25592
 translate pt_br bottopveil_1882911f:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25593
 translate pt_br bottopveil_5b2b1ce8:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25594
 translate pt_br bottopveil_2f549282:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25595
 translate pt_br bottopveil_f4bfbb17:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25596
 translate pt_br bottopveil_348124ca:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25597
 translate pt_br bottopveil_21f1da02:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25601
 translate pt_br bottopveil_a43ee563:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25602
 translate pt_br bottopveil_e33ae9a5:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25603
 translate pt_br bottopveil_e8672e77:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25605
 translate pt_br bottopveil_da2b2fd6:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25611
 translate pt_br bottopveil_57ddb2f2_1:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25613
 translate pt_br bottopveil_c9e7e191_1:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25614
 translate pt_br bottopveil_4a1ea475_1:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25615
 translate pt_br bottopveil_693cf7b5_1:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25616
 translate pt_br bottopveil_06c54e71_1:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25617
 translate pt_br bottopveil_1882911f_1:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25618
 translate pt_br bottopveil_5b2b1ce8_1:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25619
 translate pt_br bottopveil_2f549282_1:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25620
 translate pt_br bottopveil_f4bfbb17_1:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25621
 translate pt_br bottopveil_348124ca_1:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25622
 translate pt_br bottopveil_21f1da02_1:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25626
 translate pt_br bottopveil_a43ee563_1:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25627
 translate pt_br bottopveil_e33ae9a5_1:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25628
 translate pt_br bottopveil_e8672e77_1:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25630
 translate pt_br bottopveil_da2b2fd6_1:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25636
 translate pt_br bottopveil_57ddb2f2_2:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25638
 translate pt_br bottopveil_9f87c451_1:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25640
 translate pt_br bottopveil_c9e7e191_2:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25641
 translate pt_br bottopveil_4a1ea475_2:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25642
 translate pt_br bottopveil_693cf7b5_2:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25643
 translate pt_br bottopveil_06c54e71_2:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25644
 translate pt_br bottopveil_1882911f_2:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25645
 translate pt_br bottopveil_5b2b1ce8_2:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25646
 translate pt_br bottopveil_2f549282_2:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25647
 translate pt_br bottopveil_f4bfbb17_2:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25648
 translate pt_br bottopveil_348124ca_2:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25649
 translate pt_br bottopveil_21f1da02_2:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25653
 translate pt_br bottopveil_a43ee563_2:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25654
 translate pt_br bottopveil_e33ae9a5_2:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25655
 translate pt_br bottopveil_e8672e77_2:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25657
 translate pt_br bottopveil_da2b2fd6_2:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25663
 translate pt_br bottopveil_04fa9c3c:
 
     # bot "Did it feel good for you [botown]?"
-    bot ""
+    bot "Foi gostoso para você [botown]?"
 
 # game/script.rpy:25664
 translate pt_br bottopveil_5dc3addd:
 
     # c "It did! You did great."
-    c ""
+    c "Foi sim! Você foi ótimo."
 
 # game/script.rpy:25667
 translate pt_br bottopveil_29e6e21b:
 
     # bot "Thank you so much! I'm glad you enjoyed me!"
-    bot ""
+    bot "Muito obrigada! Fico feliz que você tenha gostado!"
 
 # game/script.rpy:25676
 translate pt_br bottop2_c5558b1c:
 
     # bot "[botown]! Let's have sex! I don't want to overheat!"
-    bot ""
+    bot "[botown]! Vamos fazer sexo! Eu não quero superaquecer!"
 
 # game/script.rpy:25677
 translate pt_br bottop2_4992f39b:
 
     # bot "Which breast size would you like? Hurry!"
-    bot ""
+    bot "De qual tamanho dos meus seios você gostaria? Rápido!"
 
 # game/script.rpy:25680
 translate pt_br bottop2_57ddb2f2:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25682
 translate pt_br bottop2_9f87c451:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25684
 translate pt_br bottop2_c9e7e191:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25685
 translate pt_br bottop2_4a1ea475:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25686
 translate pt_br bottop2_693cf7b5:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25687
 translate pt_br bottop2_06c54e71:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25688
 translate pt_br bottop2_1882911f:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25689
 translate pt_br bottop2_5b2b1ce8:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25690
 translate pt_br bottop2_2f549282:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25691
 translate pt_br bottop2_f4bfbb17:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25692
 translate pt_br bottop2_348124ca:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25693
 translate pt_br bottop2_21f1da02:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25697
 translate pt_br bottop2_a43ee563:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25698
 translate pt_br bottop2_e33ae9a5:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25699
 translate pt_br bottop2_e8672e77:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25701
 translate pt_br bottop2_da2b2fd6:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25707
 translate pt_br bottop2_57ddb2f2_1:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25709
 translate pt_br bottop2_c9e7e191_1:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25710
 translate pt_br bottop2_4a1ea475_1:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25711
 translate pt_br bottop2_693cf7b5_1:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25712
 translate pt_br bottop2_06c54e71_1:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25713
 translate pt_br bottop2_1882911f_1:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25714
 translate pt_br bottop2_5b2b1ce8_1:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25715
 translate pt_br bottop2_2f549282_1:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25716
 translate pt_br bottop2_f4bfbb17_1:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25717
 translate pt_br bottop2_348124ca_1:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25718
 translate pt_br bottop2_21f1da02_1:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25722
 translate pt_br bottop2_a43ee563_1:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25723
 translate pt_br bottop2_e33ae9a5_1:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25724
 translate pt_br bottop2_e8672e77_1:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25726
 translate pt_br bottop2_da2b2fd6_1:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25732
 translate pt_br bottop2_57ddb2f2_2:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25734
 translate pt_br bottop2_9f87c451_1:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25736
 translate pt_br bottop2_c9e7e191_2:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25737
 translate pt_br bottop2_4a1ea475_2:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25738
 translate pt_br bottop2_693cf7b5_2:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25739
 translate pt_br bottop2_06c54e71_2:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25740
 translate pt_br bottop2_1882911f_2:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25741
 translate pt_br bottop2_5b2b1ce8_2:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25742
 translate pt_br bottop2_2f549282_2:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25743
 translate pt_br bottop2_f4bfbb17_2:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25744
 translate pt_br bottop2_348124ca_2:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25745
 translate pt_br bottop2_21f1da02_2:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25749
 translate pt_br bottop2_a43ee563_2:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25750
 translate pt_br bottop2_e33ae9a5_2:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25751
 translate pt_br bottop2_e8672e77_2:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25753
 translate pt_br bottop2_da2b2fd6_2:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25759
 translate pt_br bottop2_04fa9c3c:
 
     # bot "Did it feel good for you [botown]?"
-    bot ""
+    bot "Foi gostoso para você [botown]?"
 
 # game/script.rpy:25760
 translate pt_br bottop2_5dc3addd:
 
     # c "It did! You did great."
-    c ""
+    c "Foi sim! Você foi ótimo."
 
 # game/script.rpy:25763
 translate pt_br bottop2_29e6e21b:
 
     # bot "Thank you so much! I'm glad you enjoyed me!"
-    bot ""
+    bot "Muito obrigada! Fico feliz que você tenha gostado!"
 
 # game/script.rpy:25771
 translate pt_br bottop1_c6bdfee4:
 
     # r "Some of [botname]'s earlier content, including this event, is dated and in need if a remake. For now, please just bear with it :)"
-    r ""
+    r "Parte do conteúdo anterior de [botname], incluindo este evento, está datado e precisa de um remake. Por enquanto, por favor, aguentem :)"
 
 # game/script.rpy:25774
 translate pt_br bottop1_c1870bd7:
@@ -61899,73 +61899,73 @@ translate pt_br bottop1_95c1df10:
 translate pt_br bottop1_57ddb2f2:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25814
 translate pt_br bottop1_9f87c451:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25816
 translate pt_br bottop1_c9e7e191:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25817
 translate pt_br bottop1_4a1ea475:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25818
 translate pt_br bottop1_693cf7b5:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25819
 translate pt_br bottop1_06c54e71:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25820
 translate pt_br bottop1_1882911f:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25821
 translate pt_br bottop1_5b2b1ce8:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25822
 translate pt_br bottop1_2f549282:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25823
 translate pt_br bottop1_f4bfbb17:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25824
 translate pt_br bottop1_348124ca:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25825
 translate pt_br bottop1_21f1da02:
 
-    # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    # bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25829
 translate pt_br bottop1_a43ee563:
@@ -61977,7 +61977,7 @@ translate pt_br bottop1_a43ee563:
 translate pt_br bottop1_e33ae9a5:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25831
 translate pt_br bottop1_e8672e77:
@@ -61989,7 +61989,7 @@ translate pt_br bottop1_e8672e77:
 translate pt_br bottop1_da2b2fd6:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada...""
 
 # game/script.rpy:25839
 translate pt_br bottop1_b88fc6dc:
@@ -62001,187 +62001,187 @@ translate pt_br bottop1_b88fc6dc:
 translate pt_br bottop1_9f87c451_1:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25843
 translate pt_br bottop1_c9e7e191_1:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25844
 translate pt_br bottop1_4a1ea475_1:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25845
 translate pt_br bottop1_693cf7b5_1:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25846
 translate pt_br bottop1_06c54e71_1:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25847
 translate pt_br bottop1_1882911f_1:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25848
 translate pt_br bottop1_5b2b1ce8_1:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25849
 translate pt_br bottop1_2f549282_1:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25850
 translate pt_br bottop1_f4bfbb17_1:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25851
 translate pt_br bottop1_348124ca_1:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25852
 translate pt_br bottop1_21f1da02_1:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25854
 translate pt_br bottop1_a43ee563_1:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25855
 translate pt_br bottop1_e33ae9a5_1:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25856
 translate pt_br bottop1_e8672e77_1:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25858
 translate pt_br bottop1_da2b2fd6_1:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada...""
 
 # game/script.rpy:25864
 translate pt_br bottop1_57ddb2f2_1:
 
     # bot "Yes [botown]!"
-    bot ""
+    bot "Sim [botown]!"
 
 # game/script.rpy:25866
 translate pt_br bottop1_9f87c451_2:
 
     # bot "Okay here I go!"
-    bot ""
+    bot "Tudo bem, aqui vou eu!"
 
 # game/script.rpy:25868
 translate pt_br bottop1_c9e7e191_2:
 
     # bot "Ahhh! It's in [botown]!"
-    bot ""
+    bot "Ahhh! Está dentro [botown]!"
 
 # game/script.rpy:25869
 translate pt_br bottop1_4a1ea475_2:
 
     # bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
-    bot ""
+    bot "Hmmmnnng... Ahh! Ahhhn! Mmmm! [botown]!!!"
 
 # game/script.rpy:25870
 translate pt_br bottop1_693cf7b5_2:
 
     # bot "Does it feel good [botown]? I-I can make it feel better!"
-    bot ""
+    bot "Isso é gostoso [botown]? E-Eu posso fazer ficar melhor!"
 
 # game/script.rpy:25871
 translate pt_br bottop1_06c54e71_2:
 
     # c "Ngghk! Her pussy started squeezing harder!" with ssshake
-    c "" with ssshake
+    c "Ngghk! A boceta dela começou a apertar mais forte!" with ssshake
 
 # game/script.rpy:25872
 translate pt_br bottop1_1882911f_2:
 
     # bot "It feels better right? I want you to feel as good as I am!" with ssshake
-    bot "" with ssshake
+    bot "Assim é melhor, né? Eu quero que você se sinta tão bem quanto eu!" with ssshake
 
 # game/script.rpy:25873
 translate pt_br bottop1_5b2b1ce8_2:
 
     # c "Agh!" with ssshake
-    c "" with ssshake
+    c "Agh!" with ssshake
 
 # game/script.rpy:25874
 translate pt_br bottop1_2f549282_2:
 
     # bot "I can't get enough!!!" with ssshake
-    bot "" with ssshake
+    bot "Eu não consigo ficar satisfeita disso!!!" with ssshake
 
 # game/script.rpy:25875
 translate pt_br bottop1_f4bfbb17_2:
 
     # bot "Ahh! Hahh!" with ssshake
-    bot "" with ssshake
+    bot "Ahh! Hahh!" with ssshake
 
 # game/script.rpy:25876
 translate pt_br bottop1_348124ca_2:
 
     # bot "[botown] cum inside me! It feels better that way right? You don't have to worry about getting me pregnant!" with ssshake
-    bot "" with ssshake
+    bot "[botown] goza dentro de mim! É mais gostoso desse jeito, né? Você não precisa se preocupar em me deixar grávida!" with ssshake
 
 # game/script.rpy:25877
 translate pt_br bottop1_21f1da02_2:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot "" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25881
 translate pt_br bottop1_a43ee563_2:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25882
 translate pt_br bottop1_e33ae9a5_2:
 
     # bot "AHhhh!" with ssshake
-    bot "" with ssshake
+    bot "AHhhh!" with ssshake
 
 # game/script.rpy:25883
 translate pt_br bottop1_e8672e77_2:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25885
 translate pt_br bottop1_da2b2fd6_2:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot ""
+    bot "Ngggh... [botown]... Obrigada...""
 
 # game/script.rpy:25891
 translate pt_br bottop1_6ade4927:
@@ -71127,7 +71127,7 @@ translate pt_br botcatsf_bdf3e43a:
 translate pt_br botcatsf_441fad51:
 
     # bot "AHH! Hahh! I'm cumming! I'm cumming!"
-    bot ""
+    bot "Ahh! Hahh!"
 
 # game/script.rpy:29336
 translate pt_br botcatsf_7c00582d:
