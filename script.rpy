@@ -61881,19 +61881,19 @@ translate pt_br bottop1_10eb423d:
 translate pt_br bottop1_b3cafb21:
 
     # bot "I don't even think anyone would consider me the same person..."
-    bot "Eu nem acho que alguém me consideraria a mesma pessoa…"
+    bot "Eu nem acho que alguém me consideraria a mesma pessoa..."
 
 # game/script.rpy:25806
 translate pt_br bottop1_e2f49689:
 
     # bot "Hnnngg... [botown] I can't take it anymore! My pussy is throbbing! I need to do something about it! Ah!"
-    bot ""
+    bot "Hnnngg... [botown] eu não aguento mais! A minha boceta está latejando! Eu preciso fazer alguma coisa quanto a isso! Ah!"
 
 # game/script.rpy:25809
 translate pt_br bottop1_95c1df10:
 
     # bot "[botown]! I need it inside me! Inside my pussy! Or I'm going to explode! Please [botown], I'll give you any breast size you want! I just need it inside of me!!!"
-    bot ""
+    bot "[botown]! Eu preciso dele dentro de mim! Dentro da minha boceta! Ou eu vou explodir! Por favor [botown], eu vou te dar qualquer tamanho de peito que você quiser! Eu só preciso dele dentro de mim!"
 
 # game/script.rpy:25812
 translate pt_br bottop1_57ddb2f2:
@@ -61964,14 +61964,14 @@ translate pt_br bottop1_348124ca:
 # game/script.rpy:25825
 translate pt_br bottop1_21f1da02:
 
-    # bot "" with ssshake
+    # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
     bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25829
 translate pt_br bottop1_a43ee563:
 
     # bot "Ghhhk!" with ssshake
-    bot "" with ssshake
+    bot "Ghhhk!" with ssshake
 
 # game/script.rpy:25830
 translate pt_br bottop1_e33ae9a5:
@@ -61983,19 +61983,19 @@ translate pt_br bottop1_e33ae9a5:
 translate pt_br bottop1_e8672e77:
 
     # bot "Nnngg..." with ssshake
-    bot "" with ssshake
+    bot "Nnngg..." with ssshake
 
 # game/script.rpy:25833
 translate pt_br bottop1_da2b2fd6:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot "Ngggh... [botown]... Obrigada...""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25839
 translate pt_br bottop1_b88fc6dc:
 
     # bot "Okay [botown], please let me put it in!!!"
-    bot ""
+    bot "Tudo bem [botown], por favor deixe-me colocar dentro!!1"
 
 # game/script.rpy:25841
 translate pt_br bottop1_9f87c451_1:
@@ -62085,7 +62085,7 @@ translate pt_br bottop1_e8672e77_1:
 translate pt_br bottop1_da2b2fd6_1:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot "Ngggh... [botown]... Obrigada...""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25864
 translate pt_br bottop1_57ddb2f2_1:
@@ -62181,229 +62181,229 @@ translate pt_br bottop1_e8672e77_2:
 translate pt_br bottop1_da2b2fd6_2:
 
     # bot "Ngggh... [botown]... Thank you..."
-    bot "Ngggh... [botown]... Obrigada...""
+    bot "Ngggh... [botown]... Obrigada..."
 
 # game/script.rpy:25891
 translate pt_br bottop1_6ade4927:
 
     # bot "S-Sorry [botown]... I hope you can forgive me... my lust took over..."
-    bot ""
+    bot D-Desculpa [botown]... Eu espero que você possa me perdoar... a minha luxúria tomou conta..."
 
 # game/script.rpy:25892
 translate pt_br bottop1_3f83f0ee:
 
     # c "Are you kidding [botname]? That was amazing!"
-    c ""
+    c "Você está brincando [botname]? Isso foi incrível!"
 
 # game/script.rpy:25895
 translate pt_br bottop1_efd25062:
 
     # bot "Really [botown]? You really liked it too?"
-    bot ""
+    bot "É mesmo [botown]? Você realmente gostou também?"
 
 # game/script.rpy:25896
 translate pt_br bottop1_a83ab574:
 
     # c "Of course!"
-    c ""
+    c "É claro!"
 
 # game/script.rpy:25897
 translate pt_br bottop1_e945cdff:
 
     # bot "Thank you so much [botown]! I'm glad you enjoyed me!"
-    bot ""
+    bot "Muito obrigada [botown]! Fico feliz que você tenha gostado!"
 
 # game/script.rpy:25905
 translate pt_br cookoff_3c048e5d:
 
     # l "Good timing, [linoname]! How hungry are you?"
-    l ""
+    l "Bom timing, [linoname]! Com quanta fome você está?"
 
 # game/script.rpy:25906
 translate pt_br cookoff_10edbf50:
 
     # c "I could go for a bite."
-    c ""
+    c "Até que eu gostaria de comer alguma coisa."
 
 # game/script.rpy:25907
 translate pt_br cookoff_4576e17d:
 
     # l "Good! Because I have something special planned for you. [botname] should be here any minute..."
-    l ""
+    l "Ótimo! Porque eu tenho algo especial planejado para você. [botname] deve chegar aqui a qualquer intante..."
 
 # game/script.rpy:25908
 translate pt_br cookoff_a4f15064:
 
     # c "What's happening?"
-    c ""
+    c "O que está acontecendo?"
 
 # game/script.rpy:25910
 translate pt_br cookoff_044cea98:
 
     # bot "H-Hello Ms. Lin, you needed me?"
-    bot ""
+    bot "O-Olá Sra. Lin, você precisava de mim?"
 
 # game/script.rpy:25911
 translate pt_br cookoff_79b7b20c:
 
     # l "I challenge you to a cook-off!"
-    l ""
+    l "Eu te desafio a uma competição de culinária!"
 
 # game/script.rpy:25912
 translate pt_br cookoff_96dc6bec:
 
     # l "I've been practicing every day! I've finally created a recipe for the perfect pizza! Do you accept my challenge?"
-    l ""
+    l "Eu estive praticando todos os dias! E finalmente criei a receita para uma pizza perfeita! Você aceita o meu desafio?"
 
 # game/script.rpy:25914
 translate pt_br cookoff_50f50b06:
 
     # bot "Th-The perfect pizza!? Really...? I don't know if I can compete with that...!"
-    bot ""
+    bot "A-A pizza perfeita!? É mesmo...? Eu não sei se consigo competir com isso...!"
 
 # game/script.rpy:25915
 translate pt_br cookoff_d0dd548e:
 
     # l "Hmph, so you accept defeat, do you? You accept that I'm the best maid here?"
-    l ""
+    l "Hmph, então você aceita a derrota, não é? Você aceita que eu sou a melhor empregada aqui?"
 
 # game/script.rpy:25917
 translate pt_br cookoff_d439dc61:
 
-    # bot "Well... statistically speaking, I put in a lot more hours each day than you do, so..."
-    bot ""
+        # bot "Well... statistically speaking, I put in a lot more hours each day than you do, so..."
+    bot "Bem... estatisticamente falando, eu trabalho muito mais horas por dia do que você, então..."
 
 # game/script.rpy:25918
 translate pt_br cookoff_86d6fafb:
 
     # l "Trash talk, hm? I didn't take you for that kind of person. I see the competition has already begun..."
-    l ""
+    l "Conversa fiada, hein? Eu não imaginei que você fosse esse tipo de pessoa. Vejo que a competição já começou..."
 
 # game/script.rpy:25919
 translate pt_br cookoff_99a816e1:
 
     # l "Today we'll be using the resources we have available in the hotel's kitchen to cook the best tasting pizza possible for [linoname]. Nothing frozen!"
-    l ""
+    l "Hoje nós estaremos usando os recursos disponíveis que tem na cozinha do hotel para coinhar a pizza mais gostosa possível para [linoname]. Nada congelado!"
 
 # game/script.rpy:25920
 translate pt_br cookoff_4b3029a6:
 
     # bot "That shouldn't be too hard... but are you sure you can cook something other than frozen food, Lin?"
-    bot ""
+    bot "Isso não deve ser tão difícil... mas você tem certeza que consegue cozinhar alguma coisa além de comida congelada, Lin?"
 
 # game/script.rpy:25921
 translate pt_br cookoff_ff13740f:
 
     # l "Hmph, you're relentless aren't you..."
-    l ""
+    l "Hmph, você é implcável, não é..."
 
 # game/script.rpy:25922
 translate pt_br cookoff_6ab7cb5f:
 
     # l "Very well, may the best maid win! Go!!"
-    l ""
+    l "Muito bem, que a melhor empregada vença! Vai!!!"
 
 # game/script.rpy:25924
 translate pt_br cookoff_a9359d9b:
 
     # "You watch as Lin and [botname] rush into the pantry and gather their ingredients. They each kneed their dough, lather tomato sauce, apply cheese, and place their toppings."
-    ""
+    "Você assiste enquanto Lin e [botname] correm para a despensa e reunem os ingredientes. Cada uma amassa a sua massa, espalha o molho de tomate, aplica o queijo e as coberturas."
 
 # game/script.rpy:25925
 translate pt_br cookoff_3dd13b1f:
 
     # "Lin does all of this with complete elegance, while [botname] uses utter precision. You resign to the dining room table where you wait for your food..."
-    ""
+    "Lin faz tudo isso com total elegância, enquanto [botname] usa precisão absoluta. Você se resigna à mesa de jantar onde espera sua comida..."
 
 # game/script.rpy:25927
 translate pt_br cookoff_eb17b717:
 
     # l "It's done! The perfect pizza!"
-    l ""
+    l "Está feita! A pizza perfeita!"
 
 # game/script.rpy:25928
 translate pt_br cookoff_bfaf2336:
 
     # bot "I hope I did a good job..."
-    bot ""
+    bot "Eu espero ter feito um bom trabalho..."
 
 # game/script.rpy:25930
 translate pt_br cookoff_a9303443:
 
     # c "They both look very similar, and neither of them look burnt."
-    c ""
+    c "As duas ficaram bem parecidas, e nenhuma delas pareces queimadas."
 
 # game/script.rpy:25931
 translate pt_br cookoff_a6dc3715:
 
     # bot "I just followed a guide on the internet, it was the highest rated recipe I could find. I hope it tastes good, I've never done this before..."
-    bot ""
+    bot "Eu só segui um guia na internet, essa foi a receita mais bem avaliada que eu pude encontrar. Eu espero que esteja gostosa, eu nunca fiz isso antes."
 
 # game/script.rpy:25932
 translate pt_br cookoff_c5e3e04d:
 
     # l "The internet? Pfft, you can't trust anything on the internet. Instinct is the only way to cook!"
-    l ""
+    l "A internet? Pfft, você não pode confiar em nada na internet. O instinto é a única maneira de cozinhar!"
 
 # game/script.rpy:25933
 translate pt_br cookoff_81038ba7:
 
     # l "Well, dig in [linoname]!"
-    l ""
+    l "Bem, sirva-se [linoname]!"
 
 # game/script.rpy:25935
 translate pt_br cookoff_d5b71bba:
 
     # "You begin with Lin's pizza. The crust is tasty, the tomato sauce is fresh, the cheese has melted just the right way, and the toppings provide an extra pop that was needed to complete the dish."
-    ""
+    "Você começa com a pizza da Lin. A crosta está gostosa, o molho de tomate está fresco, o queijo derreteu da maneira correta e as coberturas dão o toque extra que era necessário para completar o prato."
 
 # game/script.rpy:25936
 translate pt_br cookoff_5a7ae24d:
 
     # "Then you move on to [botname]'s pizza. The crust has been seasoned just the right way, the sauce and cheese are both spread incredibly evenly, and the toppings are placed in such a way that no matter where you bite, you receive the same amount of toppings."
-    ""
+    "E então você vai para a pizza de [botname]. A crosta foi temperada da maneira certa, o molho e o queijo são espalhados de forma incrivelmente uniforme, e as coberturas foram colocadas de uma maneira que não importa aonde você morda, você receba a a mesma quantidade de coberturas."
 
 # game/script.rpy:25938
 translate pt_br cookoff_639e8262:
 
     # l "What do you think, [linoname]? I've improved, haven't I?"
-    l ""
+    l "O que você acha, [linoname]? Eu melhorei, não foi?"
 
 # game/script.rpy:25939
 translate pt_br cookoff_19e52cab:
 
     # bot "The people on the internet didn't lie, did they?"
-    bot ""
+    bot "As pessoas da internet não mentiram, né?"
 
 # game/script.rpy:25940
 translate pt_br cookoff_97f51bb4:
 
     # c "Both of these were outstanding... but I'm going to have to give the win to [botname]."
-    c ""
+    c "AS duas estão excelentes... mas eu vou ter que dar a vitória para [botname]."
 
 # game/script.rpy:25942
 translate pt_br cookoff_a9feeee1:
 
     # bot "*gasp*! Yay!"
-    bot "*espanto*! Yes!"
+    bot "*AH*! Yes!"
 
 # game/script.rpy:25943
 translate pt_br cookoff_cdea2d32:
 
     # l "N-No way! That can't be true! I- I mean, I'm not calling you a liar! But... w-what makes hers better?"
-    l ""
+    l "N-Não acredito! Isso não pode ser verdade! D-Digo, eu não estou te chamando de mentiroso! Mas... o-o que torna a dela melhor?"
 
 # game/script.rpy:25944
 translate pt_br cookoff_5162b211:
 
     # c "I can't pin it down, but hers just tastes better."
-    c ""
+    c "EU não consigo definir, mas a dela simplesmente é mais gostosa."
 
 # game/script.rpy:25945
 translate pt_br cookoff_5b49ce41:
 
-    # bot "I put in an extra teaspoon of sugar and salt in the bread mix! The internet says it makes everything taste better."
-    bot ""
+        # bot "I put in an extra teaspoon of sugar and salt in the bread mix! The internet says it makes everything taste better."
+    bot "Eu coloquei uma colher de chá extra de açucar e sal na mistura do massa!"
 
 # game/script.rpy:25947
 translate pt_br cookoff_238fc1eb:
@@ -62532,7 +62532,7 @@ translate pt_br cookoff_f5c4f1ed:
     bot ""
 
 # game/script.rpy:25975
-translate pt_br cookoff_8ff5dea5:
+translate pt_br cookof=f_8ff5dea5:
 
     # bot "Please Ms. Lin, go ahead!"
     bot ""
