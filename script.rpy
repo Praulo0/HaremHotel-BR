@@ -61767,121 +61767,121 @@ translate pt_br bottop1_c6bdfee4:
 translate pt_br bottop1_c1870bd7:
 
     # bot "[botown]... I know this is a bit random, but... could you take your penis out?"
-    bot ""
+    bot "[botown]... Eu sei que isso é um pouco aleatório, mas... você pode colocar o seu pênis para fora?"
 
 # game/script.rpy:25775
 translate pt_br bottop1_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hm?"
 
 # game/script.rpy:25776
 translate pt_br bottop1_05c06691:
 
     # bot "Please?"
-    bot ""
+    bot "Por favor?"
 
 # game/script.rpy:25778
 translate pt_br bottop1_fa60dffa:
 
     # bot "...[botown]... It's soft..."
-    bot ""
+    bot "...[botown]... É macio..."
 
 # game/script.rpy:25780
 translate pt_br bottop1_60c53390:
 
     # bot "Why is it soft? Do you really not like me [botown]?"
-    bot ""
+    bot "Por que está macio? Você não gosta mesmo de mim [botown]?"
 
 # game/script.rpy:25781
 translate pt_br bottop1_15258906:
 
     # c "I'm just not aroused yet."
-    c ""
+    c "Eu só não estou excitado ainda."
 
 # game/script.rpy:25783
 translate pt_br bottop1_5d4c47d6:
 
     # bot "Oh... How can I arouse you [botown]?"
-    bot ""
+    bot "Ah... Como eu posso te deixar excitado, [botown]?"
 
 # game/script.rpy:25784
 translate pt_br bottop1_480ba9be:
 
     # c "You could lick it..."
-    c ""
+    c "Você poderia lamber ele..."
 
 # game/script.rpy:25786
 translate pt_br bottop1_4455a8a8:
 
     # bot "W-What!? I can't do that! I would have to take my mask off! And that's too lewd!!!"
-    bot ""
+    bot "O-O quê!? Eu não posso fazer isso! Eu teria que tirar a minha máscara! E isso seria muito indecente!!!"
 
 # game/script.rpy:25787
 translate pt_br bottop1_94edf610:
 
     # c "You could take off your clothes then."
-    c ""
+    c "Você poderia tirar suas roupas então."
 
 # game/script.rpy:25789
 translate pt_br bottop1_cd9c8034:
 
     # bot "Oh... Okay, I can do that..."
-    bot ""
+    bot "Ah... Tudo bem, eu posso fazer isso..."
 
 # game/script.rpy:25791
 translate pt_br bottop1_92a9af4f:
 
     # bot "Okay [botown], I undressed... does this get you aroused?"
-    bot ""
+    bot "Tá bom [botown], eu me despi... isso te deixa excitado?"
 
 # game/script.rpy:25792
 translate pt_br bottop1_6f02ee18:
 
     # c "It does."
-    c ""
+    c "Deixa sim."
 
 # game/script.rpy:25794
 translate pt_br bottop1_6297abf9:
 
     # bot "Yay! I'm glad you like my body [botown]!"
-    bot "Yes!"
+    bot "Yes! Fico feliz que você goste do meu corpo, [botown]!"
 
 # game/script.rpy:25798
 translate pt_br bottop1_1e060393:
 
     # bot "Wow... It's just as big as it was for Lin..."
-    bot ""
+    bot "Uau... É tão grande quanto era para Lin..."
 
 # game/script.rpy:25800
 translate pt_br bottop1_98d00ec9:
 
     # bot "Hnnng... I feel funny again..."
-    bot ""
+    bot "Hnnng... Eu estou me sentindo estranha de novo..."
 
 # game/script.rpy:25801
 translate pt_br bottop1_bedfebde:
 
     # bot "Ahhh... I think I'm going to start overheating... [botown] why do I feel this way...?"
-    bot ""
+    bot "Ahhh... eu acho que vou começar a superaquecer... [botown] por que eu estou me sentindo desse jeito...?"
 
 # game/script.rpy:25802
 translate pt_br bottop1_0f8074d8:
 
     # c "Have you ever seen a penis before?"
-    c ""
+    c "Você nunca viu um pênis antes?"
 
 # game/script.rpy:25803
 translate pt_br bottop1_10eb423d:
 
     # bot "Y-Yes... in my early stages of development my... m-mouth... was tested... I've had plenty of alterations since then though..."
-    bot ""
+    bot "Vi s-sim... nos meus primeiros estágios de desenvolvimento a minha... b-boca... foi testada... Mas eu já passei por muitas alterações desde então..."
 
 # game/script.rpy:25804
 translate pt_br bottop1_b3cafb21:
 
     # bot "I don't even think anyone would consider me the same person..."
-    bot ""
+    bot "Eu nem acho que alguém me consideraria a mesma pessoa…"
 
 # game/script.rpy:25806
 translate pt_br bottop1_e2f49689:
