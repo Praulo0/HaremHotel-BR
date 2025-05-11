@@ -34914,6 +34914,7 @@ translate pt_br bot_sick_a72bc0bf:
 
     # ally "*gasp*! Really!?"
     ally "*ah*! Verdade!?"
+
 # game/script.rpy:17960
 translate pt_br bot_sick_98d3db8e:
 
@@ -62409,265 +62410,265 @@ translate pt_br cookoff_5b49ce41:
 translate pt_br cookoff_238fc1eb:
 
     # bot "Does that mean I'm the best maid now, Ms. Lin?"
-    bot ""
+    bot "Isso quer dizer que eu sou a melhor empregada agora, Sra. Lin?"
 
 # game/script.rpy:25948
 translate pt_br cookoff_ab968025:
 
     # l "W-What?"
-    l ""
+    l "O-O quê?"
 
 # game/script.rpy:25949
 translate pt_br cookoff_4dc0ad1b:
 
     # bot "That's what you said, remember? The best maid would win! I guess that means you suck, doesn't it?"
-    bot ""
+    bot "Foi isso o que você disse, lembra? A melhor empregada ganharia!"
 
 # game/script.rpy:25950
 translate pt_br cookoff_3f870e73:
 
     # l "The competition is over, you don't need to keep rubbing it in..."
-    l ""
+    l "A competição acabou, você não precisa ficar esfregando na minha cara..."
 
 # game/script.rpy:25951
 translate pt_br cookoff_bd5139c7:
 
     # l "Well maybe you can cook better than me, but you're right about one thing..."
-    l ""
+    l "Bem, talvez você até possa cozinhar melhor do que eu, mas você está certa sobre uma coisa... "
 
 # game/script.rpy:25953
 translate pt_br cookoff_0bbc1fa4:
 
     # l "I can still suck better than she can, right [linoname]? You cum every time I suck your cock..."
-    l ""
+    l "Eu ainda posso chupar você melhor do que ela, não é [linoname]? Você goza toda vez que eu chupo o seu pau..."
 
 # game/script.rpy:25954
 translate pt_br cookoff_6b522884:
 
     # bot "W-Wait, I didn't know that was meant to be taken literally...! You don't suck, you're just bad at cooking!"
-    bot ""
+    bot "E-Espera, eu não sabia que você ia levar isso pro lado literal...!"
 
 # game/script.rpy:25956
 translate pt_br cookoff_7c508ffd:
 
     # l "Grrr... You don't even know the first thing about sucking a cock, do you?"
-    l ""
+    l "Grrr... Você não sabe nem mesmo a primeira coisa sobre chupar um pau, não é?"
 
 # game/script.rpy:25957
 translate pt_br cookoff_f72a6ae6:
 
     # bot "Umm, well... I could look it up on the internet..."
-    bot ""
+    bot "Humm, bem... Eu poderia dar uma olhada na internet..."
 
 # game/script.rpy:25958
 translate pt_br cookoff_3488e466:
 
     # l "Then do it! Suck his cock and make him cum as fast as you can. If you can beat my record then you'll officially be the best maid."
-    l ""
+    l "Então faça isso! Chupa o pau dele e faça ele gozar o mais rápido que você puder. Se você conseguir quebrar o meu recorde você será oficialmente a melhor empregada."
 
 # game/script.rpy:25960
 translate pt_br cookoff_c39df6e1:
 
     # bot "Nnnh..."
-    bot ""
+    bot "Nnnh..."
 
 # game/script.rpy:25961
 translate pt_br cookoff_5f5ae37c:
 
     # l "I thought not... but you can watch and learn how a real maid performs."
-    l ""
+    l "Imaginei que você não faria... mas veja e aprenda como uma empregada de verdade faz."
 
 # game/script.rpy:25962
 translate pt_br cookoff_5c722d8e:
 
     # bot "Is sucking cock really apart of our job description? I should have studied..."
-    bot ""
+    bot "Chupar paus realmente faz parte da nossa descrição de trabalho? Eu deveria ter estudado isso..."
 
 # game/script.rpy:25963
 translate pt_br cookoff_21fbcba0:
 
     # l "Take your cock out, [linoname]. She needs to be taught a lesson..."
-    l ""
+    l "Ponha seu pau pra fora, [linoname]. Ela precisa aprender uma lição..."
 
 # game/script.rpy:25967
 translate pt_br cookoff_fff59229:
 
     # bot "Ms. Lin, are you really going to do this? Right here...?"
-    bot ""
+    bot "Sra. Lin, você vai mesmo fazer isso? Bem aqui...?"
 
 # game/script.rpy:25968
 translate pt_br cookoff_0b2fe025:
 
     # l "Yes, of course. A good maid is willing whenever, wherever."
-    l ""
+    l "Sim, é claro. Uma boa empregada está disposta a qualquer momento, em qualquer lugar."
 
 # game/script.rpy:25969
 translate pt_br cookoff_8862d38c:
 
     # bot "Oh, I see... please continue!"
-    bot ""
+    bot "Ah, entendi... por favor cotinue!"
 
 # game/script.rpy:25971
 translate pt_br cookoff_4c2461d4:
 
     # l "Have you ever put one in your mouth before, [botname]?"
-    l ""
+    l "Você já colocou um na sua boca antes, [botname]?"
 
 # game/script.rpy:25972
 translate pt_br cookoff_622a03ee:
 
     # bot "N-No, never...!"
-    bot ""
+    bot "N-Não, nunca...!"
 
 # game/script.rpy:25973
 translate pt_br cookoff_10265afd:
 
     # l "I'm sure you have a pretty face... why don't you take your mask off so I can teach you how to do it properly?"
-    l ""
+    l "Eu tenho certeza que você tem um rosto bonito... por que não tira a sua máscara para eu poder te ensinar a fazer isso direito?"
 
 # game/script.rpy:25974
 translate pt_br cookoff_f5c4f1ed:
 
     # bot "Um... I learn better by watching..."
-    bot ""
+    bot "Hum... Eu aprendo melhor assistindo..."
 
 # game/script.rpy:25975
 translate pt_br cookof=f_8ff5dea5:
 
     # bot "Please Ms. Lin, go ahead!"
-    bot ""
+    bot "Por favor Sra. Lin, vá em frente!"
 
 # game/script.rpy:25976
 translate pt_br cookoff_84973302:
 
-    # l "I'm glad you're such an eager student now. Allow me to show you how to properly suck your master's cock..."
-    l ""
+        # l "I'm glad you're such an eager student now. Allow me to show you how to properly suck your master's cock..."
+    l "Fico feliz que você seja uma aluna tão entusiasmada agora. Permita-me te mostrar como chupar o pau do seu mestre corretamente..."
 
 # game/script.rpy:25978
 translate pt_br cookoff_8c010d00:
 
     # l "Mmmmn, there... see? Llllmn... he's much happier now..."
-    l ""
+    l "Mmmmn, aí... vê? Lllllmn... ele está muito mais feliz agora..."
 
 # game/script.rpy:25979
 translate pt_br cookoff_e436ea53:
 
     # bot "You really put it in your mouth! That's so lewd..."
-    bot ""
+    bot "Você realmente colocou ele na sua boca! Isso é tão indecente..."
 
 # game/script.rpy:25980
 translate pt_br cookoff_62b17ee8:
 
     # l "This is how, mmmn, a real maid pleases her master... lllmn...!"
-    l ""
+    l "É assim que, mmmn, uma empregada de verdade agrada o mestre dela... lllmn...!"
 
 # game/script.rpy:25981
 translate pt_br cookoff_3c83d2fa:
 
     # bot "Heheh, my mouth is starting to drool..."
-    bot ""
+    bot "Heheh, eminha boca está começando a salivar..."
 
 # game/script.rpy:25982
 translate pt_br cookoff_9f4cdb84:
 
     # l "Nnnh, yeah... mmmln, my pussy does that when I see his cock too..."
-    l ""
+    l "Nnnh, é... mmmln, a minha boceta também faz isso quando eu vejo o pau dele..."
 
 # game/script.rpy:25985
 translate pt_br cookoff_b0e3d016:
 
     # l "Mmmmn, [linoname]... am I doing a good job? Lllmn, please cum for me~"
-    l ""
+    l "Mmmmn, [linoname]... eu estou fazendo um bom trabalho? Lllmn, por favor, goza pra mim~"
 
 # game/script.rpy:25986
 translate pt_br cookoff_fdd47e70:
 
     # bot "The temperature of his cock is rising! That must be a good sign, right?"
-    bot ""
+    bot "A temperatura do pau dele está aumentando! Isso deve ser um bom sinal, não é?"
 
 # game/script.rpy:25987
 translate pt_br cookoff_f98a6efe:
 
     # l "Nnngh, are you getting close, [linoname]? Mmmmn! Mmmmn! Cum, cum! Cum for me, [linoname]...!"
-    l ""
+    l "Nnngh, você está chegando perto, [linoname]? Mmmmn! Mmmmn! Goza, goza! Goza pra mim, [linoname]...!"
 
 # game/script.rpy:25988
 translate pt_br cookoff_a0604ea1:
 
     # bot "Heheh, I can't wait to see it...! Will you swallow...?"
-    bot ""
+    bot "Heheh, eu mal posso esperar pra ver isso...! Você vai engolir...?"
 
 # game/script.rpy:25990
 translate pt_br cookoff_0a32cc2b:
 
     # bot "*gasp*!" with ssshake
-    bot "" with ssshake
+    bot "*AH*!" with ssshake
 
 # game/script.rpy:25991
 translate pt_br cookoff_c11a8458:
 
     # l "Heheh! I love seeing your cum drip down her body, [linoname]..."
-    l ""
+    l "Heheh! Eu amei ver o seu gozo pingando pelo corpo dela, [linoname]..."
 
 # game/script.rpy:25993
 translate pt_br cookoff_e3469428:
 
     # bot "It's so hot on my skin, I like it!"
-    bot ""
+    bot "É tão quentinho na minha pele, eu gostei disso!"
 
 # game/script.rpy:25994
 translate pt_br cookoff_7c9b4aab:
 
     # l "H-Hey, I didn't say you could take your top off...!"
-    l ""
+    l "E-Ei, eu não disse que você podia tirar a sua blusa...!"
 
 # game/script.rpy:25995
 translate pt_br cookoff_cdeea727:
 
     # l "Now you're supposed to thank him, so don't forget it...!"
-    l ""
+    l "Agora você deve agradecê-lo, então não se esqueça disso...!"
 
 # game/script.rpy:25996
 translate pt_br cookoff_299b6bee:
 
     # bot "{i}Thank you, [botown]~!{/i}"
-    bot ""
+    bot "{i}Obrigada, [botown]~!{/i}"
 
 # game/script.rpy:26003
 translate pt_br cookoff_6b342fbf:
 
     # l "What?"
-    l ""
+    l "O quê?"
 
 # game/script.rpy:26004
 translate pt_br cookoff_ef12b1fb:
 
     # bot "Are you sure? I would love to watch!"
-    bot ""
+    bot "Você tem certeza? EU adoraria assistir!"
 
 # game/script.rpy:26005
 translate pt_br cookoff_a023c365:
 
     # c "Sorry, not interested."
-    c ""
+    c "Sinto muito, não estou interessado."
 
 # game/script.rpy:26006
 translate pt_br cookoff_7d1eaf99:
 
     # l "But- egh..."
-    l ""
+    l "Mas- egh..."
 
 # game/script.rpy:26008
 translate pt_br cookoff_b40eccac:
 
     # bot "Well, I guess that settles that then! I'm the best!"
-    bot ""
+    bot "Bem, acho que isso resolve tudo então! Eu sou a melhor!"
 
 # game/script.rpy:26009
 translate pt_br cookoff_bce3ee8a:
 
     # l "Rrrgh..."
-    l ""
+    l "Rrrgh..."
 
 # game/script.rpy:26020
 translate pt_br kalifix1_ecd64e10:
