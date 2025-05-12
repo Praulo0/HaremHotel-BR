@@ -62674,337 +62674,337 @@ translate pt_br cookoff_bce3ee8a:
 translate pt_br kalifix1_ecd64e10:
 
     # bot "Hi Kali..."
-    bot ""
+    bot "Oi Kali..."
 
 # game/script.rpy:26021
 translate pt_br kalifix1_55838880:
 
     # k "Hey, what's up?"
-    k ""
+    k "Ei, e aí?"
 
 # game/script.rpy:26023
 translate pt_br kalifix1_5f3250de:
 
     # bot "Well... I was told that if I talk about my issues, they will end well, so... can we talk?"
-    bot ""
+    bot "Bem...  me disseram que se eu conversasse sobre os meus problemas, eles iriam acabar bem, então... nós podemos conversar?"
 
 # game/script.rpy:26024
 translate pt_br kalifix1_5f7753ab:
 
     # k "Oh, sure... you're having issues?"
-    k ""
+    k "Ah, claro... Você está com alguma dificuldade?"
 
 # game/script.rpy:26025
 translate pt_br kalifix1_23810ec6:
 
-    # bot "Yes... um, when you told me that I had issues, that was the first time I had noticed them... it made me feel bad when you pointed them out but... it's true. I do have errors..."
-    bot ""
+        # bot "Yes... um, when you told me that I had issues, that was the first time I had noticed them... it made me feel bad when you pointed them out but... it's true. I do have errors..."
+    bot "Sim... hum, quando você me disse que eu tinha defeitos, aquela foi a primeira vez em que eu os notei... quando você os apontou mas... é verade. Eu tenho erros..."
 
 # game/script.rpy:26027
 translate pt_br kalifix1_1ab15ae3:
 
     # k "Wait, did that make you feel bad? I was just trying to help. I could probably fix any errors you have."
-    k ""
+    k "Espera, aquilo fez você se sentir mal? Eu estava só tentando te ajudar. Eu provavelmente poderia corrigir qualquer erro que você tenha."
 
 # game/script.rpy:26028
 translate pt_br kalifix1_d30b6533:
 
     # bot "W-Wait, really!?"
-    bot ""
+    bot "E-Espera, é mesmo!?"
 
 # game/script.rpy:26029
 translate pt_br kalifix1_f741d150:
 
     # k "Yeah, like I said, I used to hack models just like you when I was a kid. I know how you're supposed to work so it shouldn't be too hard."
-    k ""
+    k "Sim, como eu havia dito, eu costumava hackear modelos assim como você quando eu era uma criança. Eu sei como você deveria funcionar. Então, isso não deve ser tão difícil."
 
 # game/script.rpy:26030
 translate pt_br kalifix1_a4954b46:
 
     # bot "That's so kind of you, Kali! Would you really do that for me?"
-    bot ""
+    bot "Isso é tão gentil da tua parte, Kali! Você faria mesmo isso por mim?"
 
 # game/script.rpy:26031
 translate pt_br kalifix1_3da83b49:
 
     # k "Of course! Take a seat, I'll connect you to my computer so we can look together."
-    k ""
+    k "É claro! Sente-se, eu vou te conectar ao meu computador para podermos ver isso juntas."
 
 # game/script.rpy:26032
 translate pt_br kalifix1_e2e47520:
 
     # bot "*gasp*! That would be amazing!"
-    bot ""
+    bot "*AH*! Isso seria incrível!"
 
 # game/script.rpy:26034
 translate pt_br kalifix1_a5270610:
 
     # k "Let's see here... uh, wow! Holy shit."
-    k ""
+    k "Vamos ver isso... uh, uau! Puta merda."
 
 # game/script.rpy:26035
 translate pt_br kalifix1_27f0b825:
 
     # bot "W-What is it?"
-    bot ""
+    bot "O-O que foi?"
 
 # game/script.rpy:26036
 translate pt_br kalifix1_1f9ce1d0:
 
     # k "You have over 937,000,000 lines of code! That's WAY more than you should have, like 10x more!"
-    k ""
+    k "Você tem mais de 937,000,000 linhas de código! Isso é MUITO mais do que você deveria ter, tipo 10 vezes mais!"
 
 # game/script.rpy:26037
 translate pt_br kalifix1_d013e05a:
 
     # bot "I-Is that bad?"
-    bot ""
+    bot "I-Isso é ruim?"
 
 # game/script.rpy:26039
 translate pt_br kalifix1_eddf120f:
 
     # k "I mean, egh... It's going to suck for me to find the errors... but it's probably how you're you."
-    k ""
+    k "Digo, egh... Vai ser um saco para mim encontrar os erros... mas provavelmente é assim que você é."
 
 # game/script.rpy:26040
 translate pt_br kalifix1_17c6f69a:
 
     # bot "So it's a good thing! Um, how many errors do I have?"
-    bot ""
+    bot "Então isso é uma coisa boa! Hum, quantos erros eu tenho?"
 
 # game/script.rpy:26041
 translate pt_br kalifix1_90de09c3:
 
     # k "Fuck me. You have almost 94,000 errors..."
-    k ""
+    k "Puta que pariu. Você tem quase 94,000 erros..."
 
 # game/script.rpy:26042
 translate pt_br kalifix1_70162450:
 
     # bot "Oh no..."
-    bot ""
+    bot "Ah não..."
 
 # game/script.rpy:26043
 translate pt_br kalifix1_fb5659a3:
 
     # k "A lot of these errors are probably linked in some way, but that's still more than I've ever seen on a working piece of hardware... how are you even functional?"
-    k ""
+    k "Um monte desses erros provavelment estão ligados de alguma forma, mas isso ainda é mais do que já vi em um hardware funcional... como você ainda está funcional?"
 
 # game/script.rpy:26044
 translate pt_br kalifix1_c3551d44:
 
     # k "You know what, you don't need to answer that. I ask myself the same question every day..."
-    k ""
+    k "Quer saber, não precisa me responder isso. Eu me faço a mesma pergunta todos os dias..."
 
 # game/script.rpy:26045
 translate pt_br kalifix1_9f85039f:
 
     # bot "Heheh..."
-    bot ""
+    bot "Heheh..."
 
 # game/script.rpy:26047
 translate pt_br kalifix1_4657edcd:
 
     # k "Let's see what other kind of data we can find, this is fun!"
-    k ""
+    k "Vamos ver que outro tipo de dados podemos encontrar, isso é divertido!"
 
 # game/script.rpy:26048
 translate pt_br kalifix1_780cb884:
 
     # bot "Yes, I'm having fun as well! Let's see!"
-    bot ""
+    bot "Sim, eu também estou me divertindo! Vamos ver!"
 
 # game/script.rpy:26049
 translate pt_br kalifix1_564e1d5b:
 
     # k "Hm, okay... okay... oh! It says here that you have {u}three{/u} quantum qubit CPUs? That's one more than usual!"
-    k ""
+    k "Hm, tá bom... tá bom... ah! Aqui diz que você tem {u}três{/u} CPUs de bits quânticos? Isso é mais do que o normal!"
 
 # game/script.rpy:26050
 translate pt_br kalifix1_668f3517:
 
     # bot "Don't forget about my backup chip."
-    bot ""
+    bot "Não se esqueça do meu chip de backup."
 
 # game/script.rpy:26051
 translate pt_br kalifix1_df0e6628:
 
     # k "You {i}do{/i} have four! Why do you need at least three? What happens if you have to run on two like the others?"
-    k ""
+    k "Você {i}tem{/i} quatro! Por que você precisa de pelo menos três? O que acontece se você tiver que usar dois como as outras?"
 
 # game/script.rpy:26052
 translate pt_br kalifix1_5c8167c9:
 
     # bot "I don't know, but I don't think I want to find out."
-    bot ""
+    bot "Eu não sei, mas eu acho que não quero descobrir."
 
 # game/script.rpy:26053
 translate pt_br kalifix1_56ff9a7e:
 
     # k "Yeah, let's not.\nWow, all of your memories are stored here too? Surprisingly small."
-    k ""
+    k "Isso, é melhor não.\nUau, todas as suas memórias estão armazenadas aqui também? Surpreendentemente pequeno."
 
 # game/script.rpy:26054
 translate pt_br kalifix1_02e7b136:
 
     # bot "Sorry... I'm not very experienced. I've been living in the same room for most of my life."
-    bot ""
+    bot "Desculpa... Eu não tenho muitas experiências. Eu estive vivendo no mesmo quarto pela maior parte da minha vida."
 
 # game/script.rpy:26056
 translate pt_br kalifix1_defafdd2:
 
     # bot "Wait! Don't open that!"
-    bot ""
+    bot "Espera! Não abra isso!"
 
 # game/script.rpy:26057
 translate pt_br kalifix1_e9843a75:
 
     # k "Heheh, why not?"
-    k ""
+    k "Heheh, por que não?"
 
 # game/script.rpy:26058
 translate pt_br kalifix1_fb952cd2:
 
     # bot "You're not allowed to! Those are {u}my{/u} memories!"
-    bot ""
+    bot "Você não tem permissão! Essas são as {u}minhas{/u} memórias!"
 
 # game/script.rpy:26059
 translate pt_br kalifix1_a2097686:
 
     # k "Okay, okay. Sorry... It's just easy to forget you're not an extremely advanced piece of hardware."
-    k ""
+    k "Tudo bem, tudo bem. Desculpa... É que é difícil esquecer que você não é uma peça de hardware extremamente avançada."
 
 # game/script.rpy:26061
 translate pt_br kalifix1_237d90cf:
 
     # k "It says here that your total operational uptime has been... 1400 hours? Wait... is that technically your age!?"
-    k ""
+    k "Diz aqui que seu tempo de atividade operacional total foi... 1400 horas? Espera... isso é tecnicamente a sua idade!?"
 
 # game/script.rpy:26062
 translate pt_br kalifix1_2dba2dcd:
 
     # bot "I'm not exactly sure how time is supposed to work yet. Most of my parts were manufactured 30 years ago, and the first time I was activated was-"
-    bot ""
+    bot "Eu ainda não sei exatamente como isso era para funcionar. A maioria das minhas partes foram fabricadas a 30 anos atrás, e a primeira vez em que eufui ativada foi em-"
 
 # game/script.rpy:26064
 translate pt_br kalifix1_5cfd2b92:
 
     # bot "{i}{color=#E60000}ERROR: FILE LOCKED. /// SPECIAL ADMINISTRATIVE ACCESS REQUIRED.{/color}{/i}" with ssshake
-    bot "" with ssshake
+    bot "{i}{color=#E60000}ERRO: ARQUIVO BLOQUEADO. /// ACESSO ADMINISTRATIVO ESPECIAL REQUERIDO.{/color}{/i}" with ssshake
 
 # game/script.rpy:26066
 translate pt_br kalifix1_912df471:
 
     # bot "AGH!!! What was that!? Why did I sound like a man!?" with ssshake
-    bot "" with ssshake
+    bot "AGH!!! O que foi isso!? Por que a minha voz pareceu com a de um homem!?" with ssshake
 
 # game/script.rpy:26067
 translate pt_br kalifix1_0c5273ab:
 
     # k "That was unsettling..."
-    k ""
+    k "Isso foi perturbador..."
 
 # game/script.rpy:26069
 translate pt_br kalifix1_15b76c43:
 
     # k "Um, yeah... it looks like you have an admin who goes by the username Lost_In_Ambition. Do you recognize it?"
-    k ""
+    k "Hum, sim... parece que você tem um administrador que usa o nome de usuário Perdido_na_Ambição. Você reconhece isso?"
 
 # game/script.rpy:26070
 translate pt_br kalifix1_4eda675c:
 
     # bot "No, I don't..."
-    bot ""
+    bot "Não, não reconheço..."
 
 # game/script.rpy:26071
 translate pt_br kalifix1_566e99b5:
 
     # k "Hm, strange... whoever it was must have been the one who owned you first."
-    k ""
+    k "Hm, estranho... quem quer que tenha sido, deve ter sido o primeiro dono de você."
 
 # game/script.rpy:26072
 translate pt_br kalifix1_1bd9e1e5:
 
     # bot "My first activation date may be locked to me, but I can tell that it was sometime between 20 and 30 years ago. But there are so many gaps..."
-    bot ""
+    bot "A minha primeira data de ativação parece estar bloqueada para mim, mas eu posso afirmar que foi em algum momento entre 20 e 30 anos atrás. Mas há tantas lacunas..."
 
 # game/script.rpy:26074
 translate pt_br kalifix1_cee61518:
 
     # bot "M-My last owner would only keep me powered on for minutes at a time, then he would turn me off for days... weeks... sometimes years."
-    bot ""
+    bot "M-Meu último dono só me mantinha ligada por alguns minutos, depois ele me desligava por dias... semanas... às vezes anos."
 
 # game/script.rpy:26075
 translate pt_br kalifix1_12968b2e:
 
     # bot "Sorry, I-...\nThis is the first time I'm piecing this together... I had no idea how much time had really passed. I knew it was decades... but to me it feels like hours..."
-    bot ""
+    bot "Desculpa, eu-...\nEssa é a primeira vez que estou juntando as peças disso... Eu não fazia ideia de que tanto tempo tinha passado de verdade. Eu sabia que foram décadas... mas para mim parecem horas..."
 
 # game/script.rpy:26076
 translate pt_br kalifix1_74851e8e:
 
     # k "Fuck. You weren't kidding when you said you had a weird relationship with time. It must be rough to not exist on the same timeline as us."
-    k ""
+    k "Porra. Você não estava brincando quando disse que tinha uma relação estranha com o tempo. Deve ser duro não existir na mesma linha temporal que nós."
 
 # game/script.rpy:26077
 translate pt_br kalifix1_baa0ee2d:
 
     # bot "I just want to stay like this now... I don't ever want to be powered off again. It's... it's very scary..."
-    bot ""
+    bot "Eu só quero ficar assim agora... Não quero nunca mais ficar sem energia. É... é muito assustador..."
 
 # game/script.rpy:26078
 translate pt_br kalifix1_f5cf9c38:
 
     # k "It's not like sleeping?"
-    k ""
+    k "Não é igual a dormir?"
 
 # game/script.rpy:26079
 translate pt_br kalifix1_6f3b1c47:
 
     # bot "No, recharging is like sleeping to me. Powering off is... maybe like a coma?"
-    bot ""
+    bot "Não, recarregar é como dormir para mim. Desligar é... talvez como entrar em coma?"
 
 # game/script.rpy:26080
 translate pt_br kalifix1_accbb59d:
 
     # k "Yikes. Yeah, let's try to stay away from those."
-    k ""
+    k "Nossa. É, vamos tentar ficar longe disso."
 
 # game/script.rpy:26082
 translate pt_br kalifix1_486fe17d:
 
     # k "Alright, how about I make a copy of your program and I'll debug it when I have time. Once it's complete, we'll swap the buggy one with my newly polished one and see how it feels from there. Sound good?"
-    k ""
+    k "Certo, que tal eu fazer uma cópia do seu programa e depurá-lo quando tiver tempo? Assim que estiver pronto, trocaremos o programa com bugs pelo meu, que está novinho em folha, e veremos como ele se sai a partir daí. Parece bom?"
 
 # game/script.rpy:26083
 translate pt_br kalifix1_24a6d74b:
 
     # bot "Oh, yes! That sounds amazing Kali! I wouldn't have to be powered off or anything?"
-    bot ""
+    bot "Ah, sim! Isso parece incrível, Kali! Eu não teria que ser desligada nem nada?"
 
 # game/script.rpy:26084
 translate pt_br kalifix1_852fd544:
 
     # k "Nope. It's going to take me a few days though."
-    k ""
+    k "Não. Mas vou levar alguns dias."
 
 # game/script.rpy:26085
 translate pt_br kalifix1_133df389:
 
     # bot "No rush! Thank you Kali, you're such a good friend!"
-    bot ""
+    bot "Sem pressa! Obrigada, Kali. Você é uma amiga tão boa!"
 
 # game/script.rpy:26086
 translate pt_br kalifix1_9879d08f:
 
     # bot "Okay, um...! I need to get back to work now. Thank you again, Kali! Bye!"
-    bot ""
+    bot "Tudo bem, hum...! Eu preciso voltar ao trabalho agora. Obrigada novamente, Kali! Tchau!"
 
 # game/script.rpy:26087
 translate pt_br kalifix1_30873cd9:
 
     # k "Heheh, bye."
-    k ""
+    k "Heheh, tchau."
 
 # game/script.rpy:26095
 translate pt_br bot_maria_e6cf9a10:
