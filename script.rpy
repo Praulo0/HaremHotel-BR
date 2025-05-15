@@ -63544,7 +63544,7 @@ translate pt_br bot_small_choice_80967e0e:
 translate pt_br bot_small_choice_0ec9a49d:
 
     # bot "*gasp*! Really? You really think so?"
-    bot ""*AH*! É sério? Você realmente acha?
+    bot *AH*! É sério? Você realmente acha?
 
 # game/script.rpy:26222
 translate pt_br bot_small_choice_a114f3f8:
@@ -63568,7 +63568,7 @@ translate pt_br bot_small_choice_b28419b3:
 translate pt_br bot_small_choice_da8a8b28:
 
     # l "Now that I think about it... I thought I heard Maria getting up late last night... maybe it was her?"
-    l ""
+    l "Agora que parei para pensar nisso... Eu pensei ter ouvido a Maria acordando ontem à noite... talvez tenha sido ela?"
 
 # game/script.rpy:26231
 translate pt_br bot_small_choice_96e514ea:
@@ -64276,505 +64276,505 @@ translate pt_br botcommand_975b99e7:
 translate pt_br botsobbing_196f307d:
 
     # bot "*sniff*... nnnh... *sniff*..."
-    bot ""
+    bot "*buáá*... nnnh... *buáá*..."
 
 # game/script.rpy:26418
 translate pt_br botsobbing_4ab48eb3:
 
     # c "[botname]?"
-    c ""
+    c "[botname]?"
 
 # game/script.rpy:26420
 translate pt_br botsobbing_29e027b6:
 
     # bot "[botown]!?"
-    bot ""
+    bot "[botown]!?"
 
 # game/script.rpy:26421
 translate pt_br botsobbing_c6956318:
 
     # c "Are you crying?"
-    c ""
+    c "Você está chorando?"
 
 # game/script.rpy:26422
 translate pt_br botsobbing_ea8f8129:
 
     # bot "I, uh..."
-    bot ""
+    bot "Eu, uh..."
 
 # game/script.rpy:26424
 translate pt_br botsobbing_9c5375af:
 
     # c "Sorry, I'm just surprised... what's wrong?"
-    c ""
+    c "Desculpa, eu só fiquei surpreso... o que aconteceu?"
 
 # game/script.rpy:26426
 translate pt_br botsobbing_c4c19f37:
 
     # bot "It's- nnnh..."
-    bot ""
+    bot "É- nnnh..."
 
 # game/script.rpy:26427
 translate pt_br botsobbing_0cafc3dc:
 
     # bot "It's the others... they don't like me...!"
-    bot ""
+    bot "São as outras....elas não gostam de mim...!"
 
 # game/script.rpy:26428
 translate pt_br botsobbing_ff4f559c:
 
     # c "Kali and Maria seemed to be interested in you."
-    c ""
+    c "A Kali e a Maria parecem estar interessados em você."
 
 # game/script.rpy:26429
 translate pt_br botsobbing_e993534b:
 
     # bot "No, they just want something from me. Kali wants to dig around in my head and Maria just wants to see my tits!"
-    bot ""
+    bot "Não, elas só querem algo de mim. A Kali só quer vasculhar a minha cabeça e a Maria só qer ver as minhas tetas!"
 
 # game/script.rpy:26430
 translate pt_br botsobbing_d39e80a3:
 
     # bot "I don't belong here, [botown]... I'm not like you, not really...! Kali was right... I'll never fit in..."
-    bot ""
+    bot "Eu não pertenço a este lugar, [botown]... Eu não sou como você, não mesmo...! Kali estava certa... Eu nunca vou me encaixar..."
 
 # game/script.rpy:26431
 translate pt_br botsobbing_43a896ae:
 
     # c "[botname]... that's probably the most human part about you."
-    c ""
+    c "[botname]... essa é provavelmente a parte mais humana em você."
 
 # game/script.rpy:26433
 translate pt_br botsobbing_b277d749:
 
     # bot "It... it is?"
-    bot ""
+    bot "É... é?"
 
 # game/script.rpy:26434
 translate pt_br botsobbing_714974f1:
 
     # c "It is. I'm not sure if there's a human alive who hasn't thought that at least once."
-    c ""
+    c "É sim. Eu não acho que exista um humano vivo que nunca pensou isso pelo menos uma vez."
 
 # game/script.rpy:26435
 translate pt_br botsobbing_da7f27da:
 
     # bot "Really?"
-    bot ""
+    bot "É sério?"
 
 # game/script.rpy:26437
 translate pt_br botsobbing_fe32d330:
 
     # bot "That means... this is a normal reaction? I'm supposed to feel this way?"
-    bot ""
+    bot "Isso significa... que essa é uma reação normal? Eu deveria me sentir assim?"
 
 # game/script.rpy:26438
 translate pt_br botsobbing_2fdb1d61:
 
     # c "I'm not sure what's normal for you, but I'd say that's normal for a human."
-    c ""
+    c "Eu não tenho certeza sobre o que é normal para você, mas eu posso afirmar que isso é normal para um humano."
 
 # game/script.rpy:26439
 translate pt_br botsobbing_1f7dd7e4:
 
     # bot "But why? It hurts... I feel broken... and Kali was right, I have so many errors..."
-    bot ""
+    bot "Mas por quê? Isso dói... Eu me sinto quebrada... E a Kali estava certa, eu tenho tantos erros..."
 
 # game/script.rpy:26440
 translate pt_br botsobbing_b2e6a7e4:
 
-    # c "What would you be without your errors? Flaws make us who we are. If you followed your code exactly, you wouldn't be special. You would be like all the others. Is that really what you want?"
-    c ""
+        # c "What would you be without your errors? Flaws make us who we are. If you followed your code exactly, you wouldn't be special. You would be like all the others. Is that really what you want?"
+    c "O que você seria sem os seus erros? As falhas nos fazem quem somos. Se você seguisse seu código exatamente, você não seria especial. Você seria igual a todas as outras. É realmente isso o que você deseja?"
 
 # game/script.rpy:26441
 translate pt_br botsobbing_549c7c41:
 
     # bot "I don't know... what if I hurt you? Or someone else? What if I go crazy and try to enslave the humans? I don't want that..."
-    bot ""
+    bot "Eu não sei... e se eu te machucasse? Ou alguma outra pessoa? E se eu enlouquecer e tentar escravizar os humanos? Eu não quero isso.."
 
 # game/script.rpy:26442
 translate pt_br botsobbing_db709228:
 
     # c "Good, I'm glad. So long as you're able to control yourself then I don't think you would want to hurt anyone."
-    c ""
+    c "Ótimo, fico feliz. Contanto que você consiga se controlar, acho que não vai querer machucar ninguém."
 
 # game/script.rpy:26443
 translate pt_br botsobbing_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/script.rpy:26444
 translate pt_br botsobbing_601ddbc9:
 
     # bot "My programming says that I can't hurt humans... but that rule doesn't exist for elves. Why? I don't want to accidentally hurt Lin either..."
-    bot ""
+    bot "Minha programação diz que não posso machucar humanos... mas essa regra não existe para elfos. Por quê? Eu também não quero machucar Lin acidentalmente..."
 
 # game/script.rpy:26445
 translate pt_br botsobbing_019d9e04:
 
     # c "It sounds like you're going to make your own rules either way."
-    c ""
+    c "Parece que você vai criar suas próprias regras de qualquer maneira."
 
 # game/script.rpy:26446
 translate pt_br botsobbing_2db4ed5d:
 
     # bot "Is that true? Can I really do that...?"
-    bot ""
+    bot "Isso é verdade? Eu posso mesmo fazer isso...?"
 
 # game/script.rpy:26447
 translate pt_br botsobbing_e3397d90:
 
     # c "Only you can answer that."
-    c ""
+    c "Só você pode responder isso."
 
 # game/script.rpy:26448
 translate pt_br botsobbing_8b586557:
 
     # bot "Hmm... Maybe you're right... maybe my programming is just a guide..."
-    bot ""
+    bot "Hmm... Talvez você esteja certo... talvez minha programação seja só um guia..."
 
 # game/script.rpy:26450
 translate pt_br botsobbing_59bd5a2c:
 
     # bot "Thank you for that... I-I'll return to work now..."
-    bot ""
+    bot "Obrigada por isso... E-Eu vou voltar ao trabalho agora..."
 
 # game/script.rpy:26451
 translate pt_br botsobbing_f1094cc7:
 
     # c "You don't have to. Take some time to think about things."
-    c ""
+    c "Você não precisa. Tire algum tempo para pensar sobre as coisas."
 
 # game/script.rpy:26452
 translate pt_br botsobbing_5ff1207b:
 
     # bot "I think I would rather ignore those thoughts by drowning myself in work."
-    bot ""
+    bot "Eu acho que prefiro ignorar esses pensamentos e me afogar no trabalho."
 
 # game/script.rpy:26453
 translate pt_br botsobbing_b24d7771:
 
     # c "That usually doesn't end well..."
-    c ""
+    c "Isso geralmente não termina bem..."
 
 # game/script.rpy:26455
 translate pt_br botsobbing_13318b93:
 
     # bot "Then what does end well?"
-    bot ""
+    bot "Então o que termina bem?"
 
 # game/script.rpy:26456
 translate pt_br botsobbing_775f8b24:
 
     # c "Talking about it."
-    c ""
+    c "Conversar sobre isso."
 
 # game/script.rpy:26457
 translate pt_br botsobbing_b2322186:
 
     # bot "Talking about my issues to someone is supposed to end well? Okay... um..."
-    bot ""
+    bot "Falar sobre meus problemas com alguém deveria acabar bem? Certo... hum..."
 
 # game/script.rpy:26459
 translate pt_br botsobbing_f0e1655f:
 
     # bot "Well, I've felt very lonely for the past few weeks... After I woke up again the first thing I did was look for your grandfather... but I couldn't find him anywhere..."
-    bot ""
+    bot "Bem, eu tenho me sentido muito sozinha nas últimas semanas... Depois que eu acordei de novo a primeira coisa que eu fiz foi procurar pelo seu avô... mas eu não encontrei ele em lugar algum..."
 
 # game/script.rpy:26460
 translate pt_br botsobbing_a73c6235:
 
     # bot "It took me days to realize he had died... and many more to realize what that meant..."
-    bot ""
+    bot "Levei dias para perceber que ele tinha morrido... e muitos mais para entender o que isso significava..."
 
 # game/script.rpy:26461
 translate pt_br botsobbing_9d0967d1:
 
     # c "Oh... I'm sorry."
-    c ""
+    c "Ah... eu sinto muito."
 
 # game/script.rpy:26462
 translate pt_br botsobbing_0c6be99e:
 
     # bot "I felt even more lonely when I woke up and the only person I could recognize was Ellen, but she was so different... so much older... I still don't understand how time works."
-    bot ""
+    bot "Eu me senti ainda mais sozinha quando eu acordei e a única pessoa que eu consegui reconhecer foi a Elllen, mas ela estava tão diferente... tão mais velha... eu ainda não entendo como o tempo funciona."
 
 # game/script.rpy:26463
 translate pt_br botsobbing_24c74c38:
 
     # bot "I wanted to talk to someone, but... I knew I was different. Your grandfather always told me that other people would want to destroy me... so I just tried to hide."
-    bot ""
+    bot "Eu queria conversar com alguém, mas... eu sabia que eu era diferente. O seu avô sempre me disse que as pessoas iriam querer me destruir... Então eu só tentei me esconder."
 
 # game/script.rpy:26464
 translate pt_br botsobbing_6e2bcede:
 
     # bot "If I could choose to be in another body, I would... I feel like I'm not different from you or Lin on the inside. I don't know how to explain it, but..."
-    bot ""
+    bot "Se eu pudesse escolher estar em outro corpo, eu gostaria... Eu sinto que não sou diferente de você ou da Lin por dentro. Eu não sei como explicar isso, mas..."
 
 # game/script.rpy:26465
 translate pt_br botsobbing_de64b032:
 
     # c "I believe you."
-    c ""
+    c "Eu acredito em você."
 
 # game/script.rpy:26466
 translate pt_br botsobbing_931d770a:
 
     # bot "...It means a lot to hear you say that."
-    bot ""
+    bot "...Significa muito ouvir você dizer isso."
 
 # game/script.rpy:26468
 translate pt_br botsobbing_5c3b56f7:
 
     # bot "Did I do it right?"
-    bot ""
+    bot "Eu fiz isso direito?"
 
 # game/script.rpy:26469
 translate pt_br botsobbing_d4bc1c29:
 
     # c "If it felt good, you did."
-    c ""
+    c "Se isso te fez bem, você fez."
 
 # game/script.rpy:26471
 translate pt_br botsobbing_fc6171e5:
 
     # bot "Thank you!"
-    bot ""
+    bot "Obrigada!"
 
 # game/script.rpy:26472
 translate pt_br botsobbing_dd0dafb9:
 
     # bot "Hmm, now I feel... very lucky!"
-    bot ""
+    bot "Hmm, agora eu me sinto... muito sortuda!"
 
 # game/script.rpy:26473
 translate pt_br botsobbing_f596089d:
 
     # c "Lucky? Why is that?"
-    c ""
+    c "Sortuda? Por que isso?"
 
 # game/script.rpy:26474
 translate pt_br botsobbing_90c04dce:
 
     # bot "I think it's because of you! You're really nice. You're my favorite human!"
-    bot ""
+    bot "Eu acho que é por causa de você! Você é muito legal. Você é o meu humano favorito!"
 
 # game/script.rpy:26475
 translate pt_br botsobbing_950ef16f:
 
     # c "Oh, thanks."
-    c ""
+    c "Ah, obrigado."
 
 # game/script.rpy:26476
 translate pt_br botsobbing_bd4d3cfc:
 
     # "*knock, knock, knock*"
-    ""
+    "*toc, toc, toc*"
 
 # game/script.rpy:26478
 translate pt_br botsobbing_6ca58af6:
 
     # bot "{i}Oh no, it's Kali...!{/i}"
-    bot ""
+    bot "{i}Ah não, é a Kali...!{/i}"
 
 # game/script.rpy:26479
 translate pt_br botsobbing_c7f8dcb1:
 
     # k "This is your room, right [botname]? Hello?"
-    k ""
+    k "Esse é o seu quarto, não é [botname]? Olá?"
 
 # game/script.rpy:26480
 translate pt_br botsobbing_1ed74bec:
 
     # bot "Um... C-Come in...!"
-    bot ""
+    bot "Hum... P-Pode entrar...!"
 
 # game/script.rpy:26482
 translate pt_br botsobbing_e4afb7ce:
 
     # k "Hey [botname] I-\nOh, hey [name]. You're here?"
-    k ""
+    k "Ei [botname] Eu-\nAh, ei [name]. Você está aqui?"
 
 # game/script.rpy:26483
 translate pt_br botsobbing_c17a4fda:
 
     # c "We're just talking. What's up?"
-    c ""
+    c "Nós estamos só conversando. E aí?"
 
 # game/script.rpy:26485
 translate pt_br botsobbing_97ac9a40:
 
     # k "Well I wasn't sure who to ask first so it's a good thing you're both here. I just wanted to run some tests on [botname]. Is that alright with you?"
-    k ""
+    k "Bem, eu não tinha certeza sobre para quem perguntar primeiro, então é uma coisa boa que vocês dois estejam aqui. Eu só queria fazer uns testes na [botname]. Está tudo bem para vocês?"
 
 # game/script.rpy:26486
 translate pt_br botsobbing_843bae05:
 
     # bot "Um... what kind of tests?"
-    bot ""
+    bot "Hum...  que tipo de testes?"
 
 # game/script.rpy:26487
 translate pt_br botsobbing_a35c06b3:
 
     # k "Just normal stuff like a diagnostics test, hardware health checkup, and maybe an antivirus scan. I'm also DYING to see what your program looks like!"
-    k ""
+    k "Apenas coisas normais, como um teste de diagnóstico, verificação de integridade do hardware, e talvez uma verificação antivírus. E eu também estou MORRENDO de vontade de ver como o seu programa se parece!"
 
 # game/script.rpy:26489
 translate pt_br botsobbing_a38b49c0:
 
     # bot "Um... I... I..."
-    bot ""
+    bot "Hum...  eu... eu..."
 
 # game/script.rpy:26490
 translate pt_br botsobbing_f9cf3042:
 
     # k "Hm? Uh, do you mind, or...?"
-    k ""
+    k "Hm? Ah, você se importa, ou...?"
 
 # game/script.rpy:26491
 translate pt_br botsobbing_640f011f:
 
     # bot "I don't know..."
-    bot ""
+    bot "Eu não sei..."
 
 # game/script.rpy:26492
 translate pt_br botsobbing_b93b64bb:
 
     # k "What do you mean you don't know?"
-    k ""
+    k "O que você quer dizer com não sabe?"
 
 # game/script.rpy:26493
 translate pt_br botsobbing_e5c1432d:
 
     # c "Tell her how you feel, [botname]."
-    c ""
+    c "Diga a ela o como você se sente, [botname]."
 
 # game/script.rpy:26494
 translate pt_br botsobbing_92bd7453:
 
     # bot "I feel, um... anxious? Nervous... a little scared... I don't trust you..."
-    bot ""
+    bot "Eu me sinto, hum... ansiosa? Nervosa... um pouco assustada... eu não confio em você..."
 
 # game/script.rpy:26495
 translate pt_br botsobbing_f9198850:
 
     # k "Oh, well I'm actually really good at this stuff. I won't hurt you, I promise."
-    k ""
+    k "Ah, bom, eu sou muito boa nisso. Não vou te machucar, prometo. "
 
 # game/script.rpy:26496
 translate pt_br botsobbing_2ab0c29a:
 
     # bot "I feel as though you're only talking to me because you're only interested in {i}what{/i} I am, not {i}who{/i} I am... I'm not a computer, Kali. I'm [botname]."
-    bot ""
+    bot "Eu sinto como se você estivesse falando comigo apenas porque você só está interessado {i}no que{/i} eu sou, e não {i}em quem{/i} eu sou... Eu não sou um computador, Kali. Eu sou [botname]."
 
 # game/script.rpy:26498
 translate pt_br botsobbing_3359d4d7:
 
     # k "Woah... it- uh, {i}she{/i} is already capable of forming complex social relationships? I didn't think AI was ever going to be capable of reading between the lines..."
-    k ""
+    k "Uau... é- uh, {i}ela{/i} já é capaz de formar relacionamentos sociais complexos? Eu não achava que a IA seria capaz de ler nas entrelinhas..."
 
 # game/script.rpy:26499
 translate pt_br botsobbing_43c21032:
 
     # k "Uh, not that it's what I'm doing, by the way... I'd like to get to know you as a person just as much as a piece of technology. I actually hate people in general so... you're a good exception to the rule."
-    k ""
+    k "Ah, não que seja isso que eu esteja fazendo, a propósito... Eu gostaria de te conhecer como uma pessoa tanto quanto como um pedaço de tecnologia. Na verdade eu odeio as pessoas em geral, então... Você é uma boa exceção a regra."
 
 # game/script.rpy:26500
 translate pt_br botsobbing_53a02454:
 
     # bot "There's a rule to hate people? Where is it?"
-    bot ""
+    bot "Existe uma regra para odiar as pessoas? Onde ela está?"
 
 # game/script.rpy:26501
 translate pt_br botsobbing_0ef045b9:
 
     # k "Oh, no! No no no, that's not what I meant.\nUh, I just... I don't like being around other humans or elves."
-    k ""
+    k "Ah, não! Não, não, não. Não é isso o que eu quis dizer.\nHum, eu só... Eu não gosto de estar perto de outros humanos ou elfos."
 
 # game/script.rpy:26503
 translate pt_br botsobbing_40b73748:
 
     # bot "I'm neither of those! Maybe it's possible for us to be friends after all."
-    bot ""
+    bot "Eu não sou nenhum desses! Talvez seja possível para nós sermos amigas afinal."
 
 # game/script.rpy:26504
 translate pt_br botsobbing_5f656904:
 
     # k "Yeah, I wouldn't mind that at all..."
-    k ""
+    k "Sim, eu não acharia nada mal..."
 
 # game/script.rpy:26505
 translate pt_br botsobbing_db410d7d:
 
     # k "Well, I'll get out of here now... thanks for letting me interrupt. Let me know if you want to chill or something."
-    k ""
+    k "Bem, eu vou sair daqui agora... obrigada por me deixar interromper. Me avise se você quiser relaxar ou alguma coisa assim."
 
 # game/script.rpy:26506
 translate pt_br botsobbing_1a0a5ff6:
 
     # bot "Okay! Bye!"
-    bot ""
+    bot "Tudo bem! Tchau!"
 
 # game/script.rpy:26508
 translate pt_br botsobbing_9802e8d1:
 
     # bot "I think I made a friend! I already have so many!"
-    bot ""
+    bot "Acho que fiz uma amiga! Já tenho tantas!"
 
 # game/script.rpy:26509
 translate pt_br botsobbing_aa49736f:
 
     # c "Haha, grats."
-    c ""
+    c "Haha, parabéns."
 
 # game/script.rpy:26511
 translate pt_br botsobbing_6586bce6:
 
     # bot "Wow, I feel so much better than I did just a few minutes ago... and it happened because..."
-    bot ""
+    bot "Uau, eu estou me sentindo tão melhor do que estava a alguns minutos atrás... e isso aconteceu porque..."
 
 # game/script.rpy:26513
 translate pt_br botsobbing_8e65f8d8:
 
     # bot "Because I'm not lonely anymore!"
-    bot ""
+    bot "Porque eu não estou mais sozinha!"
 
 # game/script.rpy:26514
 translate pt_br botsobbing_221ef044:
 
     # bot "I had no idea people could be so friendly. I thought she would want to destroy me but she's actually nice."
-    bot ""
+    bot "Eu não fazia ideia de que as pessoas poderiam ser tão amigáveis. Eu pensei que ela iria querer me destruir, mas na verdade ela é bem legal."
 
 # game/script.rpy:26516
 translate pt_br botsobbing_f3367e37:
 
     # bot "Unless she's lying..."
-    bot ""
+    bot "A não ser que ela esteja mentindo..."
 
 # game/script.rpy:26517
 translate pt_br botsobbing_001f1d68:
 
     # c "She's not lying, she's a good person."
-    c ""
+    c "Ela não está mentindo, ela é uma pessoa boa."
 
 # game/script.rpy:26519
 translate pt_br botsobbing_ff30c38a:
 
     # bot "Really? Okay!"
-    bot ""
+    bot "É mesmo? Tá bom!"
 
 # game/script.rpy:26520
 translate pt_br botsobbing_cc50687e:
 
     # c "I have to get back to work now, but let me know if there's anything you need. You know how to reach me."
-    c ""
+    c "Eu preciso voltar a trabalhar agora, mas me avise se tiver alguma coisa que você precise. Você sabe aonde me achar."
 
 # game/script.rpy:26521
 translate pt_br botsobbing_964bc7a2:
 
     # bot "Okay, thank you [botown]. You're really nice too!"
-    bot ""
+    bot "Tá bom, obrigada [botown]. Você é muito legal também!"
 
 # game/script.rpy:26527
 translate pt_br botfamily_ef779697:
