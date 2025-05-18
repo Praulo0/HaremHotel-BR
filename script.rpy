@@ -68656,529 +68656,529 @@ translate pt_br elpin_6418d5c4:
 translate pt_br elpin_6bb0c2cd:
 
     # e "Ehem..."
-    e ""
+    e "Ehem..."
 
 # game/script.rpy:28317
 translate pt_br elpin_dabb1afe:
 
     # c "Ellen?" with ssshake
-    c "" with ssshake
+    c "Ellen?" with ssshake
 
 # game/script.rpy:28318
 translate pt_br elpin_896dfa9a:
 
     # e "I see you've found my, um... Pinups..."
-    e ""
+    e "Vejo que você encontrou os meus, hum... Pin-ups..."
 
 # game/script.rpy:28320
 translate pt_br elpin_6b3d9a63:
 
     # e "Those were taken by your grandfather a while ago..."
-    e ""
+    e "Elas foram tiradas pelo seu avô há algum tempo..."
 
 # game/script.rpy:28321
 translate pt_br elpin_c50678c4:
 
     # c "How long ago?"
-    c ""
+    c "Há quanto tempo?"
 
 # game/script.rpy:28322
 translate pt_br elpin_72a33094:
 
     # e "..."
-    e ""
+    e "..."
 
 # game/script.rpy:28325
 translate pt_br elpin_c36d17b9:
 
     # e "About... A month ago..."
-    e ""
+    e "Cerca de... Um mês atrás..."
 
 # game/script.rpy:28327
 translate pt_br elpin_b8f8cec2:
 
     # e "A couple months ago... Soon before your Grandfather died..."
-    e ""
+    e "Alguns mesess atrás... Pouco antes de seu avô morrer..."
 
 # game/script.rpy:28329
 translate pt_br elpin_083b2078:
 
     # e "I guess he didn't delete them... But, I guess how could he have...?"
-    e ""
+    e "Acho que ele não os apagou... Mas, acho que como ele pôde...?"
 
 # game/script.rpy:28330
 translate pt_br elpin_abd1eb95:
 
     # e "You should probably delete those... Right...?"
-    e ""
+    e "Você provavelmente deveria excluí-las... Certo...?"
 
 # game/script.rpy:28334
 translate pt_br elpin_447c88d0:
 
     # e "What? Why would you want to keep them?"
-    e ""
+    e "O quê? Por que você iria querer ficar com elas?"
 
 # game/script.rpy:28335
 translate pt_br elpin_58dc6414:
 
     # c "I thought they were sexy."
-    c ""
+    c "Eu achei elas sexy."
 
 # game/script.rpy:28337
 translate pt_br elpin_dbd5cebc:
 
     # e "Well... Well, that's very nice of you, [name]..."
-    e ""
+    e "Bem... Bem, isso é muito gentil da sua parte, [name]..."
 
 # game/script.rpy:28341
 translate pt_br elpin_7e5be565:
 
     # e "What?"
-    e ""
+    e "O quê?"
 
 # game/script.rpy:28342
 translate pt_br elpin_ac0fb92c:
 
     # c "Your breasts."
-    c ""
+    c "Os seus seios."
 
 # game/script.rpy:28344
 translate pt_br elpin_18448fbc:
 
     # e "[name]... That's..."
-    e ""
+    e "[name]... Isso é..."
 
 # game/script.rpy:28345
 translate pt_br elpin_99d20825:
 
     # c "Not any different from the pictures."
-    c ""
+    c "Não é nada diferente das fotos."
 
 # game/script.rpy:28347
 translate pt_br elpin_6a3ac93b:
 
     # e "Well, it's different to me..."
-    e ""
+    e "Bem, é diferente para mim..."
 
 # game/script.rpy:28348
 translate pt_br elpin_3e9ce63b:
 
     # e "I'm sorry, [name]. I can't... It's just been too soon..."
-    e ""
+    e "Sinto muito, [name]. Eu não consigo... É que ainda é muito cedo..."
 
 # game/script.rpy:28349
 translate pt_br elpin_46ba7633:
 
     # c "That's alright, I shouldn't have asked."
-    c ""
+    c "Tudo bem, eu não devia ter pedido."
 
 # game/script.rpy:28351
 translate pt_br elpin_e045ad13:
 
     # e "No, it's fine... I guess it's only natural."
-    e ""
+    e "Não, está tudo bem... Acho que isso é natural."
 
 # game/script.rpy:28352
 translate pt_br elpin_d2435693:
 
     # e "Well, I just came in to see how you were doing, I'll get back to working the front desk. Have a nice day [name]."
-    e ""
+    e "Bem, eu apenas vim ver como você estava, eu voltarei a trabalhar na recepção. Tenha um bom dia, [name]."
 
 # game/script.rpy:28355
 translate pt_br elpin_de1dd97a:
 
     # e "Of me? Well, I don't think there are any left... But there might be some pinups of the other girls. I don't know if he kept them."
-    e ""
+    e "De mim? Bem, eu não acho que tenha mais nenhuma sobrando... Mas ainda pode ter algumas pin-ups de outras garotas. Eu não sei se ele as guardou."
 
 # game/script.rpy:28356
 translate pt_br elpin_d2435693_1:
 
     # e "Well, I just came in to see how you were doing, I'll get back to working the front desk. Have a nice day [name]."
-    e ""
+    e "Bem, eu apenas vim ver como você estava, eu voltarei a trabalhar na recepção. Tenha um bom dia, [name]."
 
 # game/script.rpy:28361
 translate pt_br elpin_dc439cca:
 
     # e "Right... I thought so..."
-    e ""
+    e "Certo... Eu imaginei..."
 
 # game/script.rpy:28362
 translate pt_br elpin_d2435693_2:
 
     # e "Well, I just came in to see how you were doing, I'll get back to working the front desk. Have a nice day [name]."
-    e ""
+    e "Bem, eu apenas vim ver como você estava, eu voltarei a trabalhar na recepção. Tenha um bom dia, [name]."
 
 # game/script.rpy:28369
 translate pt_br ellen1_fbdc5fea:
 
     # e "Good morning, [name]!"
-    e ""
+    e "Bom dia, [name]!"
 
 # game/script.rpy:28370
 translate pt_br ellen1_8e115758:
 
     # c "Good morning."
-    c ""
+    c "Bom dia."
 
 # game/script.rpy:28371
 translate pt_br ellen1_2c87f674:
 
     # e "So how is life as a business man? Everything you hoped for?"
-    e ""
+    e "Então, como tem sido a vida de um empresário? Tudo o que você esperava?"
 
 # game/script.rpy:28372
 translate pt_br ellen1_ca23ed8c:
 
     # c "It's more than I imagined it would be."
-    c ""
+    c "É mais do que eu imaginei que seria."
 
 # game/script.rpy:28373
 translate pt_br ellen1_cbc2b239:
 
     # e "I'm glad to hear it! Don't forget, you can always come by my desk if you need some help."
-    e ""
+    e "Fico feliz em ouvir isso! Não se esqueça, você sempre pode vir à minha mesa se pecisar de ajuda."
 
 # game/script.rpy:28374
 translate pt_br ellen1_2a47547a:
 
     # e "Oh, while I'm here... Do you have any questions?"
-    e ""
+    e "Ah, enquanto eu ainda estou aqui... Você tem alguma pergunta?"
 
 # game/script.rpy:28378
 translate pt_br elq_33731d97:
 
     # e "What do you... Oh, That's right... you're not from around here, are you?"
-    e ""
+    e "O que você... Ah, é mesmo... você não é daqui, é??"
 
 # game/script.rpy:28379
 translate pt_br elq_24cc710b:
 
     # e "So people on the other side of the world really don't have Elves?"
-    e ""
+    e "Então as pessoas do outro lado do mundo realmente não têm Elfos?"
 
 # game/script.rpy:28380
 translate pt_br elq_388fecb5:
 
     # c "We don't."
-    c ""
+    c "Não temos."
 
 # game/script.rpy:28382
 translate pt_br elq_3f00c5aa:
 
     # e "Well, I'm conflicted personally..."
-    e ""
+    e "Bem, eu, pessoalmente, estou em conflito..."
 
 # game/script.rpy:28383
 translate pt_br elq_db292931:
 
     # e "Most people here believe Elves to be nothing more than 'smart animals'... To me, that's insane. The scientific evidence clearly shows us we all had a common ancestor long ago."
-    e ""
+    e "A maiorian das pessoas aqui acreditam que Elfos não são nada além de 'animais inteligentes'... Para mim, isso é loucura. As evidências científicas mostram claramente que todos nós tivemos um ancestral comum há muito tempo."
 
 # game/script.rpy:28384
 translate pt_br elq_3b10bea3:
 
     # e "But, I guess we share a common ancestor with apes, too..."
-    e ""
+    e "Mas acho que também compartilhamos um ancestral comum com os macacos..."
 
 # game/script.rpy:28385
 translate pt_br elq_389e10ea:
 
     # e "A weak argument, if you ask me. They're just as intelligent as we are after all. Although they're not used to our technology so it doesn't really show..."
-    e ""
+    e "Um argumento fraco, se quer saber. Afinal, eles são tão inteligentes quanto nós. Embora não estejam acostumados com a nossa tecnologia, isso não fica evidente..."
 
 # game/script.rpy:28386
 translate pt_br elq_9cb98910:
 
     # c "Are all Elves slaves?"
-    c ""
+    c "Todos os elfos são escravos?"
 
 # game/script.rpy:28388
 translate pt_br elq_c8da56b6:
 
     # e "Oh yes, they are."
-    e ""
+    e "Ah, sim, são."
 
 # game/script.rpy:28389
 translate pt_br elq_25523983:
 
     # c "So there are no free Elves?"
-    c ""
+    c "Então não existe nenhum Elfo livre?"
 
 # game/script.rpy:28391
 translate pt_br elq_7efc0d74:
 
     # e "Well... It's more complicated than just freeing an Elf... Like I said, a lot of people see them as smart animals..."
-    e ""
+    e "Bem... É mais complicado do que simplesmente libertar um Elfo... Como eu disse, muitas pessoas os veem como animais inteligentes..."
 
 # game/script.rpy:28392
 translate pt_br elq_9aba24b4:
 
     # e "How could I explain this..."
-    e ""
+    e "Como eu posso te explicar isso?"
 
 # game/script.rpy:28394
 translate pt_br elq_e3234322:
 
     # e "Oh! Okay, imagine you want a cat. You would go to the pet store and buy one, right?"
-    e ""
+    e "Ah! Ok, imagine que você queira um gato. Você iria a um pet shop e compraria um, certo?"
 
 # game/script.rpy:28395
 translate pt_br elq_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/script.rpy:28396
 translate pt_br elq_87b75a5e:
 
     # e "That's how it works with Elves as well, more or less..."
-    e ""
+    e "É mais ou menos assim que funciona com os Elfos também..."
 
 # game/script.rpy:28398
 translate pt_br elq_5e99d118:
 
     # e "Now of course you would get some sort of tag as well. Elves, when bought, are scanned and registered in some database. A tag of sorts."
-    e ""
+    e "Agora, é claro, você também receberia algum tipo de etiqueta. Os Elfos, quando comprados, são escaneados e registrados em algum banco de dados. Uma espécie de etiqueta."
 
 # game/script.rpy:28399
 translate pt_br elq_482da53c:
 
     # e "So, imagine you were to take off that tag, or free an Elf... Do you know what can happen when a cat runs away?"
-    e ""
+    e "Então, imagine que você tirasse essa etiqueta, ou libertasse um Elfo... Você sabe o que acontece quando um gato foge?"
 
 # game/script.rpy:28400
 translate pt_br elq_e6b53cd6:
 
     # c "Without some proof of me owning it..."
-    c ""
+    c "Sem alguma prova de que eu o possua..."
 
 # game/script.rpy:28402
 translate pt_br elq_d6f48b14:
 
     # e "Exactly, it would be picked up and claimed. Nothing you could do about that."
-    e ""
+    e "Exatamente, ele seria recolhido e reivindicado. Não havia nada que você pudesse fazer a respeito."
 
 # game/script.rpy:28404
 translate pt_br elq_6aa81358:
 
     # e "Whether or not you agree with it, that's how the world works. This part of it anyway..."
-    e ""
+    e "Independentemente de você concordar ou não com isso, é assim que o mundo funciona. Pelo menos essa parte dele..."
 
 # game/script.rpy:28405
 translate pt_br elq_bbbb5cb3:
 
     # c "I don't think I've seen many male Elves since I got here."
-    c ""
+    c "Eu acho que não vi muitos Elfos homens desde que cheguei aqui."
 
 # game/script.rpy:28407
 translate pt_br elq_9b7bb0f1:
 
     # e "Ah, yes. Male Elves are typically best used for farming, repairs, production, basically anything labor intensive. They are still men, after all."
-    e ""
+    e "Ah, sim. Elfos Machos costumam ser mais bem utilizados para agricultura, reparos, produção, basicamente qualquer coisa que exija muita mão de obra. Eles ainda são homens, afinal."
 
 # game/script.rpy:28408
 translate pt_br elq_ae651308:
 
     # c "And the females?"
-    c ""
+    c "E as fêmeas?"
 
 # game/script.rpy:28409
 translate pt_br elq_d3f1992a:
 
     # e "Typically they're all maids of some sort. Waitresses, gardeners, cooks, and so on. Just like Lin!"
-    e ""
+    e "Normalmente, todas elas são algum tipo de empregadas domésticas. Garçonetes, jardineiras, cozinheiras e assim por diante. Assim como a Lin!"
 
 # game/script.rpy:28413
 translate pt_br elq_14971a50:
 
     # e "Oh, him..."
-    e ""
+    e "Ah, ele..."
 
 # game/script.rpy:28414
 translate pt_br elq_371bfcd2:
 
     # c "Should I not have mentioned him?"
-    c ""
+    c "Eu não deveria ter mencionado ele?"
 
 # game/script.rpy:28416
 translate pt_br elq_5599021a:
 
     # e "Oh, it's fine... He was a good hearted man. I believe he said he worked as a car salesman. Could you believe that? Hahah..."
-    e ""
+    e "Ah, está tudo bem... Ele era um homem de bom coração. Eu acredito que ele disse que trabalhava como vendedor de carros. Consegue acreditar nisso? Hahah..."
 
 # game/script.rpy:28417
 translate pt_br elq_36e41e90:
 
     # e "I never knew their children, or his wife. He never spoke of them, always talking about a dream he wanted to live."
-    e ""
+    e "Nunca conheci os filhos deles, nem a esposa dele. Ele nunca falava deles, sempre falava de um sonho que queria viver."
 
 # game/script.rpy:28418
 translate pt_br elq_0df8c344:
 
     # c "The hotel?"
-    c ""
+    c "O hotel?"
 
 # game/script.rpy:28419
 translate pt_br elq_f87b2ed2:
 
     # e "Exactly!"
-    e ""
+    e "Exatamente!"
 
 # game/script.rpy:28420
 translate pt_br elq_7c28c3aa:
 
     # c "Seems like a pretty dull dream..."
-    c ""
+    c "Parece ser um sonho bem sem graça.."
 
 # game/script.rpy:28421
 translate pt_br elq_bd38a5ee:
 
     # e "You'd be surprised by the ideas he came up with."
-    e ""
+    e "Você ficaria surpreso com as ideias que ele teve."
 
 # game/script.rpy:28422
 translate pt_br elq_d54703a8:
 
     # e "In any case, after saving up for over a decade to build this hotel the market crashed soon after he quit his job... He could only afford to build the Lobby and First Floor."
-    e ""
+    e "Parece um sonho bem sem graça... De qualquer forma, depois de economizar por mais de uma década para construir esse hotel, o mercado despencou logo depois que ele deixou o emprego... Ele só teve condições de construir o Saguão e o Primeiro Andar."
 
 # game/script.rpy:28423
 translate pt_br elq_845052f1:
 
     # e "And that was after months of bargaining... But he managed to flip some Elves to make a bit of money."
-    e ""
+    e "E isso foi depois de meses de barganha... Mas ele conseguiu virar alguns Elfos para ganhar um pouco de dinheiro."
 
 # game/script.rpy:28424
 translate pt_br elq_787930a3:
 
     # c "Sorry... What?"
-    c ""
+    c "Desculpe... O quê?"
 
 # game/script.rpy:28425
 translate pt_br elq_8717c68a:
 
     # e "Hm? Oh, flipping Elves? He bought the cheapest, weakest, male Elves he could find. He made them build the Hotel, which made them gain muscle."
-    e ""
+    e "Hm? Ah, virar Elfos? Ele comprou os Elfos machos mais fracos e baratos que ele pôde encontrar. Ele fez com que construíssem o Hotel, o que os fez ganhar músculos."
 
 # game/script.rpy:28426
 translate pt_br elq_7786f7df:
 
     # e "And since male Elves are primarily labor workers, the strong ones sell for a lot. That's Elf flipping."
-    e ""
+    e "E uma vez que Elfos machos são principalmente trabalhadores braçais, os mais fortes são vendidos por muito dinheiro. Isso é Virar Elfos."
 
 # game/script.rpy:28428
 translate pt_br elq_f87b3624:
 
     # e "He couldn't afford land in the city either, so he had to buy this plot. At the time, there was barely a gas station."
-    e ""
+    e "Ele também não tinha condições de comprar um terreno na cidade, então ele teve que comprar esse lote. Na época, mal havia um posto de gasolina por aqui."
 
 # game/script.rpy:28430
 translate pt_br elq_e2bfc010:
 
     # e "It's no city, but nobody would question you if you called it a town now. The worth of this plot has at least quadrupled since he bought it."
-    e ""
+    e "Não é uma cidade, mas ninguém questionaria se você a chamasse de cidade agora. O valor deste lote pelo menos quadruplicou desde que ele o comprou."
 
 # game/script.rpy:28432
 translate pt_br elq_584fb192:
 
     # e "But that took so much work and effort on his part... He was already an old man..."
-    e ""
+    e "Mas isso exigia muito esforço da parte dele... Ele já era um homem velho..."
 
 # game/script.rpy:28433
 translate pt_br elq_0b702117:
 
     # e "By the time he finished everything, he could only hire a couple people, including me. Nobody really wanted to drive all the way over here. Nobody even wanted to live here..."
-    e ""
+    e "Quando ele terminou tudo, ele só pode contratar algumas pessoas, inclusive eu. Ninguém queria realmente dirigir até aqui. Ninguém queria nem mesmo viver aqui..."
 
 # game/script.rpy:28434
 translate pt_br elq_f381f78c:
 
     # e "Business was terrible until the last few years of his life. All that stress must have taken a big toll on him..."
-    e ""
+    e "Os negócios foram terríveis até os últimos anos de sua vida. Todo aquele estresse deve ter cobrado um alto preço dele..."
 
 # game/script.rpy:28438
 translate pt_br elq_004c95fe:
 
     # e "Oh, me? Thanks [name]..."
-    e ""
+    e "Ah, eu? Obrigada, [name]..."
 
 # game/script.rpy:28440
 translate pt_br elq_b955f575:
 
     # e "Well, I used to be the maid here, believe it or not! Although I absolutely hated working here at the time..."
-    e ""
+    e "Bem, eu costumava ser a empregada doméstica aqui, acredite ou não! Embora eu odiasse trabalhar aqui na época..."
 
 # game/script.rpy:28442
 translate pt_br elq_1e1ca4d0:
 
     # e "My parents forced me to. But who knew I would meet the love of my life here..."
-    e ""
+    e "Os meus pais que me obrigaram. Mas quem diria que eu conheceria o amor da minha vida aqui..."
 
 # game/script.rpy:28443
 translate pt_br elq_c761d8e3:
 
     # c "My grandfather?"
-    c ""
+    c "O meu avê?"
 
 # game/script.rpy:28444
 translate pt_br elq_4a4e2d74:
 
     # e "Oh... I probably shouldn't have said that..."
-    e ""
+    e "Ah... Eu provavelmente não deveria ter dito isso..."
 
 # game/script.rpy:28446
 translate pt_br elq_297948f8:
 
     # e "But, yes... Although he was over twice my age, I fell in love with his determination to get things done..."
-    e ""
+    e "Mas, sim... Mesmo ele tendo mais do dobro da minha idade, eu me apaixonei pela sua determinação em fazer as coisas..."
 
 # game/script.rpy:28448
 translate pt_br elq_2b752a6b:
 
     # e "I don't know what you would call our relationship... It started pretty rough... I definitely didn't like him in the beginning, but... I warmed up to him later on."
-    e ""
+    e "Eu não sei como você chamaria o nosso relacionamento... O começo foi bem difícil... Eu definitivamente não gostava dele no começo, mas... eu me apeguei a ele com o tempo."
 
 # game/script.rpy:28449
 translate pt_br elq_823896d9:
 
     # e "We never got married or anything like that, but... I think he loved me just as much as I loved him..."
-    e ""
+    e "Nós nunca nos casamos nem nada assim, mas... eu acredito que ele me amava tanto quanto eu o amava..."
 
 # game/script.rpy:28450
 translate pt_br elq_f9e578fd:
 
     # c "It must have been very hard on you to see him pass so early."
-    c ""
+    c "Deve ter sido muito difícil para você ter visto ele partir tão cedo."
 
 # game/script.rpy:28451
 translate pt_br elq_e2e4b7aa:
 
     # e "Yes, it was..."
-    e ""
+    e "É, foi sim..."
 
 # game/script.rpy:28453
 translate pt_br elq_c84bf55e:
 
     # e "But, well, now you're here to hold the torch. Make sure you do your Grandfather proud and turn this place into something great, okay?"
-    e ""
+    e "Mas, bem, agora você está aqui para segurar a tocha. Certifique-se de deixar seu avô orgulhoso e transforme este lugar em algo grandioso, certo?"
 
 # game/script.rpy:28454
 translate pt_br elq_255ecca1:
 
     # c "I will."
-    c ""
+    c "Eu vou."
 
 # game/script.rpy:28458
 translate pt_br elq_aeaea88b:
 
     # e "Okay, well, it was nice talking to you [name]. Make sure to stop by my desk from time to time."
-    e ""
+    e "Certo, bem, foi bom conversar com você, [name]. Não deixe de passar pela minha mesa de vez em quando."
 
 # game/script.rpy:28459
 translate pt_br elq_f88a0333:
 
     # c "I will, thank you."
-    c ""
+    c "Eu vou, obrigado."
 
 # game/script.rpy:28482
 translate pt_br bdsmroom_3bd818ce:
