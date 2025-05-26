@@ -540,7 +540,7 @@ translate pt_br start2_e7211d5b:
 translate pt_br start2_a6ff1fe6:
 
     # l "By your name...? Um... Okay [linoname]."
-    l "Mas seu nome...? Um... Tudo bem [linoname]"
+    l "Mas o seu nome...? Hum... Tudo bem, [linoname]"
 
 # game/script.rpy:602
 translate pt_br start2_35f49707:
@@ -810,7 +810,7 @@ translate pt_br advancedaymenu_5d400270:
 translate pt_br advancedaymenu_e12b3157:
 
     # l "Yes [linoname]."
-    l "Sim [linoname]."
+    l "Sim, [linoname]."
 
 # game/script.rpy:777
 translate pt_br advancedaymenu_32ffad71_1:
@@ -1290,7 +1290,7 @@ translate pt_br lobby2_20868fff_1:
 translate pt_br lobby2_66d4d084:
 
     # bot "Oh... Okay [linoname]."
-    bot "Ah... Tudo bem [linoname]."
+    bot "Ah... Tudo bem, [linoname]."
 
 # game/script.rpy:1782
 translate pt_br lobby2_6c197210_1:
@@ -1680,7 +1680,7 @@ translate pt_br lobby2_394060cd_1:
 translate pt_br lobby2_900d740c:
 
     # l "Oh... Okay [linoname]."
-    l "Ah... Tudo bem [linoname]."
+    l "Ah... Tudo bem, [linoname]."
 
 # game/script.rpy:1974
 translate pt_br lobby2_274d85a0:
@@ -5772,7 +5772,7 @@ translate pt_br floor2menu_1e429923:
 translate pt_br floor2menu_5415e8f2:
 
     # "[botname]'s sluttiness is too low..."
-    "A safadeza de [botname] é muito baixa..."
+    "A safadeza de [botname] está muito baixa..."
 
 # game/script.rpy:4968
 translate pt_br floor2menu_1e429923_1:
@@ -6552,7 +6552,7 @@ translate pt_br floor2menu_1b1f8c76:
 translate pt_br floor2menu_12b598f6:
 
     # "Emma's sluttiness is too low..."
-    "A safadeza da Emma está muito baixa..."
+    "A safadeza de Emma está muito baixa..."
 
 # game/script.rpy:5339
 translate pt_br floor2menu_518f39d6:
@@ -6738,7 +6738,7 @@ translate pt_br floor2menu_5c592b11:
 translate pt_br floor2menu_f72c35f4:
 
     # "Felicity's sluttiness is too low..."
-    "A safadeza da Felicity está muito baixa..."
+    "A safadeza de Felicity está muito baixa..."
 
 # game/script.rpy:5442
 translate pt_br floor2menu_0b468f11:
@@ -8882,7 +8882,7 @@ translate pt_br lobby_96242f38:
 translate pt_br lobby_e13abc04:
 
     # "Maria's sluttiness is too low..."
-    "A safadeza de Maria é muito baixa..."
+    "A safadeza de Maria está muito baixa..."
 
 # game/script.rpy:6552
 translate pt_br lobby_35886396:
@@ -9603,7 +9603,7 @@ translate pt_br floor1menu_1b7074a1:
 translate pt_br floor1menu_1f684cc8:
 
     # "Lin's sluttiness is too low..."
-    "A safadeza da Lin é muito baixa..."
+    "A safadeza de Lin está muito baixa..."
 
 # game/script.rpy:7014
 translate pt_br floor1menu_1b7074a1_1:
@@ -9615,7 +9615,7 @@ translate pt_br floor1menu_1b7074a1_1:
 translate pt_br floor1menu_1f684cc8_1:
 
     # "Lin's sluttiness is too low..."
-    "A safadeza da Lin é muito baixa..."
+    "A safadeza de Lin está muito baixa..."
 
 # game/script.rpy:7021
 translate pt_br floor1menu_2f320a32:
@@ -9681,7 +9681,7 @@ translate pt_br floor1menu_1e881d77:
 translate pt_br floor1menu_cf7b1c62:
 
     # l "Oh... okay [linoname]. Maybe next time?"
-    l "Ah... tudo bem [linoname]. Talvez na próxima?"
+    l "Ah... tudo bem, [linoname]. Talvez na próxima?"
 
 # game/script.rpy:7061
 translate pt_br floor1menu_335c3c89:
@@ -10749,7 +10749,7 @@ translate pt_br kcreep_7f9645c7:
 translate pt_br kcreep_99b307da:
 
     # "Kali's sluttiness is too low..."
-    "A safadeza da Kali é muito baixa..."
+    "A safadeza de Kali está muito baixa..."
 
 # game/script.rpy:7670
 translate pt_br kcreep_55905291:
@@ -11835,7 +11835,7 @@ translate pt_br kcreep_43ee5f12:
 translate pt_br kcreep_e78abf03:
 
     # "Ashley's sluttiness is too low..."
-    "A safadeza da Ashley é muito baixa..."
+    "A safadeza de Ashley está muito baixa..."
 
 # game/script.rpy:8294
 translate pt_br kcreep_36a094eb:
@@ -11901,7 +11901,7 @@ translate pt_br kcreep_43ee5f12_1:
 translate pt_br kcreep_e78abf03_1:
 
     # "Ashley's sluttiness is too low..."
-    "A safadeza da Ashley é muito baixa..."
+    "A safadeza de Ashley está muito baixa..."
 
 # game/script.rpy:8332
 translate pt_br kcreep_3bbd173d:
@@ -12183,7 +12183,7 @@ translate pt_br explore_bernie2_670c3c35:
 translate pt_br explore_bernie2_eb919560:
 
     # c "That's rough..."
-    c "Sinto muito..."
+    c "Complicado..."
 
 # game/script.rpy:8440
 translate pt_br explore_bernie2_0e509484:
@@ -14757,7 +14757,7 @@ translate pt_br explore_brothel1_f089999c:
 translate pt_br explore_brothel1_c637b366:
 
     # ray "Okay, so first thing's first; you need to know that this is a human only brothel. That means luxury here. We're not just any elvish whorehouse, this pussy is premium. So no slapping, biting, or anything rough. If the mark lasts longer than it takes for her to get dressed then you're in trouble."
-    ray "Certo, então vamos começar do início; você precisa saber que esse é um bordel só de humanos. Isso significa luxo aqui. Nós não somos só um puteiro élfico qualquer, essa boceta é premium. Portanto, nada de tapas, mordidas nem nada bruto. Se ficar alguma marca durar por mais tempo do que ela leva para se vestir, você está em apuros."
+    ray "Certo, então vamos começar do início; você precisa saber que esse é um bordel só de humanos. Isso significa luxo aqui. Nós não somos só um puteiro élfico qualquer, essa boceta é premium. Portanto, nada de tapas, mordidas ou qualquer outra coisa violenta. Se ficar alguma marca durar por mais tempo do que ela leva para se vestir, você está em apuros."
 
 # game/script.rpy:9162
 translate pt_br explore_brothel1_26f2a77d:
@@ -23902,7 +23902,7 @@ translate pt_br shower_6180a1c7:
 translate pt_br shower_a1625018:
 
     # l "Oh... okay [linoname]..."
-    l "Ah... tudo bem [linoname]..."
+    l "Ah... tudo bem, [linoname]..."
 
 # game/script.rpy:12682
 translate pt_br shower_6d686373:
@@ -24376,7 +24376,7 @@ translate pt_br kitchenvibe_ec91435a:
 translate pt_br kitchenvibe_6c9e0178:
 
     # l "Y-yes [linoname]..."
-    l "S-sim [linoname]..."
+    l "S-sim, [linoname]..."
 
 # game/script.rpy:13012
 translate pt_br kitchenvibe2_0388dbb6:
@@ -24400,7 +24400,7 @@ translate pt_br kitchenvibe2_1461cc87:
 translate pt_br kitchenvibe2_6c9e0178:
 
     # l "Y-yes [linoname]..."
-    l "S-sim [linoname]..."
+    l "S-sim, [linoname]..."
 
 # game/script.rpy:13056
 translate pt_br kitchenbot_9387aadd:
@@ -26512,7 +26512,7 @@ translate pt_br kitchen_a89a0d91:
 translate pt_br kitchen_029ff7e8:
 
     # l "Yes [linoname]... I'd be happy to relieve you of any stresses you have."
-    l "Sim [linoname]... Eu adoraria te aliviar de qualquer estresse que você tiver."
+    l "Sim, [linoname]... Eu adoraria te aliviar de qualquer estresse que você tiver."
 
 # game/script.rpy:13964
 translate pt_br kitchen_827516d7:
@@ -27310,7 +27310,7 @@ translate pt_br linkchoice_26d8846b:
 translate pt_br linkchoice_13e3b893:
 
     # l "Okay [linoname]."
-    l "Tudo bem [linoname]."
+    l "Tudo bem, [linoname]."
 
 # game/script.rpy:14330
 translate pt_br linkchoice_ab968025:
@@ -27322,7 +27322,7 @@ translate pt_br linkchoice_ab968025:
 translate pt_br linkchoice_154c6dc5:
 
     # l "Okay [linoname]..."
-    l "Tudo bem [linoname]..."
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:14338
 translate pt_br linkchoice_55748e05:
@@ -27586,7 +27586,7 @@ translate pt_br linkchoice_3e0996fe:
 translate pt_br linkchoice_30620b7e:
 
     # l "...Okay [linoname]."
-    l "...Tudo bem [linoname]."
+    l "...Tudo bem, [linoname]."
 
 # game/script.rpy:14604
 translate pt_br linkchoice_5c6a312e:
@@ -27700,7 +27700,7 @@ translate pt_br linkchoice_e21876f5:
 translate pt_br linkchoice_30620b7e_1:
 
     # l "...Okay [linoname]."
-    l "...Tudo bem [linoname]."
+    l "...Tudo bem, [linoname]."
 
 # game/script.rpy:14713
 translate pt_br linkchoice_23f41c77:
@@ -27736,7 +27736,7 @@ translate pt_br linkchoice_ee09959a:
 translate pt_br linkchoice_adc01e7d:
 
     # l "Ahh! Y-yes [linoname]."
-    l "Ahh! S-sim [linoname]."
+    l "Ahh! S-sim, [linoname]."
 
 # game/script.rpy:14735
 translate pt_br linkchoice_0953525d_2:
@@ -27772,7 +27772,7 @@ translate pt_br linkchoice_56d0beb3:
 translate pt_br linkchoice_30620b7e_2:
 
     # l "...Okay [linoname]."
-    l "...Tudo bem [linoname]."
+    l "...Tudo bem, [linoname]."
 
 # game/script.rpy:14756
 translate pt_br linkchoice_23f41c77_1:
@@ -27808,7 +27808,7 @@ translate pt_br linkchoice_ee09959a_1:
 translate pt_br linkchoice_adc01e7d_1:
 
     # l "Ahh! Y-yes [linoname]."
-    l "Ahh! S-sim [linoname]."
+    l "Ahh! S-sim, [linoname]."
 
 # game/script.rpy:14777
 translate pt_br linkchoice_0953525d_3:
@@ -27862,7 +27862,7 @@ translate pt_br linkchoice_ea475467:
 translate pt_br linkchoice_30620b7e_3:
 
     # l "...Okay [linoname]."
-    l "...Tudo bem [linoname]."
+    l "...Tudo bem, [linoname]."
 
 # game/script.rpy:14807
 translate pt_br linkchoice_599b0cc8:
@@ -27880,7 +27880,7 @@ translate pt_br linkchoice_71134945:
 translate pt_br linkchoice_608b648a:
 
     # l "Yes [linoname]..."
-    l "Sim [linoname]..."
+    l "Sim, [linoname]..."
 
 # game/script.rpy:14812
 translate pt_br linkchoice_14653ce9:
@@ -28024,7 +28024,7 @@ translate pt_br linkchoice_8b43071b_5:
 translate pt_br linkchoice_608b648a_1:
 
     # l "Yes [linoname]..."
-    l "Sim [linoname]..."
+    l "Sim, [linoname]..."
 
 # game/script.rpy:14915
 translate pt_br linkchoice_c422bc50:
@@ -51526,7 +51526,7 @@ translate pt_br botintro_f410c29d:
 translate pt_br botintro_c698e53e:
 
     # l "Okay [linoname]. I'll see what I can do. Come on '[botname]'."
-    l "Tudo bem [linoname]. Eu vou ver o que consigo fazer. Venha '[botname]'."
+    l "Tudo bem, [linoname]. Eu vou ver o que consigo fazer. Venha '[botname]'."
 
 # game/script.rpy:22512
 translate pt_br botintro_010165a9:
@@ -73691,19 +73691,19 @@ translate pt_br marbgspot_70b52f4e:
 translate pt_br linbdsm_0c151347:
 
     # c "I'm going to tie you up and we're going to find out how many times you can cum."
-    c ""
+    c "Eu vou te amarrar e nós vamos ver quantas vezes você consegue gozar."
 
 # game/script.rpy:30468
 translate pt_br linbdsm_13e3b893:
 
     # l "Okay [linoname]."
-    l ""
+    l "Tudo bem, [linoname]."
 
 # game/script.rpy:30470
 translate pt_br linbdsm_ebab84a8:
 
     # l "Mmmph!"
-    l ""
+    l "Mmmph!"
 
 # game/script.rpy:30472
 translate pt_br linbdsm_cba94fa4:
@@ -73727,175 +73727,175 @@ translate pt_br linbdsm_756d881d:
 translate pt_br linbdsm_e8b5ed27:
 
     # l "NNNGGG!!!" with sshake
-    l "" with sshake
+    l "NNNGGG!!!" with sshake
 
 # game/script.rpy:30477
 translate pt_br linbdsm_c74b0ad5:
 
     # l "Ghhhk!!!" with ssshake
-    l "" with ssshake
+    l "Ghhhk!!!" with ssshake
 
 # game/script.rpy:30478
 translate pt_br linbdsm_c15e3020:
 
     # l "Ahhhh!!!" with ssshake
-    l "" with ssshake
+    l "Ahhhh!!!" with ssshake
 
 # game/script.rpy:30479
 translate pt_br linbdsm_b33383ff:
 
     # l "Ahh! Nnnph! Ahhhh!!!" with ssshake
-    l "" with ssshake
+    l "Ahh! Nnnph! Ahhhh!!!" with ssshake
 
 # game/script.rpy:30480
 translate pt_br linbdsm_8f68182b:
 
     # l "[linoname]! I'm going to cuuuummm!!!"
-    l ""
+    l "[linoname]! Eu vou gozaaaar!!!"
 
 # game/script.rpy:30484
 translate pt_br linbdsm_c74b0ad5_1:
 
     # l "Ghhhk!!!" with ssshake
-    l "" with ssshake
+    l "Ghhhk!!!" with ssshake
 
 # game/script.rpy:30485
 translate pt_br linbdsm_c15e3020_1:
 
     # l "Ahhhh!!!" with ssshake
-    l "" with ssshake
+    l "Ahhhh!!!" with ssshake
 
 # game/script.rpy:30486
 translate pt_br linbdsm_b33383ff_1:
 
     # l "Ahh! Nnnph! Ahhhh!!!" with ssshake
-    l "" with ssshake
+    l "Ahh! Nnnph! Ahhhh!!!" with ssshake
 
 # game/script.rpy:30488
 translate pt_br linbdsm_3d608686:
 
     # l "MMMMMMM!!!" with sshake
-    l "" with sshake
+    l "MMMMMMM!!!" with sshake
 
 # game/script.rpy:30492
 translate pt_br linbdsm_f99c64c3:
 
     # l "Ahh! [linoname] turn it off! The vibrating hurts now!" with ssshake
-    l "" with ssshake
+    l "Ahh! [linoname] desliga isso! A vibração está doendo agora!" with ssshake
 
 # game/script.rpy:30495
 translate pt_br linbdsm_5507cee8:
 
     # l "Ahhh!!! [linoname]! Are you still there!?" with ssshake
-    l "" with ssshake
+    l "Ahhh!!! [linoname]! Você ainda está aí!?" with ssshake
 
 # game/script.rpy:30496
 translate pt_br linbdsm_8087d77e:
 
     # l "Nnngggg!!! Ahhh!!!!" with ssshake
-    l "" with ssshake
+    l "Nnngggg!!! Ahhh!!!!" with ssshake
 
 # game/script.rpy:30497
 translate pt_br linbdsm_c5bdff84:
 
     # l "I can't! I can't keep it on! I'm going to..." with ssshake
-    l "" with ssshake
+    l "Eu não consigo! Eu não consigo continuar! Eu vou..." with ssshake
 
 # game/script.rpy:30499
 translate pt_br linbdsm_661ba27e:
 
     # l "CUMMMMMMMMMM!!!!!!" with sshake
-    l "" with sshake
+    l "GOZAAAAAAAAAAR!!!!!!" with sshake
 
 # game/script.rpy:30501
 translate pt_br linbdsm_456555a4:
 
     # l "Aghh!!" with ssshake
-    l "" with ssshake
+    l "Aghh!!" with ssshake
 
 # game/script.rpy:30502
 translate pt_br linbdsm_8fdffa8a:
 
     # l "[linoname]! [linoname]! Take it off! Ahh!!! Ahhhhhh!!!!!!" with ssshake
-    l "" with ssshake
+    l "[linoname]! [linoname]! Desliga isso! Ahh!!! Ahhhhhh!!!!!!" with ssshake
 
 # game/script.rpy:30504
 translate pt_br linbdsm_dd6561f5:
 
     # l "Ahhh... [linoname]... I came so much..."
-    l ""
+    l "Ahhh... [linoname]... Eu gozei tanto..."
 
 # game/script.rpy:30512
 translate pt_br linbdsm_354b3a1d:
 
     # l "Ahhhh... Hahhhh.... [linoname]...?"
-    l ""
+    l "Ahhhh... Hahhhh.... [linoname]...?"
 
 # game/script.rpy:30519
 translate pt_br linbdsm_04dd8b22:
 
     # l "Ahhh... [linoname]... that felt so good... so..."
-    l ""
+    l "Ahhh... [linoname]... aquilo foi tão bom... tão..."
 
 # game/script.rpy:30521
 translate pt_br linbdsm_2cf6abf9:
 
     # l "Nnnng..."
-    l ""
+    l "Nnnng..."
 
 # game/script.rpy:30522
 translate pt_br linbdsm_5c10700d:
 
     # c "She passed out..."
-    c ""
+    c "Ela desmaiou..."
 
 # game/script.rpy:30528
 translate pt_br linbdsm_18d39620:
 
     # l "But... [linoname]! It felt so good!!!"
-    l ""
+    l "Mas... [linoname]! Aquilo foi tão gostoso!!!"
 
 # game/script.rpy:30537
 translate pt_br linbdsm_1d05beb7:
 
     # c "Come with me."
-    c ""
+    c "Venha comigo."
 
 # game/script.rpy:30538
 translate pt_br linbdsm_0c61dda8:
 
     # l "What are we going to do [linoname]?"
-    l ""
+    l "o que nós vamos fazer, [linoname]?"
 
 # game/script.rpy:30539
 translate pt_br linbdsm_b668c086:
 
     # c "You'll see."
-    c ""
+    c "Você vai ver."
 
 # game/script.rpy:30540
 translate pt_br linbdsm_13e3b893_1:
 
     # l "Okay [linoname]."
-    l ""
+    l "Tudo bem, [linoname]."
 
 # game/script.rpy:30543
 translate pt_br linbdsm_1d05beb7_1:
 
     # c "Come with me."
-    c ""
+    c "Venha comigo."
 
 # game/script.rpy:30546
 translate pt_br linbdsm_f15a455d:
 
     # l "Don't you think that's a bit fast...?"
-    l ""
+    l "Você não acha que isso é um pouco rápido...?"
 
 # game/script.rpy:30547
 translate pt_br linbdsm_d3f98490:
 
     # "Lin's obedience is too low..."
-    ""
+    "A obediência de Lin está muito baixa..."
 
 # game/script.rpy:30550
 translate pt_br linbdsm_836e3302:
@@ -73907,31 +73907,31 @@ translate pt_br linbdsm_836e3302:
 translate pt_br linbdsm_3e7e693e:
 
     # c "I'm going to lock you up and fuck you from behind."
-    c ""
+    c "Eu vou te prender e te foder por trás."
 
 # game/script.rpy:30558
 translate pt_br linbdsm_13e3b893_2:
 
     # l "Okay [linoname]."
-    l ""
+    l "Tudo bem, [linoname]."
 
 # game/script.rpy:30561
 translate pt_br linbdsm_3e7e693e_1:
 
     # c "I'm going to lock you up and fuck you from behind."
-    c ""
+    c "Eu vou te prender e te foder por trás."
 
 # game/script.rpy:30564
 translate pt_br linbdsm_f15a455d_1:
 
     # l "Don't you think that's a bit fast...?"
-    l ""
+    l "Você não acha que isso é um pouco rápido...?"
 
 # game/script.rpy:30565
 translate pt_br linbdsm_d3f98490_1:
 
     # "Lin's obedience is too low..."
-    ""
+    "A obediência de Lin está muito baixa..."
 
 # game/script.rpy:30568
 translate pt_br linbdsm_836e3302_1:
@@ -73949,31 +73949,31 @@ translate pt_br linbdsm_d724424a:
 translate pt_br linbdsm_e9a25d68:
 
     # c "Come with me, I'm going to fuck you from behind."
-    c ""
+    c "Venha comigo, eu vou te foder por trás."
 
 # game/script.rpy:30579
 translate pt_br linbdsm_13e3b893_3:
 
     # l "Okay [linoname]."
-    l ""
+    l "Tudo bem, [linoname]."
 
 # game/script.rpy:30582
 translate pt_br linbdsm_1d05beb7_2:
 
     # c "Come with me."
-    c ""
+    c "Venha comigo."
 
 # game/script.rpy:30585
 translate pt_br linbdsm_f15a455d_2:
 
     # l "Don't you think that's a bit fast...?"
-    l ""
+    l "Você não acha que isso é um pouco rápido...?"
 
 # game/script.rpy:30586
 translate pt_br linbdsm_d3f98490_2:
 
     # "Lin's obedience is too low..."
-    ""
+    "A obediência de Lin está muito baixa..."
 
 # game/script.rpy:30589
 translate pt_br linbdsm_836e3302_2:
@@ -73985,85 +73985,85 @@ translate pt_br linbdsm_836e3302_2:
 translate pt_br linsidefuck_f76f8e7a:
 
     # c "You're only allowed to cum if I say so, got it?"
-    c ""
+    c "Você só pode gozar se eu disser, entendeu?"
 
 # game/script.rpy:30599
 translate pt_br linsidefuck_5dc9e7c2:
 
     # l "Yes [linoname]. I understand."
-    l ""
+    l "Sim, [linoname]. Eu entendi."
 
 # game/script.rpy:30601
 translate pt_br linsidefuck_ffb9c4eb:
 
     # l "Ah!"
-    l ""
+    l "Ah!"
 
 # game/script.rpy:30603
 translate pt_br linsidefuck_602a555f:
 
     # l "Ahhh... so deep..."
-    l ""
+    l "Ahhh... tão fundo..."
 
 # game/script.rpy:30605
 translate pt_br linsidefuck_9dfb3692:
 
     # l "Nnn! Nnn! Ahh!"
-    l ""
+    l "Nnn! Nnn! Ahh!"
 
 # game/script.rpy:30606
 translate pt_br linsidefuck_51629906:
 
     # l "It feels, Ah! Bigger than usual... Nn!"
-    l ""
+    l "Até parece, Ah! Maior do que o normal... Nn!"
 
 # game/script.rpy:30607
 translate pt_br linsidefuck_dbc40027:
 
     # l "Ahhh... Mmmm... [linoname] you're always so rough with me..."
-    l "Mmmm..."
+    l "Mmmm... Mmmm... [linoname], você é sempre tão bruto comigo..."
 
 # game/script.rpy:30608
 translate pt_br linsidefuck_db930832:
 
     # l "Do you like being, Ah! Rough with me...? Nnn..."
-    l ""
+    l "Você gosta de ser, Ah! Bruto comigo...? Nnn..."
 
 # game/script.rpy:30609
 translate pt_br linsidefuck_5d2b8110:
 
     # l "It's okay... I like it too. Ahh!"
-    l ""
+    l "Está tudo bem... Eu também gosto. Ahh!"
 
 # game/script.rpy:30612
 translate pt_br linsidefuck_aa125b9d:
 
     # l "Ahh! Ahh! You're pounding my pussy so hard! AH!"
-    l ""
+    l "Ahh! Ahh! Você está batendo na minha boceta com tanta força! AH!"
 
 # game/script.rpy:30613
 translate pt_br linsidefuck_036d8e90:
 
     # l "You're going to make me cum! I can't help it! Ahh! Ahhhhh!"
-    l ""
+    l "Você vai me fazer gozar! Eu não consigo evitar! Ahh! Ahhhhh!"
 
 # game/script.rpy:30617
 translate pt_br linsidefuck_eadee198:
 
     # l "Nnnnnn!" with ssshake
-    l "" with ssshake
+    l "Nnnnnn!" with ssshake
 
 # game/script.rpy:30619
 translate pt_br linsidefuck_6fb358f7:
 
     # l "Ahh... Hahhh... Thank you [linoname]..."
-    l ""
+    l "Ahh... Hahhh... Thank you [linoname]..."
 
 # game/script.rpy:30626
 translate pt_br linsidefuck_e14189ec:
 
     # l "Ah! Ah! I can't hold it!!!"
-    l ""
+    l "Ah! Ah! Eu não consigo aguentar!!!"
 
 # game/script.rpy:30628
 translate pt_br linsidefuck_d33913a6:
@@ -74093,7 +74093,7 @@ translate pt_br linsidefuck_f4f287d0:
 translate pt_br linsidefuck_154c6dc5:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:30638
 translate pt_br linsidefuck_b389d295:
@@ -74141,7 +74141,7 @@ translate pt_br linsidefuck_6fb358f7_1:
 translate pt_br linsidefuck_e14189ec_1:
 
     # l "Ah! Ah! I can't hold it!!!"
-    l ""
+    l "Ah! Ah! I can't hold it!!!"
 
 # game/script.rpy:30658
 translate pt_br linsidefuck_d33913a6_1:
@@ -74171,7 +74171,7 @@ translate pt_br linsidefuck_f4f287d0_1:
 translate pt_br linsidefuck_154c6dc5_1:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:30668
 translate pt_br linsidefuck_7a0f03c2:
@@ -74237,7 +74237,7 @@ translate pt_br linsidefuck_6fb358f7_2:
 translate pt_br linsidefuck_e14189ec_2:
 
     # l "Ah! Ah! I can't hold it!!!"
-    l ""
+    l "Ah! Ah! Eu não consigo aguentar!!!"
 
 # game/script.rpy:30699
 translate pt_br linsidefuck_d33913a6_2:
@@ -74267,7 +74267,7 @@ translate pt_br linsidefuck_f4f287d0_2:
 translate pt_br linsidefuck_154c6dc5_2:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:30709
 translate pt_br linsidefuck_afc15b9d:
@@ -74399,7 +74399,7 @@ translate pt_br lincaptive_e95b37ec:
 translate pt_br lincaptive_2d67819c:
 
     # l "Ah... Okay [linoname]..."
-    l ""
+    l "Ah... Tudo bem, [linoname]..."
 
 # game/script.rpy:30770
 translate pt_br lincaptive_6f2c6f29:
@@ -74465,7 +74465,7 @@ translate pt_br lincaptive_6fb358f7:
 translate pt_br lincaptive_e14189ec:
 
     # l "Ah! Ah! I can't hold it!!!"
-    l ""
+    l "Ah! Ah! Eu não consigo aguentar!!!"
 
 # game/script.rpy:30793
 translate pt_br lincaptive_d33913a6:
@@ -74495,7 +74495,7 @@ translate pt_br lincaptive_f4f287d0:
 translate pt_br lincaptive_154c6dc5:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:30801
 translate pt_br lincaptive_7fb8f05e:
@@ -74543,7 +74543,7 @@ translate pt_br lincaptive_6fb358f7_1:
 translate pt_br lincaptive_e14189ec_1:
 
     # l "Ah! Ah! I can't hold it!!!"
-    l ""
+    l "Ah! Ah! Eu não consigo aguentar!!!"
 
 # game/script.rpy:30819
 translate pt_br lincaptive_d33913a6_1:
@@ -74573,7 +74573,7 @@ translate pt_br lincaptive_f4f287d0_1:
 translate pt_br lincaptive_154c6dc5_1:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:30827
 translate pt_br lincaptive_61b30a7a:
@@ -74615,7 +74615,7 @@ translate pt_br lincaptive_6fb358f7_2:
 translate pt_br lincaptive_e14189ec_2:
 
     # l "Ah! Ah! I can't hold it!!!"
-    l ""
+    l "Ah! Ah! Eu não consigo aguentar!!!"
 
 # game/script.rpy:30844
 translate pt_br lincaptive_d33913a6_2:
@@ -74645,7 +74645,7 @@ translate pt_br lincaptive_f4f287d0_2:
 translate pt_br lincaptive_154c6dc5_2:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:30852
 translate pt_br lincaptive_afc15b9d:
@@ -74999,7 +74999,7 @@ translate pt_br linbpunish_1ffeadfb:
 translate pt_br linbpunish_154c6dc5:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:31007
 translate pt_br linbpunish_858fe24e:
@@ -75077,7 +75077,7 @@ translate pt_br linbpunish_d7d1ced2:
 translate pt_br linbpunish_ce85718d:
 
     # l "Okay [linoname]... I guess I'll start... cleaning... now..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:31044
 translate pt_br linbpunish_3eedf7ba:
@@ -75137,13 +75137,13 @@ translate pt_br linbpunish_ff3e040e:
 translate pt_br linbpunish_1d05beb7:
 
     # c "Come with me."
-    c ""
+    c "Venha comigo."
 
 # game/script.rpy:31074
 translate pt_br linbpunish_154c6dc5_1:
 
     # l "Okay [linoname]..."
-    l ""
+    l "Tudo bem, [linoname]..."
 
 # game/script.rpy:31076
 translate pt_br linbpunish_dcb24262:
@@ -80471,7 +80471,7 @@ translate pt_br linltt_f3f99666:
 translate pt_br linltt_ed0b5b45:
 
     # l "Mmh, yes [linoname]... please make me cum."
-    l ""
+    l "Mmh, sim, [linoname]..."
 
 # game/script.rpy:34479
 translate pt_br linltt_c89b6103:
@@ -81257,7 +81257,7 @@ translate pt_br kali_publicwalk_cd4b80d0:
 translate pt_br kali_publicwalk_8ceddb5a:
 
     # k "...Nnm, okay [linoname]..."
-    k ""
+    k "...Nnm, tudo bem, [linoname]..."
 
 # game/script.rpy:34760
 translate pt_br kali_publicwalk_3092b0a1:
@@ -83285,7 +83285,7 @@ translate pt_br ash_insp_96ef4eb3:
 translate pt_br ash_insp_70bd93a1:
 
     # l "Hnn... yes [linoname]..."
-    l ""
+    l "Hnn... sim, [linoname]..."
 
 # game/script.rpy:35683
 translate pt_br ash_insp_93540d9e:
