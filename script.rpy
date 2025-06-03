@@ -75629,7 +75629,7 @@ translate pt_br ashbsquirt_d2369cb3:
 translate pt_br ashbsquirt_a5dd8f66:
 
     # a "Ah! No! No! Stop! I gonna... Cum already! Hnnn!"
-    a ""
+    a "Ah! Não! Não! Para! Eu já... Vou gozar! Hnnn!"
 
 # game/script.rpy:31344
 translate pt_br ashbsquirt_1fe3f8f9:
@@ -75641,115 +75641,115 @@ translate pt_br ashbsquirt_1fe3f8f9:
 translate pt_br ashbsquirt_5ba4dee5:
 
     # a "Hehe... I already came..."
-    a ""
+    a "Hehe... Eu já gozei..."
 
 # game/script.rpy:31349
 translate pt_br ashbsquirt_d0f2ef2d:
 
     # a "More! Do it more!"
-    a ""
+    a "Mais! Faz mais!
 
 # game/script.rpy:31351
 translate pt_br ashbsquirt_2f99dad6:
 
     # a "Ahhh!!! You're so rough! You're hitting my, NNN! G-Spot!"
-    a ""
+    a "Ahhh!!! Você está sendo tão bruto! Você está atingindo o meu, NNN! Ponto G!"
 
 # game/script.rpy:31354
 translate pt_br ashbsquirt_06e74dd9:
 
     # a "Ah! Ahh!!! You're getting me... so... wet! NNNN!!!"
-    a ""
+    a "Ah! Ahh!!! Você está me deixando... tão... molhadinha! NNNN!!!"
 
 # game/script.rpy:31355
 translate pt_br ashbsquirt_7a096c8e:
 
     # a "I'm gonna ruin this bed! Ah! Fuck!"
-    a ""
+    a "Eu vou estragar essa cama! Ah! Porra!"
 
 # game/script.rpy:31356
 translate pt_br ashbsquirt_4ba0660a:
 
     # a "FUCK! I'm gonna cum again!" with ssshake
-    a "" with ssshake
+    a "PORRA! Eu vou gozar de novo!" with ssshake
 
 # game/script.rpy:31357
 translate pt_br ashbsquirt_521669f8:
 
     # a "MM! Slow down! I'm cumming too fast! Ah! AH! AHH!!!" with ssshake
-    a "" with ssshake
+    a "MM! Mais devagar! Eu estou gozando rápido demais! Ah! AH! AHH!!!" with ssshake
 
 # game/script.rpy:31359
 translate pt_br ashbsquirt_417540a7:
 
     # a "AHHHHHH!!! GGGHHHhhhh..." with sshake
-    a "" with sshake
+    a "AHHHHHH!!! GGGHHHhhhh..." with sshake
 
 # game/script.rpy:31361
 translate pt_br ashbsquirt_dcc5231c:
 
     # a "Ahhh... Hahhh... Nnnn... Thank you Sir..."
-    a ""
+    a "Ahhh... Hahhh... Nnnn... Obrigada, Senhor..."
 
 # game/script.rpy:31362
 translate pt_br ashbsquirt_df81a2aa:
 
     # a "I... I don't think I can cum anymore..."
-    a ""
+    a "Eu... Eu acho que não consigo gozar mais..."
 
 # game/script.rpy:31365
 translate pt_br ashbsquirt_51983688:
 
     # a "Ahhh... That felt so good... Thank you Sir!"
-    a ""
+    a "Ahhh... Isso foi tão gostoso... Obrigaad, Senhor!"
 
 # game/script.rpy:31370
 translate pt_br ashbsquirt_97e4a69f:
 
     # a "Ahh! Fffuck!"
-    a ""
+    a "Ahh! Ppporra!"
 
 # game/script.rpy:31371
 translate pt_br ashbsquirt_d3c6fedb:
 
     # a "You're... Really going to make me cum again? Ahh!"
-    a ""
+    a "Você... Realmente vai me fazer gozar de novo? Ahh!"
 
 # game/script.rpy:31372
 translate pt_br ashbsquirt_86670eb3:
 
     # a "Hnn! Hnnnn!!! Your fingers feel so good! But my pussy is starting to ache!"
-    a ""
+    a "Hnn! Hnnnn!!! Os seus dedos são tão gostosos! Mas a minha boceta está começando a arder!"
 
 # game/script.rpy:31373
 translate pt_br ashbsquirt_6ceec2f9:
 
     # a "Ahhh..."
-    a ""
+    a "Ahhh..."
 
 # game/script.rpy:31376
 translate pt_br ashbsquirt_33d81adb:
 
     # a "AH! I feel it! It's cumming! I'm cumming again!"
-    a ""
+    a "AH! Eu estou sentindo! Eu estou gozando! Estou gozando de novo!"
 
 # game/script.rpy:31378
 translate pt_br ashbsquirt_6dfc3048:
 
     # a "Gggghh! Nnnggg!" with sshake
-    a "" with sshake
+    a "Gggghh! Nnnggg!" with sshake
 
 # game/script.rpy:31380
 translate pt_br ashbsquirt_c7aa0ac9:
 
     # a "Ahhh... Hahhhnnn... What are you doing?"
-    a ""
+    a "Ahhh... Hahhhnnn... O que você está fazendo?"
 
 # game/script.rpy:31381
 translate pt_br ashbsquirt_c4d4de13:
 
     # a "Nnnn... Ahh! Ahhhh!"
-    a ""
+    a "Nnnn... Ahh! Ahhhh!"
 
 # game/script.rpy:31382
 translate pt_br ashbsquirt_82807d47:
