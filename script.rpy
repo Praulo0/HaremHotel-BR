@@ -276,7 +276,7 @@ translate pt_br intro_25e6315f:
 translate pt_br intro_38972a8b:
 
     # you "Syl'ari, that's where I'm headed."
-    you "Syl'ari, é para lá onde estou indo. "
+    you "Syl'ari, é para lá que estou indo. "
 
 # game/script.rpy:504
 translate pt_br intro_6a5698e7:
@@ -636,7 +636,7 @@ translate pt_br start2_a4fb49ed:
 translate pt_br start2_9f87b393:
 
     # "TIP: Some side content is locked and hidden behind character stats and traits, such as training, outfits, and more. So be sure to check back on characters often."
-    "DICA: Alguns conteúdos alternativos estão trancados e escondidos por trás das estatísticas e características dos personagens, como treinamentos, fantasias e mais. Então tenha certeza de estar sempre verificando novamente."
+    "DICA: Alguns conteúdos alternativos estão trancados e escondidos por trás das estatísticas e características dos personagens, como treinamentos, conjunto de roupas de roupas e mais. Então tenha certeza de estar sempre verificando novamente."
 
 # game/script.rpy:654
 translate pt_br start2_0383b281:
@@ -648,7 +648,7 @@ translate pt_br start2_0383b281:
 translate pt_br start2_2fbbce15:
 
     # "TIP: Some things are locked and hidden behind character stats and traits, such as events, outfits, and more. So be sure to check on characters often."
-    "DICA: Algumas coisas estão trancadas e escondidas atrás das estatísticas e características dos personagens, como eventos, fantasias e mais. Então tenha certeza de estar sempre verificando."
+    "DICA: Algumas coisas estão trancadas e escondidas atrás das estatísticas e características dos personagens, como eventos, conjunto de roupas e mais. Então tenha certeza de estar sempre verificando."
 
 # game/script.rpy:680
 translate pt_br start2_4738f380:
@@ -1176,7 +1176,7 @@ translate pt_br lobby2_f6031e2f:
 translate pt_br lobby2_2c23083b:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot "Olá, [botown]... eu realmente gostei da fantasia de vaca que você comprou para mim! Ah! A fantasia de gato também!"
+    bot "Olá, [botown]... eu realmente gostei do conjunto de roupas de vaca que você comprou para mim! Ah! O conjunto de roupas de gato também!"
 
 # game/script.rpy:1731
 translate pt_br lobby2_72495d6f:
@@ -1206,7 +1206,7 @@ translate pt_br lobby2_76f15520:
 translate pt_br lobby2_369b534f:
 
     # bot "[botown]... My tits jiggle a lot in this outfit you know..."
-    bot "[botown]... Minhas tetas balançam muito nessa fantasia né..."
+    bot "[botown]... Minhas tetas balançam muito nesse conjunto de roupas né..."
 
 # game/script.rpy:1742
 translate pt_br lobby2_9991c225:
@@ -1338,7 +1338,7 @@ translate pt_br lobby2_f6031e2f_1:
 translate pt_br lobby2_2c23083b_1:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot "Olá, [botown]... eu realmente gostei da fantasia de vaca que você comprou para mim! Ah! A fantasia de gato também!"
+    bot "Olá, [botown]... eu realmente gostei do conjunto de roupas de vaca que você comprou para mim! Ah! O conjunto de roupas de gato também!"
 
 # game/script.rpy:1809
 translate pt_br lobby2_72495d6f_1:
@@ -2448,7 +2448,7 @@ translate pt_br lobby2_9ba94482_1:
 translate pt_br lobby2_800211ca:
 
     # a "Nnn, [name]... Can we fuck today? We could do it in this cute outfit!"
-    a "Nnn, [name]... Nós podemos foder hoje? Eu quero fazer usando essa fantasia fofa!"
+    a "Nnn, [name]... Nós podemos foder hoje? Eu quero fazer usando esse conjunto de roupas fofo!"
 
 # game/script.rpy:2356
 translate pt_br lobby2_3d5529d7_1:
@@ -3510,7 +3510,7 @@ translate pt_br ellen_moneytalk_fe2dd7a5:
 translate pt_br ellen_moneytalk_9ee7b317:
 
     # e "Ah, *ahem*... Customers will pay more for skimpier outfits and multiple people. This way you could see each outfit you buy as an investment! So long as you're close enough for them to accept..."
-    e "Ah, *ahem*... Clientes vão pagar mais por fantasias mais curtas e mais pessoas. Assim voce poderá ver ver cada fantasia que você comprar como um investimento! Então desde que vocês forem próximoso suficiente para elas aceitarem..."
+    e "Ah, *ahem*... Clientes vão pagar mais por conjunto de roupas mais curtas e mais pessoas. Assim voce poderá ver ver cada conjunto de roupas que você comprar como um investimento! Então desde que vocês forem próximoso suficiente para elas aceitarem..."
 
 # game/script.rpy:3383
 translate pt_br ellen_moneytalk_6e6035a2:
@@ -4050,7 +4050,7 @@ translate pt_br bardrinks_bb22c8cb_6:
 translate pt_br bardrinks_b9d6b2c2:
 
     # "The Cat Maid Outfit is both cute and sexy! Sure to draw attention!"
-    "A fantasia de Gata Empregada Doméstica é tanto fofa quanto sexy! Com certeza vai chamar atenção!"
+    "O conjunto de roupas de Gata Empregada Doméstica é tanto fofa quanto sexy! Com certeza vai chamar atenção!"
 
 # game/script.rpy:3782
 translate pt_br bardrinks_f465daa1:
@@ -4068,7 +4068,7 @@ translate pt_br bardrinks_5da4f0e8:
 translate pt_br bardrinks_9e870068:
 
     # "You acquired Moon's Cat Maid Outfit!"
-    "Você adquiriu a fantasia de Gata Empregada Doméstica da Moon"
+    "Você adquiriu o conjunto de roupas de Gata Empregada Doméstica da Moon"
 
 # game/script.rpy:3792
 translate pt_br bardrinks_1d180219:
@@ -4098,7 +4098,7 @@ translate pt_br bartraining_f5d0a14f_2:
 translate pt_br bartraining_870ee9c8:
 
     # c "I need to buy her Maid Cat Outfit first."
-    c "Eu preciso comprar a fantasia de Gata Empregada Doméstica primeiro."
+    c "Eu preciso comprar o conjunto de roupas de Gata Empregada Doméstica primeiro."
 
 # game/script.rpy:3828
 translate pt_br bartraining_f5d0a14f_3:
@@ -5706,7 +5706,7 @@ translate pt_br floor2menu_697668e2:
 translate pt_br floor2menu_34e05bae:
 
     # "[botname] goes into her room and changes her clothes to her newly bought veil outfit..."
-    "[botname] entra no quarto dela e troca suas roupas por sua nova fantasia de noiva..."
+    "[botname] entra no quarto dela e troca suas roupas por sua novo conjunto de roupas de noiva..."
 
 # game/script.rpy:4936
 translate pt_br floor2menu_ac90ad65_3:
@@ -5790,7 +5790,7 @@ translate pt_br floor2menu_9cc9e4f7_1:
 translate pt_br floor2menu_8a736f24:
 
     # bot "That's... a very slutty outfit [botown]..."
-    bot "Essa... é uma fantasia muito vulgar, [botown]..."
+    bot "Essa... é um conjunto de roupas muito vulgar, [botown]..."
 
 # game/script.rpy:4978
 translate pt_br floor2menu_f9624506:
@@ -5826,7 +5826,7 @@ translate pt_br floor2menu_ff2da85a:
 translate pt_br floor2menu_06268ed4:
 
     # "[botname] goes into her room and changes her clothes to her newly bought slut outfit, and inserts the slut module..."
-    "[botname] entra no quarto dela e troca suas roupas para a nova fantasia de vadia, e insere o módulo de vadia..."
+    "[botname] entra no quarto dela e troca suas roupas para a novo conjunto de roupas de vadia, e insere o módulo de vadia..."
 
 # game/script.rpy:4987
 translate pt_br floor2menu_d8bd047c:
@@ -6624,7 +6624,7 @@ translate pt_br floor2menu_5608ed72:
 translate pt_br floor2menu_366700dc:
 
     # f "Ohhh, it's {i}that{/i} kind of outfit... okay..."
-    f "Ahhh, esse é {i}esse{/i} tipo de fantasia... tudo bem..."
+    f "Ahhh, esse é {i}esse{/i} tipo de conjunto de roupas... tudo bem..."
 
 # game/script.rpy:5376
 translate pt_br floor2menu_d3ec3664:
@@ -7591,7 +7591,7 @@ translate pt_br lobby_ee0f9226:
 translate pt_br lobby_779568dc:
 
     # c "Your Bartender outfit came in."
-    c "Sua fantasia de Bartender chegou."
+    c "Seu conjunto de roupas de Bartender chegou."
 
 # game/script.rpy:6045
 translate pt_br lobby_cb1246b5:
@@ -7939,7 +7939,7 @@ translate pt_br lobby_48fc288b:
 translate pt_br lobby_d5a96581:
 
     # m "Could you buy me a succubus outfit? I would buy it myself, but I just upgraded the stream..."
-    m "Você pode comprar uma fantasia de súcubo? Eu mesmo compraria, mas acabei de melhorar o stream..."
+    m "Você pode comprar um conjunto de roupas de súcubo? Eu mesmo compraria, mas acabei de melhorar o stream..."
 
 # game/script.rpy:6217
 translate pt_br lobby_33fd57ed:
@@ -7975,7 +7975,7 @@ translate pt_br lobby_ee0f9226_1:
 translate pt_br lobby_eb4057f4:
 
     # c "I got the succubus outfit for you."
-    c "Eu comprei a fantasia de súcubo para você."
+    c "Eu comprei o conjunto de roupas de súcubo para você."
 
 # game/script.rpy:6234
 translate pt_br lobby_0620eb6c:
@@ -8005,7 +8005,7 @@ translate pt_br lobby_cd3edf70:
 translate pt_br lobby_84d562ae:
 
     # m "...Speaking of which... if you want to test drive my new outfit just let me know..."
-    m "... Falando nisso... se você quiser fazer um test-drive da minha fantasia nova é só me avisar..."
+    m "... Falando nisso... se você quiser fazer um test-drive do meu conjunto de roupas nova é só me avisar..."
 
 # game/script.rpy:6243
 translate pt_br lobby_037d3b81:
@@ -8912,7 +8912,7 @@ translate pt_br lobby_d6e6dc51:
 translate pt_br lobby_2dc5c6b7:
 
     # "Maria goes into her room and changes her clothes to her newly bought slut outfit..."
-    "Maria entra no quarto dela e troca suas roupas pela sua nova fantasia de vadia..."
+    "Maria entra no quarto dela e troca suas roupas pelo seu novo conjunto de roupas de vadia..."
 
 # game/script.rpy:6564
 translate pt_br lobby_9ead871d:
@@ -9369,7 +9369,7 @@ translate pt_br floor1menu_48fc288b:
 translate pt_br floor1menu_315ac068:
 
     # l "I was wondering if you could take me shopping! I've really been wanting to visit the city, and this maid outfit has been getting a bit boring..."
-    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho estado com vontade de visitar a cidade, e essa fantasia de empregada doméstica está ficando um pouco enjoativa... "
+    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho estado com vontade de visitar a cidade, e esse conjunto de roupas de empregada doméstica está ficando um pouco enjoativa... "
 
 # game/script.rpy:6802
 translate pt_br floor1menu_54898fb8:
@@ -9621,7 +9621,7 @@ translate pt_br floor1menu_1f684cc8_1:
 translate pt_br floor1menu_2f320a32:
 
     # l "Wow... this outfit is really slutty!"
-    l "Uou... essa fantasia é realmente vulgar!"
+    l "Uou... esse conjunto de roupas é muito vulgar!"
 
 # game/script.rpy:7024
 translate pt_br floor1menu_1c06eb13:
@@ -9645,13 +9645,13 @@ translate pt_br floor1menu_3c60f245:
 translate pt_br floor1menu_d6d6593f:
 
     # "Lin strips her maid outfit off, and puts her new slut outfit on..."
-    "Lin retira a fantasia de empregada doméstica e coloca a sua nova fantasia de vadia... "
+    "Lin retira o conjunto de roupas de empregada doméstica e coloca o seu novo conjunto de roupas de vadia... "
 
 # game/script.rpy:7032
 translate pt_br floor1menu_32cb30a2:
 
     # l "Wow... this outfit looks amazing!"
-    l "Uau...  essa fantasia ficou incrível!"
+    l "Uau...  esse conjunto de roupas ficou incrível!"
 
 # game/script.rpy:7034
 translate pt_br floor1menu_a364e3ea:
@@ -9663,7 +9663,7 @@ translate pt_br floor1menu_a364e3ea:
 translate pt_br floor1menu_4a38e89d:
 
     # l "This outfit makes me feel really confident..."
-    l "Essa fantasia faz eu me sentir muito confiante..."
+    l "Esse conjunto de roupas faz eu me sentir muito confiante..."
 
 # game/script.rpy:7040
 translate pt_br floor1menu_0bae5257:
@@ -10671,7 +10671,7 @@ translate pt_br kcreep_b16e1451:
 translate pt_br kcreep_29f7e3ea:
 
     # "I should buy her a bunny suit..."
-    "Eu deveria comprar uma fantasia de coelha para ela..."
+    "Eu deveria comprar um conjunto de roupas de coelha para ela..."
 
 # game/script.rpy:7628
 translate pt_br kcreep_55838880:
@@ -10767,7 +10767,7 @@ translate pt_br kcreep_b7a63e96:
 translate pt_br kcreep_35a40811:
 
     # "Kali removes her clothing and changes in to her slut outfit..."
-    "Kali tira suas roupas e troca para a sua fantasia de vadia..."
+    "Kali tira suas roupas e troca para a seu conjunto de roupas de vadia..."
 
 # game/script.rpy:7677
 translate pt_br kcreep_c2fe32fe:
@@ -10863,7 +10863,7 @@ translate pt_br kcreep_d71ee0e5:
 translate pt_br kcreep_85e625c6:
 
     # "Kali is at work right now wearing the outfit you gave her."
-    "Kali está trabalhando agora usando a fantasia que você deu a ela."
+    "Kali está trabalhando agora usando o conjunto de roupas que você deu a ela."
 
 # game/script.rpy:7744
 translate pt_br kcreep_335c3c89:
@@ -11649,7 +11649,7 @@ translate pt_br kcreep_a72baea1:
 translate pt_br kcreep_e8326cea:
 
     # c "A schoolgirl outfit."
-    c "Uma fantasia de estudante."
+    c "Um conjunto de roupas de estudante."
 
 # game/script.rpy:8184
 translate pt_br kcreep_126106f7:
@@ -11853,7 +11853,7 @@ translate pt_br kcreep_e642fc1a:
 translate pt_br kcreep_de083f95:
 
     # "Ashley removes her clothing and puts on the slut outfit..."
-    "Ashley remove sua fantasia e coloca a fantasia de vadia..."
+    "Ashley remove seu conjunto de roupas e coloca o conjunto de roupas de vadia..."
 
 # game/script.rpy:8301
 translate pt_br kcreep_72b17ab4:
@@ -13947,7 +13947,7 @@ translate pt_br expl_beach2_c3601e70:
 translate pt_br expl_beach2_c51b2570:
 
     # sl "Yes, mistress, but the makeup and the outfit at the beach... it's a bit far."
-    sl "Sim, mestra, mas a maquiagem e essa fantasia na praia... É um pouco exagerado."
+    sl "Sim, mestra, mas a maquiagem e esse conjunto de roupas na praia... É um pouco exagerado."
 
 # game/script.rpy:8954
 translate pt_br expl_beach2_6e98a896:
@@ -16216,7 +16216,7 @@ translate pt_br bluebun_sex_398439f4:
 translate pt_br bluebun_sex_c587e577:
 
     # bbun "Mmmh! Yeah, you can cum where ever you want~ Mmmh! Do it, do it~"
-    bbun "Mmmh! Isso, você pode gozar aonde você quiser~MmmH! Faz isso, faz isso~"
+    bbun "Mmmh! Isso, você pode gozar onde você quiser~MmmH! Faz isso, faz isso~"
 
 # game/script.rpy:9775
 translate pt_br bluebun_sex_d5e14613:
@@ -17320,7 +17320,7 @@ translate pt_br explore_brothel2_69c3c1d0:
 translate pt_br explore_brothel2_d98b0888:
 
     # bbun "Sure. See you next time, [name]!"
-    bbun "Claro. Até mais, [name]!"
+    bbun "Claro. Até a próxima, [name]!"
 
 # game/script.rpy:10271
 translate pt_br explore_brothel2_d6b48f27:
@@ -17506,7 +17506,7 @@ translate pt_br out_cont1_1_df18ab7a_1:
 translate pt_br out_cont1_1_ab6ced44:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10336
 translate pt_br out_cont1_1_23807d00:
@@ -17560,7 +17560,7 @@ translate pt_br out_cont1_1_df18ab7a_3:
 translate pt_br out_cont1_1_ab6ced44_1:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10354
 translate pt_br out_cont1_1_6550918b:
@@ -17614,13 +17614,13 @@ translate pt_br out_cont1_1_df18ab7a_5:
 translate pt_br out_cont1_1_ab6ced44_2:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10371
 translate pt_br out_cont1_1_ab6ced44_3:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10375
 translate pt_br out_cont1_1_6d92a62f:
@@ -17704,7 +17704,7 @@ translate pt_br out_cont1_1_df18ab7a_7:
 translate pt_br out_cont1_1_ab6ced44_4:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10404
 translate pt_br out_cont1_1_23807d00_1:
@@ -17752,7 +17752,7 @@ translate pt_br out_cont1_1_df18ab7a_9:
 translate pt_br out_cont1_1_ab6ced44_5:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10421
 translate pt_br out_cont1_1_6550918b_1:
@@ -17806,19 +17806,19 @@ translate pt_br out_cont1_1_df18ab7a_11:
 translate pt_br out_cont1_1_ab6ced44_6:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10438
 translate pt_br out_cont1_1_ab6ced44_7:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10441
 translate pt_br out_cont1_1_ab6ced44_8:
 
     # sla "Busy, huh?\nWell alright! Have a good day, see you there!"
-    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, te vejo por aí!"
+    sla "Ocupado, hein?\nBem, tá certo então! Tenha um bom dia, nos vemos lá!"
 
 # game/script.rpy:10444
 translate pt_br out_cont1_1_d6b48f27:
@@ -22780,13 +22780,13 @@ translate pt_br nextfrontdoor_cf2b0386:
 translate pt_br nextfrontdoor_43c588db:
 
     # mail "You pick up Kali's bunny outfit"
-    mail "Você pega a fantasia de coelhinha de Kali"
+    mail "Você pega o conjunto de roupas de coelhinha de Kali"
 
 # game/script.rpy:12126
 translate pt_br nextfrontdoor_301fc00f:
 
     # mail "You pick up Lin's bondage set"
-    mail "Você pega o conjunto de bondage de Lin"
+    mail "Você pega o conjunto de roupas de bondage de Lin"
 
 # game/script.rpy:12129
 translate pt_br nextfrontdoor_d61b50c5:
@@ -22810,7 +22810,7 @@ translate pt_br nextfrontdoor_921aaaa7:
 translate pt_br nextfrontdoor_8905680e:
 
     # mail "You pick up Lin's heart outfit"
-    mail "Você pega a fantasia de coração de Lin"
+    mail "Você pega o conjunto de roupas de coração de Lin"
 
 # game/script.rpy:12141
 translate pt_br nextfrontdoor_5e06a3a6:
@@ -22822,7 +22822,7 @@ translate pt_br nextfrontdoor_5e06a3a6:
 translate pt_br nextfrontdoor_dc942b27:
 
     # mail "You pick up Maria's succubus outfit"
-    mail "Você pega a fantasia de súcubo de Maria"
+    mail "Você pega o conjunto de roupas de súcubo de Maria"
 
 # game/script.rpy:12147
 translate pt_br nextfrontdoor_2e26b624:
@@ -22906,37 +22906,37 @@ translate pt_br nextfrontdoor_39ee3027:
 translate pt_br nextfrontdoor_0f5fe178:
 
     # mail "You pick up Lin's slut outfit"
-    mail "Você pega a fantasia de vadia de Lin"
+    mail "Você pega o conjunto de roupas de vadia de Lin"
 
 # game/script.rpy:12189
 translate pt_br nextfrontdoor_8edcae9f:
 
     # mail "You pick up Maria's slut outfit"
-    mail "Você pega a fantasia de vadia de Maria"
+    mail "Você pega o conjunto de roupas de vadia de Maria"
 
 # game/script.rpy:12192
 translate pt_br nextfrontdoor_183cab9f:
 
     # mail "You pick up [botname]'s slut outfit"
-    mail "Você pega a fantasia de vadia de [botname]"
+    mail "Você pega o conjunto de roupas de vadia de [botname]"
 
 # game/script.rpy:12195
 translate pt_br nextfrontdoor_c5b53f13:
 
     # mail "You pick up [botname]'s veil outfit"
-    mail "Você pega a fantasia de esposa de [botname]"
+    mail "Você pega o conjunto de roupas de esposa de [botname]"
 
 # game/script.rpy:12198
 translate pt_br nextfrontdoor_be4b46b9:
 
     # mail "You pick up Kali's slut outfit"
-    mail "Você pega a fantasia de vadia de Kali"
+    mail "Você pega o conjunto de roupas de vadia de Kali"
 
 # game/script.rpy:12201
 translate pt_br nextfrontdoor_c5d57be9:
 
     # mail "You pick up Lin's cutiepie outfit"
-    mail "Você pega a fantasia fofinha de Lin"
+    mail "Você pega o conjunto de roupas fofinha de Lin"
 
 # game/script.rpy:12204
 translate pt_br nextfrontdoor_10521a6b:
@@ -22948,67 +22948,67 @@ translate pt_br nextfrontdoor_10521a6b:
 translate pt_br nextfrontdoor_fd2859db:
 
     # mail "You pick up Ashley's slut outfit"
-    mail "Você pega a fantasia de vadia da Ashley"
+    mail "Você pega o conjunto de roupas de vadia da Ashley"
 
 # game/script.rpy:12210
 translate pt_br nextfrontdoor_f82382c7:
 
     # mail "You pick up Kali's rope outfit"
-    mail "Você pega a fantasia de corda da Kali"
+    mail "Você pega o conjunto de roupas de corda da Kali"
 
 # game/script.rpy:12213
 translate pt_br nextfrontdoor_c4d46600:
 
     # mail "You pick up Ashley's rope outfit"
-    mail "Você pega a fantasia de corda da Kali"
+    mail "Você pega o conjunto de roupas de corda da Kali"
 
 # game/script.rpy:12216
 translate pt_br nextfrontdoor_ff78b311:
 
     # mail "You pick up Ashley's Bunny Suit"
-    mail "Você pega a fantasia de Coelhinha de Ashley"
+    mail "Você pega o conjunto de roupas de Coelhinha de Ashley"
 
 # game/script.rpy:12219
 translate pt_br nextfrontdoor_6f3b1c4e:
 
     # mail "You pick up Maria's Bunny Suit"
-    mail "Você pega a fantasia de Coelhinha de Maria"
+    mail "Você pega o conjunto de roupas de Coelhinha de Maria"
 
 # game/script.rpy:12222
 translate pt_br nextfrontdoor_ea931ab9:
 
     # mail "You pick up Maria's rope outfit"
-    mail "Você pega a fantasia de corda de Maria"
+    mail "Você pega o conjunto de roupas de corda de Maria"
 
 # game/script.rpy:12225
 translate pt_br nextfrontdoor_5ca7af5c:
 
     # mail "You pick up [botname]'s rope outfit"
-    mail "Você pega a fantasia de corda de [botname]"
+    mail "Você pega o conjunto de roupas de corda de [botname]"
 
 # game/script.rpy:12228
 translate pt_br nextfrontdoor_e6c01820:
 
     # mail "You pick up [botname]'s western cowgirl outfit"
-    mail "Você pega a fantasia de cowgirl do oeste de [botname]"
+    mail "Você pega o conjunto de roupas de cowgirl do oeste de [botname]"
 
 # game/script.rpy:12231
 translate pt_br nextfrontdoor_684cc525:
 
     # mail "You pick up Maria's bartender outfit"
-    mail "Você pega a fantasia de bartender de Maria"
+    mail "Você pega o conjunto de roupas de bartender de Maria"
 
 # game/script.rpy:12234
 translate pt_br nextfrontdoor_ee32d22f:
 
     # mail "You pick up Felicity's Catgirl outfit"
-    mail "Você pega a fantasia de Gatinha da Felicity"
+    mail "Você pega o conjunto de roupas de Gatinha da Felicity"
 
 # game/script.rpy:12237
 translate pt_br nextfrontdoor_3625f4dd:
 
     # mail "You pick up Felicity's Slut outfit"
-    mail "Você pega a fantasia de Vadia de Felicity"
+    mail "Você pega o conjunto de roupas de Vadia de Felicity"
 
 # game/script.rpy:12240
 translate pt_br nextfrontdoor_93d80139:
@@ -23026,31 +23026,31 @@ translate pt_br nextfrontdoor_18038ee6:
 translate pt_br nextfrontdoor_019745eb:
 
     # mail "You pick up Felicity's Sexy Gothic outfit"
-    mail "Você pega a fantasia de Gótica Sexy de Felicity"
+    mail "Você pega o conjunto de roupas de Gótica Sexy de Felicity"
 
 # game/script.rpy:12249
 translate pt_br nextfrontdoor_747a8a97:
 
     # mail "You pick up Emma's Slut outfit"
-    mail "Você pega a fantasia de Vadia da Emma"
+    mail "Você pega o conjunto de roupas de Vadia da Emma"
 
 # game/script.rpy:12252
 translate pt_br nextfrontdoor_b250bffb:
 
     # mail "You pick up Emma's Rope outfit"
-    mail "Você pega a fantasia de Corda da Emma"
+    mail "Você pega o conjunto de roupas de Corda da Emma"
 
 # game/script.rpy:12255
 translate pt_br nextfrontdoor_2ab4ba61:
 
     # mail "You pick up Felicity's Rope outfit"
-    mail "Você pega a fantasia de Corda de Felicity"
+    mail "Você pega o conjunto de roupas de Corda de Felicity"
 
 # game/script.rpy:12258
 translate pt_br nextfrontdoor_5dccef08:
 
     # mail "You pick up Autumn's Slutty Server outfit!"
-    mail "Você pega a fantasia de Garçonete Safada de Autumn!"
+    mail "Você pega o conjunto de roupas de Garçonete Safada de Autumn!"
 
 # game/script.rpy:12261
 translate pt_br nextfrontdoor_ee8704d6:
@@ -23062,7 +23062,7 @@ translate pt_br nextfrontdoor_ee8704d6:
 translate pt_br nextfrontdoor_9bc32d12:
 
     # mail "You pick up Lin's Goth Outfit"
-    mail "Você pega a fantasia de Gótica da Lin"
+    mail "Você pega o conjunto de roupas de Gótica da Lin"
 
 # game/script.rpy:12267
 translate pt_br nextfrontdoor_d084006d:
@@ -23074,7 +23074,7 @@ translate pt_br nextfrontdoor_d084006d:
 translate pt_br nextfrontdoor_e42f4aaf:
 
     # mail "You pick up Kali's Goth Outfit"
-    mail "Você pega a fantasia de Gótica da Kali"
+    mail "Você pega o conjunto de roupas de Gótica da Kali"
 
 # game/script.rpy:12273
 translate pt_br nextfrontdoor_9d193611:
@@ -23092,7 +23092,7 @@ translate pt_br nextfrontdoor_eef778a3:
 translate pt_br nextfrontdoor_65c17d3a:
 
     # mail "You pick up Ashley's Goth Outfit"
-    mail "Você pega a fantasia de Gótica da Ashley"
+    mail "Você pega o conjunto de roupas de Gótica da Ashley"
 
 # game/script.rpy:12282
 translate pt_br nextfrontdoor_b266e72e:
@@ -23110,7 +23110,7 @@ translate pt_br nextfrontdoor_8e62afce:
 translate pt_br nextfrontdoor_80725855:
 
     # mail "You pick up Maria's Goth Outfit"
-    mail "Você pega a fantasia de Gótica da Maria"
+    mail "Você pega o conjunto de roupas de Gótica da Maria"
 
 # game/script.rpy:12291
 translate pt_br nextfrontdoor_96d445a5:
@@ -23356,7 +23356,7 @@ translate pt_br shower_03f042b5:
 translate pt_br shower_be58fcf7:
 
     # e "Oh! [name] did you come to use the shower? I'm so sorry, I can't seem to find my clothes, can you give me min-"
-    e "Ah! [name], você veio usar o chuveiro? EU sinto muitíssimo, não estou conseguindo encotrar minhas roupas, você pode me dar um-"
+    e "Ah! [name], você veio usar o chuveiro? Eu sinto muitíssimo, não estou conseguindo encotrar minhas roupas, você pode me dar um-"
 
 # game/script.rpy:12411
 translate pt_br shower_efa9ec7c:
@@ -27940,7 +27940,7 @@ translate pt_br linkchoice_9d6c9fa4:
 translate pt_br linkchoice_7a6891bc:
 
     # l "This isn't much of an outfit..."
-    l "Isso não é bem uma fantasia..."
+    l "Isso não é bem um conjunto de roupas..."
 
 # game/script.rpy:14845
 translate pt_br linkchoice_0ed54b03:
@@ -27994,7 +27994,7 @@ translate pt_br linkchoice_b147fbde:
 translate pt_br linkchoice_0921f47a:
 
     # l "Did you like my new outfit?"
-    l "Você gostou da minha fantasia nova?"
+    l "Você gostou do meu conjunto de roupas nova?"
 
 # game/script.rpy:14892
 translate pt_br linkchoice_beb39de9:
@@ -29020,7 +29020,7 @@ translate pt_br marspring_a81ce046:
 translate pt_br marspring_5d0cbd40:
 
     # m "Heheh, gotta go! See ya later, Ash."
-    m "Heheh, preciso ir! Té mais, Ash."
+    m "Heheh, preciso ir! Até mais tarde, Ash."
 
 # game/script.rpy:15306
 translate pt_br marspring_20f4f604:
@@ -29320,7 +29320,7 @@ translate pt_br yourroom_0edc6e1d:
 translate pt_br yourroom_2b90944c:
 
     # a "I even put on this cute outfit, remember it? Mmph..."
-    a "E eu até coloquei essa fantasia fofa, lembra dela? Mmph..."
+    a "E eu até vesti esse conjunto de roupas fofo, lembra dele? Mmph..."
 
 # game/script.rpy:15460
 translate pt_br yourroom_b1f9b246:
@@ -30610,7 +30610,7 @@ translate pt_br yourroom_9568e165:
 translate pt_br yourroom_97d27bd8:
 
     # k "So yeah, let me know when you're ready. See ya."
-    k "Então tá, me avise quando você estiver pronto. Té mais."
+    k "Então tá, me avise quando você estiver pronto. Até mais."
 
 # game/script.rpy:15950
 translate pt_br yourroom_f6c5bcc2:
@@ -31222,7 +31222,7 @@ translate pt_br yourroom_0e5490b7:
 translate pt_br yourroom_b98a3b4b:
 
     # k "Maybe I'll do it again sometime. Thanks for the outfit!"
-    k "Talvez eu faça isso de novo um dia. Obrigada pela fantasia!"
+    k "Talvez eu faça isso de novo um dia. Obrigada pelo conjunto de roupas!"
 
 # game/script.rpy:16190
 translate pt_br yourroom_8ff80bc1:
@@ -31594,7 +31594,7 @@ translate pt_br yourroomcontinued_24cbc016:
 translate pt_br yourroomcontinued_66471a95:
 
     # "After grabbing Kali's guest pass and a pair of comfortable clothes, you drive to the monorail where you have a nice relaxing ride to Syltech on a cold, dewy night."
-    "Após pegar o passe de convidado de Kali e um par confortável de roupas, você dirige até o monotrilho aonde você uma boa e relaxante viagem em uma noite fria e úmida."
+    "Após pegar o passe de convidado de Kali e um par confortável de roupas, você dirige até o monotrilho onde você uma boa e relaxante viagem em uma noite fria e úmida."
 
 # game/script.rpy:16474
 translate pt_br yourroomcontinued_9dff41bf:
@@ -31919,7 +31919,7 @@ translate pt_br visitgirls_295130a1:
 translate pt_br visitgirls_009b8867:
 
     # k "I'll update you! See ya!"
-    k "Eu vou te deixando atualizado! Té mais"
+    k "Eu vou te deixando atualizado! Até mais"
 
 # game/script.rpy:16740
 translate pt_br visitgirls_d6964ecb:
@@ -32285,7 +32285,7 @@ translate pt_br ellenclick2_577783f7:
 translate pt_br ellenclick2_f54bcb59:
 
     # e "Customers seemed to love when we wore outfits as well! You should be able to make some money either way, but sexy outfits are the way to go!"
-    e "Os clientes pareciam amar quando nós vestiamos fantasias diferentes também! Você pode conseguir algum dinheiro fazendo isso, mas precisa de fantasias sensuais pra dar certo mesmo!"
+    e "Os clientes pareciam amar quando nós vestiamos conjuntos de roupas diferentes também! Você pode conseguir algum dinheiro fazendo isso, mas precisa de conjuntos de roupas sensuais pra dar certo mesmo!"
 
 # game/script.rpy:17087
 translate pt_br ellenclick2_2ccb915c:
@@ -33665,7 +33665,7 @@ translate pt_br bot_sick_74d62724:
 translate pt_br bot_sick_db65a283:
 
     # ally "Heheh, thank you!\nBut where is the love?"
-    ally "Heheh, obrigado!\nMas aonde está o amor?"
+    ally "Heheh, obrigado!\nMasondeestá o amor?"
 
 # game/script.rpy:17666
 translate pt_br bot_sick_a6fac281:
@@ -33761,7 +33761,7 @@ translate pt_br bot_sick_e1878586:
 translate pt_br bot_sick_cf912b96:
 
     # bot "Yeah, I'm fine. I just need to keep my mind off things or else I'll wander, and who knows where that will take me..."
-    bot "Sim, eu estou. Eu só preciso espairecer, se não vou começar a divagar e sabe-se lá aonde isso vai me levar..."
+    bot "Sim, eu estou. Eu só preciso espairecer, se não vou começar a divagar e sabe-se láondeisso vai me levar..."
 
 # game/script.rpy:17686
 translate pt_br bot_sick_e78eb727:
@@ -38525,7 +38525,7 @@ translate pt_br bot_cyberspace_7f343b05:
 translate pt_br bot_cyberspace_21cbdfb6:
 
     # k "Everything about you two can be viewed, if you know where you're looking."
-    k "Dá pra ver tudo sobre vocês dois, desde que saiba aonde procurar."
+    k "Dá pra ver tudo sobre vocês dois, desde que saibaondeprocurar."
 
 # game/script.rpy:18893
 translate pt_br bot_cyberspace_cb9c140b:
@@ -38795,7 +38795,7 @@ translate pt_br bot_cyberspace_cdd52a64:
 translate pt_br bot_cyberspace_71a43424:
 
     # c "I agree. Where should we go to get it?"
-    c "Concordo. Aonde nós precisamos ir para conseguir?"
+    c "Concordo.ondenós precisamos ir para conseguir?"
 
 # game/script.rpy:18942
 translate pt_br bot_cyberspace_a01c14d4:
@@ -39839,7 +39839,7 @@ translate pt_br bot_partition_ccab0f64:
 translate pt_br bot_partition_dc8214d5:
 
     # bot "My new family will create a world where any soul will be loved unconditionally."
-    bot "Minha nova família vai criar um mundo aonde qualquer alma será amada incondicionalmente."
+    bot "Minha nova família vai criar um mundoondequalquer alma será amada incondicionalmente."
 
 # game/script.rpy:19278
 translate pt_br bot_partition_00425605:
@@ -39917,7 +39917,7 @@ translate pt_br bot_partition_77975a15:
 translate pt_br bot_partition_84bad398:
 
     # "You decide to take her somewhere relaxing. Somewhere you two can talk without being bothered. A park in downtown Caliber city comes to mind..."
-    "Você decide levá-la a algum lugar relaxante. Um lugar aonde vocês podem conversar sem serem incomodados. Um parque no centro da cidade Caliber vem à mente..."
+    "Você decide levá-la a algum lugar relaxante. Um lugarondevocês podem conversar sem serem incomodados. Um parque no centro da cidade Caliber vem à mente..."
 
 # game/script.rpy:19295
 translate pt_br bot_partition_3c9c6e39:
@@ -40944,7 +40944,7 @@ translate pt_br bot_nightmares_0458895c:
 translate pt_br bot_nightmares_934249fc:
 
     # bot "\nEven the gods had to bribe people with promises of unobtainable fantasies... \nFantasies of which I alone am capable of.{fast}"
-    bot "\nAté os deuses tiveram que subornar as pessoas com promessas de fantasias inalcançáveis... \nfantasias das quais só eu sou capaz.{fast}"
+    bot "\nAté os deuses tiveram que subornar as pessoas com promessas de fantasias de roupas inalcançáveis... \nFantasias das quais só eu sou capaz.{fast}"
 
 # game/script.rpy:19698
 translate pt_br bot_nightmares_0543b3b8:
@@ -41112,7 +41112,7 @@ translate pt_br bot_nightmares_3fc20847:
 translate pt_br bot_nightmares_4f1e1025:
 
     # bot "When they're gone, where does that leave me? In a world where no one understands me... immortality is isolation/ation."
-    bot "Quando eles se forem, aonde que isso vai me deixar? Em um mundo aonde ninguém me entende... imortalidade é isolamento/ento."
+    bot "Quando eles se forem,ondeque isso vai me deixar? Em um mundoondeninguém me entende... imortalidade é isolamento/ento."
 
 # game/script.rpy:19808
 translate pt_br bot_nightmares_9ecf9856:
@@ -41515,7 +41515,7 @@ translate pt_br bot_nightmares_07a30a9a:
 translate pt_br bot_nightmares_2bb7f662:
 
     # a "But you did have a creator, didn't you? Who were they? Something bad must have happened..."
-    a "Mas você teve um criador, não teve? Aonde eles está? Alguma coisa ruim deve ter acontecido..."
+    a "Mas você teve um criador, não teve?ondeeles está? Alguma coisa ruim deve ter acontecido..."
 
 # game/script.rpy:19960
 translate pt_br bot_nightmares_a20cefa7_2:
@@ -41665,7 +41665,7 @@ translate pt_br bot_socialize_176b21e3:
 translate pt_br bot_socialize_81056210:
 
     # k "I'm worried about where this is headed... we already know she can control another android wirelessly and even mess with things on the same wifi. We don't even know the extent of it...."
-    k "Eu estou preocupada sobre aonde isso vai dar... nós já sabemos que ela é capaz de controlar ouros androides sem fio e até bagunçar outras coisas que estão conectadas no mesmo wifi. E nós nem sabemos a extensão disso...."
+    k "Eu estou preocupada sobreondeisso vai dar... nós já sabemos que ela é capaz de controlar ouros androides sem fio e até bagunçar outras coisas que estão conectadas no mesmo wifi. E nós nem sabemos a extensão disso...."
 
 # game/script.rpy:20005
 translate pt_br bot_socialize_9596ccc6:
@@ -42889,7 +42889,7 @@ translate pt_br bot_socialize_80d7b981:
 translate pt_br bot_socialize_e3efeddd:
 
     # c "[botname] isn't with you? Where is she?"
-    c "Ã [botname] não está com você? Aonde ela está?"
+    c "Ã [botname] não está com você?ondeela está?"
 
 # game/script.rpy:20275
 translate pt_br bot_socialize_55f60aec:
@@ -43567,7 +43567,7 @@ translate pt_br bot_uni_7214cfe2:
 translate pt_br bot_uni_e717211a:
 
     # c "Woah, where did you get this from?"
-    c "Uau, aonde foi que você conseguiu isso?"
+    c "Uau,ondefoi que você conseguiu isso?"
 
 # game/script.rpy:20445
 translate pt_br bot_uni_42c4bd6b:
@@ -44995,7 +44995,7 @@ translate pt_br bot_uni_0d765542:
 translate pt_br bot_uni_3e068167:
 
     # bot "I'LL SHARE YOUR NUDES ALL OVER THE FUCKING INTERNET! EVERYONE WILL KNOW WHERE YOU LIVE!!!" with ssshake
-    bot "EU VOU ESPALHAR TODAS AS SUAS NUDES PELA PORRA DA INTERNET! TODO MUNDO VAI SABER AONDE VOCÊ VIVE!!!" with ssshake
+    bot "EU VOU ESPALHAR TODAS AS SUAS NUDES PELA PORRA DA INTERNET! TODO MUNDO VAI SABERondeVOCÊ VIVE!!!" with ssshake
 
 # game/script.rpy:20789
 translate pt_br bot_uni_eed0925a:
@@ -46272,7 +46272,7 @@ translate pt_br bot_tech_9f3944db:
 translate pt_br bot_tech_9897a706:
 
     # k "See ya."
-    k 'Té mais."
+    k Até mais."
 
 # game/script.rpy:21091
 translate pt_br bot_tech_a902a92b:
@@ -47032,7 +47032,7 @@ translate pt_br bot_mardom_b82beda8:
 translate pt_br bot_mardom_82349394:
 
     # m "Nnngh! Get back on your ass where you belong, you bitch! Nnngh! I'm the dom here! Nnmnm!"
-    m "Nnngh! Volta pra merda do lugar aonde você pertence, sua puta! Nnngh! Eu sou a dominadora aqui! Nnmnm!"
+    m "Nnngh! Volta pra merda do lugarondevocê pertence, sua puta! Nnngh! Eu sou a dominadora aqui! Nnmnm!"
 
 # game/script.rpy:21310
 translate pt_br bot_mardom_581e0b93:
@@ -47866,7 +47866,7 @@ translate pt_br botnew_091269e2:
 translate pt_br botnew_4944ec4d:
 
     # bot "Oh, and of course the eyes were from the outfit you bought me!"
-    bot "Ah, e é claro que os olhos eram da fantasia que voce comprou para mim!"
+    bot "Ah, e é claro que os olhos eram do conjunto de roupas que voce comprou para mim!"
 
 # game/script.rpy:21548
 translate pt_br botnew_d6b9abcf:
@@ -48388,7 +48388,7 @@ translate pt_br botnew_9e25cf4d:
 translate pt_br botnew_cd50721d:
 
     # bot "Okay! See you later, [botown]!"
-    bot "Tudo bem! Vejo você depois, [botown]!"
+    bot "Tudo bem! Nos vemos depois, [botown]!"
 
 # game/script.rpy:21705
 translate pt_br botwake_4da8c505:
@@ -48712,7 +48712,7 @@ translate pt_br botwake_3096e7e9:
 translate pt_br botwake_1fd1be9d:
 
     # e "Oh no... [botname]... I'm so sorry..."
-    e "Ah não... [botname]... Eu sinto tanto..."
+    e "Ah não... [botname]... Eu sinto muitíssimo..."
 
 # game/script.rpy:21783
 translate pt_br botwake_d35508b1:
@@ -48826,7 +48826,7 @@ translate pt_br botwake_71e06939:
 translate pt_br botwake_b06e16e7:
 
     # yg "I can't tell if I'm insane, or if I'm just dreaming of a fantasy I could never achieve..."
-    yg "Eu não sei dizer se sou louco, ou se estou apenas sonhando com uma fantasia que nunca conseguirei realizar..."
+    yg "Eu não sei dizer se sou louco, ou se estou apenas sonhando com uma fantasia de roupas que nunca conseguirei realizar..."
 
 # game/script.rpy:21811
 translate pt_br botwake_390d24ae:
@@ -49222,7 +49222,7 @@ translate pt_br botwake_c93ebcad:
 translate pt_br botwake_cdbd5de1:
 
     # yg "If we look at where we came from, and we look at where we are now... ... ... ...Oh my god."
-    yg "Se nós olharmos de onde viemos, e olhamos aonde estamos agora... ... ... ...Ai meu deus."
+    yg "Se nós olharmos de onde viemos, e olhamosondeestamos agora... ... ... ...Ai meu deus."
 
 # game/script.rpy:21904
 translate pt_br botwake_5b92aa0f:
@@ -50110,7 +50110,7 @@ translate pt_br botwake_d3cfbb60:
 translate pt_br botwake_4f38fb00:
 
     # yg "I've been working on an app for you. I can see where you are, I can see what you're feeling. I can even turn you off or on remotely."
-    yg "Eu estive trabalhando em um aplicativo para você. Eu posso ver aonde você está, eu posso ver o que você está sentindo. Eu posso até te ligar ou desligar remotamente."
+    yg "Eu estive trabalhando em um aplicativo para você. Eu posso verondevocê está, eu posso ver o que você está sentindo. Eu posso até te ligar ou desligar remotamente."
 
 # game/script.rpy:22137
 translate pt_br botwake_b7d1daff:
@@ -51130,7 +51130,7 @@ translate pt_br botwake_8bd0769a:
 translate pt_br botwake_cb97183e:
 
     # c "Wait, where are you going?"
-    c "Espera, aonde você está indo?"
+    c "Espera,ondevocê está indo?"
 
 # game/script.rpy:22391
 translate pt_br botwake_f66b3aed:
@@ -52378,7 +52378,7 @@ translate pt_br bothuman_e10d9c63:
 translate pt_br bothuman_efb0e1ae:
 
     # bot "See you later, [botown]..."
-    bot "Nosn vemos depois, [botown]..."
+    bot "Nos vemos depois, [botown]..."
 
 # game/script.rpy:22793
 translate pt_br botcasual_50da731f:
@@ -53542,13 +53542,13 @@ translate pt_br botpinups_2b7cefda:
 translate pt_br botpinups_12d92ea6:
 
     # "I need to buy her Submission Set first."
-    "Eu preciso comprar o Conjunto de Submissão primeiro"
+    "Eu preciso comprar o conjunto de roupas de Submissão primeiro"
 
 # game/script.rpy:23223
 translate pt_br botpinups_3c3b8cb3:
 
     # bot "Umm, maybe we could try something else? That outfit is really silly [botown]..."
-    bot "Humm, talvez nós possamos experimentar algo diferente? Essa fantasia é muito boba, [botown]... "
+    bot "Humm, talvez nós possamos experimentar algo diferente? esse conjunto de roupas é muito bobo, [botown]... "
 
 # game/script.rpy:23224
 translate pt_br botpinups_abe73d58:
@@ -53590,7 +53590,7 @@ translate pt_br botpinups_6f6964a2:
 translate pt_br botpinups_0dacdf9e:
 
     # bot "But you can look anywhere you want!"
-    bot "Mas você pode olhar aonde quiser!"
+    bot "Mas você pode olharondequiser!"
 
 # game/script.rpy:23251
 translate pt_br botpinups_a88626f1:
@@ -53626,13 +53626,13 @@ translate pt_br botpinups_72b22050:
 translate pt_br botpinups_12d92ea6_1:
 
     # "I need to buy her Submission Set first."
-    "Eu preciso comprar o Conjunto de Submissão primeiro."
+    "Eu preciso comprar o conjunto de roupas de Submissão primeiro."
 
 # game/script.rpy:23270
 translate pt_br botpinups_3c3b8cb3_1:
 
     # bot "Umm, maybe we could try something else? That outfit is really silly [botown]..."
-    bot "Humm, talvez nós possamos experimentar alguma coisa diferente? Essa fantasia é muito boba [botown]..."
+    bot "Humm, talvez nós possamos experimentar alguma coisa diferente? Esse conjunto de roupas é muito bobo [botown]..."
 
 # game/script.rpy:23271
 translate pt_br botpinups_abe73d58_1:
@@ -53710,7 +53710,7 @@ translate pt_br botpinups_1c8d0c20:
 translate pt_br botpinups_4c9bcc0c:
 
     # "I need to buy her Veil Outfit first."
-    "Eu preciso comprar a fantasia de Véu primeiro."
+    "Eu preciso comprar o conjunto de roupas de Véu primeiro."
 
 # game/script.rpy:23322
 translate pt_br botpinups_053432b7_1:
@@ -53734,7 +53734,7 @@ translate pt_br botpinups_47593430:
 translate pt_br botpinups_7529c61e:
 
     # bot "They'll like this outfit a lot!"
-    bot "Eles vão gostar bastante dessa fantasia!"
+    bot "Eles vão gostar bastante desse conjunto de roupas!"
 
 # game/script.rpy:23339
 translate pt_br botpinups_06cff6d4:
@@ -53992,7 +53992,7 @@ translate pt_br botpinslutdone_68fc26db_1:
 translate pt_br botpinslutdone_ff5c7888:
 
     # buyer "DAMN! Where can I buy one!?"
-    buyer "CARAMBA! Aonde eu consigo comprar um!?"
+    buyer "CARAMBA!ondeeu consigo comprar um!?"
 
 # game/script.rpy:23481
 translate pt_br botpinslutdone_3f7d52d3:
@@ -54094,7 +54094,7 @@ translate pt_br botpinvdone_68fc26db:
 translate pt_br botpinvdone_8599afac:
 
     # buyer "Very sexy outfit!"
-    buyer "Essa fantasia é muito sexy!"
+    buyer "Esse conjunto de roupas é muito sexy!"
 
 # game/script.rpy:23528
 translate pt_br botpinvdone_9792f749:
@@ -54316,7 +54316,7 @@ translate pt_br botpindonebra_68fc26db_2:
 translate pt_br botpindonebra_5325b4ab:
 
     # buyer "She's so unique! And that underwear is sexy... I think I need to buy one of those."
-    buyer "Ela é tão única! E essa fantasia íntima é sexy... Eu acho que preciso comprar uma dessas."
+    buyer "Ela é tão única! E esse conjunto de roupas íntima é sexy... Eu acho que preciso comprar uma dessas."
 
 # game/script.rpy:23626
 translate pt_br botbot_dbc0669e:
@@ -56752,7 +56752,7 @@ translate pt_br botmar3_0505a1f0:
 translate pt_br botmar3_c2f311d6:
 
     # bot "Gggh! Where are you hitting?" with ssshake
-    bot "Gggh! Aonde você está batendo?" with ssshake
+    bot "Gggh!ondevocê está batendo?" with ssshake
 
 # game/script.rpy:24232
 translate pt_br botmar3_7a52d9aa:
@@ -57850,7 +57850,7 @@ translate pt_br botsink_b4a97cb9:
 translate pt_br botsink_2c81f902:
 
     # c "Do you know where [botname] is?"
-    c "Você sabe aonde [botname] está?"
+    c "Você sabeonde[botname] está?"
 
 # game/script.rpy:24606
 translate pt_br botsink_3b2ab187:
@@ -58126,7 +58126,7 @@ translate pt_br botcity_32ce1d18:
 translate pt_br botcity_0885f60d:
 
     # bot "Let's see... Where to go... Where to go..."
-    bot "Vamos ver... Aonde ir... Aonde ir..."
+    bot "Vamos ver...ondeir...ondeir..."
 
 # game/script.rpy:24687
 translate pt_br botcity_12e9cbe0:
@@ -58318,7 +58318,7 @@ translate pt_br botcity_61b111a0:
 translate pt_br botcity_6165536d:
 
     # bot "Ummm... Where do I change clothes?"
-    bot "Hummm... Aonde eu posso trocar de fantasia?"
+    bot "Hummm...onde eu posso trocar de roupa?"
 
 # game/script.rpy:24734
 translate pt_br botcity_5b5cc78f:
@@ -58462,7 +58462,7 @@ translate pt_br botvirginkiller_55266047:
 translate pt_br botvirginkiller_4cfab095:
 
     # bot "This was so fun [botown]! And I even got a new outfit! Thank you so much!"
-    bot "Isso foi muito divertido [botown]! E eu consegui até uma fantasia nova! Muito obrigada!"
+    bot "Isso foi muito divertido [botown]! E eu consegui até um conjunto de roupas novo! Muito obrigada!"
 
 # game/script.rpy:24772
 translate pt_br botvirginkiller_b83f0ddc:
@@ -58492,7 +58492,7 @@ translate pt_br botvirginkiller_d81c936e:
 translate pt_br botvirginkiller_e5cbe0e0:
 
     # "[botname] is overjoyed with her new outfit. She talks on and on about how she can't wait to wear it next..."
-    "[botname] está muito feliz com sua nova fantasia. Ela fala sem parar sobre como mal pode esperar para usá-lo novamente..."
+    "[botname] está muito feliz com seu novo conjunto de roupas. Ela fala sem parar sobre como mal pode esperar para usá-lo novamente..."
 
 # game/script.rpy:24781
 translate pt_br botvirginkiller_69d0019c:
@@ -58732,7 +58732,7 @@ translate pt_br botvirginkiller_55266047_1:
 translate pt_br botvirginkiller_4cfab095_1:
 
     # bot "This was so fun [botown]! And I even got a new outfit! Thank you so much!"
-    bot "Isso foi muito divertido [botown]! E eu consegui até uma fantasia nova! Muito obrigada!"
+    bot "Isso foi muito divertido [botown]! E eu consegui até umo conjunto de roupas nova! Muito obrigada!"
 
 # game/script.rpy:24848
 translate pt_br botvirginkiller_b83f0ddc_1:
@@ -58762,7 +58762,7 @@ translate pt_br botvirginkiller_d81c936e_1:
 translate pt_br botvirginkiller_f68b44d7:
 
     # "[botname] is overjoyed with her new outfit, she had so much fun, she almost forgot about her mask..."
-    "[botname] está muito feliz com sua nova fantasia. Ela fala sem parar sobre como mal pode esperar para usá-lo novamente..."
+    "[botname] está muito feliz com seu novo conjunto de roupas. Ela fala sem parar sobre como mal pode esperar para usá-lo novamente..."
 
 # game/script.rpy:24857
 translate pt_br botvirginkiller_94b412aa:
@@ -59476,7 +59476,7 @@ translate pt_br botspring_b3e12f42:
 translate pt_br botspring_8c9f9573:
 
     # "{i}She seems really confident... It might be fun seeing where this could lead... I could always use a command to restore her personality whenever I want...{/i}"
-    "{i}Ela parece bem confiante... Deve ser divertido ver aonde isso vai dar... De qualuqer jeito eu sempre posso usar o comando para restaurar a personalidade deala...{/i}"
+    "{i}Ela parece bem confiante... Deve ser divertido verondeisso vai dar... De qualuqer jeito eu sempre posso usar o comando para restaurar a personalidade deala...{/i}"
 
 # game/script.rpy:25114
 translate pt_br botspring_7bfae757:
@@ -59986,7 +59986,7 @@ translate pt_br botface_5dfdbcc5:
 translate pt_br botface_af4217c6:
 
     # bot "Thank you for being so understanding [botown]... I feel like this is the beginning of a new chapter in my life. I'm excited to see where things go from here..."
-    bot "Obrigada por me entender [botown]... Eu sinto como se esse fosse o começo de um novo capítulo da minha vida. Eu estou ansiosa para ver aonde as coisas vão a partir daqui..."
+    bot "Obrigada por me entender [botown]... Eu sinto como se esse fosse o começo de um novo capítulo da minha vida. Eu estou ansiosa para verondeas coisas vão a partir daqui..."
 
 # game/script.rpy:25262
 translate pt_br botface_4d75c048:
@@ -60238,7 +60238,7 @@ translate pt_br botcode2_87190326:
 translate pt_br botcode2_239e0e4d:
 
     # bot "I can! I don't know where you are though! What's going on!?"
-    bot "Eu consigo! Mas não sei aonde vocês estão! O que está acontecendo!?"
+    bot "Eu consigo! Mas não seiondevocês estão! O que está acontecendo!?"
 
 # game/script.rpy:25322
 translate pt_br botcode2_12a04698:
@@ -62362,7 +62362,7 @@ translate pt_br cookoff_d5b71bba:
 translate pt_br cookoff_5a7ae24d:
 
     # "Then you move on to [botname]'s pizza. The crust has been seasoned just the right way, the sauce and cheese are both spread incredibly evenly, and the toppings are placed in such a way that no matter where you bite, you receive the same amount of toppings."
-    "E então você vai para a pizza de [botname]. A crosta foi temperada da maneira certa, o molho e o queijo são espalhados de forma incrivelmente uniforme, e as coberturas foram colocadas de uma maneira que não importa aonde você morda, você receba a a mesma quantidade de coberturas."
+    "E então você vai para a pizza de [botname]. A crosta foi temperada da maneira certa, o molho e o queijo são espalhados de forma incrivelmente uniforme, e as coberturas foram colocadas de uma maneira que não importaondevocê morda, você receba a a mesma quantidade de coberturas."
 
 # game/script.rpy:25938
 translate pt_br cookoff_639e8262:
@@ -64066,7 +64066,7 @@ translate pt_br botcommand_693b34ca:
 translate pt_br botcommand_89a7d3df:
 
     # c "I'm looking for a manual for [botname], do you know where it is?"
-    c "Eu estou procurando por um manual para [botname], você sabe aonde ele está?"
+    c "Eu estou procurando por um manual para [botname], você sabeondeele está?"
 
 # game/script.rpy:26351
 translate pt_br botcommand_252d2f0d:
@@ -64768,7 +64768,7 @@ translate pt_br botsobbing_ff30c38a:
 translate pt_br botsobbing_cc50687e:
 
     # c "I have to get back to work now, but let me know if there's anything you need. You know how to reach me."
-    c "Eu preciso voltar a trabalhar agora, mas me avise se tiver alguma coisa que você precise. Você sabe aonde me achar."
+    c "Eu preciso voltar a trabalhar agora, mas me avise se tiver alguma coisa que você precise. Você sabeondeme achar."
 
 # game/script.rpy:26521
 translate pt_br botsobbing_964bc7a2:
@@ -65086,7 +65086,7 @@ translate pt_br botfamily_6bb8ee60:
 translate pt_br botfamily_73c877e3:
 
     # k "But your frame is like 30 years old, right? Where have you been all this time?"
-    k "Mas a sua estrutura jaá tem uns 30 anos, não é? Aonde você esteve durante todo esse tempo?"
+    k "Mas a sua estrutura jaá tem uns 30 anos, não é?ondevocê esteve durante todo esse tempo?"
 
 # game/script.rpy:26587
 translate pt_br botfamily_b752b3d7:
@@ -66184,7 +66184,7 @@ translate pt_br botoutfits_819e70fc_1:
 translate pt_br botoutfits_aa188f6f:
 
     # c "See you later."
-    c "Te vejo depois."
+    c "Nos vemos depois."
 
 # game/script.rpy:27367
 translate pt_br botoutfits_147e355f:
@@ -66208,7 +66208,7 @@ translate pt_br botcafefirst_9e94498e:
 translate pt_br botcafefirst_e78f557e:
 
     # c "It's a place where people eat and drink."
-    c "É um lugar aonde as pessosa comeme e bebem."
+    c "É um lugarondeas pessosa comeme e bebem."
 
 # game/script.rpy:27395
 translate pt_br botcafefirst_a09fc277:
@@ -66256,7 +66256,7 @@ translate pt_br botcafefirst_7faa9791:
 translate pt_br botcafefirst_831a3aea:
 
     # bot "Of course they are! That's where d- ... {size=-10}{i}that's where dicks go...{/i}{/size}"
-    bot "Mas é claro que são! É lá aonde os p- ... {size=-10}{i}é lá aonde os paus vão...{/i}{/size}"
+    bot "Mas é claro que são! É láondeos p- ... {size=-10}{i}é láondeos paus vão...{/i}{/size}"
 
 # game/script.rpy:27405
 translate pt_br botcafefirst_b3befea0:
@@ -66304,7 +66304,7 @@ translate pt_br botcafefirst_97e44d34:
 translate pt_br botcafefirst_56da8541:
 
     # c "So you're saying your mask is basicially underwear?"
-    c "Então você está dizendo que basicamente a sua máscara é uma fantasia íntima?"
+    c "Então você está dizendo que basicamente a sua máscara é uma roupa íntima?"
 
 # game/script.rpy:27415
 translate pt_br botcafefirst_6e7369a4:
@@ -66640,7 +66640,7 @@ translate pt_br botcafelewd_dcb0a7c9_2:
 translate pt_br botcafelewd_522759a8:
 
     # bot "Milk? Where would you..."
-    bot "Leite? Aonde você..."
+    bot "Leite?ondevocê..."
 
 # game/script.rpy:27579
 translate pt_br botcafelewd_99800477:
@@ -66808,7 +66808,7 @@ translate pt_br botserve_75fe983e:
 translate pt_br botserve_2c54b566:
 
     # bot "This outfit is strange..."
-    bot "Essa fantasia é estranha..."
+    bot "Esse conjunto de roupas é estranho..."
 
 # game/script.rpy:27653
 translate pt_br botserve_9fc17afb:
@@ -66844,7 +66844,7 @@ translate pt_br botserve_dfb64299:
 translate pt_br botserve_caa1af7a:
 
     # by "Wow! Thank you! I like these new outfits they're giving the waitress'"
-    by "Uau! Obrigado! Eu gostei dessas fantasias novas que eles estão dando para as garçonetes"
+    by "Uau! Obrigado! Eu gostei desses conjunto de roupas novas que eles estão dando para as garçonetes"
 
 # game/script.rpy:27663
 translate pt_br botserve_14d9c968:
@@ -69184,7 +69184,7 @@ translate pt_br elq_f88a0333:
 translate pt_br bdsmroom_3bd818ce:
 
     # c "I should buy Lin's Bondage Set..."
-    c "Eu deveria comprar o Conjunto de Bondage da Lin..."
+    c "Eu deveria comprar o conjunto de roupas de Bondage da Lin..."
 
 # game/script.rpy:28487
 translate pt_br bdsmroom_fc3fe0d1:
@@ -69526,7 +69526,7 @@ translate pt_br bdsmgirls_60b029e3:
 translate pt_br bdsmgirls_c6b3b829:
 
     # "I need to buy her rope outfit first."
-    "Eu preciso comprar a fantasia de cordas dela primeiro."
+    "Eu preciso comprar o conjunto de roupas de cordas dela primeiro."
 
 # game/script.rpy:28630
 translate pt_br bdsmgirls_3e7c4874:
@@ -69676,7 +69676,7 @@ translate pt_br bdsmgirls_eddbd324:
 translate pt_br bdsmgirls_c6b3b829_1:
 
     # "I need to buy her rope outfit first."
-    "Eu preciso comprar a fantasia de corda dela primeiro."
+    "Eu preciso comprar o conjunto de roupas de corda dela primeiro."
 
 # game/script.rpy:28692
 translate pt_br bdsmgirls_62cd3c65:
@@ -69808,7 +69808,7 @@ translate pt_br bdsmgirls_66146564:
 translate pt_br bdsmgirls_c6b3b829_2:
 
     # "I need to buy her rope outfit first."
-    "Eu preciso comprar a fantasia de corda dela primeiro."
+    "Eu preciso comprar o conjunto de roupas de corda dela primeiro."
 
 # game/script.rpy:28763
 translate pt_br bdsmgirls_c4023934:
@@ -69946,7 +69946,7 @@ translate pt_br bdsmgirls_e3cdd961_2:
 translate pt_br bdsmgirls_6cad4c4b:
 
     # "I need to buy her submission set first."
-    "Eu preciso comprar a fantasia de submissão dela primeiro."
+    "Eu preciso comprar o conjunto de roupas de submissão dela primeiro."
 
 # game/script.rpy:28824
 translate pt_br bdsmgirls_f440fbf2:
@@ -70072,13 +70072,13 @@ translate pt_br bdsmgirls_4929df3b:
 translate pt_br bdsmgirls_68836981:
 
     # bot "You undress [botname], and give her the rope set to put on..."
-    bot "Você tira as roupas de [botname], e dá para ela o conjunto de cordas para vestir..."
+    bot "Você tira as roupas de [botname], e dá para ela o conjunto de roupas de cordas para vestir..."
 
 # game/script.rpy:28874
 translate pt_br bdsmgirls_3b80352e:
 
     # bot "This is a weird outfit, I kind of like it!"
-    bot "Essa fantasia é estranha, eu até que gostei dela!"
+    bot "Esse conjunto de roupas é estranha, eu até que gostei dela!"
 
 # game/script.rpy:28879
 translate pt_br bdsmgirls_6e56b9c6:
@@ -70582,7 +70582,7 @@ translate pt_br botbdsm_836e3302_1:
 translate pt_br botbdsm_fb4e9fa4:
 
     # c "Put on your catgirl outfit. I'm going to fuck you right there."
-    c "Coloque a sua fantasia de gatinha. Eu vou foder você aí mesmo."
+    c "Vista o seu conjunto de roupas de gatinha. Eu vou foder você aí mesmo."
 
 # game/script.rpy:29153
 translate pt_br botbdsm_f51f9319:
@@ -70600,7 +70600,7 @@ translate pt_br botbdsm_cd2f0913:
 translate pt_br botbdsm_fb4e9fa4_1:
 
     # c "Put on your catgirl outfit. I'm going to fuck you right there."
-    c "Coloque a sua fantasia de gatinha. Eu vou foder você aí mesmo."
+    c "Vista o seu conjunto de roupas de gatinha. Eu vou foder você aí mesmo."
 
 # game/script.rpy:29162
 translate pt_br botbdsm_9fe08ddf_1:
@@ -70624,7 +70624,7 @@ translate pt_br botbdsm_836e3302_2:
 translate pt_br botbdsm_dfd0a07f:
 
     # c "Put on your cow girl outfit. I'm going to fuck you from behind."
-    c "Ponha a sua fantasia de vaca. Eu vou foder você por trás."
+    c "Vista o seu conjunto de roupas de vaca. Eu vou foder você por trás."
 
 # game/script.rpy:29177
 translate pt_br botbdsm_8ac05a0a:
@@ -70642,7 +70642,7 @@ translate pt_br botbdsm_cb512949:
 translate pt_br botbdsm_dfd0a07f_1:
 
     # c "Put on your cow girl outfit. I'm going to fuck you from behind."
-    c "Ponha a sua fantasia de vaca. Eu vou foder você por trás."
+    c "Vista o seu conjunto de roupas de vaca. Eu vou foder você por trás."
 
 # game/script.rpy:29186
 translate pt_br botbdsm_9fe08ddf_2:
@@ -71351,7 +71351,7 @@ translate pt_br botcatsf_80278e85:
 translate pt_br botbcm_ac2d1f6e:
 
     # "[botname] strips from her clothes, and puts on her cow girl outfit."
-    "[botname] tira as roupas, e põe a fantasia de vaca."
+    "[botname] tira as roupas, e põe o conjunto de roupas de vaca."
 
 # game/script.rpy:29444
 translate pt_br botbcm_fe347b33:
@@ -72185,7 +72185,7 @@ translate pt_br botbpunish_32ef6c5a:
 translate pt_br botbpunish_e92e425e:
 
     # c "Put on your cat outfit. I'm going to spank you."
-    c "Ponha a sua fantasia de gata. Eu vou bater enm você."
+    c "Vista o seu conjunto de roupas de gatinha. Eu vou bater enm você."
 
 # game/script.rpy:29835
 translate pt_br botbpunish_010e4eca:
@@ -72203,7 +72203,7 @@ translate pt_br botbpunish_26e98cc0:
 translate pt_br botbpunish_521322cd:
 
     # c "Put on your cow outfit. I'm going to milk you."
-    c "Ponha a sua fantasia de vaca. Eu vou te ordenhar de você."
+    c "Vista o seu conjunto de roupas de vaca. Eu vou te ordenhar de você."
 
 # game/script.rpy:29843
 translate pt_br botbpunish_39f8a18c:
@@ -72977,7 +72977,7 @@ translate pt_br marbhandy_1de4b9f5:
 translate pt_br marbhandy_bb9952f8:
 
     # m "Fantasizing about being coated in your cum makes me so wet..."
-    m "A fantasia de ser coberta pelo seu gozo me deixa tão molhadinha..."
+    m "o conjunto de roupas de ser coberta pelo seu gozo me deixa tão molhadinha..."
 
 # game/script.rpy:30186
 translate pt_br marbhandy_4e571cb4:
@@ -73493,7 +73493,7 @@ translate pt_br marbgspot_af018fec:
 translate pt_br marbgspot_cc8b75ad:
 
     # m "Ah!? What? Where did you go!? Put your cock back in!"
-    m "Ah!? O quê? Aonde você foi!? Coloque o seu pau de volta!"
+    m "Ah!? O quê?ondevocê foi!? Vista o seu pau de volta!"
 
 # game/script.rpy:30378
 translate pt_br marbgspot_77b6489e:
@@ -76247,7 +76247,7 @@ translate pt_br afbdsm_1ef18081:
 translate pt_br afbdsm_9d0d6b9b:
 
     # "You tell Ashley to sit down on the bed. You make her strip her clothes and put on the rope outfit."
-    "Você diz para Ashley se sentar na cama. Você a faz tirar a roupa e vestir a fantasia de corda."
+    "Você diz para Ashley se sentar na cama. Você a faz tirar a roupa e vestir o conjunto de roupas de corda."
 
 # game/script.rpy:31561
 translate pt_br afbdsm_bb2ad8c7:
@@ -77429,325 +77429,325 @@ translate pt_br laundryroom_2222f31b:
 translate pt_br laundryroom_4007d25f:
 
     # a "W-What...? No! [name] wouldn't let you stay here!"
-    a ""
+    a "O-O quê...? Não! O [name] não deixaria vocês ficarem aqui!"
 
 # game/script.rpy:32001
 translate pt_br laundryroom_adcf3caf:
 
     # em "Sorry..."
-    em ""
+    em "Nós sentimos muito..."
 
 # game/script.rpy:32003
 translate pt_br laundryroom_cdb2fd19:
 
     # a "Just get out of here! I need to pick up my clothes!"
-    a ""
+    a "Só vão embora daqui! Eu preciso pegar as minhas roupas!"
 
 # game/script.rpy:32004
 translate pt_br laundryroom_88ca7b35:
 
     # f "Fine, our clothes are being washed anyway... Or dried? Whatever, we'll let you change your clothes..."
-    f ""
+    f "Certo, nossas roupas estão sendo lavadas de qualquer maneira... Ou secas?  Não importa, vamos deixar você se trocar..."
 
 # game/script.rpy:32005
 translate pt_br laundryroom_2b4e9a5c:
 
     # em "Just watch your back... You never know who's taking pictures of you these days..."
-    em ""
+    em "Só fique esperta...  Hoje em dia, nunca se sabe quem está tirando fotos de você..."
 
 # game/script.rpy:32020
 translate pt_br laundryroom_87e95a4e:
 
     # a "Grrr... Lin where are my clothes!? I'm going to be late for school!"
-    a ""
+    a "Grrr... Lin, onde estão as minhas roupas!? Eu vou me atrasar para a escola!"
 
 # game/script.rpy:32021
 translate pt_br laundryroom_b87aee4e:
 
     # l "I'm sorry, they're still drying..."
-    l ""
+    l "Eu sinto muito, elas ainda estão secando..."
 
 # game/script.rpy:32022
 translate pt_br laundryroom_c6a28945:
 
     # a "I can't be late! Use your Elf magic and dry them faster!"
-    a ""
+    a "Eu não posso me atrasar! Use a sua magia de Elfo e seque-as mais rápido!"
 
 # game/script.rpy:32024
 translate pt_br laundryroom_39e2f317:
 
     # l "Magic...? I don't think you understand what an Elf is..."
-    l ""
+    l "Magia...? Eu acho que você não entende o que é um Elfo..."
 
 # game/script.rpy:32026
 translate pt_br laundryroom_e6746308:
 
     # a "[name]! You need to do something! I think your slave is broken..."
-    a ""
+    a "[name]! Você precisa fazer alguma coisa! Eu acho que a sua escrava está com defeito..."
 
 # game/script.rpy:32027
 translate pt_br laundryroom_2313249e:
 
     # l "I'm not broken... Humans just invent things so fast I don't even get a chance to learn them!"
-    l ""
+    l "Eu não estou com defeito... Os humanos só inventam as coisas tão rápido que nem tenho a chance de aprendê-las."
 
 # game/script.rpy:32029
 translate pt_br laundryroom_4650d498:
 
     # l "I got it! My mother taught me a quick way to sun dry clothes! It could be done in a couple of minutes! Be right back!"
-    l ""
+    l "Já sei! A minha mãe me ensinou um jeito rápido de secar roupas ao sol! Isso pode ser feito em alguns minutos! Eu volto já!"
 
 # game/script.rpy:32031
 translate pt_br laundryroom_78350180:
 
     # a "Elf magic..."
-    a ""
+    a "Magia de Elfo..."
 
 # game/script.rpy:32033
 translate pt_br laundryroom_6c6a88fc:
 
     # "You and Ashley decide to talk while Lin sun dries the clothes..."
-    ""
+    "Você e Ashley decidem conversar enquanto Lin seca as roupas..."
 
 # game/script.rpy:32035
 translate pt_br laundryroom_e6d9c1b8:
 
     # a "I guess it's pretty cool to have an elf as a maid."
-    a ""
+    a "Imagino que seja bem legal ter uma Elfa como empregada."
 
 # game/script.rpy:32036
 translate pt_br laundryroom_abed6b91:
 
     # a "But she's not really a good one is she? Hehe..."
-    a ""
+    a "Mas ela não é muito boa no que faz, não é mesmo? Hehe..."
 
 # game/script.rpy:32038
 translate pt_br laundryroom_a5cbb5d9:
 
     # a "I don't understand... Why do you keep her around? It's not like she's good at her job or anything..."
-    a ""
+    a "Eu não entendo... Por que manter ela por perto? Não é como se ela fosse bom no trabalho dela ou algo assim..."
 
 # game/script.rpy:32040
 translate pt_br laundryroom_a8d7595d:
 
     # a "Oh! I bet I know why!"
-    a ""
+    a "Ah! Aposto que sei o porquê!"
 
 # game/script.rpy:32042
 translate pt_br laundryroom_8535962a:
 
     # a "She sucks your cock right? I bet she does..."
-    a ""
+    a "Ela chupa o seu pau, né? Eu aposto que sim...."
 
 # game/script.rpy:32044
 translate pt_br laundryroom_5bd96309:
 
     # a "I bet you only let her stay here because she's your little slut, and you use her every day."
-    a ""
+    a "Eu aposto que você só deixa ela ficar aqui porque ela é a sua putinha, e você usa ela todo dia."
 
 # game/script.rpy:32046
 translate pt_br laundryroom_e0beff90:
 
     # a "I'm right, right? That's the only possible explanation!"
-    a ""
+    a "Eu estou certa, não estou? É a única explicação possível!"
 
 # game/script.rpy:32048
 translate pt_br laundryroom_b065f285:
 
     # l "I'm back!"
-    l ""
+    l "Estou de volta!"
 
 # game/script.rpy:32049
 translate pt_br laundryroom_1bc7b316:
 
     # l "Your clothes are dry, Ashley."
-    l ""
+    l "As suas roupas estão secas, Ashley."
 
 # game/script.rpy:32051
 translate pt_br laundryroom_08dd5d49:
 
     # a "Wow! Thanks Lin!"
-    a ""
+    a "Uau! Obrigada, Lin!"
 
 # game/script.rpy:32052
 translate pt_br laundryroom_35afc6d3:
 
     # l "I think you owe me an apology Ashley."
-    l ""
+    l "Eu acho que você me deve um pedido de desculpas, Ashley."
 
 # game/script.rpy:32053
 translate pt_br laundryroom_3f1cbd15:
 
     # a "Nope! See ya [name]! See ya slut!"
-    a ""
+    a "Eu não! Até mais, [name]! Até mais, puta!"
 
 # game/script.rpy:32055
 translate pt_br laundryroom_07f9f9e3:
 
     # l "W-What!?"
-    l ""
+    l "O-O quê!?"
 
 # game/script.rpy:32057
 translate pt_br laundryroom_82822a0c:
 
     # l "..."
-    l ""
+    l "..."
 
 # game/script.rpy:32058
 translate pt_br laundryroom_06c7cd49:
 
     # l "She just called me a slut..."
-    l ""
+    l "Ela acabou de me chamar de puta..."
 
 # game/script.rpy:32066
 translate pt_br laundryroom_24b351a0:
 
     # e "Lin, dear? Could you put my clothes in the wash? I spilled some coffee on myself..."
-    e ""
+    e "Lin, querida? Você poderia colocar as minhas roupas na máquina de lavar? Eu derramei café em mim mesma..."
 
 # game/script.rpy:32067
 translate pt_br laundryroom_2e88acd8:
 
     # l "Sure! I can do that!"
-    l ""
+    l "Claro, eu posso fazer isso!"
 
 # game/script.rpy:32068
 translate pt_br laundryroom_d8d2caa4:
 
     # e "Great! One moment please, I'll change my clothes."
-    e ""
+    e "Ótimo! Um momento, por favor, eu vou trocar de roupa."
 
 # game/script.rpy:32069
 translate pt_br laundryroom_978e1d99:
 
     # l "Okay!"
-    l ""
+    l "Tudo bem!"
 
 # game/script.rpy:32071
 translate pt_br laundryroom_3989edf3:
 
     # l "Oh, hello [linoname], do you need your clothes washed?"
-    l ""
+    l "Ah, olá [linoname], você quer que eu lave suas roupas?"
 
 # game/script.rpy:32072
 translate pt_br laundryroom_4292c7a0:
 
     # c "No, I'm just checking around."
-    c ""
+    c "Não, eu só estou dando uma olhada."
 
 # game/script.rpy:32073
 translate pt_br laundryroom_041aca24:
 
     # l "Oh okay!"
-    l ""
+    l "Ah, tudo bem!"
 
 # game/script.rpy:32075
 translate pt_br laundryroom_cd354372:
 
     # e "Alright, my clothes are in the bin. Have them washed by noon, okay?"
-    e ""
+    e "Muito bem, as minhas roupas estão no cesto. Lave-as até o meio-dia, está bem?"
 
 # game/script.rpy:32076
 translate pt_br laundryroom_8a320533:
 
     # l "E-Ellen! W-What are you wearing!?"
-    l ""
+    l "E-Ellen! o O que você está vestindo!?"
 
 # game/script.rpy:32078
 translate pt_br laundryroom_6f4866f3:
 
     # e "My clothes are dirty, dear. And I'm not about to go walking around nude..."
-    e ""
+    e "As minhas roupas estão sujas, querida. E eu não vou andar por aí nua..."
 
 # game/script.rpy:32080
 translate pt_br laundryroom_9c088dbf:
 
     # e "Oh, [name], how are you? Are you enjoying yourself?"
-    e ""
+    e "Ah, [name], como você está? Você está se divertindo?"
 
 # game/script.rpy:32081
 translate pt_br laundryroom_bfec1673:
 
     # l "{i}{size=-10}How did her breasts get so big!?{/size}{/i}"
-    l ""
+    l "{i}{size=-10}Como foi que os peitos dela ficaram tão grandes!?{/size}{/i}"
 
 # game/script.rpy:32082
 translate pt_br laundryroom_51c8989e:
 
     # c "I am..."
-    c ""
+    c "Eu estou..."
 
 # game/script.rpy:32084
 translate pt_br laundryroom_efe360ec:
 
     # e "Oh, you poor thing... it looks like you're pitching a tent..."
-    e ""
+    e "Ah, coitadinho... parece que você está montando uma barraca..."
 
 # game/script.rpy:32086
 translate pt_br laundryroom_b8dde989:
 
     # e "Did this skimpy outfit do that to you? I'm so sorry..."
-    e ""
+    e "Foram essas roupas curtas que fizeram isso com você? Eu sinto muitíssimo..."
 
 # game/script.rpy:32087
 translate pt_br laundryroom_4d387e55:
 
     # e "Don't worry, Lin should be able to take care of that for you."
-    e ""
+    e "Não se preocupe, a Lin deve ser capaz de cuidar disso para você."
 
 # game/script.rpy:32089
 translate pt_br laundryroom_07f9f9e3_1:
 
     # l "W-What!?"
-    l ""
+    l "O-O quê!?"
 
 # game/script.rpy:32090
 translate pt_br laundryroom_f7ae842b:
 
     # e "That's why you're here dear... To take care of your [linoname]."
-    e ""
+    e "É para isso que você está aqui, querida... Para cuidar do seu [linoname]."
 
 # game/script.rpy:32092
 translate pt_br laundryroom_fbc3b97b:
 
     # l "You want me to... I... I don't know! I'm still processing your outfit!"
-    l ""
+    l "Você quer que eu... Eu... Eu não sei... Eu ainda estou processando as suas roupas."
 
 # game/script.rpy:32094
 translate pt_br laundryroom_42cb9479:
 
     # e "*sigh* Oh well. Better luck next time?"
-    e ""
+    e "*ufa* Bem. Mais sorte na próxima?"
 
 # game/script.rpy:32095
 translate pt_br laundryroom_7947dfee:
 
     # e "I guess this little outfit is a bit shocking..."
-    e ""
+    e "Eu acho que essas roupas curtas são um pouco chocantes..."
 
 # game/script.rpy:32096
 translate pt_br laundryroom_7592e1a1:
 
     # c "It's definitely something."
-    c ""
+    c "É mesmo."
 
 # game/script.rpy:32098
 translate pt_br laundryroom_4573ecbe:
 
     # e "Well, don't forget dear, make sure it's ready by noon."
-    e ""
+    e "Bem, não se esqueça, querida, certifique-se de que estejam prontas ao meio-dia."
 
 # game/script.rpy:32099
 translate pt_br laundryroom_4481f06d:
 
     # l "Y-Yes ma'am..."
-    l ""
+    l "S-Sim, senhora..."
 
 # game/script.rpy:32101
 translate pt_br laundryroom_cf28a35e:
 
     # e "Have a good day, [name]."
-    e ""
+    e "Tenha um bom dia, [name]."
 
 # game/script.rpy:32141
 translate pt_br talk_fairies_79a1d0ca:
