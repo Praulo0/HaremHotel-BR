@@ -77753,121 +77753,121 @@ translate pt_br laundryroom_cf28a35e:
 translate pt_br talk_fairies_79a1d0ca:
 
     # gfair "Hello there."
-    gfair ""
+    gfair "Olá você."
 
 # game/script.rpy:32142
 translate pt_br talk_fairies_a94e47c0:
 
     # c "How is your sister?"
-    c ""
+    c "Como está a sua irmã?"
 
 # game/script.rpy:32143
 translate pt_br talk_fairies_03e5855b:
 
     # rfair "She's fine."
-    rfair ""
+    rfair "Ela está bem."
 
 # game/script.rpy:32279
 translate pt_br mailorder_a34b7d76:
 
     # "Peni is ready to be picked up."
-    ""
+    "Peni está pronta para ser buscada."
 
 # game/script.rpy:32283
 translate pt_br mailorder_cf47132c:
 
     # "Nia is ready to be picked up."
-    ""
+    "Nia está pronta para ser buscada."
 
 # game/script.rpy:32286
 translate pt_br mailorder_82fb9659:
 
     # "Sylvia is ready to be picked up."
-    ""
+    "Sylvia está pronta para ser buscada."
 
 # game/script.rpy:32289
 translate pt_br mailorder_7566c27c:
 
     # "Ann is ready to be picked up."
-    ""
+    "Ann está pronta para ser buscada."
 
 # game/script.rpy:32292
 translate pt_br mailorder_43584332:
 
     # mail "Your mail has arrived! Packages have been left at the front door."
-    mail ""
+    mail "Sua correspondência chegou! Os pacotes foram deixados na porta da frente."
 
 # game/script.rpy:32302
 translate pt_br weekly_a38d5e8b:
 
     # wr "Your bar's Weekly Report is in!"
-    wr ""
+    wr "O relatório semanal de seu bar já chegou!"
 
 # game/script.rpy:32320
 translate pt_br weekly_24d64e11:
 
     # wr "Profits are in! Your bar is said to be one of the best in town! Your bar seated [bpatron4] patrons, earning you $[patronmoney]!"
-    wr ""
+    wr "Os lucros chegaram! Dizem que seu bar é um dos melhores da cidade! Seu bar acomodou [bpatron4] clientes, rendendo a você $[patronmoney]!"
 
 # game/script.rpy:32328
 translate pt_br weekly_5b24649d:
 
     # wr "Profits are in! Your bar is said to be one of the best in town! Your bar seated [bpatron3] patrons, earning you $[patronmoney]!"
-    wr ""
+    wr "Os lucros chegaram! Dizem que seu bar é um dos melhores da cidade! Seu bar acomodou [bpatron3] clientes, rendendo a você $[patronmoney]!"
 
 # game/script.rpy:32336
 translate pt_br weekly_451eb6dc:
 
     # wr "Profits are in! With such a wide variety of drinks, your bar seated [bpatron2] patrons, earning you $[patronmoney]!"
-    wr ""
+    wr "Os lucros chegaram! Com uma variedade tão grande de bebidas, seu bar acomodou [bpatron2] clientes, rendendo a você $[patronmoney]!"
 
 # game/script.rpy:32344
 translate pt_br weekly_d783ff9f:
 
     # wr "Profits are in! While your range of drinks are limited, your bar seated [bpatron1] patrons, earning you $[patronmoney]!"
-    wr ""
+    wr "Os lucros chegaram! Embora sua variedade de bebidas seja limitada, seu bar acomodou [bpatron1] cliente, rendendo a você $[patronmoney]!"
 
 # game/script.rpy:32350
 translate pt_br weekly_a2e10e9f:
 
     # wr "Unfortunately... The cost of running the bar outweighed profits. You lost $[patronmoney]..."
-    wr ""
+    wr "Infelizmente... O custo de funcionamento do bar superou os lucros. Você perdeu $[patronmoney]..."
 
 # game/script.rpy:32361
 translate pt_br weekly_8597cec7:
 
     # wr "While your advertisements definitely brought in many patrons, your Cell Phone advertisements proved to be unprofitable this week. You lost a total of $5 through this week's failed advertisements..."
-    wr ""
+    wr "Embora seus anúncios tenham atraído muitos clientes, os anúncios de celular não foram lucrativos nesta semana. Você perdeu um total de $5 com os anúncios fracassados desta semana..."
 
 # game/script.rpy:32364
 translate pt_br weekly_bdce4f45:
 
-    # wr "While your advertisements definitely brought in many patrons, your TV advertisements proved to be unprofitable this week. You lost a total of $20 through this week's failed advertisements..."
-    wr ""
+    # wr "Embora seus anúncios definitivamente tenham atraído muitos clientes, seus anúncios na TV não foram lucrativos esta semana. Você perdeu um total de US$ 20 com os anúncios fracassados desta semana..."
+    wr "Embora seus anúncios definitivamente tenham atraído muitos clientes, seus anúncios na TV não foram lucrativos esta semana. Você perdeu um total de $20 com os anúncios fracassados desta semana..."
 
 # game/script.rpy:32367
 translate pt_br weekly_eacd4f7b:
 
     # wr "While your advertisements definitely brought in many patrons, your Billboard advertisements proved to be unprofitable this week. You lost a total of $50 through this week's failed advertisements..."
-    wr ""
+    wr "Embora seus anúncios tenham atraído muitos clientes, os anúncios em outdoors não foram lucrativos nesta semana. Você perdeu um total de $50 com os anúncios fracassados desta semana..."
 
 # game/script.rpy:32371
 translate pt_br weekly_93fecefe:
 
     # wr "Advertisements have been profitable! Your Cell Phone advertisements brought you an additional $20. Making the total income gained $270!"
-    wr ""
+    wr "Os anúncios têm sido lucrativos! Seus anúncios no celular te renderam um adicional de $20. Com isso, o rendimento total foi de $270!"
 
 # game/script.rpy:32374
 translate pt_br weekly_1df63458:
 
     # wr "Advertisements have been profitable! Your TV advertisements brought you an additional $50. Making the total income gained $650!"
-    wr ""
+    wr "Os anúncios têm sido lucrativos! Seus anúncios de TV te renderam um adicional de $50. Com isso, o rendimento total foi de $650!"
 
 # game/script.rpy:32377
 translate pt_br weekly_39b38a31:
 
     # wr "Advertisements have been profitable! Your Billboard advertisements brought you an additional $100. Making the total income gained $1100!"
-    wr ""
+    wr "Os anúncios têm sido lucrativos! Seus anúncios em outdoors te renderam um adicional de $100. Com isso, o rendimento total foi de $1100!"
 
 # game/script.rpy:32381
 translate pt_br weekly_aa9f399c:
