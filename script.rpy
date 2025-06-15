@@ -3714,7 +3714,7 @@ translate pt_br sportsmenu_885254ba:
 translate pt_br sportsmenu_22936f84:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e "Parabéns! Nós estamos ofeicialmente preparados para o Dia de Esportes!"
+    e "Parabéns! Nós estamos ofeicialmente preparados para o dia do esporte!"
 
 # game/script.rpy:3535
 translate pt_br sportsmenu_e97a16f4:
@@ -3774,7 +3774,7 @@ translate pt_br sportsmenu_c1ace87f:
 translate pt_br sportsmenu_22936f84_1:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
+    e "Parabéns! Nós estamos oficialmente preparados para o dia do esporte!"
 
 # game/script.rpy:3568
 translate pt_br sportsmenu_e97a16f4_1:
@@ -3810,7 +3810,7 @@ translate pt_br sportsmenu_01d49e87:
 translate pt_br sportsmenu_22936f84_2:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
+    e "Parabéns! Nós estamos oficialmente preparados para o dia do esporte!"
 
 # game/script.rpy:3590
 translate pt_br sportsmenu_e97a16f4_2:
@@ -3846,7 +3846,7 @@ translate pt_br sportsmenu_6b7f6efb:
 translate pt_br sportsmenu_22936f84_3:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
+    e "Parabéns! Nós estamos oficialmente preparados para o dia do esporte!"
 
 # game/script.rpy:3612
 translate pt_br sportsmenu_e97a16f4_3:
@@ -3882,7 +3882,7 @@ translate pt_br sportsmenu_9ca1872b:
 translate pt_br sportsmenu_22936f84_4:
 
     # e "Congratulations! We are officially prepared for Sports Day!"
-    e "Parabéns! Nós estamos oficialmente preparados para o Dia de Esportes!"
+    e "Parabéns! Nós estamos oficialmente preparados para o dia do esporte!"
 
 # game/script.rpy:3637
 translate pt_br sportsmenu_e97a16f4_4:
@@ -4680,7 +4680,7 @@ translate pt_br billad_97db9582:
 translate pt_br billad_3e09066e:
 
     # e "Speaking of that, the bar has a variety of upgrades you can purchase. From entertainment like music, to top shelf spirits."
-    e "Falando nisso, o bar possui uma variedade de melhorias que você pode comprar. Desde entretenimento como música, á destilados das melhores marcas servidas. "
+    e "Falando nisso, o bar possui uma variedade de melhorias que você pode comprar. Desde entretenimento como música, aos seus destilados de primeira linha. "
 
 # game/script.rpy:4336
 translate pt_br billad_5e109c46:
@@ -77873,673 +77873,673 @@ translate pt_br weekly_39b38a31:
 translate pt_br weekly_aa9f399c:
 
     # wr "Incredible! Advertisements have been extremely profitable! Your Cell Phone advertisements brought you an additional $50. Making the total income gained $300!"
-    wr ""
+    wr "Incrível! Os anúncios tem sido extremamente lucrativos! O seus anúncios de celular te renderam um adicional de $50. Com isso, o rendimento total foi de $300!"
 
 # game/script.rpy:32384
 translate pt_br weekly_d58bfedc:
 
     # wr "Incredible! Advertisements have been extremely profitable! Your TV advertisements brought you an additional $120. Making the total income gained $720!"
-    wr ""
+    wr "Incrível! Os anúncios tem sido extremamente lucrativos! O seus anúncios de TV te renderam um adicional de $120. Com isso, o rendimento total foi de $720!"
 
 # game/script.rpy:32387
 translate pt_br weekly_d0960ed9:
 
     # wr "Incredible! Advertisements have been extremely profitable! Your Billboard advertisements brought you an additional $250. Making the total income gained $1250!"
-    wr ""
+    wr "Incrível! Os anúncios tem sido extremamente lucrativos! O seus anúncios em outdoors te renderam um adicional de $250. Com isso, o rendimento total foi de $1250!"
 
 # game/script.rpy:32391
 translate pt_br weekly_aa61d008:
 
     # "Continue advertising?"
-    ""
+    "Continuar anunciando?"
 
 # game/script.rpy:32407
 translate pt_br weekly_81cc1982:
 
     # wr "Your first week of promoting sports day has filled quite a lot of seats! Earning you $100!"
-    wr ""
+    wr "A sua primeira semana de promoção do dia do esporte preencheu vários assentos! Você ganhou $100!"
 
 # game/script.rpy:32410
 translate pt_br weekly_5ffc16bf:
 
     # wr "Word seems to be spreading... sports day proved to be quite popular this week! Earning you $200!"
-    wr ""
+    wr "A notícia parece estar se espalhando... o dia do esporte provou ser bastante popular esta semana! Você ganhou $200!"
 
 # game/script.rpy:32413
 translate pt_br weekly_b1aa3a70:
 
     # wr "Why didn't you think of this sooner? Your bar is known far and wide for being a hot spot for sports fans and was packed to the brim during last week's sports day! Earning you $400!"
-    wr ""
+    wr "Por que você não havia pensado nisso antes? Seu bar é conhecido em toda parte por ser um ponto de encontro para fãs de esportes e estava lotado durante o dia do esporte da semana passada! Você gganhou $400!"
 
 # game/script.rpy:32419
 translate pt_br weekly_3aaba389:
 
     # wr "THE SPORTS DAY TOURNEY IS GOING ON! Your advertisements ensured everyone knew where to go to view the Syl'anar Syls in their prime! Your bar was flooded with patrons! Earning you $250!"
-    wr ""
+    wr "O TORNEIO DO DIA DO ESPORTE ESTÁ ACONTECENDO! Seus anúncios garantiram que todos soubessem onde ir para ver os Syl'anar Syls em seu auge!  Seu bar estava lotado de clientes! Você ganhou $250!"
 
 # game/script.rpy:32423
 translate pt_br weekly_faa71e73:
 
     # "Syl'anar won the tournament! Patrons went wild, you could even hear it from your room!"
-    ""
+    "Syl'anar venceu o torneio! Os clientes foram à loucura, dava para ouvir até do seu quarto!"
 
 # game/script.rpy:32426
 translate pt_br weekly_e1bcb69e:
 
     # wr "One patron bought drinks for entire house in honor of the team's star player winning the game for your region! Earning you $100!"
-    wr ""
+    wr "Um cliente comprou bebidas para todos os presentes em homenagem ao jogador estrela do time que venceu o jogo pela sua região Você ganhou $100!"
 
 # game/script.rpy:32429
 translate pt_br weekly_f1f69613:
 
     # wr "The star player of the opponents team fumbled the game winning ball, your patrons couldn't stop buying a round for the whole house multiple times! Earning you $300!"
-    wr ""
+    wr "O principal jogador da equipe adversária deixou cair a bola da vitória, seus clientes não conseguiam parar de comprar uma rodada para toda a casa várias vezes! Você anhou 300$!"
 
 # game/script.rpy:32432
 translate pt_br weekly_d79fbd33:
 
     # wr "In the heat of the moment, the crowd became too rowdy in their celebration of tonight's win... You lost $50."
-    wr ""
+    wr "No calor do momento, a multidão ficou muito barulhenta em sua comemoração da vitória desta noite... Você perdeu $50."
 
 # game/script.rpy:32435
 translate pt_br weekly_f01aa7ec:
 
     # wr "Syl'anar's team lost the tournament... you could hear the angry crowd from your room!"
-    wr ""
+    wr "A equipe de Syl'anar perdeu o torneio... Você podia ouvir a multidão enfurecida do seu quarto!"
 
 # game/script.rpy:32438
 translate pt_br weekly_0f585a22:
 
     # wr "As crying patrons hold each other within their arm's, they drink away their sorrows... Earning you $50!"
-    wr ""
+    wr "Enquanto os clientes chorosos se abraçam, eles bebem para esquecer suas tristezas... Você ganhou $50!"
 
 # game/script.rpy:32441
 translate pt_br weekly_05d1b4ce:
 
     # wr "The angry crowd became too rowdy. Bottles were smashed, glass was stepped on, blame was thrown at the players, and hands were caught... You lost $25."
-    wr ""
+    wr "A multidão enfurecida ficou muito agitada. Garrafas foram quebradas, vidros foram pisoteados, os jogadores foram culpados e mãos foram apanhadas... Você perdeu $25."
 
 # game/script.rpy:32444
 translate pt_br weekly_afe8b39d:
 
     # wr "Syl'anar's star player fumbled the game winning ball! The hotel shook with angry drunk boos and groans."
-    wr ""
+    wr "O principal jogador de Syl'anar deixou cair a bola da vitória! O hotel tremeu com vaias e gemidos de bêbados furiosos."
 
 # game/script.rpy:32445
 translate pt_br weekly_9529d327:
 
     # wr "Chairs were smashed over people's heads, flying bodies crashed over your tables... to be honest, you're lucky nobody died... You lost $100."
-    wr ""
+    wr "Cadeiras foram esmagadas sobre as cabeças das pessoas, corpos voadores caíram sobre suas mesas... para ser honesto, você tem sorte de ninguém ter morrido... Você perdeu $100."
 
 # game/script.rpy:32448
 translate pt_br weekly_589c4b0b:
 
     # wr "The crowd was extremely displeased with tonghts events, some even left without paying! Fortunately, sports day is always popular and you were able to cut even."
-    wr ""
+    wr "O público ficou extremamente insatisfeito com os eventos de hoje, alguns até saíram sem pagar! Felizmente, o dia do esporte é sempre popular e você conseguiu se equilibrar."
 
 # game/script.rpy:32451
 translate pt_br weekly_6e0ba7d3:
 
     # wr "As a result of your investments, sports day brought in a large crowd of engergetic patrons! Earning you $100!"
-    wr ""
+    wr "Como resultado de seus investimentos, o dia esportivo trouxe uma grande multidão de clientes entusiasmados! Você ganhou $100!"
 
 # game/script.rpy:32457
 translate pt_br weekly_62747af3:
 
     # wr "The Caliber Cats, your city's team, won tonights game by a landslide! Patrons enjoyed the night and the amenities you offer. Earning you $50!"
-    wr ""
+    wr "O Caliber Cats, o time da sua cidade, venceu o jogo desta noite com uma vitória esmagadora! Os clientes gostaram da noite e das comodidades que vocês oferecem. Você ganhou $50!"
 
 # game/script.rpy:32460
 translate pt_br weekly_908a2c7b:
 
     # wr "Tonight's game was highly anticipated! Patrons flocked from far and wide, earning you $25!"
-    wr ""
+    wr "O jogo desta noite era muito aguardado! Os clientes vinham de todos os lugares, você ganhou $25!"
 
 # game/script.rpy:32463
 translate pt_br weekly_5416940f:
 
     # wr "This week's game was completely and wholey unexciting. The players looked as if they were chickens running around with their heads off! You lost $25."
-    wr ""
+    wr "O jogo desta semana foi completamente e totalmente sem emoção. Os jogadores pareciam galinhas correndo sem cabeça! Você perdeu $25."
 
 # game/script.rpy:32466
 translate pt_br weekly_93d47c09:
 
     # wr "The Caliber Cat's star player was on fire tonight! Patrons couldn't stop chanting his name! Drinks were had, obscene amounts of nachos were ate, and darts were found in thighs. You gained $25!"
-    wr ""
+    wr "O jogador estrela do Caliber Cat estava em chamas esta noite! Os clientes não paravam de cantar seu nome! Bebidas foram consumidas, quantidades obscenas de nachos foram comidas e dardos foram encontrados nas coxas. Você ganhou $25!"
 
 # game/script.rpy:32469
 translate pt_br weekly_ec361cf9:
 
     # wr "Instead of playing the game, the Caliber Cats were protesting elvish slavery in tonights events. Your patrons were quite displeased... You lost $50."
-    wr ""
+    wr "Em vez de jogar o jogo, os Caliber Cats estavam protestando contra a escravidão élfica nos eventos desta noite. Seus clientes ficaram bastante descontentes... Você perdeu $50."
 
 # game/script.rpy:32472
 translate pt_br weekly_bdab89d7:
 
     # wr "You paid for the whole seat, but you'll only need the edge tonight! Tonight's game was nail biting, patrons were on the edge of their seats the entire evening. Drinks were binge drunk and peanut shells coat the floor like a fresh coat of paint. Earning you $75!"
-    wr ""
+    wr "Você pagou pelo assento inteiro, mas hoje só precisará da borda! O jogo desta noite foi de roer as unhas, os clientes ficaram na ponta de seus assentos a noite toda. As bebidas foram consumidas em excesso e as cascas de amendoim cobriram o chão como uma nova camada de tinta. Você ganhou $75!"
 
 # game/script.rpy:32485
 translate pt_br weekly_956a6aa0:
 
     # wr "Your bar proved to be a relaxing place to hang out. The music caused patrons to become ignorant to the passage of time... earning you $10!"
-    wr ""
+    wr "Seu bar provou ser um lugar relaxante para se estar. A música fez com que os clientes ignorassem a passagem do tempo... você ganhou $10!"
 
 # game/script.rpy:32490
 translate pt_br weekly_7493cf35:
 
     # wr "Your patrons were very disappointed in the lack of music. You lost $10..."
-    wr ""
+    wr "Seus clientes ficaram muito desapontados com a falta de música. Você perdeu $10..."
 
 # game/script.rpy:32497
 translate pt_br weekly_a01076b5:
 
     # wr "Tales were told about your Top Shelf Spirits, resulting in patrons buying expensive drinks, earning you $15!"
-    wr ""
+    wr "Foram contadas histórias sobre seus destilados de primeira linha, o que fez com que os clientes comprassem bebidas caras, o que lhe rendeu"
 
 # game/script.rpy:32504
 translate pt_br weekly_2fc6c78c:
 
     # wr "Due to Moon's lack of training, she broke a lot of bottles. You lost $15..."
-    wr ""
+    wr "Devido a falta de treinamento de Moon, ela quebrou várias garrafas. Você perdeu $15..."
 
 # game/script.rpy:32507
 translate pt_br weekly_00bec859:
 
     # wr "Due to Moon's lack of training, she broke a lot of bottles. You lost $10..."
-    wr ""
+    wr "Devido a falta de treinamento de Moon, ela quebrou várias garrafas. Você perdeu $10..."
 
 # game/script.rpy:32510
 translate pt_br weekly_e7cda871:
 
     # wr "Due to Moon's lack of training, she broke a lot of bottles. You lost $5..."
-    wr ""
+    wr "Devido a falta de treinamento de Moon, ela quebrou várias garrafas. Você perdeu $5..."
 
 # game/script.rpy:32513
 translate pt_br weekly_cbe8ce4c:
 
     # wr "Due to Moon's surplus of training, she was quick and attentive. You gained $10!"
-    wr ""
+    wr "Devido ao excesso de treinamento de Moon, ela foi rápida e atenciosa. Você ganhou $10!"
 
 # game/script.rpy:32522
 translate pt_br weekly_ecbc918c:
 
     # wr "Due to Maria's tutelage, she convinced some patrons to drink more than they probably should have... You gained $10!"
-    wr ""
+    wr "Devido à tutela de Maria, ela convenceu alguns clientes a beber mais do que provavelmente deveriam... Você ganhou $10!"
 
 # game/script.rpy:32525
 translate pt_br weekly_2272e67d:
 
     # wr "Due to Maria's tutelage, she convinced some patrons to drink more than they probably should have... You gained $5!"
-    wr ""
+    wr "Devido à tutela de Maria, ela convenceu alguns clientes a beber mais do que provavelmente deveriam... Você ganhou $5!"
 
 # game/script.rpy:32532
 translate pt_br weekly_0128e919:
 
     # wr "A patron flirted with Maria, resulting in him flashing his wallet around and buying expensive drinks. You gained $10!"
-    wr ""
+    wr "Um cliente flertou com Maria, o que fez com que ele mostrasse sua carteira e comprasse bebidas caras. Você ganhou $10!"
 
 # game/script.rpy:32535
 translate pt_br weekly_7aa5cccc:
 
     # wr "A patron flirted with Maria, resulting in him flashing his wallet around and buying expensive drinks. You gained $5!"
-    wr ""
+    wr "Um cliente flertou com Maria, o que fez com que ele mostrasse sua carteira e comprasse bebidas caras. Você ganhou $5!"
 
 # game/script.rpy:32540
 translate pt_br weekly_694c064b:
 
     # wr "Due to Bart's ignorance, you lost $5..."
-    wr ""
+    wr "Devido à ignorância de Bart, você perdeu $5..."
 
 # game/script.rpy:32546
 translate pt_br weekly_8e4eb663:
 
     # wr "Your bartender was able to come up with a new drink! Patrons rushed in by the masses, earning you $20!"
-    wr ""
+    wr "Seu barman conseguiu criar um novo drinque! Os clientes entraram aos montes, você ganhou $20!"
 
 # game/script.rpy:32553
 translate pt_br weekly_45dced88:
 
     # wr "A bar fight broke out this week, costing you $20 in repairs..."
-    wr ""
+    wr "Uma briga em um bar começou esta semana, custando-lhe $20 em reparos..."
 
 # game/script.rpy:32557
 translate pt_br weekly_45dced88_1:
 
     # wr "A bar fight broke out this week, costing you $20 in repairs..."
-    wr ""
+    wr "Uma briga em um bar começou esta semana, custando-lhe $20 em reparos..."
 
 # game/script.rpy:32564
 translate pt_br weekly_fba334b1:
 
     # wr "Security cameras caught a Patron stealing drinks while the bartender wasn't looking... You lost $15..."
-    wr ""
+    wr "As câmeras de segurança flagraram um cliente roubando bebidas enquanto o barman não estava olhando... Você perdeu $15..."
 
 # game/script.rpy:32567
 translate pt_br weekly_fd3b7026:
 
     # wr "Security cameras caught a Patron stealing drinks while the bartender wasn't looking... You lost $10..."
-    wr ""
+    wr "As câmeras de segurança flagraram um cliente roubando bebidas enquanto o barman não estava olhando... Você perdeu $10..."
 
 # game/script.rpy:32575
 translate pt_br weekly_d9b03236:
 
     # wr "A patron dropped his wallet. You gained $10!"
-    wr ""
+    wr "Um cliente deixou cair sua carteira. Você ganhou $10!"
 
 # game/script.rpy:32579
 translate pt_br weekly_512f5fc6:
 
     # wr "A patron dropped his wallet. You gained $5!"
-    wr ""
+    wr "Um cliente deixou cair sua carteira. Você ganhou $5!"
 
 # game/script.rpy:32661
 translate pt_br weekly_aa61d008_1:
 
     # "Continue advertising?"
-    ""
+    "Continuar anunciando?"
 
 # game/script.rpy:33184
 translate pt_br sleepstuff_3242210e:
 
     # "The Sanctuary is complete!"
-    ""
+    "O Santuário está completo!"
 
 # game/script.rpy:33189
 translate pt_br sleepstuff_f13d4791:
 
     # "Workers have made progress on the new building."
-    ""
+    "Os trabalhadores progrediram na construção do novo prédio."
 
 # game/script.rpy:33192
 translate pt_br sleepstuff_f13d4791_1:
 
     # "Workers have made progress on the new building."
-    ""
+    "Os trabalhadores progrediram na construção do novo prédio."
 
 # game/script.rpy:33195
 translate pt_br sleepstuff_f13d4791_2:
 
     # "Workers have made progress on the new building."
-    ""
+    "Os trabalhadores progrediram na construção do novo prédio."
 
 # game/script.rpy:33203
 translate pt_br sleepstuff_c06afac0:
 
     # "The garden's seating area renovation has made progress! Only three more days until completion."
-    ""
+    "A renovação da área de assentos do jardim está progredindo! Faltam apenas três dias para a conclusão."
 
 # game/script.rpy:33205
 translate pt_br sleepstuff_4af5e6af:
 
     # "The garden seating area renovation has made progress! Only two more days until completion."
-    ""
+    "A renovação da área de assentos do jardim está progredindo! Faltam apenas dois dias para a conclusão"
 
 # game/script.rpy:33207
 translate pt_br sleepstuff_e2463b1a:
 
     # "The garden seating area renovation has made progress! The garden should be done tomorrow!"
-    ""
+    "A renovação da área de assentos do jardim está progredindo! O jardim deve estar pronto amanhã!"
 
 # game/script.rpy:33209
 translate pt_br sleepstuff_32b2b185:
 
     # "The garden seating area renovation has been completed!"
-    ""
+    "A reforma da área de assentos do jardim foi concluída!"
 
 # game/script.rpy:33222
 translate pt_br mooncall_2d4afa4a:
 
     # "*ring, ring!* *ring, ring!*"
-    ""
+    "*trim, trim!* *trim, trim!*"
 
 # game/script.rpy:33223
 translate pt_br mooncall_b930959d:
 
     # "Moon is calling."
-    ""
+    "A Moon está chamando."
 
 # game/script.rpy:33224
 translate pt_br mooncall_769b6392:
 
     # moon "Hey! Watcha up to?"
-    moon ""
+    moon "Ei! O que está fazendo?"
 
 # game/script.rpy:33225
 translate pt_br mooncall_0fc25940:
 
     # c "Nothing, what's up?"
-    c ""
+    c "Nada, e por aí?"
 
 # game/script.rpy:33226
 translate pt_br mooncall_06b24f4d:
 
     # moon "Meet me at 121 East Syl Street. Don't be late!"
-    moon ""
+    moon "Me encontre 121 East Syl Street. Não se atrase!"
 
 # game/script.rpy:33227
 translate pt_br mooncall_cdcd3bef:
 
     # c "What, now?"
-    c ""
+    c "O quê, agora?"
 
 # game/script.rpy:33228
 translate pt_br mooncall_edb4316a:
 
     # moon "Yes now! You aren't busy, riiiiiight?"
-    moon ""
+    moon "Sim, agora! Você não está ocupado, néééééé?"
 
 # game/script.rpy:33229
 translate pt_br mooncall_b43cfddd:
 
     # c "On my way."
-    c ""
+    c "Estou a caminho."
 
 # game/script.rpy:33230
 translate pt_br mooncall_d3b7178c:
 
     # moon "Chop chop."
-    moon ""
+    moon "Vem logo."
 
 # game/script.rpy:33234
 translate pt_br tippedradio_aba9a00e:
 
     # "TIP: You can change the background music and dialogue UI in the options menu."
-    ""
+    "DICA: Você pode alterar a música de fundo e a interface de diálogo no menu de opções."
 
 # game/script.rpy:33287
 translate pt_br barintro_f36004be:
 
     # e "Good morning [name]!"
-    e ""
+    e "Bom dia, [name]!"
 
 # game/script.rpy:33288
 translate pt_br barintro_30439ea8:
 
     # e "I'm happy to announce the bar has been completed without complication. Would you like to meet the new employees?"
-    e ""
+    e "Tenho o prazer de anunciar que o bar foi concluído sem complicações. Você gostaria de conhecer os novos funcionários?"
 
 # game/script.rpy:33289
 translate pt_br barintro_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "É claro que sim."
 
 # game/script.rpy:33290
 translate pt_br barintro_9855b61d:
 
     # e "Very well! Follow me."
-    e ""
+    e "Muito bem! Siga-me."
 
 # game/script.rpy:33293
 translate pt_br barintro_a51b8166:
 
     # e "Here we are!"
-    e ""
+    e "Aqui estamos nós!"
 
 # game/script.rpy:33296
 translate pt_br barintro_7bf2bf76:
 
     # e "Hm, where is everyone? Hello?"
-    e ""
+    e "Hm, aonde está todo mundo? Olá?"
 
 # game/script.rpy:33297
 translate pt_br barintro_d94c44fa:
 
     # q "Coming!"
-    q ""
+    q "Estou chegando!"
 
 # game/script.rpy:33299
 translate pt_br barintro_18fbed37:
 
     # e "Ah, here we go!"
-    e ""
+    e "Ah, aqui vamos nós!"
 
 # game/script.rpy:33300
 translate pt_br barintro_fa400568:
 
     # e "This is Bart, he'll be your Bartender."
-    e ""
+    e "Esse é Bart, ele será seu Bartender."
 
 # game/script.rpy:33301
 translate pt_br barintro_93ed9393:
 
     # bart "Hey Boss, it's good to meet you."
-    bart ""
+    bart "Ei Chefe, é um prazer conhecê-lo."
 
 # game/script.rpy:33303
 translate pt_br barintro_7b920b15:
 
     # e "And this is Ji-yeon Moon. She'll be your waitress."
-    e ""
+    e "E essa é Ji-yeon Moon. Ela será sua garçonete."
 
 # game/script.rpy:33304
 translate pt_br barintro_816d3c09:
 
     # moon "Hello boss! You can just call me Moon. I know my first name can be hard to pronounce."
-    moon ""
+    moon "Olá chefe! Você pode apenas me chamar de Moon. Eu sei que o meu primeiro nome pode ser difícil de pronunciar."
 
 # game/script.rpy:33305
 translate pt_br barintro_a93629bf:
 
     # c "How long have you been a waitress?"
-    c ""
+    c "A quanto tempo você é garçonete?"
 
 # game/script.rpy:33306
 translate pt_br barintro_08c8212e:
 
     # moon "I've been a waitress for about 3 months now!"
-    moon ""
+    moon "Eu sou garçonete há cerca de 3 meses!"
 
 # game/script.rpy:33307
 translate pt_br barintro_ffa07119:
 
     # moon "But you don't need to worry about me. I have plenty of experience dealing with unruly people."
-    moon ""
+    moon "Mas você não precisa se preocupar comigo. Eu tenho muita experiência em lidar com pessoas indisciplinadas."
 
 # game/script.rpy:33308
 translate pt_br barintro_31268df0:
 
     # c "That's good to know."
-    c ""
+    c "é bom saber."
 
 # game/script.rpy:33310
 translate pt_br barintro_8717d66c:
 
     # e "And that's all of them!"
-    e ""
+    e "E esses são todos eles!"
 
 # game/script.rpy:33311
 translate pt_br barintro_0092b0fa:
 
     # e "As of today, the bar is officially open! Every Monday morning you'll receive your Weekly Report."
-    e ""
+    e "A partir de hoje, o bar está oficialmente aberto! Todas as segundas-feiras pela manhã, você receberá o Relatório Semanal."
 
 # game/script.rpy:33312
 translate pt_br barintro_d9c5988b:
 
     # e "And don't forget about buying upgrades for the bar! A wider drink selection is sure to bring in even more patrons!"
-    e ""
+    e "E não se esqueça de comprar melhorias para o bar! Uma seleção mais ampla de bebidas certamente atrairá ainda mais clientes!"
 
 # game/script.rpy:33313
 translate pt_br barintro_e1097f7f:
 
     # bart "I've really wanted to become a mixologist. I make drinks for my wife, but they're not that great..."
-    bart ""
+    bart "Eu realmente queria me tornar um mixologista. Faço drinques para minha esposa, mas não são tão bons..."
 
 # game/script.rpy:33314
 translate pt_br barintro_b32bec67:
 
     # moon "New music would be nice! It's always much more enjoyable to have something to listen to while at work!"
-    moon ""
+    moon "Seria bom ter novas músicas! É sempre muito mais agradável ter algo para ouvir durante o trabalho!"
 
 # game/script.rpy:33315
 translate pt_br barintro_1aa4837c:
 
     # e "Have fun!"
-    e ""
+    e "Divirta-se!
 
 # game/script.rpy:33333
 translate pt_br checkdone_c80f520a:
 
     # r "Congratulations! You've completed Lin's main story!"
-    r ""
+    r "Parabéns! Você concluiu a história principal de Lin!"
 
 # game/script.rpy:33334
 translate pt_br checkdone_e56f93fa:
 
     # r "Lin's story is not done, more will be added to her in v0.17!"
-    r ""
+    r "A história de Lin ainda não terminou, mais coisas serão adicionadas a ela na versão 0.17!"
 
 # game/script.rpy:33337
 translate pt_br checkdone_f2d8e5cf:
 
     # r "Congratulations! You've completed Kali's main story!"
-    r ""
+    r "Parabéns! Você concluiu a história principal de Kali!"
 
 # game/script.rpy:33338
 translate pt_br checkdone_32e25ab6:
 
     # r "Kali's story is not done, more will be added to her in v0.17!"
-    r ""
+    r "A história de Kali ainda não terminou, mais coisas serão adicionadas a ela na versão 0.17!"
 
 # game/script.rpy:33341
 translate pt_br checkdone_375264e8:
 
     # r "Congratulations! You've completed Ashley's main story!"
-    r ""
+    r "Parabéns! Você concluiu a história principal de Ashley!"
 
 # game/script.rpy:33342
 translate pt_br checkdone_394076f9:
 
     # r "Ashley's story is not done, more will be added to her in v0.17!"
-    r ""
+    r "A história de Ashley ainda não terminou, mais coisas serão adicionadas a ela na versão 0.17!"
 
 # game/script.rpy:33345
 translate pt_br checkdone_ed75359d:
 
     # r "Congratulations! You've completed Maria's main story!"
-    r ""
+    r "Parabéns! Você concluiu a história principal de Maria!"
 
 # game/script.rpy:33346
 translate pt_br checkdone_6d366a15:
 
     # r "Maria's story is not done, more will be added to her in v0.17!"
-    r ""
+    r "A história de Maria ainda não terminou, mais coisas serão adicionadas a ela na versão 0.17!"
 
 # game/script.rpy:33349
 translate pt_br checkdone_4952f67c:
 
     # r "Congratulations! You've completed [botname]'s main story!"
-    r ""
+    r "Parabéns! Você concluiu a história principal de [botname]!"
 
 # game/script.rpy:33350
 translate pt_br checkdone_f3a89de2:
 
     # r "[botname]'s story is not done, more will be added to her in v0.17!"
-    r ""
+    r "A história de [botname] ainda não terminou, mais coisas serão adicionadas a ela na versão 0.17!"
 
 # game/script.rpy:33353
 translate pt_br checkdone_d5922dfb:
 
     # r "Congratulations! You've completed Felicity & Emma's main story!"
-    r ""
+    r "Parabéns! Você concluiu a história principal de Felicity e Emma!"
 
 # game/script.rpy:33354
 translate pt_br checkdone_5dd1381e:
 
     # r "Felicity & Emma's story is not done, more will be added to them in v0.17!"
-    r ""
+    r "A história de Felicity e Emma ainda não terminou, mais coisas serão adicionadas a ela na versão 0.17!"
 
 # game/script.rpy:33357
 translate pt_br checkdone_7a4663f1:
 
     # r "Congratulations! You've completed Autumn's main story!"
-    r ""
+    r "Parabéns! Você concluiu a história principal de Autumn!"
 
 # game/script.rpy:33358
 translate pt_br checkdone_da118192:
 
     # r "Autumn's story is not done, more will be added to her in v0.17!"
-    r ""
+    r "A história de Autumn ainda não terminou, mais coisas serão adicionadas a ela na versão 0.17!"
 
 # game/script.rpy:33363
 translate pt_br checkdone_e7ca4c1e:
 
     # r "Congratulations! You've completed Ellen's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Ellen. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33366
 translate pt_br checkdone_8080c618:
 
     # r "Congratulations! You've completed Kate's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Kate. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33369
 translate pt_br checkdone_db80e66a:
 
     # r "Congratulations! You've completed Lucy's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Lucy. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33372
 translate pt_br checkdone_74a2f165:
 
     # r "Congratulations! You've completed Nia's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Nia. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33375
 translate pt_br checkdone_64784365:
 
     # r "Congratulations! You've completed Sylvia's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Sylvia. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33378
 translate pt_br checkdone_04a67452:
 
     # r "Congratulations! You've completed Jin's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Jin. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33381
 translate pt_br checkdone_522dbd5e:
 
     # r "Congratulations! You've completed Hana's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Hana. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33384
 translate pt_br checkdone_62fb9ff3:
 
     # r "Congratulations! You've completed Vanessa's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Vanessa. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33387
 translate pt_br checkdone_30327750:
 
     # r "Congratulations! You've completed Moon's story. More is likely to come in future updates."
-    r ""
+    r "Parabéns! Você completou a história de Moon. É provável que haja mais em futuras atualizações."
 
 # game/script.rpy:33391
 translate pt_br checkdone_f2a76ba6:
 
     # r "Congratulations! You've completed every character's main story!"
-    r ""
+    r "Parabéns! Você completou a história principal de cada personagem!"
 
 # game/script.rpy:33392
 translate pt_br checkdone_f2d2862e:
 
     # r "Harem Hotel is not even close to being done. Through the support of my patrons I'm able to continue working on this game, so if at any point you enjoyed what I made please consider supporting me and leaving a review."
-    r ""
+    r "O Harem Hotel não está nem perto de ser concluído. Com o apoio dos meus clientes, posso continuar trabalhando neste jogo, portanto, se em algum momento você gostou do que eu fiz, considere apoiar-me e deixar uma avaliação."
 
 # game/script.rpy:33393
 translate pt_br checkdone_259d8982:
 
     # r "This project has my complete dedication as I don't have a job or go to any form of school. Everything helps, it really does."
-    r ""
+    r "Esse projeto tem minha total dedicação, pois não tenho emprego nem frequento nenhum tipo de escola. Tudo ajuda, realmente ajuda."
 
 # game/script.rpy:33394
 translate pt_br checkdone_4967f2af:
 
     # r "But know you don't have to at all, it puts a huge smile on my face that you played my game, and even beat it! Thank you so much."
-    r ""
+    r "Mas saiba que você não precisa fazer isso, pois fico muito feliz em saber que você jogou meu jogo e até mesmo o venceu! Muito obrigado."
 
 # game/script.rpy:33400
 translate pt_br nobj_8249493c:
