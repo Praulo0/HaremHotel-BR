@@ -636,19 +636,19 @@ translate pt_br start2_a4fb49ed:
 translate pt_br start2_9f87b393:
 
     # "TIP: Some side content is locked and hidden behind character stats and traits, such as training, outfits, and more. So be sure to check back on characters often."
-    "DICA: Alguns conteúdos alternativos estão trancados e escondidos por trás das estatísticas e características dos personagens, como treinamentos, conjunto de roupas de roupas e mais. Então tenha certeza de estar sempre verificando novamente."
+    "DICA: Alguns conteúdos alternativos estão trancados e escondidos por trás das estatísticas e traços dos personagens, como treinamentos, conjunto de roupas de roupas e mais. Então tenha certeza de estar sempre verificando novamente."
 
 # game/script.rpy:654
 translate pt_br start2_0383b281:
 
     # "TIP: 'Talk' dialogue choices on the doors to character's rooms are story events. Story events appear after a short cooldown, and character stats and traits are not required. Have fun!"
-    "DICA: As opções de diálogo 'Conversa' nas portas para os quartos dos personagens Eventos de história aparecem depois de um curto tempo de espera, e as estatísticas e características não são um requisito. Divirta-se!
+    "DICA: As opções de diálogo 'Conversa' nas portas para os quartos dos personagens Eventos de história aparecem depois de um curto tempo de espera, e as estatísticas e traços não são um requisito. Divirta-se!
 
 # game/script.rpy:679
 translate pt_br start2_2fbbce15:
 
     # "TIP: Some things are locked and hidden behind character stats and traits, such as events, outfits, and more. So be sure to check on characters often."
-    "DICA: Algumas coisas estão trancadas e escondidas atrás das estatísticas e características dos personagens, como eventos, conjunto de roupas e mais. Então tenha certeza de estar sempre verificando."
+    "DICA: Algumas coisas estão trancadas e escondidas atrás das estatísticas e traços dos personagens, como eventos, conjunto de roupas e mais. Então tenha certeza de estar sempre verificando."
 
 # game/script.rpy:680
 translate pt_br start2_4738f380:
@@ -29500,13 +29500,13 @@ translate pt_br yourroom_08da4ec8:
 translate pt_br yourroom_7211f675:
 
     # trait "Ashley gained the Professional Cocksucker trait!"
-    trait "Ashley conseguiu a característica Chupadora de Pau Profissional!"
+    trait "Ashley conseguiu o traço Chupadora de Pau Profissional!"
 
 # game/script.rpy:15520
 translate pt_br yourroom_425d8a95:
 
     # "A note was slid under your door as you were waking up..."
-    "Um bilhete foi colocado embaixo da sua porta quando vocÊ acordou..."
+    "Um bilhete foi colocado embaixo da sua porta quando você acordou..."
 
 # game/script.rpy:15521
 translate pt_br yourroom_02589064:
@@ -36383,7 +36383,7 @@ translate pt_br bot_con_question_5c2017e7:
 translate pt_br bot_con_question_473fd617:
 
     # bot "It was a scary world to me, that's why I was so shy. I think curiosity is a much better trait to have, and I think Ally has plenty of it."
-    bot "Era um mundo assustador para mim, por isso que eu era tão tímida. Eu acho que curiosidade é a melhor característica para se ter, e eu acho que Ally tem bastante disso."
+    bot "Era um mundo assustador para mim, por isso que eu era tão tímida. Acho que a curiosidade é um traço muito melhor de se ter, e eu acho que Ally tem bastante disso."
 
 # game/script.rpy:18330
 translate pt_br bot_con_question_6cfa245a:
@@ -78545,1021 +78545,1021 @@ translate pt_br checkdone_4967f2af:
 translate pt_br nobj_8249493c:
 
     # "I probably could have convinced her if she were used to giving blowjobs..."
-    ""
+    "Eu provavelmente teria conseguido convencê-la se ela estivesse acostumada a fazer boquetes..."
 
 # game/script.rpy:33403
 translate pt_br nosex_3d617fac:
 
     # "I probably could have convinced her if she was a {color=#f26eff}Nympho{/color}..."
-    ""
+    "Eu provavelmente teria conseguido convencê-la se ela fosse {color=#f26eff}Ninfomaníaca{/color}..."
 
 # game/script.rpy:33406
 translate pt_br noslut_a0f129a4:
 
     # "I probably could have convinced her if her {color=#f26eff}Sluttiness{/color} was high enough..."
-    ""
+    "Eu provavelmente teria conseguido convencê-la se a {color=#f26eff}Safadeza{/color} dela fosse alta o suficiente..."
 
 # game/script.rpy:33409
 translate pt_br nosub_161481a3:
 
     # "I probably could have convinced her if her {color=#FCEA37}Submission{/color} was high enough..."
-    ""
+    "Eu provavelmente teria conseguido convencê-la se a {color=#FCEA37}Submissão{/color} dela fosse alta o suficiente..."
 
 # game/script.rpy:33412
 translate pt_br noex_0bf10bfc:
 
     # "I probably could have convinced her if her {color=#00A40A}Exhibitionism{/color} was high enough..."
-    ""
+    "Eu provavelmente teria conseguido convencê-la se o {color=#00A40A}Exibicionismo{/color} dela fosse alto o suficiente..."
 
 # game/script.rpy:33415
 translate pt_br noaff_e810aa6c:
 
     # "I probably could have convinced her if she were {color=#FF0000}In Love{/color}..."
-    ""
+    "Eu provavelmente teria conseguido convencê-la se ela estivesse {color=#FF0000}Apaixonada{/color}..."
 
 # game/script.rpy:33418
 translate pt_br noob_c7aaf5cd:
 
     # "I probably could have convinced her if she were more {color=#009eff}Obedient{/color}..."
-    ""
+    "Eu provavelmente teria conseguido convencê-la se ela fosse mais {color=#009eff}Obediente{/color}..."
 
 # game/script.rpy:33424
 translate pt_br botcun_280b9b1a:
 
     # trait "[botname] gained the Face Sitter trait!"
-    trait ""
+    trait "[botname] ganhou o traço Sentadora de Rostos!"
 
 # game/script.rpy:33429
 translate pt_br marcunni_58833773:
 
     # trait "Maria gained the Face Sitter trait!"
-    trait ""
+    trait "Maria ganhou o traço Sentadora de Rostos!"
 
 # game/script.rpy:33434
 translate pt_br autcunni_925e753b:
 
     # trait "Autumn gained the Face Sitter trait!"
-    trait ""
+    trait "Autumn ganhou o traço Sentadora de Rostos!"
 
 # game/script.rpy:33439
 translate pt_br felsex_4d7888b7:
 
     # trait "Felicity gained the Nympho trait!"
-    trait ""
+    trait "Felicity ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33444
 translate pt_br emsex_d06e645a:
 
     # trait "Emma gained the Nympho trait!"
-    trait ""
+    trait "Emma ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33449
 translate pt_br marhandy_7a8ec990:
 
     # trait "Maria gained the Slick Hands trait!"
-    trait ""
+    trait "Maria ganhou o traço Mãos Escorregadias!"
 
 # game/script.rpy:33454
 translate pt_br linhj_6e4911d7:
 
     # trait "Lin gained the Slick Hands trait!"
-    trait ""
+    trait "Lin ganhou o traço Mãos Escorregadias!"
 
 # game/script.rpy:33459
 translate pt_br linanal_05d9752f:
 
     # trait "Lin gained the Butt Slut trait!"
-    trait ""
+    trait "Lin ganhou o traço Viciada em Anal!"
 
 # game/script.rpy:33463
 translate pt_br marex_a8565441:
 
     # exp "Maria's {color=#00A40A}exhibitionism{/color} increased to [mar_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de Maria foi aumentado para [mar_ex]!"
 
 # game/script.rpy:33465
 translate pt_br marex_1d70404b:
 
     # trait "Maria gained the Exhibitionist trait!"
-    trait ""
+    trait "Maria ganhou o traço Exibicionista!"
 
 # game/script.rpy:33470
 translate pt_br emex_2239a1cb:
 
     # exp "Emma's {color=#00A40A}exhibitionism{/color} increased to [em_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de Emma foi aumentado para [em_ex]!"
 
 # game/script.rpy:33472
 translate pt_br emex_6136b2d3:
 
     # trait "Emma gained the Exhibitionist trait!"
-    trait ""
+    trait "Emma ganhou o traço Exibicionista!"
 
 # game/script.rpy:33477
 translate pt_br felex_21281d3a:
 
     # exp "Felicity's {color=#00A40A}exhibitionism{/color} increased to [fel_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de Felicity foi aumentado para [fel_ex]!"
 
 # game/script.rpy:33479
 translate pt_br felex_bdcb91bb:
 
     # trait "Felicity gained the Exhibitionist trait!"
-    trait ""
+    trait "Felicity ganhou o traço Exibicionista!"
 
 # game/script.rpy:33483
 translate pt_br ashex_a389af40:
 
     # exp "Ashley's {color=#00A40A}exhibitionism{/color} increased to [ash_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de Ashley foi aumentado para [ash_ex]!"
 
 # game/script.rpy:33485
 translate pt_br ashex_521c2083:
 
     # trait "Ashley gained the Exhibitionist trait!"
-    trait ""
+    trait "Ashley ganhou o traço Exibicionista!"
 
 # game/script.rpy:33489
 translate pt_br autex_4bf44f49:
 
     # exp "Autumn's {color=#00A40A}exhibitionism{/color} increased to [aut_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de Autumn foi aumentado para [aut_ex]!"
 
 # game/script.rpy:33491
 translate pt_br autex_1cc4e3f0:
 
     # trait "Autumn gained the Exhibitionist trait!"
-    trait ""
+    trait "Autumn ganhou o traço Exibicionista!"
 
 # game/script.rpy:33495
 translate pt_br kaliex_f20197fc:
 
     # exp "Kali's {color=#00A40A}exhibitionism{/color} increased to [kali_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de Kali foi aumentado para [kali_ex]!"
 
 # game/script.rpy:33497
 translate pt_br kaliex_28db5018:
 
     # trait "Kali gained the Exhibitionist trait!"
-    trait ""
+    trait "Kali ganhou o traço Exibicionista!"
 
 # game/script.rpy:33502
 translate pt_br kalicun_8b1ad32f:
 
     # trait "Kali gained the Face Sitter trait!"
-    trait ""
+    trait "Kali ganhou o traço Sentadora de Rostos!"
 
 # game/script.rpy:33506
 translate pt_br linex_8384a1eb:
 
     # exp "Lin's {color=#00A40A}exhibitionism{/color} increased to [lin_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de Lin foi aumentado para [lin_ex]!"
 
 # game/script.rpy:33508
 translate pt_br linex_7998681d:
 
     # trait "Lin gained the Exhibitionist trait!"
-    trait ""
+    trait "Lin ganhou o traço Exibicionista!"
 
 # game/script.rpy:33513
 translate pt_br linbj_c0d78cec:
 
     # trait "Lin gained the Professional Cocksucker trait!"
-    trait ""
+    trait "Lin ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33518
 translate pt_br linfj_28dc3aa0:
 
     # trait "Lin gained the Foot Fetish trait!"
-    trait ""
+    trait "Lin ganhou o traço Fetiche em Pés!"
 
 # game/script.rpy:33523
 translate pt_br marbj_87b802cc:
 
     # trait "Maria gained the Professional Cocksucker trait!"
-    trait ""
+    trait "Maria ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33528
 translate pt_br felbj_d23eb460:
 
     # trait "Felicity gained the Professional Cocksucker trait!"
-    trait ""
+    trait "Felicity ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33533
 translate pt_br embj_000f2d6a:
 
-    # trait "Emma gained the Professional Cocksucker trait!"
-    trait ""
+    # trait "Emma  ganhou o traço Chupadora de Paus Proficional!"
+    trait "Emma ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33538
 translate pt_br autbj_7e5e30ac:
 
     # trait "Autumn gained the Professional Cocksucker trait!"
-    trait ""
+    trait "Autumn ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33543
 translate pt_br kalibj_e9234baa:
 
     # trait "Kali gained the Professional Cocksucker trait!"
-    trait ""
+    trait "Kali ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33548
 translate pt_br ashbj_7211f675:
 
     # trait "Ashley gained the Professional Cocksucker trait!"
-    trait ""
+    trait "Ashley ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33553
 translate pt_br botbj_d10f7aae:
 
     # trait "[botname] gained the Professional Cocksucker trait!"
-    trait ""
+    trait "[botname] ganhou o traço Chupadora de Paus Proficional!"
 
 # game/script.rpy:33557
 translate pt_br botex_decfaddf:
 
     # exp "[botname]'s {color=#00A40A}exhibitionism{/color} increased to [bot_ex]!"
-    exp ""
+    exp "O {color=#00A40A}exibicionismo{/color} de [botname] foi aumentado para [bot_ex]!"
 
 # game/script.rpy:33559
 translate pt_br botex_66fad21d:
 
     # trait "[botname] gained the Exhibitionist trait!"
-    trait ""
+    trait "[botname] ganhou o traço Exibicionista!"
 
 # game/script.rpy:33564
 translate pt_br marslut_47468fc6:
 
     # exp "Maria's {color=#f26eff}sluttiness{/color} increased to [mar_slut]!"
-    exp ""
+    exp "A {color=#00A40A}safadeza{/color} de Maria foi aumentada para [mar_slut]!"
 
 # game/script.rpy:33566
 translate pt_br marslut_0d1258d2:
 
     # trait "Maria gained the Mega Slut trait!"
-    trait ""
+    trait "Maria ganhou o traço Mega Vadia!"
 
 # game/script.rpy:33571
 translate pt_br marslut_2277c7ac:
 
     # "Maria's lust has become unbearable..."
-    ""
+    "A luxúria de Maria se tornou insuportável..."
 
 # game/script.rpy:33575
 translate pt_br ashslut_9ac7c52b:
 
     # exp "Ashley's {color=#f26eff}sluttiness{/color} increased to [ash_slut]!"
-    exp ""
+    exp "A {color=#00A40A}safadeza{/color} de Ashley foi aumentada para [ash_slut]!"
 
 # game/script.rpy:33577
 translate pt_br ashslut_55fefb23:
 
     # trait "Ashley gained the Mega Slut trait!"
-    trait ""
+    trait "Ashley ganhou o traço Mega Vadia!"
 
 # game/script.rpy:33582
 translate pt_br ashslut_56ac9876:
 
     # "Ashley's lust has become unbearable..."
-    ""
+    "A luxúria de Ashley se tornou insuportável..."
 
 # game/script.rpy:33586
 translate pt_br autslut_932b0862:
 
     # exp "Autumn's {color=#f26eff}sluttiness{/color} increased to [aut_slut]!"
-    exp ""
+    exp "A {color=#00A40A}safadeza{/color} de Autumn foi aumentada para [aut_slut]!"
 
 # game/script.rpy:33588
 translate pt_br autslut_524468ff:
 
     # trait "Autumn gained the Mega Slut trait!"
-    trait ""
+    trait "Autumn ganhou o traço Mega Vadia!"
 
 # game/script.rpy:33594
 translate pt_br vioslut_c181dada:
 
     # exp "Violet's {color=#f26eff}sluttiness{/color} increased to [vio_slut]!"
-    exp ""
+    exp "A {color=#00A40A}safadeza{/color} de Violet foi aumentada para [vio_slut]!"
 
 # game/script.rpy:33596
 translate pt_br vioslut_74a068ac:
 
     # trait "Violet gained the Mega Slut trait!"
-    trait ""
+    trait "Violet ganhou o traço Mega Vadia!"
 
 # game/script.rpy:33601
 translate pt_br botboobjobs_c3b4bb65:
 
     # trait "[botname] gained the Paizuri Star trait!"
-    trait ""
+    trait "[botname] ganhou o traço Estrela do Paizuri!"
 
 # game/script.rpy:33606
 translate pt_br kaliboobjobs_8e0ba221:
 
     # trait "Kali gained the Paizuri Star trait!"
-    trait ""
+    trait "Kaliganhou o traço Estrela do Paizuri!"
 
 # game/script.rpy:33611
 translate pt_br autboobjobs_6dddcf58:
 
     # trait "Autumn gained the Paizuri Star trait!"
-    trait ""
+    trait "Autumnganhou o traço Estrela do Paizuri!"
 
 # game/script.rpy:33616
 translate pt_br marsex_aae388d1:
 
     # trait "Maria gained the Nympho trait!"
-    trait ""
+    trait "Maria ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33621
 translate pt_br ashsex_a7759767:
 
     # trait "Ashley gained the Nympho trait!"
-    trait ""
+    trait " ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33626
 translate pt_br viosex_503273e8:
 
     # trait "Violet gained the Nympho trait!"
-    trait ""
+    trait "Violet ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33631
 translate pt_br linsex_9408df4f:
 
     # trait "Lin gained the Nympho trait!"
-    trait ""
+    trait "Lin ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33636
 translate pt_br botsex_32282797:
 
     # trait "[botname] gained the Nympho trait!"
-    trait ""
+    trait "[botname] ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33641
 translate pt_br kalisex_828ac01a:
 
     # trait "Kali gained the Nympho trait!"
-    trait ""
+    trait "Kali ganhou o traço Ninfomaníaca!"
 
 # game/script.rpy:33646
 translate pt_br mardump_7f119e8c:
 
     # trait "Maria gained the Cumdump trait!"
-    trait ""
+    trait "Maria ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33651
 translate pt_br marcum_126e13ea:
 
     # trait "Maria gained the Cum Slut trait!"
-    trait ""
+    trait "Maria ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:33657
 translate pt_br lindump_1fd29b0b:
 
     # trait "Lin gained the Cumdump trait!"
-    trait ""
+    trait "Lin ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33662
 translate pt_br lincum_d512ef60:
 
     # trait "Lin gained the Cum Slut trait!"
-    trait ""
+    trait "Lin ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:33667
 translate pt_br lincun_6df3fb64:
 
     # trait "Lin gained the Face Sitter trait!"
-    trait ""
+    trait "Lin ganhou o traço Sentadora de Rostos!"
 
 # game/script.rpy:33672
 translate pt_br botcum_6334bc68:
 
     # trait "[botname] gained the Cum Slut trait!"
-    trait ""
+    trait "[botname] ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:33677
 translate pt_br bothj_1ed069a5:
 
     # trait "[botname] gained the Slick Hands trait!"
-    trait ""
+    trait "[botname] ganhou o traço Mãos Escorregadias!"
 
 # game/script.rpy:33681
 translate pt_br botob_306d8812:
 
     # exp "[botname]'s {color=#009eff}obedience{/color} increased to [bot_ob]!"
-    exp ""
+    exp "A {color=#009eff}obediência{/color} de [botname] foi aumentada para [bot_ob]!"
 
 # game/script.rpy:33683
 translate pt_br botob_d47efd5c:
 
     # trait "[botname] gained the Loyal trait!"
-    trait ""
+    trait "[botname] ganhou o traço Fiel!"
 
 # game/script.rpy:33687
 translate pt_br linob_ad1f6fba:
 
     # exp "Lin's {color=#009eff}obedience{/color} increased to [lin_ob]!"
-    exp ""
+    exp "A {color=#009eff}obediência{/color} de Lin foi aumentada para [lin_ob]!"
 
 # game/script.rpy:33689
 translate pt_br linob_d62e15da:
 
     # trait "Lin gained the Loyal trait!"
-    trait ""
+    trait "Lin ganhou o traço Fiel!"
 
 # game/script.rpy:33693
 translate pt_br linslut_a329da72:
 
     # exp "Lin's {color=#f26eff}sluttiness{/color} increased to [lin_slut]!"
-    exp ""
+    exp "A {color=#f26eff}safadeza{/color} de Lin foi aumentada para [lin_slut]!"
 
 # game/script.rpy:33695
 translate pt_br linslut_9e9e7390:
 
     # trait "Lin gained the Mega Slut trait!"
-    trait ""
+    trait "Lin ganhou o traço Mega Vadia!"
 
 # game/script.rpy:33702
 translate pt_br linslut_51fb2f5d:
 
     # "Lin's lust has become unbearable..."
-    ""
+    "A luxúria de Lin se tornou insuportável..."
 
 # game/script.rpy:33708
 translate pt_br kalidump_811bd88a:
 
     # trait "Kali gained the Cumdump trait!"
-    trait ""
+    trait "Kali ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33713
 translate pt_br kalicum_88cbb70f:
 
     # trait "Kali gained the Cum Slut trait!"
-    trait ""
+    trait "Kali ganhou o traço Viciada em Gozo!
 
 # game/script.rpy:33718
 translate pt_br ashcum_457d56e9:
 
     # trait "Ashley gained the Cum Slut trait!"
-    trait ""
+    trait "Ashley ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:33723
 translate pt_br autcum_5d635c9e:
 
     # trait "Autumn gained the Cum Slut trait!"
-    trait ""
+    trait "Autumn ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:33727
 translate pt_br kalislut_85e78716:
 
     # exp "Kali's {color=#f26eff}sluttiness{/color} increased to [kali_slut]!"
-    exp ""
+    exp "A {color=#f26eff}safadeza{/color} de Kali foi aumentada para [kali_slut]!"
 
 # game/script.rpy:33729
 translate pt_br kalislut_e26fc0d2:
 
     # trait "Kali gained the Mega Slut trait!"
-    trait ""
+    trait "Kali ganhou o traço Mega Vadia!"
 
 # game/script.rpy:33734
 translate pt_br kalislut_e711915d:
 
     # "Kali's lust has become unbearable..."
-    ""
+    "A luxúria de Kali se tornou insuportável..."
 
 # game/script.rpy:33738
 translate pt_br kalisub_7b926131:
 
     # exp "Kali's {color=#FCEA37}submission{/color} increased to [kali_sub]!"
-    exp ""
+    exp "A {color=#FCEA37}submissão{/color} de Kali foi aumentada para [kali_sub]!"
 
 # game/script.rpy:33740
 translate pt_br kalisub_0ddc6c3a:
 
     # trait "Kali gained the Submissive trait!"
-    trait ""
+    trait "Kali ganhou o traço Submissiva!"
 
 # game/script.rpy:33745
 translate pt_br ashsub_36f7d851:
 
     # exp "Ashley's {color=#FCEA37}submission{/color} increased to [ash_sub]!"
-    exp ""
+    exp "A {color=#FCEA37}submissão{/color} de Ashley foi aumentada para [ash_sub]!"
 
 # game/script.rpy:33747
 translate pt_br ashsub_5e184414:
 
     # trait "Ashley gained the Submissive trait!"
-    trait ""
+    trait "Ashley ganhou o traço Submissiva!"
 
 # game/script.rpy:33752
 translate pt_br felsub_c9e94630:
 
     # exp "Felicity's {color=#FCEA37}submission{/color} increased to [fel_sub]!"
-    exp ""
+    exp "A {color=#FCEA37}submissão{/color} de Felicity foi aumentada para [fel_sub]!"
 
 # game/script.rpy:33754
 translate pt_br felsub_1538b5d6:
 
     # trait "Felicity gained the Submissive trait!"
-    trait ""
+    trait "Felicity ganhou o traço Submissiva!"
 
 # game/script.rpy:33759
 translate pt_br felsubdown_a50198f4:
 
     # "Felicity's {color=#FCEA37}submission{/color} was reduced..."
-    ""
+    "A {color=#FCEA37}submissão{/color} de Felicity foi reduzida..."
 
 # game/script.rpy:33765
 translate pt_br emsub_65df4a15:
 
     # exp "Emma's {color=#FCEA37}submission{/color} increased to [em_sub]!"
-    exp ""
+    exp "A {color=#FCEA37}submissão{/color} de Emma foi aumentada para [em_sub]!"
 
 # game/script.rpy:33767
 translate pt_br emsub_e5496cc2:
 
     # trait "Emma gained the Submissive trait!"
-    trait ""
+    trait "Emma ganhou o traço Submissiva!"
 
 # game/script.rpy:33772
 translate pt_br emsubdown_3f8c3e49:
 
     # "Emma's {color=#FCEA37}submission{/color} was reduced..."
-    ""
+    "A {color=#FCEA37}submissão{/color} de Emma foi reduzida..."
 
 # game/script.rpy:33778
 translate pt_br botsub_1cd47551:
 
     # exp "[botname]'s {color=#FCEA37}submission{/color} increased to [bot_sub]!"
-    exp ""
+    exp "A {color=#FCEA37}submissão{/color} de [botname] foi aumentada para [bot_sub]!"
 
 # game/script.rpy:33780
 translate pt_br botsub_8507792d:
 
     # trait "[botname] gained the Submissive trait!"
-    trait ""
+    trait "[botname] ganhou o traço Submissiva!"
 
 # game/script.rpy:33785
 translate pt_br marsub_bf3f3704:
 
     # exp "Maria's {color=#FCEA37}submission{/color} increased to [mar_sub]!"
-    exp ""
+    exp "A {color=#FCEA37}submissão{/color} de Maria foi aumentada para [mar_sub]!"
 
 # game/script.rpy:33787
 translate pt_br marsub_23b687b6:
 
     # trait "Maria gained the Submissive trait!"
-    trait ""
+    trait "Maria ganhou o traço Submissiva!"
 
 # game/script.rpy:33793
 translate pt_br maranal_ee5e9927:
 
     # trait "Maria gained the Buttslut trait!"
-    trait ""
+    trait "Maria ganhou o traço Viciada em Anal!"
 
 # game/script.rpy:33798
 translate pt_br ashaff_934e86d6:
 
     # exp "Ashley's {color=#FF0000}affection{/color} increased to [ash_aff]!"
-    exp ""
+    exp "O {color=#FF0000}afeto{/color} de Ashley foi aumentado para [ash_aff]!"
 
 # game/script.rpy:33800
 translate pt_br ashaff_387a8b6c:
 
     # trait "Ashley gained the In Love trait!"
-    trait ""
+    trait "Ashley ganhou o traço Apaixonada!"
 
 # game/script.rpy:33805
 translate pt_br ashanal_802f6d09:
 
     # trait "Ashley gained the Buttslut trait!"
-    trait ""
+    trait "Ashley ganhou o traço Viciada em Anal!"
 
 # game/script.rpy:33810
 translate pt_br felanal_34b03ae3:
 
     # trait "Felicity gained the Buttslut trait!"
-    trait ""
+    trait "Felicity ganhou o traço Viciada em Anal!"
 
 # game/script.rpy:33815
 translate pt_br emanal_23bb1baa:
 
     # trait "Emma gained the Buttslut trait!"
-    trait ""
+    trait "Emma ganhou o traço Viciada em Anal!"
 
 # game/script.rpy:33820
 translate pt_br kalianal_f7198c19:
 
     # trait "Kali gained the Buttslut trait!"
-    trait ""
+    trait "Kali ganhou o traço Viciada em Anal!"
 
 # game/script.rpy:33825
 translate pt_br botanal_e986fdc1:
 
     # trait "[botname] gained the Buttslut trait!"
-    trait ""
+    trait "[botname] ganhou o traço Viciada em Anal!"
 
 # game/script.rpy:33830
 translate pt_br ashdump_992e7ec7:
 
     # trait "Ashley gained the Cumdump trait!"
-    trait ""
+    trait "Ashley ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33835
 translate pt_br autdump_57961137:
 
     # trait "Autumn gained the Cumdump trait!"
-    trait ""
+    trait "Autumn ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33840
 translate pt_br viodump_096d79ae:
 
     # trait "Violet gained the Cumdump trait!"
-    trait ""
+    trait "Violet ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33845
 translate pt_br botdump_c176462f:
 
     # trait "[botname] gained the Cumdump trait!"
-    trait ""
+    trait "[botname] ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33850
 translate pt_br feldump_4c1095b6:
 
     # trait "Felicity gained the Cumdump trait!"
-    trait ""
+    trait "Felicity ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33855
 translate pt_br emdump_eec2578a:
 
     # trait "Emma gained the Cumdump trait!"
-    trait ""
+    trait "Emma ganhou o traço Depósito de Porra!"
 
 # game/script.rpy:33860
 translate pt_br felcum_b0b45310:
 
     # trait "Felicity gained the Cum Slut trait!"
-    trait ""
+    trait "Felicity ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:33864
 translate pt_br maraff_d173ecb7:
 
     # exp "Maria's {color=#FF0000}affection{/color} increased to [mar_aff]!"
-    exp ""
+    exp "O {color=#FF0000}afeto{/color} de Maria foi aumentado para [mar_aff]!"
 
 # game/script.rpy:33866
 translate pt_br maraff_42c6d607:
 
     # trait "Maria gained the In Love trait!"
-    trait ""
+    trait "Maria ganhou o traço Apaixonada!"
 
 # game/script.rpy:33871
 translate pt_br marup_5685251d:
 
     # level "Your relationship with Maria has increased to level [mar_friendship]!"
-    level ""
+    level "O nível de seu relacionamento com Maria foi aumentado para [mar_friendship]!"
 
 # game/script.rpy:33881
 translate pt_br linup_ec22e91b:
 
     # level "Your relationship with Lin has increased to level [lin_friendship]!"
-    level ""
+    level "O nível de seu relacionamento com Lin foi aumentado para [lin_friendship]!"
 
 # game/script.rpy:33894
 translate pt_br jinup_0e1514f3:
 
     # level "Your relationship with Jin has improved!"
-    level ""
+    level "O seu relacionamento com Jin melhorou!"
 
 # game/script.rpy:33903
 translate pt_br hanaup_d733ef93:
 
     # level "Your relationship with Hana has improved!"
-    level ""
+    level "O seu relacionamento com Hana melhorou!"
 
 # game/script.rpy:33912
 translate pt_br vanup_6b7da5f8:
 
     # level "Your relationship with Vanessa has improved!"
-    level ""
+    level "O seu relacionamento com Vanessa melhorou!"
 
 # game/script.rpy:33917
 translate pt_br linobdown_2f33fe62:
 
     # "Lin's {color=#009eff}obedience{/color} was reduced..."
-    ""
+    "A {color=#009eff}obediência{/color} de Lin foi reduzida..."
 
 # game/script.rpy:33921
 translate pt_br kalisubdown_5c41e9fb:
 
     # "Kali's {color=#FCEA37}submission{/color} was reduced..."
-    ""
+    "A {color=#FCEA37}submissão{/color} de Kali foi reduzida..."
 
 # game/script.rpy:33925
 translate pt_br ashsubdown_2bf9f82e:
 
     # "Ashley's {color=#FCEA37}submission{/color} was reduced..."
-    ""
+    "A {color=#FCEA37}submissão{/color} de Ashley foi reduzida..."
 
 # game/script.rpy:33929
 translate pt_br marsubdown_9ae776ff:
 
     # "Maria's {color=#FCEA37}submission{/color} was reduced..."
-    ""
+    "A {color=#FCEA37}submissão{/color} de Maria foi reduzida..."
 
 # game/script.rpy:33933
 translate pt_br linsubdown_42634c60:
 
     # "Lin's {color=#FCEA37}submission{/color} was reduced..."
-    ""
+    "A {color=#FCEA37}submissão{/color} de Lin foi reduzida..."
 
 # game/script.rpy:33937
 translate pt_br botsubdown_2917f75d:
 
     # "[botname]'s {color=#FCEA37}submission{/color} was reduced..."
-    ""
+    "A {color=#FCEA37}submissão{/color} de [botname] foi reduzida..."
 
 # game/script.rpy:33941
 translate pt_br kaliaffdown_299fd63d:
 
     # "Kali's {color=#FF0000}affection{/color} was reduced..."
-    ""
+    "O {color=#FF0000}afeto{/color} de Kali foi reduzido..."
 
 # game/script.rpy:33945
 translate pt_br ashaffdown_11ce9a15:
 
     # "Ashley's {color=#FF0000}affection{/color} was reduced..."
-    ""
+    "O {color=#FF0000}afeto{/color} de Ashley foi reduzido..."
 
 # game/script.rpy:33949
 translate pt_br autaffdown_bbc01729:
 
     # "Autumn's {color=#FF0000}affection{/color} was reduced..."
-    ""
+    "O {color=#FF0000}afeto{/color} de Autumn foi reduzido..."
 
 # game/script.rpy:33953
 translate pt_br autaff_0e0cb64a:
 
     # exp "Autumn's {color=#FF0000}affection{/color} increased to [aut_aff]!"
-    exp ""
+    exp "O {color=#FF0000}afeto{/color} de Autumn foi aumentado para [aut_aff]!"
 
 # game/script.rpy:33955
 translate pt_br autaff_81277e02:
 
     # trait "Autumn gained the In Love trait!"
-    trait ""
+    trait "Autumn ganhou o traço Apaixonada!"
 
 # game/script.rpy:33959
 translate pt_br maraffdown_853a94dc:
 
     # "Maria's {color=#FF0000}affection{/color} was reduced..."
-    ""
+    "O {color=#FF0000}afeto{/color} de Maria foi reduzido..."
 
 # game/script.rpy:33963
 translate pt_br felaffdown_e392918e:
 
     # "Felicity's {color=#FF0000}affection{/color} was reduced..."
-    ""
+    "O {color=#FF0000}afeto{/color} de Felicity foi reduzido..."
 
 # game/script.rpy:33967
 translate pt_br emaffdown_9d1fa756:
 
     # "Emma's {color=#FF0000}affection{/color} was reduced..."
-    ""
+    "O {color=#FF0000}afeto{/color} de Emma foi reduzido..."
 
 # game/script.rpy:33971
 translate pt_br botobdown_ddca3f87:
 
     # "[botname]'s {color=#009eff}obedience{/color} was reduced..."
-    ""
+    "A {color=#009eff}obediência{/color} de [botname] foi reduzida..."
 
 # game/script.rpy:33977
 translate pt_br twinup_ba197b2d:
 
     # level "Your relationship with Felicity & Emma has increased to level [twin_friendship]!"
-    level ""
+    level "O nível de seu relacionamento com Felicity & Emma foi aumentado para [twin_friendship]!"
 
 # game/script.rpy:33986
 translate pt_br felaff_36c25abc:
 
     # exp "Felicity's {color=#FF0000}affection{/color} increased to [fel_aff]!"
-    exp ""
+    exp "O {color=#FF0000}afeto{/color} de Felicity foi aumentado para [fel_aff]!"
 
 # game/script.rpy:33988
 translate pt_br felaff_502ddca8:
 
     # trait "Felicity gained the In Love trait!"
-    trait ""
+    trait "Felicity ganhou o traço Apaixonada!"
 
 # game/script.rpy:33993
 translate pt_br felfoot_0fb0b3fc:
 
     # trait "Felicity gained the Foot Fetish trait!"
-    trait ""
+    trait "Felicity ganhou o traço Fetiche em Pés!"
 
 # game/script.rpy:33998
 translate pt_br ashfoot_eb9f3132:
 
     # trait "Ashley gained the Foot Fetish trait!"
-    trait ""
+    trait "Ashley ganhou o traço Fetiche em Pés!"
 
 # game/script.rpy:34002
 translate pt_br felslut_44f4c39f:
 
     # exp "Felicity's {color=#f26eff}sluttiness{/color} increased to [fel_slut]!"
-    exp ""
+    exp "A {color=#f26eff}safadeza{/color} de Felicity foi aumentada para [fel_slut]!"
 
 # game/script.rpy:34004
 translate pt_br felslut_069ee173:
 
     # trait "Felicity gained the Mega Slut trait!"
-    trait ""
+    trait "Felicity ganhou o traço Mega Vadia!"
 
 # game/script.rpy:34008
 translate pt_br emaff_ca384ae9:
 
     # exp "Emma's {color=#FF0000}affection{/color} increased to [em_aff]!"
-    exp ""
+    exp "O {color=#FF0000}afeto{/color} de Emma foi aumentado para [em_aff]!"
 
 # game/script.rpy:34010
 translate pt_br emaff_b4d0f5a8:
 
     # trait "Emma gained the In Love trait!"
-    trait ""
+    trait "Emma ganhou o traço Apaixonada!"
 
 # game/script.rpy:34015
 translate pt_br emhandjob_6df539be:
 
     # trait "Emma gained the Slick Hands trait!"
-    trait ""
+    trait "Emma ganhou o traço Mãos Escorregadias!"
 
 # game/script.rpy:34019
 translate pt_br emslut_5bc52d19:
 
     # exp "Emma's {color=#f26eff}sluttiness{/color} increased to [em_slut]!"
-    exp ""
+    exp "A {color=#f26eff}safadeza{/color} de Emma foi aumentada para [em_slut]!"
 
 # game/script.rpy:34021
 translate pt_br emslut_33ebfced:
 
     # trait "Emma gained the Mega Slut trait!"
-    trait ""
+    trait "Emma ganhou o traço Mega Vadia!"
 
 # game/script.rpy:34026
 translate pt_br emboob_22329dce:
 
     # trait "Emma gained the Paizuri Star trait!"
-    trait ""
+    trait "Emmaganhou o traço Estrela do Paizuri!"
 
 # game/script.rpy:34031
 translate pt_br emcum_500144f6:
 
     # trait "Emma gained the Cum Slut trait!"
-    trait ""
+    trait "Emma ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:34036
 translate pt_br linsub_227c2169:
 
     # exp "Lin's {color=#FCEA37}submission{/color} increased to [lin_sub]!"
-    exp ""
+    exp "A {color=#FCEA37}submissão{/color} de Lin foi aumentada para [lin_sub]!"
 
 # game/script.rpy:34038
 translate pt_br linsub_13d024ae:
 
     # trait "Lin gained the Submissive trait!"
-    trait ""
+    trait "Lin ganhou o traço Submissiva!"
 
 # game/script.rpy:34043
 translate pt_br niahapup_d30bc578:
 
     # "Nia's {color=#009eff}happiness{/color} increased to [nia_hap]!"
-    ""
+    "A {color=#009eff}felicidade{/color} de Nia foi aumentada para [nia_hap]!"
 
 # game/script.rpy:34047
 translate pt_br niahapdown_f081178d:
 
     # "Nia's {color=#009eff}happiness{/color} reduced to [nia_hap]..."
-    ""
+    "A {color=#009eff}felicidade{/color} de Nia foi reduzida para [nia_hap]!"
 
 # game/script.rpy:34051
 translate pt_br sylhapup_3b844f9e:
 
     # "Sylvia's {color=#009eff}happiness{/color} increased to [syl_hap]!"
-    ""
+    "A {color=#009eff}felicidade{/color} de Sylvia foi aumentada para [syl_hap]!"
 
 # game/script.rpy:34055
 translate pt_br sylhapdown_4960090e:
 
     # "Sylvia's {color=#009eff}happiness{/color} reduced to [syl_hap]..."
-    ""
+    "A {color=#009eff}felicidade{/color} de Sylvia foi reduzida para [sil_hap]!"
 
 # game/script.rpy:34059
 translate pt_br annhapup_edf11b40:
 
     # "Ann's {color=#009eff}happiness{/color} increased to [ann_hap]!"
-    ""
+    "A {color=#009eff}felicidade{/color} de Ann foi aumentada para [ann_hap]!"
 
 # game/script.rpy:34063
 translate pt_br annhapdown_fb579052:
 
     # "Ann's {color=#009eff}happiness{/color} reduced to [ann_hap]..."
-    ""
+    "A {color=#009eff}felicidade{/color} de Ann foi reduzida para [ann_hap]!"
 
 # game/script.rpy:34071
 translate pt_br kaliup_d283c71b:
 
     # level "Your relationship with Kali has increased to level [kali_friendship]!"
-    level ""
+    level "O nível de seu relacionamento com Kali foi aumentado para [kali_friendship]!"
 
 # game/script.rpy:34080
 translate pt_br kaliaff_b8b461b0:
 
     # exp "Kali's {color=#FF0000}affection{/color} increased to [kali_aff]!"
-    exp ""
+    exp "O {color=#FF0000}afeto{/color} de Kali foi aumentado para [kali_aff]!"
 
 # game/script.rpy:34082
 translate pt_br kaliaff_9b192d4e:
 
     # trait "Kali gained the In Love trait!"
-    trait ""
+    trait "Kali ganhou o traço Apaixonada!"
 
 # game/script.rpy:34088
 translate pt_br botup_ca87f9ef:
 
     # level "Your relationship with [botname] has increased to level [bot_friendship]!"
-    level ""
+    level "O nível de seu relacionamento com [botname] foi aumentado para [bot_friendship]!"
 
 # game/script.rpy:34109
 translate pt_br ellenup_a59b993b:
 
     # level "Your relationship with Ellen has improved!"
-    level ""
+    level "O seu relacionamento com Ellen melhorou!"
 
 # game/script.rpy:34121
 translate pt_br niaup_26aa12cd:
 
     # level "Nia has been corrupted further..."
-    level ""
+    level "Nia ficou ainda mais corrompida..."
 
 # game/script.rpy:34123
 translate pt_br niaup_05820c55:
 
     # level "Nia has grown closer to you!"
-    level ""
+    level "A Nia ficou mais próxima de você!"
 
 # game/script.rpy:34134
 translate pt_br sylup_943e5cc4:
 
     # level "Sylvia has been degraded further..."
-    level ""
+    level "A Sylvia ficou ainda mais degradada..."
 
 # game/script.rpy:34136
 translate pt_br sylup_6363200e:
 
     # level "Sylvia has grown closer to you!"
-    level ""
+    level "A Sylvia ficou mais próxima de você!"
 
 # game/script.rpy:34150
 translate pt_br lucup_241f9524:
 
     # level "Your relationship with Lucy has improved!"
-    level ""
+    level "O seu relacionamento com Lucy melhorou!"
 
 # game/script.rpy:34160
 translate pt_br kateup_5ac2c304:
 
     # level "Your relationship with Kate has improved!"
-    level ""
+    level "O seu relacionamento com Kate melhorou!"
 
 # game/script.rpy:34167
 translate pt_br ashup_52fabbae:
 
     # level "Your relationship with Ashley has increased to level [ash_friendship]!"
-    level ""
+    level "O nível de seu relacionamento com Ashley foi aumentado para [ash_friendship]!"
 
 # game/script.rpy:34177
 translate pt_br autup_a2082eec:
 
     # level "Your relationship with Autumn has increased to level [aut_friendship]!"
-    level ""
+    level "O nível de seu relacionamento com Autumn foi aumentado para [aut_friendship]!"
 
 # game/script.rpy:34187
 translate pt_br botslut_6b4947dc:
 
     # exp "[botname]'s {color=#f26eff}sluttiness{/color} increased to [bot_slut]!"
-    exp ""
+    exp "A {color=#f26eff}safadeza{/color} de [botname] foi aumentada para [bot_slut]!"
 
 # game/script.rpy:34189
 translate pt_br botslut_ecae5373:
 
     # trait "[botname] gained the Mega Slut trait!"
-    trait ""
+    trait "[botname] ganhou o traço Mega Vadia!"
 
 # game/script.rpy:34194
 translate pt_br botslut_8fdb214f:
 
     # "[botname]'s lust has become unbearable..."
-    ""
+    "A luxúria de [botname] se tornou insuportável..."
 
 # game/script.rpy:34220
 translate pt_br whosthat_82d2a5b5:
@@ -83045,7 +83045,7 @@ translate pt_br ash_insp_9b5852c0:
 translate pt_br ash_insp_823277ac:
 
     # "She probably would have agreed if she were a Buttslut."
-    ""
+    "Ela provavelmente teria concordado se fosse Viciada em Anal."
 
 # game/script.rpy:35564
 translate pt_br ash_insp_c4238d44:
