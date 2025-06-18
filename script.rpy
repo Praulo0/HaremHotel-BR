@@ -79565,97 +79565,97 @@ translate pt_br botslut_8fdb214f:
 translate pt_br whosthat_82d2a5b5:
 
     # ba "*sigh*... Finally, work's over..."
-    ba ""
+    ba "*ufa*... Finalmente, serviço terminado..."
 
 # game/script.rpy:34221
 translate pt_br whosthat_2f79b960:
 
     # q "Tough day?"
-    q ""
+    q "Dia difícil?"
 
 # game/script.rpy:34222
 translate pt_br whosthat_b43093f9:
 
     # ba "Yeah..."
-    ba ""
+    ba "Sim..."
 
 # game/script.rpy:34224
 translate pt_br whosthat_cec34f25:
 
     # ba "Thanks for the help, sis. I don't know what I'd do without you."
-    ba ""
+    ba "Obrigada pela ajuda, irmã. Eu não sei o que eu faria sem você."
 
 # game/script.rpy:34225
 translate pt_br whosthat_6ca07baf:
 
     # q "Don't worry about it! I love this job. A lot of interesting people come in..."
-    q ""
+    q "Não se preocupe com isso! Eu adoro esse trabalho. Muitas pessoas interessantes vêm aqui..."
 
 # game/script.rpy:34226
 translate pt_br whosthat_ea21bb05:
 
     # ba "Yeah... I know what you mean."
-    ba ""
+    ba "Sim... Sei o que você quer dizer."
 
 # game/script.rpy:34227
 translate pt_br whosthat_50e07c08:
 
     # ba "So when are you moving out? You can't bum off me forever you know. And now you're making enough to live on your own..."
-    ba ""
+    ba "Então, quando você vai se mudar? Você não pode depeder de mim para sempre, sabe. E agora você está ganhando o suficiente para viver por conta própria..."
 
 # game/script.rpy:34228
 translate pt_br whosthat_560623e9:
 
     # q "I know, I know. I just need to get some things in order. I'll be out of your hair in no time."
-    q ""
+    q "Eu sei, eu sei. Eu só preciso colocar algumas coisas em ordem. Eu vou sair do seu pé logo logo."
 
 # game/script.rpy:34229
 translate pt_br whosthat_1fc512e8:
 
     # ba "Well, I hope not! I'll still need your help here when you move out."
-    ba ""
+    ba "Bem, eu espero que não! Eu ainda vou precisar da sua ajuda aqui quando você se mudar."
 
 # game/script.rpy:34230
 translate pt_br whosthat_7f5ae7e8:
 
     # q "Of course! I wouldn't leave you here alone to work by yourself."
-    q ""
+    q "Mas é claro! Eu não te deixaria aqui para trabalhar sozinha."
 
 # game/script.rpy:34231
 translate pt_br whosthat_c8c96578:
 
     # ba "Good, I'm glad to hear it."
-    ba ""
+    ba "Que bom, fico feliz em ouvir isso."
 
 # game/script.rpy:34233
 translate pt_br whosthat_ca9056c2:
 
     # q "I guess I'll have to look harder for a place to live..."
-    q ""
+    q "Acho que vou precisar procurar mais por um lugar para morar..."
 
 # game/script.rpy:34234
 translate pt_br whosthat_dd5148d3:
 
     # ba "There's plenty to choose from."
-    ba ""
+    ba "Tem bastante opções para escolher."
 
 # game/script.rpy:34236
 translate pt_br whosthat_4a39a7e4:
 
     # q "Anyway, I'll see you at home!"
-    q ""
+    q "Enfim, nos encontramos em casa!"
 
 # game/script.rpy:34237
 translate pt_br whosthat_72205804:
 
     # ba "Goodbye Autumn!"
-    ba ""
+    ba "Tchau, Autumn!"
 
 # game/script.rpy:34238
 translate pt_br whosthat_72d95007:
 
     # au "Bye!"
-    au ""
+    au "Tchauzinho!"
 
 # game/script.rpy:34248
 translate pt_br linlmafour_0d6eadcd:
