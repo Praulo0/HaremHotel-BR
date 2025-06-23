@@ -79661,403 +79661,403 @@ translate pt_br whosthat_72d95007:
 translate pt_br linlmafour_0d6eadcd:
 
     # c "Maria!" with ssshake
-    c "" with ssshake
+    c "Maria!" with ssshake
 
 # game/script.rpy:34249
 translate pt_br linlmafour_93f8565e:
 
     # c "Ashley!" with ssshake
-    c "" with ssshake
+    c "Ashley!" with ssshake
 
 # game/script.rpy:34251
 translate pt_br linlmafour_820a2f78:
 
     # l "Phew... I can do this..."
-    l ""
+    l "Ufa... Eu consigo fazer isso..."
 
 # game/script.rpy:34253
 translate pt_br linlmafour_97f0d332:
 
     # a "*knock knock*, hello?"
-    a ""
+    a "*toc toc*, olá?"
 
 # game/script.rpy:34258
 translate pt_br linlmafour_7e62ff6f:
 
     # l "Umm..."
-    l ""
+    l "Humm..."
 
 # game/script.rpy:34259
 translate pt_br linlmafour_4a3df6c2:
 
     # m "Wow! Adorable!"
-    m ""
+    m "Uau! Que fofa!"
 
 # game/script.rpy:34260
 translate pt_br linlmafour_e1d3e514:
 
     # l "H-Hello, um..."
-    l ""
+    l "O-Olá, hum..."
 
 # game/script.rpy:34262
 translate pt_br linlmafour_c8fe682b:
 
     # l "[linoname] says the only way I can cum is if I make you two cum first..."
-    l ""
+    l "O [linoname] disse que eu só poderia gozar se eu fizesse vocês duas gozarem primeiro..."
 
 # game/script.rpy:34263
 translate pt_br linlmafour_5996143a:
 
     # l "I've been edging myself for a while... I'm really, really close, so..."
-    l ""
+    l "Há algum tempo que estou me masturbando... Eu estou bem, bem perto, então..."
 
 # game/script.rpy:34265
 translate pt_br linlmafour_f2fda97b:
 
     # m "Mmm, you're a horny little slut, aren't you?"
-    m ""
+    m "Mmm, você é mesmo uma putinha safada, não é?"
 
 # game/script.rpy:34266
 translate pt_br linlmafour_5a54b93c:
 
     # l "Yes... please take your clothes off..."
-    l ""
+    l "Sim... por favor tirem suas roupas..."
 
 # game/script.rpy:34268
 translate pt_br linlmafour_c08e7c53:
 
     # m "I think we should take your clothes off first..."
-    m ""
+    m "Eu acho que nós deveríamos tirar as suas roupas primeiro..."
 
 # game/script.rpy:34269
 translate pt_br linlmafour_dcd28852:
 
     # l "What? No, I need to make {u}you{/u} cum!"
-    l ""
+    l "o quê? Não, eu preciso fazer {u}vocês{/u} gozarem!"
 
 # game/script.rpy:34270
 translate pt_br linlmafour_1393b34b:
 
     # m "I heard you."
-    m ""
+    m "Eu te ouvi."
 
 # game/script.rpy:34272
 translate pt_br linlmafour_928f2952:
 
     # l "Ahh! Ashley, wait!" with ssshake
-    l "" with ssshake
+    l "Ahh! Ashley, espera!" with ssshake
 
 # game/script.rpy:34273
 translate pt_br linlmafour_837725a5:
 
     # m "We're going to have fun teasing you, Lin."
-    m ""
+    m "Nós vamos nos divertir te provocando, Lin."
 
 # game/script.rpy:34274
 translate pt_br linlmafour_d4f41eeb:
 
     # l "What...!? Nnnm!"
-    l ""
+    l "O quê...!? Nnnm!"
 
 # game/script.rpy:34278
 translate pt_br linlmafour_fcf70cbf:
 
     # m "Oh, she's not wearing any panties! What a dirty slut."
-    m ""
+    m "Ah, ela não está usando calcinha! Que vadia indecente."
 
 # game/script.rpy:34279
 translate pt_br linlmafour_969aa0c7:
 
     # l "I normally do...!"
-    l ""
+    l "Eu geralmente uso...!"
 
 # game/script.rpy:34282
 translate pt_br linlmafour_1b846f7c:
 
     # l "Nnhhh...! Wait! I'm supposed to be making you guys feel good!"
-    l ""
+    l "Nnhhh...! Espera! Era para eu estar fazendo vocês se sentirem bem!"
 
 # game/script.rpy:34283
 translate pt_br linlmafour_ec32ef94:
 
     # m "Oh... you will."
-    m ""
+    m "Ah... mas você vai."
 
 # game/script.rpy:34284
 translate pt_br linlmafour_157b02b8:
 
     # m "Push her on the bed, Ash!"
-    m ""
+    m "Empurre ela para a cama, Ash!"
 
 # game/script.rpy:34286
 translate pt_br linlmafour_afe2bcee:
 
     # l "Nh!" with ssshake
-    l "" with ssshake
+    l "Nh!" with ssshake
 
 # game/script.rpy:34287
 translate pt_br linlmafour_05041b49:
 
     # l "Ah!" with ssshake
-    l "" with ssshake
+    l "Ah!" with ssshake
 
 # game/script.rpy:34289
 translate pt_br linlmafour_2522cb6a:
 
     # a "Hehe~ you're soaked!"
-    a ""
+    a "Hehe~ você está encharcada!"
 
 # game/script.rpy:34290
 translate pt_br linlmafour_0e2467de:
 
     # l "Ahh~! Ashley!"
-    l ""
+    l "Ahh~! Ashley!"
 
 # game/script.rpy:34295
 translate pt_br linlmafour_a38c5e9d:
 
     # a "I've never licked a pussy before, but, fuck... yours looks delicious."
-    a ""
+    a "Eu nunca lambi uma boceta antes, mas, porra... a sua parece deliciosa."
 
 # game/script.rpy:34297
 translate pt_br linlmafour_bb48a2fb:
 
     # a "Aahh-"
-    a ""
+    a "Aahh-"
 
 # game/script.rpy:34298
 translate pt_br linlmafour_2c215df2:
 
     # l "Nnnnhh~ ahhh, your breath..." with ssshake
-    l "" with ssshake
+    l "Nnnnhh~ ahhh, a sua respiração..." with ssshake
 
 # game/script.rpy:34300
 translate pt_br linlmafour_00e23105:
 
     # a "-Hhlmn..."
-    a ""
+    a "-Hhlmn..."
 
 # game/script.rpy:34301
 translate pt_br linlmafour_c47961b1:
 
     # l "Mmmnnnn~!" with ssshake
-    l "" with ssshake
+    l "Mmmnnnn~!" with ssshake
 
 # game/script.rpy:34302
 translate pt_br linlmafour_098fa771:
 
     # l "Aghhh, Ashley... Ahhh wha... wait! Mmnnn!"
-    l ""
+    l "Aghhh, Ashley... Ahhh o qu... espera! Mmnnn!"
 
 # game/script.rpy:34304
 translate pt_br linlmafour_c651e221:
 
     # m "Really? This is your first time eating a pussy?"
-    m ""
+    m "Sério? Essa é a sua primeira vez comendo uma boceta?"
 
 # game/script.rpy:34305
 translate pt_br linlmafour_1d5bebf5:
 
     # m "If I knew that, I would have let you practice on me..."
-    m ""
+    m "Se eu soubesse disso, teria deixado você praticar em mim..."
 
 # game/script.rpy:34306
 translate pt_br linlmafour_11722929:
 
     # m "How does she taste?"
-    m ""
+    m "Como é o gosto dela?"
 
 # game/script.rpy:34307
 translate pt_br linlmafour_7c494296:
 
     # a "Mmmph, mmn... sort of like... lllmn... honeydew?"
-    a ""
+    a "Mmmph, mmn... é meio... llmn... adocicado?"
 
 # game/script.rpy:34308
 translate pt_br linlmafour_1418a6cc:
 
     # l "Aghhh! Ashley, mmn! Please!" with ssshake
-    l "" with ssshake
+    l "Aghhh! Ashley, mmn! Por favor!" with ssshake
 
 # game/script.rpy:34309
 translate pt_br linlmafour_230df406:
 
     # m "I got a hint of that from her as well! I wonder if all elves are like that?"
-    m ""
+    m "Também percebi isso nela! Será que todos os elfos são assim?"
 
 # game/script.rpy:34311
 translate pt_br linlmafour_1f1a30b2:
 
     # l "Hahhh! Not so hard, Ashley! [linoname] needs to make me cum! Nnnnh!"
-    l ""
+    l "Hahhh!  Não tão forte assim, Ashley! O [linoname] precisa me fazer gozar! Nnnnh!"
 
 # game/script.rpy:34312
 translate pt_br linlmafour_f22ac417:
 
     # a "Lllmn, hehe~ try your best to hold it!"
-    a ""
+    a "Lllmn, hehe~ então dê o seu melhor para aguentar!"
 
 # game/script.rpy:34313
 translate pt_br linlmafour_1249bb38:
 
     # l "Nnnh! No, Ashley that's not how this is supposed to work! Mmmn!" with ssshake
-    l "" with ssshake
+    l "Nnnh! Não, Ashley, não é assim que isso deve funcionar!" with ssshake
 
 # game/script.rpy:34314
 translate pt_br linlmafour_e700a7ff:
 
     # a "I know, hehehehe~"
-    a ""
+    a "Eu sei, hehehehe~"
 
 # game/script.rpy:34315
 translate pt_br linlmafour_9bfd9023:
 
     # l "Nnngh! Hnng! [linoname], help me...! Mmmn!"
-    l ""
+    l "Nnngh! Hnng! [linoname], socorro...! Mmmn!"
 
 # game/script.rpy:34319
 translate pt_br linlmafour_c9590760:
 
     # m "Fuck, you're adorable, are you ready to eat me you horny little slut?"
-    m ""
+    m "Porra, você é adorável, você está pronta para me comer, sua putinha safada?"
 
 # game/script.rpy:34320
 translate pt_br linlmafour_a171179d:
 
     # l "Ah, yes! Please, cum fast! Mmmmh!"
-    l ""
+    l "Ah, sim! Por favor, goze rápido! Mmmmh!"
 
 # game/script.rpy:34322
 translate pt_br linlmafour_d693781d:
 
     # m "I don't know, you seem to want this a looot more than I do... what if I don't? Will you get punished?"
-    m ""
+    m "Eu não sei, você parece querer isso beeem mais do que eu quero... e se eu não gozar? Você vai ser castigada?"
 
 # game/script.rpy:34323
 translate pt_br linlmafour_008476f9:
 
     # l "Nnnnnnnggh! I don't know what will happen!"
-    l ""
+    l "Nnnnnnnggh! Eu não sei o que vai acontecer!"
 
 # game/script.rpy:34324
 translate pt_br linlmafour_bb20b039:
 
     # m "Maybe I'd like to find out..."
-    m ""
+    m "Talvez eu queira descobrir..."
 
 # game/script.rpy:34325
 translate pt_br linlmafour_f5e66fe3:
 
     # l "Maria, please! Let me lick your pussy! Mmmnnn!!"
-    l ""
+    l "Maria, por favor! Me deixa lamber a sua boceta! Mmmnnn!!"
 
 # game/script.rpy:34329
 translate pt_br linlmafour_1ace9205:
 
     # m "Mmmn, good girl! Give my bean a lot of attention, okay?"
-    m ""
+    m "Mmmn, boa menina! Dê bastante atenção a minha periquita, tá bom?"
 
 # game/script.rpy:34330
 translate pt_br linlmafour_bd2fae4c:
 
     # l "Mmmhmmph! Llnlnmm!"
-    l ""
+    l "Mmmhmmph! Llnlnmm!"
 
 # game/script.rpy:34331
 translate pt_br linlmafour_fb34008d:
 
     # m "Ahhhh... Mmmmn...! Fuck, I love it when you're needy! Ah!"
-    m ""
+    m "Ahhhh... Mmmmn...! Porra, eu amo quando você está carente! Ah!"
 
 # game/script.rpy:34334
 translate pt_br linlmafour_fee35b7d:
 
     # l "Aahlllmn... Lmmn...! Lmmn, Llmn!"
-    l ""
+    l "Aahlllmn... Lmmn...! Lmmn, Llmn!"
 
 # game/script.rpy:34335
 translate pt_br linlmafour_7cacee65:
 
     # l "Nnngghh! Mmmph! Nnnnn! Maria...! Mmmn!"
-    l ""
+    l "Nnngghh! Mmmph! Nnnnn! Maria...! Mmmn!"
 
 # game/script.rpy:34337
 translate pt_br linlmafour_70af1009:
 
     # m "Hmmmm? What was that? Did you want to tell me something?"
-    m ""
+    m "Hmmmm? O que foi? Você quer me falar alguma coisa?"
 
 # game/script.rpy:34338
 translate pt_br linlmafour_0347a5de:
 
     # l "Ahh!? N-No! Please...! I'm so close...!!!"
-    l ""
+    l "Ahh!? N-Não! Por favor...! Eu estou tão perto...!!!"
 
 # game/script.rpy:34340
 translate pt_br linlmafour_a21ab46c:
 
     # l "MMMMMM!!! ASHLEY! Slow down! Wait! Slow down!! Aaaah!" with ssshake
-    l "" with ssshake
+    l "MMMMMM!!! ASHLEY! Mais devagar! Espera! Mais devaar!! Aaaah!" with ssshake
 
 # game/script.rpy:34341
 translate pt_br linlmafour_ccff0a4e:
 
     # a "That's no fun... I like seeing you squirm!"
-    a ""
+    a "Assim não tem graça... Eu gosto de ver você se contorcendo!"
 
 # game/script.rpy:34342
 translate pt_br linlmafour_e196202c:
 
     # l "Hnnnngg! Ashley...! MMMmmmMMmm!"
-    l ""
+    l "Hnnnngg! Ashley...! MMMmmmMMmm!"
 
 # game/script.rpy:34344
 translate pt_br linlmafour_26e98200:
 
     # l "Mmmmph! Mmmnnn!! HMMM!" with ssshake
-    l "" with ssshake
+    l "Mmmmph! Mmmnnn!! HMMM!" with ssshake
 
 # game/script.rpy:34347
 translate pt_br linlmafour_bfdebac8:
 
     # l "MMMN! MMMMPH! LLLMN! MMNNNLMN!" with ssshake
-    l "" with ssshake
+    l "MMMN! MMMMPH! LLLMN! MMNNNLMN!" with ssshake
 
 # game/script.rpy:34348
 translate pt_br linlmafour_b10b363c:
 
     # m "Oh, fuck...!"
-    m ""
+    m "Ah, porra...!"
 
 # game/script.rpy:34349
 translate pt_br linlmafour_c4de9613:
 
     # l "LMMMH!! MMMPMM!! HHMMN! HHHNMMNLMN!!!" with ssshake
-    l "" with ssshake
+    l "LMMMH!! MMMPMM!! HHMMN! HHHNMMNLMN!!!" with ssshake
 
 # game/script.rpy:34350
 translate pt_br linlmafour_7b50fcf5:
 
     # m "Fuck, oh god...! Just like that! Mmmn!"
-    m ""
+    m "Porra, ai deus...! Bem assim! Mmmn!"
 
 # game/script.rpy:34351
 translate pt_br linlmafour_7286a178:
 
     # l "HHHHMMMN!!! MMMMPH!!! HMMMNGH!!! HHHMMNN!!! NNNGH!!!" with ssshake
-    l "" with ssshake
+    l "HHHHMMMN!!! MMMMPH!!! HMMMNGH!!! HHHMMNN!!! NNNGH!!!" with ssshake
 
 # game/script.rpy:34353
 translate pt_br linlmafour_77ad27c2:
 
     # l "HNNNNNNGH!!!" with ssshake
-    l "" with ssshake
+    l "HNNNNNNGH!!!" with ssshake
 
 # game/script.rpy:34354
 translate pt_br linlmafour_244438c6:
 
     # a "Mmmph! Lllmn! Her pussy is getting sho puffy...! Mmmn!"
-    a ""
+    a "Mmmph! Lllmn! "
 
 # game/script.rpy:34355
 translate pt_br linlmafour_4933fe08:
