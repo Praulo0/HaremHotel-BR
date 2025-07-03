@@ -81137,7 +81137,7 @@ translate pt_br klustsex1_f02bb98a:
 translate pt_br klustsex1_4d7f50c1:
 
     # k "Hahhh...! fuck...! Hahhh... [name]..."
-    k ""Hahhh...! porra...! Hahhh... [name]..."
+    k "Hahhh...! porra...! Hahhh... [name]..."
 
 # game/script.rpy:34706
 translate pt_br klustsex1_0437c0f7:
@@ -81989,7 +81989,7 @@ translate pt_br kali_publicwalk_68408412:
 translate pt_br kali_publicwalk_4a848182:
 
     # k "Aaaaahhh...! Hnnnn! That felt... so good..."
-    k ""Aaaaahhh...! Hnnnn! Isso foi... tão gostoso...
+    k "Aaaaahhh...! Hnnnn! Isso foi... tão gostoso...
 
 # game/script.rpy:34979
 translate pt_br kali_publicwalk_442595ec:
@@ -82037,121 +82037,121 @@ translate pt_br kl_drow_16c4c787:
 translate pt_br kl_drow_a995caf3:
 
     # k "Ahhhh...! Hahhhhh...! MMMM... ! Please! Fuck me harderrrr!!!"
-    k ""
+    k "Ahhhh...! Hahhhhh...! MMMM... ! Please! Por favor! Me fode mais forteeee!!!"
 
 # game/script.rpy:35011
 translate pt_br kl_drow_174f3605:
 
     # k "Mmmmmmnnnn! Nnnnggh... maybe I should have put an extra dose in you, hm? Ahhh!"
-    k ""
+    k "Mmmmmmnnnn! Nnnnggh... Talvez eu devesse ter colocado uma dose extra em você, hm? Ahhh!"
 
 # game/script.rpy:35012
 translate pt_br kl_drow_50831fef:
 
     # k "Hahh! I need you rougher... Mmmh! I want you to force an orgasm out of me!! NNNGH"
-    k ""
+    k "Hahh! Eu preciso que você seja mais bruto... Mmmh! Eu quero que você me force a ter um orgsmo!! NNNGH"
 
 # game/script.rpy:35013
 translate pt_br kl_drow_dff7992f:
 
     # k "Harder, [name]! HARDERRR!!!"
-    k ""
+    k "Mais forte, [name]! MAIS FORTEEE!!!"
 
 # game/script.rpy:35015
 translate pt_br kl_drow_a857ccb8:
 
     # k "Ngghhh!" with ssshake
-    k "" with ssshake
+    k "Ngghhh!" with ssshake
 
 # game/script.rpy:35016
 translate pt_br kl_drow_ec6e006a:
 
     # k "Ahhh! You're cumming?" with ssshake
-    k "" with ssshake
+    k "Ahhh! Você está gozando?" with ssshake
 
 # game/script.rpy:35017
 translate pt_br kl_drow_b52a592b:
 
     # k "Mmmngh! I hope this stuff works...!" with ssshake
-    k "" with ssshake
+    k "Mmmngh! Eu espero que essa coisa funcione...!" with ssshake
 
 # game/script.rpy:35019
 translate pt_br kl_drow_6128324f:
 
     # k "NNNNGGH! Oh, fuck!! [name]! Hahhhhh! YES!"
-    k ""
+    k "NNNNGGH! oh, porra! [name]! Hahhhhh! ISSO!"
 
 # game/script.rpy:35020
 translate pt_br kl_drow_3fbd59bd:
 
     # k "Mmmmmngh! This stuff is magic...! MMMNN! Fuck! You feel so good!!"
-    k ""
+    k "Mmmmmngh! Essa coisa é mágica...! MMMNN! Porra! Você é tão gostoso!!"
 
 # game/script.rpy:35021
 translate pt_br kl_drow_c289224d:
 
     # k "Ahhh! Hahhhh! Hnnnn! Aaaaahhhh!!!"
-    k ""
+    k "Ahhh! Hahhhh! Hnnnn! Aaaaahhhh!!!"
 
 # game/script.rpy:35024
 translate pt_br kl_drow_6224ffd6:
 
     # k "Nnnnn! I need it! I need to cum, [name]! AAAAAHHH! HARDER! Mmmmmm!"
-    k ""
+    k "Nnnnn! Eu preciso disso! Eu preciso gozar, [name]! AAAAAHHH! MAIS FORTE! Mmmmmm!"
 
 # game/script.rpy:35025
 translate pt_br kl_drow_ca167985:
 
     # k "I've done everything you've wanted! Mmmmnh! Aaah! I let you tease me, now please, just make me cum!!! Aaaah! HNNNG!"
-    k ""
+    k "Eu já fiz tudo o que você queria! Mmmmnh! Aaah! Eu deixei você me provocar, agora por favor, só me faça gozar logo!!! Aaaah! HNNNG!"
 
 # game/script.rpy:35026
 translate pt_br kl_drow_77b3766c:
 
     # k "Ohhhh! Ohh! MMMMMN! YES! YESSS!!! Oh my god! I'm so close!!! AAAH!"
-    k ""
+    k "Ohhhh! Ohh! MMMMMN! ISSO! ISSOOO!!! Ai meu deus! Eu estou tão perto!!! AAAH!"
 
 # game/script.rpy:35027
 translate pt_br kl_drow_147d57d7:
 
     # k "Yesyesyes, YES! AAAHHH! HHAHHHH! NNNGHH! I'M CUMMING!!!"
-    k ""
+    k "Issoissoisso, ISSO! AAAHHH! HHAHHHH! NNNGHH! EU ESTOU GOZANDO!!!"
 
 # game/script.rpy:35029
 translate pt_br kl_drow_8e10502a:
 
     # k "Hngh, AAAAAAH!!!!" with sshake
-    k "" with sshake
+    k "Hngh, AAAAAAH!!!!" with sshake
 
 # game/script.rpy:35030
 translate pt_br kl_drow_5337fb47:
 
     # k "YESSS! YESSSSS!!!!" with sshake
-    k "" with sshake
+    k "ISSOOO! ISSOOOOO!!!!" with sshake
 
 # game/script.rpy:35031
 translate pt_br kl_drow_aee81642:
 
     # k "FUCKFUCKFUCK! FUCK! MMMMMN!" with sshake
-    k "" with sshake
+    k "PORRAPORRAPORRA! PORRA! MMMMMN!" with sshake
 
 # game/script.rpy:35033
 translate pt_br kl_drow_dde84279:
 
     # k "Hahhhh...! Ahhhh...! Hahh...!"
-    k ""
+    k "Hahhhh...! Ahhhh...! Hahh...!"
 
 # game/script.rpy:35034
 translate pt_br kl_drow_6cc13bf1:
 
     # k "Nnngghh~ Mmmh... I can't stop twitching..."
-    k ""
+    k "Nnngghh~ Mmmh...  Não consigo parar de me contorcer..."
 
 # game/script.rpy:35035
 translate pt_br kl_drow_56f10b02:
 
     # k "Ahhh..."
-    k ""
+    k "Ahhh..."
 
 # game/script.rpy:35043
 translate pt_br kl_drow_0437c0f7:
@@ -82163,7 +82163,7 @@ translate pt_br kl_drow_0437c0f7:
 translate pt_br lustsystem_bf96246c:
 
     # k "Hey handsome..."
-    k ""
+    k "Ei bonitão..."
 
 # game/script.rpy:35104
 translate pt_br lustsystem_48fc288b:
@@ -82175,31 +82175,31 @@ translate pt_br lustsystem_48fc288b:
 translate pt_br lustsystem_421aa746:
 
     # k "Fuck me..."
-    k ""
+    k "Vem me foder..."
 
 # game/script.rpy:35108
 translate pt_br lustsystem_e0c5f72c:
 
     # k "Oh, yes sir..."
-    k ""
+    k "Ah, sim senhor..."
 
 # game/script.rpy:35113
 translate pt_br lustsystem_7ae7c860:
 
     # k "Urgh."
-    k ""
+    k "Urgh."
 
 # game/script.rpy:35116
 translate pt_br lustsystem_dd3045ce:
 
     # k "Really? That's how you're going to treat me?"
-    k ""
+    k "Sério? É assim que você vai me tratar?"
 
 # game/script.rpy:35117
 translate pt_br lustsystem_b6252e4f:
 
     # k "I dressed up for you and everything..."
-    k ""
+    k "Eu até me vesti pra você e tudo..."
 
 # game/script.rpy:35120
 translate pt_br lustsystem_94638605:
