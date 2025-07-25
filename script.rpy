@@ -16186,7 +16186,7 @@ translate pt_br bluebun_sex_0947216b:
 translate pt_br bluebun_sex_1ed29640:
 
     # bbun "Haah~! Mmmh! Do you like that? Mmmh...! You feel so good!"
-    bbun "Haah~ Mmmh! Você gostou disso? Mmmh...! Você é tão bom!"
+    bbun "Haah~ Mmmh! Você gostou disso? Mmmh...! Você é tão gostoso!"
 
 # game/script.rpy:9764
 translate pt_br bluebun_sex_5915d8b3:
@@ -23758,7 +23758,7 @@ translate pt_br shower_e063cb62:
 translate pt_br shower_a9df453f:
 
     # k "Ahh...! Yes, don't stop! Mmh! Fuck...! You feel so good...!"
-    k "Ahh...! Isso, não para! Mmh! Porra...! Você é tão bom...!"
+    k "Ahh...! Isso, não para! Mmh! Porra...! Você é tão gostoso...!"
 
 # game/script.rpy:12597
 translate pt_br shower_796e226d:
@@ -82085,7 +82085,7 @@ translate pt_br kl_drow_6128324f:
 translate pt_br kl_drow_3fbd59bd:
 
     # k "Mmmmmngh! This stuff is magic...! MMMNN! Fuck! You feel so good!!"
-    k "Mmmmmngh! Essa coisa é mágica...! MMMNN! Porra! Você é tão gostoso!!"
+    k "Mmmmmngh! Essa coisa é mágica...! MMMNN! Porra! Você é tão gostoso!!!"
 
 # game/script.rpy:35021
 translate pt_br kl_drow_c289224d:
@@ -82727,7 +82727,7 @@ translate pt_br klq_2171a5ed:
 translate pt_br alt2_1c18d3d3:
 
     # c "I'm going to inspect your body."
-    c "Eu vou inspecionar você."
+    c "Eu vou inspecionar o seu corpo."
 
 # game/script.rpy:35405
 translate pt_br alt2_a14a6ae3:
@@ -83099,7 +83099,7 @@ translate pt_br ash_insp_b3609400:
 translate pt_br ash_insp_c029daca:
 
     # c "Maybe next time."
-    c "Talvez na próxima"
+    c "Talvez na próxima."
 
 # game/script.rpy:35586
 translate pt_br ash_insp_07637fd9:
@@ -83807,67 +83807,67 @@ translate pt_br lin_insp_6bf20f93:
 translate pt_br lin_insp_e867228a:
 
     # l "Nnghk! Harder...! Mmmmghh! Harder! I want to cummm! [linoname], please make me cum! Aagh!"
-    l ""
+    l "Nnghk! Mais forte...! Mmmmghh! Mais forte! Eu quero gozaaar! [linoname], por favor, me faça gozar! "
 
 # game/script.rpy:35942
 translate pt_br lin_insp_92bd8b7d:
 
     # l "Ahhhh!! Hmmmm! Hmmmmmmmmm!! Your teasing makes me so horny... Aaahh! Mmmmmh! I can't take it anymore!!"
-    l ""
+    l "Ahhhh!! Hmmmm! Hmmmmmmmmm!! As suas provocações me deixam com tanto tesão... Aaahh! Mmmmmh! Eu não consigo aguentar mais!!"
 
 # game/script.rpy:35945
 translate pt_br lin_insp_f183d12c:
 
     # l "[linoname], [linoname], [linoname]!! Mmmmhhh! Aaah! You feel... so gooooood! Haaaaaahhh!"
-    l ""
+    l "[linoname], [linoname], [linoname]!! Mmmmhhh! Aaah! Você é... tão gostosoooooo! Haaaaaahhh!"
 
 # game/script.rpy:35946
 translate pt_br lin_insp_61c28eeb:
 
     # l "Oooohhh...! MMMMMM! Punish me, [linoname]! I've been a bad girl...! Aaaah!!"
-    l ""
+    l "Oooohhh...! MMMMMM! Me castiga, [linoname]! Eu fui uma menina má...! Aaaaj!"
 
 # game/script.rpy:35947
 translate pt_br lin_insp_b0dcd231:
 
     # l "Ohhh! Ohh! Eeeee! I'm almost... cumming, don't stop! Nghk!! Don't stop!!! AAAHHH!"
-    l ""
+    l "Ohhh! Ohh! Eeeee! Eu estou quase... gozando, não para! Nghk!! Não para!!! AAAHHH!"
 
 # game/script.rpy:35948
 translate pt_br lin_insp_f225df0b:
 
     # l "[linoname], [linoname], no more teasing!!! Don't stop using me, cum inside! Cum inside! It's okay! NNNGHK! Don't stop! Aaah! CUMMM!!!"
-    l ""
+    l "[linoname], [linoname], chega de provocações!!! Não pare de me usar, goza dentro! Goza dentro! Está tudo bem! NNNGHK! Não para! Aaah! GOZAAA!!!"
 
 # game/script.rpy:35950
 translate pt_br lin_insp_483e0001:
 
     # l "AAAAAAAAAH!!! AGHH!" with sshake
-    l "" with sshake
+    l "AAAAAAAAAH!!! AGHH!" with sshake
 
 # game/script.rpy:35951
 translate pt_br lin_insp_705bf3ba:
 
     # l "[linoname] yes! I'm -nghk! Cumming!!" with sshake
-    l "" with sshake
+    l "[linoname] isso! Eu estou -nghk! Gozando!!" with sshake
 
 # game/script.rpy:35952
 translate pt_br lin_insp_04135e6f:
 
     # l "NNNGHKK! GGHHKK!"
-    l ""
+    l "NNNGHKK! GGHHKK!"
 
 # game/script.rpy:35954
 translate pt_br lin_insp_fd7808df:
 
     # l "Nnnh..." with ssshake
-    l "" with ssshake
+    l "Nnnh..." with ssshake
 
 # game/script.rpy:35955
 translate pt_br lin_insp_f51e3e6f:
 
     # l "[linoname]... that felt so good... I want more..."
-    l ""
+    l "[linoname]... isso foi tão gostoso... Eu quero mais..."
 
 # game/script.rpy:35966
 translate pt_br lin_insp_96ef4eb3_1:
@@ -83879,115 +83879,115 @@ translate pt_br lin_insp_96ef4eb3_1:
 translate pt_br lin_insp_f6f41509:
 
     # m "Psst, hey..."
-    m ""
+    m "Psiu, eu..."
 
 # game/script.rpy:35977
 translate pt_br lin_insp_8a5eb6ec:
 
     # c "Good morning, Maria."
-    c ""
+    c "Bom dia, Maria."
 
 # game/script.rpy:35978
 translate pt_br lin_insp_c2ef1578:
 
     # m "Let's have some fun..."
-    m ""
+    m "Vamos nos divertir um pouco..."
 
 # game/script.rpy:35982
 translate pt_br lin_insp_1fdb99c3:
 
     # m "Finally~ I've dying for you to take care of my wet pussy..."
-    m ""
+    m "Finalmente~ Estou louco para você cuidar da minha boceta molhada..."
 
 # game/script.rpy:35984
 translate pt_br lin_insp_1edcff4c:
 
     # m "Mmmmh, I woke up with my panties soaked..."
-    m ""
+    m "Mmmmh, eu acordei com a minha calcinha encharcada..."
 
 # game/script.rpy:35985
 translate pt_br lin_insp_a98dba34:
 
     # m "It's so hard to get anything done like this, [name]... please fix me...?"
-    m ""
+    m "É tão difícil de conseguir fazer qualquer coisa assim, [name]...  Por favor, me conserte...?"
 
 # game/script.rpy:35987
 translate pt_br lin_insp_ac79482f:
 
     # m "Mmmmh! YES!" with ssshake
-    m "" with ssshake
+    m "Mmmmh! ISSO!" with ssshake
 
 # game/script.rpy:35989
 translate pt_br lin_insp_e7fbdb0b:
 
     # m "Nnn! Aaaahhh...! You gave me goosebumps already, [name]! Heheh... Mmmmmn~!"
-    m ""
+    m "Nnn! Aaaahhh...! Você já me deixou toda arrepiada, [name]! Heheh... Mmmmmn~!"
 
 # game/script.rpy:35990
 translate pt_br lin_insp_74a5b0dd:
 
     # m "Ahhh! Oh, fuck...! Thank you [name]~! Thank you...! My head gets so foggy when my pussy is this wet, mmmh! I couldn't get anything done without your delicious cock~!"
-    m ""
+    m "Ahhh! Oh, porra...! Obrigada, [name]~! Obrigada...! A minha mente fica tão cofusa quando a minha boceta fica molhada assim, mmmh! Eu não conseguiria fazer nada sem o seu delicioso pau~!"
 
 # game/script.rpy:35991
 translate pt_br lin_insp_7e1d5c96:
 
     # m "Hahhhh! Hnnnngh! Yesssss! Deeper, [name], deeper! Mmmmmh! I need you so bad right now~!"
-    m ""
+    m "Hahhhh! Hnnnngh! Isssso! Mais fundo, [name], mais fundo! Mmmmmmh! Eu preciso tanto de você agora~!"
 
 # game/script.rpy:35994
 translate pt_br lin_insp_abe1e4d9:
 
     # m "AAH! Hnnngh! Don't stop, fuck! You're gonna make me cum all over your big fucking cock~! Hahhhhn!"
-    m ""
+    m "AAH! Não para, porra! Você vai me fazer gozar tudo em cima do seu pau grande pra porra~! Hahhhhn!"
 
 # game/script.rpy:35995
 translate pt_br lin_insp_ce57df8a:
 
     # m "NNNNH! Oh my FUCKING god, AAAH! You like that...? Mmmmh, you like that tight pussy, [name]...? Hnnng, yeah... yeah...!"
-    m ""
+    m "NNNNH! Ai meu deus PORRA, AAAH! VocÇe gosta disso...? Mmmmh, você gosta dessa boceta apertada, [name]...? Hnnng, isso...!"
 
 # game/script.rpy:35996
 translate pt_br lin_insp_679b760f:
 
     # m "HAAHH! Nnnn, don't fucking stop! Please, MMMM! I'm gonna fucking cummmm! Yes, yes! NNNNNH! YESSS!!"
-    m ""
+    m "HAAHH! Nnnn, não para, caralho! Por favor, MMMM! Eu vou gozar, porraaaa! Isso, isso! NNNNNH! ISSSO!!"
 
 # game/script.rpy:35999
 translate pt_br lin_insp_f47470d6:
 
     # m "YES! YES!! YES!!! I'M CUMMINGGGG!!!"
-    m ""
+    m "ISSO! ISSO!! ISSO!!! ESTOU GOZANDOOOO!!!"
 
 # game/script.rpy:36001
 translate pt_br lin_insp_70ff4f81:
 
     # m "HAAAAAHHH! AAAH, AAAAHHH~!" with ssshake
-    m "" with ssshake
+    m "HAAAAAHHH! AAAH, AAAAHHH~!" with ssshake
 
 # game/script.rpy:36002
 translate pt_br lin_insp_26b38fbb:
 
     # m "HNNNGH, yess!" with ssshake
-    m "" with ssshake
+    m "HNNNGH, issoo!" with ssshake
 
 # game/script.rpy:36003
 translate pt_br lin_insp_eb9fb38d:
 
     # m "Aaaaah! So much cummm~!" with ssshake
-    m "" with ssshake
+    m "Aaaaah! Tanta porra~!" with ssshake
 
 # game/script.rpy:36004
 translate pt_br lin_insp_8f9f3e54:
 
     # m "Aahhhh... fuck...! That's so much, [name]..."
-    m ""
+    m "Aahhhh... porrra...! Isso é muito, [name]..."
 
 # game/script.rpy:36005
 translate pt_br lin_insp_3901f4ff:
 
     # m "Hahhh... nnngh... I think I'm better now... thank you~"
-    m ""
+    m "Hahhh... nnngh... Acho que estou melhor agora... obrigada~"
 
 # game/script.rpy:36011
 translate pt_br lin_insp_b5aae0f6:
@@ -83999,31 +83999,31 @@ translate pt_br lin_insp_b5aae0f6:
 translate pt_br lin_insp_b5326a0c:
 
     # m "YE- wh- huh!?"
-    m ""
+    m "ISS- o q- hein!?"
 
 # game/script.rpy:36017
 translate pt_br lin_insp_32a23977:
 
     # m "What the FUCK!? Come onnnnnnnnnnnn~! What are you doing, baby...?"
-    m ""
+    m "Mas que PORRA!? Vamos láááááááááááá~! O que é que você está fazendo, bebê...?"
 
 # game/script.rpy:36018
 translate pt_br lin_insp_46392d02:
 
     # c "You cum when I decide..."
-    c ""
+    c "Você vai gozar quando eu decidir..."
 
 # game/script.rpy:36019
 translate pt_br lin_insp_1a7e52dc:
 
     # m "Wha... What...? Hnnnn... Hahhh... But... I wanna cum now...!"
-    m ""
+    m "O qu... Quê...? Hnnnn... Hahhh... Mas... Eu quero gozar agora...!"
 
 # game/script.rpy:36020
 translate pt_br lin_insp_ca37989a:
 
     # c "See you soon..."
-    c ""
+    c "Até depois..."
 
 # game/script.rpy:36025
 translate pt_br lin_insp_79b870e7:
@@ -84035,13 +84035,13 @@ translate pt_br lin_insp_79b870e7:
 translate pt_br lin_insp_bbbffa5b:
 
     # m "What!? Tsk... the one time I want you to treat me like a sex doll..."
-    m ""
+    m "O quê!? Tsc... E logo na vez em que eu queria que você me tratasse como uma boneca sexual..."
 
 # game/script.rpy:36035
 translate pt_br lin_insp_260a5708:
 
     # m "What, why!? D-Do you not find me attractive anymore...?"
-    m ""
+    m "O quÊ, por quê!? V-Você não me acha mais atraente...?"
 
 # game/script.rpy:36038
 translate pt_br lin_insp_79b870e7_1:
@@ -84053,241 +84053,241 @@ translate pt_br lin_insp_79b870e7_1:
 translate pt_br lin_insp_305bf98c:
 
     # m "I'm going to let you in on a little secret... I can't stop thinking about your cock~!"
-    m ""
+    m "Vou te contar um segredinho... Eu não consigo parar de pensar no seu pau~!"
 
 # game/script.rpy:36046
 translate pt_br mlt2_1c18d3d3:
 
     # c "I'm going to inspect your body."
-    c ""
+    c "Eu vou inspecionar o seu corpo."
 
 # game/script.rpy:36047
 translate pt_br mlt2_8e13a431:
 
     # m "Don't keep me waiting too long~"
-    m ""
+    m "Não me faça esperar demais~"
 
 # game/script.rpy:36049
 translate pt_br mlt2_46c7c676:
 
     # m "Molest me with your eyes... I want you harder than a rock."
-    m ""
+    m "Me assedie com os seus olhos... Eu quero você mais duro que uma pedra."
 
 # game/script.rpy:36051
 translate pt_br mar_insp_9e56b4f0:
 
     # m "..." nointeract
-    m "" nointeract
+    m "..." nointeract
 
 # game/script.rpy:36054
 translate pt_br mar_insp_7f7f012f:
 
     # m "My mouth...? Exclusively for your cock..."
-    m ""
+    m "A minha boca...? Exclusivamente para o seu pau..."
 
 # game/script.rpy:36058
 translate pt_br mar_insp_bcb2d68a:
 
     # m "Llln... Mmmln..."
-    m ""
+    m "Llln... Mmmln..."
 
 # game/script.rpy:36062
 translate pt_br mar_insp_afc0a329:
 
     # m "Lllnnnghk! Hnghk!" with ssshake
-    m "" with ssshake
+    m "Lllnnnghk! Hnghk!" with ssshake
 
 # game/script.rpy:36064
 translate pt_br mar_insp_dcd9deaf:
 
     # m "Lllmn... I love it when you hit that spot in the back of my throat... mmmlmn..."
-    m ""
+    m "Lllmn... Eu amo quando você acerta aquele ponto na parte de trás da minha garganta... mmmlmn..."
 
 # game/script.rpy:36068
 translate pt_br mar_insp_7ec7eb83:
 
     # m "Oh, do you wanna fuck 'em? Go ahead~"
-    m ""
+    m "Ah, você quer foder eles? Vá em frente~"
 
 # game/script.rpy:36073
 translate pt_br mar_insp_33480161:
 
     # m "Stand still."
-    m ""
+    m "Fique parado."
 
 # game/script.rpy:36075
 translate pt_br mar_insp_bfbfe6ee:
 
     # m "Mmmm... that look in your eyes... I love it."
-    m "Mmmm..."
+    m "Mmmm... esse ar nos seus olhos... eu adoro..."
 
 # game/script.rpy:36079
 translate pt_br mar_insp_0540ec20:
 
     # m "What are you waiting for...? I'm already soaking wet..."
-    m ""
+    m "Pelo que é que você está esperando... Eu já estou toda encharcada..."
 
 # game/script.rpy:36082
 translate pt_br mar_insp_1213736c:
 
     # c "Turn around."
-    c ""
+    c "Vire-se."
 
 # game/script.rpy:36084
 translate pt_br mar_insp_695e0e77:
 
     # m "Hnnn, just take it out already~"
-    m ""
+    m "Hnnn, tira isso logo~"
 
 # game/script.rpy:36089
 translate pt_br mar_insp_7daf9616:
 
     # c "Get on the bed and spread your legs."
-    c ""
+    c "Suba na cama e abra as suas pernas."
 
 # game/script.rpy:36091
 translate pt_br mar_insp_7b62810c:
 
     # m "Mmmmm, please... dive in!"
-    m ""
+    m "Mmmmm, por favor... sirva-se!"
 
 # game/script.rpy:36095
 translate pt_br mar_insp_4545923e:
 
     # m "Ah~ lick me..."
-    m ""
+    m "Ah~ me lambe..."
 
 # game/script.rpy:36099
 translate pt_br mar_insp_5c34c808:
 
     # m "Fuck, you're so close... your breath is driving me crazy!"
-    m ""
+    m "Porra, você está tão perto... a sua respiração está me deixando louca!"
 
 # game/script.rpy:36104
 translate pt_br mar_insp_bbf2072c:
 
     # c "Bring your ass up."
-    c ""
+    c "Levante a sua bunda."
 
 # game/script.rpy:36106
 translate pt_br mar_insp_271d025d:
 
     # m "How long are you going to stare...? Fuck, I need you..."
-    m ""
+    m "Por quanto tempo você ainda vai ficar me encarando...? Porra, eu preciso de você..."
 
 # game/script.rpy:36110
 translate pt_br mar_insp_8d0e7659:
 
     # m "[name], please... just fuck me!"
-    m ""
+    m "[name], por favor... só me fode!"
 
 # game/script.rpy:36114
 translate pt_br mar_insp_6aa5de90:
 
     # m "Grab my hips and pull me in~"
-    m ""
+    m "Agarre os meus quadris e me puxe para perto~ "
 
 # game/script.rpy:36120
 translate pt_br mar_insp_10364ffa:
 
     # m "Don't stare too long..."
-    m ""
+    m "Não fique encarando demais..."
 
 # game/script.rpy:36128
 translate pt_br mar_insp_6b0eb8dd:
 
     # c "Strip and get on the bed."
-    c ""
+    c "Tire as suas roupas e suba na cama."
 
 # game/script.rpy:36130
 translate pt_br mar_insp_1fdb99c3:
 
     # m "Finally~ I've dying for you to take care of my wet pussy..."
-    m ""
+    m "Finalmente~ Estou louco para você cuidar da minha boceta molhada..."
 
 # game/script.rpy:36132
 translate pt_br mar_insp_1edcff4c:
 
     # m "Mmmmh, I woke up with my panties soaked..."
-    m ""
+    m "Finalmente~ Estou louco para você cuidar da minha boceta molhada..."
 
 # game/script.rpy:36133
 translate pt_br mar_insp_a98dba34:
 
     # m "It's so hard to get anything done like this, [name]... please fix me...?"
-    m ""
+    m "É tão difícil de conseguir fazer qualquer coisa assim, [name]...  Por favor, me conserte...?"
 
 # game/script.rpy:36135
 translate pt_br mar_insp_ac79482f:
 
     # m "Mmmmh! YES!" with ssshake
-    m "" with ssshake
+    m "Mmmmh! ISSO!" with ssshake" with ssshake
 
 # game/script.rpy:36137
 translate pt_br mar_insp_e7fbdb0b:
 
     # m "Nnn! Aaaahhh...! You gave me goosebumps already, [name]! Heheh... Mmmmmn~!"
-    m ""
+    m "Nnn! Aaaahhh...! Você já me deixou toda arrepiada, [name]! Heheh... Mmmmmn~!"
 
 # game/script.rpy:36138
 translate pt_br mar_insp_74a5b0dd:
 
     # m "Ahhh! Oh, fuck...! Thank you [name]~! Thank you...! My head gets so foggy when my pussy is this wet, mmmh! I couldn't get anything done without your delicious cock~!"
-    m ""
+    m "Ahhh! Oh, porra...! Obrigada, [name]~! Obrigada...! A minha mente fica tão cofusa quando a minha boceta fica molhada assim, mmmh! Eu não conseguiria fazer nada sem o seu delicioso pau~!"
 
 # game/script.rpy:36139
 translate pt_br mar_insp_7e1d5c96:
 
     # m "Hahhhh! Hnnnngh! Yesssss! Deeper, [name], deeper! Mmmmmh! I need you so bad right now~!"
-    m ""
+    m "Hahhhh! Hnnnngh! Isssso! Mais fundo, [name], mais fundo! Mmmmmmh! Eu preciso tanto de você agora~!"
 
 # game/script.rpy:36142
 translate pt_br mar_insp_abe1e4d9:
 
     # m "AAH! Hnnngh! Don't stop, fuck! You're gonna make me cum all over your big fucking cock~! Hahhhhn!"
-    m ""
+    m "AAH! Não para, porra! Você vai me fazer gozar tudo em cima do seu pau grande pra porra~! Hahhhhn!"
 
 # game/script.rpy:36143
 translate pt_br mar_insp_ce57df8a:
 
     # m "NNNNH! Oh my FUCKING god, AAAH! You like that...? Mmmmh, you like that tight pussy, [name]...? Hnnng, yeah... yeah...!"
-    m ""
+    m "NNNNH! Ai meu deus PORRA, AAAH! VocÇe gosta disso...? Mmmmh, você gosta dessa boceta apertada, [name]...? Hnnng, isso...!"
 
 # game/script.rpy:36144
 translate pt_br mar_insp_679b760f:
 
     # m "HAAHH! Nnnn, don't fucking stop! Please, MMMM! I'm gonna fucking cummmm! Yes, yes! NNNNNH! YESSS!!"
-    m ""
+    m "HAAHH! Nnnn, não para, caralho! Por favor, MMMM! Eu vou gozar, porraaaa! Isso, isso! NNNNNH! ISSSO!!"
 
 # game/script.rpy:36148
 translate pt_br mar_insp_b5326a0c:
 
     # m "YE- wh- huh!?"
-    m ""
+    m "ISS- o q- hein!?"
 
 # game/script.rpy:36149
 translate pt_br mar_insp_32a23977:
 
     # m "What the FUCK!? Come onnnnnnnnnnnn~! What are you doing, baby...?"
-    m ""
+    m "Mas que PORRA!? Vamos láááááááááááá~! O que é que você está fazendo, bebê...?"
 
 # game/script.rpy:36150
 translate pt_br mar_insp_46392d02:
 
     # c "You cum when I decide..."
-    c ""
+    c "Você vai gozar quando eu decidir..."
 
 # game/script.rpy:36151
 translate pt_br mar_insp_1a7e52dc:
 
     # m "Wha... What...? Hnnnn... Hahhh... But... I wanna cum now...!"
-    m ""
+    m "O qu... Quê...? Hnnnn... Hahhh... Mas... Eu quero gozar agora...!"
 
 # game/script.rpy:36152
 translate pt_br mar_insp_ca37989a:
 
     # c "See you soon..."
-    c ""
+    c "Até depois..."
 
 # game/script.rpy:36157
 translate pt_br mar_insp_79b870e7:
@@ -84299,37 +84299,37 @@ translate pt_br mar_insp_79b870e7:
 translate pt_br mar_insp_f47470d6:
 
     # m "YES! YES!! YES!!! I'M CUMMINGGGG!!!"
-    m ""
+    m "ISSO! ISSO!! ISSO!!! ESTOU GOZANDOOOO!!!"
 
 # game/script.rpy:36163
 translate pt_br mar_insp_70ff4f81:
 
     # m "HAAAAAHHH! AAAH, AAAAHHH~!" with ssshake
-    m "" with ssshake
+    m "HAAAAAHHH! AAAH, AAAAHHH~!" with ssshake
 
 # game/script.rpy:36164
 translate pt_br mar_insp_26b38fbb:
 
     # m "HNNNGH, yess!" with ssshake
-    m "" with ssshake
+    m "HNNNGH, issoo!" with ssshake
 
 # game/script.rpy:36165
 translate pt_br mar_insp_eb9fb38d:
 
     # m "Aaaaah! So much cummm~!" with ssshake
-    m "" with ssshake
+    m "Aaaaah! Tanta porra~!" with ssshake
 
 # game/script.rpy:36166
 translate pt_br mar_insp_8f9f3e54:
 
     # m "Aahhhh... fuck...! That's so much, [name]..."
-    m ""
+    m "Aahhhh... porrra...! Isso é muito, [name]..."
 
 # game/script.rpy:36167
 translate pt_br mar_insp_3901f4ff:
 
     # m "Hahhh... nnngh... I think I'm better now... thank you~"
-    m ""
+    m "Hahhh... nnngh... Acho que estou melhor agora... obrigada~"
 
 # game/script.rpy:36173
 translate pt_br mar_insp_b5aae0f6:
@@ -84341,13 +84341,13 @@ translate pt_br mar_insp_b5aae0f6:
 translate pt_br mar_insp_a5ccace2:
 
     # c "I'm going to blindfold and undress you and take you somewhere special. Then you'll earn your orgasm."
-    c ""
+    c "Eu vou vendar seus olhos, tirar suas roupas e te levar para um lugar especial. E então você irá ganhar o seu orgasmo."
 
 # game/script.rpy:36179
 translate pt_br mar_insp_0be4a047:
 
     # m "Ohh~! Okay! I love a little mystery..."
-    m ""
+    m "Ahh~! Tá bom! Eu amo um pequeno mistério..."
 
 # game/script.rpy:36183
 translate pt_br mar_insp_c4238d44:
@@ -84359,37 +84359,37 @@ translate pt_br mar_insp_c4238d44:
 translate pt_br mar_insp_2c93824d:
 
     # c "Put your bunny suit on, you're going to do Moon's job with a vibe in."
-    c ""
+    c "Ponha o seu conjunto de roupas de coelhinha, você vai visitar o trabalho da Moon enquanto usa um vibrador."
 
 # game/script.rpy:36190
 translate pt_br mar_insp_61f5edd1:
 
     # m "Nnnh, do you promise to fuck me if I do what you say?"
-    m ""
+    m "Nnnh, você me promete que vai me foder se eu fizer o que você pedir?"
 
 # game/script.rpy:36191
 translate pt_br mar_insp_9d9fb6df:
 
     # c "I do."
-    c ""
+    c "Eu prometo."
 
 # game/script.rpy:36192
 translate pt_br mar_insp_f02f748f:
 
     # m "Mmmh, okay...!"
-    m ""
+    m "Mmmh, tá bom...!"
 
 # game/script.rpy:36196
 translate pt_br mar_insp_f1f54f26:
 
     # c "I need to buy the Bar."
-    c ""
+    c "Eu preciso comprar o Bar."
 
 # game/script.rpy:36198
 translate pt_br mar_insp_a5ee1313:
 
     # c "I need to buy her Bunny Suit."
-    c ""
+    c "Eu preciso comprar o Conjunto de Roupas de Coelhinha."
 
 # game/script.rpy:36200
 translate pt_br mar_insp_18e2b71f:
@@ -84401,73 +84401,73 @@ translate pt_br mar_insp_18e2b71f:
 translate pt_br mar_insp_ab2011b1:
 
     # c "I need to raise her exhibitionism."
-    c ""
+    c "Eu preciso aumentar o exibicionismo dela."
 
 # game/script.rpy:36207
 translate pt_br mar_insp_05fffb24:
 
     # c "Before you can cum, you're going to make [botname] cum 3 times."
-    c ""
+    c "Antes de você poder gozar, você vai fazer a [botname] gozar 3 vezes."
 
 # game/script.rpy:36208
 translate pt_br mar_insp_82f16040:
 
     # m "I don't think she would like that right now..."
-    m ""
+    m "Eu não acho que ela iria gostar disso no momento..."
 
 # game/script.rpy:36211
 translate pt_br mar_insp_05fffb24_1:
 
     # c "Before you can cum, you're going to make [botname] cum 3 times."
-    c ""
+    c "Antes de você poder gozar, você vai fazer a [botname] gozar 3 vezes."
 
 # game/script.rpy:36212
 translate pt_br mar_insp_cbc12f01:
 
     # m "Honestly, I think it would just be awkward... we're not {i}that{/i} close..."
-    m ""
+    m "Honestamente, eu acho que isso seria estranho... nós não somos tão próximas {i}assim{/i}"
 
 # game/script.rpy:36213
 translate pt_br mar_insp_91cb6093:
 
     # "I should raise my relationship level with [botname]."
-    ""
+    "Eu deveria aumentar o meu nível de relacionamento com a [botname]."
 
 # game/script.rpy:36215
 translate pt_br mar_insp_e8df2f32:
 
     # c "Before you can cum, you're going to make [botname] cum... twice."
-    c ""
+    c "Antes de você poder gozar, você vai fazer a [botname] gozar... duas vezes."
 
 # game/script.rpy:36216
 translate pt_br mar_insp_f7b4e114:
 
     # m "Heh, I can do that..."
-    m ""
+    m "Heh, eu posso fazer isso..."
 
 # game/script.rpy:36223
 translate pt_br mar_insp_b9fcd1ea:
 
     # m "What? Come on~~~! You can't do this to me...!"
-    m ""
+    m "O quê? Vamos lá~~~! Você não pode fazer isso comigo...!"
 
 # game/script.rpy:36224
 translate pt_br mar_insp_c029daca:
 
     # c "Maybe next time."
-    c ""
+    c "Talvez na próxima."
 
 # game/script.rpy:36227
 translate pt_br mar_insp_f88af11a:
 
     # m "Why not!? Do you not find me sexy anymore!?"
-    m ""
+    m "Por que não!? Você não me acha mais sexy!?"
 
 # game/script.rpy:36228
 translate pt_br mar_insp_c029daca_1:
 
     # c "Maybe next time."
-    c ""
+    c "Talvez na próxima."
 
 # game/script.rpy:36235
 translate pt_br mar_insp_79b870e7_1:
@@ -88459,7 +88459,7 @@ translate pt_br strings:
 
     # game/script.rpy:3369
     old "Let's have some fun..."
-    new ""
+    new "Vamos nos divertir um pouco..."
 
     # game/script.rpy:3369
     old "I'd like to pay off my debt."
