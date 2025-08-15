@@ -84479,37 +84479,37 @@ translate pt_br mar_insp_79b870e7_1:
 translate pt_br mar_insp_6e3f6746:
 
     # bot "Hi [botown]... um, I'm really horny..."
-    bot ""
+    bot "Olá, [botown]... hum, eu estou com muito tesão..."
 
 # game/script.rpy:36259
 translate pt_br mar_insp_1f9f8672:
 
     # c "I'll help you, but you can only cum when I give the command. Understand?"
-    c ""
+    c "Eu vou te ajudar, mas você só poderá gozar quando eu te der o comando. Entendido?"
 
 # game/script.rpy:36260
 translate pt_br mar_insp_9969937a:
 
     # bot "Oh? I suppose I could lock my orgasm to your voice if that's what you want..."
-    bot ""
+    bot "Ah, acho que posso sincronizar meu orgasmo com sua voz, se é isso que você quer..."
 
 # game/script.rpy:36261
 translate pt_br mar_insp_3ebbe7f7:
 
     # bot "Okay, it's done! Please don't make me wait too long~"
-    bot ""
+    bot "Tudo bem, está feito! Por favor não me faça esperar demais~"
 
 # game/script.rpy:36265
 translate pt_br mar_insp_9ea6d30e:
 
     # bot "What? After I put this cute thing on? Nnngh!"
-    bot ""
+    bot "O quê? E logo e depois de eu ter colocado essa coisa fofa? Nnngh!"
 
 # game/script.rpy:36267
 translate pt_br mar_insp_6e21f51c:
 
     # bot "Please don't keep me waiting too long, [botown]..."
-    bot ""
+    bot "Por favor, não me faça esperar demais, [botown]..."
 
 # game/script.rpy:36270
 translate pt_br mar_insp_96c8109c:
@@ -84521,13 +84521,13 @@ translate pt_br mar_insp_96c8109c:
 translate pt_br mar_insp_cbce56f1:
 
     # bot "[botown], I need you! I need you! Please fuck me~"
-    bot ""
+    bot "[botown], eu preciso de você! Eu preciso de você! Por favor, me fode~"
 
 # game/script.rpy:36287
 translate pt_br blt2_a0dac1c9:
 
     # c "Stay still, let me inspect your body."
-    c ""
+    c "Fique parada, deixe-me inspecionar você."
 
 # game/script.rpy:36288
 translate pt_br blt2_59985b15:
@@ -84539,451 +84539,451 @@ translate pt_br blt2_59985b15:
 translate pt_br blt2_0f5dd5c5:
 
     # bot "You can touch me wherever you want, my body is yours."
-    bot ""
+    bot "Você pode me tocar aonde você quiser, o meu corpo é seu."
 
 # game/script.rpy:36294
 translate pt_br bot_insp_5e281ea7:
 
     # bot "Llllln~"
-    bot ""
+    bot "Llllln~"
 
 # game/script.rpy:36298
 translate pt_br bot_insp_2588fcbb:
 
     # bot "Llmmmn..."
-    bot ""
+    bot "Llmmmn..."
 
 # game/script.rpy:36316
 translate pt_br bot_insp_72f048d7:
 
     # bot "Stare all you'd like, [botown]~"
-    bot ""
+    bot "Pode olhar o quanto você quiser, [botown]~"
 
 # game/script.rpy:36322
 translate pt_br bot_insp_72f048d7_1:
 
     # bot "Stare all you'd like, [botown]~"
-    bot ""
+    bot "Pode olhar o quanto você quiser, [botown]~"
 
 # game/script.rpy:36325
 translate pt_br bot_insp_68ff96fa:
 
     # bot "Would you like me to change the size for you?"
-    bot ""
+    bot "Você gostaria que eu mudasse o tamanho para você?"
 
 # game/script.rpy:36338
 translate pt_br breastsize_5dc4a8cb:
 
     # bot "Pretty big, right?"
-    bot ""
+    bot "São bem grandes, não é?"
 
 # game/script.rpy:36350
 translate pt_br breastsize_d5a5cc1f:
 
     # bot "There."
-    bot ""
+    bot "Aqui."
 
 # game/script.rpy:36362
 translate pt_br breastsize_13d0ea35:
 
     # bot "There you go~"
-    bot ""
+    bot "Aqui está~"
 
 # game/script.rpy:36374
 translate pt_br breastsize_8bfdc25f:
 
     # bot "How's this?"
-    bot ""
+    bot "O que acha disso?"
 
 # game/script.rpy:36386
 translate pt_br breastsize_b01763e2:
 
     # bot "That's as small as I can make them, [botown]."
-    bot ""
+    bot "Esse é o menor tamanho que posso fazer eles ficarem, [botown]."
 
 # game/script.rpy:36407
 translate pt_br breastsize_84220223:
 
     # bot "I like when you look at me like that..."
-    bot ""
+    bot "Eu gosto de quando você olha para mim assim..."
 
 # game/script.rpy:36410
 translate pt_br breastsize_1f80b63e:
 
     # c "Now turn around."
-    c ""
+    c "Agora vire-se.."
 
 # game/script.rpy:36421
 translate pt_br breastsize_e9c1239b:
 
     # bot "Okay, like this?"
-    bot ""
+    bot "Tudo bem, desse jeito?"
 
 # game/script.rpy:36424
 translate pt_br breastsize_533ee438:
 
     # bot "I can make my butt bigger too, if you'd like."
-    bot ""
+    bot "Eu posso aumentar o tamanho da minha bunda também, se você quiser."
 
 # game/script.rpy:36431
 translate pt_br breastsize_82f65dd5:
 
     # bot "There, how is that?"
-    bot ""
+    bot "Pronto, o que você acha?"
 
 # game/script.rpy:36445
 translate pt_br breastsize_7bc3ec4c:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36458
 translate pt_br breastsize_7bc3ec4c_1:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36462
 translate pt_br breastsize_4b2a32cd:
 
     # bot "[botown]..."
-    bot ""
+    bot "[botown]..."
 
 # game/script.rpy:36465
 translate pt_br breastsize_58ae960b:
 
     # bot "Should I adjust my body for you?"
-    bot ""
+    bot "Devo ajustar meu corpo para você?"
 
 # game/script.rpy:36470
 translate pt_br breastsize2_053432b7:
 
     # bot "Okay!"
-    bot ""
+    bot "Tudo bem!"
 
 # game/script.rpy:36479
 translate pt_br breastsize2_30172fa4:
 
     # bot "There, done."
-    bot ""
+    bot "Pronto, está feito."
 
 # game/script.rpy:36483
 translate pt_br breastsize2_1f80b63e:
 
     # c "Now turn around."
-    c ""
+    c "Agora vire-se.."
 
 # game/script.rpy:36485
 translate pt_br breastsize2_e9c1239b:
 
     # bot "Okay, like this?"
-    bot ""
+    bot "Tudo bem, desse jeito?"
 
 # game/script.rpy:36488
 translate pt_br breastsize2_533ee438:
 
     # bot "I can make my butt bigger too, if you'd like."
-    bot ""
+    bot "Eu posso aumentar o tamanho da minha bunda também, se você quiser."
 
 # game/script.rpy:36492
 translate pt_br breastsize2_82f65dd5:
 
     # bot "There, how is that?"
-    bot ""
+    bot "Pronto, o que você acha?"
 
 # game/script.rpy:36506
 translate pt_br breastsize2_7bc3ec4c:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36519
 translate pt_br breastsize2_7bc3ec4c_1:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36522
 translate pt_br breastsize2_053432b7_1:
 
     # bot "Okay!"
-    bot ""
+    bot "Tudo bem!"
 
 # game/script.rpy:36530
 translate pt_br breastsize2_30172fa4_1:
 
     # bot "There, done."
-    bot ""
+    bot "Pronto, está feito."
 
 # game/script.rpy:36534
 translate pt_br breastsize2_1f80b63e_1:
 
     # c "Now turn around."
-    c ""
+    c "Agora vire-se.."
 
 # game/script.rpy:36536
 translate pt_br breastsize2_e9c1239b_1:
 
     # bot "Okay, like this?"
-    bot ""
+    bot "Tudo bem, desse jeito?"
 
 # game/script.rpy:36539
 translate pt_br breastsize2_533ee438_1:
 
     # bot "I can make my butt bigger too, if you'd like."
-    bot ""
+    bot "Eu posso aumentar o tamanho da minha bunda também, se você quiser."
 
 # game/script.rpy:36543
 translate pt_br breastsize2_82f65dd5_1:
 
     # bot "There, how is that?"
-    bot ""
+    bot "Pronto, o que você acha?"
 
 # game/script.rpy:36557
 translate pt_br breastsize2_7bc3ec4c_2:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36570
 translate pt_br breastsize2_7bc3ec4c_3:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36573
 translate pt_br breastsize2_053432b7_2:
 
     # bot "Okay!"
-    bot ""
+    bot "Tudo bem!"
 
 # game/script.rpy:36581
 translate pt_br breastsize2_30172fa4_2:
 
     # bot "There, done."
-    bot ""
+    bot "Pronto, está feito."
 
 # game/script.rpy:36585
 translate pt_br breastsize2_1f80b63e_2:
 
     # c "Now turn around."
-    c ""
+    c "Agora vire-se.."
 
 # game/script.rpy:36587
 translate pt_br breastsize2_e9c1239b_2:
 
     # bot "Okay, like this?"
-    bot ""
+    bot "Tudo bem, desse jeito?"
 
 # game/script.rpy:36590
 translate pt_br breastsize2_533ee438_2:
 
     # bot "I can make my butt bigger too, if you'd like."
-    bot ""
+    bot "Eu posso aumentar o tamanho da minha bunda também, se você quiser."
 
 # game/script.rpy:36594
 translate pt_br breastsize2_82f65dd5_2:
 
     # bot "There, how is that?"
-    bot ""
+    bot "Pronto, o que você acha?"
 
 # game/script.rpy:36608
 translate pt_br breastsize2_7bc3ec4c_4:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36621
 translate pt_br breastsize2_7bc3ec4c_5:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36625
 translate pt_br breastsize2_053432b7_3:
 
     # bot "Okay!"
-    bot ""
+    bot "Tudo bem!"
 
 # game/script.rpy:36633
 translate pt_br breastsize2_30172fa4_3:
 
     # bot "There, done."
-    bot ""
+    bot "Pronto, está feito."
 
 # game/script.rpy:36637
 translate pt_br breastsize2_1f80b63e_3:
 
     # c "Now turn around."
-    c ""
+    c "Agora vire-se."
 
 # game/script.rpy:36639
 translate pt_br breastsize2_e9c1239b_3:
 
     # bot "Okay, like this?"
-    bot ""
+    bot "Tudo bem, desse jeito?"
 
 # game/script.rpy:36642
 translate pt_br breastsize2_533ee438_3:
 
     # bot "I can make my butt bigger too, if you'd like."
-    bot ""
+    bot "Eu posso aumentar o tamanho da minha bunda também, se você quiser."
 
 # game/script.rpy:36646
 translate pt_br breastsize2_82f65dd5_3:
 
     # bot "There, how is that?"
-    bot ""
+    bot "Pronto, o que você acha?"
 
 # game/script.rpy:36660
 translate pt_br breastsize2_7bc3ec4c_6:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36673
 translate pt_br breastsize2_7bc3ec4c_7:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36677
 translate pt_br breastsize2_053432b7_4:
 
     # bot "Okay!"
-    bot ""
+    bot "Tudo bem!"
 
 # game/script.rpy:36685
 translate pt_br breastsize2_30172fa4_4:
 
     # bot "There, done."
-    bot ""
+    bot "Pronto, está feito."
 
 # game/script.rpy:36689
 translate pt_br breastsize2_1f80b63e_4:
 
     # c "Now turn around."
-    c ""
+    c "Agora vire-se"
 
 # game/script.rpy:36691
 translate pt_br breastsize2_e9c1239b_4:
 
     # bot "Okay, like this?"
-    bot ""
+    bot "Tudo bem, desse jeito?"
 
 # game/script.rpy:36694
 translate pt_br breastsize2_533ee438_4:
 
     # bot "I can make my butt bigger too, if you'd like."
-    bot ""
+    bot "Eu posso aumentar o tamanho da minha bunda também, se você quiser."
 
 # game/script.rpy:36698
 translate pt_br breastsize2_82f65dd5_4:
 
     # bot "There, how is that?"
-    bot ""
+    bot "Pronto, o que você acha?"
 
 # game/script.rpy:36712
 translate pt_br breastsize2_7bc3ec4c_8:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36725
 translate pt_br breastsize2_7bc3ec4c_9:
 
     # bot "Anything else you would like me to do?"
-    bot ""
+    bot "Tem mais alguma coisa que você gostaria que eu fizesse?"
 
 # game/script.rpy:36738
 translate pt_br breastsize2_55600f13:
 
     # bot "I'm so wet, [botown]... do you want to feel me?"
-    bot ""
+    bot "Eu estou tão molhada, [botown]... você não quer me sentir?"
 
 # game/script.rpy:36740
 translate pt_br breastsize2_847077da:
 
     # bot "Nnnh...! Mmmn... yes!"
-    bot ""
+    bot "Nnnh...! Mmmn... isso!"
 
 # game/script.rpy:36742
 translate pt_br breastsize2_969b8db8:
 
     # bot "Hnnn...!"
-    bot ""
+    bot "Hnnn...!"
 
 # game/script.rpy:36743
 translate pt_br breastsize2_b5e11a6a:
 
     # bot "Mmmh...! Ahhh...! Your finger feels so good...!"
-    bot ""
+    bot "Mmmh...! Ahhh...! Sentir os seus dedos é tão bom...!"
 
 # game/script.rpy:36745
 translate pt_br breastsize2_9889df56:
 
     # bot "Nnh! Nope, you're stuck now! Heheh..." with ssshake
-    bot "" with ssshake
+    bot "Nnh! Não, você está preso agora! Heheh..." with ssshake
 
 # game/script.rpy:36748
 translate pt_br breastsize2_9e5cc8fa:
 
     # bot "Nnnh...!"
-    bot ""
+    bot "Nnnh...!"
 
 # game/script.rpy:36751
 translate pt_br breastsize2_01cf75f6:
 
     # bot "Ah, yes...! Keep trying to get out, heheh...!"
-    bot ""
+    bot "Ah, isso...! Continua tentando sair, heheh...!"
 
 # game/script.rpy:36754
 translate pt_br breastsize2_c444888f:
 
     # bot "Mmmh...!"
-    bot ""
+    bot "Mmmh...!"
 
 # game/script.rpy:36757
 translate pt_br breastsize2_1e0d80cb:
 
     # bot "Haaah..!"
-    bot ""
+    bot "Haaah..!"
 
 # game/script.rpy:36761
 translate pt_br breastsize2_6a31a586:
 
     # bot "Okay, I guess I'll let you out for now..."
-    bot ""
+    bot "Tudo bem, acho que vou te deixar livre por enquanto..."
 
 # game/script.rpy:36766
 translate pt_br breastsize2_e3e394da:
 
     # bot "Yes [botown]~"
-    bot ""
+    bot "Sim, [botown]~"
 
 # game/script.rpy:36770
 translate pt_br breastsize2_dfe5dc50:
 
     # bot "Just take me like this, [botown]..."
-    bot ""
+    bot "Só me pega de uma vez, [botwown]..."
 
 # game/script.rpy:36774
 translate pt_br breastsize2_d2aa530f:
 
     # bot "Nnnh, why can't you just fuck me...? I'm, hornyyy~"
-    bot ""
+    bot "Nnnh, por que é que você só não me fode...? Eu estou com tesãooo~"
 
 # game/script.rpy:36778
 translate pt_br breastsize2_e6580fb1:
 
     # bot "Oh right, you wanted to look at my ass. Well, go take a look~"
-    bot ""
+    bot "Ah, claro, você queria olhar minha bunda. Bem, dê uma boa olhada~+"
 
 # game/script.rpy:36782
 translate pt_br breastsize2_aec9be52:
 
     # bot "Mmmh~ I'm ready for you..."
-    bot ""
+    bot "Mmmh~ Eu estou pronta para vocÊ..."
 
 # game/script.rpy:36789
 translate pt_br breastsize2_59985b15:
@@ -84995,163 +84995,163 @@ translate pt_br breastsize2_59985b15:
 translate pt_br breastsize2_41f8cabc:
 
     # bot "Is this better?"
-    bot ""
+    bot "Assim é melhor?"
 
 # game/script.rpy:36797
 translate pt_br breastsize2_285f8789:
 
     # bot "Heheh, don't tickle me, okay?"
-    bot ""
+    bot "Heheh, não fica fazendo cócegas em mim, tá bom?"
 
 # game/script.rpy:36801
 translate pt_br breastsize2_cb47ffbd:
 
     # bot "There you go."
-    bot ""
+    bot "Pronto."
 
 # game/script.rpy:36812
 translate pt_br breastsize2_1f9f8672:
 
     # c "I'll help you, but you can only cum when I give the command. Understand?"
-    c ""
+    c "Eu vou te ajudar, mas você só poderá gozar quando eu te der o comando. Entendido?"
 
 # game/script.rpy:36813
 translate pt_br breastsize2_9969937a:
 
     # bot "Oh? I suppose I could lock my orgasm to your voice if that's what you want..."
-    bot ""
+    bot "Ah, acho que posso sincronizar meu orgasmo com sua voz, se é isso que você quer..."
 
 # game/script.rpy:36814
 translate pt_br breastsize2_3ebbe7f7:
 
     # bot "Okay, it's done! Please don't make me wait too long~"
-    bot ""
+    bot "Tudo bem, está feito! Por favor não me faça esperar demais~"
 
 # game/script.rpy:36818
 translate pt_br breastsize2_e417cd96:
 
     # c "You're going to give control of your body over to someone and they're going to make you cum."
-    c ""
+    c "Você vai entregar o controle do seu corpo a alguém e essa pessoa vai fazer você gozar."
 
 # game/script.rpy:36819
 translate pt_br breastsize2_66ef923a:
 
     # bot "Oh, that sounds fun! Who should I give control to?"
-    bot ""
+    bot "Ah, isso parece divertido! Para quem eu devo dar o controle?"
 
 # game/script.rpy:36822
 translate pt_br breastsize2_a20c3ffc:
 
     # bot "Very well, Lin has control now."
-    bot ""
+    bot "Muito bem, a Lin está no controle agora."
 
 # game/script.rpy:36823
 translate pt_br breastsize2_1be74e4e:
 
     # c "Good, follow me."
-    c ""
+    c "Ótimo, siga-me."
 
 # game/script.rpy:36828
 translate pt_br breastsize2_012d9e05:
 
     # bot "Done."
-    bot ""
+    bot "Feito."
 
 # game/script.rpy:36829
 translate pt_br breastsize2_e5f20ae8:
 
     # c "Follow me."
-    c ""
+    c "Siga-me."
 
 # game/script.rpy:36833
 translate pt_br breastsize2_931b603f:
 
     # bot "She's not here, [botown]..."
-    bot ""
+    bot "Ela não está aqui, [botown]..."
 
 # game/script.rpy:36835
 translate pt_br breastsize2_b6638b3d:
 
     # bot "O-Okay, Maria has control."
-    bot ""
+    bot "T-Tudo bem, a Maria está no controle."
 
 # game/script.rpy:36836
 translate pt_br breastsize2_0df2d24e:
 
     # c "Good, now follow me."
-    c ""
+    c "Ótimo, agora siga-me."
 
 # game/script.rpy:36843
 translate pt_br breastsize2_6ec996d0:
 
     # bot "I can't do that..."
-    bot ""
+    bot "Eu não posso fazer isso..."
 
 # game/script.rpy:36847
 translate pt_br breastsize2_b19bc8d2:
 
     # "I need to raise her friendship."
-    ""
+    "Eu preciso aumentar a amizade dela."
 
 # game/script.rpy:36852
 translate pt_br breastsize2_16c23f58:
 
     # c "I'm going to drive us to a park in Caliber, and you're going to earn your orgasm."
-    c ""
+    c "Eu vou nos levar de carro para um parque em Caliber, e você vai ganhar o seu orgasmo."
 
 # game/script.rpy:36853
 translate pt_br breastsize2_4e82f640:
 
     # bot "Nnh, okay... can I bring my mask?"
-    bot ""
+    bot "Nnh, tudo bem... eu posso levar a minha máscara?"
 
 # game/script.rpy:36854
 translate pt_br breastsize2_dbfc96a6:
 
     # c "No. You're going in what you're wearing now."
-    c ""
+    c "Não. Você vai do jeito que está vestida agora."
 
 # game/script.rpy:36855
 translate pt_br breastsize2_b9c03356:
 
     # bot "Hnnnn... ...I'll do it, but you have to make me cum this time, okay?"
-    bot ""
+    bot "Hnnnn... ...Eu farei isso, mas dessa vez você vai ter que me fazer gozar, tá bom?"
 
 # game/script.rpy:36857
 translate pt_br breastsize2_fa1b0933:
 
     # "You drive the half nude [botname] to one of Caliber city's parks..."
-    ""
+    "Você dirige com [botname] seminua para um dos parques da cidae Caliber..."
 
 # game/script.rpy:36860
 translate pt_br breastsize2_2f730888:
 
     # c "Let's visit the park again."
-    c ""
+    c "Vamos visitar o parque novamente."
 
 # game/script.rpy:36861
 translate pt_br breastsize2_e72237a7:
 
     # bot "Oh, heheh... I understand want you want~"
-    bot ""
+    bot "Ah, hehehç... Entendi o que você quer~"
 
 # game/script.rpy:36863
 translate pt_br breastsize2_fa1b0933_1:
 
     # "You drive the half nude [botname] to one of Caliber city's parks..."
-    ""
+    "Você dirige com [botname] seminua para um dos parques da cidae Caliber..."
 
 # game/script.rpy:36867
 translate pt_br breastsize2_208b3641:
 
     # bot "Please don't keep me long..."
-    bot ""
+    bot "Por favor, não me faça esperar muito..."
 
 # game/script.rpy:36869
 translate pt_br breastsize2_6e21f51c:
 
     # bot "Please don't keep me waiting too long, [botown]..."
-    bot ""
+    bot "Por favor, não me faça esperar demais, [botown]..."
 
 # game/script.rpy:36872
 translate pt_br breastsize2_96c8109c:
@@ -85163,7 +85163,7 @@ translate pt_br breastsize2_96c8109c:
 translate pt_br breastsize2_fa9c55ea:
 
     # r "Tier 3 lust content not yet developed, lust reset."
-    r ""
+    r "Conteúdo de luxúria de nível 3 ainda não desenvolvido, luxúria reiniciada."
 
 # game/script.rpy:36894
 translate pt_br breastsize2_cc70248c:
