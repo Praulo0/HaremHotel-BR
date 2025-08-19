@@ -85205,7 +85205,7 @@ translate pt_br bot_lustfinal_7eab1496:
 translate pt_br bot_lustfinal_2ea3fa1f:
 
     # bot "You didn't think I would let you edge me forever, did you? Heheh, but this is what you wanted, isn't it? You wanted to push me to my limits..."
-    bot "Você não achou que eu deixaria você me provocar para sempre, achou? Heheh, mas era isso que você queria, não é?"
+    bot "Você não achou que eu deixaria você me provocar para sempre, achou? Heheh, mas era isso que você queria, não é? Você queria me levar ao meu limite..."
 
 # game/script.rpy:36911
 translate pt_br bot_lustfinal_22d36148:
