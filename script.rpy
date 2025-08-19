@@ -85175,7 +85175,7 @@ translate pt_br breastsize2_cc70248c:
 translate pt_br bot_lustfinal_5a643f44:
 
     # bot "Good morning, [botown]~ I brought some friends..."
-    bot ""
+    bot "Bom dia, [botown]~ Eu trouxe algumas amigas..."
 
 # game/script.rpy:36905
 translate pt_br bot_lustfinal_514ab074:
