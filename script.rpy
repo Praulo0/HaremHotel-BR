@@ -85217,7 +85217,7 @@ translate pt_br bot_lustfinal_22d36148:
 translate pt_br bot_lustfinal_1506ff0b:
 
     # c "This is all you?"
-    c ""
+    c "Isso tudo é você?"
 
 # game/script.rpy:36915
 translate pt_br bot_lustfinal_4d5161a7:
