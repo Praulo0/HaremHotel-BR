@@ -85223,7 +85223,7 @@ translate pt_br bot_lustfinal_1506ff0b:
 translate pt_br bot_lustfinal_4d5161a7:
 
     # bot "Who else would it be?"
-    bot ""
+    bot "E quem mais seria?"
 
 # game/script.rpy:36916
 translate pt_br bot_lustfinal_4fecfcc1:
