@@ -85199,7 +85199,7 @@ translate pt_br bot_lustfinal_d0c20517:
 translate pt_br bot_lustfinal_7eab1496:
 
     # c "[botname]...?"
-    c ""
+    c "[botname]...?"
 
 # game/script.rpy:36910
 translate pt_br bot_lustfinal_2ea3fa1f:
