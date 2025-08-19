@@ -85211,7 +85211,7 @@ translate pt_br bot_lustfinal_2ea3fa1f:
 translate pt_br bot_lustfinal_22d36148:
 
     # bot "Well, now it's time for me to be in control~!"
-    bot ""
+    bot "Bem,"
 
 # game/script.rpy:36914
 translate pt_br bot_lustfinal_1506ff0b:
