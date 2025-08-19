@@ -85229,7 +85229,7 @@ translate pt_br bot_lustfinal_4d5161a7:
 translate pt_br bot_lustfinal_4fecfcc1:
 
     # bot "You can't be surprised, can you? I'll only let you play with me for so long..."
-    bot ""
+    bot "Você não deveria ficar tão surpreso,"
 
 # game/script.rpy:36917
 translate pt_br bot_lustfinal_51248bdf:
