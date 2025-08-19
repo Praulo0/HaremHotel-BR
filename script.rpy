@@ -85181,13 +85181,13 @@ translate pt_br bot_lustfinal_5a643f44:
 translate pt_br bot_lustfinal_514ab074:
 
     # c "[botname]...? How did you..."
-    c ""
+    c "[botname]...? Como foi que você..."
 
 # game/script.rpy:36906
 translate pt_br bot_lustfinal_5d16e8ad:
 
     # bot "I used Kali's laptop. Don't worry, I'll return them to their owners when I'm done with you~"
-    bot ""
+    bot "Eu usei o notebook da Kali."
 
 # game/script.rpy:36907
 translate pt_br bot_lustfinal_d0c20517:
