@@ -85235,7 +85235,7 @@ translate pt_br bot_lustfinal_4fecfcc1:
 translate pt_br bot_lustfinal_51248bdf:
 
     # bot "I can see and feel everything they can, [botown]. Hnn, I'm going to have fun with you~!"
-    bot "Eu consigo ver e sentir tudo que elas conseguem, [botown]."
+    bot "Eu consigo ver e sentir tudo que elas conseguem, [botown]. Hnn,"
 
 # game/script.rpy:36920
 translate pt_br bot_lustfinal_197347e8:
