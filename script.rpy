@@ -85193,7 +85193,7 @@ translate pt_br bot_lustfinal_5d16e8ad:
 translate pt_br bot_lustfinal_d0c20517:
 
     # bot "But now it's time for me to be in control~!"
-    bot ""
+    bot "Mas agora é a minha vez de estar no controle~!"
 
 # game/script.rpy:36909
 translate pt_br bot_lustfinal_7eab1496:
