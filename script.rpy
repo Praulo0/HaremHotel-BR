@@ -85241,91 +85241,91 @@ translate pt_br bot_lustfinal_51248bdf:
 translate pt_br bot_lustfinal_197347e8:
 
     # bot "Haaah, aaah, NNNNNNM!!! Yes! Hnnngh~! This feels amazing~! MMMN!"
-    bot ""
+    bot "Haaah, aaah, NNNNNNM!!! Isso! Hnnngh~! Isso é incrível~! MMMN!"
 
 # game/script.rpy:36921
 translate pt_br bot_lustfinal_c055ee52:
 
     # bot "Nnnh, nnnh, mmmmn!! Why would you edge me so much, [botown]? Haaah! I can't take it forever~! Aaah, haaah! I need it, I need it! I need to cum!"
-    bot ""
+    bot "Nnnh, nnnh, mmmmn!! Por que é que você me provoca tanto, [botown]? Haaah! Eu não consigo aguentar isso para sempre~! Aaah, haaah! Eu preciso disso, eu preciso! Eu preciso gozar!"
 
 # game/script.rpy:36922
 translate pt_br bot_lustfinal_0623cb84:
 
     # bot "Mmmmmn~! Haah! You're licking my pussy and fucking it at the same time! Aaah~! I've never felt pleasure like this before~! Nnnnh! Yes, yes! Don't stop!"
-    bot ""
+    bot "Mmmmmn~! Haah! Você está lambendo a minha boceta e fodendo ela ao mesmo tempo! Aaah~! Eu nunca senti um prazer assim antes~!Nnnnh! Isso, isso! Não para!"
 
 # game/script.rpy:36925
 translate pt_br bot_lustfinal_bc3bc982:
 
     # bot "There's nothing you can do to stop me now, mhh~! I'm gonna cum! MMMH! I'm finally gonna cum~!"
-    bot ""
+    bot "Não tem nada que você possa fazer para me parar agora, mhh~! Eu vou gozar! MMMH! Eu finalmente vou gozar~!"
 
 # game/script.rpy:36926
 translate pt_br bot_lustfinal_0dab304d:
 
     # bot "Haaaah! [botown], [botown]~! Fuck~! Fuck! I need more!!! MORE!"
-    bot ""
+    bot "Haaaah! [botown], [botown]~! Porra~! Porra! Eu preciso de mais!!! MAIS!"
 
 # game/script.rpy:36928
 translate pt_br bot_lustfinal_8aceb70f:
 
     # bot "AAAAH~! YES! HAAAH, NNNNH! Yes, yes! I love you~! NNNM!"
-    bot ""
+    bot "AAAAH~! ISSO! HAAAH, NNNNH! Isso, isso! Eu te amo~! NNNM!"
 
 # game/script.rpy:36929
 translate pt_br bot_lustfinal_388108d0:
 
     # bot "MMMMNNNN~! Fuck! Just like that! Nnnh! Yes, yes! I'm not stopping! MMMH! I'm not stopping until I cum!"
-    bot ""
+    bot "MMMMNNNN~! Porra! Bem assim! Nnnh! Isso, isso! Eu não vou parar! MMMH! Eu não vou parar até eu gozar!"
 
 # game/script.rpy:36932
 translate pt_br bot_lustfinal_d7c9ab0f:
 
     # bot "Nnnngh! Mmmn! That feels so good, [botown]~! You're making me cum! You're making me cum~! MMMN!"
-    bot ""
+    bot "Nnnngh! Mmmn! Isso é tão bom, [botown]~! Você está me fazendo gozar! Você está me fazendo gozar~! MMMN!"
 
 # game/script.rpy:36933
 translate pt_br bot_lustfinal_69449f0c:
 
     # bot "Haaah! Aaaah! [botown], [botown], [botown], [botown], [botown]!!!"
-    bot ""
+    bot "Haaah! Aaaah! [botown], [botown], [botown], [botown], [botown]!!!"
 
 # game/script.rpy:36935
 translate pt_br bot_lustfinal_f302094c:
 
     # bot "AAH, AH, AAAAAAH!!!" with ssshake
-    bot "" with ssshake
+    bot "AAH, AH, AAAAAAH!!!" with ssshake
 
 # game/script.rpy:36936
 translate pt_br bot_lustfinal_3e48ebd6:
 
     # bot "YES, yes! [botown]~! I'M CUMMINGGGGGG~!" with ssshake
-    bot "" with ssshake
+    bot "ISSO, isso! [botown]~! ESTOU GOZANDOOOOOO~!" with ssshake
 
 # game/script.rpy:36937
 translate pt_br bot_lustfinal_5ed9a710:
 
     # bot "FUCK, FUCK, FUUUUCK~" with ssshake
-    bot "" with ssshake
+    bot "PORRA, PORRA, PORRAAAA~" with ssshake
 
 # game/script.rpy:36939
 translate pt_br bot_lustfinal_f10da064:
 
     # bot "Aaahhh...! Haahhh...! Nnnnh! Wow..."
-    bot ""
+    bot "Aaahhh...! Haahhh...! Nnnnh! Uau..."
 
 # game/script.rpy:36940
 translate pt_br bot_lustfinal_d1f993ed:
 
     # bot "Thank you, [botown]... mmmh...! That was amazing..."
-    bot ""
+    bot "Obrigada, [botown]... mmmh...! Isso foi incrível..."
 
 # game/script.rpy:36941
 translate pt_br bot_lustfinal_b49bd8f8:
 
     # bot "Nnnh... okay, you two can go home now..."
-    bot ""
+    bot "Nnnh... tá bom, vocês duas já podem voltar para as suas casas..."
 
 # game/script.rpy:36952
 translate pt_br bot_lustfinal_cc70248c:
