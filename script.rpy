@@ -1,4 +1,4 @@
-di # TODO: Translation updated at 2022-12-11 13:31
+﻿# TODO: Translation updated at 2022-12-11 13:31
 
 # game/script.rpy:372
 translate pt_br skip_a27367e9:
@@ -360,7 +360,7 @@ translate pt_br intro_8da668cf:
 translate pt_br intro_4e5e025b:
 
     # fat "Time to take our seats. Enjoy your new life in Syl'anar, {i}Master...{/i}"
-    fat "Hora de irem a seus assentos. Aproveite sua nova vida em Syl'anar, {i}Mestre...{/i}
+    fat "Hora de irem a seus assentos. Aproveite sua nova vida em Syl'anar, {i}Mestre...{/i}"
 
 # game/script.rpy:527
 translate pt_br intro_dae0ec55:
@@ -5184,13 +5184,13 @@ translate pt_br floor2menu_18f2d1ae:
 translate pt_br floor2menu_5a462831:
 
     # bot "And... {size=-10}{i}And, um... And...{/i}{/size} And it would be too tight! {size=-10}{i}Did I already mention that?{/i}{/size}"
-    bot "E... {size=-10}{i}E, hum... E {/i}{/size} E seria muito apertado! {size=-10}{-10}Eu já mencionei isso??{/i}{/size}"
+    bot "E... {size=-10}{i}E, hum... E {/i}{/size} E seria muito apertado! {size=-10}{i}Eu já mencionei isso??{/i}{/size}"
 
 # game/script.rpy:4706
 translate pt_br floor2menu_7077dba0:
 
     # bot "{size=-10}{i}Ummmm... Hm. What else... I probably should have planned this better...{/i}{/size}"
-    bot "{size=-q0}{i}Hummmm... Hm. O que mais... EU provavelmente dia ter planejado isso melhor...{/i}{/size}"
+    bot "{size=-10}{i}Hummmm... Hm. O que mais... EU provavelmente dia ter planejado isso melhor...{/i}{/size}"
 
 # game/script.rpy:4711
 translate pt_br floor2menu_00a6134a:
@@ -26536,7 +26536,7 @@ translate pt_br kitchen_4fa17e0d:
 translate pt_br kitchen_fb03a783:
 
     # "{i}Lin makes full use of her tongue, swirling it around every inch...{/i}"
-    "{i}Lin faz uso total de sua língua, girando-a em cada centímetro..."
+    "{i}Lin faz uso total de sua língua, girando-a em cada centímetro...{/i}"
 
 # game/script.rpy:13972
 translate pt_br kitchen_61147438:
@@ -60154,7 +60154,7 @@ translate pt_br botcode2_5116e7d6:
 translate pt_br botcode2_9cf73e6c:
 
     # q "{i}{color=#E60000}ERROR 128: MALE VOICE UNKNOWN\nERROR 129: FEMALE VOICE UNKNOWN\nERROR 3: MISSING ADMIN{/color}{/i}"
-    q "{i}{color=#E60000}ERRO 128': VOZ MASCULINA DESCONHECIDA\nERRO 129: VOZ FEMININA DESCONHECIDA\nERRO 3: ADMINISTRADOR AUSENTE{/color}{i}"
+    q "{i}{color=#E60000}ERRO 128': VOZ MASCULINA DESCONHECIDA\nERRO 129: VOZ FEMININA DESCONHECIDA\nERRO 3: ADMINISTRADOR AUSENTE{/color}{/i}"
 
 # game/script.rpy:25304
 translate pt_br botcode2_2b02e9f3_1:
@@ -71357,11 +71357,10 @@ translate pt_br botbcm_ac2d1f6e:
 translate pt_br botbcm_fe347b33:
 
     # bot "How does it look [botown]?"
-    bot "Como eu me pareço, [botown]?"
+    bot "Como eu estou, [botown]?"
 
-# game/script.rpy:29448
+# game/script.rpy:29445
 translate pt_br botbcm_ed59da70:
-
     # bot "Nnn... I'm ready for you [botown]..."
     bot "Nnn... Eu estou pronta para você, [botown]..."
 
@@ -80141,7 +80140,7 @@ translate pt_br linlmafour_853b55b0:
 translate pt_br linlmafour_ac92eaab:
 
     # l "Ahhh... Hahhh... Ashley... Nnnhhh, no more teasing..."
-    l "Ahhh... Hahhh... Ashley... Nnnhhh, chega de provocações..."
+    l "Ahhh... Hahhh... Ashley... Nnnhhh, não me provoque mais..."
 
 # game/script.rpy:34377
 translate pt_br linlmafour_7e46f659:
@@ -80909,7 +80908,7 @@ translate pt_br linlttt_8ee4d259:
 translate pt_br linlttt_9446a31e:
 
     # l "No more teasing...! Mmmh... put it in! Put it in!!"
-    l "Chega de provocações...! Mmmh... coloca dentro! Coloca dentro!!"
+    l "Não me provoque mais...! Mmmh... coloca dentro! Coloca dentro!!"
 
 # game/script.rpy:34620
 translate pt_br linlttt_65cd8913:
@@ -83837,7 +83836,7 @@ translate pt_br lin_insp_b0dcd231:
 translate pt_br lin_insp_f225df0b:
 
     # l "[linoname], [linoname], no more teasing!!! Don't stop using me, cum inside! Cum inside! It's okay! NNNGHK! Don't stop! Aaah! CUMMM!!!"
-    l "[linoname], [linoname], chega de provocações!!! Não pare de me usar, goza dentro! Goza dentro! Está tudo bem! NNNGHK! Não para! Aaah! GOZAAA!!!"
+    l "[linoname], [linoname], não me provoque mais!!! Não pare de me usar, goza dentro! Goza dentro! Está tudo bem! NNNGHK! Não para! Aaah! GOZAAA!!!"
 
 # game/script.rpy:35950
 translate pt_br lin_insp_483e0001:
@@ -85883,7 +85882,7 @@ translate pt_br bot_wordplay_mar_891a346a:
 translate pt_br bot_wordplay_mar_d7ee493a:
 
     # bot "MMMMN, MARIA, PLEASE JUST SAY THE WORD...! MMMMMN!"
-    bot "MMMMN, MARIA, POR FAVOR, SÓ DIGA A PALAVRA...! MMMMMN!"
+    bot "MMMMN, MARIA, POR FAVOR, SÓ ME DIGA QUE POSSO...! MMMMMN!"
 
 # game/script.rpy:37107
 translate pt_br bot_wordplay_mar_9d9fa9b5:
@@ -86129,7 +86128,7 @@ translate pt_br bot_wordplay_lin_0efea992:
 translate pt_br bot_wordplay_lin_6a8b9d51:
 
     # bot "Yes! Hnnn...! I just need you to say the word...!"
-    bot "Sim! Hnnn...! Eu só preciso que você me diga que posso...!"
+    bot "Sim! Hnnn...! Eu só preciso que você me diga que eu posso...!"
 
 # game/script.rpy:37185
 translate pt_br bot_wordplay_lin_c43d999d:
@@ -86171,289 +86170,289 @@ translate pt_br bot_wordplay_lin_c39df6e1:
 translate pt_br bot_wordplay_lin_bcd7f2ca:
 
     # l "Hm, okay, speed 2 again."
-    l ""
+    l "Hm, tudo bem, velocidade 2 de novo."
 
 # game/script.rpy:37194
 translate pt_br bot_wordplay_lin_2fdba2e9:
 
     # bot "Hnnngh! Ahhh~!" with ssshake
-    bot "" with ssshake
+    bot "HHnnngh! Ahhh~!" with ssshake
 
 # game/script.rpy:37195
 translate pt_br bot_wordplay_lin_75066142:
 
     # l "Heheh, there... happy?"
-    l ""
+    l "Heheh, aí está... feliz?"
 
 # game/script.rpy:37196
 translate pt_br bot_wordplay_lin_342aaf74:
 
     # bot "Yes...! Mmmh~! That feels so good...! Nnnh! More...!"
-    bot ""
+    bot "Sim...! Mmmh~! Isso é tão gostoso...! Nnnh! Mais...!"
 
 # game/script.rpy:37197
 translate pt_br bot_wordplay_lin_4a247796:
 
     # l "You want more? Okay. Put your hands and feet inside those."
-    l ""
+    l "Você quer mais? Tudo bem. Coloque suas mãos e pés dentro daquelas."
 
 # game/script.rpy:37200
 translate pt_br bot_wordplay_lin_0f6536cc:
 
     # bot "Those...? Nnnh...! Why?"
-    bot ""
+    bot "Aquelas...? Nnnh...! Por quê?"
 
 # game/script.rpy:37201
 translate pt_br bot_wordplay_lin_39c7f2ae:
 
     # l "You want to cum, don't you?"
-    l ""
+    l "Você quer gozar, não quer?"
 
 # game/script.rpy:37202
 translate pt_br bot_wordplay_lin_eeac73b0:
 
     # bot "Nnnh, ahh...! O-Okay...!"
-    bot ""
+    bot "Nnnh, ahh...! O-Tudo bem...!"
 
 # game/script.rpy:37205
 translate pt_br bot_wordplay_lin_da75d9a3:
 
     # bot "I'm locked in, now what?"
-    bot ""
+    bot "Estou presa, e agora?"
 
 # game/script.rpy:37206
 translate pt_br bot_wordplay_lin_cf0f1163:
 
     # l "Now the fun begins, heheh..."
-    l ""
+    l "É agora que a diversão começa, heheh..."
 
 # game/script.rpy:37207
 translate pt_br bot_wordplay_lin_1d9a5c27:
 
     # l "[linoname], can you get behind her?"
-    l ""
+    l "[linoname], você pode ir para trás dela?"
 
 # game/script.rpy:37210
 translate pt_br bot_wordplay_lin_aa570041:
 
     # l "Would you do the honors, [linoname]?"
-    l ""
+    l "Você quer fazer as honras, [linoname]?"
 
 # game/script.rpy:37211
 translate pt_br bot_wordplay_lin_64f0b7bd:
 
     # bot "What is that?"
-    bot ""
+    bot "O que é isso?"
 
 # game/script.rpy:37214
 translate pt_br bot_wordplay_lin_96b41599:
 
     # l "Heheh, you'll find out soon enough..."
-    l ""
+    l "Heheh, você vai descobrir daqui a pouco..."
 
 # game/script.rpy:37215
 translate pt_br bot_wordplay_lin_9ecaa134:
 
     # bot "I hope it makes me cum..."
-    bot ""
+    bot "Espero que isso me faça gozar..."
 
 # game/script.rpy:37218
 translate pt_br bot_wordplay_lin_650765f3:
 
     # bot "Hnnngh! Haaahh~! Mmmh! A vibrator?"
-    bot ""
+    bot "Hnnngh! Haaahh~! Mmmh! Um vibrador?"
 
 # game/script.rpy:37219
 translate pt_br bot_wordplay_lin_c66155fa:
 
     # l "Heheh, yep..."
-    l ""
+    l "Heheh, sim..."
 
 # game/script.rpy:37220
 translate pt_br bot_wordplay_lin_85fa9fd8:
 
     # bot "Mmmh...! I want it inside...!"
-    bot ""
+    bot "Mmmh...! Eu quero isso lá dentro...!"
 
 # game/script.rpy:37221
 translate pt_br bot_wordplay_lin_ae9e0da5:
 
     # l "Since your pussy has been having all the fun, I thought your ass could use something as well... but that choice is up to [linoname]."
-    l ""
+    l "Já que a sua boceta está se divertindo sozinha, eu achei que a sua bunda poderia querer um pouco também... mas quem decide é o [linoname]."
 
 # game/script.rpy:37222
 translate pt_br bot_wordplay_lin_6f188907:
 
     # bot "Nnnh~! Mmmh! W-What?"
-    bot ""
+    bot "Nnnh~! Mmmh! O-O quê?"
 
 # game/script.rpy:37227
 translate pt_br bot_wordplay_lin_5098162f:
 
     # bot "Haaagh~! NNNGH!" with ssshake
-    bot "" with ssshake
+    bot "Haagh~! NNNGH!" with ssshake
 
 # game/script.rpy:37228
 translate pt_br bot_wordplay_lin_01d8e451:
 
     # l "Heheh, how does that feel?"
-    l ""
+    l "Heheh, o que está achando disso?"
 
 # game/script.rpy:37229
 translate pt_br bot_wordplay_lin_02c33bbf:
 
     # bot "Mmmh~! Good! Good...! MMMMH!"
-    bot ""
+    bot "Mmmh~! Bem! Bem...! MMMMH!"
 
 # game/script.rpy:37235
 translate pt_br bot_wordplay_lin_5098162f_1:
 
     # bot "Haaagh~! NNNGH!" with ssshake
-    bot "" with ssshake
+    bot "Haaagh~! NNNGH!" with ssshake
 
 # game/script.rpy:37236
 translate pt_br bot_wordplay_lin_a9b53432:
 
     # c "Try to keep that in, okay?"
-    c ""
+    c "Tente manter isso lá dentro, tudo bem?"
 
 # game/script.rpy:37237
 translate pt_br bot_wordplay_lin_5b262b7f:
 
     # bot "Mmmh~! O-Okay, I'll try! MMMMH!"
-    bot ""
+    bot "Mmmh~! O-Tudo bem, eu vou tentar! MMMMH!"
 
 # game/script.rpy:37241
 translate pt_br bot_wordplay_lin_8b7cf591:
 
     # bot "Hnnnn! Haaahhh! Yes...! Mmmh!"
-    bot ""
+    bot "Hnnnn! Haaahhh! Isso...! Mmmh!"
 
 # game/script.rpy:37242
 translate pt_br bot_wordplay_lin_8038aafa:
 
     # l "I knew you'd like it..."
-    l ""
+    l "Eu sabia que você ia gostar..."
 
 # game/script.rpy:37245
 translate pt_br bot_wordplay_lin_9f48b868:
 
     # bot "MMMMMH~! Aahhh...! Fmm...! That feels so good...! I want to cum~!"
-    bot ""
+    bot "MMMMMH~! Aahhh...! Fmm...! Isso é tão gostoso...! Eu quero gozar~!"
 
 # game/script.rpy:37246
 translate pt_br bot_wordplay_lin_8be94ebb:
 
     # l "Not yet, I still want to play with you..."
-    l ""
+    l "Ainda não, eu ainda quero brincar com você..."
 
 # game/script.rpy:37247
 translate pt_br bot_wordplay_lin_cf2edeb9:
 
     # bot "Hahhh! Hnn! I'm not a toy~! Hnnngh!"
-    bot ""
+    bot "Hahhh! Hnn! Eu não sou um brinquedo~! Hnnngh!"
 
 # game/script.rpy:37248
 translate pt_br bot_wordplay_lin_4dba734e:
 
     # l "For now you are... I'm having fun."
-    l ""
+    l "Por enquanto você é... Eu estou me divertindo."
 
 # game/script.rpy:37249
 translate pt_br bot_wordplay_lin_2b55f8b9:
 
     # bot "Mmmmh~! I just want to cum~!"
-    bot ""
+    bot "Mmmmh~! Eu só quero gozar~!"
 
 # game/script.rpy:37252
 translate pt_br bot_wordplay_lin_ffa0600a:
 
     # bot "Hahh, aahh~! Please Lin! No more teasing, I just want to cum~!"
-    bot ""
+    bot "Hahh, aahh~! Por favor Lin! Não me provoque mais, eu só quero gozar~!"
 
 # game/script.rpy:37253
 translate pt_br bot_wordplay_lin_556f27ce:
 
     # l "Heheh, okay... {w=0.66}MAX SPEED!"
-    l ""
+    l "Heheh, tudo bem... {w=0.66}VELOCIDADE MÁXIMA"
 
 # game/script.rpy:37255
 translate pt_br bot_wordplay_lin_74b1913c:
 
     # bot "AAAAAH!! Hnnn, MMMN!" with sshake
-    bot "" with sshake
+    bot "AAAAAH!! Hnnn, MMMN!" with sshake
 
 # game/script.rpy:37256
 translate pt_br bot_wordplay_lin_5a4e5b1e:
 
     # l "Heheh, is that better?"
-    l ""
+    l "Heheh, está melhor assim?"
 
 # game/script.rpy:37257
 translate pt_br bot_wordplay_lin_93b4dd71:
 
     # bot "NNNM! HNNN! I just need you to say the word, Lin! HAAAH! AAH!"
-    bot ""
+    bot "NNNM! HNNN! Eu só preciso que você me diga que eu posso, Lin! HAAAH! AAH!"
 
 # game/script.rpy:37258
 translate pt_br bot_wordplay_lin_59f75d1a:
 
     # l "But I like it when you beg~"
-    l ""
+    l "Mas eu gosto quando você implora~"
 
 # game/script.rpy:37259
 translate pt_br bot_wordplay_lin_d1be7797:
 
     # bot "Please, please, please! AAAHHH! Lin, let me cummm! MMMMN! Let me cum!"
-    bot ""
+    bot "Por favor, por favor, por favor! AAAHHH! Lin, me deixa gozar! MMMMN! Me deixa gozar!"
 
 # game/script.rpy:37260
 translate pt_br bot_wordplay_lin_2427cc55:
 
     # l "Well, since you asked so nicely... {w=0.66}STOP!"
-    l ""
+    l "Bem, já que você pediu tão educadamente... {w=0.66}PARE!"
 
 # game/script.rpy:37262
 translate pt_br bot_wordplay_lin_4625bde7:
 
     # bot "WHAT!? Nooo! Liiin~! Please, PLEASE!"
-    bot ""
+    bot "O QUÊ!? Nãoo! Liiin~! Por favor, POR FAVOR!"
 
 # game/script.rpy:37263
 translate pt_br bot_wordplay_lin_95678e73:
 
     # l "Heheh, hmm, okay, I guess you can..."
-    l ""
+    l "Heheh, hmm, tudo bem, eu acho que você pode..."
 
 # game/script.rpy:37265
 translate pt_br bot_wordplay_lin_bb43be33:
 
     # l "CUM, CUM, CUM!!!" with sshake
-    l "" with sshake
+    l "GOZAR, GOZE,GOZE!!!" with sshake
 
 # game/script.rpy:37266
 translate pt_br bot_wordplay_lin_4f827832:
 
     # bot "Ah, AAAAAAH!! MMMN~!" with sshake
-    bot "" with sshake
+    bot "Ah, AAAAAAH!! MMMN~!" with sshake
 
 # game/script.rpy:37267
 translate pt_br bot_wordplay_lin_5aa73f8c:
 
     # bot "HAHHH~! NNGH! TH-THANK YOU, LINNNN~! NNNGH!" with sshake
-    bot "" with sshake
+    bot "HAHHH~! NNGH! O-OBRIGADA, LIN~! NNNGH!" with sshake
 
 # game/script.rpy:37269
 translate pt_br bot_wordplay_lin_86fd0317:
 
     # bot "Ahhh...! Hahhhh...! Hnnn~! Thank you..."
-    bot ""
+    bot "Ahhh...! Hahhhh...! Hnnn~! Obrigada..."
 
 # game/script.rpy:37270
 translate pt_br bot_wordplay_lin_6916b910:
 
     # l "Heheh, you're welcome, [botname]..."
-    l ""
+    l "Heheh, de nada, [botname]..."
 
 # game/script.rpy:37272
 translate pt_br bot_wordplay_lin_cc70248c:
@@ -86465,397 +86464,397 @@ translate pt_br bot_wordplay_lin_cc70248c:
 translate pt_br bot_wordplay_ash_7e66c0e2:
 
     # a "Woah, what's going on here?"
-    a ""
+    a "Uou, o que está acontecendo aqui?"
 
 # game/script.rpy:37281
 translate pt_br bot_wordplay_ash_ba548b6f:
 
     # bot "Um, well... I really want to cum, so [botown] made me give control of my body over to you..."
-    bot ""
+    bot "Hum, bem... Eu estou com muita vontade de gozar, então o [botown] me mandou dar o controle do meu corpo para você..."
 
 # game/script.rpy:37282
 translate pt_br bot_wordplay_ash_129d4163:
 
     # a "Oh, really?"
-    a ""
+    a "Ah, é mesmo?"
 
 # game/script.rpy:37283
 translate pt_br bot_wordplay_ash_c31ce200:
 
     # bot "Y-Yes, please help me Ashley..."
-    bot ""
+    bot "S-Sim, por favor me ajude Ashley..."
 
 # game/script.rpy:37284
 translate pt_br bot_wordplay_ash_5086866c:
 
     # a "Hmmm, okay."
-    a ""
+    a "Hmmm, tudo bem."
 
 # game/script.rpy:37286
 translate pt_br bot_wordplay_ash_92457e43:
 
     # a "Cum." with ssshake
-    a "" with ssshake
+    a "Goze." with ssshake
 
 # game/script.rpy:37287
 translate pt_br bot_wordplay_ash_942faf61:
 
     # bot "Ah! Hnnnngh~!" with ssshake
-    bot "" with ssshake
+    bot "Ah! Hnnnngh~!" with ssshake
 
 # game/script.rpy:37288
 translate pt_br bot_wordplay_ash_41dc41c8:
 
     # bot "Mmmmn! Haaah! MMMMMMMMMN!" with ssshake
-    bot "" with ssshake
+    bot "Mmmmn! Haaah! MMMMMMMMMN!" with ssshake
 
 # game/script.rpy:37289
 translate pt_br bot_wordplay_ash_6a98221c:
 
     # bot "Ahhh, AAAHHH! Yessss!" with ssshake
-    bot "" with ssshake
+    bot "Ahhh, AAAHHH! Yessss!" with ssshake
 
 # game/script.rpy:37291
 translate pt_br bot_wordplay_ash_9cf4e491:
 
     # bot "Hahhh... ahhh... th-thank you, Ashley..."
-    bot ""
+    bot "Hahhh... ahhh... ob-obrigada, Ashley..."
 
 # game/script.rpy:37292
 translate pt_br bot_wordplay_ash_b62803df:
 
     # a "Hehe~"
-    a ""
+    a "Hehe~"
 
 # game/script.rpy:37293
 translate pt_br bot_wordplay_ash_2647a67c:
 
     # bot "I thought you were going to make me do something for it... Nhh..."
-    bot ""
+    bot "Eu pensei que você ia me fazer fazer alguma coisa para isso... Nhh..."
 
 # game/script.rpy:37294
 translate pt_br bot_wordplay_ash_a8793a62:
 
     # a "Cum..."
-    a ""
+    a "Goze..."
 
 # game/script.rpy:37296
 translate pt_br bot_wordplay_ash_35aa4c2a:
 
     # bot "AAAH! Nnnnh! Ashley!" with ssshake
-    bot "" with ssshake
+    bot "AAAH! Nnnnh! Ashley!" with ssshake
 
 # game/script.rpy:37297
 translate pt_br bot_wordplay_ash_40e60f77:
 
     # bot "Haah, NNGH! Wh-What are you doing...?" with ssshake
-    bot "" with ssshake
+    bot "Haah, NNGH! O-O que você está fazendo...?" with ssshake
 
 # game/script.rpy:37299
 translate pt_br bot_wordplay_ash_fc368b0a:
 
     # bot "Hohhh... hahhh... hnnn..."
-    bot ""
+    bot "Hohhh... hahhh... hnnn..."
 
 # game/script.rpy:37300
 translate pt_br bot_wordplay_ash_435e8c5a:
 
     # a "Hehe~ did you like that?"
-    a ""
+    a "Hehe~ você gostou disso?"
 
 # game/script.rpy:37301
 translate pt_br bot_wordplay_ash_2042880b:
 
     # bot "Y-Yes, that was really nice, but-"
-    bot ""
+    bot "S-Sim, isso foi muito bom, mas-"
 
 # game/script.rpy:37302
 translate pt_br bot_wordplay_ash_d97677d1:
 
     # a "CUM!"
-    a ""
+    a "GOZE!"
 
 # game/script.rpy:37304
 translate pt_br bot_wordplay_ash_328fe3a4:
 
     # bot "HNNGH{w=0.66}{nw}!" with ssshake
-    bot "" with ssshake
+    bot "HNNGH{w=0.66}{nw}!" with ssshake
 
 # game/script.rpy:37306
 translate pt_br bot_wordplay_ash_722f702c:
 
     # bot "{fast}Ah, AAH, HAAAH!!" with ssshake
-    bot "" with ssshake
+    bot "{fast}Ah, AAH, HAAAH!!" with ssshake
 
 # game/script.rpy:37307
 translate pt_br bot_wordplay_ash_047879f8:
 
     # bot "MMMN! AAGH! ASHLEY~!" with ssshake
-    bot "" with ssshake
+    bot "MMMN! AAGH! ASHLEY~!" with ssshake
 
 # game/script.rpy:37308
 translate pt_br bot_wordplay_ash_a0032807:
 
     # a "Cum, cum, cum! CUM!" with ssshake
-    a "" with ssshake
+    a "Goze, goze, goze! GOZE!" with ssshake
 
 # game/script.rpy:37309
 translate pt_br bot_wordplay_ash_6bf433ca:
 
     # bot "HYAAAAAH! AAAAH! MMMMMMN!!!" with sshake
-    bot "" with sshake
+    bot "HYAAAAAH! AAAAH! MMMMMMN!!!" with sshake
 
 # game/script.rpy:37310
 translate pt_br bot_wordplay_ash_335405d9:
 
     # bot "F-Fuh! FUCK! HAAAH! NNNM!" with sshake
-    bot "" with sshake
+    bot "P-Porr! Porra! HAAAH! NNNM!" with sshake
 
 # game/script.rpy:37311
 translate pt_br bot_wordplay_ash_7a500818:
 
     # a "Cum! Cum! Cummy-cum-cum!" with sshake
-    a "" with sshake
+    a "Goze! Goze! Goze-goze-goze!" with sshake
 
 # game/script.rpy:37312
 translate pt_br bot_wordplay_ash_854c838a:
 
     # bot "NNNNNNNNNGH~!!! MMMMMMN~!" with sshake
-    bot "" with sshake
+    bot "NNNNNNNNNGH~!!! MMMMMMN~!" with sshake
 
 # game/script.rpy:37313
 translate pt_br bot_wordplay_ash_ee6b1884:
 
     # a "STOP."
-    a ""
+    a "PARE."
 
 # game/script.rpy:37315
 translate pt_br bot_wordplay_ash_12fed9d3:
 
     # bot "Ahhh... nnnnh...! A-Ashley...! hahhh...!" with ssshake
-    bot "" with ssshake
+    bot "Ahhh... nnnnh...! A-Ashley...! hahhh...!" with ssshake
 
 # game/script.rpy:37316
 translate pt_br bot_wordplay_ash_91e3bb1a:
 
     # a "Satisfied yet?"
-    a ""
+    a "Agora está satisfeita?"
 
 # game/script.rpy:37317
 translate pt_br bot_wordplay_ash_45634722:
 
     # bot "Y-Yes...! More than enough...!"
-    bot ""
+    bot "S-Sim...! Mais do que o suficiente...!"
 
 # game/script.rpy:37319
 translate pt_br bot_wordplay_ash_0d70b4db:
 
     # bot "Th-Thank you, Ashley..."
-    bot ""
+    bot "O-Obrigada, Ashley..."
 
 # game/script.rpy:37321
 translate pt_br bot_wordplay_ash_83e0238f:
 
     # bot "Nnh!" with ssshake
-    bot "" with ssshake
+    bot "Nnh!" with ssshake
 
 # game/script.rpy:37322
 translate pt_br bot_wordplay_ash_4d3a8254:
 
     # a "Well that's too bad, because I'm starting to like this!"
-    a ""
+    a "Bem, isso é uma pena, porque eu estou começando a gostar disso!"
 
 # game/script.rpy:37324
 translate pt_br bot_wordplay_ash_466d3333:
 
     # a "CUM!" with sshake
-    a "" with sshake
+    a "Goze!" with sshake
 
 # game/script.rpy:37326
 translate pt_br bot_wordplay_ash_1ecbf866:
 
     # bot "AAAAAAH~!" with sshake
-    bot "" with sshake
+    bot "AAAAAAH~!" with sshake
 
 # game/script.rpy:37327
 translate pt_br bot_wordplay_ash_c66c49f2:
 
     # a "CUM, CUM, CUM, CUM, CUM!" with sshake
-    a "" with sshake
+    a "GOZE, GOZE, GOZE, GOZE, GOZE!" with sshake
 
 # game/script.rpy:37328
 translate pt_br bot_wordplay_ash_155ee302:
 
     # bot "HAAAH! AAAAH! HYAAAAAHHHH!!!" with sshake
-    bot "" with sshake
+    bot "HAAAH! AAAAH! HYAAAAAHHHH!!!" with sshake
 
 # game/script.rpy:37329
 translate pt_br bot_wordplay_ash_c37f2eab:
 
     # a "CUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUM!\nCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUM!\nCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUM!\nCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUMCUM!" with sshake
-    a "" with sshake
+    a "GOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZE!\nGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZE!\nGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZE!\nGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZEGOZE!" with sshake
 
 # game/script.rpy:37330
 translate pt_br bot_wordplay_ash_0108ed79:
 
     # bot "HYA-! AAH-! HN-! AGH-! MMMN-! HAHH-! FFFM-! NGHK-! F- FU- FUH- FUCK! MMN~!" with sshake
-    bot "" with sshake
+    bot "HYA-! AAH-! HN-! AGH-! MMMN-! HAHH-! FFFM-! NGHK-! P- PO- PORR- PORRA! MMN~!" with sshake
 
 # game/script.rpy:37331
 translate pt_br bot_wordplay_ash_32f11ba0:
 
     # bot "AAAAAAAAAAHHHHHHH!!!!!!" with sshake
-    bot "" with sshake
+    bot "AAAAAAAAAAHHHHHHH!!!!!!" with sshake
 
 # game/script.rpy:37333
 translate pt_br bot_wordplay_ash_86c4fb36:
 
     # bot "MMMN~!" with ssshake
-    bot "" with ssshake
+    bot "MMMN~!" with ssshake
 
 # game/script.rpy:37334
 translate pt_br bot_wordplay_ash_d557043d:
 
     # a "Mmmn~!? Stop!"
-    a ""
+    a "Mmmn~!? Pare!"
 
 # game/script.rpy:37336
 translate pt_br bot_wordplay_ash_60a23404:
 
     # bot "Haaahh...! Hnnn...! Mmmmn...! Ashley...! Did you have to spam it...?" with ssshake
-    bot "" with ssshake
+    bot "Haaahh...! Hnnn...! Mmmmn...! Ashley...! Você tinha que ter dito isso tantas vezes asim...?" with ssshake
 
 # game/script.rpy:37337
 translate pt_br bot_wordplay_ash_68e81d71:
 
     # a "You- ...You kissed me!"
-    a ""
+    a "Você- ...Você me beijou!"
 
 # game/script.rpy:37338
 translate pt_br bot_wordplay_ash_2b86b0d6:
 
     # bot "S-Sorry... I didn't mean to..."
-    bot ""
+    bot "D-Desculpa... Eu não quis..."
 
 # game/script.rpy:37340
 translate pt_br bot_wordplay_ash_c6ae499c:
 
     # a "You're going to pay me back for that, or I'm never going to stop making you cum!"
-    a ""
+    a "Você vai me pagar por isso, ou eu nunca vou parar de fazer você gozar!"
 
 # game/script.rpy:37341
 translate pt_br bot_wordplay_ash_523dc4d6:
 
     # bot "What do you want me to do?"
-    bot ""
+    bot "O que você quer que eu faça?"
 
 # game/script.rpy:37342
 translate pt_br bot_wordplay_ash_0bbabccf:
 
     # a "I want [name]'s semen. Do the work!"
-    a ""
+    a "Eu quero o sêmen do [name]. Faça o trabalho!"
 
 # game/script.rpy:37343
 translate pt_br bot_wordplay_ash_9c3f71ed:
 
     # bot "What...? How?"
-    bot ""
+    bot "O quê...? Como?"
 
 # game/script.rpy:37344
 translate pt_br bot_wordplay_ash_51d4d0e2:
 
     # a "Figure it out! Give me his cum!"
-    a ""
+    a "Descubra! Me dê o sêmen dele!"
 
 # game/script.rpy:37345
 translate pt_br bot_wordplay_ash_b615bbb0:
 
     # bot "Okay, I can do that..."
-    bot ""
+    bot "Tudo bem, eu posso fazer isso..."
 
 # game/script.rpy:37348
 translate pt_br bot_wordplay_ash_7e1b2cb5:
 
     # a "Hehe~ Mmmmn monmmn mimnomn!"
-    a ""
+    a "Hehe~ Mmmmn monmmn mimnomn!"
 
 # game/script.rpy:37349
 translate pt_br bot_wordplay_ash_de0fd961:
 
     # bot "Hahhh...! Hnnn...! That's enough from you, Ashley... nnnh~! I can still feel it... nnnnm..."
-    bot ""
+    bot "Hahhh...! Hnnn...! Já chega de você, Ashley... nnnh~! Eu ainda consigo sentir... nnnnm..."
 
 # game/script.rpy:37350
 translate pt_br bot_wordplay_ash_498ce92c:
 
     # a "Mnnm! Nnnmmn fmmn mmnumf!"
-    a ""
+    a "Mnnm! Nnnmmn fmmn mmnumf!"
 
 # game/script.rpy:37351
 translate pt_br bot_wordplay_ash_5331e8a4:
 
     # bot "Nnnn...! This is what you wanted, right Ashley? I can make him cum all over you."
-    bot ""
+    bot "Nnnn...! Isso é o que você queria, não é Ashley? Eu posso fazer ele gozar em você."
 
 # game/script.rpy:37352
 translate pt_br bot_wordplay_ash_e62181bb:
 
     # a "Mhm!"
-    a ""
+    a "Mhm!"
 
 # game/script.rpy:37353
 translate pt_br bot_wordplay_ash_04e06099:
 
     # bot "Nnnh... This is your reward for helping me, okay?"
-    bot ""
+    bot "Nnnh... Esta é a sua recompensa por me ajudar, tudo bem?"
 
 # game/script.rpy:37356
 translate pt_br bot_wordplay_ash_7bef527b:
 
     # bot "[botown]...! Nnnh... please cum for us~ Ashley really wants it."
-    bot ""
+    bot "[botown]...! Nnnh... por favor goze para nós~ A Ashley realmente quer."
 
 # game/script.rpy:37357
 translate pt_br bot_wordplay_ash_586ef107:
 
     # a "Mhm! Cmn omn mn mmnfyy~"
-    a ""
+    a "Mh! Podhe ghozr em mimm~"
 
 # game/script.rpy:37358
 translate pt_br bot_wordplay_ash_0695a204:
 
     # bot "Yes...! Please, please...! We want your cum, [botown]~"
-    bot ""
+    bot "Isso...! Por favor, por favor...! Nós queremos o seu sêmen"
 
 # game/script.rpy:37359
 translate pt_br bot_wordplay_ash_941674d4:
 
     # a "Cmn! Cmn! Cmn!"
-    a ""
+    a "Gza!Gza!Gza!"
 
 # game/script.rpy:37361
 translate pt_br bot_wordplay_ash_c2fac39f:
 
     # a "Mmmmn~!" with ssshake
-    a "" with ssshake
+    a "Mmmmn~!" with ssshake
 
 # game/script.rpy:37362
 translate pt_br bot_wordplay_ash_b5fa244b:
 
     # bot "Ah, you came~!"
-    bot ""
+    bot "Ah, você gozou~!"
 
 # game/script.rpy:37364
 translate pt_br bot_wordplay_ash_c3f11d32:
 
     # bot "There, satisfied now?"
-    bot ""
+    bot "Aí, agora está satisfeita?"
 
 # game/script.rpy:37365
 translate pt_br bot_wordplay_ash_1bbf9adc:
 
     # a "Heheh, yeah, that was fun..."
-    a ""
+    a "Heheh, sim, isso foi divertido..."
 
 # game/script.rpy:37371
 translate pt_br bot_wordplay_ash_cc70248c:
