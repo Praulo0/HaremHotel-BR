@@ -17206,7 +17206,7 @@ translate pt_br explore_brothel2_7409d46d:
 translate pt_br explore_brothel2_32c423cf:
 
     # rbun "Of course! I couldn't decide on just one or two so I got a lot, heheh! I hope Ray doesn't mind."
-    rbun "Mas é claro! Eu não consegui escolher apenas um ou dois então eu peguei um monte, heheh! Eu espero que o Ray não se incomode. "
+    rbun "É claro! Eu não consegui escolher apenas um ou dois então eu peguei um monte, heheh! Eu espero que o Ray não se incomode. "
 
 # game/script.rpy:10245
 translate pt_br explore_brothel2_f1eeb1a3:
@@ -37229,7 +37229,7 @@ translate pt_br bot_con_question_0dd3f5c5:
 translate pt_br bot_con_question_02d71591:
 
     # bot "Of course, go ahead."
-    bot "Mas é claro, vá em frente."
+    bot "É claro, vá em frente."
 
 # game/script.rpy:18546
 translate pt_br bot_con_question_1a5b05f5:
@@ -42037,7 +42037,7 @@ translate pt_br bot_socialize_f63ddfe5:
 translate pt_br bot_socialize_91b5284d:
 
     # bot "Of course! I would never let anything happen to this hotel or anyone inside of it..."
-    bot "Mas é claro! EU nunca deixaria nada acontecer com esse hotel ou com ninguém dentro dele..."
+    bot "É claro! EU nunca deixaria nada acontecer com esse hotel ou com ninguém dentro dele..."
 
 # game/script.rpy:20087
 translate pt_br bot_socialize_0c21b379:
@@ -45181,7 +45181,7 @@ translate pt_br bot_uni_ed7084c8:
 translate pt_br bot_uni_f2b7182b:
 
     # c "Of course..."
-    c "Mas é claro..."
+    c "É claro..."
 
 # game/script.rpy:20841
 translate pt_br bot_tech_c742ec7d:
@@ -56080,7 +56080,7 @@ translate pt_br botmar_9a480b7a:
 translate pt_br botmar_75510bbc:
 
     # m "Of course! I even got you a gift!"
-    m "Mas é claro! Eu até mesmo trouxe um presente para você!"
+    m "É claro! Eu até mesmo trouxe um presente para você!"
 
 # game/script.rpy:24066
 translate pt_br botmar_39f95f9c:
@@ -66256,7 +66256,7 @@ translate pt_br botcafefirst_7faa9791:
 translate pt_br botcafefirst_831a3aea:
 
     # bot "Of course they are! That's where d- ... {size=-10}{i}that's where dicks go...{/i}{/size}"
-    bot "Mas é claro que são! É láondeos p- ... {size=-10}{i}é láondeos paus vão...{/i}{/size}"
+    bot "É claro que são! É lá ondeos p- ... {size=-10}{i}é láondeos paus vão...{/i}{/size}"
 
 # game/script.rpy:27405
 translate pt_br botcafefirst_b3befea0:
@@ -77248,7 +77248,7 @@ translate pt_br laundryroom_6ac178f5:
 translate pt_br laundryroom_cc1cff24:
 
     # f "Of course it is! Do you hear yourself right now? Daddy owns that place! Nobody should be able to cross us like that..."
-    f "Mas é claro que é! Você está se ouvindo neste momento? O papai é o dono daquele lugar! Ninguém devia ser capaz de nos contrariar daquele jeito..."
+    f "É claro que é! Você está se ouvindo neste momento? O papai é o dono daquele lugar! Ninguém devia ser capaz de nos contrariar daquele jeito..."
 
 # game/script.rpy:31961
 translate pt_br laundryroom_0a7190ae:
@@ -79618,7 +79618,7 @@ translate pt_br whosthat_1fc512e8:
 translate pt_br whosthat_7f5ae7e8:
 
     # q "Of course! I wouldn't leave you here alone to work by yourself."
-    q "Mas é claro! Eu não te deixaria aqui para trabalhar sozinha."
+    q "É claro! Eu não te deixaria aqui para trabalhar sozinha."
 
 # game/script.rpy:34231
 translate pt_br whosthat_c8c96578:
@@ -86866,79 +86866,79 @@ translate pt_br bot_wordplay_ash_cc70248c:
 translate pt_br bot_lust_switch_288e7278:
 
     # bot "Nnnh, this is so weird... people are giving me really strange looks, but I don't they're bad looks..."
-    bot ""
+    bot "Nnnh, isso é tão estranho... as pessoas "
 
 # game/script.rpy:37382
 translate pt_br bot_lust_switch_036c609e:
 
     # c "I want you to give me control over your body so I can make you cum."
-    c ""
+    c "Eu quero que você me dê o controle do seu corpo para que eu possa fazer você gozar."
 
 # game/script.rpy:37383
 translate pt_br bot_lust_switch_b45b1d57:
 
     # bot "Voice commands? Okay, we can do that... done."
-    bot ""
+    bot "O comando de voz? Ok, nós podemos fazer isso... feito."
 
 # game/script.rpy:37384
 translate pt_br bot_lust_switch_ab7eb5ea:
 
     # c "Do you feel it when you make your pussy vibrate?"
-    c ""
+    c "Você sente quando faz a sua boceta vibrar?"
 
 # game/script.rpy:37385
 translate pt_br bot_lust_switch_309cf750:
 
     # bot "Of course."
-    bot ""
+    bot "É claro."
 
 # game/script.rpy:37386
 translate pt_br bot_lust_switch_62c99280:
 
     # c "Good. Turn on your vibrators."
-    c ""
+    c "Beleza, ative os seus vibradores."
 
 # game/script.rpy:37389
 translate pt_br bot_lust_switch_9596fca8:
 
     # bot "Nnnh~ mmmh...! Thank you [botown], thank you! Mmmh! More~"
-    bot ""
+    bot "Nnnh~ mmmh...! Obrigada [botown], obrigada! Mmmh! Mais~"
 
 # game/script.rpy:37390
 translate pt_br bot_lust_switch_28068a36:
 
     # c "You'll have to earn it first."
-    c ""
+    c "Mas você vai precisar merecer primeiro."
 
 # game/script.rpy:37391
 translate pt_br bot_lust_switch_e107ae68:
 
     # bot "Mmmh, I've waited so long though...! Please...! What more can I do?"
-    bot ""
+    bot "Mmmh, eu esperei tanto tempo...! Por favor...! O que mais eu posso fazer?"
 
 # game/script.rpy:37392
 translate pt_br bot_lust_switch_8563f7ee:
 
     # c "Start stripping. Take your panties off."
-    c ""
+    c "Começe a se despir. Tire a sua calcinha."
 
 # game/script.rpy:37393
 translate pt_br bot_lust_switch_722ab1b8:
 
     # bot "M-My panties...?"
-    bot ""
+    bot "M-Minha calcinha...?"
 
 # game/script.rpy:37394
 translate pt_br bot_lust_switch_4f7cc21d:
 
     # bot "Hnnn... nnnngh... f-fine...!"
-    bot ""
+    bot "Hnnn... nnnngh... c-certo...!"
 
 # game/script.rpy:37397
 translate pt_br bot_lust_switch_b83b0290:
 
     # bot "T-There you go, [botown]..."
-    bot ""
+    bot "Pr-Pronto, [botown]..."
 
 # game/script.rpy:37398
 translate pt_br bot_lust_switch_9696ccb2:
@@ -86950,31 +86950,31 @@ translate pt_br bot_lust_switch_9696ccb2:
 translate pt_br bot_lust_switch_5bf590f2:
 
     # bot "Now what?"
-    bot ""
+    bot "E agora?"
 
 # game/script.rpy:37400
 translate pt_br bot_lust_switch_1cba7564:
 
     # bot "Turn your vibrators to max speed."
-    bot ""
+    bot "Ponha os seus vibradores na velocidade máxima."
 
 # game/script.rpy:37402
 translate pt_br bot_lust_switch_b6340522:
 
     # bot "HNNNNGHK~!" with sshake
-    bot "" with sshake
+    bot "HNNNNGHK~!" with sshake
 
 # game/script.rpy:37403
 translate pt_br bot_lust_switch_65cddccd:
 
     # bot "Nnnnm~! Mmmmn! Yess...! Fuck!"
-    bot ""
+    bot "Nnnnm~! Mmmmn! Simm..! Porra!"
 
 # game/script.rpy:37404
 translate pt_br bot_lust_switch_f4948cfb:
 
     # c "Good, follow me as best you can."
-    c ""
+    c "Beleza, siga-me o máximo que você conseguir."
 
 # game/script.rpy:37405
 translate pt_br bot_lust_switch_77beecf1:
@@ -86986,7 +86986,7 @@ translate pt_br bot_lust_switch_77beecf1:
 translate pt_br bot_lust_switch_1db79fb1:
 
     # bot "[botown], nnnh...! Please make me cum now...! Mmmngh! Please...!"
-    bot ""
+    bot "[botown], nnnh...! Por favor, me faça gozar agora...! Mmmngh! Por favor...!"
 
 # game/script.rpy:37409
 translate pt_br bot_lust_switch_c39ad796:
