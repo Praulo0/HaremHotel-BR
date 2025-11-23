@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-11 13:31
+# TODO: Translation updated at 2022-12-11 13:31
 
 # game/script.rpy:372
 translate pt_br skip_a27367e9:
@@ -1176,7 +1176,7 @@ translate pt_br lobby2_f6031e2f:
 translate pt_br lobby2_2c23083b:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot "Olá, [botown]... eu realmente gostei do conjunto de roupas de vaca que você comprou para mim! Ah! O conjunto de roupas de gato também!"
+    bot "Olá, [botown]... eu realmente gostei do conjunto de vaca que você comprou para mim! Ah! O conjunto de roupas de gato também!"
 
 # game/script.rpy:1731
 translate pt_br lobby2_72495d6f:
@@ -1338,7 +1338,7 @@ translate pt_br lobby2_f6031e2f_1:
 translate pt_br lobby2_2c23083b_1:
 
     # bot "Hello [botown]... I really like the cow outfit you bought me! Oh! And the cat outfit too!"
-    bot "Olá, [botown]... eu realmente gostei do conjunto de roupas de vaca que você comprou para mim! Ah! O conjunto de roupas de gato também!"
+    bot "Olá, [botown]... eu realmente gostei do conjunto de vaca que você comprou para mim! Ah! O conjunto de gato também!"
 
 # game/script.rpy:1809
 translate pt_br lobby2_72495d6f_1:
@@ -2448,7 +2448,7 @@ translate pt_br lobby2_9ba94482_1:
 translate pt_br lobby2_800211ca:
 
     # a "Nnn, [name]... Can we fuck today? We could do it in this cute outfit!"
-    a "Nnn, [name]... Nós podemos foder hoje? Eu quero fazer usando esse conjunto de roupas fofo!"
+    a "Nnn, [name]... Nós podemos foder hoje? Eu quero fazer usando esse conjunto fofo!"
 
 # game/script.rpy:2356
 translate pt_br lobby2_3d5529d7_1:
@@ -4050,7 +4050,7 @@ translate pt_br bardrinks_bb22c8cb_6:
 translate pt_br bardrinks_b9d6b2c2:
 
     # "The Cat Maid Outfit is both cute and sexy! Sure to draw attention!"
-    "O conjunto de roupas de Gata Empregada Doméstica é tanto fofa quanto sexy! Com certeza vai chamar atenção!"
+    "O conjunto de Gata Empregada Doméstica é tanto fofa quanto sexy! Com certeza vai chamar atenção!"
 
 # game/script.rpy:3782
 translate pt_br bardrinks_f465daa1:
@@ -4068,7 +4068,7 @@ translate pt_br bardrinks_5da4f0e8:
 translate pt_br bardrinks_9e870068:
 
     # "You acquired Moon's Cat Maid Outfit!"
-    "Você adquiriu o conjunto de roupas de Gata Empregada Doméstica da Moon"
+    "Você adquiriu o conjunto de Gata Empregada Doméstica da Moon"
 
 # game/script.rpy:3792
 translate pt_br bardrinks_1d180219:
@@ -4098,7 +4098,7 @@ translate pt_br bartraining_f5d0a14f_2:
 translate pt_br bartraining_870ee9c8:
 
     # c "I need to buy her Maid Cat Outfit first."
-    c "Eu preciso comprar o conjunto de roupas de Gata Empregada Doméstica primeiro."
+    c "Eu preciso comprar o conjunto de Gata Empregada Doméstica primeiro."
 
 # game/script.rpy:3828
 translate pt_br bartraining_f5d0a14f_3:
@@ -4680,7 +4680,7 @@ translate pt_br billad_97db9582:
 translate pt_br billad_3e09066e:
 
     # e "Speaking of that, the bar has a variety of upgrades you can purchase. From entertainment like music, to top shelf spirits."
-    e "Falando nisso, o bar possui uma variedade de melhorias que você pode comprar. Desde entretenimento como música, aos seus destilados de primeira linha. "
+    e "Falando nisso, o bar possui uma variedade de melhorias que você pode comprar. Desde entretenimento como música, ás suas bebidas premium. "
 
 # game/script.rpy:4336
 translate pt_br billad_5e109c46:
@@ -5706,7 +5706,7 @@ translate pt_br floor2menu_697668e2:
 translate pt_br floor2menu_34e05bae:
 
     # "[botname] goes into her room and changes her clothes to her newly bought veil outfit..."
-    "[botname] entra no quarto dela e troca suas roupas por sua novo conjunto de roupas de noiva..."
+    "[botname] entra no quarto dela e troca suas roupas por sua novo conjunto de noiva..."
 
 # game/script.rpy:4936
 translate pt_br floor2menu_ac90ad65_3:
@@ -5772,7 +5772,7 @@ translate pt_br floor2menu_1e429923:
 translate pt_br floor2menu_5415e8f2:
 
     # "[botname]'s sluttiness is too low..."
-    "A safadeza de [botname] está muito baixa..."
+    "A devassidão de [botname] está muito baixa..."
 
 # game/script.rpy:4968
 translate pt_br floor2menu_1e429923_1:
@@ -5826,7 +5826,7 @@ translate pt_br floor2menu_ff2da85a:
 translate pt_br floor2menu_06268ed4:
 
     # "[botname] goes into her room and changes her clothes to her newly bought slut outfit, and inserts the slut module..."
-    "[botname] entra no quarto dela e troca suas roupas para a novo conjunto de roupas de vadia, e insere o módulo de vadia..."
+    "[botname] entra no quarto dela e troca suas roupas para a novo conjunto de vadia, e insere o módulo de vadia..."
 
 # game/script.rpy:4987
 translate pt_br floor2menu_d8bd047c:
@@ -6480,7 +6480,7 @@ translate pt_br floor2menu_cce1e909:
 translate pt_br floor2menu_bf476c66:
 
     # c "Hm, that's strange... they're not here. They're probably at college still. I'll go check on them."
-    c "Hm, que estranho... elas não estão aqui. Elas provavelmente ainda estão na faculdade. Eu vou dar uma olhada nelas."
+    c "Hm, que estranho... elas não estão aqui. Elas provavelmente ainda estão na faculdade. Eu vou ver como elas estão."
 
 # game/script.rpy:5289
 translate pt_br floor2menu_d75ab7f2_1:
@@ -6552,7 +6552,7 @@ translate pt_br floor2menu_1b1f8c76:
 translate pt_br floor2menu_12b598f6:
 
     # "Emma's sluttiness is too low..."
-    "A safadeza de Emma está muito baixa..."
+    "A devassidão de Emma está muito baixa..."
 
 # game/script.rpy:5339
 translate pt_br floor2menu_518f39d6:
@@ -6738,7 +6738,7 @@ translate pt_br floor2menu_5c592b11:
 translate pt_br floor2menu_f72c35f4:
 
     # "Felicity's sluttiness is too low..."
-    "A safadeza de Felicity está muito baixa..."
+    "A devassidão de Felicity está muito baixa..."
 
 # game/script.rpy:5442
 translate pt_br floor2menu_0b468f11:
@@ -7591,7 +7591,7 @@ translate pt_br lobby_ee0f9226:
 translate pt_br lobby_779568dc:
 
     # c "Your Bartender outfit came in."
-    c "Seu conjunto de roupas de Bartender chegou."
+    c "Seu conjunto de Bartender chegou."
 
 # game/script.rpy:6045
 translate pt_br lobby_cb1246b5:
@@ -7939,7 +7939,7 @@ translate pt_br lobby_48fc288b:
 translate pt_br lobby_d5a96581:
 
     # m "Could you buy me a succubus outfit? I would buy it myself, but I just upgraded the stream..."
-    m "Você pode comprar um conjunto de roupas de súcubo? Eu mesmo compraria, mas acabei de melhorar o stream..."
+    m "Você pode comprar um conjunto de súcubo? Eu mesmo compraria, mas acabei de melhorar o stream..."
 
 # game/script.rpy:6217
 translate pt_br lobby_33fd57ed:
@@ -7975,7 +7975,7 @@ translate pt_br lobby_ee0f9226_1:
 translate pt_br lobby_eb4057f4:
 
     # c "I got the succubus outfit for you."
-    c "Eu comprei o conjunto de roupas de súcubo para você."
+    c "Eu comprei o conjunto de súcubo para você."
 
 # game/script.rpy:6234
 translate pt_br lobby_0620eb6c:
@@ -8203,7 +8203,7 @@ translate pt_br lobby_37986217:
 translate pt_br lobby_f766bda2:
 
     # m "Or maybe you could spank me, there's a huge audience for that."
-    m "Ou talvez você pudesse me espancar, tem um grande público para isso."
+    m "Ou talvez você pudesse me dar umas palmadas, tem um grande público para isso."
 
 # game/script.rpy:6304
 translate pt_br lobby_9436367c:
@@ -8882,7 +8882,7 @@ translate pt_br lobby_96242f38:
 translate pt_br lobby_e13abc04:
 
     # "Maria's sluttiness is too low..."
-    "A safadeza de Maria está muito baixa..."
+    "A devassidão de Maria está muito baixa..."
 
 # game/script.rpy:6552
 translate pt_br lobby_35886396:
@@ -8912,7 +8912,7 @@ translate pt_br lobby_d6e6dc51:
 translate pt_br lobby_2dc5c6b7:
 
     # "Maria goes into her room and changes her clothes to her newly bought slut outfit..."
-    "Maria entra no quarto dela e troca suas roupas pelo seu novo conjunto de roupas de vadia..."
+    "Maria entra no quarto dela e troca suas roupas pelo seu novo conjunto de vadia..."
 
 # game/script.rpy:6564
 translate pt_br lobby_9ead871d:
@@ -9369,7 +9369,7 @@ translate pt_br floor1menu_48fc288b:
 translate pt_br floor1menu_315ac068:
 
     # l "I was wondering if you could take me shopping! I've really been wanting to visit the city, and this maid outfit has been getting a bit boring..."
-    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho estado com vontade de visitar a cidade, e esse conjunto de roupas de empregada doméstica está ficando um pouco enjoativa... "
+    l "Eu estava pensando se você poderia me levar ao shopping! Eu tenho estado com vontade de visitar a cidade, e esse conjunto de empregada doméstica está ficando um pouco enjoativa... "
 
 # game/script.rpy:6802
 translate pt_br floor1menu_54898fb8:
@@ -9603,7 +9603,7 @@ translate pt_br floor1menu_1b7074a1:
 translate pt_br floor1menu_1f684cc8:
 
     # "Lin's sluttiness is too low..."
-    "A safadeza de Lin está muito baixa..."
+    "A devassidão de Lin está muito baixa..."
 
 # game/script.rpy:7014
 translate pt_br floor1menu_1b7074a1_1:
@@ -9615,7 +9615,7 @@ translate pt_br floor1menu_1b7074a1_1:
 translate pt_br floor1menu_1f684cc8_1:
 
     # "Lin's sluttiness is too low..."
-    "A safadeza de Lin está muito baixa..."
+    "A devassidão de Lin está muito baixa..."
 
 # game/script.rpy:7021
 translate pt_br floor1menu_2f320a32:
@@ -9645,7 +9645,7 @@ translate pt_br floor1menu_3c60f245:
 translate pt_br floor1menu_d6d6593f:
 
     # "Lin strips her maid outfit off, and puts her new slut outfit on..."
-    "Lin retira o conjunto de roupas de empregada doméstica e coloca o seu novo conjunto de roupas de vadia... "
+    "Lin retira o conjunto de empregada doméstica e coloca o seu novo conjunto de vadia... "
 
 # game/script.rpy:7032
 translate pt_br floor1menu_32cb30a2:
@@ -10149,7 +10149,7 @@ translate pt_br floor1menu_335c3c89_3:
 translate pt_br floor1menu_edd070f8:
 
     # "I should check on her while she's at college."
-    "Eu deveria ir ver ela enquanto ela está na faculdade."
+    "Eu deveria ir ver como ela está enquanto ainda está na faculdade."
 
 # game/script.rpy:7387
 translate pt_br floor1menu_cc425e1b:
@@ -10749,7 +10749,7 @@ translate pt_br kcreep_7f9645c7:
 translate pt_br kcreep_99b307da:
 
     # "Kali's sluttiness is too low..."
-    "A safadeza de Kali está muito baixa..."
+    "A devassidão de Kali está muito baixa..."
 
 # game/script.rpy:7670
 translate pt_br kcreep_55905291:
@@ -10767,7 +10767,7 @@ translate pt_br kcreep_b7a63e96:
 translate pt_br kcreep_35a40811:
 
     # "Kali removes her clothing and changes in to her slut outfit..."
-    "Kali tira suas roupas e troca para a seu conjunto de roupas de vadia..."
+    "Kali tira suas roupas e troca para a seu conjunto de vadia..."
 
 # game/script.rpy:7677
 translate pt_br kcreep_c2fe32fe:
@@ -11649,7 +11649,7 @@ translate pt_br kcreep_a72baea1:
 translate pt_br kcreep_e8326cea:
 
     # c "A schoolgirl outfit."
-    c "Um conjunto de roupas de estudante."
+    c "Um conjunto de estudante."
 
 # game/script.rpy:8184
 translate pt_br kcreep_126106f7:
@@ -11835,7 +11835,7 @@ translate pt_br kcreep_43ee5f12:
 translate pt_br kcreep_e78abf03:
 
     # "Ashley's sluttiness is too low..."
-    "A safadeza de Ashley está muito baixa..."
+    "A devassidão de Ashley está muito baixa..."
 
 # game/script.rpy:8294
 translate pt_br kcreep_36a094eb:
@@ -11853,7 +11853,7 @@ translate pt_br kcreep_e642fc1a:
 translate pt_br kcreep_de083f95:
 
     # "Ashley removes her clothing and puts on the slut outfit..."
-    "Ashley remove seu conjunto de roupas e coloca o conjunto de roupas de vadia..."
+    "Ashley remove seu conjunto de roupas e coloca o conjunto de vadia..."
 
 # game/script.rpy:8301
 translate pt_br kcreep_72b17ab4:
@@ -11901,7 +11901,7 @@ translate pt_br kcreep_43ee5f12_1:
 translate pt_br kcreep_e78abf03_1:
 
     # "Ashley's sluttiness is too low..."
-    "A safadeza de Ashley está muito baixa..."
+    "A devassidão de Ashley está muito baixa..."
 
 # game/script.rpy:8332
 translate pt_br kcreep_3bbd173d:
@@ -14841,7 +14841,7 @@ translate pt_br explore_brothel1_9c9bbb44:
 translate pt_br explore_brothel1_22c42488:
 
     # rbun "Okay, from cheapest to most expensive we have... footjobs, handjobs, cunnilingus, blowjobs, vaginal and anal.\nWe also have threesome and foursome options, both for majority male and female parties."
-    rbun "Certo, do mais barato ao mais caro que nós temos... penheta, punheta, beijo grego, boquete, vaginal e anal.\nNós também oferecemos opções com trisal e em quatro, tanto para partidos de maioria masculina quanto feminina.
+    rbun "Certo, do mais barato ao mais caro que nós temos... penheta, punheta, cunilíngua, boquete, vaginal e anal.\nNós também oferecemos opções com trisal e em quatro, tanto para partidos de maioria masculina quanto feminina.
 
 # game/script.rpy:9182
 translate pt_br explore_brothel1_e4067c60:
@@ -17008,7 +17008,7 @@ translate pt_br explore_brothel2_261c403d:
 translate pt_br explore_brothel2_56b26893:
 
     # pbun "Spank me! I need to build some tolerance to pain back there, you know?"
-    pbun "Bata em mim! Eu preciso construir alguma resistência a dor lá atrás, sabe?"
+    pbun "Me dê umas palmadas! Eu preciso construir alguma resistência a dor lá atrás, sabe?"
 
 # game/script.rpy:10149
 translate pt_br explore_brothel2_5e3a4160:
@@ -17026,13 +17026,13 @@ translate pt_br explore_brothel2_878c67fb:
 translate pt_br explore_brothel2_bc5a3a48:
 
     # pbun "Nice!\nOkay, go ahead. Spank me.\nDon't hear that every day, do ya? Haha!"
-    pbun "Legal\nBeleza, pode ir. Me bata.\nIsso não é algo que se ouve todo dia, né? Haha!"
+    pbun "Legal\nBeleza, pode ir. Me dê umas palmadas.\nIsso não é algo que se ouve todo dia, né? Haha!"
 
 # game/script.rpy:10153
 translate pt_br explore_brothel2_476e6ec8:
 
     # pbun "I want you to spank me until my ass glows red! Or until I yell stop, whichever comes first."
-    pbun "Eu quero que você me bata até a minha buda ficar vermelha! Ou até eu gritar para parar, o que vier primeiro."
+    pbun "Eu quero que você me dê umas palmadas até a minha buda ficar vermelha! Ou até eu gritar para parar, o que vier primeiro."
 
 # game/script.rpy:10154
 translate pt_br explore_brothel2_543fcf4a:
@@ -17098,7 +17098,7 @@ translate pt_br explore_brothel2_8b4a2819:
 translate pt_br explore_brothel2_249dc9ba:
 
     # pbun "Come on, spank me harder. Spank me like you mean it! I won't get red any time soon like that..."
-    pbun "Vamos lá, bate mais forte. Me bate com vontade! Desse jeito vou demorar pra ficar vemelha..."
+    pbun "Vamos lá, Me dê umas palmadas mais fortes. Me bate com vontade! Desse jeito vou demorar pra ficar vemelha..."
 
 # game/script.rpy:10195
 translate pt_br explore_brothel2_12bee7e9:
@@ -17110,7 +17110,7 @@ translate pt_br explore_brothel2_12bee7e9:
 translate pt_br explore_brothel2_103f2891:
 
     # pbun "Of course I'm sure, {i}Master{/i}. I want to be spanked like a bad slave~"
-    pbun "É claro que eu tenho, {i}Mestre{/i}. Eu quero ser espancada como uma escrava malcriada~"
+    pbun "É claro que eu tenho, {i}Mestre{/i}. Eu quero levar umas palmadas como uma escrava malcriada~"
 
 # game/script.rpy:10207
 translate pt_br explore_brothel2_10249858:
@@ -22780,7 +22780,7 @@ translate pt_br nextfrontdoor_cf2b0386:
 translate pt_br nextfrontdoor_43c588db:
 
     # mail "You pick up Kali's bunny outfit"
-    mail "Você pega o conjunto de roupas de coelhinha de Kali"
+    mail "Você pega o conjunto de coelhinha de Kali"
 
 # game/script.rpy:12126
 translate pt_br nextfrontdoor_301fc00f:
@@ -22810,7 +22810,7 @@ translate pt_br nextfrontdoor_921aaaa7:
 translate pt_br nextfrontdoor_8905680e:
 
     # mail "You pick up Lin's heart outfit"
-    mail "Você pega o conjunto de roupas de coração de Lin"
+    mail "Você pega o conjunto de coração de Lin"
 
 # game/script.rpy:12141
 translate pt_br nextfrontdoor_5e06a3a6:
@@ -22822,7 +22822,7 @@ translate pt_br nextfrontdoor_5e06a3a6:
 translate pt_br nextfrontdoor_dc942b27:
 
     # mail "You pick up Maria's succubus outfit"
-    mail "Você pega o conjunto de roupas de súcubo de Maria"
+    mail "Você pega o conjunto de súcubo de Maria"
 
 # game/script.rpy:12147
 translate pt_br nextfrontdoor_2e26b624:
@@ -22906,37 +22906,37 @@ translate pt_br nextfrontdoor_39ee3027:
 translate pt_br nextfrontdoor_0f5fe178:
 
     # mail "You pick up Lin's slut outfit"
-    mail "Você pega o conjunto de roupas de vadia de Lin"
+    mail "Você pega o conjunto de vadia de Lin"
 
 # game/script.rpy:12189
 translate pt_br nextfrontdoor_8edcae9f:
 
     # mail "You pick up Maria's slut outfit"
-    mail "Você pega o conjunto de roupas de vadia de Maria"
+    mail "Você pega o conjunto de vadia de Maria"
 
 # game/script.rpy:12192
 translate pt_br nextfrontdoor_183cab9f:
 
     # mail "You pick up [botname]'s slut outfit"
-    mail "Você pega o conjunto de roupas de vadia de [botname]"
+    mail "Você pega o conjunto de vadia de [botname]"
 
 # game/script.rpy:12195
 translate pt_br nextfrontdoor_c5b53f13:
 
     # mail "You pick up [botname]'s veil outfit"
-    mail "Você pega o conjunto de roupas de esposa de [botname]"
+    mail "Você pega o conjunto de esposa de [botname]"
 
 # game/script.rpy:12198
 translate pt_br nextfrontdoor_be4b46b9:
 
     # mail "You pick up Kali's slut outfit"
-    mail "Você pega o conjunto de roupas de vadia de Kali"
+    mail "Você pega o conjunto de vadia de Kali"
 
 # game/script.rpy:12201
 translate pt_br nextfrontdoor_c5d57be9:
 
     # mail "You pick up Lin's cutiepie outfit"
-    mail "Você pega o conjunto de roupas fofinha de Lin"
+    mail "Você pega o conjunto de bonequinha de Lin"
 
 # game/script.rpy:12204
 translate pt_br nextfrontdoor_10521a6b:
@@ -22948,19 +22948,19 @@ translate pt_br nextfrontdoor_10521a6b:
 translate pt_br nextfrontdoor_fd2859db:
 
     # mail "You pick up Ashley's slut outfit"
-    mail "Você pega o conjunto de roupas de vadia da Ashley"
+    mail "Você pega o conjunto de vadia da Ashley"
 
 # game/script.rpy:12210
 translate pt_br nextfrontdoor_f82382c7:
 
     # mail "You pick up Kali's rope outfit"
-    mail "Você pega o conjunto de roupas de corda da Kali"
+    mail "Você pega o conjunto de corda da Kali"
 
 # game/script.rpy:12213
 translate pt_br nextfrontdoor_c4d46600:
 
     # mail "You pick up Ashley's rope outfit"
-    mail "Você pega o conjunto de roupas de corda da Kali"
+    mail "Você pega o conjunto de corda da Kali"
 
 # game/script.rpy:12216
 translate pt_br nextfrontdoor_ff78b311:
@@ -22978,37 +22978,37 @@ translate pt_br nextfrontdoor_6f3b1c4e:
 translate pt_br nextfrontdoor_ea931ab9:
 
     # mail "You pick up Maria's rope outfit"
-    mail "Você pega o conjunto de roupas de corda de Maria"
+    mail "Você pega o conjunto de corda de Maria"
 
 # game/script.rpy:12225
 translate pt_br nextfrontdoor_5ca7af5c:
 
     # mail "You pick up [botname]'s rope outfit"
-    mail "Você pega o conjunto de roupas de corda de [botname]"
+    mail "Você pega o conjunto de corda de [botname]"
 
 # game/script.rpy:12228
 translate pt_br nextfrontdoor_e6c01820:
 
     # mail "You pick up [botname]'s western cowgirl outfit"
-    mail "Você pega o conjunto de roupas de cowgirl do oeste de [botname]"
+    mail "Você pega o conjunto de vaqueira ocidental de [botname]"
 
 # game/script.rpy:12231
 translate pt_br nextfrontdoor_684cc525:
 
     # mail "You pick up Maria's bartender outfit"
-    mail "Você pega o conjunto de roupas de bartender de Maria"
+    mail "Você pega o conjunto de bartender de Maria"
 
 # game/script.rpy:12234
 translate pt_br nextfrontdoor_ee32d22f:
 
     # mail "You pick up Felicity's Catgirl outfit"
-    mail "Você pega o conjunto de roupas de Gatinha da Felicity"
+    mail "Você pega o conjunto de Gatinha da Felicity"
 
 # game/script.rpy:12237
 translate pt_br nextfrontdoor_3625f4dd:
 
     # mail "You pick up Felicity's Slut outfit"
-    mail "Você pega o conjunto de roupas de Vadia de Felicity"
+    mail "Você pega o conjunto de Vadia de Felicity"
 
 # game/script.rpy:12240
 translate pt_br nextfrontdoor_93d80139:
@@ -23026,31 +23026,31 @@ translate pt_br nextfrontdoor_18038ee6:
 translate pt_br nextfrontdoor_019745eb:
 
     # mail "You pick up Felicity's Sexy Gothic outfit"
-    mail "Você pega o conjunto de roupas de Gótica Sexy de Felicity"
+    mail "Você pega o conjunto de Gótica Sexy de Felicity"
 
 # game/script.rpy:12249
 translate pt_br nextfrontdoor_747a8a97:
 
     # mail "You pick up Emma's Slut outfit"
-    mail "Você pega o conjunto de roupas de Vadia da Emma"
+    mail "Você pega o conjunto de Vadia da Emma"
 
 # game/script.rpy:12252
 translate pt_br nextfrontdoor_b250bffb:
 
     # mail "You pick up Emma's Rope outfit"
-    mail "Você pega o conjunto de roupas de Corda da Emma"
+    mail "Você pega o conjunto de Corda da Emma"
 
 # game/script.rpy:12255
 translate pt_br nextfrontdoor_2ab4ba61:
 
     # mail "You pick up Felicity's Rope outfit"
-    mail "Você pega o conjunto de roupas de Corda de Felicity"
+    mail "Você pega o conjunto de Corda de Felicity"
 
 # game/script.rpy:12258
 translate pt_br nextfrontdoor_5dccef08:
 
     # mail "You pick up Autumn's Slutty Server outfit!"
-    mail "Você pega o conjunto de roupas de Garçonete Safada de Autumn!"
+    mail "Você pega o conjunto de Garçonete Safada de Autumn!"
 
 # game/script.rpy:12261
 translate pt_br nextfrontdoor_ee8704d6:
@@ -23062,7 +23062,7 @@ translate pt_br nextfrontdoor_ee8704d6:
 translate pt_br nextfrontdoor_9bc32d12:
 
     # mail "You pick up Lin's Goth Outfit"
-    mail "Você pega o conjunto de roupas de Gótica da Lin"
+    mail "Você pega o conjunto de Gótica da Lin"
 
 # game/script.rpy:12267
 translate pt_br nextfrontdoor_d084006d:
@@ -23074,7 +23074,7 @@ translate pt_br nextfrontdoor_d084006d:
 translate pt_br nextfrontdoor_e42f4aaf:
 
     # mail "You pick up Kali's Goth Outfit"
-    mail "Você pega o conjunto de roupas de Gótica da Kali"
+    mail "Você pega o conjunto de Gótica da Kali"
 
 # game/script.rpy:12273
 translate pt_br nextfrontdoor_9d193611:
@@ -23092,7 +23092,7 @@ translate pt_br nextfrontdoor_eef778a3:
 translate pt_br nextfrontdoor_65c17d3a:
 
     # mail "You pick up Ashley's Goth Outfit"
-    mail "Você pega o conjunto de roupas de Gótica da Ashley"
+    mail "Você pega o conjunto de Gótica da Ashley"
 
 # game/script.rpy:12282
 translate pt_br nextfrontdoor_b266e72e:
@@ -23110,7 +23110,7 @@ translate pt_br nextfrontdoor_8e62afce:
 translate pt_br nextfrontdoor_80725855:
 
     # mail "You pick up Maria's Goth Outfit"
-    mail "Você pega o conjunto de roupas de Gótica da Maria"
+    mail "Você pega o conjunto de Gótica da Maria"
 
 # game/script.rpy:12291
 translate pt_br nextfrontdoor_96d445a5:
@@ -23284,7 +23284,7 @@ translate pt_br shower_672d3131:
 translate pt_br shower_9f9f1ae6:
 
     # m "But her ass is pretty big... I just wanna... spank it!"
-    m "Mas a bunda dela é muito grande... Eu só queria... bater nela!"
+    m "Mas a bunda dela é muito grande... Eu só queria... dar umas palmadas nela!"
 
 # game/script.rpy:12389
 translate pt_br shower_d5c7c5f3:
@@ -25090,7 +25090,7 @@ translate pt_br botkchoice_33639125:
 translate pt_br botkchoice_7627456a:
 
     # c "I already spanked her today."
-    c "Eu já bati nela hoje."
+    c "Eu já dei palmadas nela hoje."
 
 # game/script.rpy:13308
 translate pt_br botkchoice_c1a363b7:
@@ -25918,7 +25918,7 @@ translate pt_br sylkitchenchoice_7238bf88:
 translate pt_br sylkitchenchoice_edf0c8ec:
 
     # c "I've already spanked her today."
-    c "Eu já bati nela hoje."
+    c "Eu já dei palmadas nela hoje."
 
 # game/script.rpy:13733
 translate pt_br sylkitchenchoice_26d8846b:
@@ -27490,7 +27490,7 @@ translate pt_br linkchoice_eb6c705e:
 translate pt_br linkchoice_edf0c8ec:
 
     # c "I've already spanked her today."
-    c "Eu já bati nela hoje."
+    c "Eu já dei palmadas nela hoje."
 
 # game/script.rpy:14469
 translate pt_br linkchoice_2961ab75:
@@ -29320,7 +29320,7 @@ translate pt_br yourroom_0edc6e1d:
 translate pt_br yourroom_2b90944c:
 
     # a "I even put on this cute outfit, remember it? Mmph..."
-    a "E eu até vesti esse conjunto de roupas fofo, lembra dele? Mmph..."
+    a "E eu até vesti esse conjunto fofo, lembra dele? Mmph..."
 
 # game/script.rpy:15460
 translate pt_br yourroom_b1f9b246:
@@ -30136,7 +30136,7 @@ translate pt_br yourroom_969b3086:
 translate pt_br yourroom_e73fe671:
 
     # c "Morning... I should check on [botname]."
-    c "Manhã... Eu deveria dar uma olhada em [botname]."
+    c "Manhã... Eu deveria ver como  [botname] está."
 
 # game/script.rpy:15778
 translate pt_br yourroom_2fcd6d63:
@@ -31612,7 +31612,7 @@ translate pt_br yourroomcontinued_d19f855d_1:
 translate pt_br yourroomcontinued_94dd80e7:
 
     # c "'Syl'ris Jia's exclusive pinups'... There it is."
-    c "'Pin-ups exclusívos da Jia Syl'ris... Aí está."
+    c "'Pôsteres exclusívos da Jia Syl'ris... Aí está."
 
 # game/script.rpy:16477
 translate pt_br yourroomcontinued_a1ded276:
@@ -31654,7 +31654,7 @@ translate pt_br yourroomcontinued_f37f8186:
 translate pt_br yourroomcontinued_47a6fb47:
 
     # "You've unlocked Jia's pinups!"
-    "Você desbloqueou os pin-ups de Jia!"
+    "Você desbloqueou os pôsteres de Jia!"
 
 # game/script.rpy:16539
 translate pt_br yourroomcontinued_e0807ccd:
@@ -32279,7 +32279,7 @@ translate pt_br ellenclick2_98e176cc:
 translate pt_br ellenclick2_577783f7:
 
     # e "Something your grandfather used to do was sell exclusive pinups! Though you may need to get close to the girls for them to accept..."
-    e "Algo que seu avô costumava fazer era vender pin-ups exclusívos! Mas você pode precisar se aproximar das meninas para elas aceitarem..."
+    e "Algo que seu avô costumava fazer era vender pôsteres exclusívos! Mas você pode precisar se aproximar das meninas para elas aceitarem..."
 
 # game/script.rpy:17082
 translate pt_br ellenclick2_f54bcb59:
@@ -43225,7 +43225,7 @@ translate pt_br bot_uni_f591c4a0:
 translate pt_br bot_uni_28ca74fd:
 
     # c "I'm just here to check on my girlfriend."
-    c "Eu só vim dar uma olhada na minha namorada."
+    c "Eu só vim ver como a minha namorada está."
 
 # game/script.rpy:20364
 translate pt_br bot_uni_feb9399a:
@@ -44203,7 +44203,7 @@ translate pt_br bot_uni_a1d487a0:
 translate pt_br bot_uni_d929e640:
 
     # k "Maybe that's because I don't take any nudes... I have a boyfriend, we actually fuck..."
-    k "Talvez seja porque eu não tiro fotos nuas... Eu tenho um namorado, nós realmente transamos..."
+    k "Talvez seja porque eu não tiro fotos nua... Eu tenho um namorado, nós realmente transamos..."
 
 # game/script.rpy:20603
 translate pt_br bot_uni_34ef83d1:
@@ -48478,7 +48478,7 @@ translate pt_br botwake_374ae7b7:
 translate pt_br botwake_2f90e789:
 
     # c "I'm doing fine, I just noticed you weren't in the lobby. I thought I would check on you."
-    c "Eu estou bem, eu acabei de perceber que você não estava no saguão. Então pensei em dar uma olhada em você."
+    c "Eu estou bem, eu acabei de perceber que você não estava no saguão. Então pensei em ver como você está."
 
 # game/script.rpy:21731
 translate pt_br botwake_092f5153:
@@ -53710,7 +53710,7 @@ translate pt_br botpinups_1c8d0c20:
 translate pt_br botpinups_4c9bcc0c:
 
     # "I need to buy her Veil Outfit first."
-    "Eu preciso comprar o conjunto de roupas de Véu primeiro."
+    "Eu preciso comprar o Conjunto de Véu primeiro."
 
 # game/script.rpy:23322
 translate pt_br botpinups_053432b7_1:
@@ -54190,7 +54190,7 @@ translate pt_br botpincatdone_68fc26db_2:
 translate pt_br botpincatdone_11a08cf4:
 
     # buyer "She's so cute! Her eyes are even different colors like my cat! But her's are green and blue. I want nudes!"
-    buyer "Ela é tão fofa! Os olhos dela até são de cores diferentes igual a minha gata! Mas os dela são verde e azul" Eu quero nudes!"
+    buyer "Ela é tão fofa! Os olhos dela até são de cores diferentes igual a minha gata! Mas os dela são verde e azul. Eu quero nudes!"
 
 # game/script.rpy:23573
 translate pt_br botpincowdone_70cef9a0:
@@ -57880,7 +57880,7 @@ translate pt_br botsink_bbe1d724:
 translate pt_br botsink_4604688b:
 
     # c "I better check on her..."
-    c "É melhor eu ir dar uma olhada nela..."
+    c "É melhor eu ver como ela está..."
 
 # game/script.rpy:24614
 translate pt_br botsink_e721279a:
@@ -58732,7 +58732,7 @@ translate pt_br botvirginkiller_55266047_1:
 translate pt_br botvirginkiller_4cfab095_1:
 
     # bot "This was so fun [botown]! And I even got a new outfit! Thank you so much!"
-    bot "Isso foi muito divertido [botown]! E eu consegui até umo conjunto de roupas nova! Muito obrigada!"
+    bot "Isso foi muito divertido [botown]! E eu consegui até um conjunto de roupas novo! Muito obrigada!"
 
 # game/script.rpy:24848
 translate pt_br botvirginkiller_b83f0ddc_1:
@@ -65524,7 +65524,7 @@ translate pt_br botoutfits_046134fd_1:
 translate pt_br botoutfits_3d94409e:
 
     # "Her relationship level needs to be raised."
-    "O nível de realcionamento dela precisa ser aumentado."
+    "O nível de relacionamento dela precisa ser aumentado."
 
 # game/script.rpy:26882
 translate pt_br botoutfits_053432b7_1:
@@ -66412,7 +66412,7 @@ translate pt_br botcafechoice_a294a46d:
 translate pt_br botcafechoice_9788be1d:
 
     # "You eat your cookies and [botname] stares at the customers. She enjoyed her time with you."
-    "e Você come os seus cookies e [botname] encara os clientes. Ela gostou de passar o tempo com você."
+    "Você come os seus biscoitos e [botname] encara os clientes. Ela gostou de passar o tempo com você."
 
 # game/script.rpy:27461
 translate pt_br botcafechoice_7bb02fec_2:
@@ -66844,7 +66844,7 @@ translate pt_br botserve_dfb64299:
 translate pt_br botserve_caa1af7a:
 
     # by "Wow! Thank you! I like these new outfits they're giving the waitress'"
-    by "Uau! Obrigado! Eu gostei desses conjunto de roupas novas que eles estão dando para as garçonetes"
+    by "Uau! Obrigado! Eu gostei desses conjunto novo que eles estão dando para as garçonetes"
 
 # game/script.rpy:27663
 translate pt_br botserve_14d9c968:
@@ -68668,7 +68668,7 @@ translate pt_br elpin_dabb1afe:
 translate pt_br elpin_896dfa9a:
 
     # e "I see you've found my, um... Pinups..."
-    e "Vejo que você encontrou os meus, hum... Pin-ups..."
+    e "Vejo que você encontrou os meus, hum... Pôsteres..."
 
 # game/script.rpy:28320
 translate pt_br elpin_6b3d9a63:
@@ -68788,7 +68788,7 @@ translate pt_br elpin_d2435693:
 translate pt_br elpin_de1dd97a:
 
     # e "Of me? Well, I don't think there are any left... But there might be some pinups of the other girls. I don't know if he kept them."
-    e "De mim? Bem, eu não acho que tenha mais nenhuma sobrando... Mas ainda pode ter algumas pin-ups de outras garotas. Eu não sei se ele as guardou."
+    e "De mim? Bem, eu não acho que tenha mais nenhuma sobrando... Mas ainda pode ter alguns pôsteres de outras garotas. Eu não sei se ele as guardou."
 
 # game/script.rpy:28356
 translate pt_br elpin_d2435693_1:
@@ -69526,7 +69526,7 @@ translate pt_br bdsmgirls_60b029e3:
 translate pt_br bdsmgirls_c6b3b829:
 
     # "I need to buy her rope outfit first."
-    "Eu preciso comprar o conjunto de roupas de cordas dela primeiro."
+    "Eu preciso comprar o conjunto de cordas dela primeiro."
 
 # game/script.rpy:28630
 translate pt_br bdsmgirls_3e7c4874:
@@ -69676,7 +69676,7 @@ translate pt_br bdsmgirls_eddbd324:
 translate pt_br bdsmgirls_c6b3b829_1:
 
     # "I need to buy her rope outfit first."
-    "Eu preciso comprar o conjunto de roupas de corda dela primeiro."
+    "Eu preciso comprar o conjunto de corda dela primeiro."
 
 # game/script.rpy:28692
 translate pt_br bdsmgirls_62cd3c65:
@@ -69808,7 +69808,7 @@ translate pt_br bdsmgirls_66146564:
 translate pt_br bdsmgirls_c6b3b829_2:
 
     # "I need to buy her rope outfit first."
-    "Eu preciso comprar o conjunto de roupas de corda dela primeiro."
+    "Eu preciso comprar o conjunto de corda dela primeiro."
 
 # game/script.rpy:28763
 translate pt_br bdsmgirls_c4023934:
@@ -70582,7 +70582,7 @@ translate pt_br botbdsm_836e3302_1:
 translate pt_br botbdsm_fb4e9fa4:
 
     # c "Put on your catgirl outfit. I'm going to fuck you right there."
-    c "Vista o seu conjunto de roupas de gatinha. Eu vou foder você aí mesmo."
+    c "Vista o seu conjunto de gatinha. Eu vou foder você aí mesmo."
 
 # game/script.rpy:29153
 translate pt_br botbdsm_f51f9319:
@@ -70600,7 +70600,7 @@ translate pt_br botbdsm_cd2f0913:
 translate pt_br botbdsm_fb4e9fa4_1:
 
     # c "Put on your catgirl outfit. I'm going to fuck you right there."
-    c "Vista o seu conjunto de roupas de gatinha. Eu vou foder você aí mesmo."
+    c "Vista o seu conjunto de gatinha. Eu vou foder você aí mesmo."
 
 # game/script.rpy:29162
 translate pt_br botbdsm_9fe08ddf_1:
@@ -70624,7 +70624,7 @@ translate pt_br botbdsm_836e3302_2:
 translate pt_br botbdsm_dfd0a07f:
 
     # c "Put on your cow girl outfit. I'm going to fuck you from behind."
-    c "Vista o seu conjunto de roupas de vaca. Eu vou foder você por trás."
+    c "Vista o seu conjunto de vaca. Eu vou foder você por trás."
 
 # game/script.rpy:29177
 translate pt_br botbdsm_8ac05a0a:
@@ -70642,7 +70642,7 @@ translate pt_br botbdsm_cb512949:
 translate pt_br botbdsm_dfd0a07f_1:
 
     # c "Put on your cow girl outfit. I'm going to fuck you from behind."
-    c "Vista o seu conjunto de roupas de vaca. Eu vou foder você por trás."
+    c "Vista o seu conjunto de vaca. Eu vou foder você por trás."
 
 # game/script.rpy:29186
 translate pt_br botbdsm_9fe08ddf_2:
@@ -71351,7 +71351,7 @@ translate pt_br botcatsf_80278e85:
 translate pt_br botbcm_ac2d1f6e:
 
     # "[botname] strips from her clothes, and puts on her cow girl outfit."
-    "[botname] tira as roupas, e põe o conjunto de roupas de vaca."
+    "[botname] tira as roupas, e põe o conjunto de vaca."
 
 # game/script.rpy:29444
 translate pt_br botbcm_fe347b33:
@@ -72184,7 +72184,7 @@ translate pt_br botbpunish_32ef6c5a:
 translate pt_br botbpunish_e92e425e:
 
     # c "Put on your cat outfit. I'm going to spank you."
-    c "Vista o seu conjunto de roupas de gatinha. Eu vou bater enm você."
+    c "Vista o seu conjunto de gatinha. Eu vou dar palmadas em você."
 
 # game/script.rpy:29835
 translate pt_br botbpunish_010e4eca:
@@ -72202,7 +72202,7 @@ translate pt_br botbpunish_26e98cc0:
 translate pt_br botbpunish_521322cd:
 
     # c "Put on your cow outfit. I'm going to milk you."
-    c "Vista o seu conjunto de roupas de vaca. Eu vou te ordenhar de você."
+    c "Vista o seu conjunto de vaca. Eu vou te ordenhar de você."
 
 # game/script.rpy:29843
 translate pt_br botbpunish_39f8a18c:
@@ -76246,7 +76246,7 @@ translate pt_br afbdsm_1ef18081:
 translate pt_br afbdsm_9d0d6b9b:
 
     # "You tell Ashley to sit down on the bed. You make her strip her clothes and put on the rope outfit."
-    "Você diz para Ashley se sentar na cama. Você a faz tirar a roupa e vestir o conjunto de roupas de corda."
+    "Você diz para Ashley se sentar na cama. Você a faz tirar a roupa e vestir o conjunto de corda."
 
 # game/script.rpy:31561
 translate pt_br afbdsm_bb2ad8c7:
@@ -76912,7 +76912,7 @@ translate pt_br ashbpunish_a97e7647:
 translate pt_br ashbpunish_76388f0d:
 
     # a "Spank me...?"
-    a "Me bater...?"
+    a "Eu me dar ums palmadas...?"
 
 # game/script.rpy:31793
 translate pt_br ashbpunish_1ffeadfb:
@@ -78034,7 +78034,7 @@ translate pt_br weekly_7493cf35:
 translate pt_br weekly_a01076b5:
 
     # wr "Tales were told about your Top Shelf Spirits, resulting in patrons buying expensive drinks, earning you $15!"
-    wr "Foram contadas histórias sobre seus destilados de primeira linha, o que fez com que os clientes comprassem bebidas caras, o que lhe rendeu"
+    wr "Foram contadas histórias sobre suas Bebidas Premium, o que fez com que os clientes comprassem bebidas caras, o que lhe rendeu"
 
 # game/script.rpy:32504
 translate pt_br weekly_2fc6c78c:
@@ -78556,7 +78556,7 @@ translate pt_br nosex_3d617fac:
 translate pt_br noslut_a0f129a4:
 
     # "I probably could have convinced her if her {color=#f26eff}Sluttiness{/color} was high enough..."
-    "Eu provavelmente teria conseguido convencê-la se a {color=#f26eff}Safadeza{/color} dela fosse alta o suficiente..."
+    "Eu provavelmente teria conseguido convencê-la se a {color=#f26eff}Devassidão{/color} dela fosse alta o suficiente..."
 
 # game/script.rpy:33409
 translate pt_br nosub_161481a3:
@@ -78790,7 +78790,7 @@ translate pt_br botex_66fad21d:
 translate pt_br marslut_47468fc6:
 
     # exp "Maria's {color=#f26eff}sluttiness{/color} increased to [mar_slut]!"
-    exp "A {color=#00A40A}safadeza{/color} de Maria foi aumentada para [mar_slut]!"
+    exp "A {color=#00A40A}devassidão{/color} de Maria foi aumentada para [mar_slut]!"
 
 # game/script.rpy:33566
 translate pt_br marslut_0d1258d2:
@@ -78808,7 +78808,7 @@ translate pt_br marslut_2277c7ac:
 translate pt_br ashslut_9ac7c52b:
 
     # exp "Ashley's {color=#f26eff}sluttiness{/color} increased to [ash_slut]!"
-    exp "A {color=#00A40A}safadeza{/color} de Ashley foi aumentada para [ash_slut]!"
+    exp "A {color=#00A40A}devassidão{/color} de Ashley foi aumentada para [ash_slut]!"
 
 # game/script.rpy:33577
 translate pt_br ashslut_55fefb23:
@@ -78826,7 +78826,7 @@ translate pt_br ashslut_56ac9876:
 translate pt_br autslut_932b0862:
 
     # exp "Autumn's {color=#f26eff}sluttiness{/color} increased to [aut_slut]!"
-    exp "A {color=#00A40A}safadeza{/color} de Autumn foi aumentada para [aut_slut]!"
+    exp "A {color=#00A40A}devassidão{/color} de Autumn foi aumentada para [aut_slut]!"
 
 # game/script.rpy:33588
 translate pt_br autslut_524468ff:
@@ -78838,7 +78838,7 @@ translate pt_br autslut_524468ff:
 translate pt_br vioslut_c181dada:
 
     # exp "Violet's {color=#f26eff}sluttiness{/color} increased to [vio_slut]!"
-    exp "A {color=#00A40A}safadeza{/color} de Violet foi aumentada para [vio_slut]!"
+    exp "A {color=#00A40A}devassidão{/color} de Violet foi aumentada para [vio_slut]!"
 
 # game/script.rpy:33596
 translate pt_br vioslut_74a068ac:
@@ -78970,7 +78970,7 @@ translate pt_br linob_d62e15da:
 translate pt_br linslut_a329da72:
 
     # exp "Lin's {color=#f26eff}sluttiness{/color} increased to [lin_slut]!"
-    exp "A {color=#f26eff}safadeza{/color} de Lin foi aumentada para [lin_slut]!"
+    exp "A {color=#f26eff}devassidão{/color} de Lin foi aumentada para [lin_slut]!"
 
 # game/script.rpy:33695
 translate pt_br linslut_9e9e7390:
@@ -79012,7 +79012,7 @@ translate pt_br autcum_5d635c9e:
 translate pt_br kalislut_85e78716:
 
     # exp "Kali's {color=#f26eff}sluttiness{/color} increased to [kali_slut]!"
-    exp "A {color=#f26eff}safadeza{/color} de Kali foi aumentada para [kali_slut]!"
+    exp "A {color=#f26eff}devassidão{/color} de Kali foi aumentada para [kali_slut]!"
 
 # game/script.rpy:33729
 translate pt_br kalislut_e26fc0d2:
@@ -79366,7 +79366,7 @@ translate pt_br ashfoot_eb9f3132:
 translate pt_br felslut_44f4c39f:
 
     # exp "Felicity's {color=#f26eff}sluttiness{/color} increased to [fel_slut]!"
-    exp "A {color=#f26eff}safadeza{/color} de Felicity foi aumentada para [fel_slut]!"
+    exp "A {color=#f26eff}devassidão{/color} de Felicity foi aumentada para [fel_slut]!"
 
 # game/script.rpy:34004
 translate pt_br felslut_069ee173:
@@ -79396,7 +79396,7 @@ translate pt_br emhandjob_6df539be:
 translate pt_br emslut_5bc52d19:
 
     # exp "Emma's {color=#f26eff}sluttiness{/color} increased to [em_slut]!"
-    exp "A {color=#f26eff}safadeza{/color} de Emma foi aumentada para [em_slut]!"
+    exp "A {color=#f26eff}devassidão{/color} de Emma foi aumentada para [em_slut]!"
 
 # game/script.rpy:34021
 translate pt_br emslut_33ebfced:
@@ -79546,7 +79546,7 @@ translate pt_br autup_a2082eec:
 translate pt_br botslut_6b4947dc:
 
     # exp "[botname]'s {color=#f26eff}sluttiness{/color} increased to [bot_slut]!"
-    exp "A {color=#f26eff}safadeza{/color} de [botname] foi aumentada para [bot_slut]!"
+    exp "A {color=#f26eff}devassidão{/color} de [botname] foi aumentada para [bot_slut]!"
 
 # game/script.rpy:34189
 translate pt_br botslut_ecae5373:
@@ -82432,7 +82432,7 @@ translate pt_br kali_insp_22c719b5:
 translate pt_br kali_insp_a450b69f:
 
     # c "Put your bunny outfit on, we're going to Papa Rons."
-    c "Ponha o seu conjunto de roupas de coelhina. nós vamos ao Papa Rons."
+    c "Ponha o seu conjunto de coelhina. nós vamos ao Papa Rons."
 
 # game/script.rpy:35253
 translate pt_br kali_insp_0fa127b9:
@@ -83056,7 +83056,7 @@ translate pt_br ash_insp_c4238d44:
 translate pt_br ash_insp_3c205b13:
 
     # c "Put your nurse outfit on, you're going to serve Lin."
-    c "Ponha o seu conjunto de roupas de enfermeira, você vai servir a Lin."
+    c "Ponha o seu conjunto de enfermeira, você vai servir a Lin."
 
 # game/script.rpy:35569
 translate pt_br ash_insp_f20cc449:
@@ -83074,7 +83074,7 @@ translate pt_br ash_insp_2e1e906b:
 translate pt_br ash_insp_b636fa02:
 
     # c "Put your nurse outfit on, you're going to serve Lin. And put this in..."
-    c "Ponha o seu conjunto de roupas de enfermeira, você vai servir a Lin. E coloque isso também..."
+    c "Ponha o seu conjunto de enfermeira, você vai servir a Lin. E coloque isso também..."
 
 # game/script.rpy:35573
 translate pt_br ash_insp_3b511fa4:
@@ -83620,7 +83620,7 @@ translate pt_br lin_insp_96ef4eb3:
 translate pt_br lin_insp_15b89329:
 
     # "I need to buy Lin's Cutiepie Outfit."
-    "Eu preciso comprar o Conjunto de Roupas Fofinhas da Lin."
+    "Eu preciso comprar o Conjunto de Bonequinha da Lin."
 
 # game/script.rpy:35850
 translate pt_br lin_insp_e650594d:
@@ -83698,7 +83698,7 @@ translate pt_br lin_insp_6bb05923:
 translate pt_br lin_insp_9445093e:
 
     # c "Dress in your leaf outfit. Come back to me once you have."
-    c "Vista-se com o seu conjunto de roupas de folhas. E assim que tiver feito isso, volte até mim."
+    c "Vista-se com o seu conjunto de folhas. E assim que tiver feito isso, volte até mim."
 
 # game/script.rpy:35886
 translate pt_br lin_insp_e12b3157_1:
@@ -86992,241 +86992,241 @@ translate pt_br bot_lust_switch_1db79fb1:
 translate pt_br bot_lust_switch_c39ad796:
 
     # c "There's no need to rush things..."
-    c ""
+    c "Não há necessidade de apressar as coisas..."
 
 # game/script.rpy:37410
 translate pt_br bot_lust_switch_6769c6f6:
 
     # bot "Hnnngh! Mmmmn~! But I'm leaking so much [botown], please! Please! Please!"
-    bot ""
+    bot "Hnnngh! Mmmmn~! Mas eu estou vazando tanto, [botown], por favor! Por favor! Por favor!"
 
 # game/script.rpy:37411
 translate pt_br bot_lust_switch_939b5c45:
 
     # c "You'll have to wait a little longer."
-    c ""
+    c "Você vai ter que esperar um pouco mais."
 
 # game/script.rpy:37413
 translate pt_br bot_lust_switch_ffe5fad0:
 
     # bot "But I want it now!"
-    bot ""
+    bot "Mas eu quero agora!"
 
 # game/script.rpy:37416
 translate pt_br bot_lust_switch_3217012b:
 
     # bot "Even though I've done this before, I'm still not used to everyone's stares..."
-    bot ""
+    bot "Mesmo que eu já tenha feito isso antes, eu ainda não estou acostumada com os olhares de todo mundo..."
 
 # game/script.rpy:37417
 translate pt_br bot_lust_switch_6cdf054b:
 
     # c "Turn on your vibrators."
-    c ""
+    c "Ligue os seus vibradores."
 
 # game/script.rpy:37418
 translate pt_br bot_lust_switch_9ee88edb:
 
     # bot "Okay."
-    bot ""
+    bot "Tudo bem."
 
 # game/script.rpy:37421
 translate pt_br bot_lust_switch_35e84345:
 
     # bot "Nnnh~! Mmm...!"
-    bot ""
+    bot "Nnnh~! Mmm...!"
 
 # game/script.rpy:37422
 translate pt_br bot_lust_switch_3b446893:
 
     # c "How does that feel?"
-    c ""
+    c "Como você está se sentindo? "
 
 # game/script.rpy:37423
 translate pt_br bot_lust_switch_28b14972:
 
     # bot "That feels so good... Nnnh, I don't want to wait anymore, I want to cum...!"
-    bot ""
+    bot "Isso é tão bom... Nnnh, eu não quero mais esperar, eu quero gozar...!"
 
 # game/script.rpy:37425
 translate pt_br bot_lust_switch_a8cf0ecf:
 
     # bot "I want you!"
-    bot ""
+    bot "Eu quero você!"
 
 # game/script.rpy:37427
 translate pt_br bot_lust_switch_ae2eed44:
 
     # c "Nnh!" with ssshake
-    c "" with ssshake
+    c "Nnh!" with ssshake
 
 # game/script.rpy:37428
 translate pt_br bot_lust_switch_770df7e4:
 
     # bot "You're taking too long, [botown]... Your time for control is over, it's time I have my fun and cum aaall over your cock~!"
-    bot ""
+    bot "Você está demorando muito, [botown]... Seu tempo de controle acabou, é hora de eu me divertir e gozar em todo o seu pau~!"
 
 # game/script.rpy:37429
 translate pt_br bot_lust_switch_13eba541:
 
     # c "Looks like you've reached your limit, hm?"
-    c ""
+    c "Parece que você atingiu o seu limite, hm?"
 
 # game/script.rpy:37430
 translate pt_br bot_lust_switch_16c2300d:
 
     # bot "Don't even try using commands, because they won't work..."
-    bot ""
+    bot "Nem tente usar comandos, porque eles não vão funcionar..."
 
 # game/script.rpy:37432
 translate pt_br bot_lust_switch_0c271cbc:
 
     # bot "Haaaah~! Mmmn, finally~!"
-    bot ""
+    bot "Haaaah~! Mmmn, finalmente~!"
 
 # game/script.rpy:37434
 translate pt_br bot_lust_switch_cb8f38a8:
 
     # bot "Nnnh~! There, doesn't that feel better?"
-    bot ""
+    bot "Nnnh~! Aí, isso não está melhor?"
 
 # game/script.rpy:37435
 translate pt_br bot_lust_switch_5662336b:
 
     # bot "Hmmm, I guess I'll let you have a little fun... do you want bigger tits?"
-    bot ""
+    bot "Hmmmn, acho que vou deixar você se divertir um pouco... você quer tetas maiores?"
 
 # game/script.rpy:37439
 translate pt_br bot_lust_switch_0cf4ee9c:
 
     # bot "Heheh, there, better?"
-    bot ""
+    bot "Heheh, pronto, melhor?"
 
 # game/script.rpy:37441
 translate pt_br bot_lust_switch_d8ea67a1:
 
     # bot "Haahhh~! Ahhngh! Mmn! That feels so good~!" with sshake
-    bot "" with sshake
+    bot "Haahhh~! Ahhngh! Mmn! Isso foi tão gostoso~! with sshake
 
 # game/script.rpy:37442
 translate pt_br bot_lust_switch_65bdb1ae:
 
     # bot "Mmmmn~! [botown], what's the point of all this teasing? Let's just feel good forever~! Mmmn~!"
-    bot ""
+    bot "Mmmmn~! [botown], qual é o motivo de toda essa provocação? Vamos só nos sentir bem para sempre~! Mmmn~!"
 
 # game/script.rpy:37443
 translate pt_br bot_lust_switch_5aabdfba:
 
     # bot "Aaah~! Nnnnnh, yes! Your cock is so good, [botown]~! Fuck! MMMMN~! Fuck! Ohh, yesss!"
-    bot ""
+    bot "Aaah~! Nnnnnh, isso!  seu pau é tão bom, [botoewn]~! Porra! MMMMN~! Porra! Ahh, issooo!"
 
 # game/script.rpy:37446
 translate pt_br bot_lust_switch_dfa4ff48:
 
     # bot "Were you planning on fucking me out here, or were you just going to edge me? Mmmn! Either way, I'll have my fun if you tease me enough~"
-    bot ""
+    bot "Você estava planejando me foder aqui fora, ou só ia me provocar mesmo? Mmmn! De qualquer forma, vou me divertir se você me provocar o suficiente~"
 
 # game/script.rpy:37447
 translate pt_br bot_lust_switch_70887955:
 
     # bot "Hnnn! Hnnng! Hahhh! Fuck, I'm getting close, [botown]! Mmmn! Yes! Yes! Fuck!"
-    bot ""
+    bot "Hnnn! Hnnng! Hahhh! Porra, eu estou chegando perto, [botown]! Mmmn! Isso! Isso! Porra!"
 
 # game/script.rpy:37448
 translate pt_br bot_lust_switch_0257bca2:
 
     # bot "Cum inside...! Cum inside! Nnngh! Yes, I want to feel you explode inside my tight pussy! Mmmn~! Hnnng!"
-    bot ""
+    bot "Goza dentro...! Goza dentro! Nnngh! Isso, eu quero sentir você explodir dentro da minha boceta apertada! Mmmn~! Hnnng!"
 
 # game/script.rpy:37450
 translate pt_br bot_lust_switch_5ff04171:
 
     # bot "AAAAH~! MMMN!" with sshake
-    bot "" with sshake
+    bot "AAAAH~! MMMN!" with sshake
 
 # game/script.rpy:37451
 translate pt_br bot_lust_switch_9ee6136e:
 
     # bot "YES~! Finally~! MMMN!" with sshake
-    bot "" with sshake
+    bot "ISSO~! Finalmente~! MMMN!" with sshake
 
 # game/script.rpy:37452
 translate pt_br bot_lust_switch_868b7d49:
 
     # bot "Yes, yes~! Cum inside me, [botown]~!" with sshake
-    bot "" with sshake
+    bot "Isso, isso~! Goza dentro de mim, [botown]~!" with sshake
 
 # game/script.rpy:37454
 translate pt_br bot_lust_switch_4ffa83d3:
 
     # bot "Mmmh~ that's exactly what I needed... thank you~"
-    bot ""
+    bot "Mmmh~ Era exatamente disso que eu precisava... obrigada~"
 
 # game/script.rpy:37456
 translate pt_br bot_lust_switch_3dec20a5:
 
     # bot "You like me as I am, hm? Good..."
-    bot ""
+    bot "Você gosta de mim do jeito que eu sou, hm? Que bom..."
 
 # game/script.rpy:37458
 translate pt_br bot_lust_switch_d8ea67a1_1:
 
     # bot "Haahhh~! Ahhngh! Mmn! That feels so good~!" with sshake
-    bot "" with sshake
+    bot "Haahhh~! Ahhngh! Mmn! Isso é tão gostoso~!" with sshake
 
 # game/script.rpy:37459
 translate pt_br bot_lust_switch_65bdb1ae_1:
 
     # bot "Mmmmn~! [botown], what's the point of all this teasing? Let's just feel good forever~! Mmmn~!"
-    bot ""
+    bot "Mmmmn~! [botown], qual é o motivo de toda essa provocação? Vamos só nos sentir bem para sempre~! Mmmn~!"
 
 # game/script.rpy:37460
 translate pt_br bot_lust_switch_5aabdfba_1:
 
     # bot "Aaah~! Nnnnnh, yes! Your cock is so good, [botown]~! Fuck! MMMMN~! Fuck! Ohh, yesss!"
-    bot ""
+    bot "Aaah~! Nnnnnh, isso! O seu pau é tão gostoso, [botown]~! Porra! MMMMN~! Porra! Ahh, issooo!"
 
 # game/script.rpy:37463
 translate pt_br bot_lust_switch_dfa4ff48_1:
 
     # bot "Were you planning on fucking me out here, or were you just going to edge me? Mmmn! Either way, I'll have my fun if you tease me enough~"
-    bot ""
+    bot "Você estava planejando me foder aqui fora, ou só ia me provocar mesmo? Mmmn! De qualquer forma, vou me divertir se você me provocar o suficiente~"
 
 # game/script.rpy:37464
 translate pt_br bot_lust_switch_70887955_1:
 
     # bot "Hnnn! Hnnng! Hahhh! Fuck, I'm getting close, [botown]! Mmmn! Yes! Yes! Fuck!"
-    bot ""
+    bot "Hnnn! Hnnng! Hahhh! Porra, eu estou chegando perto, [botown]! Mmmn! Isso! Isso! Porra!"
 
 # game/script.rpy:37465
 translate pt_br bot_lust_switch_0257bca2_1:
 
     # bot "Cum inside...! Cum inside! Nnngh! Yes, I want to feel you explode inside my tight pussy! Mmmn~! Hnnng!"
-    bot ""
+    bot "Goza dentro...! Goza dentro! Nnngh! Isso, eu quero sentir você explodir dentro da minha boceta apertada! Mmmn~! Hnnng!"
 
 # game/script.rpy:37467
 translate pt_br bot_lust_switch_5ff04171_1:
 
     # bot "AAAAH~! MMMN!" with sshake
-    bot "" with sshake
+    bot "AAAAH~! MMMN!" with sshake
 
 # game/script.rpy:37468
 translate pt_br bot_lust_switch_9ee6136e_1:
 
     # bot "YES~! Finally~! MMMN!" with sshake
-    bot "" with sshake
+    bot "ISSO~! Finalmente~! MMMN!" with sshake
 
 # game/script.rpy:37469
 translate pt_br bot_lust_switch_868b7d49_1:
 
     # bot "Yes, yes~! Cum inside me, [botown]~!" with sshake
-    bot "" with sshake
+    bot "Isso, isso~! Goza dentro de mim, [botown]~!" with sshake
 
 # game/script.rpy:37471
 translate pt_br bot_lust_switch_d29a29af:
 
     # bot "Heheh, that was fun, wasn't it~ let's do this again sometime!"
-    bot ""
+    bot "Heheh, isso foi divertido, não foi~? Vamos fazer isso de novo qualquer hora dessas!"
 
 # game/script.rpy:37476
 translate pt_br bot_lust_switch_cc70248c:
@@ -87238,103 +87238,103 @@ translate pt_br bot_lust_switch_cc70248c:
 translate pt_br bot_lust_doggy1_887f178c:
 
     # bot "Mmmmmmh~ I can't stop leaking, [botown]... please fix me~"
-    bot ""
+    bot "Mmmmmmh~ Eu não consigo parar de vazar, [botown]... por favor, me conserte~"
 
 # game/script.rpy:37490
 translate pt_br bot_lust_doggy1_9cae900e:
 
     # bot "Haaahh! Mmmngh! Yes, yes~! Nnnh...! Here, let me make it tighter for you~"
-    bot ""
+    bot "Haaahh! Mmmngh! Isso, isso~! Nnnh...! Aqui, deixe-me apertar isso para você~"
 
 # game/script.rpy:37491
 translate pt_br bot_lust_doggy1_24fa12d7:
 
     # bot "Hhnngh!" with sshake
-    bot "" with sshake
+    bot "Hhnngh!" with sshake
 
 # game/script.rpy:37493
 translate pt_br bot_lust_doggy1_82dd1cbb:
 
     # bot "Mmmmh~ how is that, [botown]? Hehe... I can get as tight as you want! Nnnh!"
-    bot ""
+    bot "Mmmmh~ o que você acha, [botown]? Hehe... Eu posso ficar tão apertada quanto você quiser! Nnnh!"
 
 # game/script.rpy:37497
 translate pt_br bot_lust_doggy1_fe0f38f3:
 
     # bot "Fuuck~ Fuck! Hahh~! Nnnnnh, yeah! [botown]...! Harder...! Harder! Mmmh!"
-    bot ""
+    bot "Poorra~Porra! Hahh~! Nnnnnh, isso! [botown]...! Mais forte...! Mais forte! Mmmh!"
 
 # game/script.rpy:37498
 translate pt_br bot_lust_doggy1_f015035a:
 
     # bot "Nnnnngh! Your cock feels so big inside of me, fuck! Hahhh! Hahhh! NNNNH! Yes, [botown], use my body~!!"
-    bot ""
+    bot "Nnnnngh! O seu pau parece estar tão grande dentro de mim, porra! Hahhh! Hahhh! Isso, [botown], use o meu corpo~!!"
 
 # game/script.rpy:37501
 translate pt_br bot_lust_doggy1_e760eb13:
 
     # bot "[botown], nnnh! I want to cum now...! Please! Mmmh! I'm ready! I'm ready! MMMMN!"
-    bot ""
+    bot "[botown], nnnh! Eu quero gozar agora...! Por favor! Mmmh! Eu estou pronta! Eu estou pronta! MMMMN!"
 
 # game/script.rpy:37502
 translate pt_br bot_lust_doggy1_393d0250:
 
     # c "Just a little bit longer."
-    c ""
+    c "Espere só mais um pouco."
 
 # game/script.rpy:37503
 translate pt_br bot_lust_doggy1_b86dcfac:
 
     # bot "Nnnnh! What if I made my pussy vibrate, [botown]? Would you like that...? Mmmn!"
-    bot ""
+    bot "Nnnnh! E se eu fizesse a minha boceta vibrar, [botown]? Você gostaria disso...? Mmmn!"
 
 # game/script.rpy:37506
 translate pt_br bot_lust_doggy1_a251650c:
 
     # bot "Haaah~! How is that? Nnngh! Heheh, does it make you weak...? Mmmh~"
-    bot ""
+    bot "Haaah~! O que você acha? Nnngh! Heheh, isso te deixa fraco...? Mmmh~"
 
 # game/script.rpy:37507
 translate pt_br bot_lust_doggy1_27a8b44f:
 
     # bot "Aaaah~! Haaah! Hahh! Please, please! Please make me cum! Just say the word, [botown]! I need it! I need it!"
-    bot ""
+    bot "Aaaah~! Haaah! Hahh! Por favor, por favor! Por favor, me faça gozar! Apenas diga a palavra, [botown]! Eu preciso disso! Eu preciso disso!"
 
 # game/script.rpy:37508
 translate pt_br bot_lust_doggy1_204b7bb8:
 
     # bot "Mmmh~! Nnnh~! AAAH~! Hnnngh~! Pleeeeease [botown]! Please! Please! MMMH!"
-    bot ""
+    bot "Mmmh~! Nnnh~! AAAH~! Hnnngh~! Por favooooor [botown]! Por favor! Por favor! MMMH!"
 
 # game/script.rpy:37513
 translate pt_br bot_lust_doggy1_08b813c5:
 
     # c "CUM!"
-    c ""
+    c "GOZE!"
 
 # game/script.rpy:37515
 translate pt_br bot_lust_doggy1_443ffb56:
 
     # bot "HAAAAAAAAAAAGH~!!!" with sshake
-    bot "" with sshake
+    bot "HAAAAAAAAAAAGH~!!!" with sshake
 
 # game/script.rpy:37516
 translate pt_br bot_lust_doggy1_b22ffeea:
 
     # bot "Y-YES! YES! MMMMNH~!" with sshake
-    bot "" with sshake
+    bot "I-ISSO! ISSO! MMMMNH~!" with sshake
 
 # game/script.rpy:37517
 translate pt_br bot_lust_doggy1_ece10700:
 
     # bot "Fill me up, [botown]~~~!" with sshake
-    bot "" with sshake
+    bot "Me preencha, [botown]~~~!" with sshake
 
 # game/script.rpy:37519
 translate pt_br bot_lust_doggy1_f94a04e5:
 
     # bot "Haaah! Aaahhh...! Hnnnn~... wow... that was amazing...!"
-    bot ""
+    bot "Haaah! Aaahhh...! Hnnnn~... uau... isso foi incrível...!"
 
 # game/script.rpy:37524
 translate pt_br bot_lust_doggy1_cc70248c:
@@ -87346,25 +87346,25 @@ translate pt_br bot_lust_doggy1_cc70248c:
 translate pt_br bot_lust_doggy1_1bdb55ac:
 
     # c "Nngh!" with ssshake
-    c "" with ssshake
+    c "Nngh!" with ssshake
 
 # game/script.rpy:37532
 translate pt_br bot_lust_doggy1_5592ec54:
 
     # bot "Huh!?"
-    bot ""
+    bot "Hein!?"
 
 # game/script.rpy:37534
 translate pt_br bot_lust_doggy1_19a7039b:
 
     # bot "Make me cum, [botown], please! Just say the word! Please? Pleeease?"
-    bot ""
+    bot "Me faça gozar, [botown], por favor! Apenas diga a palavra! Por favor? Por favoooor?"
 
 # game/script.rpy:37535
 translate pt_br bot_lust_doggy1_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:37541
 translate pt_br bot_lust_doggy1_96c8109c:
@@ -87376,1085 +87376,1085 @@ translate pt_br bot_lust_doggy1_96c8109c:
 translate pt_br passout_8dded309:
 
     # c "I'm exhausted..."
-    c ""
+    c "Eu estou exausto..."
 
 # game/script.rpy:37646
 translate pt_br passout_3f1cf03d:
 
     # c "*yawwwn*...!\nWow, I feel better already."
-    c ""
+    c "*Uaaah*...!\nUau, eu já me sinto melhor."
 
 # game/script.rpy:37652
 translate pt_br passout_0679de31:
 
     # l "U-Umm, [linoname]? I can't sleep..."
-    l ""
+    l "H-Hum, [linoname]? Eu não consigo dormir..."
 
 # game/script.rpy:37653
 translate pt_br passout_02cb6291:
 
     # l "Can I... Sleep with you?"
-    l ""
+    l "Eu posso... Dormir com você?"
 
 # game/script.rpy:37658
 translate pt_br passout_4ef2db66:
 
     # l "Really? Thanks [linoname]!"
-    l ""
+    l "Verdade? Obrigada [linoname]!"
 
 # game/script.rpy:37661
 translate pt_br passout_6d392464:
 
     # c "She looks so cute when she's sleeping..."
-    c ""
+    c "Ela é tão fofa quando está dormindo..."
 
 # game/script.rpy:37662
 translate pt_br passout_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script.rpy:37666
 translate pt_br passout_3825e709:
 
     # l "Nnn, [linoname]..."
-    l ""
+    l "Nnn, [linoname]..."
 
 # game/script.rpy:37667
 translate pt_br passout_eb60aef7:
 
     # c "Hopefully she doesn't mind."
-    c ""
+    c "Felizmente ela não se importa."
 
 # game/script.rpy:37669
 translate pt_br passout_14d3b642:
 
     # "You and Lin sleep peacefully through the night..."
-    ""
+    "Você e Lin dormem pacificamente durante a noite..."
 
 # game/script.rpy:37670
 translate pt_br passout_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:37671
 translate pt_br passout_a3852345:
 
     # l "Nyaah!" with ssshake
-    l "" with ssshake
+    l "Nyaah!" with ssshake
 
 # game/script.rpy:37673
 translate pt_br passout_bd297a74:
 
     # l "Mm, [linoname]... W-Where are my clothes...?"
-    l ""
+    l "Mm, [linoname]... O-Onde estão as minhas roupas...?"
 
 # game/script.rpy:37674
 translate pt_br passout_94600dc5:
 
     # c "You looked uncomfortable, so I took them off."
-    c ""
+    c "Você parecia desconfortável, então eu as tirei."
 
 # game/script.rpy:37675
 translate pt_br passout_7f275a0b:
 
     # l "But you always wear clothes to bed..."
-    l ""
+    l "Mas você sempre usa roupas para dormir..."
 
 # game/script.rpy:37677
 translate pt_br passout_0e00df74:
 
     # c "Oh, yeah..."
-    c ""
+    c "Ah, é..."
 
 # game/script.rpy:37679
 translate pt_br passout_643d0df3:
 
     # l "I'm cold [linoname]... Can I have my clothes back?"
-    l ""
+    l "Eu estou com frio [linoname]... Posso pegar minhas roupas de volta?"
 
 # game/script.rpy:37680
 translate pt_br passout_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Claro."
 
 # game/script.rpy:37683
 translate pt_br passout_d8df5aef:
 
     # c "I probably shouldn't. I'll just go to sleep."
-    c ""
+    c "Eu provavelmente não deveria. Eu vou apenas dormir."
 
 # game/script.rpy:37685
 translate pt_br passout_14d3b642_1:
 
     # "You and Lin sleep peacefully through the night..."
-    ""
+    "Você e Lin dormem pacificamente durante a noite..."
 
 # game/script.rpy:37689
 translate pt_br passout_a64b3743:
 
     # l "Thanks [linoname]! I slept really good!"
-    l ""
+    l "Obrigada [linoname]! Eu dormi muito bem!"
 
 # game/script.rpy:37692
 translate pt_br passout_e946ff98:
 
     # l "You made me feel very safe."
-    l ""
+    l "Você me fez sentir muito segura."
 
 # game/script.rpy:37698
 translate pt_br passout_4d38a01f:
 
     # l "Oh... okay..."
-    l ""
+    l "Ah... tudo bem..."
 
 # game/script.rpy:37707
 translate pt_br passout_43bf6c53:
 
     # bot "[botown]...? I'm sorry to bother you but... I'm having a hard time sleeping..."
-    bot ""
+    bot "[botown]...? Desculpe incomodar você, mas... Estou tendo dificuldade para dormir..."
 
 # game/script.rpy:37708
 translate pt_br passout_057d45c0:
 
     # bot "It's really quiet and lonely in my room... Do you think I could maybe spend the night here today?"
-    bot ""
+    bot "É realmente silencioso e solitário no meu quarto... Você acha que eu poderia passar a noite aqui hoje?"
 
 # game/script.rpy:37712
 translate pt_br passout_7531f11b:
 
     # bot "Really? Thank you so much [botown]!"
-    bot ""
+    bot "Verdade? Muito obrigada [botown]!"
 
 # game/script.rpy:37714
 translate pt_br passout_40f0773b:
 
     # "[botname] exits the room to undress. You hop in to bed where you wait for [botname]..."
-    ""
+    "[botname] sai do quarto para se despir. Você pula na cama onde espera por [botname]..."
 
 # game/script.rpy:37716
 translate pt_br passout_3590fd11:
 
     # bot "Thank you for allowing me to sleep in your bed [botown]."
-    bot ""
+    bot "Obrigada por me permitir dormir na sua cama [botown]."
 
 # game/script.rpy:37717
 translate pt_br passout_9e90e676:
 
     # c "What are you wearing?"
-    c ""
+    c "O que você está vestindo?"
 
 # game/script.rpy:37719
 translate pt_br passout_82ce1098:
 
     # bot "This...? It's what I sleep in. I'm not supposed to sleep in my clothes, right? This was the closest thing to pajamas that I had... Is it not good?"
-    bot ""
+    bot "Isso...? É o que eu durmo. Eu não deveria dormir com minhas roupas, certo? Isso foi a coisa mais próxima de pijamas que eu tinha... Não está bom?"
 
 # game/script.rpy:37720
 translate pt_br passout_1af90008:
 
     # c "No, it's fine."
-    c ""
+    c "Não, está tudo bem."
 
 # game/script.rpy:37722
 translate pt_br passout_f51f9319:
 
     # bot "Oh, okay!"
-    bot ""
+    bot "Ah, tudo bem!"
 
 # game/script.rpy:37724
 translate pt_br passout_940ef723:
 
     # bot "Good night, [botown]..."
-    bot ""
+    bot "Boa noite, [botown]..."
 
 # game/script.rpy:37725
 translate pt_br passout_b462c19f:
 
     # c "Good night, [botname]."
-    c ""
+    c "Boa noite, [botname]."
 
 # game/script.rpy:37727
 translate pt_br passout_14a24087:
 
     # "You both fall asleep peacefully..."
-    ""
+    "Vocês dois adormecem pacificamente..."
 
 # game/script.rpy:37731
 translate pt_br passout_bcf4702a:
 
     # bot "[botown] wake up!"
-    bot ""
+    bot "[botown] acorde!"
 
 # game/script.rpy:37734
 translate pt_br passout_004e56a3:
 
     # bot "I woke up and your penis was hard... I wanted to let you sleep but I started overheating and I knew I had to make you cum..."
-    bot ""
+    bot "Eu acordeie o seu pênis estava duro... Eu queria deixar você dormir, mas eu comecei a superaquecer e sabia que tinha que fazer você gozar..."
 
 # game/script.rpy:37735
 translate pt_br passout_dfdebe6e:
 
     # bot "[botown] you can cum... it's okay! I'll clean everything... just please... cum!"
-    bot ""
+    bot "[botown], você pode gozar... está tudo bem! Eu vou limpar tudo... então por favor... apenas goze!"
 
 # game/script.rpy:37736
 translate pt_br passout_938a29a8:
 
     # bot "[botown] I won't be able to relax until you cum... I want you to cum so badly..."
-    bot ""
+    bot "[botown] Eu não vou conseguir relaxar até você gozar... Eu quero tanto que você goze..."
 
 # game/script.rpy:37737
 translate pt_br passout_56ea531b:
 
     # bot "[botown] please cum! Please cum! I'm begging you, please!"
-    bot ""
+    bot "[botown], por favor, goze! Por favor, goze! Eu estou te implorando, por favor!"
 
 # game/script.rpy:37741
 translate pt_br passout_ae77c936:
 
     # bot "Aahh!" with ssshake
-    bot "" with ssshake
+    bot "Aahh!" with ssshake
 
 # game/script.rpy:37743
 translate pt_br passout_c2121c4e:
 
     # bot "Heheh, I made you cum!"
-    bot ""
+    bot "Heheh, eu fiz você gozar!"
 
 # game/script.rpy:37744
 translate pt_br passout_9e0fd61e:
 
     # bot "Ahhh... hahhh... I made you cum [botown]... I'm so happy! My body is finally cooling down..."
-    bot ""
+    bot "Ahhh... hahhh... Eu fiz você gozar, [botown]... Eu estou tão feliz! Meu corpo finalmente está esfriando..."
 
 # game/script.rpy:37745
 translate pt_br passout_c3ec7cec:
 
     # bot "Have a good day [botown]!"
-    bot ""
+    bot "Tenha um bom dia, [botown]!"
 
 # game/script.rpy:37753
 translate pt_br passout_efdb7c98:
 
     # bot "O-Oh... I... *sniff*... I... I'm sorry..."
-    bot ""
+    bot "A-Ah... Eu... *sniff*... Eu... Me desculpe..."
 
 # game/script.rpy:37755
 translate pt_br passout_bb60f876:
 
     # "[botname] runs out of your room crying."
-    ""
+    "[botname] sai do seu quarto chorando."
 
 # game/script.rpy:37763
 translate pt_br passout_28453576:
 
     # l "Um, [linoname]? Were you just going to sleep?"
-    l ""
+    l "Hum, [linoname]? Você ia apenas dormir?"
 
 # game/script.rpy:37764
 translate pt_br passout_02e373a5:
 
     # c "I was."
-    c ""
+    c "Eu ia."
 
 # game/script.rpy:37766
 translate pt_br passout_fa59c526:
 
     # l "Well, I was wondering if I could maybe sleep with you?"
-    l ""
+    l "Bem, eu estava me perguntando se eu poderia talvez dormir com você?"
 
 translate pt_br strings:
 
     # game/script.rpy:46
     old "!!!WARNING!!!"
-    new ""
+    new "!!!AVISO!!!"
 
     # game/script.rpy:47
     old "WEEKLY REPORT"
-    new ""
+    new "RELATÓRIO SEMANAL"
 
     # game/script.rpy:51
     old "Creepy Guy"
-    new ""
+    new "Cara Estranho"
 
     # game/script.rpy:55
     old "You"
-    new ""
+    new "Você"
 
     # game/script.rpy:61
     old "Buyer"
-    new ""
+    new "Comprador"
 
     # game/script.rpy:62
     old "Bystander"
-    new ""
+    new "Espectador"
 
     # game/script.rpy:63
     old "Kali's Dad"
-    new ""
+    new "Pai da Kali"
 
     # game/script.rpy:64
     old "Your Grandfather"
-    new ""
+    new "Seu Avô"
 
     # game/script.rpy:65
     old "Ashley's Mom"
-    new ""
+    new "Mãe da Ashley"
 
     # game/script.rpy:74
     old "Slave Owner"
-    new ""
+    new "Proprietário de Escravos"
 
     # game/script.rpy:75
     old "Slave Trader"
-    new ""
+    new "Comerciante de Escravos"
 
     # game/script.rpy:76
     old "Slave"
-    new ""
+    new "Escravo"
 
     # game/script.rpy:79
     old "TRAIT GAINED!"
-    new ""
+    new "CARACTERÍSTICA ADQUIRIDA!"
 
     # game/script.rpy:80
     old "Mail Received!"
-    new ""
+    new "Mensagem Recebida!"
 
     # game/script.rpy:85
     old "Minister Cornwall"
-    new ""
+    new "Ministro Cornwall"
 
     # game/script.rpy:97
     old "Young Ashley"
-    new ""
+    new "Jovem Ashley"
 
     # game/script.rpy:98
     old "Ashley's Dad"
-    new ""
+    new "Pai da Ashley"
 
     # game/script.rpy:100
     old "Patron"
-    new ""
+    new "Patrocinador"
 
     # game/script.rpy:101
     old "Voice 1"
-    new ""
+    new "Voz 1"
 
     # game/script.rpy:102
     old "Voice 2"
-    new ""
+    new "Voz 2"
 
     # game/script.rpy:103
     old "Voice 3"
-    new ""
+    new "Voz 3"
 
     # game/script.rpy:108
     old "Police Officer"
-    new ""
+    new "Policial"
 
     # game/script.rpy:109
     old "Policeman"
-    new ""
+    new "Policial Masculino"
 
     # game/script.rpy:110
     old "Policewoman"
-    new ""
+    new "Policial Feminina"
 
     # game/script.rpy:113
     old "Together"
-    new ""
+    new "Juntos"
 
     # game/script.rpy:114
     old "Robot"
-    new ""
+    new "Robô"
 
     # game/script.rpy:116
     old "Porn"
-    new ""
+    new "Pornô"
 
     # game/script.rpy:117
     old "Score: [mcpoints] | Playtime: [hours] hours, [minutes] minutes, [seconds:02d] seconds"
-    new ""
+    new "Pontuação: [mcpoints] | Tempo de Jogo: [hours] horas, [minutes] minutos, [seconds:02d] segundos"
 
     # game/script.rpy:118
     old "Elf Girl"
-    new ""
+    new "Elfa"
 
     # game/script.rpy:120
     old "Queen Jia"
-    new ""
+    new "Rainha Jia"
 
     # game/script.rpy:121
     old "Guard"
-    new ""
+    new "Guarda"
 
     # game/script.rpy:122
     old "Stalker Fan"
-    new ""
+    new "Fã Obsessivo"
 
     # game/script.rpy:124
     old "Announcer"
-    new ""
+    new "Locutor"
 
     # game/script.rpy:125
     old "Your Android"
-    new ""
+    new "Seu Androide"
 
     # game/script.rpy:126
     old "Waiter"
-    new ""
+    new "Garçom"
 
     # game/script.rpy:127
     old "Saint Lily"
-    new ""
+    new "Santa Lily"
 
     # game/script.rpy:128
     old "Saint Abby"
-    new ""
+    new "Santa Abby"
 
     # game/script.rpy:130
     old "Delivery Man"
-    new ""
+    new "Entregador"
 
     # game/script.rpy:135
     old "The High Elf Queen"
-    new ""
+    new "A Rainha Elfa Suprema"
 
     # game/script.rpy:136
     old "Royal Guard"
-    new ""
+    new "Guarda Real"
 
     # game/script.rpy:139
     old "Researcher"
-    new ""
+    new "Pesquisador"
 
     # game/script.rpy:140
     old "Text-to-Speech"
-    new ""
+    new "Texto-para-Fala"
 
     # game/script.rpy:143
     old "Camera Man"
-    new ""
+    new "Operador de câmera"
 
     # game/script.rpy:144
     old "Security Droid"
-    new ""
+    new "Androide de Segurança"
 
     # game/script.rpy:145
     old "The entire class"
-    new ""
+    new "A classe inteira"
 
     # game/script.rpy:146
     old "Student"
-    new ""
+    new "Estudante"
 
     # game/script.rpy:147
     old "Cashier"
-    new ""
+    new "Caixa"
 
     # game/script.rpy:148
     old "Bouncer"
-    new ""
+    new "Segurançа"
 
     # game/script.rpy:149
     old "Everyone"
-    new ""
+    new "Todos"
 
     # game/script.rpy:151
     old "Bartender"
-    new ""
+    new "Bartender"
 
     # game/script.rpy:152
     old "The Boss"
-    new ""
+    new "O Chefe"
 
     # game/script.rpy:154
     old "Grandma"
-    new ""
+    new "Vovó"
 
     # game/script.rpy:155
     old "NEW MAIL"
-    new ""
+    new "NOVA MENSAGEM"
 
     # game/script.rpy:159
     old "Receptionist"
-    new ""
+    new "Recepcionista"
 
     # game/script.rpy:160
     old "Doctor"
-    new ""
+    new "Doutor"
 
     # game/script.rpy:161
     old "Police Droid"
-    new ""
+    new "Androide Policial"
 
     # game/script.rpy:162
     old "Iksa, Chieftain of the Owl Clan"
-    new ""
+    new "Iksa, Chefe do Clã Coruja"
 
     # game/script.rpy:164
     old "Helicopter Pilot"
-    new ""
+    new "Piloto de Helicóptero"
 
     # game/script.rpy:165
     old "Villager"
-    new ""
+    new "Aldeão"
 
     # game/script.rpy:166
     old "24 News"
-    new ""
+    new "Notícias 24"
 
     # game/script.rpy:167
     old "Chancellor Corpus"
-    new ""
+    new "Chanceler Corpus"
 
     # game/script.rpy:168
     old "Crowd"
-    new ""
+    new "Multidão"
 
     # game/script.rpy:169
     old "Mushroom"
-    new ""
+    new "Cogumelo"
 
     # game/script.rpy:170
     old "Gardener"
-    new ""
+    new "Jardineiro"
 
     # game/script.rpy:171
     old "Corporate Mascot"
-    new ""
+    new "Mascote Corporativo"
 
     # game/script.rpy:172
     old "Partier"
-    new ""
+    new "Participante da Festa"
 
     # game/script.rpy:173
     old "Young Lin"
-    new ""
+    new "Jovem Lin"
 
     # game/script.rpy:174
     old "Elf"
-    new ""
+    new "Elfo"
 
     # game/script.rpy:175
     old "Revolutionary"
-    new ""
+    new "Revolucionário"
 
     # game/script.rpy:176
     old "Fisherman"
-    new ""
+    new "Pescador"
 
     # game/script.rpy:177
     old "Drow Fisher"
-    new ""
+    new "Pescador Drow"
 
     # game/script.rpy:178
     old "Kitten"
-    new ""
+    new "Gatinho"
 
     # game/script.rpy:179
     old "Ominous Voice"
-    new ""
+    new "Voz Sinistra"
 
     # game/script.rpy:180
     old "Cyber-pup"
-    new ""
+    new "Cyber-cachorro"
 
     # game/script.rpy:181
     old "Game"
-    new ""
+    new "Jogo"
 
     # game/script.rpy:182
     old "Tourist"
-    new ""
+    new "Turista"
 
     # game/script.rpy:183
     old "Impoverished Man"
-    new ""
+    new "Homem Empobrecido"
 
     # game/script.rpy:185
     old "Worker"
-    new ""
+    new "Trabalhador"
 
     # game/script.rpy:186
     old "Syl'iath Spy"
-    new ""
+    new "Espi"
 
     # game/script.rpy:187
     old "Protester"
-    new ""
+    new "Protestante"
 
     # game/script.rpy:189
     old "Therapist"
-    new ""
+    new "Terapeuta"
 
     # game/script.rpy:191
     old "Television"
-    new ""
+    new "Televisão"
 
     # game/script.rpy:192
     old "Flight Attendant"
-    new ""
+    new "Comissária de Bordo"
 
     # game/script.rpy:193
     old "Cook"
-    new ""
+    new "Cozinheiro"
 
     # game/script.rpy:194
     old "Homeless Person"
-    new ""
+    new "Pessoa Sem-Teto"
 
     # game/script.rpy:195
     old "Dirty Woman"
-    new ""
+    new "Mulher Suja"
 
     # game/script.rpy:196
     old "Gangster"
-    new ""
+    new "Gangster"
 
     # game/script.rpy:197
     old "Left Gangster"
-    new ""
+    new "Gangster da esquerda"
 
     # game/script.rpy:198
     old "Middle Gangster"
-    new ""
+    new "Gangster do meio"
 
     # game/script.rpy:199
     old "Right Gangster"
-    new ""
+    new "Gangster da direita"
 
     # game/script.rpy:200
     old "Seer"
-    new ""
+    new "Vidente"
 
     # game/script.rpy:201
     old "Gaianist"
-    new ""
+    new "Gaianista"
 
     # game/script.rpy:202
     old "Bishop"
-    new ""
+    new "Bispo"
 
     # game/script.rpy:203
     old "Flagellant"
-    new ""
+    new "Flagelante"
 
     # game/script.rpy:204
     old "Blonde Tourist"
-    new ""
+    new "Turista Loira"
 
     # game/script.rpy:205
     old "Brunette Tourist"
-    new ""
+    new "Turista Morena"
 
     # game/script.rpy:206
     old "Interviewer"
-    new ""
+    new "Entrevistador"
 
     # game/script.rpy:208
     old "Fan"
-    new ""
+    new "Fã"
 
     # game/script.rpy:209
     old "Bodyguard"
-    new ""
+    new "Guarda-costas"
 
     # game/script.rpy:211
     old "Elf in Goggles"
-    new ""
+    new "Elfo de Óculos"
 
     # game/script.rpy:212
     old "Elf in Beret"
-    new ""
+    new "Elfo de Boina"
 
     # game/script.rpy:215
     old "The Dean"
-    new ""
+    new "O Reitor"
 
     # game/script.rpy:216
     old "Purple-Haired Girl"
-    new ""
+    new "Garota de Cabelo Roxo"
 
     # game/script.rpy:217
     old "Blonde-Haired Girl"
-    new ""
+    new "Garota de Cabelo Loiro"
 
     # game/script.rpy:218
     old "Raven-Haired Girl"
-    new ""
+    new "Garota de Cabelo Preto"
 
     # game/script.rpy:219
     old "Boy"
-    new ""
+    new "Garoto"
 
     # game/script.rpy:220
     old "Elfbot"
-    new ""
+    new "Elfo-robô"
 
     # game/script.rpy:222
     old "Man in Hat"
-    new ""
+    new "Homem de Chapéu"
 
     # game/script.rpy:223
     old "Man in Blue Shirt"
-    new ""
+    new "Homem de Camisa Azul"
 
     # game/script.rpy:225
     old "Secretary"
-    new ""
+    new "Secretária"
 
     # game/script.rpy:227
     old "Bird"
-    new ""
+    new "Pássaro"
 
     # game/script.rpy:228
     old "Bear"
-    new ""
+    new "Ursо"
 
     # game/script.rpy:229
     old "Woman"
-    new ""
+    new "Mulher"
 
     # game/script.rpy:230
     old "Man"
-    new ""
+    new "Homem"
 
     # game/script.rpy:231
     old "Red Bunny"
-    new ""
+    new "Coelhinha Vermelha"
 
     # game/script.rpy:232
     old "Blue Bunny"
-    new ""
+    new "Coelhinha Azul"
 
     # game/script.rpy:233
     old "Purple Bunny"
-    new ""
+    new "Coelhinha Roxa"
 
     # game/script.rpy:236
     old "Autumn's Mother"
-    new ""
+    new "Mãe da Autumn"
 
     # game/script.rpy:237
     old "Angel"
-    new ""
+    new "Anjo"
 
     # game/script.rpy:241
     old "Monotech Salesman"
-    new ""
+    new "Vendedor da Monotech"
 
     # game/script.rpy:242
     old "Female Elf"
-    new ""
+    new "Mulher Elfa"
 
     # game/script.rpy:243
     old "Liberty, Paragon of Freedom"
-    new ""
+    new "Liberty, Exemplo de Liberdade"
 
     # game/script.rpy:244
     old "Elf Prostitute"
-    new ""
+    new "Prostituta Elfa"
 
     # game/script.rpy:248
     old "Blue Fairy"
-    new ""
+    new "Fada Azul"
 
     # game/script.rpy:249
     old "Red Fairy"
-    new ""
+    new "Fada Vermelha"
 
     # game/script.rpy:250
     old "Green Fairy"
-    new ""
+    new "Fada Verde"
 
     # game/script.rpy:373
     old "Watch the intro (Recommended)"
-    new ""
+    new "Assistir a introdução (Recomendado)"
 
     # game/script.rpy:373
     old "Skip the intro"
-    new ""
+    new "Pular a introdução"
 
     # game/script.rpy:486
     old "Immigrant."
-    new ""
+    new "Imigrante."
 
     # game/script.rpy:486
     old "Ignore."
-    new ""
+    new "Ignorar."
 
     # game/script.rpy:494
     old "Yes."
-    new ""
+    new "Sim."
 
     # game/script.rpy:494
     old "No."
-    new ""
+    new "Não."
 
     # game/script.rpy:514
     old "Oh, thanks."
-    new ""
+    new "Ah, obrigado."
 
     # game/script.rpy:514
     old "...And you guys are happy being slaves?"
-    new ""
+    new "... E vocês estão felizes sendo escravos?"
 
     # game/script.rpy:514
     old "I'll pass."
-    new ""
+    new "Eu vou passar."
 
     # game/script.rpy:565
     old "What's your name?"
-    new ""
+    new "Qual é o seu nome?"
 
     # game/script.rpy:588
     old "What should Lin call you?"
-    new ""
+    new "Do que Lin deve te chamar?"
 
     # game/script.rpy:718
     old "Go to sleep"
-    new ""
+    new "Vá dormir"
 
     # game/script.rpy:718
     old "Sleep with someone >"
-    new ""
+    new "Dormir com alguém >"
 
     # game/script.rpy:718
     old "Set an alarm >"
-    new ""
+    new "Configurar um alarme >"
 
     # game/script.rpy:718
     old "Back"
-    new ""
+    new "Voltar"
 
     # game/script.rpy:724
     old "{color=#8C8C8C}Set Lin as the alarm{/color}"
-    new ""
+    new "{color=#8C8C8C}Configurar Lin como o alarme{/color}"
 
     # game/script.rpy:724
     old "Set Lin as the alarm"
-    new ""
+    new "Configurar Lin como o alarme"
 
     # game/script.rpy:724
     old "Remove Lin as the alarm"
-    new ""
+    new "Remover Lin como o alarme"
 
     # game/script.rpy:724
     old "Set [botname] as the alarm"
-    new ""
+    new "Configurar [botname] como o alarme"
 
     # game/script.rpy:724
     old "Remove [botname] as the alarm"
-    new ""
+    new "Remover [botname] como o alarme"
 
     # game/script.rpy:724
     old "Set Lin & [botname] as the alarm"
-    new ""
+    new "Configurar Lin & [botname] como o alarme"
 
     # game/script.rpy:724
     old "Remove Lin & [botname] as the alarm"
-    new ""
+    new "Remover Lin & [botname] como o alarme"
 
     # game/script.rpy:724
     old "Set Felicity & Emma as the alarm"
-    new ""
+    new "Configurar Felicity & Emma como o alarme"
 
     # game/script.rpy:724
     old "Remove Felicity & Emma as the alarm"
-    new ""
+    new "Remover Felicity & Emma como o alarme"
 
     # game/script.rpy:724
     old "Set Sylvia as the alarm"
-    new ""
+    new "Configurar Sylvia como o alarme"
 
     # game/script.rpy:724
     old "Remove Sylvia as the alarm"
-    new ""
+    new "Remover Sylvia como o alarme"
 
     # game/script.rpy:939
     old "Sleep with Lin"
-    new ""
+    new "Dormir com Lin"
 
     # game/script.rpy:939
     old "Sleep with Kali"
-    new ""
+    new "Dormir com Kali"
 
     # game/script.rpy:939
     old "Sleep with Ashley"
-    new ""
+    new "Dormir com Ashley"
 
     # game/script.rpy:939
     old "Sleep with Maria"
-    new ""
+    new "Dormir com Maria"
 
     # game/script.rpy:939
     old "Sleep with [botname]"
-    new ""
+    new "Dormir com [botname]"
 
     # game/script.rpy:939
     old "Sleep with Felicity"
-    new ""
+    new "Dormir com Felicity"
 
     # game/script.rpy:939
     old "Sleep with Emma"
-    new ""
+    new "Dormir com Emma"
 
     # game/script.rpy:939
     old "Sleep with Lin & [botname]"
-    new ""
+    new "Dormir com Lin & [botname]"
 
     # game/script.rpy:939
     old "Sleep with Felicity & Emma"
-    new ""
+    new "Dormir com Felicity & Emma"
 
     # game/script.rpy:939
     old "{color=#8C8C8C}Sleep with Autumn{/color}"
-    new ""
+    new "{color=#8C8C8C}Dormir com Autumn{/color}"
 
     # game/script.rpy:1740
     old "Want to watch some TV? {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Você quer assistir TV? {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:1740
     old "Want to eat somewhere? ($5) {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Você quer comer em algum lugar? ($5) {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:1740
     old "What do you want to do? {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "O que você quer fazer? {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:1740
     old "{color=#8C8C8C}Let's have sex (+Sluttiness){/color}"
-    new ""
+    new "{color=#8C8C8C}Vamos fazer sexo (+Devassidão){/color}"
 
     # game/script.rpy:1740
     old "Let's have sex {color=#f26eff}(+Sluttiness){/color}"
-    new ""
+    new "Vamos fazer sexo {color=#f26eff}(+Devassidão){/color}"
 
     # game/script.rpy:1764
     old "Sure ($5)"
-    new ""
+    new "Claro ($5)"
 
     # game/script.rpy:1764
     old "I'm not hungry"
-    new ""
+    new "Eu não estou com fome"
 
     # game/script.rpy:1898
     old "Want to go to the beach? {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Você quer ir para a praia? {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:1898
     old "Let's hang out in the Hot Springs. {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Vamos passar um tempo nas Fontes Termais. {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:1898
     old "{color=#8C8C8C}Give me a blowjob (+Sluttiness){/color}"
-    new ""
+    new "{color=#8C8C8C}Me dê um boquete (+Devassidão){/color}"
 
     # game/script.rpy:1898
     old "Give me a blowjob {color=#f26eff}(+Sluttiness){/color}"
-    new ""
+    new "Me dê um boquete {color=#f26eff}(+Devassidão){/color}"
 
     # game/script.rpy:2020
     old "Want to watch some TV? {color=#FF0000}(+Affection){/color}"
-    new ""
+    new "Você quer assistir TV? {color=#FF0000}(+Afeto){/color}"
 
     # game/script.rpy:2020
     old "Want to eat somewhere? ($5) {color=#FF0000}(+Affection){/color}"
-    new ""
+    new "Você quer comer em algum lugar? ($5) {color=#FF0000}(+Afeto){/color}"
 
     # game/script.rpy:2020
     old "Want to go to the beach? {color=#FF0000}(+Affection){/color}"
-    new ""
+    new "Você quer ir para a praia? {color=#FF0000}(+Afeto){/color}"
 
     # game/script.rpy:2020
     old "Let's hang out in the Hot Springs. {color=#FF0000}(+Affection){/color}"
-    new ""
+    new "Vamos passar um tempo nas Fontes Termais. {color=#FF0000}(+Afeto){/color}"
 
     # game/script.rpy:2020
     old "What do you want to do? {color=#FF0000}(+Affection){/color}"
-    new ""
+    new "O que você quer fazer? {color=#FF0000}(+Afeto){/color}"
 
     # game/script.rpy:2072
     old "Let's go ($5)"
-    new ""
+    new "Vamos lá ($5)"
 
     # game/script.rpy:2479
     old "Want to eat somewhere fancy? ($10) {color=#FF0000}(+Affection){/color}"
-    new ""
+    new "Você quer comer em algum lugar chique? ($10) {color=#FF0000}(+Afeto){/color}"
 
     # game/script.rpy:2537
     old "Sure ($10)"
-    new ""
+    new "Claro ($10)"
 
     # game/script.rpy:2663
     old "2nd Floor"
-    new ""
+    new "2º Andar"
 
     # game/script.rpy:2663
     old "1st Floor"
-    new ""
+    new "1º Andar"
 
     # game/script.rpy:2663
     old "Dungeon"
-    new ""
+    new "Calabouço"
 
     # game/script.rpy:2663
     old "Your Room"
-    new ""
+    new "Seu Quarto"
 
     # game/script.rpy:2663
     old "Utility Room"
-    new ""
+    new "Lavanderia"
 
     # game/script.rpy:2963
     old "Yes"
-    new ""
+    new "Sim"
 
     # game/script.rpy:2963
     old "No"
-    new ""
+    new "Não"
 
     # game/script.rpy:3186
     old "Watch"
-    new ""
+    new "Assistir"
 
     # game/script.rpy:3186
     old "Walk Away"
-    new ""
+    new "Ir embora"
 
     # game/script.rpy:3208
     old "Enter the Hot Springs"
-    new ""
+    new "Entrar nas Fontes Termais"
 
     # game/script.rpy:3208
     old "Enter the ???"
-    new ""
+    new "Entrar no ???"
 
     # game/script.rpy:3208
     old "Enter the Garden"
-    new ""
+    new "Entrar no Jardim"
 
     # game/script.rpy:3355
     old "What should the hotel be called?"
-    new ""
+    new "O que o hotel deve se chamar?"
 
     # game/script.rpy:3369
     old "How do I get more residents?"
-    new ""
+    new "Como eu consigo mais moradores?"
 
     # game/script.rpy:3369
     old "How can I make more money?"
-    new ""
+    new "Como eu posso ganhar mais dinheiro?"
 
     # game/script.rpy:3369
     old "What do you do here?"
-    new ""
+    new "O que você faz aqui?"
 
     # game/script.rpy:3369
     old "Let's have some fun..."
@@ -88462,2716 +88462,2716 @@ translate pt_br strings:
 
     # game/script.rpy:3369
     old "I'd like to pay off my debt."
-    new ""
+    new "Eu gostaria de pagar minha dívida."
 
     # game/script.rpy:3369
     old "Upgrade"
-    new ""
+    new "Melhorar"
 
     # game/script.rpy:3369
     old "Change the Bar's Music"
-    new ""
+    new "Mudar a Música do Bar"
 
     # game/script.rpy:3369
     old "Take Mr. Cornwall's challenge"
-    new ""
+    new "Aceitar o desafio do Sr. Cornwall"
 
     # game/script.rpy:3369
     old "-"
-    new ""
+    new "-"
 
     # game/script.rpy:3376
     old "Selling pinups"
-    new ""
+    new "Vendendo pôsteres"
 
     # game/script.rpy:3376
     old "Gigs in the city"
-    new ""
+    new "Apresentações na cidade"
 
     # game/script.rpy:3376
     old "Upgrading the hotel"
-    new ""
+    new "Melhorias o hotel"
 
     # game/script.rpy:3400
     old "Blowjob"
-    new ""
+    new "Boquete"
 
     # game/script.rpy:3400
     old "Doggystyle"
-    new ""
+    new "Cachorrinho"
 
     # game/script.rpy:3415
     old "Pay off debt (You can only do this once)"
-    new ""
+    new "Pagar a dívida (Você só pode fazer isso uma vez)"
 
     # game/script.rpy:3415
     old "On second thought..."
-    new ""
+    new "Pensando bem..."
 
     # game/script.rpy:3424
     old "Sanctuary Upgrades >"
-    new ""
+    new "Melhorias do Santuário >"
 
     # game/script.rpy:3424
     old "Bar Upgrades >"
-    new ""
+    new "Melhorias do Bar >"
 
     # game/script.rpy:3424
     old "Garden Upgrades >"
-    new ""
+    new "Melhorias do Jardim >"
 
     # game/script.rpy:3424
     old "The Bar ($600)"
-    new ""
+    new "O Bar ($600)"
 
     # game/script.rpy:3424
     old "Sanctuary ($3,000)"
-    new ""
+    new "Santuário ($3.000)"
 
     # game/script.rpy:3424
     old "Floor 2 ($300)"
-    new ""
+    new "2º Andar ($300)"
 
     # game/script.rpy:3424
     old "Dungeon ($100)"
-    new ""
+    new "Calabouço ($100)"
 
     # game/script.rpy:3426
     old "Food >"
-    new ""
+    new "Comida >"
 
     # game/script.rpy:3428
     old "Bland Food (+$15/w)"
-    new ""
+    new "Comida Sem Graça (+$15/s)"
 
     # game/script.rpy:3428
     old "{color=#8C8C8C}Bland Food (+15/w){/color}"
-    new ""
+    new "{color=#8C8C8C}Comida Sem Graça (+15/s){/color}"
 
     # game/script.rpy:3428
     old "Regular Food"
-    new ""
+    new "Comida Normal"
 
     # game/script.rpy:3428
     old "{color=#8C8C8C}Regular Food{/color}"
-    new ""
+    new "{color=#8C8C8C}Comida Normal{/color}"
 
     # game/script.rpy:3428
     old "Luxury Food (-$15/w)"
-    new ""
+    new "Comida de Luxo (-$15/s)"
 
     # game/script.rpy:3428
     old "{color=#8C8C8C}Luxury Food{/color}"
-    new ""
+    new "{color=#8C8C8C}Comida de Luxo{/color}"
 
     # game/script.rpy:3491
     old "What should I focus on first?"
-    new ""
+    new "No que eu devo focar primeiro?"
 
     # game/script.rpy:3491
     old "What should I focus on now?"
-    new ""
+    new "No que eu devo focar agora?"
 
     # game/script.rpy:3491
     old "What should I focus on next?"
-    new ""
+    new "No que eu devo focar em seguida?"
 
     # game/script.rpy:3491
     old "Promote Sports Day > "
-    new ""
+    new "Promover o Dia do Esporte > "
 
     # game/script.rpy:3491
     old "+10 Seats ($40)"
-    new ""
+    new "+10 Lugares ($40)"
 
     # game/script.rpy:3491
     old "Drinks >"
-    new ""
+    new "Bebidas >"
 
     # game/script.rpy:3491
     old "Waitress Oufits >"
-    new ""
+    new "Conjunto de Garçonete >"
 
     # game/script.rpy:3491
     old "Training >"
-    new ""
+    new "Treinamento >"
 
     # game/script.rpy:3491
     old "Music >"
-    new ""
+    new "Música >"
 
     # game/script.rpy:3491
     old "Advertisements >"
-    new ""
+    new "Anúncios >"
 
     # game/script.rpy:3521
     old "Food Amenities ($50)"
-    new ""
+    new "Comodidades Alimentares ($50)"
 
     # game/script.rpy:3521
     old "+1 TV ($60)"
-    new ""
+    new "+1 TV ($60)"
 
     # game/script.rpy:3521
     old "Live Music ($100)"
-    new ""
+    new "Música ao Vivo ($100)"
 
     # game/script.rpy:3521
     old "Recreational Games ($200)"
-    new ""
+    new "Jogos Recreativos ($200)"
 
     # game/script.rpy:3521
     old "Special Advertising ($500)"
-    new ""
+    new "Anúncios Especiais ($500)"
 
     # game/script.rpy:3527
     old "Buy"
-    new ""
+    new "Comprar"
 
     # game/script.rpy:3669
     old "Whisky ($45)"
-    new ""
+    new "Uísque "
 
     # game/script.rpy:3669
     old "Wine ($65)"
-    new ""
+    new "Vinho ($65)"
 
     # game/script.rpy:3669
     old "Tequila ($45)"
-    new ""
+    new "Tequila ($45)"
 
     # game/script.rpy:3669
     old "Vodka ($35)"
-    new ""
+    new "Vodka ($35)"
 
     # game/script.rpy:3669
     old "Gin ($25)"
-    new ""
+    new "Gin ($25)"
 
     # game/script.rpy:3669
     old "Cider ($25)"
-    new ""
+    new "Cidra ($25)"
 
     # game/script.rpy:3669
     old "Top Shelf Spirits ($200)"
-    new ""
+    new "Bebidas Premium ($200)"
 
     # game/script.rpy:3778
     old "Cat Maid Outfit ($150)"
-    new ""
+    new "Conjunto de Gata-Empregada Doméstica ($150)"
 
     # game/script.rpy:3799
     old "{color=#8C8C8C}Moon's Waitress Training: Always Listen!{/color}"
-    new ""
+    new "{color=#8C8C8C}Treinamento de Garçonete da Moon: Sempre Ouça!{/color}"
 
     # game/script.rpy:3799
     old "Moon's Waitress Training: Always Listen!"
-    new ""
+    new "Treinamento de Garçonete da Moon: Sempre Ouça!"
 
     # game/script.rpy:3799
     old "{color=#8C8C8C}Moon's Waitress Training: Always Look!{/color}"
-    new ""
+    new "{color=#8C8C8C}Treinamento de Garçonete da Moon: Sempre Olhe!{/color}"
 
     # game/script.rpy:3799
     old "Moon's Waitress Training: Always Look!"
-    new ""
+    new "Moon's Waitress Training: Sempre Olhe!"
 
     # game/script.rpy:3799
     old "{color=#8C8C8C}Moon's Waitress Training: Left, Right, Left!{/color}"
-    new ""
+    new "{color=#8C8C8C}Treinamento de Garçonete da Moon: Esquerda, Direita, Esquerda!{/color}"
 
     # game/script.rpy:3799
     old "Moon's Waitress Training: Left, Right, Left!"
-    new ""
+    new "Moon's Waitress Training: Esquerda, Direita, Esquerda!"
 
     # game/script.rpy:3799
     old "{color=#8C8C8C}Moon's Waitress Training: All Eyes On You!{/color}"
-    new ""
+    new "{color=#8C8C8C}Treinamento de Garçonete da Moon: Todos os Olhos em Você!{/color}"
 
     # game/script.rpy:3799
     old "Moon's Waitress Training: All Eyes On You!"
-    new ""
+    new "Moon's Waitress Training: Todos os Olhos em Você!"
 
     # game/script.rpy:3799
     old "Bartender Training ($20)"
-    new ""
+    new "Treinamento de Bartender ($20)"
 
     # game/script.rpy:3799
     old "Mixology Training ($300)"
-    new ""
+    new "Treinamento de Mixologia ($300)"
 
     # game/script.rpy:3869
     old "Surround Sound System ($50)"
-    new ""
+    new "Sistema de Som Surround ($50)"
 
     # game/script.rpy:3869
     old "'The Drunken Dwarf' ($25)"
-    new ""
+    new "O Anão Bêbado' ($25)"
 
     # game/script.rpy:3869
     old "'Driving Home' ($25)"
-    new ""
+    new "Dirigindo para Casa' ($25)"
 
     # game/script.rpy:3869
     old "'Grief' ($25)"
-    new ""
+    new "Luto' ($25)"
 
     # game/script.rpy:3869
     old "'Memories' ($25)"
-    new ""
+    new "Memórias' ($25)"
 
     # game/script.rpy:3869
     old "'Silent Dawn' ($25)"
-    new ""
+    new "Manhã Silenciosa' ($25)"
 
     # game/script.rpy:3869
     old "'Rainy Day' ($25)"
-    new ""
+    new "Dia Chuvoso' ($25)"
 
     # game/script.rpy:3889
     old "Listen"
-    new ""
+    new "Ouvir"
 
     # game/script.rpy:3898
     old "Buy the music"
-    new ""
+    new "Comprar a música"
 
     # game/script.rpy:3898
     old "Nevermind"
-    new ""
+    new "Esqueça"
 
     # game/script.rpy:4225
     old "Cell Phone Advertisement ($250/w)"
-    new ""
+    new "Anuncio de Celular ($250/s)"
 
     # game/script.rpy:4225
     old "{color=#8C8C8C}Cell Phone Advertisement ($250/w){/color}"
-    new ""
+    new "{color=#8C8C8C}Anuncio de Celular ($250/s){/color}"
 
     # game/script.rpy:4225
     old "TV Advertisement ($600/w)"
-    new ""
+    new "Anuncio de TV ($600/s)"
 
     # game/script.rpy:4225
     old "{color=#8C8C8C}TV Advertisement ($600/w){/color}"
-    new ""
+    new "{color=#8C8C8C}Anuncio de TV ($600/s){/color}"
 
     # game/script.rpy:4225
     old "Billboard Advertisement ($1,000/w)"
-    new ""
+    new "Anuncio em Outdoor ($1.000/s)"
 
     # game/script.rpy:4225
     old "{color=#8C8C8C}Billboard Advertisement ($1,000/w){/color}"
-    new ""
+    new "{color=#8C8C8C}Anuncio em Outdoor ($1.000/s){/color}"
 
     # game/script.rpy:4225
     old "Stop Advertising"
-    new ""
+    new "Parar de Anunciar"
 
     # game/script.rpy:4228
     old "Invest"
-    new ""
+    new "Investir"
 
     # game/script.rpy:4228
     old "What do advertisements do?"
-    new ""
+    new "O que os anúncios fazem?"
 
     # game/script.rpy:4306
     old "Seating Area Renovation ($500)"
-    new ""
+    new "Renovação da Área de Assentos ($500)"
 
     # game/script.rpy:4384
     old "{color=#8C8C8C}Shuffle{/color}"
-    new ""
+    new "{color=#8C8C8C}Embaralhar{/color}"
 
     # game/script.rpy:4384
     old "Shuffle"
-    new ""
+    new "Embaralhar"
 
     # game/script.rpy:4384
     old "Stop Shuffling"
-    new ""
+    new "Parar de Embaralhar"
 
     # game/script.rpy:4384
     old "'The Drunken Dwarf'"
-    new ""
+    new "O Anão Bêbado'"
 
     # game/script.rpy:4384
     old "'Driving Home'"
-    new ""
+    new "Dirigindo para Casa'"
 
     # game/script.rpy:4384
     old "'Grief'"
-    new ""
+    new "Luto'"
 
     # game/script.rpy:4384
     old "'Memories'"
-    new ""
+    new "Memórias'"
 
     # game/script.rpy:4384
     old "'Silent Dawn'"
-    new ""
+    new "Manhã Silenciosa'"
 
     # game/script.rpy:4384
     old "'Rainy Day'"
-    new ""
+    new "Dia Chuvoso'"
 
     # game/script.rpy:4431
     old "Lin is ready"
-    new ""
+    new "A Lin está pronta"
 
     # game/script.rpy:4431
     old "I should probably prepare Lin some more"
-    new ""
+    new "Eu provavelmente deveria preparar mais a Lin"
 
     # game/script.rpy:4518
     old "{color=#8C8C8C}> 2nd Floor <{/color}"
-    new ""
+    new "{color=#8C8C8C}> 2º Andar <{/color}"
 
     # game/script.rpy:4518
     old "Lobby"
-    new ""
+    new "Saguão"
 
     # game/script.rpy:4518
     old "{color=#8C8C8C}Dungeon{/color}"
-    new ""
+    new "{color=#8C8C8C}Calabouço{/color}"
 
     # game/script.rpy:4627
     old "Knock on the door"
-    new ""
+    new "Bater na porta"
 
     # game/script.rpy:4627
     old "* Talk *"
-    new ""
+    new "* Conversar *"
 
     # game/script.rpy:4627
     old "{color=#8C8C8C}Give [botname] the Human Kit{/color}"
-    new ""
+    new "{color=#8C8C8C}Dar o Kit Humano para [botname]{/color}"
 
     # game/script.rpy:4627
     old "Give [botname] the Human Kit"
-    new ""
+    new "Dar o Kit Humano para [botname]"
 
     # game/script.rpy:4627
     old "Give [botname] the Veil Outfit"
-    new ""
+    new "Dar o Conjunto Véu para [botname]"
 
     # game/script.rpy:4627
     old "Give [botname] the Slut Outfit"
-    new ""
+    new "Dar o Conjunto de Vadia para [botname]"
 
     # game/script.rpy:4627
     old "Give [botname] the Egg Vibe"
-    new ""
+    new "Dar o Vibrador de Ovo para [botname]"
 
     # game/script.rpy:4627
     old "Give [botname] the upgrade"
-    new ""
+    new "Dar a melhoria para [botname]"
 
     # game/script.rpy:4670
     old "I'll take you somewhere fancy. ($10)"
-    new ""
+    new "Eu vou te levar para um lugar chique. ($10)"
 
     # game/script.rpy:4670
     old "I can't right now."
-    new ""
+    new "Eu não posso agora."
 
     # game/script.rpy:4707
     old "Get on your hands and knees. I'm going to fuck your ass."
-    new ""
+    new "Ponha as suas mãos nos jelhos. Eu vou foder a sua bunda."
 
     # game/script.rpy:4707
     old "See you later."
-    new ""
+    new "Te vejo depois."
 
     # game/script.rpy:4732
     old "Cum Inside"
-    new ""
+    new "Gozar dentro"
 
     # game/script.rpy:4732
     old "Cum Outside"
-    new ""
+    new "Gozar fora"
 
     # game/script.rpy:4785
     old "Let's go!"
-    new ""
+    new "Vamos lá"
 
     # game/script.rpy:4785
     old "Maybe later."
-    new ""
+    new "Talvez depois."
 
     # game/script.rpy:4819
     old "Sure"
-    new ""
+    new "Claro"
 
     # game/script.rpy:4819
     old "Maybe later"
-    new ""
+    new "Talvez depois"
 
     # game/script.rpy:4841
     old "Bring your swimsuit"
-    new ""
+    new "Traga as suas roupas de banho"
 
     # game/script.rpy:4841
     old "{color=#8C8C8C}Wear nothing{/color}"
-    new ""
+    new "{color=#8C8C8C}Não usar nada{/color}"
 
     # game/script.rpy:4841
     old "{color=#f0f020}Wear nothing{/color}"
-    new ""
+    new "{color=#f0f020}Não usar nada{/color}"
 
     # game/script.rpy:5237
     old "Visit Felicity & Emma"
-    new ""
+    new "Visitar Felicity & Emma"
 
     # game/script.rpy:5294
     old "Give Emma the Slut Outfit"
-    new ""
+    new "Dar o Conjunto de Vadia para Emma"
 
     # game/script.rpy:5294
     old "Give Felicity the Sexy Gothic outfit"
-    new ""
+    new "Dar o Conjunto de Gótica Sexy para Felicity"
 
     # game/script.rpy:5294
     old "* Invite Emma to the Dungeon *"
-    new ""
+    new "* Convidar Emma para o Calabouço *"
 
     # game/script.rpy:5294
     old "Give Felicity the Slut Outfit"
-    new ""
+    new "Dar o Conjunto de Vadia para Felicity"
 
     # game/script.rpy:5294
     old "Give Felicity the Catgirl Outfit"
-    new ""
+    new "Dar o Conjunto de Gatinha para Emma"
 
     # game/script.rpy:5294
     old "Take Emma shopping ($200)"
-    new ""
+    new "Leve a Emma para fazer compras ($200)"
 
     # game/script.rpy:5379
     old "Yes!"
-    new ""
+    new "Sim!"
 
     # game/script.rpy:5379
     old "Some other time, maybe."
-    new ""
+    new "Na próxima, talvez."
 
     # game/script.rpy:5383
     old "Sex"
-    new ""
+    new "Sexo"
 
     # game/script.rpy:5467
     old "Do you want to test it out?"
-    new ""
+    new "Você quer testar?"
 
     # game/script.rpy:5467
     old "Bye."
-    new ""
+    new "Tchau."
 
     # game/script.rpy:5581
     old "Visit Autumn"
-    new ""
+    new "Visitar Autumn"
 
     # game/script.rpy:5588
     old "* Go to church *"
-    new ""
+    new "* Ir à igreja *"
 
     # game/script.rpy:5608
     old "Check in on her"
-    new ""
+    new "Ver como ela está"
 
     # game/script.rpy:5662
     old "Absolutely!"
-    new ""
+    new "Absolutamente!"
 
     # game/script.rpy:5662
     old "I'm busy right now."
-    new ""
+    new "Eu estou ocupado agora."
 
     # game/script.rpy:5673
     old "Drive to the church"
-    new ""
+    new "Dirigir até a igreja"
 
     # game/script.rpy:5684
     old "* Invite her to the beach *"
-    new ""
+    new "* Convidar ela para a praia *"
 
     # game/script.rpy:5776
     old "Let's go."
-    new ""
+    new "Vamos lá."
 
     # game/script.rpy:5999
     old "Set up the scene"
-    new ""
+    new "Preparar a cena"
 
     # game/script.rpy:5999
     old "Give Maria the Bartender Outfit"
-    new ""
+    new "Dar o Conjunto de Bartender para Maria"
 
     # game/script.rpy:5999
     old "(Hana's story) Invite her on to a fancy date ($30)"
-    new ""
+    new "(História da Hana) Convidá-la para um encontro chique ($30)"
 
     # game/script.rpy:5999
     old "Give Maria the Succubus Outfit"
-    new ""
+    new "Dar o Conjunto de Súcubo para Maria"
 
     # game/script.rpy:5999
     old "Give Maria the Goth Outfit"
-    new ""
+    new "Dar o Conjunto de Gótica para Maria"
 
     # game/script.rpy:5999
     old "Give Maria the Harem Set"
-    new ""
+    new "Dar o Conjunto de Harém para Maria"
 
     # game/script.rpy:5999
     old "Give Maria the Lingerie"
-    new ""
+    new "Dar a Lingerie para Maria"
 
     # game/script.rpy:5999
     old "Give Maria the Slut Outfit"
-    new ""
+    new "Dar o Conjunto de Vadia para Maria"
 
     # game/script.rpy:5999
     old "Give Maria the Bunny Suit"
-    new ""
+    new "Dar a Roupa de Coelhinha para Maria"
 
     # game/script.rpy:6080
     old "Not right now"
-    new ""
+    new "Agora não"
 
     # game/script.rpy:6085
     old "I could pull the fire alarm"
-    new ""
+    new "Eu poderia puxar o alarme de incêndio"
 
     # game/script.rpy:6085
     old "How about I just ask them to leave?"
-    new ""
+    new "E se eu só pedir para elas irem embora?"
 
     # game/script.rpy:6085
     old "Mandatory vacation?"
-    new ""
+    new "Férias obrigatórias?"
 
     # game/script.rpy:6166
     old "Sure!"
-    new ""
+    new "Claro!"
 
     # game/script.rpy:6166
     old "No thanks"
-    new ""
+    new "Não, obrigado"
 
     # game/script.rpy:6199
     old "I'm busy"
-    new ""
+    new "Estou ocupado"
 
     # game/script.rpy:6259
     old "I don't have time right now."
-    new ""
+    new "Eu não tenho tempo agora."
 
     # game/script.rpy:6316
     old "..."
-    new ""
+    new "..."
 
     # game/script.rpy:6316
     old "Offer to pay"
-    new ""
+    new "Se oferecer para pagar"
 
     # game/script.rpy:6401
     old "Peek"
-    new ""
+    new "Espiar"
 
     # game/script.rpy:6401
     old "Do nothing"
-    new ""
+    new "Não fazer nada"
 
     # game/script.rpy:6436
     old "What's up?"
-    new ""
+    new "E aí?"
 
     # game/script.rpy:6436
     old "I'm too busy right now."
-    new ""
+    new "Eu estou ocupado agora."
 
     # game/script.rpy:6442
     old "Looks great!"
-    new ""
+    new "Parece ótimo!"
 
     # game/script.rpy:6442
     old "I don't really like it..."
-    new ""
+    new "Eu não gostei muito..."
 
     # game/script.rpy:6474
     old "Um, I have to use the bathroom..."
-    new ""
+    new "Hum, eu preciso usar o banheiro..."
 
     # game/script.rpy:6609
     old "{color=#8C8C8C}2nd Floor{/color}"
-    new ""
+    new "{color=#8C8C8C}2º Andar{/color}"
 
     # game/script.rpy:6609
     old "{color=#8C8C8C}> 1st Floor <{/color}"
-    new ""
+    new "{color=#8C8C8C}>"
 
     # game/script.rpy:6694
     old "* Invite Lin on a vacation ($350)*"
-    new ""
+    new "* Convidar a Lin para umas férias ($350)*"
 
     # game/script.rpy:6694
     old "* Go on an adventure ($375)*"
-    new ""
+    new "* Ir em uma aventura ($375)*"
 
     # game/script.rpy:6694
     old "Strange noises"
-    new ""
+    new "Barulhos estranhos"
 
     # game/script.rpy:6694
     old "Give Lin the Cutiepie Outfit"
-    new ""
+    new "Dar o Conjunto de Bonequinha para Lin"
 
     # game/script.rpy:6694
     old "Give Lin the Goth Outfit"
-    new ""
+    new "Dar o Conjunto de Gótica para Lin"
 
     # game/script.rpy:6694
     old "Give Lin the Harem Set"
-    new ""
+    new "Dar o Conjunto de Harém para Lin"
 
     # game/script.rpy:6694
     old "Give Lin the Slut Outfit"
-    new ""
+    new "Dar o Conjunto de Vadia para Lin"
 
     # game/script.rpy:6833
     old "Let's do it!"
-    new ""
+    new "Vamos fazer isso!"
 
     # game/script.rpy:6833
     old "Not right now..."
-    new ""
+    new "Agora não..."
 
     # game/script.rpy:7059
     old "* Go to the party *"
-    new ""
+    new "* Ir à festa *"
 
     # game/script.rpy:7141
     old "Visit Kali"
-    new ""
+    new "Visitar Kali"
 
     # game/script.rpy:7149
     old "Order Pizza ($5)"
-    new ""
+    new "Pedir Pizza ($5)"
 
     # game/script.rpy:7165
     old "$10 Tip"
-    new ""
+    new "Gorjeta de $10"
 
     # game/script.rpy:7165
     old "$5 Tip"
-    new ""
+    new "Gorjeta de $5"
 
     # game/script.rpy:7165
     old "No Tip"
-    new ""
+    new "Sem gorjeta"
 
     # game/script.rpy:7171
     old "Take your top off"
-    new ""
+    new "Tire a blusa"
 
     # game/script.rpy:7171
     old "I don't need anything"
-    new ""
+    new "Eu não preciso de nada"
 
     # game/script.rpy:7204
     old "* Give the hard drive to Kali *"
-    new ""
+    new "* Dar o disco rígido para Kali *"
 
     # game/script.rpy:7231
     old "* Invite Kali to the Cafe ($5) *"
-    new ""
+    new "* Convidar Kali para o Café ($5) *"
 
     # game/script.rpy:7231
     old "Give the package to Kali"
-    new ""
+    new "Dar o pacote para Kali"
 
     # game/script.rpy:7231
     old "Give the hard drive to Kali"
-    new ""
+    new "Dar o disco rígido para Kali"
 
     # game/script.rpy:7260
     old "It looks amazing on you, Kali."
-    new ""
+    new "Isso fica incrível em você, Kali."
 
     # game/script.rpy:7260
     old "Blue is your color."
-    new ""
+    new "Azul é a sua cor."
 
     # game/script.rpy:7260
     old "It would look better on the floor."
-    new ""
+    new "Ficaria melhor no chão."
 
     # game/script.rpy:7355
     old "* Talk to [botname]*"
-    new ""
+    new "* Conversar com [botname]*"
 
     # game/script.rpy:7355
     old "* Lucy's First Delivery *"
-    new ""
+    new "* Primeira Entrega da Lucy *"
 
     # game/script.rpy:7355
     old "* Talk ($250)*"
-    new ""
+    new " Conversar ($250)*"
 
     # game/script.rpy:7355
     old "Give Kali the Goth Outfit"
-    new ""
+    new "Dar o Conjunto de Gótica para Kali"
 
     # game/script.rpy:7355
     old "Give Kali the Harem Set"
-    new ""
+    new "Dar o Conjunto de Harém para Kali"
 
     # game/script.rpy:7355
     old "Give Kali the Lingerie"
-    new ""
+    new "Dar a Lingerie para Kali"
 
     # game/script.rpy:7355
     old "Give Kali the Slut Outfit"
-    new ""
+    new "Dar o Conjunto de Vadia para Kali"
 
     # game/script.rpy:7355
     old "(Lucy's story) See what happens..."
-    new ""
+    new "(História da Lucy) Ver o que acontece..."
 
     # game/script.rpy:7355
     old "(Lucy's story) Something is happening..."
-    new ""
+    new "(História da Lucy) Tem alguma coisa acontecendo..."
 
     # game/script.rpy:7355
     old "(Lucy's story) Talk"
-    new ""
+    new "(Históri da Lucy) Conversar"
 
     # game/script.rpy:7355
     old "(Vanessa's story) Plan an event"
-    new ""
+    new "(História da Vanessa) Planejar um evento"
 
     # game/script.rpy:7434
     old "Let's go"
-    new ""
+    new "Vamos lá"
 
     # game/script.rpy:7434
     old "Not yet"
-    new ""
+    new "Agora não"
 
     # game/script.rpy:7508
     old "Go for it, it's free money."
-    new ""
+    new "Vai nessa, é dinheiro fácil."
 
     # game/script.rpy:7508
     old "I don't trust him, let's go home."
-    new ""
+    new "Eu não confio nele, vamos para casa."
 
     # game/script.rpy:7599
     old "I don't have time right now"
-    new ""
+    new "Eu não tenho tempo agora"
 
     # game/script.rpy:7815
     old "I should check on her"
-    new ""
+    new "Eu deveria ver como ela está"
 
     # game/script.rpy:7815
     old "I don't need to worry about it right now"
-    new ""
+    new "Eu não preciso me preocupar com isso agora"
 
     # game/script.rpy:7908
     old "Visit Ashley"
-    new ""
+    new "Visitar Ashley"
 
     # game/script.rpy:7908
     old "Ask for nudes"
-    new ""
+    new "Pedir nudes"
 
     # game/script.rpy:7908
     old "Use toys"
-    new ""
+    new "Usar brinquedos"
 
     # game/script.rpy:7931
     old "Butt Plug"
-    new ""
+    new "Plugue Anal"
 
     # game/script.rpy:7931
     old "Egg Vibe"
-    new ""
+    new "Vibrador de Ovo"
 
     # game/script.rpy:8020
     old "Give Ashley the egg vibe"
-    new ""
+    new "Dar o vibrador de ovo para Ashley"
 
     # game/script.rpy:8020
     old "Give Ashley the butt plug"
-    new ""
+    new "Dar o plugue anal para Ashley"
 
     # game/script.rpy:8020
     old "Give Ashley the Schoolgirl Outfit"
-    new ""
+    new "Dar o Conjunto de Estudante para Ashley"
 
     # game/script.rpy:8020
     old "Give Ashley the Goth Outfit"
-    new ""
+    new "Dar o Conjunto de Gótica para Ashley"
 
     # game/script.rpy:8020
     old "Give Ashley the Harem Set"
-    new ""
+    new "Dar o Conjunto de Harém para Ashley"
 
     # game/script.rpy:8020
     old "Give Ashley the Lingerie"
-    new ""
+    new "Dar a Lingerie para Ashley"
 
     # game/script.rpy:8020
     old "Give Ashley the Slut Outfit"
-    new ""
+    new "Dar o Conjunto de Vadia para Ashley"
 
     # game/script.rpy:8020
     old "Give Ashley the Bunny Suit"
-    new ""
+    new "Dar a Roupa de Coelhinha para Ashley"
 
     # game/script.rpy:8085
     old "Sure ($20)"
-    new ""
+    new "Clarp ($20)"
 
     # game/script.rpy:8225
     old "Of course"
-    new ""
+    new "Mas é claro"
 
     # game/script.rpy:8447
     old "Sounds like it."
-    new ""
+    new "Parece que sim."
 
     # game/script.rpy:8447
     old "Let them go, you don't need them"
-    new ""
+    new "Deixe elas irem, você não precisa delas"
 
     # game/script.rpy:8447
     old "I'll be your friend."
-    new ""
+    new "Eu vou ser o seu amigo"
 
     # game/script.rpy:8447
     old "Sucking is a good skill to have."
-    new ""
+    new "Chupar é uma boa habilidade para se ter"
 
     # game/script.rpy:8625
     old "Who was that?"
-    new ""
+    new "Quem era ela?"
 
     # game/script.rpy:8625
     old "What do you have to drink?"
-    new ""
+    new "O que você quer beber?"
 
     # game/script.rpy:8625
     old "Bowling tournament?"
-    new ""
+    new "Torneio de boliche?"
 
     # game/script.rpy:8625
     old "Have you seen a goth chick?"
-    new ""
+    new "Você viu uma garota gótica por aqui?"
 
     # game/script.rpy:8625
     old "Continue >"
-    new ""
+    new "Continuar >"
 
     # game/script.rpy:8747
     old "Get a closer look"
-    new ""
+    new "Dar uma olhada mais de perto"
 
     # game/script.rpy:8747
     old "Leave"
-    new ""
+    new "Sair"
 
     # game/script.rpy:8879
     old "I should talk to her."
-    new ""
+    new "Eu deveria falar com ela."
 
     # game/script.rpy:8879
     old "I should leave."
-    new ""
+    new "Eu deveria ir embora."
 
     # game/script.rpy:8884
     old "I couldn't afford anyone."
-    new ""
+    new "Eu não poderia pagar por ninguém."
 
     # game/script.rpy:8884
     old "Why are you selling elves?"
-    new ""
+    new "Por que você está vendendo elfas?"
 
     # game/script.rpy:8959
     old "Follow"
-    new ""
+    new "Seguir"
 
     # game/script.rpy:9158
     old "Sign me up!"
-    new ""
+    new "Me inscreva!"
 
     # game/script.rpy:9158
     old "I'll come back when you're open."
-    new ""
+    new "Eu voltarei quando você estiver aberto."
 
     # game/script.rpy:9184
     old "Footjob"
-    new ""
+    new "Penheta"
 
     # game/script.rpy:9184
     old "Handjob"
-    new ""
+    new "Punheta"
 
     # game/script.rpy:9184
     old "Cunnilingus"
-    new ""
+    new "Cunilíngua"
 
     # game/script.rpy:9184
     old "Vaginal"
-    new ""
+    new "Vaginal"
 
     # game/script.rpy:9184
     old "Anal"
-    new ""
+    new "Anal"
 
     # game/script.rpy:9255
     old "Your form needs work."
-    new ""
+    new "A sua forma precisa de trabalho."
 
     # game/script.rpy:9255
     old "You did fine."
-    new ""
+    new "Você foi bem."
 
     # game/script.rpy:9255
     old "I could offer you private lessons."
-    new ""
+    new "Eu poderia te oferecer aulas particulares."
 
     # game/script.rpy:9438
     old "Blowjob ($10)"
-    new ""
+    new "Boquete ($10)"
 
     # game/script.rpy:9438
     old "Vaginal ($20)"
-    new ""
+    new "Vaginal ($20)"
 
     # game/script.rpy:9438
     old "Anal ($30)"
-    new ""
+    new "Anal ($30)"
 
     # game/script.rpy:9536
     old "Cum Inside ($5)"
-    new ""
+    new "Gozar Dentro ($5)"
 
     # game/script.rpy:9536
     old "Cum Outside (Free)"
-    new ""
+    new "Gozar Fora (Grátis)"
 
     # game/script.rpy:9949
     old "Of course, how can I help?"
-    new ""
+    new "É claro, como posso ajudar?"
 
     # game/script.rpy:9949
     old "Anything for you, my queens."
-    new ""
+    new "Qualquer coisa para vocês, minhas rainhas."
 
     # game/script.rpy:9949
     old "Is this a dream?"
-    new ""
+    new "Isso é um sonho?"
 
     # game/script.rpy:9949
     old "I could give you private lessons back home..."
-    new ""
+    new "Eu poderia te dar aulas particulares em casa..."
 
     # game/script.rpy:10310
     old "I am, yes."
-    new ""
+    new "Eu sou, sim."
 
     # game/script.rpy:10310
     old "Fuck off, I don't have time for your scams."
-    new ""
+    new "Vai se foder, eu não tenho tempo para suas fraudes."
 
     # game/script.rpy:10315
     old "Why don't you just use robots instead of slaves?"
-    new ""
+    new "Por que vocês não apenas usam robôs ao invés de escravos?"
 
     # game/script.rpy:10315
     old "What about her? Is she for sale?"
-    new ""
+    new "E quanto a ela? Ela está a venda?"
 
     # game/script.rpy:10315
     old "Why do you have two ties?"
-    new ""
+    new "Por que você tem duas gravatas?"
 
     # game/script.rpy:10322
     old "I'll think about it, thanks."
-    new ""
+    new "Eu vou pensar nisso, obrigado."
 
     # game/script.rpy:10322
     old "I'm not interested."
-    new ""
+    new "Eu não estou interessado."
 
     # game/script.rpy:10378
     old "What do you want then?"
-    new ""
+    new "O que você quer então?"
 
     # game/script.rpy:10475
     old "Who are you people?"
-    new ""
+    new "Quem são vocês?"
 
     # game/script.rpy:10475
     old "Did you just make water float?"
-    new ""
+    new "Vcê acabou de fazer a água flutuar?"
 
     # game/script.rpy:10475
     old "Can he teach me magic?"
-    new ""
+    new "Ele pode me ensinar magia?"
 
     # game/script.rpy:10475
     old "I've had enough of you nutjobs back home."
-    new ""
+    new "Eu já tive o suficiente de vocês, malucos, em casa."
 
     # game/script.rpy:10493
     old "No, go away."
-    new ""
+    new "Não, vá embora."
 
     # game/script.rpy:10508
     old "What else can you do?"
-    new ""
+    new "O que mais você pode fazer?"
 
     # game/script.rpy:10508
     old "I'm sold, where do I go?"
-    new ""
+    new "Eu estou vendido, onde eu vou?"
 
     # game/script.rpy:10508
     old "Is that pure gold? It looks heavy."
-    new ""
+    new "Isso é ouro puro? Parece pesado."
 
     # game/script.rpy:10508
     old "Are all the saints as pretty as you?"
-    new ""
+    new "Todas as santas são tão bonitas quanto você?"
 
     # game/script.rpy:10538
     old "Watch where you're going, slave."
-    new ""
+    new "Olhe por onde você anda, escravo."
 
     # game/script.rpy:10538
     old "No worries."
-    new ""
+    new "Sem problemas."
 
     # game/script.rpy:10538
     old "Need any help?"
-    new ""
+    new "Precisa de ajuda?"
 
     # game/script.rpy:10626
     old "Do it yourself."
-    new ""
+    new "Faça você mesmo."
 
     # game/script.rpy:10626
     old "What do you need me to do exactly?"
-    new ""
+    new "Para que você precisa de mim exatamente?"
 
     # game/script.rpy:10626
     old "Not happening."
-    new ""
+    new "Não vai rolar."
 
     # game/script.rpy:10647
     old "I'll do it."
-    new ""
+    new "Eu farei isso."
 
     # game/script.rpy:10735
     old "How long have you worked here?"
-    new ""
+    new "Por quanto tempo você trabalha aqui?"
 
     # game/script.rpy:10735
     old "Why haven't you been replaced by an android?"
-    new ""
+    new "Por que você não foi substituída por um androide?"
 
     # game/script.rpy:10735
     old "Are you free later?"
-    new ""
+    new "Você está livre mais tarde?"
 
     # game/script.rpy:10735
     old "I think your eyes are bleeding."
-    new ""
+    new "Eu acho que os seus olhos estão sangrando."
 
     # game/script.rpy:10808
     old "That was hard to watch..."
-    new ""
+    new "Isso foi difícil de assistir..."
 
     # game/script.rpy:10808
     old "Have you tried contacts?"
-    new ""
+    new "Você já tentou lentes de contato?"
 
     # game/script.rpy:10808
     old "Need a shoulder to cry on?"
-    new ""
+    new "Precisa de um ombro para chorar?"
 
     # game/script.rpy:10836
     old "{size=+50}5 minutes later...{/size}"
-    new ""
+    new "{size=+50}5 minutos depois...{/size}"
 
     # game/script.rpy:10871
     old "{size=+50}30 minutes, and 2 drinks later...{/size}"
-    new ""
+    new "{size=+50}30 minutos, e 2 bebidas depois...{/size}"
 
     # game/script.rpy:10880
     old "Good game."
-    new ""
+    new "Bom jogo."
 
     # game/script.rpy:10880
     old "Keep it."
-    new ""
+    new "Pode ficar."
 
     # game/script.rpy:11099
     old "Happy to help."
-    new ""
+    new "Fico feliz em ajudar."
 
     # game/script.rpy:11099
     old "What's in it for me?"
-    new ""
+    new "Isso é vantajoso para mim?"
 
     # game/script.rpy:11099
     old "I think I'm lost..."
-    new ""
+    new "Eu acho que estou perdido..."
 
     # game/script.rpy:11284
     old "What did you do to her?"
-    new ""
+    new "O que você fez com ela?"
 
     # game/script.rpy:11284
     old "I'm just looking around."
-    new ""
+    new "Eu estou apenas olhando ao redor."
 
     # game/script.rpy:11284
     old "You."
-    new ""
+    new "Você."
 
     # game/script.rpy:11284
     old "I want to learn."
-    new ""
+    new "Eu quero aprender."
 
     # game/script.rpy:11304
     old "What is that staff?"
-    new ""
+    new "O que é esse cajado?"
 
     # game/script.rpy:11304
     old "How old is this church?"
-    new ""
+    new "O quão velha é essa igreja?"
 
     # game/script.rpy:11304
     old "What is Gaius?"
-    new ""
+    new "O que é Gaius?"
 
     # game/script.rpy:11528
     old "Pay for your meal ($5)"
-    new ""
+    new "Pagar pela sua refeição ($5)"
 
     # game/script.rpy:11528
     old "Pay for everyone's meal ($20)."
-    new ""
+    new "Pagar pela refeição de todos ($20)."
 
     # game/script.rpy:11652
     old "Return the Package"
-    new ""
+    new "Devolver o Pacote"
 
     # game/script.rpy:11652
     old "Inform the Police"
-    new ""
+    new "Informar a Polícia"
 
     # game/script.rpy:11713
     old "{color=#8C8C8C}Visit the ???{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar o ???{/color}"
 
     # game/script.rpy:11713
     old "1AP) Visit the Corpus Cafe"
-    new ""
+    new "1AP) Visitar o Café Corpus"
 
     # game/script.rpy:11713
     old "1AP) Visit Bernie's Bowling Bar"
-    new ""
+    new "1AP) Visitar o Bar de Boliche do Bernie"
 
     # game/script.rpy:11713
     old "1AP) Explore >"
-    new ""
+    new "1AP) Explorar >"
 
     # game/script.rpy:11713
     old "Return Home"
-    new ""
+    new "Voltar para Casa"
 
     # game/script.rpy:11739
     old "Hang Out"
-    new ""
+    new "Relaxar"
 
     # game/script.rpy:11739
     old "Deliver"
-    new ""
+    new "Enregar"
 
     # game/script.rpy:11739
     old "{color=#8C8C8C}Join Tournament{/color}"
-    new ""
+    new "{color=#8C8C8C}Entrar no Torneio{/color}"
 
     # game/script.rpy:11819
     old "{size=+50}Entering: Residential District{/size}"
-    new ""
+    new "{size=+50}Entrando: Distrito Residencial{/size}"
 
     # game/script.rpy:11865
     old "1AP) Visit the Beach"
-    new ""
+    new "1AP) Visitar a Praia"
 
     # game/script.rpy:11865
     old "1AP) Visit the Church"
-    new ""
+    new "1AP) Visitar a Igreja"
 
     # game/script.rpy:11865
     old "< Return to Downtown"
-    new ""
+    new "< Voltar para o Centro"
 
     # game/script.rpy:11899
     old "{size=+50}Entering: Old Town{/size}"
-    new ""
+    new "{size=+50}Entrando: Cidade Velha{/size}"
 
     # game/script.rpy:11930
     old "1AP) Visit the BunBun Brothel"
-    new ""
+    new "1AP) Visitar o Bordel BunBun"
 
     # game/script.rpy:11930
     old "1AP) Visit the Slums"
-    new ""
+    new "1AP) Visitar os Bairros Pobres"
 
     # game/script.rpy:11930
     old "< Return to Residential District"
-    new ""
+    new "< Voltar para o Distrito Residencial"
 
     # game/script.rpy:11997
     old "Explore Caliber City"
-    new ""
+    new "Explorar a Cidade Caliber"
 
     # game/script.rpy:11997
     old "Visit Kate"
-    new ""
+    new "Visitar Kate"
 
     # game/script.rpy:11997
     old "Go on an adventure with Moon"
-    new ""
+    new "Ir em uma aventura com Moon"
 
     # game/script.rpy:11997
     old "Go on a date with Vanessa"
-    new ""
+    new "Ir em um encontro com Vanessa"
 
     # game/script.rpy:11997
     old "Spend time with Vanessa"
-    new ""
+    new "Passar um tempo com Vanessa"
 
     # game/script.rpy:11997
     old "Visit the gym with Kate"
-    new ""
+    new "Visitar a academia com Kate"
 
     # game/script.rpy:11997
     old "Go to a fancy date with Kate"
-    new ""
+    new "Ir em um encontro chique com Kate"
 
     # game/script.rpy:11997
     old "Visit the Sanctuary"
-    new ""
+    new "Visitar o Santuário"
 
     # game/script.rpy:11997
     old "{color=#8C8C8C}Visit the Sanctuary{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar o Santuário{/color}"
 
     # game/script.rpy:11997
     old "Check for mail"
-    new ""
+    new "Checar o correio"
 
     # game/script.rpy:12462
     old "Keep watching"
-    new ""
+    new "Continuar assistindo"
 
     # game/script.rpy:12763
     old "Join"
-    new ""
+    new "Se juntar"
 
     # game/script.rpy:12993
     old "You can remove it"
-    new ""
+    new "Você pode removê-lo"
 
     # game/script.rpy:13184
     old "Clean my room {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Limpar meu quarto {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "(Pet Her) {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "(Fazer carinho nela) {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "{color=#8C8C8C}(Pet Her){/color}"
-    new ""
+    new "{color=#8C8C8C}(Fazer carinho nela){/color}"
 
     # game/script.rpy:13184
     old "(Spank Her) {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "(Dar palmadas nela) {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "{color=#8C8C8C}(Spank Her){/color}"
-    new ""
+    new "{color=#8C8C8C}(Dar palmadas nela){/color}"
 
     # game/script.rpy:13184
     old "{color=#8C8C8C}Lift your skirt{/color}"
-    new ""
+    new "{color=#8C8C8C}Levante sua saia{/color}"
 
     # game/script.rpy:13184
     old "Lift your skirt {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Lift your skirt {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "{color=#8C8C8C}Take off your top{/color}"
-    new ""
+    new "{color=#8C8C8C}Tire sua blusa{/color}"
 
     # game/script.rpy:13184
     old "Take off your top {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Tire sua blusa {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "{color=#8C8C8C}We need milk{/color}"
-    new ""
+    new "{color=#8C8C8C}Nós precisamos de leite{/color}"
 
     # game/script.rpy:13184
     old "We need milk {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Nós precisamos de leite {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "{color=#8C8C8C}Take off everything{/color}"
-    new ""
+    new "{color=#8C8C8C}Tire tudo{/color}"
 
     # game/script.rpy:13184
     old "Take off everything {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Tire tudo {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "Give me a blowjob {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Me dê um boquete {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:13184
     old "{color=#8C8C8C}Give me a blowjob{/color}"
-    new ""
+    new "{color=#8C8C8C}Me dê um boquete{/color}"
 
     # game/script.rpy:13230
     old "Spank"
-    new ""
+    new "Dar palmadas"
 
     # game/script.rpy:13230
     old "Back out"
-    new ""
+    new "Se retirar"
 
     # game/script.rpy:13369
     old "Small"
-    new ""
+    new "Pequenos"
 
     # game/script.rpy:13369
     old "Normal"
-    new ""
+    new "Normais"
 
     # game/script.rpy:13369
     old "Large"
-    new ""
+    new "Grandes"
 
     # game/script.rpy:13635
     old "Clean The Sanctuary"
-    new ""
+    new "Limpar o Santuário"
 
     # game/script.rpy:13635
     old "(Pet Her)"
-    new ""
+    new "(Fazer Carinho Nela)"
 
     # game/script.rpy:13635
     old "(Spank Her)"
-    new ""
+    new "(Dar Palmadas Nela)"
 
     # game/script.rpy:13635
     old "{color=#8C8C8C}(Take off everything){/color}"
-    new ""
+    new "{color=#8C8C8C}(Tire tudo){/color}"
 
     # game/script.rpy:13635
     old "Take off everything"
-    new ""
+    new "Tire tudo"
 
     # game/script.rpy:13635
     old "Golden Shower"
-    new ""
+    new "Chuva Dourada"
 
     # game/script.rpy:14044
     old "It tastes great"
-    new ""
+    new "O sabor é ótimo"
 
     # game/script.rpy:14044
     old "This is badly burnt"
-    new ""
+    new "Isso está muito queimado"
 
     # game/script.rpy:14044
     old "This is terrible..."
-    new ""
+    new "Isso é terrível..."
 
     # game/script.rpy:14065
     old "There's nothing to worry about."
-    new ""
+    new "Não há nada com o que se preocupar."
 
     # game/script.rpy:14065
     old "As long as you're obedient, there's nothing to worry about."
-    new ""
+    new "Desde que você seja obediente, não há nada com o que se preocupar."
 
     # game/script.rpy:14138
     old "It's a little burnt"
-    new ""
+    new "Está um pouco queimado"
 
     # game/script.rpy:14181
     old "Help her up"
-    new ""
+    new "Ajudá-la a se levantar"
 
     # game/script.rpy:14181
     old "Stare at her panties"
-    new ""
+    new "Encarar sua calcinha"
 
     # game/script.rpy:14279
     old "{color=#8C8C8C}Wear this...{/color}"
-    new ""
+    new "{color=#8C8C8C}Vista isso...{/color}"
 
     # game/script.rpy:14279
     old "Wear This... {color=#009eff}(+Obedience){/color}"
-    new ""
+    new "Vista isso... {color=#009eff}(+Obediência){/color}"
 
     # game/script.rpy:14279
     old "{color=#8C8C8C}Put your sexy apron on"
-    new ""
+    new "{color=#8C8C8C}Vista seu avental sexy"
 
     # game/script.rpy:14279
     old "Put your sexy apron on"
-    new ""
+    new "Ponha seu avental sexy"
 
     # game/script.rpy:14690
     old "Wear Egg Vibe"
-    new ""
+    new "Ponha Vibrador de Ovo"
 
     # game/script.rpy:14690
     old "Wear Butt Plug"
-    new ""
+    new "Vista Plugue Anal"
 
     # game/script.rpy:14690
     old "Pose with Heart Outfit"
-    new ""
+    new "Faça pose com o Conjunto de Coração"
 
     # game/script.rpy:15084
     old "Steal her bikini"
-    new ""
+    new "Roubar o biquíni dela"
 
     # game/script.rpy:15096
     old "Definitely not."
-    new ""
+    new "Definitivamente não."
 
     # game/script.rpy:15096
     old "Yes, sorry..."
-    new ""
+    new "Sim, desculpe..."
 
     # game/script.rpy:15211
     old "I loved them."
-    new ""
+    new "Eu amei eles."
 
     # game/script.rpy:15211
     old "Nothing special..."
-    new ""
+    new "Nada de especial..."
 
     # game/script.rpy:15523
     old "Go now."
-    new ""
+    new "Agora vá."
 
     # game/script.rpy:15599
     old "I'll forgive you if you suck my cock."
-    new ""
+    new "Eu vou te perdoar se você chupar o meu pau."
 
     # game/script.rpy:15599
     old "You need to be more chill..."
-    new ""
+    new "Você precisa relaxar mais..."
 
     # game/script.rpy:15599
     old "Nothing to worry about. All is forgiven."
-    new ""
+    new "Não precisa se preocuar com nada. Está tudo perdoado."
 
     # game/script.rpy:15751
     old "I'll pick you up right now."
-    new ""
+    new "Eu vou te buscar agora mesmo."
 
     # game/script.rpy:15751
     old "I'm busy, I'll let you know."
-    new ""
+    new "Eu estou ocupado, eu te aviso."
 
     # game/script.rpy:15882
     old "Take them out (Continue Jin's Story)"
-    new ""
+    new "Tire elas (Continuar História da jin)"
 
     # game/script.rpy:15882
     old "Refuse (End Jin's Story)"
-    new ""
+    new "Recusar (Terminar a história da Jin)"
 
     # game/script.rpy:16071
     old "Big Boobs"
-    new ""
+    new "Peitos Grandes"
 
     # game/script.rpy:16071
     old "Small Boobs"
-    new ""
+    new "Peitos Pequenos"
 
     # game/script.rpy:16105
     old "Offer her your bed"
-    new ""
+    new "Oferecer a sua cama para ela"
 
     # game/script.rpy:16105
     old "Good night."
-    new ""
+    new "Boa noite."
 
     # game/script.rpy:16171
     old "I'll let you keep that 25 percent if you show me your tits."
-    new ""
+    new "Eu deixo você ficar com esses 25 por cento se você me mostrar as suas tetas."
 
     # game/script.rpy:16171
     old "Thanks"
-    new ""
+    new "Obrigado"
 
     # game/script.rpy:16213
     old "It's kind of hard to tell from this angle"
-    new ""
+    new "É meio difícil dizer deste ângulo"
 
     # game/script.rpy:16213
     old "Meh, not my favorite."
-    new ""
+    new "Meh, não é o meu favorito."
 
     # game/script.rpy:16415
     old "Pizza"
-    new ""
+    new "Pizza."
 
     # game/script.rpy:16415
     old "Steak"
-    new ""
+    new "Bife"
 
     # game/script.rpy:16415
     old "Ice Cream"
-    new ""
+    new "Sorvete"
 
     # game/script.rpy:16415
     old "Curry"
-    new ""
+    new "Curry"
 
     # game/script.rpy:16471
     old "Search for the Queen's nudes"
-    new ""
+    new "Buscar por nudes da Rainha"
 
     # game/script.rpy:16471
     old "Syl'who?"
-    new ""
+    new "Syl'quem?"
 
     # game/script.rpy:16478
     old "Buy her pinups"
-    new ""
+    new "Comprar os pôsteres dela"
 
     # game/script.rpy:16478
     old "Pirate her pinups"
-    new ""
+    new "Piratear os pôsteres dela"
 
     # game/script.rpy:16540
     old "C:/Users/[name]/Pictures/Pinups/Ellen"
-    new ""
+    new "C:/Usuários/[name]/Imagens/Pôsteres/Ellen"
 
     # game/script.rpy:16553
     old "Sneak around >"
-    new ""
+    new "Esgueirar-se por aí >"
 
     # game/script.rpy:16555
     old "{color=#8C8C8C}Visit Lin{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar Lin{/color}"
 
     # game/script.rpy:16555
     old "Visit Lin"
-    new ""
+    new "Visitar Lin"
 
     # game/script.rpy:16555
     old "{color=#8C8C8C}Visit Kali{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar Kali{/color}"
 
     # game/script.rpy:16555
     old "{color=#8C8C8C}Visit Ashley{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar Ashley{/color}"
 
     # game/script.rpy:16555
     old "Visit Maria"
-    new ""
+    new "Visitar Maria"
 
     # game/script.rpy:16555
     old "{color=#8C8C8C}Visit Maria{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar Maria{/color}"
 
     # game/script.rpy:16555
     old "Visit [botname]"
-    new ""
+    new "Visitar [botname]"
 
     # game/script.rpy:16555
     old "{color=#8C8C8C}Visit [botname]{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar [botname]{/color}"
 
     # game/script.rpy:16555
     old "{color=#8C8C8C}Visit Felicity & Emma{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar Felicity & Emma{/color}"
 
     # game/script.rpy:16555
     old "{color=#8C8C8C}Visit Autumn{/color}"
-    new ""
+    new "{color=#8C8C8C}Visitar Autumn{/color}"
 
     # game/script.rpy:16642
     old "You'll always be someone to me."
-    new ""
+    new "Você sempre será alguém especial para mim."
 
     # game/script.rpy:16642
     old "This is huge! I'm so proud of you."
-    new ""
+    new "Isso é incrível! Estou muito orgulhoso de você."
 
     # game/script.rpy:16642
     old "Are you anxious?"
-    new ""
+    new "Você está nervosa?"
 
     # game/script.rpy:16642
     old "We should have discussed this..."
-    new ""
+    new "Nós devíamos ter discutido isso..."
 
     # game/script.rpy:16796
     old "Were you kicked out?"
-    new ""
+    new "Você foi expulsa?"
 
     # game/script.rpy:16796
     old "Did you run away?"
-    new ""
+    new "Você fugiu?"
 
     # game/script.rpy:16796
     old "Did he die?"
-    new ""
+    new "Ele morreu?"
 
     # game/script.rpy:16826
     old "{color=#8C8C8C}> Your Room <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Seu Quarto <{/color}"
 
     # game/script.rpy:17076
     old "Let's have some fun."
-    new ""
+    new "Vamos nos divertir um pouco."
 
     # game/script.rpy:17504
     old "{size=+50}Some time later...{/size}"
-    new ""
+    new "{size=+50}Pouco tempo depois...{/size}"
 
     # game/script.rpy:17951
     old "{size=+50}One cake later...{/size}"
-    new ""
+    new "{size=+50}Um bolo depois...{/size}"
 
     # game/script.rpy:17975
     old "{size=+50}After a proper meal and dessert, \nyou sleep the rest of the day and night off...{/size}"
-    new ""
+    new "{size=+50}Depois de uma refeição adequada e sobremesa, \nvocê dorme o resto do dia e a noite toda...{/size}"
 
     # game/script.rpy:18141
     old "Do you dream?"
-    new ""
+    new "Você sonha?"
 
     # game/script.rpy:18141
     old "Are you excited for Ally?"
-    new ""
+    new "Você está animado com o Ally?"
 
     # game/script.rpy:18141
     old "What are your plans for the future?"
-    new ""
+    new "Quais são os seus planos para o futuro?"
 
     # game/script.rpy:18141
     old "What are some of your favorite things?"
-    new ""
+    new "Quais são algumas das suas coisas favoritas?"
 
     # game/script.rpy:18141
     old "Did you ever think your life would turn out this way?"
-    new ""
+    new "Você já imaginou que sua vida seria assim?"
 
     # game/script.rpy:18141
     old "What are your opinions of the others living in the hotel?"
-    new ""
+    new "Quais são as suas opiniões sobre as outras que vivem no hotel?"
 
     # game/script.rpy:18326
     old "It does."
-    new ""
+    new "Faz, sim."
 
     # game/script.rpy:18326
     old "Not really."
-    new ""
+    new "Na verdade, não."
 
     # game/script.rpy:19102
     old "Turn off."
-    new ""
+    new "Desligue."
 
     # game/script.rpy:19102
     old "Let her cum."
-    new ""
+    new "Deixe ela gozar."
 
     # game/script.rpy:19110
     old "Turn it back on."
-    new ""
+    new "Ligue novamente."
 
     # game/script.rpy:19110
     old "Stay silent."
-    new ""
+    new "Fique em silêncio."
 
     # game/script.rpy:20449
     old "Very nice."
-    new ""
+    new "Muito bom."
 
     # game/script.rpy:20449
     old "No, stop that."
-    new ""
+    new "Não, pare com isso."
 
     # game/script.rpy:20964
     old "Fly ($150 each)"
-    new ""
+    new "Voar ($150 cada)"
 
     # game/script.rpy:20964
     old "Drive"
-    new ""
+    new "Dirigir"
 
     # game/script.rpy:21008
     old "Can I get a friend's and family discount?"
-    new ""
+    new "Posso obter um desconto para amigos e familiares?"
 
     # game/script.rpy:21008
     old "I'll pay."
-    new ""
+    new "Eu pago."
 
     # game/script.rpy:21008
     old "Can I get the price down if I show you a good time?"
-    new ""
+    new "Posso conseguir um desconto se e te fizer um agrado?"
 
     # game/script.rpy:21131
     old "I am all for this! (Follow the story)"
-    new ""
+    new "Eu concordo plenamente com isso! (Continuar a história)"
 
     # game/script.rpy:21131
     old "Girls kissing other girls? Gross... (End the event)"
-    new ""
+    new "Garotas beijando garotas? Que nojento... (Terminar o evento)"
 
     # game/script.rpy:21564
     old "Oh my..."
-    new ""
+    new "Ai meu..."
 
     # game/script.rpy:21564
     old "Interesting..."
-    new ""
+    new "Interessante..."
 
     # game/script.rpy:21568
     old "Very useful."
-    new ""
+    new "Bem útil."
 
     # game/script.rpy:21568
     old "Thank you grandpa..."
-    new ""
+    new "Obrigado, avô..."
 
     # game/script.rpy:21653
     old "Hold on, I need to pee."
-    new ""
+    new "Espera um pouco, eu preciso mijar."
 
     # game/script.rpy:22328
     old "Delete her memory of today"
-    new ""
+    new "Apagar a memória dela de hoje"
 
     # game/script.rpy:22328
     old "Don't delete her memory"
-    new ""
+    new "Não apagar a memória dela"
 
     # game/script.rpy:22426
     old "I'm [name], I own this hotel."
-    new ""
+    new "Eu me chamo [name], eu sou o  dono desse hotel."
 
     # game/script.rpy:22426
     old "I'm [name], I own this whore house."
-    new ""
+    new "Eu me chamo [name], eu sou o  dono desse puteiro."
 
     # game/script.rpy:22475
     old "What will be her name?"
-    new ""
+    new "Qual vais ser o nome dela?"
 
     # game/script.rpy:22483
     old "What will [botname] call you?"
-    new ""
+    new "Do que [botname] deve te chamar?"
 
     # game/script.rpy:22657
     old "Not at all."
-    new ""
+    new "De jeito nenhum."
 
     # game/script.rpy:22657
     old "A bit weird."
-    new ""
+    new "Um pouco esquisito."
 
     # game/script.rpy:22657
     old "I've never thought of having more of you."
-    new ""
+    new "Nunca pensei em ter mais além de você."
 
     # game/script.rpy:22806
     old "Sorry, my android wanted to talk to yours."
-    new ""
+    new "Desculpe, a minha androide quis conversar com a sua."
 
     # game/script.rpy:22806
     old "My cock between your tits."
-    new ""
+    new "O meu pau entre as suas tetas."
 
     # game/script.rpy:23144
     old "Bra and Panties"
-    new ""
+    new "Sutiã e Calcinha."
 
     # game/script.rpy:23144
-    old "{color=#8C8C8C}Western Cowgirl Outfit{/color}"
-    new ""
+    old "{color=#8C8C8C}Roupa de cowgirl ocidental{/color}"
+    new "{color=#8C8C8C}Conjunto de vaqueira ocidental{/color}"
 
     # game/script.rpy:23144
     old "Western Cowgirl Outfit"
-    new ""
+    new "Conjunto de vaqueira ocidental"
 
     # game/script.rpy:23144
     old "{color=#8C8C8C}Cow Outfit{/color}"
-    new ""
+    new "{color=#8C8C8C}Conjunto de Vaca{/color}"
 
     # game/script.rpy:23144
     old "Cow Outfit"
-    new ""
+    new "Conjunto de Vaca"
 
     # game/script.rpy:23144
     old "{color=#8C8C8C}Kitten Outfit{/color}"
-    new ""
+    new "{color=#8C8C8C}Conjunto de Gatinha{/color}"
 
     # game/script.rpy:23144
     old "Kitten Outfit"
-    new ""
+    new "Conjunto de Gatinha"
 
     # game/script.rpy:23144
     old "{color=#8C8C8C}Veil Outfit{/color}"
-    new ""
+    new "{color=#8C8C8C}Conjunto de Véu{/color}"
 
     # game/script.rpy:23144
     old "Veil Outfit"
-    new ""
+    new "Conjunto de Véu"
 
     # game/script.rpy:23144
     old "{color=#8C8C8C}Slut Outfit{/color}"
-    new ""
+    new "{color=#8C8C8C}Conjunto de Vadia{/color}"
 
     # game/script.rpy:23144
     old "Slut Outfit"
-    new ""
+    new "Conjunto de Vadia"
 
     # game/script.rpy:23144
     old "{color=#8C8C8C}Completely Nude{/color}"
-    new ""
+    new "{color=#8C8C8C}Completamente Nua{/color}"
 
     # game/script.rpy:23144
     old "Completely Nude"
-    new ""
+    new "Completamente Nua"
 
     # game/script.rpy:23438
     old "Sell pinups"
-    new ""
+    new "Vender pôsteres"
 
     # game/script.rpy:23438
     old "Keep pinups"
-    new ""
+    new "Manter pôsteres"
 
     # game/script.rpy:23885
     old "ILoveYou"
-    new ""
+    new "EuTeAmo"
 
     # game/script.rpy:23885
     old "[name]pass123"
-    new ""
+    new "[name]senha123"
 
     # game/script.rpy:23885
     old "HotBot11"
-    new ""
+    new "HotBot11"
 
     # game/script.rpy:23985
     old "Stay away from Maria."
-    new ""
+    new "Ficar longe da Maria."
 
     # game/script.rpy:23985
     old "Get closer to Maria."
-    new ""
+    new "Se aproximar de Maria."
 
     # game/script.rpy:24071
     old "Interject"
-    new ""
+    new "Interromper"
 
     # game/script.rpy:24246
     old "Jump In"
-    new ""
+    new "Entrar na Onda"
 
     # game/script.rpy:24564
     old "Not right now."
-    new ""
+    new "Agora não."
 
     # game/script.rpy:24736
     old "Have fun"
-    new ""
+    new "Divirtam-se"
 
     # game/script.rpy:24736
     old "{color=#8C8C8C}Why don't you change right here?{/color}"
-    new ""
+    new "{color=#8C8C8C}Por que não se troca aqui mesmo?{/color}"
 
     # game/script.rpy:24736
     old "{color=#f0f020}Why don't you change right here?{/color}"
-    new ""
+    new "{color=#f0f020}Por que não se troca aqui mesmo?{/color}"
 
     # game/script.rpy:24978
     old "I'm immortal"
-    new ""
+    new "Eu sou imortal"
 
     # game/script.rpy:24978
     old "We don't need to think about that"
-    new ""
+    new "Nós não precisamos pensar nisso"
 
     # game/script.rpy:25112
     old "Let's see where this takes me..."
-    new ""
+    new "Vamos ver aonde isto vai me levar..."
 
     # game/script.rpy:25112
     old "Attempt to restore her personality"
-    new ""
+    new "Tentar restaurar a personalidade dela"
 
     # game/script.rpy:25481
     old "Medium"
-    new ""
+    new "Médio"
 
     # game/script.rpy:25964
     old "Okay!"
-    new ""
+    new "Tudo bem!"
 
     # game/script.rpy:26206
     old "Lin"
-    new ""
+    new "Lin"
 
     # game/script.rpy:26206
     old "Kali"
-    new ""
+    new "Kali"
 
     # game/script.rpy:26206
     old "Ashley"
-    new ""
+    new "Ashley"
 
     # game/script.rpy:26206
     old "Maria"
-    new ""
+    new "Maria"
 
     # game/script.rpy:26714
     old "How are you?"
-    new ""
+    new "Como você está?"
 
     # game/script.rpy:26714
     old "(Interact)"
-    new ""
+    new "(Interagir)"
 
     # game/script.rpy:26714
     old "{color=#8C8C8C}(Interact){/color}"
-    new ""
+    new "{color=#8C8C8C}(Interagir){/color}"
 
     # game/script.rpy:26714
     old "{color=#8C8C8C}(Change Outfit){/color}"
-    new ""
+    new "{color=#8C8C8C}(Trocar de Roupa){/color}"
 
     # game/script.rpy:26714
     old "(Change Outfit)"
-    new ""
+    new "(Trocar de Roupa)"
 
     # game/script.rpy:26714
     old "Call me something else..."
-    new ""
+    new "Me chame de algo diferente..."
 
     # game/script.rpy:26714
     old "Your name will be..."
-    new ""
+    new "O seu nome será..."
 
     # game/script.rpy:26714
     old "{color=#8C8C8C}Let's grab coffee.{/color}"
-    new ""
+    new "{color=#8C8C8C}Vamos tomar um café.{/color}"
 
     # game/script.rpy:26714
     old "Let's grab coffee. {color=#C43434}(-$5){/color} {color=#00A40A}(+Exhibitionism){/color}"
-    new ""
+    new "Vamos tomar um café.{color=#C43434}(-$5){/color} {color=#00A40A}(+Exibicionismo){/color}"
 
     # game/script.rpy:26714
     old "{color=#8C8C8C}Let's have some fun!{/color}"
-    new ""
+    new "{color=#8C8C8C}Vamos nos divertir um pouco!{/color}"
 
     # game/script.rpy:26714
     old "Let's have some fun! {color=#f26eff}(+Sluttiness){/color}"
-    new ""
+    new "Vamos nos divertir um pouco!{color=#f26eff}(+Devassidão){/color}"
 
     # game/script.rpy:26714
     old "{color=#8C8C8C}Let's take some pictures.{/color}"
-    new ""
+    new "{color=#8C8C8C}Vamos tirar algumas fotos.{/color}"
 
     # game/script.rpy:26714
     old "Let's take some pictures. {color=#30EA3C}(+$$$){/color}"
-    new ""
+    new "Vamos tirar algumas fotots. {color=#30EA3C}(+$$$){/color}"
 
     # game/script.rpy:26726
     old "Pat"
-    new ""
+    new "Acariciar"
 
     # game/script.rpy:26726
     old "Kiss"
-    new ""
+    new "Beijar"
 
     # game/script.rpy:26726
     old "Embrace"
-    new ""
+    new "Abraçar"
 
     # game/script.rpy:26863
     old "{color=#8C8C8C}Default (Form 1){/color}"
-    new ""
+    new "{color=#8C8C8C}Padrão (Forma 1){/color}"
 
     # game/script.rpy:26863
     old "Default (Form 1)"
-    new ""
+    new "Padrão (Forma 1)"
 
     # game/script.rpy:26863
     old "{color=#8C8C8C}Default (Form 2){/color}"
-    new ""
+    new "{color=#8C8C8C}Padrão (Forma 2){/color}"
 
     # game/script.rpy:26863
     old "Default (Form 2)"
-    new ""
+    new "Padrão (Forma 2)"
 
     # game/script.rpy:26863
     old "{color=#8C8C8C}Ropes{/color}"
-    new ""
+    new "{color=#8C8C8C}Cordas{/color}"
 
     # game/script.rpy:26863
     old "Ropes"
-    new ""
+    new "Cordas"
 
     # game/script.rpy:27003
     old "What should [botname] call you?"
-    new ""
+    new "Como [botname] deve te chamar?"
 
     # game/script.rpy:27014
     old "What should her name be?"
-    new ""
+    new "Qual será o nome dela?"
 
     # game/script.rpy:27113
     old "Boobjob"
-    new ""
+    new "Espanhola"
 
     # game/script.rpy:27119
     old "Nude"
-    new ""
+    new "Nua"
 
     # game/script.rpy:27119
     old "Nude (Form 1)"
-    new ""
+    new "Nua (Forma 1)"
 
     # game/script.rpy:27119
     old "Nude (Form 2)"
-    new ""
+    new "Nua (Forma 2)"
 
     # game/script.rpy:27119
     old "Veil Dress"
-    new ""
+    new "Vestido de Véu"
 
     # game/script.rpy:27119
     old "Human Outfit"
-    new ""
+    new "Conjunto Humano"
 
     # game/script.rpy:27437
     old "Coffee"
-    new ""
+    new "Café"
 
     # game/script.rpy:27437
     old "Tea"
-    new ""
+    new "Chá"
 
     # game/script.rpy:27437
     old "Cookies"
-    new ""
+    new "Biscoitos"
 
     # game/script.rpy:27437
     old "Salad"
-    new ""
+    new "Salada"
 
     # game/script.rpy:27437
     old "{color=#8C8C8C}Something lewd...{/color}"
-    new ""
+    new "{color=#8C8C8C}Algo indecente...{/color}"
 
     # game/script.rpy:27437
     old "Something lewd..."
-    new ""
+    new "Algo indecente..."
 
     # game/script.rpy:27484
     old "{color=#8C8C8C}Reveal your breasts to everyone{/color}"
-    new ""
+    new "{color=#8C8C8C}Mostre os seus seios para todos{/color}"
 
     # game/script.rpy:27484
     old "Reveal your breasts to everyone"
-    new ""
+    new "Mostre os seus seios para todo mundo"
 
     # game/script.rpy:27484
     old "{color=#8C8C8C}Serve the guests food{/color}"
-    new ""
+    new "{color=#8C8C8C}Sirva a comida dos clientes{/color}"
 
     # game/script.rpy:27484
     old "Serve the guests food"
-    new ""
+    new "Sirva a comida dos clientes""
 
     # game/script.rpy:27484
     old "{color=#8C8C8C}Completely undress in front of everyone{/color}"
-    new ""
+    new "{color=#8C8C8C}Fique completamente nua na frente de todos{/color}"
 
     # game/script.rpy:27484
     old "Completely undress in front of everyone"
-    new ""
+    new "Fique completamente nua na frente de todos"
 
     # game/script.rpy:27484
     old "{color=#8C8C8C}Let's sell some milk{/color}"
-    new ""
+    new "{color=#8C8C8C}Vamos vender um pouco de leite{/color}"
 
     # game/script.rpy:27484
     old "Let's sell some milk"
-    new ""
+    new "Vamos vender um pouco de leite"
 
     # game/script.rpy:27484
     old "{color=#8C8C8C}Wear egg vibe{/color}"
-    new ""
+    new "{color=#8C8C8C}Use o vibrador de ovo{/color}"
 
     # game/script.rpy:27484
     old "Wear egg vibe"
-    new ""
+    new "Use o vibrador de ovo"
 
     # game/script.rpy:27484
     old "{color=#8C8C8C}Get on the table and masturbate{/color}"
-    new ""
+    new "{color=#8C8C8C}Suba na mesa e comece a se masturbar{/color}"
 
     # game/script.rpy:27484
     old "Get on the table and masturbate"
-    new ""
+    new "Suba na mesa e comece a se masturbar"
 
     # game/script.rpy:27492
     old "Force commands"
-    new ""
+    new "Forçar comandos"
 
     # game/script.rpy:27492
     old "Let it slide"
-    new ""
+    new "Deixar passar"
 
     # game/script.rpy:27680
     old "Insert Dildo"
-    new ""
+    new "Inserir Vibrador"
 
     # game/script.rpy:27680
     old "Tell her to stop"
-    new ""
+    new "Dizer para ela parar"
 
     # game/script.rpy:27729
     old "Speed 1"
-    new ""
+    new "Velocidade 1"
 
     # game/script.rpy:27729
     old "Speed 2"
-    new ""
+    new "Velocidade 2"
 
     # game/script.rpy:27729
     old "Speed 3"
-    new ""
+    new "Velocidade 3"
 
     # game/script.rpy:28331
     old "Can I keep them? (Continue Ellen's Story)"
-    new ""
+    new "Eu posso ficar com elas? (Continuar a História de Ellen)"
 
     # game/script.rpy:28331
     old "I'll delete them. (End Ellen's story)"
-    new ""
+    new "Eu vou deletá-las. (Terminar a História de Ellen)"
 
     # game/script.rpy:28338
     old "Can I see your breasts?"
-    new ""
+    new "Eu posso ver os seus seios?"
 
     # game/script.rpy:28338
     old "Are there any more?"
-    new ""
+    new "Tem mais alguma aqui?"
 
     # game/script.rpy:28375
     old "So what's up with Elves?"
-    new ""
+    new "Então, qual é a dos Elfos?"
 
     # game/script.rpy:28375
     old "What kind of person was my Grandfather?"
-    new ""
+    new "Que tipo de pessoa o meu Avô era?"
 
     # game/script.rpy:28375
     old "Tell me about yourself."
-    new ""
+    new "Fale-me sobre si mesma."
 
     # game/script.rpy:28375
     old "That's all, thank you."
-    new ""
+    new "Isso é tudo, obrigado."
 
     # game/script.rpy:28533
     old "Put it back in"
-    new ""
+    new "Coloque isso de volta"
 
     # game/script.rpy:28533
     old "You've have enough fun for today"
-    new ""
+    new "Você já se divertiu o suficiente hoje"
 
     # game/script.rpy:28545
     old "Keep it on"
-    new ""
+    new "Mantenha isso aí"
 
     # game/script.rpy:28545
     old "Take it off"
-    new ""
+    new "Tire isto"
 
     # game/script.rpy:28585
     old "Lin {color=#FCEA37}(+Submission){/color}"
-    new ""
+    new "Lin {color=#FCEA37}(+Submissão){/color}"
 
     # game/script.rpy:28585
     old "Kali {color=#FCEA37}(+Submission){/color}"
-    new ""
+    new "Kali {color=#FCEA37}(+Submissão){/color}"
 
     # game/script.rpy:28585
     old "Ashley {color=#FCEA37}(+Submission){/color}"
-    new ""
+    new "Ashley {color=#FCEA37}(+Submissão){/color}"
 
     # game/script.rpy:28585
     old "{color=#8C8C8C}Maria (+Submission){/color}"
-    new ""
+    new "{color=#8C8C8C}Maria (+Submissão){/color}"
 
     # game/script.rpy:28585
     old "Maria {color=#FCEA37}(+Submission){/color}"
-    new ""
+    new "Maria {color=#FCEA37}(+Submissão){/color}"
 
     # game/script.rpy:28585
     old "[botname] {color=#FCEA37}(+Submission){/color}"
-    new ""
+    new "[botname] {color=#FCEA37}(+Submissão){/color}"
 
     # game/script.rpy:28585
     old "Felicity {color=#FCEA37}(+Submission){/color}"
-    new ""
+    new "Felicity {color=#FCEA37}(+Submissão){/color}"
 
     # game/script.rpy:28585
     old "Emma {color=#FCEA37}(+Submission){/color}"
-    new ""
+    new "Emma {color=#FCEA37}(+Submissão){/color}"
 
     # game/script.rpy:28585
     old "Others >"
-    new ""
+    new "Outros >"
 
     # game/script.rpy:28934
     old "Restrained Doggy"
-    new ""
+    new "Cachorrinho Restringido"
 
     # game/script.rpy:28934
     old "Squirtathon"
-    new ""
+    new "Maratona de esguichos"
 
     # game/script.rpy:28934
     old "Orgasm Denial"
-    new ""
+    new "Negação de Orgasmo"
 
     # game/script.rpy:28993
     old "Jin"
-    new ""
+    new "Jin"
 
     # game/script.rpy:28999
     old "Deepthroat"
-    new ""
+    new "Garganta Profunda"
 
     # game/script.rpy:28999
     old "Side Fuck"
-    new ""
+    new "Trepada de lado"
 
     # game/script.rpy:29112
     old "Vibrator"
-    new ""
+    new "Vibradir"
 
     # game/script.rpy:29112
     old "Catgirl Stand Fuck"
-    new ""
+    new "Foda Em Pé de Gatinha"
 
     # game/script.rpy:29112
     old "Cowgirl Doggy"
-    new ""
+    new "Cachorrinho de Vaqueira"
 
     # game/script.rpy:29232
     old "Keep going"
-    new ""
+    new "Continue assim"
 
     # game/script.rpy:29232
     old "Stop"
-    new ""
+    new "Pare"
 
     # game/script.rpy:29333
     old "Let her cum"
-    new ""
+    new "Deixar ela gozar"
 
     # game/script.rpy:29333
     old "Don't let her cum"
-    new ""
+    new "Não deixar ela gozar"
 
     # game/script.rpy:29831
     old "Spank her"
-    new ""
+    new "Dar palmadas nela"
 
     # game/script.rpy:29831
     old "Milk her"
-    new ""
+    new "Tirar leite dela"
 
     # game/script.rpy:29831
     old "Triangular Horse"
-    new ""
+    new "Cavalo Triangular"
 
     # game/script.rpy:29961
     old "Fingering"
-    new ""
+    new "Dedadas"
 
     # game/script.rpy:29961
     old "Doggy Style"
-    new ""
+    new "Estilo Cachorrinho"
 
     # game/script.rpy:29961
     old "Rope Fuck"
-    new ""
+    new "Foda nas cordas"
 
     # game/script.rpy:30464
     old "Captive Vibe"
-    new ""
+    new "Capturada com Vibrador"
 
     # game/script.rpy:30464
     old "Upthrust"
-    new ""
+    new "Empurrando para cima"
 
     # game/script.rpy:30722
     old "Punish her"
-    new ""
+    new "Puní-la"
 
     # game/script.rpy:30722
     old "You did good"
-    new ""
+    new "Você foi bem"
 
     # game/script.rpy:31002
     old "Clean the Floor"
-    new ""
+    new "Limpar o Chão"
 
     # game/script.rpy:31053
     old "Cum on the floor"
-    new ""
+    new "Gozar no chão
 
     # game/script.rpy:31097
     old "Pee on her"
-    new ""
+    new "Mijar nela"
 
     # game/script.rpy:31097
     old "Whip her"
-    new ""
+    new "Chicoteá-la"
 
     # game/script.rpy:31239
     old "Egg Vibe/Dildo"
-    new ""
+    new "Ovo Vibrador/Vibrador"
 
     # game/script.rpy:31239
     old "Anal Lift"
-    new ""
+    new "Leantamento Anal"
 
     # game/script.rpy:31363
     old "Make her cum again"
-    new ""
+    new "Fazer ela gozar de novo"
 
     # game/script.rpy:32304
     old "Read the report"
-    new ""
+    new "Ler o relatório"
 
     # game/script.rpy:32304
     old "Ignore"
-    new ""
+    new "Ignorar"
 
     # game/script.rpy:32392
     old "Continue advertising ($250)"
-    new ""
+    new "Continuar anunciando ($250)"
 
     # game/script.rpy:32392
     old "Continue advertising ($600)"
-    new ""
+    new "Continuar anunciando ($600)"
 
     # game/script.rpy:32392
     old "Continue advertising ($1,000)"
-    new ""
+    new "Continuar anunciando ($1,000)"
 
     # game/script.rpy:32392
     old "Stop advertising"
-    new ""
+    new "Parar de anunciar"
 
     # game/script.rpy:34511
     old "Let her cum (Finish Her)"
-    new ""
+    new "Deixar ela gozar (Finalizar com Ela)"
 
     # game/script.rpy:34511
     old "Don't let her cum (Edge)"
-    new ""
+    new "Não deixar ela gozar (Provocação)"
 
     # game/script.rpy:34609
     old "Finish Her (and you)"
-    new ""
+    new "Finalizar com ela (e com você)"
 
     # game/script.rpy:34609
     old "Edge"
-    new ""
+    new "Provocar"
 
     # game/script.rpy:34691
     old "Cum Inside (Finish Her)"
-    new ""
+    new "Gozar Dentro (Finalizar com ela)"
 
     # game/script.rpy:34691
     old "Pull Out (Edge)"
-    new ""
+    new "Tirar (Provoção)"
 
     # game/script.rpy:34713
     old "Send her away (Edge)"
-    new ""
+    new "Mandar ela embora (Provocação)"
 
     # game/script.rpy:34713
     old "Dive in (Finish Her)"
-    new ""
+    new "Cair dentro (Finalizar com ela)"
 
     # game/script.rpy:34865
     old "Punish Her (Edge)"
-    new ""
+    new "Puní-la (Provocação)"
 
     # game/script.rpy:34865
     old "Return (Edge)"
-    new ""
+    new "Voltar (Provocação)"
 
     # game/script.rpy:35106
     old "Get on the bed. (Finish Her / Edge)"
-    new ""
+    new "Subir na cama. (Finalizar com ela / Provocação)"
 
     # game/script.rpy:35106
     old "Go away. (Edge)"
-    new ""
+    new "Vá embora. (Provocação)"
 
     # game/script.rpy:35106
     old "Ask politely next time. (Edge)"
-    new ""
+    new "Peça com educação na próxima. (Provocação)"
 
     # game/script.rpy:35126
     old "Body Inspection"
-    new ""
+    new "Inspecionar Corpo"
 
     # game/script.rpy:35126
     old "{color=#8C8C8C}Public Nude Walk (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#8C8C8C}Caminhada Nua em Público (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:35126
     old "{color=#f0f020}Public Nude Walk (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#f0f020}Caminhada Nua em Público (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:35126
     old "{color=#8C8C8C}Vibe Torture (Edge){/color}"
-    new ""
+    new "{color=#8C8C8C}Tortura com Vibrador (Provocação){/color}"
 
     # game/script.rpy:35126
     old "{color=#f0f020}Vibe Torture (Edge){/color}"
-    new ""
+    new "{color=#f0f020}Tortura com Vibrador (Provocação){/color}"
 
     # game/script.rpy:35126
     old "Fun at Papa Rons (Finish Her)"
-    new ""
+    new "Diversão no Papa Rons (Finalizar com ela)"
 
     # game/script.rpy:35132
     old "Inspect Mouth"
-    new ""
+    new "Inspecionar Boca"
 
     # game/script.rpy:35132
     old "Inspect Breasts"
-    new ""
+    new "Inspecionar Seios"
 
     # game/script.rpy:35132
     old "Inspect Body"
-    new ""
+    new "Inspecionar Corpo"
 
     # game/script.rpy:35132
     old "Inspect Pussy"
-    new ""
+    new "Inspecionar Boceta"
 
     # game/script.rpy:35132
     old "Inspect Ass"
-    new ""
+    new "Inspecionar Bunda"
 
     # game/script.rpy:35132
     old "Inspect Feet"
-    new ""
+    new "Inspecionar Pés"
 
     # game/script.rpy:35287
     old "Bottoms up!"
-    new ""
+    new "Bunda para cima!"
 
     # game/script.rpy:35287
     old "What's in this?"
-    new ""
+    new "O que há aqui?"
 
     # game/script.rpy:35287
     old "Will you take some?"
-    new ""
+    new "Você vai pegar um pouco?"
 
     # game/script.rpy:35338
     old "You don't deserve it. (Edge)"
-    new ""
+    new "Você não merece isto. (Provocação)"
 
     # game/script.rpy:35402
     old "{color=#f0f020}School Fun (Finish Her){/color}"
-    new ""
+    new "{color=#f0f020}Diversão na Escola (Finalizar com ela){/color}"
 
     # game/script.rpy:35402
     old "{color=#8C8C8C}School Fun (Finish Her){/color}"
-    new ""
+    new "{color=#8C8C8C}Diversão na Escola (Finalizar com ela){/color}"
 
     # game/script.rpy:35402
     old "{color=#f0f020}Last Second Hole Switch (Edge){/color}"
-    new ""
+    new "{color=#f0f020}Trocar Buraco no Último Segundo (Provocação)(Edge){/color}"
 
     # game/script.rpy:35402
     old "{color=#8C8C8C}Last Second Hole Switch (Edge){/color}"
-    new ""
+    new "{color=#8C8C8C}Trocar Buraco no Último Segundo (Provocação){/color}"
 
     # game/script.rpy:35402
     old "{color=#f0f020}Serve Lin (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#f0f020}Sirva a Lin (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:35402
     old "Serve Lin (Finish Her / Edge)"
-    new ""
+    new "Sirva a Lin (Finalizar com ela / Provocação)"
 
     # game/script.rpy:35614
     old "I'll help you. (Finish Her / Edge)"
-    new ""
+    new "Eu vou te ajudar. (Finalizar com ela / Provocação)"
 
     # game/script.rpy:35629
     old "Pull Out"
-    new ""
+    new "Tirar"
 
     # game/script.rpy:35695
     old "{color=#8C8C8C}Ashley + Maria Foursome (Finish Her){/color}"
-    new ""
+    new "{color=#8C8C8C}Sexo à quatro com Ashley + Maria (Finalizar com ela){/color}"
 
     # game/script.rpy:35695
     old "Ashley + Maria Foursome (Finish Her)"
-    new ""
+    new "Ashley + Maria Foursome (Finalizar com ela)"
 
     # game/script.rpy:35695
     old "{color=#8C8C8C}Use Massager (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#8C8C8C}Usar Massageador (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:35695
     old "{color=#f0f020}Use Massager (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#f0f020}Usar Massageador(Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:35695
     old "{color=#8C8C8C}Anal Vibrator Tease (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#8C8C8C}Provocação com Vibrador Anal (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:35695
     old "{color=#f0f020}Anal Vibrator Tease (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#f0f020}Provocação com Vibrador Anal (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:35979
     old "On your back. (Finish Her / Edge)"
-    new ""
+    new "Deite de costas. (Finalizar com ela / Provocação)"
 
     # game/script.rpy:36044
     old "{color=#f0f020}Floor 1 Exhibitionism (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#f0f020}Exibicionismo no 1 Andar (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:36044
     old "{color=#8C8C8C}Floor 1 Exhibitionism (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#8C8C8C}Exibicionismo no 1 Andar (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:36044
     old "{color=#f0f020}Slutty Bunny Waitress (Finish Her){/color}"
-    new ""
+    new "{color=#f0f020}Garçonete Coelhinha Safada (Finalizar com ela){/color}"
 
     # game/script.rpy:36044
     old "{color=#8C8C8C}Slutty Bunny Waitress (Finish Her){/color}"
-    new ""
+    new "{color=#8C8C8C}Garçonete Coelhinha Safada (Finalizar com ela){/color}"
 
     # game/script.rpy:36044
     old "Serve [botname] (Finish Her / Edge)"
-    new ""
+    new "Sirva a [botname](Finalizar com ela / Provocação)"
 
     # game/script.rpy:36256
     old "I'll help you (Finish Her / Edge)"
-    new ""
+    new "Eu vou te ajudar (Finalizar com ela / Provocação)"
 
     # game/script.rpy:36256
     old "Not yet. (Edge)"
-    new ""
+    new "Ainda não."
 
     # game/script.rpy:36285
     old "Wordplay with Friends (3) >"
-    new ""
+    new "Jogo de Palavras com Amigos (3) >"
 
     # game/script.rpy:36285
     old "{color=#8C8C8C}Public Teasing (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#8C8C8C}Provocação em Público (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:36285
     old "{color=#f0f020}Public Teasing (Finish Her / Edge){/color}"
-    new ""
+    new "{color=#f0f020}Provocação em Público (Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:36285
     old "{color=#f0f020}Public Femdom (Finish Her){/color}"
-    new ""
+    new "{color=#f0f020} Dominação Feminina em Público(Finalizar com ela / Provocação){/color}"
 
     # game/script.rpy:36328
     old "Max"
-    new ""
+    new "Máximo"
 
     # game/script.rpy:36328
     old "Big"
-    new ""
+    new "Grande"
 
     # game/script.rpy:36328
     old "Flat"
-    new ""
+    new "Plana"
 
     # game/script.rpy:37087
     old "Let her cum. (Finish Her)"
-    new ""
+    new "Deixar ela gozar. (Provocação)"
 
     # game/script.rpy:37087
     old "Stop. (Edge)"
-    new ""
+    new "Parar. (Provocação)"
 
     # game/script.rpy:37223
     old "Ass"
-    new ""
+    new "Bunda"
 
     # game/script.rpy:37223
     old "Pussy"
-    new ""
+    new "Boceta"
 
     # game/script.rpy:37436
     old "Big Boobies!"
-    new ""
+    new "Tetas Grandes"
 
     # game/script.rpy:37436
     old "Tiny Tits!"
-    new ""
+    new "Tetas Pequenas"
 
     # game/script.rpy:37511
     old "Cum Outside (Edge)"
-    new ""
+    new "Gozar Fora (Provocação)"
 
     # game/script.rpy:37654
     old "Go away"
-    new ""
+    new "Vá embora"
 
     # game/script.rpy:37663
     old "But a little uncomfortable in those clothes..."
-    new ""
+    new "Mas um pouco desconfortável com essas roupas"
