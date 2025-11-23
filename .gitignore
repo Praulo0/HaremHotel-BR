@@ -45,3 +45,5 @@ files.txt
 .ionide
 
 ### Extra Stuff ###
+.stfolder/syncthing-folder-174c36.txt
+*.txt
