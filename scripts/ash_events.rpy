@@ -4,7 +4,7 @@
 translate pt_br ash_fe_repeatable_298b7646:
 
     # a "I hope you've been saving up for us~"
-    a "Espero que você esteja guardando para nós~"
+    a "Espero que você tenha economizado para nós.~"
 
 # game/scripts/ash_events.rpy:27
 translate pt_br ash_fe_repeatable_a2d15e96:
@@ -9778,7 +9778,7 @@ translate pt_br ash_twinbackcol_bfa39404:
 translate pt_br ash_twinbackcol_1b41b278:
 
     # a "I found pictures of him having sex with a student, so unless he wants to be removed as Dean... I think you're back!"
-    a "Eu encontrei fotos dele fazendo sexo com uma estudante, então a menos que ele queria ser expulso como o Dean... Eu acho que vocês estão de volta!"
+    a "Eu encontrei fotos dele fazendo sexo com uma estudante, Portanto, a menos que ele queira ser demitido do cargo de de diretor,... Eu acho que vocês estão de volta!"
 
 # game/scripts/ash_events.rpy:2598
 translate pt_br ash_twinbackcol_0b4bf84a:
@@ -9982,7 +9982,7 @@ translate pt_br ash_twinbackcol_31fe4528:
 translate pt_br ash_twinbackcol_2c251344:
 
     # em "Umm... Ashley?"
-    em "Umm.. AShley?"
+    em "Umm.. Ashley?"
 
 # game/scripts/ash_events.rpy:2643
 translate pt_br ash_twinbackcol_6b8d764f:
@@ -10000,445 +10000,445 @@ translate pt_br ash_twinbackcol_3e4f4ceb:
 translate pt_br ash_twinbackcol_23d2365a:
 
     # ms "You have an orgy in {i}my{/i} classroom and you think they can get unexpelled just like that? Not under my watch..."
-    ms ""
+    ms "Vocês fazem uma orgia na {i}minha{/i} sala de aula e ainda acham que eles podem ser readmitidos assim tão facilmente? Não enquanto eu estiver por perto..."
 
 # game/scripts/ash_events.rpy:2647
 translate pt_br ash_twinbackcol_55d49bab:
 
     # a "What...?"
-    a ""
+    a "O quê...?"
 
 # game/scripts/ash_events.rpy:2648
 translate pt_br ash_twinbackcol_d95d1c3d:
 
     # f "Ashley... what's going on?"
-    f ""
+    f "Ashley... o que está acontecendo?"
 
 # game/scripts/ash_events.rpy:2649
 translate pt_br ash_twinbackcol_ec85d270:
 
     # ms "I've not received a single message about this sudden change of heart, so until I do I recommend you leave my classroom..."
-    ms ""
+    ms "Não recebi nenhuma mensagem sobre essa mudança repentina de opinião. Então, até que eu receba, recomendo que vocês saiam da minha sala de aula... "
 
 # game/scripts/ash_events.rpy:2650
 translate pt_br ash_twinbackcol_bc69ebbf:
 
     # a "Just call your boss, bitch! He's their {i}father{/i}, he just gave them a call..."
-    a ""
+    a "Só ligue para o seu chefe, vadia! Ele é o {i}pai{/i} delas, ele acabou de ligar para elas..."
 
 # game/scripts/ash_events.rpy:2651
 translate pt_br ash_twinbackcol_11db4a65:
 
     # em "It's true Ms. Burchette, he said we can come back."
-    em ""
+    em "É verdade, Sra. Burchette, ele disse que podemos voltar."
 
 # game/scripts/ash_events.rpy:2652
 translate pt_br ash_twinbackcol_5b350326:
 
     # ms "Do {u}not{/u} call me a 'bitch' young lady! And I will not have a classroom full of sluts!"
-    ms ""
+    ms "{u}Não{/u} me chame de 'vadia', jovenzinha! E eu não vou ter uma sala de aula cheia de putas!"
 
 # game/scripts/ash_events.rpy:2654
 translate pt_br ash_twinbackcol_d7db8976:
 
     # em "What!?"
-    em ""
+    em "O que!?"
 
 # game/scripts/ash_events.rpy:2655
 translate pt_br ash_twinbackcol_0b30cd3e:
 
     # f "I am {u}not{/u} a slut!"
-    f ""
+    f "Eu {u}não{u/} sou uma puta!"
 
 # game/scripts/ash_events.rpy:2656
 translate pt_br ash_twinbackcol_8d6ee989:
 
     # a "I've only had sex [ash_sex] times, and all with the man behind me, so fuck you!"
-    a ""
+    a "Eu só fiz sexo umas [ash_sex] vezes, e todas elas como o cara que está atrás de mim, então vai se foder!"
 
 # game/scripts/ash_events.rpy:2657
 translate pt_br ash_twinbackcol_c5ae8b3a:
 
     # c "Why do you keep track of that..."
-    c ""
+    c "Por que você fica registrando isso..."
 
 # game/scripts/ash_events.rpy:2659
 translate pt_br ash_twinbackcol_fba78c43:
 
     # runa "This alpha human is cruel to her subordinates... is her job not to teach and inspire?"
-    runa ""
+    runa "Essa humana alfa é cruel com as subordinadas dela... o trbalho dela não é ensinar e inspirar?"
 
 # game/scripts/ash_events.rpy:2660
 translate pt_br ash_twinbackcol_f1bc3adc:
 
     # zoia "Remind you of anyone? At least we don't answer to her..."
-    zoia ""
+    zoia "Isso não te lembra de ninguém? Pelo menos nós não temos que obedecer a ela..."
 
 # game/scripts/ash_events.rpy:2661
 translate pt_br ash_twinbackcol_8c8e686a:
 
     # runa "Hmph, well luckily for you, there will be no punishment for failing this mission..."
-    runa ""
+    runa "Hmph, felizmente para você, não haverá punição por falhar nesta missão..."
 
 # game/scripts/ash_events.rpy:2663
 translate pt_br ash_twinbackcol_7e0d7779:
 
     # zoia "Fail!? I never fail! The blackmail worked!"
-    zoia ""
+    zoia "Falhar!? Eu nunca falho! A chantagem funcionou!"
 
 # game/scripts/ash_events.rpy:2664
 translate pt_br ash_twinbackcol_03483edc:
 
     # runa "It seems this human also has a say in the matter..."
-    runa ""
+    runa "Parece que este humano também tem uma palavra a dizer sobre o assunto..."
 
 # game/scripts/ash_events.rpy:2666
 translate pt_br ash_twinbackcol_450605df:
 
     # zoia "Screw this human!!" with ssshake
-    zoia "" with ssshake
+    zoia "O humano que se dane!!" with ssshake
 
 # game/scripts/ash_events.rpy:2671
 translate pt_br ash_twinbackcol_8a5f9073:
 
     # zoia "HYAAAH!!!" with sshake
-    zoia "" with sshake
+    zoia "HYAAAH!!!" with sshake
 
 # game/scripts/ash_events.rpy:2672
 translate pt_br ash_twinbackcol_f7eceb1f:
 
     # ms "Aaaagh!"
-    ms ""
+    ms "Aaaagh!"
 
 # game/scripts/ash_events.rpy:2674
 translate pt_br ash_twinbackcol_6cb309e1:
 
     # ms "What was that!?!?"
-    ms ""
+    ms "O que foi issp!?!?"
 
 # game/scripts/ash_events.rpy:2675
 translate pt_br ash_twinbackcol_98c200cd:
 
     # zoia "Hehehehehe...!"
-    zoia ""
+    zoia "Hehehehehe...!"
 
 # game/scripts/ash_events.rpy:2677
 translate pt_br ash_twinbackcol_ee3dd0e9:
 
     # ms "W-What!?"
-    ms ""
+    ms "O-O quê!?"
 
 # game/scripts/ash_events.rpy:2679
 translate pt_br ash_twinbackcol_edd814e4:
 
     # f "Ms. Burchette, are you okay?"
-    f ""
+    f "Sra. Burchette, você está bem?"
 
 # game/scripts/ash_events.rpy:2680
 translate pt_br ash_twinbackcol_6bf6729c:
 
     # em "What happened?"
-    em ""
+    em "O que aconteceu?"
 
 # game/scripts/ash_events.rpy:2681
 translate pt_br ash_twinbackcol_9cc5641c:
 
     # ms "I... I don't know... an odd breeze I suppose..."
-    ms ""
+    ms "Eu... Eu não sei... deve ter sido só uma briza estranha..."
 
 # game/scripts/ash_events.rpy:2683
 translate pt_br ash_twinbackcol_4f239ce3:
 
     # a "Hehe, it was no odd breeze. It was me, Ashley!"
-    a ""
+    a "Hehe, não foi nenhuma briza estranha. Fui eu, Ashley!"
 
 # game/scripts/ash_events.rpy:2684
 translate pt_br ash_twinbackcol_dc05290e:
 
     # ms "What!?"
-    ms ""
+    ms "O quê!?"
 
 # game/scripts/ash_events.rpy:2685
 translate pt_br ash_twinbackcol_119edf0f:
 
     # ms "Okay... such an odd attempt at a joke.... It won't get you anywhere..."
-    ms ""
+    ms "Tá bom... que tentativa estranha de piada... Não vai te levar a lugar nenhum..."
 
 # game/scripts/ash_events.rpy:2686
 translate pt_br ash_twinbackcol_5ff67f95:
 
     # a "It wasn't a joke... ever heard of a little thing called... magic?"
-    a ""
+    a "Isso não foi nenhuma piada... vocÊ nunca ouviu falar de uma coisa chamada... magia?"
 
 # game/scripts/ash_events.rpy:2687
 translate pt_br ash_twinbackcol_bb8d4f05:
 
     # ms "You didn't join one of those cults, did you...?"
-    ms ""
+    ms "Você não se juntou a um daqueles cultos, não foi...?"
 
 # game/scripts/ash_events.rpy:2689
 translate pt_br ash_twinbackcol_6e8082e4:
 
     # a "With only a {u}snap of my fingers{/u} I could knock you off your feet... but I'll be gentle with you... for now."
-    a ""
+    a "Com apenas um {u}estalo dos meus dedos{/u} eu poderia te derrubar... mas eu vou ser boazinha com você... por enquanto."
 
 # game/scripts/ash_events.rpy:2690
 translate pt_br ash_twinbackcol_548a5951:
 
     # zoia "{i}{size=-10}Heheheh! I like the way this girl thinks!{/i}{/size}"
-    zoia ""
+    zoia "{i}{size=-10}Heheheh! Eu gosto do jeito que essa menina pensa!{/size}"
 
 # game/scripts/ash_events.rpy:2691
 translate pt_br ash_twinbackcol_fef7637e:
 
     # ms "Excuse me...? Are you still going along with this joke...?"
-    ms ""
+    ms "Como assim...? Você ainda vai continuar com essa piada...?"
 
 # game/scripts/ash_events.rpy:2692
 translate pt_br ash_twinbackcol_a81870df:
 
     # a "Don't test me... you {u}will{/u} let them join your class again."
-    a ""
+    a "Não me provoque... você {u}vai{/i} deixar elas se juntarem a sua sala de aula novamente."
 
 # game/scripts/ash_events.rpy:2693
 translate pt_br ash_twinbackcol_f69f2d79:
 
     # ms "Young lady, do you want to be expelled as well?"
-    ms ""
+    ms "Jovenzinha, você também quer ser expulsa?"
 
 # game/scripts/ash_events.rpy:2694
 translate pt_br ash_twinbackcol_3198cb8e:
 
     # a "You asked for it..."
-    a ""
+    a "Foi você quem pediu..."
 
 # game/scripts/ash_events.rpy:2697
 translate pt_br ash_twinbackcol_374d0d66:
 
     # ms "..."
-    ms ""
+    ms "..."
 
 # game/scripts/ash_events.rpy:2698
 translate pt_br ash_twinbackcol_abe6d337:
 
     # ms "Is-"
-    ms ""
+    ms "É-"
 
 # game/scripts/ash_events.rpy:2700
 translate pt_br ash_twinbackcol_65a238de:
 
     # ms "AAAGH!" with ssshake
-    ms "" with ssshake
+    ms "AAAGH!" with ssshake
 
 # game/scripts/ash_events.rpy:2702
 translate pt_br ash_twinbackcol_34468d8d:
 
     # ms "Oh my god...! I need to get the Dean!"
-    ms ""
+    ms "/ai meu deus...! Eu preciso falar com o Diretor!"
 
 # game/scripts/ash_events.rpy:2704
 translate pt_br ash_twinbackcol_eabaa5bd:
 
     # ms "{i}{size=-10}Oh my god... magic is real...!? I need to go back to church...{/i}{/size}"
-    ms ""
+    ms "{i}{size=-10}Ai meu deus... Meu Deus... a magia é real...!? Eu preciso voltar para a igreja...{/i}{/size}"
 
 # game/scripts/ash_events.rpy:2705
 translate pt_br ash_twinbackcol_3f2d4ef9:
 
     # a "Finally! Thank you~~~"
-    a ""
+    a "Finalmente! Obrigadinha~~~"
 
 # game/scripts/ash_events.rpy:2706
 translate pt_br ash_twinbackcol_9ab9a218:
 
     # f "Ashley...?"
-    f ""
+    f "Ashley...?"
 
 # game/scripts/ash_events.rpy:2707
 translate pt_br ash_twinbackcol_254f71ac_1:
 
     # a "You're welcome..."
-    a ""
+    a "De nada..."
 
 # game/scripts/ash_events.rpy:2709
 translate pt_br ash_twinbackcol_5e8c81e6:
 
     # em "Ashley...!? Was that really you?"
-    em ""
+    em "Ashley...!? Era mesmo você que fez aquilo?"
 
 # game/scripts/ash_events.rpy:2710
 translate pt_br ash_twinbackcol_3c19a661:
 
     # a "Well, yeah... sorta... how do you think I blackmailed your father?"
-    a ""
+    a "Bem, sim... é mais ou menos...  como é que vocês acham que eu chantageei o pai de vocês?"
 
 # game/scripts/ash_events.rpy:2711
 translate pt_br ash_twinbackcol_284493d9:
 
     # f "You used... magic...?"
-    f ""
+    f "Você usou..magia..."
 
 # game/scripts/ash_events.rpy:2712
 translate pt_br ash_twinbackcol_24a21d60:
 
     # em "And you never used it on us?"
-    em ""
+    em "E você nunca usou isso em nós?"
 
 # game/scripts/ash_events.rpy:2713
 translate pt_br ash_twinbackcol_f175d456:
 
     # a "Well, it's not actually magic... it's-"
-    a ""
+    a "Bem, na verdade isso não é magia... isso é-"
 
 # game/scripts/ash_events.rpy:2715
 translate pt_br ash_twinbackcol_0dfa28d6:
 
     # zoia "Hey! I didn't just help you {i}twice{/i} just so you could expose us!"
-    zoia ""
+    zoia "Ei! Eu não te ajudei {i}duas vezes{/i} só para você nos expor!"
 
 # game/scripts/ash_events.rpy:2716
 translate pt_br ash_twinbackcol_b6d54926:
 
     # zoia "We have a good mutual relationship, don't fuck this up!"
-    zoia ""
+    zoia "Nós temos um bom relacionamento mútua, não estrague tudo!"
 
 # game/scripts/ash_events.rpy:2717
 translate pt_br ash_twinbackcol_9ab9a218_1:
 
     # f "Ashley...?"
-    f ""
+    f "Ashley...?"
 
 # game/scripts/ash_events.rpy:2719
 translate pt_br ash_twinbackcol_da212816:
 
     # a "It's actually {i}elf{/i} magic!"
-    a ""
+    a "Na verdade isso é magia de elfo!"
 
 # game/scripts/ash_events.rpy:2720
 translate pt_br ash_twinbackcol_2e57df23:
 
     # a "...Dark elvish ancestry, y'know?"
-    a ""
+    a "...ancestralidade élfica negra, sabe?"
 
 # game/scripts/ash_events.rpy:2722
 translate pt_br ash_twinbackcol_bfe2d412:
 
     # f "Elf magic...?"
-    f ""
+    f "Magia de elfo...?"
 
 # game/scripts/ash_events.rpy:2723
 translate pt_br ash_twinbackcol_3884cf34:
 
     # em "A-Are you serious...? I heard on the news that they might be able to do mystical things..."
-    em ""
+    em "V-Você está falando sério...? Eu ouvi no jornal que eles são capazes de fazer coisas místicas..."
 
 # game/scripts/ash_events.rpy:2724
 translate pt_br ash_twinbackcol_281658d2:
 
     # a "Yep! That's exactly it, they were right all along!"
-    a ""
+    a "Isso! É isso mesmo, eles estavam corretos sobre isso!"
 
 # game/scripts/ash_events.rpy:2725
 translate pt_br ash_twinbackcol_3067e3d6:
 
     # f "Did you know about this, [name]!?"
-    f ""
+    f "Você estava sabendo disso, [name]!?"
 
 # game/scripts/ash_events.rpy:2728
 translate pt_br ash_twinbackcol_4baa1f68:
 
     # em "No way..."
-    em ""
+    em "De jeito nenhum..."
 
 # game/scripts/ash_events.rpy:2730
 translate pt_br ash_twinbackcol_60cd3b8b:
 
     # f "I can hardly believe my own eyes..."
-    f ""
+    f "Eu mal estou conseguindo acreditar no que estou vendo..."
 
 # game/scripts/ash_events.rpy:2732
 translate pt_br ash_twinbackcol_76ad3e49:
 
     # f "Can you... do that on me?"
-    f ""
+    f "Você pode... fazer isso em mim?"
 
 # game/scripts/ash_events.rpy:2733
 translate pt_br ash_twinbackcol_2c305890:
 
     # em "What if she explodes your head!?"
-    em ""
+    em "E se ela explodir a sua cabeça!?"
 
 # game/scripts/ash_events.rpy:2734
 translate pt_br ash_twinbackcol_295aa73a:
 
     # f "You won't right, Ash?"
-    f ""
+    f "Você não vai, certo, Ash?"
 
 # game/scripts/ash_events.rpy:2735
 translate pt_br ash_twinbackcol_79642b8b:
 
     # a "Of course not! Just a light breeze..."
-    a ""
+    a "É claro que não! Apenas uma brisa leve..."
 
 # game/scripts/ash_events.rpy:2737
 translate pt_br ash_twinbackcol_96740f95:
 
     # a "{u}With a snap of my fingers{/u}, I'll blow your hair back."
-    a ""
+    a "{u}Com um estalar de dedos{/u}, Vou deixar você de cabelo em pé."
 
 # game/scripts/ash_events.rpy:2738
 translate pt_br ash_twinbackcol_b3167677:
 
     # f "O-Okay... go ahead..."
-    f ""
+    f "T-Tudo bem... vá em frente..."
 
 # game/scripts/ash_events.rpy:2741
 translate pt_br ash_twinbackcol_5087881b:
 
     # f "Ah! Wow...!" with ssshake
-    f "" with ssshake
+    f "Ah! Uau...!" with ssshake
 
 # game/scripts/ash_events.rpy:2743
 translate pt_br ash_twinbackcol_fdbeefdd:
 
     # f "I- I can't believe it... that was real!"
-    f ""
+    f "E-Eu... eu não consigo acreditar... isso foi real!"
 
 # game/scripts/ash_events.rpy:2744
 translate pt_br ash_twinbackcol_cb3e26e0:
 
     # a "Hehe, yup!"
-    a ""
+    a "Hehe, foi mesmo!"
 
 # game/scripts/ash_events.rpy:2745
 translate pt_br ash_twinbackcol_131c0773:
 
     # em "Do you feel any tingling? Anything at all?"
-    em ""
+    em "Você não está sentindo nenhum formigamento? Nada mesmo?"
 
 # game/scripts/ash_events.rpy:2746
 translate pt_br ash_twinbackcol_3b15c294:
 
     # f "No, I'm fine! This is awesome, Ashley! We can do like, whatever we want!"
-    f ""
+    f "Não, eu estou bem! Isso é incrível, Ashley! Podemos fazer o que quisermos!"
 
 # game/scripts/ash_events.rpy:2747
 translate pt_br ash_twinbackcol_a8d7ac8e:
 
     # a "Hehe, yup, I guess so!"
-    a ""
+    a "Hehe, verdade, acho que sim!"
 
 # game/scripts/ash_events.rpy:2749
 translate pt_br ash_twinbackcol_4bdb4280:
 
     # runa "Great, you're a pet now..."
-    runa ""
+    runa "Boa, agora você é um bichinho de estimação..."
 
 # game/scripts/ash_events.rpy:2750
 translate pt_br ash_twinbackcol_db860ac2:
 
     # zoia "Wha-! I am {u}not{/u} a pet!"
-    zoia ""
+    zoia "O qu-! Eu {u}não{/u} sou um bichinho de estimação!"
 
 # game/scripts/ash_events.rpy:2751
 translate pt_br ash_twinbackcol_a2f659bc:
