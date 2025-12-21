@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-12-11 13:31
+# TODO: Translation updated at 2022-12-11 13:31
 
 # game/scripts/ash_events.rpy:26
 translate pt_br ash_fe_repeatable_298b7646:
@@ -10918,7 +10918,7 @@ translate pt_br ash_twincol_bb2cdb33:
 translate pt_br ash_twincol_80e296b9:
 
     # zoia "C'mon! You want to help your friends don't you? Ask her if she think it will work!"
-    zoia "Bora lá! Você não quer ajudar as suas amgas? Pergunta para ela se elas acham que isso pode funcionar!"
+    zoia "Bora lá! Você não quer ajudar as suas amigas? Pergunta para ela se elas acham que isso pode funcionar!"
 
 # game/scripts/ash_events.rpy:2868
 translate pt_br ash_twincol_28367b85:
@@ -10960,247 +10960,247 @@ translate pt_br ash_twincol_d7db8976:
 translate pt_br ash_twincol_6834bdf6:
 
     # zoia "Ooo, that's spicy! I can work with that..."
-    zoia "Uuh, Isso é picante! Acho que consig trabalhar com isso..."
+    zoia "Uuh, Isso é picante! Acho que consigo trabalhar com isso..."
 
 # game/scripts/ash_events.rpy:2876
 translate pt_br ash_twincol_173c0f57:
 
     # f "It was just a prank! And I'm sure he deleted them by now anyway..."
-    f ""
+    f "Foi só uma brincadeira! E eu tenho certeza que ele já as deletou de qualquer forma..."
 
 # game/scripts/ash_events.rpy:2878
 translate pt_br ash_twincol_e1021327:
 
     # a "Right... stupid idea..."
-    a ""
+    a "Beleza... foi uma ideia estúpida..."
 
 # game/scripts/ash_events.rpy:2879
 translate pt_br ash_twincol_417c74fb:
 
     # f "Well... honestly he has been known to... fornicate. Daddy used to be a 'player', I guess... he could never keep it in his pants."
-    f ""
+    f "Bem... na verdade ele é conhecido por... ser muito ativo sexualmente. O papai costumava ser um 'pegador' eu acho..."
 
 # game/scripts/ash_events.rpy:2880
 translate pt_br ash_twincol_ec3e0ef7:
 
     # zoia "Yes! That's it! Come ooooooon Ashley, let's do this!"
-    zoia ""
+    zoia "Sim! É isso mesmo! Vamos lááááááá, Ashley, vamos fazer isso!"
 
 # game/scripts/ash_events.rpy:2881
 translate pt_br ash_twincol_5502b7be:
 
     # a "Do you really think we could blackmail him? I would honestly love to have you two back at school with me..."
-    a ""
+    a "Voxês realmente acham que nós poderiamos chantageá-lo? Eu adoraria ter vocês duas de volta na escola comigo..."
 
 # game/scripts/ash_events.rpy:2882
 translate pt_br ash_twincol_c9d164ca:
 
     # f "Really?"
-    f ""
+    f "Verdade?"
 
 # game/scripts/ash_events.rpy:2884
 translate pt_br ash_twincol_776cf68a:
 
     # em "You're being serious?"
-    em ""
+    em "Você está falando sério?"
 
 # game/scripts/ash_events.rpy:2885
 translate pt_br ash_twincol_99b8cd4a:
 
     # a "Sure... It would be nice to have you two around, we could help each other..."
-    a ""
+    a "Claro... Seria bom ter vocês duas por perto, nós poderíamos nos ajudar..."
 
 # game/scripts/ash_events.rpy:2886
 translate pt_br ash_twincol_f5943020:
 
     # f "Well... I know Daddy cares about his reputation... it's the reason he disowned us after all..."
-    f ""
+    f "Bem... Eu sei que o papai se importa com a reputação dele... é por isso que ele nos deserdou, afinal..."
 
 # game/scripts/ash_events.rpy:2887
 translate pt_br ash_twincol_b6f2c510:
 
     # em "It could work... but are we seriously thinking of blackmailing our own father?"
-    em ""
+    em "Isso até que poderia funcionar... mas nós estamos realmente pensando em chantagear o nosso próprio pai?"
 
 # game/scripts/ash_events.rpy:2888
 translate pt_br ash_twincol_68525752:
 
     # f "Fuck him! He may be ours by blood, but he's nothing else to me... our butlers took better care of us..."
-    f ""
+    f "Ele que vá se foder! Ele pode ser nosso parente de sangue, mas para mim não é mais do que isso... os nossos mordomos cuidavam melho da gente do que ele..."
 
 # game/scripts/ash_events.rpy:2890
 translate pt_br ash_twincol_deb694fb:
 
     # cia "Ashley...! Must you consider blackmail...?"
-    cia ""
+    cia "Ashley...! Você realmente está considerando chantagear alguém...?"
 
 # game/scripts/ash_events.rpy:2891
 translate pt_br ash_twincol_bfe9443f:
 
     # zoia "What!? Fuck off, sis! Did you steal Runa's crown? Ashley is mine!"
-    zoia ""
+    zoia "O quê!? Vai se forder, mana! Você roubou a coroa da Runa? A Ashley é minha!"
 
 # game/scripts/ash_events.rpy:2892
 translate pt_br ash_twincol_4c2603c9:
 
     # em "Does anyone else feel a breeze...?"
-    em ""
+    em "Mais alguém sentiu uma bisa...?"
 
 # game/scripts/ash_events.rpy:2893
 translate pt_br ash_twincol_2e57e625:
 
     # zoia "Ashley! Get me an address! Quick!"
-    zoia ""
+    zoia "Ashley! Me dê um endereço! Rápido!"
 
 # game/scripts/ash_events.rpy:2894
 translate pt_br ash_twincol_370b845a:
 
     # cia "Ashley! These are two people in their most intimate moments...! How would you feel if someone did this to you?"
-    cia ""
+    cia "Ashley! São duas pessoas nos seus momentos mais íntimos...! Como você se sentiria se alguém fizesse isso com você?"
 
 # game/scripts/ash_events.rpy:2895
 translate pt_br ash_twincol_110efa1c:
 
     # zoia "Fuck that, get revenge! He deserves it!"
-    zoia ""
+    zoia "Que se foda, se vingue! Ele merece isso!"
 
 # game/scripts/ash_events.rpy:2896
 translate pt_br ash_twincol_e084143a:
 
     # cia "Ashley!"
-    cia ""
+    cia "Ashley!"
 
 # game/scripts/ash_events.rpy:2897
 translate pt_br ash_twincol_99f81151:
 
     # a "{i}{size=-10}Shut up...! Shut up...!{/i}{/size}"
-    a ""
+    a "{i}{size=-10}Cala a boca...! Cala a boca...!{/i}{/size}"
 
 # game/scripts/ash_events.rpy:2898
 translate pt_br ash_twincol_78c4070a:
 
     # em "Huh?"
-    em ""
+    em "Hein?"
 
 # game/scripts/ash_events.rpy:2899
 translate pt_br ash_twincol_ab079e38:
 
     # f "Woah, when did you become a schizo? Haha..."
-    f ""
+    f "Uau, quano foi que você se tornou esquizofrênica? Haha.."
 
 # game/scripts/ash_events.rpy:2900
 translate pt_br ash_twincol_607c8a97:
 
     # f "...You okay, Ash?"
-    f ""
+    f "...Você está bem, Ash?"
 
 # game/scripts/ash_events.rpy:2902
 translate pt_br ash_twincol_668b95ef:
 
     # a "I said shut up! ...Let's do it already!"
-    a ""
+    a "Eu quis dizer, não precisam falar mais nada! ...Vamos fazer isso logo!"
 
 # game/scripts/ash_events.rpy:2903
 translate pt_br ash_twincol_45af2b01:
 
     # a "You don't want to end up as potato farmer, do you!? Of course not! You have dreams you need to realize!"
-    a ""
+    a "Vocês não querem acabar como agricultoras de batatas, querem!? Claro que não! Vocês têm sonhos que precisam realizar!"
 
 # game/scripts/ash_events.rpy:2904
 translate pt_br ash_twincol_d0559a63:
 
     # zoia "Fuck yes!"
-    zoia ""
+    zoia "Aê, porra!"
 
 # game/scripts/ash_events.rpy:2905
 translate pt_br ash_twincol_553d69ac:
 
     # cia "Ashley, no...!"
-    cia ""
+    cia "Ashley, não...!"
 
 # game/scripts/ash_events.rpy:2907
 translate pt_br ash_twincol_94413467:
 
     # f "Yeah! Fuck it, we can't sit here doing nothing until we're homeless! Right Emma?"
-    f ""
+    f "Isso! Vai se foder, a gente não pode sentar aqui e não fazer nada até ficarmos sem um lugar para morar! Não é, Ema?"
 
 # game/scripts/ash_events.rpy:2908
 translate pt_br ash_twincol_f43e0e43:
 
     # em "R... Right..."
-    em ""
+    em "É... É mesmo..."
 
 # game/scripts/ash_events.rpy:2910
 translate pt_br ash_twincol_8d45e7c1:
 
     # f "Well... it's a nice thought anyway... I don't see how any of us could get anywhere near him..."
-    f ""
+    f "Bem... é uma boa ideia, de qualquer forma... Eu não vejo como alguma de nós poderia chegar perto dele..."
 
 # game/scripts/ash_events.rpy:2911
 translate pt_br ash_twincol_9e73f5d2:
 
     # em "Do you think he keeps the key to his house in the same place?"
-    em ""
+    em "você acha que ele ainda guarda a chave da casa dele no mesmo lugar?"
 
 # game/scripts/ash_events.rpy:2912
 translate pt_br ash_twincol_b0392505:
 
     # f "No..."
-    f ""
+    f "Não..."
 
 # game/scripts/ash_events.rpy:2914
 translate pt_br ash_twincol_df13965b:
 
     # a "Leave it to me."
-    a ""
+    a "Podem deixar isso comigo."
 
 # game/scripts/ash_events.rpy:2915
 translate pt_br ash_twincol_7b51c694:
 
     # f "What are you gonna do...? Fuck him?"
-    f ""
+    f "O que é que você vai fazer...? Foder ele?"
 
 # game/scripts/ash_events.rpy:2916
 translate pt_br ash_twincol_5d3c9e08:
 
     # a "I've got a trick up my sleeve..."
-    a ""
+    a "Eu tenho um trunfo na manga..."
 
 # game/scripts/ash_events.rpy:2917
 translate pt_br ash_twincol_98c200cd:
 
     # zoia "Hehehehehe...!"
-    zoia ""
+    zoia "Hehehehehe...!"
 
 # game/scripts/ash_events.rpy:2919
 translate pt_br ash_twincol_b8454ae9:
 
     # c "I guess I'll see where this goes..."
-    c ""
+    c "Acho que vou ver no que isso vai dar..."
 
 # game/scripts/ash_events.rpy:2930
 translate pt_br ash_lustfinal_79125fad:
 
     # a "Hehehehe~!"
-    a ""
+    a "Hehehehe~!"
 
 # game/scripts/ash_events.rpy:2931
 translate pt_br ash_lustfinal_13704b28:
 
     # a "You're awake!"
-    a ""
+    a "Você está acordado!"
 
 # game/scripts/ash_events.rpy:2932
 translate pt_br ash_lustfinal_28183548:
 
     # c "A-Ashley...?"
-    c ""
+    c "A-Ashley...?"
 
 # game/scripts/ash_events.rpy:2934
 translate pt_br ash_lustfinal_685fb6dc:
 
     # c "Nnngh..." with ssshake
-    c "" with ssshake
+    c "Nnngh..." with ssshake
 
 # game/scripts/ash_events.rpy:2936
 translate pt_br ash_lustfinal_4efcffc9:
@@ -11212,133 +11212,132 @@ translate pt_br ash_lustfinal_4efcffc9:
 translate pt_br ash_lustfinal_ee7aa5b5:
 
     # a "Do you know how CRUEL it is to tease me over, and over, and over, and over again...? I can't stop leaking...! Everywhere I go I leave a puddle... It's all because of you!"
-    a ""
-
+    a "Você sabe o quão CRUEL é me provocar várias e várias vezes...? Eu não consigo parar de vazar...! Onde quer que eu vá eu deixo uma poça... E isso tudo é por sua causa!"
 # game/scripts/ash_events.rpy:2941
 translate pt_br ash_lustfinal_a9367c7b:
 
     # a "Now I have you... your cock is mine!"
-    a ""
+    a "Agora que eu tenho você... o seu pau é meu!"
 
 # game/scripts/ash_events.rpy:2943
 translate pt_br ash_lustfinal_8db868f4:
 
     # a "Nnnngh... It's barely in, but it already feels sooo good...! Mmmh!"
-    a ""
+    a "Nnnngh... Mal entrou, mas já é tão bom...! Mmmh!"
 
 # game/scripts/ash_events.rpy:2945
 translate pt_br ash_lustfinal_306bd6ba:
 
     # a "HNNNNGGHH~~~! Aaahhh~!" with ssshake
-    a "" with ssshake
+    a "HNNNNGGHH~~~! Aaahhh~!" with ssshake
 
 # game/scripts/ash_events.rpy:2947
 translate pt_br ash_lustfinal_a9877bd4:
 
     # a "I came a little~..."
-    a ""
+    a "Eu gozei um pouquinho~..."
 
 # game/scripts/ash_events.rpy:2949
 translate pt_br ash_lustfinal_f4facb5b:
 
     # a "Aaaah~! MMMH! You feel... so... good! Nnnngh! And you're all mine! All mine! I'll fuck you until I'm completely satisfied!"
-    a ""
+    a "Aaaah~! MMMH! Você é... tão... gostoso!  Nnnngh! E você é todo meu! Todo meu! Eu vou te foder até eu ficar completamente satisfeita!" 
 
 # game/scripts/ash_events.rpy:2950
 translate pt_br ash_lustfinal_c14066d1:
 
     # a "Aahhh! Hahhh! Do you like how wet I am...? Aaah! My soaking pussy is so happyyy~! Nnh! Just for you...! Aaah!"
-    a ""
+    a "Aahhh! Hahhh! Você gost do quanto eu estou molhada...? Aaah! A minha boceta molhada está tão feliiiz~ Nnh! E é só por você...! Aaah!"
 
 # game/scripts/ash_events.rpy:2951
 translate pt_br ash_lustfinal_4ca8d532:
 
     # a "Nnnh! I'm such a slut for your cock, [name]! Ahhh! I need you inside forever! It feels so good! AAAH!"
-    a ""
+    a "Nnnh! Eu sou tão vadia pelo seu pau, [name]! Ahhh! Eu preciso que você fique dentro de mim para sempre! É tão gostoso! AAAH!"
 
 # game/scripts/ash_events.rpy:2954
 translate pt_br ash_lustfinal_036d57c9:
 
     # a "Ahh~! AAAAH! HAAHH! Are you getting close? Are you gonna cum inside me? MMMMH! I want your slimy goo to fill me up! Aah!"
-    a ""
+    a "Ahh~! AAAAH! HAAHH! Você está chegando perto? Você vai gozar dentro de mim? MMMMH! Eu quero que a sua gosma viscosa me preencha toda! Aah!"
 
 # game/scripts/ash_events.rpy:2955
 translate pt_br ash_lustfinal_1001fa9e:
 
     # a "AAAH! I won't be able to take it anymore if you explode inside, I'll cum! AAAH! HAAAH! I need it! I need it!"
-    a ""
+    a "AAAH! Eu não vou conseguir aguentar mais se você explodir dentro de mim, eu vou gozar! AAAH! HAAAH! Eu preciso disso! Eu preciso disso!"
 
 # game/scripts/ash_events.rpy:2956
 translate pt_br ash_lustfinal_fd84a6e1:
 
     # a "AAAH! HAAAH! [name]! You're gonna make cum...! YES! YES! I'm gonna cum!"
-    a ""
+    a "AAAH! HAAAH! [name]! Você vai me fazer gozar...! ISSO! ISSO! Eu vou gozar!"
 
 # game/scripts/ash_events.rpy:2957
 translate pt_br ash_lustfinal_615bc6ff:
 
     # a "Give me your cock...! AAAH! I'm so close...! I'm so close!! AAAAH!"
-    a ""
+    a "Me dá p seu pau...! AAAH! Eu estou tão perto...! Tão perto!! AAAAH!"
 
 # game/scripts/ash_events.rpy:2959
 translate pt_br ash_lustfinal_2f28a6e3:
 
     # a "AAAAAAAH!!!" with ssshake
-    a "" with ssshake
+    a "AAAAAAAH!!!" with ssshake
 
 # game/scripts/ash_events.rpy:2960
 translate pt_br ash_lustfinal_39522c3b:
 
     # a "YESS! FILL ME UP!!! HNNNNNNNNNNNNNNNNNN!!" with ssshake
-    a "" with ssshake
+    a "ISSOO! ME PREENCHA TODA!!! HNNNNNNNNNNNNNNNNNN!!" with ssshake
 
 # game/scripts/ash_events.rpy:2961
 translate pt_br ash_lustfinal_a23d89dd:
 
     # a "Don't stop! Fill my womb up with your delicious cum!!" with ssshake
-    a "" with ssshake
+    a "Não para! Preencha o meu ventre com  seu gozo delicioso!!" with ssshake
 
 # game/scripts/ash_events.rpy:2963
 translate pt_br ash_lustfinal_8d63b829:
 
     # a "Nnnh! Ahhh... hahhh..." with ssshake
-    a "" with ssshake
+    a "Nnnh! Ahhh... hahhh..." with ssshake
 
 # game/scripts/ash_events.rpy:2965
 translate pt_br ash_lustfinal_d7f70df1:
 
     # a "Nnnnnnn~ That was amazing... my pussy is sooo happy..."
-    a ""
+    a "Nnnnnnn~ Isso foi incrível... a minha boceta está tããão feliz..."
 
 # game/scripts/ash_events.rpy:2966
 translate pt_br ash_lustfinal_2a81739a:
 
     # a "Hahhh... good night~"
-    a ""
+    a "Hahhh... boa noite~"
 
 # game/scripts/ash_events.rpy:2974
 translate pt_br ash_lustfinal_0316520a:
 
     # "Ashley's lust has been sated."
-    ""
+    "A luxúria de Ashley foi saciada."
 
 # game/scripts/ash_events.rpy:2983
 translate pt_br ash_lustlin_4d83d65e:
 
     # a "Hey Lin..."
-    a ""
+    a "Ei Lin..."
 
 # game/scripts/ash_events.rpy:2984
 translate pt_br ash_lustlin_0fae8214:
 
     # l "Oh... Hi Ashley... and [linoname]."
-    l ""
+    l "Ah... Oi Ashley... e [linoname]."
 
 # game/scripts/ash_events.rpy:2985
 translate pt_br ash_lustlin_cab5be98:
 
     # a "[linoname] wants me to make you cum. He's been teasing me and it's the only way he'll let me cum..."
-    a ""
+    a "[linoname] quer que eu faça você gozar. Ele tem me provocado e essa é a única maneira que ele vai me deixar gozar..."
 
 # game/scripts/ash_events.rpy:2986
 translate pt_br ash_lustlin_f9b25587:
