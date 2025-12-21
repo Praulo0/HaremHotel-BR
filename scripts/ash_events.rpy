@@ -11206,7 +11206,7 @@ translate pt_br ash_lustfinal_685fb6dc:
 translate pt_br ash_lustfinal_4efcffc9:
 
     # a "No getting away this time, love..."
-    a ""
+    a "Você não vai escapar dessa vez, amor..."
 
 # game/scripts/ash_events.rpy:2938
 translate pt_br ash_lustfinal_ee7aa5b5:
@@ -11343,37 +11343,37 @@ translate pt_br ash_lustlin_cab5be98:
 translate pt_br ash_lustlin_f9b25587:
 
     # a "I'm really bad at flirting with girls, so... just spread your legs like a good slut."
-    a ""
+    a "Eu sou muito ruim em flertar com garotas, então... só abra as pernas como uma vadia boazinha."
 
 # game/scripts/ash_events.rpy:2988
 translate pt_br ash_lustlin_9e556374:
 
     # l "O-Oh, well... I would prefer [linoname] too, but... if it's really something he wants..."
-    l ""
+    l "A-Ah, bem... Eu também preferiria o [linoname], mas... se isso realmente for o que ele quer..."
 
 # game/scripts/ash_events.rpy:2989
 translate pt_br ash_lustlin_d059b7b5:
 
     # c "Get on the bed, Lin."
-    c ""
+    c "Suba na cama, Lin."
 
 # game/scripts/ash_events.rpy:2990
 translate pt_br ash_lustlin_c6c955e3:
 
     # l "Okay..."
-    l ""
+    l "Tudo bem..."
 
 # game/scripts/ash_events.rpy:2992
 translate pt_br ash_lustlin_6b0f6d3e:
 
     # l "Heheh... watching [linoname]?"
-    l ""
+    l "Heheh... você está assistindo, [linoname]?"
 
 # game/scripts/ash_events.rpy:2993
 translate pt_br ash_lustlin_d88882a7:
 
     # l "Don't be shy, Ashley. Just stuff your face in my ass!"
-    l ""
+    l "Não precisa ficar com vergonha, Ashley. É só você enfiar a sua cara na minha bunda!"
 
 # game/scripts/ash_events.rpy:2994
 translate pt_br ash_lustlin_72c108e3:
@@ -11385,313 +11385,313 @@ translate pt_br ash_lustlin_72c108e3:
 translate pt_br ash_lustlin_d4be33a7:
 
     # a "Lllmmn..."
-    a ""
+    a "Lllmmn..."
 
 # game/scripts/ash_events.rpy:2997
 translate pt_br ash_lustlin_b1e45a24:
 
     # l "Ahh... Mmmm... Not bad, Ash..."
-    l ""
+    l "Ahh... Mmmm... Nada mal, Ash..."
 
 # game/scripts/ash_events.rpy:2998
 translate pt_br ash_lustlin_72912013:
 
     # a "Ahhlmn... Mmmln... I'm only doing this so I can cum later... Llmn..."
-    a ""
+    a "Ahhlmn... Mmmln... Eu só estou fazendo isso para eu poder gozar depois... Llmn..."
 
 # game/scripts/ash_events.rpy:3001
 translate pt_br ash_lustlin_bfcd565d:
 
     # a "Mmmmnn! Ah~ finally...! Hahhh!"
-    a ""
+    a "Mmmmnn! Ah~ finalmene...! Hahhh!"
 
 # game/scripts/ash_events.rpy:3002
 translate pt_br ash_lustlin_e289eb55:
 
     # a "Ahhh... Allmn... You taste like honeydew... Mmmph..."
-    a ""
+    a "Ahhh... Allmn... Você tem gosto de melão... Mmmph..."
 
 # game/scripts/ash_events.rpy:3003
 translate pt_br ash_lustlin_d176d8e9:
 
     # l "Hey, don't slow down."
-    l ""
+    l "Ei, não desacelere agora."
 
 # game/scripts/ash_events.rpy:3004
 translate pt_br ash_lustlin_4c2df3d3:
 
     # a "Mmmmph! You're right, Lllmmn! Sorry. Mmmph...!"
-    a ""
+    a "Mmmmph! Você está certa, Lllmmn! Desculpa. Mmmph...!"
 
 # game/scripts/ash_events.rpy:3009
 translate pt_br ash_lustlin_7acc2e75:
 
     # a "Aaaahhh~ Mmmmnnnph...! That feels good, [name]... Hahh...! Lllmmnn..." with ssshake
-    a "" with ssshake
+    a "Aaaahhh~ Mmmmnnnph...! Isso é gostoso, [name]... Hahh... Lllmmnn..." with ssshake
 
 # game/scripts/ash_events.rpy:3010
 translate pt_br ash_lustlin_aaab2bea:
 
     # l "Ahhh... Nnnnh... I'm getting wet... Mmmmh! Ashley...! Ahhh..."
-    l ""
+    l "Ahhh... Nnnnh... Eu estou ficando molhada.... Mmmmh! Ashley...! Ahhh..."
 
 # game/scripts/ash_events.rpy:3013
 translate pt_br ash_lustlin_01d950e5:
 
     # c "Good girl, keep it up."
-    c ""
+    c "Boa garota, continue assim."
 
 # game/scripts/ash_events.rpy:3014
 translate pt_br ash_lustlin_7d702615:
 
     # a "Llmmmn! Ahhh! Yes, [name]! Nnnm! Mmmpph!"
-    a ""
+    a "Llmmmn! Ahhh! Sim, [name]! Nnnm! Mmmpph!"
 
 # game/scripts/ash_events.rpy:3015
 translate pt_br ash_lustlin_df386893:
 
     # l "Ahhh...! Hahhh! Thank you [linoname], I've really needed this. Mmmh...!"
-    l ""
+    l "Ahhh...! Hahhh! Obrigada [linoname], eu realmente estava precisando disso. Mmmh...!"
 
 # game/scripts/ash_events.rpy:3018
 translate pt_br ash_lustlin_15acff5f:
 
     # l "Ahhhh...! Nnngh...! Yes, Ashley! Ahhh!"
-    l ""
+    l "Ahhhh....! Nnngh...! Isso, Ashley! Ahhh!"
 
 # game/scripts/ash_events.rpy:3019
 translate pt_br ash_lustlin_e09dff2c:
 
     # a "Nnnmph! Gonna cum? Squirt all over my face, Lin, I need you to...! Mmmph!"
-    a ""
+    a "Nnnmph! Já vai gozar? Pode jorrar tudo na minha cara, Lin, eu precis que você...! Mmmph!"
 
 # game/scripts/ash_events.rpy:3020
 translate pt_br ash_lustlin_3d12b2e4:
 
     # l "Nnnh! Mmmmmmmmmmmmmhh...! Lick my clit, hahhh...! Yes, like that...! Mmmh!"
-    l ""
+    l "Nnnh! Mmmmmmmmmmmmmhh...! Lamba o meu clitóris, hahhh...! Isso, assim mesmo...! Mmmh!"
 
 # game/scripts/ash_events.rpy:3021
 translate pt_br ash_lustlin_65f49022:
 
     # a "Lllmnnh! Mmmphhh...!"
-    a ""
+    a "Lllmnnh! Mmmphhh...!"
 
 # game/scripts/ash_events.rpy:3024
 translate pt_br ash_lustlin_c6ccb4d6:
 
     # a "Aaaaahh~!!"
-    a ""
+    a "Aaaaahh~!!"
 
 # game/scripts/ash_events.rpy:3025
 translate pt_br ash_lustlin_d9a7588f:
 
     # a "Fuck, fuck! Hahhh!! Lllmmnph! It feels so good, [name]! Llllnnn!!"
-    a ""
+    a "Porra, porra! Hahhh!! Lllmmnph! Isso é tão gostoso, [name]! Llllnnn!"
 
 # game/scripts/ash_events.rpy:3026
 translate pt_br ash_lustlin_c802e3e4:
 
     # l "Ohhh! Hohhh! Hahhh! NNNNN...! Don't stop...!"
-    l ""
+    l "Ohhh! Hohhh! Hahhh! NNNNN...! Não pare...!"
 
 # game/scripts/ash_events.rpy:3027
 translate pt_br ash_lustlin_044f8253:
 
     # a "Lllmn... Please give me your cock, [name]...! Mmmph! I wanna cum on your cock...!"
-    a ""
+    a "Lllnm... Por favor, me dê o seu pau, [name]...! Mmmph! Eu quero gozar no seu pau...!"
 
 # game/scripts/ash_events.rpy:3028
 translate pt_br ash_lustlin_4261526b:
 
     # l "Hahh...! Hnnngh! Yes, yes!"
-    l ""
+    l "Hahh...! Hnnngh! Isso, isso!"
 
 # game/scripts/ash_events.rpy:3029
 translate pt_br ash_lustlin_cc790b24:
 
     # c "Stop licking her pussy, I want you two to scissor."
-    c ""
+    c "Pare de lamber a boceta dela, eu quero que vocês duas façam uma tesoura."
 
 # game/scripts/ash_events.rpy:3030
 translate pt_br ash_lustlin_29bbe2cb:
 
     # a "Mmmph... okay...!"
-    a ""
+    a "Mmmph... tá bom...!"
 
 # game/scripts/ash_events.rpy:3033
 translate pt_br ash_lustlin_d5aa9f3d:
 
     # l "Aahhh...! Ashley, you're so wet! Do you find me cute~?"
-    l ""
+    l "Aahhh...! Ashley, você está tão molhada! Será que você me acha fofa~?"
 
 # game/scripts/ash_events.rpy:3034
 translate pt_br ash_lustlin_e7700616:
 
     # a "I-It's not because of you! Nnnh, I'm just so hornyyyyy~"
-    a ""
+    a "I-Isso não é por sua causa! Nnnh, eu só estou tão excitadaaa~"
 
 # game/scripts/ash_events.rpy:3037
 translate pt_br ash_lustlin_b5cfb8b0:
 
     # l "Hahhh! Hnnng! I can feel your vibe, heheh! Ahhhh! It's so good! Mmmmh!"
-    l ""
+    l "Hahhh! Hnnng! Eu consigo sentir a sua animação, heheh! Ahhhh! É tão bom! Mmmmh!"
 
 # game/scripts/ash_events.rpy:3038
 translate pt_br ash_lustlin_47f4f738:
 
     # a "Aaahhh...! Aaah! Nnnngh, this feels so wrong...! Mmmh...!"
-    a ""
+    a "Aaahhh...! Aaah! Nnnngh, isso parece tão errado...! Mmmh...!"
 
 # game/scripts/ash_events.rpy:3039
 translate pt_br ash_lustlin_9caecc61:
 
     # l "Aaah! It's okay, Ash! Nnnngh, It feels good, right? AAAH!"
-    l ""
+    l "Aaah! Está tudo bem, Ash! Nnnngh, isso é gostoso, não é? AAAH!"
 
 # game/scripts/ash_events.rpy:3040
 translate pt_br ash_lustlin_4ea09658:
 
     # a "Nnnngh... D-Don't stop, Lin...! Aaah!"
-    a ""
+    a "Nnnngh... N-Não pare, Lin...! Aaah!"
 
 # game/scripts/ash_events.rpy:3043
 translate pt_br ash_lustlin_1179e859:
 
     # l "MMMM! Fffffuuh... Hahhhh! HNNGH"
-    l ""
+    l "MMMM! Fffffuuh... Hahhhh! HNNGH"
 
 # game/scripts/ash_events.rpy:3044
 translate pt_br ash_lustlin_9d0b524e:
 
     # a "Are you getting close, Lin? NNNH! Please say you're getting close...! Hahhh!"
-    a ""
+    a "Você está chegando perto, Lin? NNNH! Por favor, diga que você está chegando perto...! Hahhh!"
 
 # game/scripts/ash_events.rpy:3045
 translate pt_br ash_lustlin_3271c22f:
 
     # l "Yes, NNNGH! I am! I'm close, don't stop Ash! Aaaahhh~! AAAH! AAAAH!"
-    l ""
+    l "Sim, NNNGH! Eu estou! Estou chegando perto, não pare, Ash! Aaaahhh~! AAAH! AAAAH!""
 
 # game/scripts/ash_events.rpy:3046
 translate pt_br ash_lustlin_fd02855c:
 
     # a "Yes, yes! Cum! Aaaah~!"
-    a ""
+    a "Isso, isso! Goze! Aaaah~!"
 
 # game/scripts/ash_events.rpy:3048
 translate pt_br ash_lustlin_bb3bf297:
 
     # l "AAAHH!" with sshake
-    l "" with sshake
+    l "AAAHH!" with sshake
 
 # game/scripts/ash_events.rpy:3049
 translate pt_br ash_lustlin_1f021316:
 
     # l "Hahhhn! Aaaahhh!" with ssshake
-    l "" with ssshake
+    l "ahhhn! Aaaahhh!" with ssshake
 
 # game/scripts/ash_events.rpy:3052
 translate pt_br ash_lustlin_6b13f62d:
 
     # l "Hahhhn... Ahhhh... Hahhhh..."
-    l ""
+    l "Hahhhn... Ahhhh... Hahhhh..."
 
 # game/scripts/ash_events.rpy:3053
 translate pt_br ash_lustlin_c88966a9:
 
     # l "Mmmmmh... that was hot..."
-    l ""
+    l "Mmmmmh... isso foi excitante..."
 
 # game/scripts/ash_events.rpy:3055
 translate pt_br ash_lustlin_11e824b4:
 
     # l "Huh?"
-    l ""
+    l "Hein?"
 
 # game/scripts/ash_events.rpy:3056
 translate pt_br ash_lustlin_d5687408:
 
     # a "HHHNNNGH!!! AAAHHHH!!! [name]! Please...! AAAAH!"
-    a ""
+    a "HHHNNNGH!!! AAAHHHH!!! [name]! Por favor...! AAAAH!"
 
 # game/scripts/ash_events.rpy:3057
 translate pt_br ash_lustlin_06cca7f3:
 
     # a "I'M GONNA CUM! AAAH! I can cum, right!? AHHHNN!"
-    a ""
+    a "EU VOU GOZAR! AAAH! Eu posso gozar, né!? AHHHNN!"
 
 # game/scripts/ash_events.rpy:3060
 translate pt_br ash_lustlin_3a311a36:
 
     # c "You may cum."
-    c ""
+    c "Você pode gozar."
 
 # game/scripts/ash_events.rpy:3061
 translate pt_br ash_lustlin_90665330:
 
     # a "AAAAH! AAHHHH! FINALLY...!"
-    a ""
+    a "AAAAH! AAHHHH! FINALMENTE...!"
 
 # game/scripts/ash_events.rpy:3063
 translate pt_br ash_lustlin_2bbb5c49:
 
     # a "AAAAAHHH!! HAHHH!!!" with sshake
-    a "" with sshake
+    a "AAAAAHHH!! HAHHH!!!" with sshake
 
 # game/scripts/ash_events.rpy:3064
 translate pt_br ash_lustlin_d7c5f9f3:
 
     # a "NNNNNGHHH! YESSSSS!!" with sshake
-    a "" with sshake
+    a "NNNNNGHHH! ISSOOOOO!!" with sshake
 
 # game/scripts/ash_events.rpy:3066
 translate pt_br ash_lustlin_49698dfd:
 
     # a "Aaaahhh...! Hahhh...! Mmmmmh..."
-    a ""
+    a "Aaaahhh...! Hahhh...! Mmmmmh..."
 
 # game/scripts/ash_events.rpy:3067
 translate pt_br ash_lustlin_44b029e5:
 
     # a "Oh wow... that was amazing..."
-    a ""
+    a "Ah uau... isso foi inrcível..."
 
 # game/scripts/ash_events.rpy:3068
 translate pt_br ash_lustlin_fe94f7f8:
 
     # a "Thank you so much, [name]..."
-    a ""
+    a "Muito obrigada, [name]..."
 
 # game/scripts/ash_events.rpy:3071
 translate pt_br ash_lustlin_0316520a:
 
     # "Ashley's lust has been sated."
-    ""
+    "A luxúria de Ashley foi saciada."
 
 # game/scripts/ash_events.rpy:3076
 translate pt_br ash_lustlin_3a505665:
 
     # a "WHAT!?"
-    a ""
+    a "O QUÊ!?"
 
 # game/scripts/ash_events.rpy:3077
 translate pt_br ash_lustlin_e5684ba2:
 
     # a "I DID ALL THAT FOR NOTHING? WHAT THE FUCK, MAN!?"
-    a ""
+    a "EU FIZ TUDO ISSO POR NADA? QUE PORRA É ESSA, CARA!?"
 
 # game/scripts/ash_events.rpy:3078
 translate pt_br ash_lustlin_3b7db539:
 
     # a "Hnnnngh...! Fuck you. Hmph...!"
-    a ""
+    a "Hnnnngh...! Vai se foder. Hmph...!"
 
 # game/scripts/ash_events.rpy:3080
 translate pt_br ash_lustlin_1955b531:
 
     # "Ashley's sexual desire for you has grown."
-    ""
+    "O desejo sexual de Ashley por você aumentou."
 
 # game/scripts/ash_events.rpy:3088
 translate pt_br ash_lastsecond_250b96d1:
