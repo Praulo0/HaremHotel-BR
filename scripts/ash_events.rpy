@@ -11379,7 +11379,7 @@ translate pt_br ash_lustlin_d88882a7:
 translate pt_br ash_lustlin_72c108e3:
 
     # a "Nnnnnh..."
-    a ""
+    a "Nnnnnh..."
 
 # game/scripts/ash_events.rpy:2996
 translate pt_br ash_lustlin_d4be33a7:
@@ -11571,7 +11571,7 @@ translate pt_br ash_lustlin_9d0b524e:
 translate pt_br ash_lustlin_3271c22f:
 
     # l "Yes, NNNGH! I am! I'm close, don't stop Ash! Aaaahhh~! AAAH! AAAAH!"
-    l "Sim, NNNGH! Eu estou! Estou chegando perto, não pare, Ash! Aaaahhh~! AAAH! AAAAH!""
+    l "Sim, NNNGH! Eu estou! Estou chegando perto, não pare, Ash! Aaaahhh~! AAAH! AAAAH!"
 
 # game/scripts/ash_events.rpy:3046
 translate pt_br ash_lustlin_fd02855c:
@@ -11697,565 +11697,565 @@ translate pt_br ash_lustlin_1955b531:
 translate pt_br ash_lastsecond_250b96d1:
 
     # c "Open up..."
-    c ""
+    c "Abra bem..."
 
 # game/scripts/ash_events.rpy:3090
 translate pt_br ash_lastsecond_9fc6a16c:
 
     # a "Almmm... Mmmmph..."
-    a ""
+    a "Almmm... Mmmmph..."
 
 # game/scripts/ash_events.rpy:3094
 translate pt_br ash_lastsecond_96ee2552:
 
     # a "Mmmmmh, I don't mind some ass play, but you know I love it most in my pussy, right? You're such a tease..."
-    a ""
+    a "Mmmmmh, eu até gosto de usar a bunda nessas horas, mas você sabe o quanto eu prefiro que seja na boceta, né?  Você é tão provocador..."
 
 # game/scripts/ash_events.rpy:3096
 translate pt_br ash_lastsecond_71f7942b:
 
     # a "Haaah! Aaahhn...!" with ssshake
-    a "" with ssshake
+    a "Haaah! Aaahhn...!" with ssshake
 
 # game/scripts/ash_events.rpy:3098
 translate pt_br ash_lastsecond_3073be76:
 
     # a "Hnnngh... Mmmmh... Fuck, that's tight...! Nnnngh..."
-    a ""
+    a "Hnnngh... Mmmmh... Porra, é tão apertado...! Nnnngh..."
 
 # game/scripts/ash_events.rpy:3102
 translate pt_br ash_lastsecond_08506c2b:
 
     # a "Fffffmm... Ohhh... I know you always fuck my ass, but I never touch it alone, it's still so tight..."
-    a ""
+    a "Fffffmm... Ohhh... Eu sei que você sempre fode a minha bunda, mas eu nunca toco nele sozinha, ainda é tão apertado..."
 
 # game/scripts/ash_events.rpy:3104
 translate pt_br ash_lastsecond_41a7d5df:
 
     # a "Haaah! Hmmmmm! [name]!" with ssshake
-    a "" with ssshake
+    a "Haaah! Hmmmmm! [name]!" with ssshake
 
 # game/scripts/ash_events.rpy:3105
 translate pt_br ash_lastsecond_11cc6592:
 
     # a "Aaah...! Stop moving your finger like that, mmmh!"
-    a ""
+    a "Aaah...! Pare de mexer o dedo assim, mmmh!"
 
 # game/scripts/ash_events.rpy:3107
 translate pt_br ash_lastsecond_8cc39de9:
 
     # a "Hohhhh... Ahh... Hahhhh...!"
-    a ""
+    a "Hohhhh... Ahh... Hahhhh...!"
 
 # game/scripts/ash_events.rpy:3109
 translate pt_br ash_lastsecond_80c23721:
 
     # a "Eeeeeh! [name]! Oh fuck!" with ssshake
-    a "" with ssshake
+    a "Eeeeeh! [name]! Ah porra!" with ssshake
 
 # game/scripts/ash_events.rpy:3111
 translate pt_br ash_lastsecond_1b436a10:
 
     # a "Mmmmngh! Eeegh...! Fuck that's tight."
-    a ""
+    a "Mmmmngh! Eeegh...! Porra, isso é apertado. "
 
 # game/scripts/ash_events.rpy:3112
 translate pt_br ash_lastsecond_adda2189:
 
     # a "Ahh...! Nnnghk!" with ssshake
-    a "" with ssshake
+    a "Ahh...! Nnnghk!" with ssshake
 
 # game/scripts/ash_events.rpy:3115
 translate pt_br ash_lastsecond_8e5ebf60:
 
     # a "Fuck, [name]! Mmmmh! That's so.... ahhhghgh~!"
-    a ""
+    a "Porra, [name]! Mmmmh!  Isso é tão..."
 
 # game/scripts/ash_events.rpy:3117
 translate pt_br ash_lastsecond_2ec8511f:
 
     # a "Mmmgh! Mmmmmnnn!!"
-    a ""
+    a "Mmmgh! Mmmmmnnn!!"
 
 # game/scripts/ash_events.rpy:3119
 translate pt_br ash_lastsecond_aa4dd0e3:
 
     # a "Nnngh! Hahhh... Ohhh... Mmmm... what happened?"
-    a ""
+    a "Nnngh! Hahhh... Ohhh... Mmmm... o que foi?"
 
 # game/scripts/ash_events.rpy:3120
 translate pt_br ash_lastsecond_af4ab2dc:
 
     # c "Get on the bed."
-    c ""
+    c "Suba na cama,"
 
 # game/scripts/ash_events.rpy:3121
 translate pt_br ash_lastsecond_ee9f5e61:
 
     # a "Ah! I can cum now? Okay!"
-    a ""
+    a "Ah! Eu posso gozar agora? Tá bom!"
 
 # game/scripts/ash_events.rpy:3125
 translate pt_br ash_lastsecond_07886113:
 
     # a "Hurry up~"
-    a ""
+    a "Rápido~"
 
 # game/scripts/ash_events.rpy:3129
 translate pt_br ash_lastsecond_fcf8620d:
 
     # a "Ahhhh~! Fuck! Split me open!"
-    a ""
+    a "Ahhhh~! Porra! Me abra a meio!"
 
 # game/scripts/ash_events.rpy:3131
 translate pt_br ash_lastsecond_8751158f:
 
     # a "Aaaaaaaahhhhh~~!! Fuck, I love it~!"
-    a ""
+    a "Aaaaaaaahhhhh~~!! Porra, eu amo isso~!"
 
 # game/scripts/ash_events.rpy:3132
 translate pt_br ash_lastsecond_084b26de:
 
     # a "Mmmmh! Mmmmh! [name], you're so big~! Aaaah! Fuck....!"
-    a ""
+    a "Mmmmh! Mmmmh! [name], voê é tão grande~! Aaaah! Porra....!"
 
 # game/scripts/ash_events.rpy:3133
 translate pt_br ash_lastsecond_af60b25a:
 
     # a "Hahhh! Aaahhnn...! I'm already so close! Mmmh! Aaaaahhh!"
-    a ""
+    a "Hahhh! Aaahhnn...! Eu já estou tão perto! Mmmh! Aaaaahhh!"
 
 # game/scripts/ash_events.rpy:3136
 translate pt_br ash_lastsecond_60ed9e64:
 
     # a "Nnnngh! Mmmn! Don't stop, don't stop! Fuck!"
-    a ""
+    a "Nnnngh! Mmmn! Não para, não para! Porra"
 
 # game/scripts/ash_events.rpy:3137
 translate pt_br ash_lastsecond_b67bc032:
 
     # a "Haaaahn! NNGH!" with ssshake
-    a "" with ssshake
+    a "Haaaahn! NNGH!" with ssshake
 
 # game/scripts/ash_events.rpy:3138
 translate pt_br ash_lastsecond_717d2c8a:
 
     # a "Ffffffuck! Fuck...! I came a little...! Mmmh~! Hahhh!"
-    a ""
+    a "Pooooorra! Porra...! Eu gozei um pouco...! Mmmh~! Hahhh!"
 
 # game/scripts/ash_events.rpy:3139
 translate pt_br ash_lastsecond_01e89965:
 
     # a "More, more! More! Don't stop! Aaaah! I'm gonna cum! MMMN!"
-    a ""
+    a "Mais, mais! Mais! Não para! Aaaah! Eu vou gozar! MMMN!"
 
 # game/scripts/ash_events.rpy:3141
 translate pt_br ash_lastsecond_3c616de1:
 
     # a "Huh? WHAT!? NOOO!! NONO! I was so cloooooose...!" with ssshake
-    a "" with ssshake
+    a "Hein? O QUÊ!? NÃOOO!! NÃONÃO! Eu estava tão peeeeeerto...!" with ssshake
 
 # game/scripts/ash_events.rpy:3142
 translate pt_br ash_lastsecond_934bb196:
 
     # a "NNNNGH...! Asshole, you said I could cum-"
-    a ""
+    a "NNNNGH...! Cuzão, você tinha dito que eu podia gozar-"
 
 # game/scripts/ash_events.rpy:3147
 translate pt_br ash_lastsecond_3cf24daf:
 
     # a "EEEEEEEEEEEEE!!! My ass!" with sshake
-    a "" with sshake
+    a "EEEEEEEEEEEEE!!! Minha bunda!" with sshake
 
 # game/scripts/ash_events.rpy:3149
 translate pt_br ash_lastsecond_4bc54b14:
 
     # a "AAAAH! Hahhhh! What are you doing...? I WAS SO CLOSE~! Fuck!"
-    a ""
+    a "AAAAH! Hahhhh! O que você está fazendo...? EU ESTAVA TÃO PERTO~! Porra!"
 
 # game/scripts/ash_events.rpy:3150
 translate pt_br ash_lastsecond_10a0f18a:
 
     # c "Changed my mind, I prefer using this hole."
-    c ""
+    c "Mudei de ideia, eu prefiro usar este buraco."
 
 # game/scripts/ash_events.rpy:3151
 translate pt_br ash_lastsecond_4e3d582c:
 
     # a "NNNH! But I can't cum like that...! Hahhhh! NNNGHK!"
-    a ""
+    a "NNNH! Mas eu não posso gozar deste jeito...! Hahhhh! NNNGHK!"
 
 # game/scripts/ash_events.rpy:3154
 translate pt_br ash_lastsecond_e5a2d9be:
 
     # a "Fuck, fuck! NNNNGHK! Dammit [name], I wanna cum!! HNNN!"
-    a ""
+    a "Porra, porra! NNNNGHK! Merda [name], eu quero gozar!! HNNN!"
 
 # game/scripts/ash_events.rpy:3155
 translate pt_br ash_lastsecond_5e9939db:
 
     # a "Ahhhh! Hahhhn...! Fuck, fuck~! Holy shit, you're so deep! MMN!"
-    a ""
+    a "Ahhhh! Hahhhn...! Porra, porra~! Puta merda, você é tão profundo! MMN1"
 
 # game/scripts/ash_events.rpy:3156
 translate pt_br ash_lastsecond_b2f7df10:
 
     # a "Ahhh! Hahhh! Ahhh! Nnngh! FUCK! Mmmn, at least put your babies inside my womb~!"
-    a ""
+    a "Ahhh! Hahhh! Ahhh! Nnngh! PORRA! Mmmn, pelo menos coloque os seus bebês no meu ventre~!"
 
 # game/scripts/ash_events.rpy:3160
 translate pt_br ash_lastsecond_831fb52c:
 
     # a "HAAHH~!" with ssshake
-    a "" with ssshake
+    a "HAAHH~!" with ssshake
 
 # game/scripts/ash_events.rpy:3161
 translate pt_br ash_lastsecond_23931aa5:
 
     # a "Nnnngh, not my ass!" with ssshake
-    a "" with ssshake
+    a "Nnnngh, na minha bunda não!" with ssshake
 
 # game/scripts/ash_events.rpy:3162
 translate pt_br ash_lastsecond_2327091b:
 
     # a "Hahhn! NNNM... [name]..." with ssshake
-    a "" with ssshake
+    a "Hahhn! NNNM... [name]..." with ssshake
 
 # game/scripts/ash_events.rpy:3164
 translate pt_br ash_lastsecond_9a2f5cd6:
 
     # a "Hahhhh... Hahhh... Nnnngh... [name], you're such a tease..."
-    a ""
+    a "Hahhhh... Hahhh... Nnnngh... [name], você é tão provocador..."
 
 # game/scripts/ash_events.rpy:3172
 translate pt_br ash_lastsecond_e54e0bbd:
 
     # a "Ahh!" with ssshake
-    a "" with ssshake
+    a "Ahh!" with ssshake
 
 # game/scripts/ash_events.rpy:3173
 translate pt_br ash_lastsecond_9a2f5cd6_1:
 
     # a "Hahhhh... Hahhh... Nnnngh... [name], you're such a tease..."
-    a ""
+    a "Hahhhh... Hahhh... Nnnngh... [name], você é tão provocador..."
 
 # game/scripts/ash_events.rpy:3181
 translate pt_br ash_lastsecond_81f62be5:
 
     # a "*gasp*!?"
-    a ""
+    a "*Uau*!?"
 
 # game/scripts/ash_events.rpy:3183
 translate pt_br ash_lastsecond_ea75238b:
 
     # a "MMMPHGH!?" with ssshake
-    a "" with ssshake
+    a "MMMPHGH!?" with ssshake
 
 # game/scripts/ash_events.rpy:3184
 translate pt_br ash_lastsecond_7e27e97e:
 
     # a "Nnnnghhk!" with ssshake
-    a "" with ssshake
+    a "Nnnnghhk!" with ssshake
 
 # game/scripts/ash_events.rpy:3185
 translate pt_br ash_lastsecond_cfa98f42:
 
     # a "MMMMMngh...!" with ssshake
-    a "" with ssshake
+    a "MMMMMngh...!" with ssshake
 
 # game/scripts/ash_events.rpy:3187
 translate pt_br ash_lastsecond_87ac9db9:
 
     # a "Blegh, gross!"
-    a ""
+    a "Blegh, que nojo!"
 
 # game/scripts/ash_events.rpy:3188
 translate pt_br ash_lastsecond_53141bb7:
 
     # c "Swallow."
-    c ""
+    c "Engula."
 
 # game/scripts/ash_events.rpy:3189
 translate pt_br ash_lastsecond_d64eee50:
 
     # a "Hmph, I only swallow for people that let me cum..."
-    a ""
+    a "Hmph, eu só engulo para pessoas que me deixam gozar..."
 
 # game/scripts/ash_events.rpy:3190
 translate pt_br ash_lastsecond_d0b3bc38:
 
     # c "Then I'll never let you cum."
-    c ""
+    c "Então eu nunca vou deixar você gozar."
 
 # game/scripts/ash_events.rpy:3191
 translate pt_br ash_lastsecond_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:3193
 translate pt_br ash_lastsecond_7a85f32d:
 
     # a "*gulp*!"
-    a ""
+    a "*gulp*!"
 
 # game/scripts/ash_events.rpy:3195
 translate pt_br ash_lastsecond_b82ee9cb:
 
     # a "Grrr..."
-    a ""
+    a "Grrr..."
 
 # game/scripts/ash_events.rpy:3201
 translate pt_br ash_lastsecond_1955b531:
 
     # "Ashley's sexual desire for you has grown."
-    ""
+    "O desejo sexual de Ashley por você aumentou."
 
 # game/scripts/ash_events.rpy:3208
 translate pt_br ash_collegefun_f7aba2a3:
 
     # "You drive Ashley to her college during the off times..."
-    ""
+    "Você leva Ashley para a faculdade dela durante os horários vagos..."
 
 # game/scripts/ash_events.rpy:3210
 translate pt_br ash_collegefun_cc6faa19:
 
     # a "Are you sure we should be doing this...? I could get kicked out for this... And if anyone from my class saw me like this... Nnngh..."
-    a ""
+    a "Você tem certeza que devemos fazer isso...? Eu poderia ser expulsa por isso... E se alguém da minha turma me visse assim... Nnngh..."
 
 # game/scripts/ash_events.rpy:3213
 translate pt_br ash_collegefun_84905cc3:
 
     # c "Only if you're spotted. It's still a bit too early for most to arrive."
-    c ""
+    c "Só se alguém nos ver. E mesmo assim ainda é cedo demais para a maioria chegar."
 
 # game/scripts/ash_events.rpy:3214
 translate pt_br ash_collegefun_36125be3:
 
     # a "Okayyy..."
-    a ""
+    a "Tá bommm..."
 
 # game/scripts/ash_events.rpy:3215
 translate pt_br ash_collegefun_7e60f2d2:
 
     # a "What do you want me to do first, [name]?"
-    a ""
+    a "O que você quer que eu faça primeiro, [name]?"
 
 # game/scripts/ash_events.rpy:3218
 translate pt_br ash_collegefun_96cc0fb4:
 
     # a "Mmmn... really...? I don't know if I can keep quiet..."
-    a ""
+    a "Mmmn... mesmo...? Eu não sei se consigo ficar quieta..."
 
 # game/scripts/ash_events.rpy:3220
 translate pt_br ash_collegefun_a51cdc61:
 
     # a "Mmmmn... I'm sorry I've been such a horny girl lately... I can't control it...!"
-    a ""
+    a "Mmmmn... Me desculpe por eu ter sido uma garota tão tarada ultimamente... Eu não consigo me controlar...!"
 
 # game/scripts/ash_events.rpy:3222
 translate pt_br ash_collegefun_db157ab5:
 
     # a "Nnnngh... [name]..."
-    a ""
+    a "Nnnngh... [name]..."
 
 # game/scripts/ash_events.rpy:3224
 translate pt_br ash_collegefun_fb3bda58:
 
     # a "Ahhh!" with ssshake
-    a "" with ssshake
+    a "Ahhh!" with ssshake
 
 # game/scripts/ash_events.rpy:3226
 translate pt_br ash_collegefun_c29881f8:
 
     # a "Mmmmm! Inside...! Put it inside!"
-    a ""
+    a "Mmmmm! Dentro...! Coloque dentro!"
 
 # game/scripts/ash_events.rpy:3228
 translate pt_br ash_collegefun_ac16f86e:
 
     # a "Hahhh!" with ssshake
-    a "" with ssshake
+    a "Hahhh!" with ssshake
 
 # game/scripts/ash_events.rpy:3230
 translate pt_br ash_collegefun_3afe3184:
 
     # a "Hahhh...! Mmmnnn... I'm sorry, I'm sorry...! I just want your cock..."
-    a ""
+    a "Hahhh...! Mmmnnn... Me desculpa, me desculpa...! Eu só quero o teu pau..."
 
 # game/scripts/ash_events.rpy:3232
 translate pt_br ash_collegefun_d77a3ce0:
 
     # a "Eeeh!" with ssshake
-    a "" with ssshake
+    a "Eeeh!" with ssshake
 
 # game/scripts/ash_events.rpy:3234
 translate pt_br ash_collegefun_2cf00971:
 
     # a "Ahhh! Please! Mmmmmmm! I want you, [name]! I need you!"
-    a ""
+    a "Ahhh! Por favor! Mmmmmmm! Eu quero você, [name]! Eu preciso de você!"
 
 # game/scripts/ash_events.rpy:3236
 translate pt_br ash_collegefun_d35c02c8:
 
     # a "Fuck!" with ssshake
-    a "" with ssshake
+    a "Porra!" with ssshake
 
 # game/scripts/ash_events.rpy:3240
 translate pt_br ash_collegefun_4ddfb83f:
 
     # a "Nnnnm... Fill me up...!"
-    a ""
+    a "Nnnnm... Me preencha toda...!"
 
 # game/scripts/ash_events.rpy:3242
 translate pt_br ash_collegefun_3281888b:
 
     # a "AAH!!" with ssshake
-    a "" with ssshake
+    a "AAH!!" with ssshake
 
 # game/scripts/ash_events.rpy:3244
 translate pt_br ash_collegefun_6ef7c59b:
 
     # q "HEY! What's going on in here!?" with sshake
-    q "" with sshake
+    q "EI! O que está acontecendo aí dentro!?" with sshake
 
 # game/scripts/ash_events.rpy:3245
 translate pt_br ash_collegefun_a28f1dcc:
 
     # a "RUN!!!"
-    a ""
+    a "CORRE!!!"
 
 # game/scripts/ash_events.rpy:3249
 translate pt_br ash_collegefun_89fed32a:
 
     # "You and Ashley quickly run outside without being spotted. Not willing to risk it again, you retreat back to the hotel."
-    ""
+    "Você e Ashley correm rapidamente para fora sem serem vistos. Não dispostos a arriscar novamente, vocês retornam para o hotel."
 
 # game/scripts/ash_events.rpy:3251
 translate pt_br ash_collegefun_1955b531:
 
     # "Ashley's sexual desire for you has grown."
-    ""
+    "O desejo sexual de Ashley por você aumentou."
 
 # game/scripts/ash_events.rpy:3257
 translate pt_br ash_collegefun_3281888b_1:
 
     # a "AAH!!" with ssshake
-    a "" with ssshake
+    a "AAH!!" with ssshake
 
 # game/scripts/ash_events.rpy:3258
 translate pt_br ash_collegefun_f759c9d9:
 
     # a "Mmmmm! Mmmngh! Nnnnmm! I can't take it anymore...!"
-    a ""
+    a "Mmmmm! Mmmngh! Nnnnmm! Eu não aguento mais...!"
 
 # game/scripts/ash_events.rpy:3259
 translate pt_br ash_collegefun_f048817e:
 
     # a "Please! Please fuck me! I need you!!"
-    a ""
+    a "Por favor! Por favor me fode! Eu preciso de você!!"
 
 # game/scripts/ash_events.rpy:3260
 translate pt_br ash_collegefun_8fe5e85c:
 
     # c "Let's go to the locker room..."
-    c ""
+    c "Vamos para o vestiário..."
 
 # game/scripts/ash_events.rpy:3261
 translate pt_br ash_collegefun_cfbaed35:
 
     # a "O-Oh... okay..."
-    a ""
+    a "A-Ah... tudo bem..."
 
 # game/scripts/ash_events.rpy:3265
 translate pt_br ash_collegefun_1f551f3a:
 
     # a "O-Okay..."
-    a ""
+    a "T-Tudo bem..."
 
 # game/scripts/ash_events.rpy:3267
 translate pt_br ash_collegefun_a731deb7:
 
     # a "Nn... It's always been a huge fantasy of mine to get my pussy licked at school..."
-    a ""
+    a "Nn... Eu sempre tive a fantasia de ter a minha boceta lambida na escola..."
 
 # game/scripts/ash_events.rpy:3270
 translate pt_br ash_collegefun_9d8cdc4c:
 
     # a "Nnnh... come on, before someone comes...!"
-    a ""
+    a "Nnnh... vamos logo, antes que alguém apareça...!"
 
 # game/scripts/ash_events.rpy:3271
 translate pt_br ash_collegefun_f394c978:
 
     # c "Take your panties off."
-    c ""
+    c "Tire a sua calcinha."
 
 # game/scripts/ash_events.rpy:3273
 translate pt_br ash_collegefun_71955456:
 
     # a "Okay..."
-    a ""
+    a "Tudo bem..."
 
 # game/scripts/ash_events.rpy:3277
 translate pt_br ash_collegefun_beb434f3:
 
     # a "Nnnnm... please... I'm so ready for you, [name]..."
-    a ""
+    a "Nnnnm... por favor... Eu estou tão pronta para você, [name]..."
 
 # game/scripts/ash_events.rpy:3279
 translate pt_br ash_collegefun_744741c4:
 
     # a "Ahhh...! Mmmmh... am I tasty, [name]? Hahhh... Mmmhh..."
-    a ""
+    a "Ahhh...! Mmmmh... você gosta do meu sabor, [name]? Hahhh... Mmmhh..."
 
 # game/scripts/ash_events.rpy:3281
 translate pt_br ash_collegefun_6e8e1457:
 
     # a "Hahhh! Hmmm! S-Stop teasing me... Hahhh! Go inside...!"
-    a ""
+    a "Hahhh! Hmmm! P-Pare de me provocar... Hahhh! Coloque dentro...!"
 
 # game/scripts/ash_events.rpy:3282
 translate pt_br ash_collegefun_e520f21f:
 
     # a "Mmmmh! Ahhh...! Fuck!" with ssshake
-    a "" with ssshake
+    a "Mmmmh! Ahhh...! Porra!" with ssshake
 
 # game/scripts/ash_events.rpy:3286
 translate pt_br ash_collegefun_42ca5114:
 
     # a "Yes...! Yes...! Ahhhh! Deeper! Mmmh...! Ohhh...!"
-    a ""
+    a "Isso...! Isso...! Ahhhh! Mais fundo! Mmmh...! Ohhh...!"
 
 # game/scripts/ash_events.rpy:3287
 translate pt_br ash_collegefun_d8652a91:
 
     # a "Mmmmmm! Mmmmhhh! Fuck, I'm getting sooooo wet!! Ah~!"
-    a ""
+    a "Mmmmmm! Mmmmhhh! Porra, eu estou ficando tããããão molhada!! Ah~!"
 
 # game/scripts/ash_events.rpy:3288
 translate pt_br ash_collegefun_297fb3e0:
 
     # a "Fuck, fuck fuck! Mmmmh! MMMH!"
-    a ""
+    a "Porra, porra porra! Mmmmh! MMMH!"
 
 # game/scripts/ash_events.rpy:3290
 translate pt_br ash_collegefun_8fe5e85c_1:
 
     # c "Let's go to the locker room..."
-    c ""
+    c "Vamos para o vestiário..."
 
 # game/scripts/ash_events.rpy:3291
 translate pt_br ash_collegefun_cfbaed35_1:
 
     # a "O-Oh... okay..."
-    a ""
+    a "A-Ah... tudo bem...."
 
 # game/scripts/ash_events.rpy:3294
 translate pt_br ash_collegefun_42ca5114_1:
 
     # a "Yes...! Yes...! Ahhhh! Deeper! Mmmh...! Ohhh...!"
-    a ""
+    a "Isso...! Isso...! Ahhhh! Mais fundo! Mmmh...! Ohhh...!"
 
 # game/scripts/ash_events.rpy:3296
 translate pt_br ash_collegefun_c37bdd7f:
