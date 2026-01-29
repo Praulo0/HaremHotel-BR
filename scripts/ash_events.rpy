@@ -13071,301 +13071,301 @@ translate pt_br ash_makeup_bba2d9fc:
 translate pt_br ash_makeup_21c1fa2c:
 
     # f "I'm a huge bitch, and I always hurt people! *sob*!"
-    f "Eu sou uma"
+    f "Sou uma grande vadia e sempre magoo as pessoas! *sob*"
 
 # game/scripts/ash_events.rpy:3552
 translate pt_br ash_makeup_958bf0a7:
 
     # em "Felicity, please sit down with us..."
-    em ""
+    em "Felicity, por favor, sente-se com a gente..."
 
 # game/scripts/ash_events.rpy:3554
 translate pt_br ash_makeup_5364bfa2:
 
     # em "Not so bad... is it?"
-    em ""
+    em "Não é tão ruim assim, né?"
 
 # game/scripts/ash_events.rpy:3555
 translate pt_br ash_makeup_64927c82_1:
 
     # f "*sniff*"
-    f ""
+    f "*sniff*"
 
 # game/scripts/ash_events.rpy:3556
 translate pt_br ash_makeup_c5760ab6:
 
     # em "*sigh*..."
-    em ""
+    em "*ufa*..."
 
 # game/scripts/ash_events.rpy:3557
 translate pt_br ash_makeup_57d94901:
 
     # f "I'm sorry, okay!? I can't show off my emotions as easily as you two can! *sniff*!"
-    f ""
+    f "Me desculpa, tá bom!? Eu não consigo demonstrar minhas emoções tão facilmente quanto vocês duas! *sniff*!"
 
 # game/scripts/ash_events.rpy:3558
 translate pt_br ash_makeup_0c43c327:
 
     # a "It's fine... I understand."
-    a ""
+    a "Está tudo bem... Eu entendo."
 
 # game/scripts/ash_events.rpy:3559
 translate pt_br ash_makeup_4d7e95c0:
 
     # f "*sniff*! Ahh... *sniff*..."
-    f ""
+    f "*sniff*! Ahh... *sniff*..."
 
 # game/scripts/ash_events.rpy:3561
 translate pt_br ash_makeup_b1db4496:
 
     # f "That's uh... *sniff* that's why I dyed my hair too, haha..."
-    f ""
+    f "Éh... *sniff* é por isso que eu também pintei o meu cabelo, haha..."
 
 # game/scripts/ash_events.rpy:3562
 translate pt_br ash_makeup_32fb53c2:
 
     # a "Hm?"
-    a ""
+    a "Hm?"
 
 # game/scripts/ash_events.rpy:3563
 translate pt_br ash_makeup_23d2c3e4:
 
     # f "That's why I colored my hair pink as a child, to make friends. Just like you..."
-    f ""
+    f "Foi por isso que eu pintei o meu cabelo de rosa quando eu era criança, para fazer amigos. Igual a você..."
 
 # game/scripts/ash_events.rpy:3565
 translate pt_br ash_makeup_1abe1c1f:
 
     # f "When you dyed yours, and styled it pretty, I felt threatened...! So I lashed out! I'm sorry!"
-    f ""
+    f "Quando vocêpintou o seu, e estilizou ele de um jeito bonito, eu me senti ameaçada...! Então eu reagi mal! Me desculpe!"
 
 # game/scripts/ash_events.rpy:3567
 translate pt_br ash_makeup_4a62ae7a:
 
     # a "You thought it was pretty?"
-    a ""
+    a "Você achou que ficou bonito?"
 
 # game/scripts/ash_events.rpy:3568
 translate pt_br ash_makeup_9b6c007f:
 
     # f "Mhm..."
-    f ""
+    f "Mhm..."
 
 # game/scripts/ash_events.rpy:3569
 translate pt_br ash_makeup_559b7537:
 
     # a "Hmm..."
-    a ""
+    a "Hmm..."
 
 # game/scripts/ash_events.rpy:3570
 translate pt_br ash_makeup_e1efaef5:
 
     # f "It was always so stupid anyway, fighting over nothing... we all just wanted to be happy..."
-    f ""
+    f "Isso sempre foi tão estúpido de qualquer forma, brigar por nada... todas nós só queriamos ser felizes..."
 
 # game/scripts/ash_events.rpy:3571
 translate pt_br ash_makeup_3e9c10f3:
 
     # em "Yeah..."
-    em ""
+    em "É mesmo..."
 
 # game/scripts/ash_events.rpy:3573
 translate pt_br ash_makeup_c2399ff5:
 
     # f "...I'll do my best to stop our childish bickering."
-    f ""
+    f "Eu vou dar o meu melhor para parar com as nossas brigas infantis."
 
 # game/scripts/ash_events.rpy:3575
 translate pt_br ash_makeup_533faa4d:
 
     # em "Let's start fresh, all of us. Like we just met each other today."
-    em ""
+    em "Vamos recomeçar, todas nós. Como se nós tivéssemos nos conhecido hoje."
 
 # game/scripts/ash_events.rpy:3576
 translate pt_br ash_makeup_1e81edd9:
 
     # f "Alright, I would do that..."
-    f ""
+    f "Tudo bem, eu faria isso..."
 
 # game/scripts/ash_events.rpy:3577
 translate pt_br ash_makeup_5b6e19cb:
 
     # a "Cool..."
-    a ""
+    a "Beleza..."
 
 # game/scripts/ash_events.rpy:3579
 translate pt_br ash_makeup_89d6e2ba:
 
     # em "Why don't you stick around with us so we can talk more?"
-    em ""
+    em "Por que você não fica com a gente para que possamos conversar mais?"
 
 # game/scripts/ash_events.rpy:3590
 translate pt_br ash_forgive_405586bd:
 
     # "(sound recommended)"
-    ""
+    "(som recomendado)"
 
 # game/scripts/ash_events.rpy:3594
 translate pt_br ash_forgive_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/ash_events.rpy:3598
 translate pt_br ash_forgive_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/ash_events.rpy:3606
 translate pt_br ash_forgive_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/ash_events.rpy:3609
 translate pt_br ash_forgive_a20cefa7_3:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/ash_events.rpy:3612
 translate pt_br ash_forgive_516b562e:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/scripts/ash_events.rpy:3615
 translate pt_br ash_forgive_516b562e_1:
 
     # "..." with ssshake
-    "" with ssshake
+    "..." with ssshake
 
 # game/scripts/ash_events.rpy:3616
 translate pt_br ash_forgive_82c6bd92:
 
     # "......" with ssshake
-    "" with ssshake
+    "......" with ssshake
 
 # game/scripts/ash_events.rpy:3617
 translate pt_br ash_forgive_ede1fce2:
 
     # ".........!" with ssshake
-    "" with ssshake
+    ".........!" with ssshake
 
 # game/scripts/ash_events.rpy:3657
 translate pt_br ash_forgive_54be8fa7:
 
     # "...{w}...{w}..."
-    ""
+    "...{w}...{w}..."
 
 # game/scripts/ash_events.rpy:3660
 translate pt_br ash_forgive_a89fb62a:
 
     # ya "*sniff*..."
-    ya ""
+    ya "*sniff*..."
 
 # game/scripts/ash_events.rpy:3662
 translate pt_br ash_forgive_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:3665
 translate pt_br ash_forgive_b44ac31a:
 
     # ya "*sniff*... ah...!"
-    ya ""
+    ya "*sniff*... ah...!"
 
 # game/scripts/ash_events.rpy:3667
 translate pt_br ash_forgive_c0028aac:
 
     # a "AAAGH!!" with ssshake
-    a "" with ssshake
+    a "AAAGH!!" with ssshake
 
 # game/scripts/ash_events.rpy:3669
 translate pt_br ash_forgive_29e4c4af:
 
     # a "I'm sorry...! I'm so sorry!"
-    a ""
+    a "Me desculpa...! Eu sinto muito!"
 
 # game/scripts/ash_events.rpy:3670
 translate pt_br ash_forgive_2fe85f35:
 
     # a "Please don't cry...! Please..."
-    a ""
+    a "Por favor, não chore...! Por favor..."
 
 # game/scripts/ash_events.rpy:3671
 translate pt_br ash_forgive_a2dc2530:
 
     # a "It gets better, okay? You just have to keep going... don't give up, please!"
-    a ""
+    a "As coisas melhoram, tá bom? Você só precisa continuar... não desista, por favor!"
 
 # game/scripts/ash_events.rpy:3672
 translate pt_br ash_forgive_c972fccf:
 
     # a "Please... please... please... please... please... please... please... please... please... please... please...!" with ssshake
-    a "" with ssshake
+    a "Por favor... por favor... por favor... por favor... por favor... por favor... por favor... por favor... por favor... por favor... por favor...!" with ssshake
 
 # game/scripts/ash_events.rpy:3673
 translate pt_br ash_forgive_e3db6444:
 
     # a "I'll always be there for you, even when nobody else is! I'll take care of you, and hug you whenever you want!"
-    a ""
+    a "Eu vou estar sempre aqui para você, mesmo quando ninguém mais estiver! Eu vou cuidar de você, e te abraçar sempre que você quiser!"
 
 # game/scripts/ash_events.rpy:3674
 translate pt_br ash_forgive_a22ee4f7:
 
     # a "You'll meet so many good friends one day, and you'll never see it coming! Just don't give up! Keep going!!"
-    a ""
+    a "Você vai conhecer muitos bons amigos um dia, e você nunca vai ver isso chegando! Apenas não desista! Continue indo!!"
 
 # game/scripts/ash_events.rpy:3675
 translate pt_br ash_forgive_b0ec5a0d:
 
     # a "I love you!" with ssshake
-    a "" with ssshake
+    a "Eu te amo!" with ssshake
 
 # game/scripts/ash_events.rpy:3681
 translate pt_br ash_forgive_e964527d:
 
     # ya "I love you too, Ashley."
-    ya ""
+    ya "Eu também te amo, Ashley."
 
 # game/scripts/ash_events.rpy:3683
 translate pt_br ash_forgive_ce3f9018:
 
     # a "You're so strong...! You can do so much more than you think you can! You just have to believe in yourself!"
-    a ""
+    a "Você é tão forte...! Você pode fazer muito mais do que você pensa que pode! Você só precisa acreditar em si mesma!"
 
 # game/scripts/ash_events.rpy:3685
 translate pt_br ash_forgive_c1fa8660:
 
     # a "Don't listen to what everyone else says! You're amazing! You're beautiful!"
-    a ""
+    a "Não ouça o que todo mundo diz! Você é incrível! Você é bonita!"
 
 # game/scripts/ash_events.rpy:3687
 translate pt_br ash_forgive_b0e43fc5:
 
     # a "I want you to know I love you so much... so, so much...!"
-    a ""
+    a "Eu quero que você saiba que eu te amo tanto... tanto, tanto...!"
 
 # game/scripts/ash_events.rpy:3689
 translate pt_br ash_forgive_a2ce2b34:
 
     # a "{b}I LOVE YOU!!!{/b}" with sshake
-    a "" with sshake
+    a "{b}EU TE AMO!!!{/b}" with sshake
 
 # game/scripts/ash_events.rpy:3693
 translate pt_br ash_forgive_4b7ffbdb:
 
     # cia "Good morning, Ashley!"
-    cia ""
+    cia "Bom dia, Ashley!"
 
 # game/scripts/ash_events.rpy:3699
 translate pt_br ash_forgive_40af5002:
 
     # a "Good morning."
-    a ""
+    a "Bom dia."
 
 # game/scripts/ash_events.rpy:3716
 translate pt_br ash_fairiesjoin_315139a4:
