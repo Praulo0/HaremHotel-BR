@@ -13371,355 +13371,355 @@ translate pt_br ash_forgive_40af5002:
 translate pt_br ash_fairiesjoin_315139a4:
 
     # bfair "Mmm..."
-    bfair ""
+    bfair "Mmm..."
 
 # game/scripts/ash_events.rpy:3718
 translate pt_br ash_fairiesjoin_f12b4d26:
 
     # bfair "*yaaaaawwwwwwwnnn...*"
-    bfair ""
+    bfair "*uaaaahhhhhhhhhh...*"
 
 # game/scripts/ash_events.rpy:3720
 translate pt_br ash_fairiesjoin_85757c77:
 
     # bfair "*sniff*... ehhh..."
-    bfair ""
+    bfair "*sniff*... ehhh..."
 
 # game/scripts/ash_events.rpy:3722
 translate pt_br ash_fairiesjoin_fabe0573:
 
     # bfair "Huh...?"
-    bfair ""
+    bfair "Huh...?"
 
 # game/scripts/ash_events.rpy:3724
 translate pt_br ash_fairiesjoin_0c1ca581:
 
     # bfair "AAAAAAH!" with ssshake
-    bfair "" with ssshake
+    bfair "AAAAAAH!" with ssshake
 
 # game/scripts/ash_events.rpy:3726
 translate pt_br ash_fairiesjoin_9e1746c1:
 
     # rfair "Cia!"
-    rfair ""
+    rfair "Cia!"
 
 # game/scripts/ash_events.rpy:3727
 translate pt_br ash_fairiesjoin_7670dc14:
 
     # gfair "Shh, sh!"
-    gfair ""
+    gfair "Shh, sh!"
 
 # game/scripts/ash_events.rpy:3729
 translate pt_br ash_fairiesjoin_189930b2:
 
     # cia "W-Where am I!?"
-    cia ""
+    cia "O-Onde eu estou!?"
 
 # game/scripts/ash_events.rpy:3730
 translate pt_br ash_fairiesjoin_ab31c28d:
 
     # gfair "Just relax, Cia, it's fine! Come down!"
-    gfair ""
+    gfair "Só relaxa, Cia, está tudo bem! Desce daí!"
 
 # game/scripts/ash_events.rpy:3731
 translate pt_br ash_fairiesjoin_005a8684:
 
     # "*slam*" with sshake
-    "" with sshake
+    "*bam*" with sshake
 
 # game/scripts/ash_events.rpy:3733
 translate pt_br ash_fairiesjoin_8ae697b6:
 
     # a "She's awake!"
-    a ""
+    a "Ela está acordada!"
 
 # game/scripts/ash_events.rpy:3735
 translate pt_br ash_fairiesjoin_25f0fca4:
 
     # cia "AAAAAAAAAAAH!!!" with ssshake
-    cia "" with ssshake
+    cia "AAAAAAAAAAAH!!!" with ssshake
 
 # game/scripts/ash_events.rpy:3737
 translate pt_br ash_fairiesjoin_53bbefb0:
 
     # tog "AAAH!" with ssshake
-    tog "" with ssshake
+    tog "AAAH!" with ssshake
 
 # game/scripts/ash_events.rpy:3739
 translate pt_br ash_fairiesjoin_238aa900:
 
     # cia "Nnnn..."
-    cia ""
+    cia "Nnnn..."
 
 # game/scripts/ash_events.rpy:3740
 translate pt_br ash_fairiesjoin_c61ec8c3:
 
     # a "[name], come here!"
-    a ""
+    a "[name], vem aqui!"
 
 # game/scripts/ash_events.rpy:3745
 translate pt_br ash_fairiesjoin_4d50040c:
 
     # a "She looks healthy!"
-    a ""
+    a "Ela parece saudável!"
 
 # game/scripts/ash_events.rpy:3746
 translate pt_br ash_fairiesjoin_e9f66a84:
 
     # cia "Hm?"
-    cia ""
+    cia "Hm?"
 
 # game/scripts/ash_events.rpy:3748
 translate pt_br ash_fairiesjoin_8508f07a:
 
     # cia "AH! Y-YOU CAN SEE ME!?!?" with ssshake
-    cia "" with ssshake
+    cia "AH! V-VOCÊ CONSEGUE ME VER!?!?" with ssshake
 
 # game/scripts/ash_events.rpy:3750
 translate pt_br ash_fairiesjoin_5ff412ee:
 
     # cia "HUMAAAAAAAAAAAAAAAANS!!!" with sshake
-    cia "" with sshake
+    cia "HUMANOOOOOOOOOOOOOOS!!!" with sshake
 
 # game/scripts/ash_events.rpy:3753
 translate pt_br ash_fairiesjoin_e24af5d3:
 
     # gfair "Hey, hey! It's fine! They won't hurt you, they helped you!"
-    gfair ""
+    gfair "Ei, ei! Está tudo bem! Eles não vão te machucar, eles te ajudaram!"
 
 # game/scripts/ash_events.rpy:3754
 translate pt_br ash_fairiesjoin_7dc560f7:
 
     # rfair "*huff*... *huff*... you scared me... so much..."
-    rfair ""
+    rfair "*huff*... *huff*... você me assustou... tanto..."
 
 # game/scripts/ash_events.rpy:3755
 translate pt_br ash_fairiesjoin_b60482f6:
 
     # rfair "Damn it... you made me use my crystal, Cia!"
-    rfair ""
+    rfair "Droga... você me fez usar o meu cristal, Cia!"
 
 # game/scripts/ash_events.rpy:3756
 translate pt_br ash_fairiesjoin_bb419ac8:
 
     # cia "W-What...? Why aren't I going invisible? What happened to me?"
-    cia ""
+    cia "O-O quê...? Por que não estou ficando invisível? O que aconteceu comigo?"
 
 # game/scripts/ash_events.rpy:3757
 translate pt_br ash_fairiesjoin_86380914:
 
     # gfair "You used up the last of your crystal, the humans saved your life..."
-    gfair ""
+    gfair "Você usou o seu cristal até o fim, os humanos salvaram a sua vida..."
 
 # game/scripts/ash_events.rpy:3758
 translate pt_br ash_fairiesjoin_89d8e50a:
 
     # cia "R-Really, Runa?"
-    cia ""
+    cia "É-É mesmo, Runa?"
 
 # game/scripts/ash_events.rpy:3759
 translate pt_br ash_fairiesjoin_38eddc14:
 
     # runa "Yes, you've been resting here for the last few days. They've kept us safe."
-    runa ""
+    runa "É sim, você tem descansado aqui nos últimos dias. Eles nos mantiveram seguras."
 
 # game/scripts/ash_events.rpy:3760
 translate pt_br ash_fairiesjoin_214f7d94:
 
     # cia "But... they're... humans..."
-    cia ""
+    cia "Mas... eles são... humanos..."
 
 # game/scripts/ash_events.rpy:3761
 translate pt_br ash_fairiesjoin_396d156e:
 
     # runa "Well, I guess they're not all our enemy, are they?"
-    runa ""
+    runa "Bem, eu acho que nem todos eles são nossos inimigos, não é?"
 
 # game/scripts/ash_events.rpy:3762
 translate pt_br ash_fairiesjoin_b2b4bc3f:
 
     # cia "Nn... If you say so..."
-    cia ""
+    cia "Nn... Se você diz..."
 
 # game/scripts/ash_events.rpy:3763
 translate pt_br ash_fairiesjoin_7b045c8a:
 
     # runa "You can relax, Cia."
-    runa ""
+    runa "Você pode relaxar, Cia."
 
 # game/scripts/ash_events.rpy:3765
 translate pt_br ash_fairiesjoin_395aeda4:
 
     # rfair "Do you remember anything?"
-    rfair ""
+    rfair "Você se lembra de alguma coisa?"
 
 # game/scripts/ash_events.rpy:3766
 translate pt_br ash_fairiesjoin_06bd8192:
 
     # cia "Umm... yeah..."
-    cia ""
+    cia "Humm... sim..."
 
 # game/scripts/ash_events.rpy:3768
 translate pt_br ash_fairiesjoin_419aee26:
 
     # cia "I was hunting moths in the forest, then I heard something..."
-    cia ""
+    cia "Eu estava caçando mariposas na floresta, então eu ouvi algo..."
 
 # game/scripts/ash_events.rpy:3769
 translate pt_br ash_fairiesjoin_567b1e34:
 
     # cia "I saw humans... I didn't know what to do! So I just flew..."
-    cia ""
+    cia "Eu vi humanos... Eu não sabia o que fazer! Então eu apenas saí voando..."
 
 # game/scripts/ash_events.rpy:3770
 translate pt_br ash_fairiesjoin_874346d8:
 
     # cia "But I wasn't paying attention to where I was going, I hit a lot of tree branches..."
-    cia ""
+    cia "Mas como eu não estava prestando atenção para onde eu estava indo, eu bati em muitos galhos de árvores.."
 
 # game/scripts/ash_events.rpy:3771
 translate pt_br ash_fairiesjoin_6e5883a8:
 
     # cia "I think I used my crystal over ten times..."
-    cia ""
+    cia "Eu acho que acabei usando o meu cristal mais de dez vezes..."
 
 # game/scripts/ash_events.rpy:3773
 translate pt_br ash_fairiesjoin_6939b119:
 
     # rfair "TEN TIMES!? YOU IDIOT!"
-    rfair ""
+    rfair "DEZ VEZES!? SUA IDIOTA!"
 
 # game/scripts/ash_events.rpy:3774
 translate pt_br ash_fairiesjoin_748e0d40:
 
     # runa "That's not what she needs right now, Zoia."
-    runa ""
+    runa "Não é disso que ela precisa agora, Zoia."
 
 # game/scripts/ash_events.rpy:3775
 translate pt_br ash_fairiesjoin_05e33776:
 
     # zoia "Erghhhhh! You're going to kill yourself!"
-    zoia ""
+    zoia "Erghhhhh! Você vai acabar se matando!"
 
 # game/scripts/ash_events.rpy:3776
 translate pt_br ash_fairiesjoin_ffdd3055:
 
     # cia "I-I'm sorry!"
-    cia ""
+    cia "M-Me desculpa!"
 
 # game/scripts/ash_events.rpy:3777
 translate pt_br ash_fairiesjoin_323edad3:
 
     # zoia "I don't want you to be sorry, I want you to be alive!"
-    zoia ""
+    zoia "Eu nao quero ouvir suas desculpas, eu quero que você esteja viva!"
 
 # game/scripts/ash_events.rpy:3779
 translate pt_br ash_fairiesjoin_799e81e9:
 
     # runa "*sigh*, are you thirsty, Cia? Hungry maybe?"
-    runa ""
+    runa "*ufa*, você está com sede, Cia? Talvez com fome?"
 
 # game/scripts/ash_events.rpy:3780
 translate pt_br ash_fairiesjoin_920d8b98:
 
     # cia "Yes, very..."
-    cia ""
+    cia "Sim, muito..."
 
 # game/scripts/ash_events.rpy:3781
 translate pt_br ash_fairiesjoin_f3879c1d:
 
     # runa "We'll get you something at home then, come on."
-    runa ""
+    runa "Nós vamos arranjar alguma coisa em casa então, vamos lá."
 
 # game/scripts/ash_events.rpy:3783
 translate pt_br ash_fairiesjoin_6542874a:
 
     # a "Y-You're leaving?"
-    a ""
+    a "V-Vocês vão embora?"
 
 # game/scripts/ash_events.rpy:3784
 translate pt_br ash_fairiesjoin_68b7836f:
 
     # runa "We wouldn't make good roommates, trust me."
-    runa ""
+    runa "Nós não seríamos boas colegas de quarto, confie em mim."
 
 # game/scripts/ash_events.rpy:3785
 translate pt_br ash_fairiesjoin_4b7b6a33:
 
     # a "She just woke up from a coma, shouldn't she get some rest at least?"
-    a ""
+    a "Ela acabou de acordar de um coma, ela não deveria descansar pelo menos?"
 
 # game/scripts/ash_events.rpy:3787
 translate pt_br ash_fairiesjoin_84b85691:
 
     # runa "Hm..."
-    runa ""
+    runa "Hm..."
 
 # game/scripts/ash_events.rpy:3788
 translate pt_br ash_fairiesjoin_83b8bb23:
 
     # runa "I suppose it would be better to rest here... we wouldn't need to hunt at least..."
-    runa ""
+    runa "Eu suponho que seria melhor descansar aqui... nós não precisaríamos caçar pelo menos..."
 
 # game/scripts/ash_events.rpy:3789
 translate pt_br ash_fairiesjoin_8b35af99:
 
     # cia "Runa... my crystal..."
-    cia ""
+    cia "Runa... o meu cristal..."
 
 # game/scripts/ash_events.rpy:3791
 translate pt_br ash_fairiesjoin_767e1c29:
 
     # runa "Hm? Oh, right..."
-    runa ""
+    runa "Hm? Ah, certo..."
 
 # game/scripts/ash_events.rpy:3793
 translate pt_br ash_fairiesjoin_d4d194de:
 
     # runa "Hmm..."
-    runa ""
+    runa "Hmm..."
 
 # game/scripts/ash_events.rpy:3794
 translate pt_br ash_fairiesjoin_bea4e89f:
 
     # runa "..."
-    runa ""
+    runa "..."
 
 # game/scripts/ash_events.rpy:3795
 translate pt_br ash_fairiesjoin_349944c7:
 
     # runa "...Shit..."
-    runa ""
+    runa "...Merda..."
 
 # game/scripts/ash_events.rpy:3796
 translate pt_br ash_fairiesjoin_20164315:
 
     # zoia "What's up?"
-    zoia ""
+    zoia "O que foi?"
 
 # game/scripts/ash_events.rpy:3797
 translate pt_br ash_fairiesjoin_e71610db:
 
     # runa "We can't go back..."
-    runa ""
+    runa "Nós não podemos voltar..."
 
 # game/scripts/ash_events.rpy:3798
 translate pt_br ash_fairiesjoin_38cfaed1:
 
     # zoia "What!?"
-    zoia ""
+    zoia "O quê!?"
 
 # game/scripts/ash_events.rpy:3799
 translate pt_br ash_fairiesjoin_ec06e70c:
 
     # runa "Without a crystal, she's a sitting duck... she'll be eaten by a crab or bird if she isn't found by a human first."
-    runa ""
+    runa "Sem um cristal, ela é um alvo fácil... ela vai acabar vidando comida de um carangueijo ou de um pássaro, isso se ela não for encontrada por um humano primeiro."
 
 # game/scripts/ash_events.rpy:3801
 translate pt_br ash_fairiesjoin_c7d010d2:
 
     # cia "{size=-10}{i}I don't want to be eaten by a crab!{/i}{/size}"
-    cia ""
+    cia "{size=-10}{i}Eu não quero ser comida por um carangueijo!{/i}{/size}"
 
 # game/scripts/ash_events.rpy:3802
 translate pt_br ash_fairiesjoin_806b7649:
