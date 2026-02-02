@@ -10324,7 +10324,7 @@ translate pt_br ash_twinbackcol_2e57df23:
 translate pt_br ash_twinbackcol_bfe2d412:
 
     # f "Elf magic...?"
-    f "Magia de elfo...?"
+    f "Magia élfica...?"
 
 # game/scripts/ash_events.rpy:2723
 translate pt_br ash_twinbackcol_3884cf34:
@@ -12441,7 +12441,7 @@ translate pt_br ash_lockerfuck_a6734b1c:
 translate pt_br ash_lockerfuck_cb9700ec:
 
     # a "Hmph, fuck me already! You're such a tease...!"
-    a "Hmoh, me fode logo! Você me provoca tanto...!"
+    a "Hmph, me fode logo! Você me provoca tanto...!"
 
 # game/scripts/ash_events.rpy:3354
 translate pt_br ash_lockerfuck_f604bc5e:
@@ -14313,775 +14313,775 @@ translate pt_br ash_fairiesjoin_09c8a2de:
 translate pt_br fairies_f818a147:
 
     # a "[name]! [botname] said she needed us to come to the laundry room as fast as possible, come on!"
-    a ""
+    a "[name]! [botname] disse que ela precisava que viéssemos para a Lavanderia o mais rápido possível, vamos lá!"
 
 # game/scripts/ash_events.rpy:3979
 translate pt_br fairies_a4f15064:
 
     # c "What's happening?"
-    c ""
+    c "O que está acontecendo?"
 
 # game/scripts/ash_events.rpy:3980
 translate pt_br fairies_e0af5433:
 
     # a "I don't know! Just hurry!"
-    a ""
+    a "Eu não sei! Só vamos logo!"
 
 # game/scripts/ash_events.rpy:3983
 translate pt_br fairies_086df900:
 
     # rfair "URGH!!! You're too damn fat!"
-    rfair ""
+    rfair "URGH!!! Você é gorda demais!"
 
 # game/scripts/ash_events.rpy:3984
 translate pt_br fairies_1eabdd91:
 
     # a "ANOTHER ONE!?"
-    a ""
+    a "MAIS UMA!?"
 
 # game/scripts/ash_events.rpy:3986
 translate pt_br fairies_85d0d2f5:
 
     # rfair "*GASP*!" with ssshake
-    rfair "" with ssshake
+    rfair "*AH*!" with ssshake
 
 # game/scripts/ash_events.rpy:3988
 translate pt_br fairies_0d65010e:
 
     # a "What!? They're gone!"
-    a ""
+    a "O quê!? Elas sumiram!"
 
 # game/scripts/ash_events.rpy:3990
 translate pt_br fairies_4dcd8ed7:
 
     # bot "No, they're not..."
-    bot ""
+    bot "Não, não sumiram..."
 
 # game/scripts/ash_events.rpy:3992
 translate pt_br fairies_09db9eaf:
 
     # a "Huh?"
-    a ""
+    a "Hein?"
 
 # game/scripts/ash_events.rpy:3997
 translate pt_br fairies_57358db2:
 
     # rfair "AAAGH!"
-    rfair ""
+    rfair "AAAGH!"
 
 # game/scripts/ash_events.rpy:3998
 translate pt_br fairies_904dc671:
 
     # a "She was just invisible!?"
-    a ""
+    a "Ela estava invisível!?"
 
 # game/scripts/ash_events.rpy:4000
 translate pt_br fairies_b6779d6f:
 
     # rfair "WITCH! WITCH! LET ME GO!"
-    rfair ""
+    rfair "BRUXA! BRUXA! ME SOLTA!"
 
 # game/scripts/ash_events.rpy:4002
 translate pt_br fairies_ebcebc9a:
 
     # bot "She needs rest... you can't move her around like that."
-    bot ""
+    bot "Ela precisa descansar... você não pode movê-la assim."
 
 # game/scripts/ash_events.rpy:4004
 translate pt_br fairies_53d001b2:
 
     # rfair "And {i}you{/i} can't kidnap someone! You almost broke my wing, you know!?"
-    rfair ""
+    rfair "E {i}você{/i} não pode sequestrar alguém! Você quase quebrou a minha asa, sabia!?"
 
 # game/scripts/ash_events.rpy:4005
 translate pt_br fairies_cb70b71a:
 
     # a "You've got it all wrong!"
-    a ""
+    a "Vocês entenderam tudo errado!"
 
 # game/scripts/ash_events.rpy:4007
 translate pt_br fairies_d6a59c16:
 
     # a "She was hurt and we're trying to save her life!"
-    a ""
+    a "Ela se machucou e nós estamos tentando salvar a vida dela!"
 
 # game/scripts/ash_events.rpy:4008
 translate pt_br fairies_ee041f5c:
 
     # rfair "Bullshit! You've got a witch on your team, you're trying to eat my sister! Give me back her crown!"
-    rfair ""
+    rfair "Besteira! Vocês tem uma bruxa no time, vocês estão tentando comer a minha irmã! Me devolve a coroa dela!"
 
 # game/scripts/ash_events.rpy:4010
 translate pt_br fairies_231097fd:
 
     # bot "...What? We eat them?"
-    bot ""
+    bot "O quê? Nós comemos elas?"
 
 # game/scripts/ash_events.rpy:4011
 translate pt_br fairies_1e3c6120:
 
     # a "No! We obviously don't eat them!"
-    a ""
+    a "Não! Obviamente nós não comemos elas!"
 
 # game/scripts/ash_events.rpy:4012
 translate pt_br fairies_c2683d62:
 
     # rfair "Don't make fun of me!"
-    rfair ""
+    rfair "Não zombem de mim!"
 
 # game/scripts/ash_events.rpy:4014
 translate pt_br fairies_519bd311:
 
     # a "We're trying to help your sister! She was bleeding all around her head!"
-    a ""
+    a "Nós estamos tentando ajudar a sua irmã! Ela estáva sangrando por toda a cabeça!"
 
 # game/scripts/ash_events.rpy:4016
 translate pt_br fairies_0e40ec69:
 
     # rfair "Did you say... she was bleeding around her head..?"
-    rfair ""
+    rfair "Vocês disseram... que ela estava sangrando pela cabeça...?"
 
 # game/scripts/ash_events.rpy:4017
 translate pt_br fairies_5b5fdfc9:
 
     # q "Well. I guess we have no choice but to reveal ourselves then..." with bflash
-    q "" with bflash
+    q "Bem. Acho que não temos escolha a não ser nós revelarmos então..." with bflash
 
 # game/scripts/ash_events.rpy:4019
 translate pt_br fairies_ee382f38:
 
     # gfair "Good morning, human."
-    gfair ""
+    gfair "Bom dia, humano."
 
 # game/scripts/ash_events.rpy:4020
 translate pt_br fairies_087a9d72:
 
     # a "There's three!?"
-    a ""
+    a "São três?!"
 
 # game/scripts/ash_events.rpy:4022
 translate pt_br fairies_125bd5f7:
 
     # gfair "Her crystal must have imploded when she was alone. I'm surprised she hasn't lost all her blood, she should be dead..."
-    gfair ""
+    gfair "O cristal dela deve ter implodido quando ela estava sozinha. Estou surpresa que ela não tenha perdido todo o sangue, ela deveria estar morta..."
 
 # game/scripts/ash_events.rpy:4023
 translate pt_br fairies_8d2baf10:
 
     # rfair "There's no way she's that stupid! Ergh, you clumsy idiot!"
-    rfair ""
+    rfair "Não há como ela ser tão estúpida! Ergh, sua idiota desajeitada!"
 
 # game/scripts/ash_events.rpy:4024
 translate pt_br fairies_9f1b14e4:
 
     # a "Where did you guys come from!?"
-    a ""
+    a "De onde foi que vocês apareceram!?"
 
 # game/scripts/ash_events.rpy:4025
 translate pt_br fairies_358548e2:
 
     # gfair "Shut up, please."
-    gfair ""
+    gfair "Fique quieta, por favor."
 
 # game/scripts/ash_events.rpy:4027
 translate pt_br fairies_39f71705:
 
     # gfair "Has she been in a coma all two days she was missing, human?"
-    gfair ""
+    gfair "Ela ficou em coma durante os dois dias em que ela estava desaparecida, humano?"
 
 # game/scripts/ash_events.rpy:4028
 translate pt_br fairies_31dc1070:
 
     # a "Uh, yeah..."
-    a ""
+    a "Hum, sim..."
 
 # game/scripts/ash_events.rpy:4030
 translate pt_br fairies_24c74ef3:
 
     # gfair "Since she's still alive, she'll be fine. We just have to wait two to four days."
-    gfair ""
+    gfair "Já que ela ainda está viva, ela vai ficar bem. Nós só precisamos esperar de dois a quatro dias."
 
 # game/scripts/ash_events.rpy:4032
 translate pt_br fairies_df69eb04:
 
     # rfair "You can't just experience three crystal comas and come out as the same person! She could be fucked up!"
-    rfair ""
+    rfair "Você não pode simplesmente passar por três comas de cristal e sair como a mesma pessoa! Ela pode estar muito ferrada!"
 
 # game/scripts/ash_events.rpy:4034
 translate pt_br fairies_36a951e8:
 
     # gfair "I'm telling you, she'll be fine. She's not bleeding anymore. Others have gone up to five without experiencing any side effects."
-    gfair ""
+    gfair "Eu estou te dizendo, ela vai ficar bem. Ela não está mais sangrando. Outros já chegaram a passar por até cinco sem experimentar quaisquer efeitos colaterais."
 
 # game/scripts/ash_events.rpy:4035
 translate pt_br fairies_66fefb33:
 
     # rfair "And our mother died on her FIRST!"
-    rfair ""
+    rfair "E a nossa mãe morreu no PRIMEIRO dela!"
 
 # game/scripts/ash_events.rpy:4037
 translate pt_br fairies_6e9789cd:
 
     # gfair "Hmph. Well, clearly she hasn't."
-    gfair ""
+    gfair "Hmph. Bem, claramente ela não morreu."
 
 # game/scripts/ash_events.rpy:4039
 translate pt_br fairies_8a9972f0:
 
     # gfair "We wait."
-    gfair ""
+    gfair "Vamos esperar."
 
 # game/scripts/ash_events.rpy:4041
 translate pt_br fairies_eecae100:
 
     # rfair "HERE!?" with ssshake
-    rfair "" with ssshake
+    rfair "AQUI!?" with ssshake
 
 # game/scripts/ash_events.rpy:4043
 translate pt_br fairies_d9f2c030:
 
     # gfair "Yes, here. She needs treatment and monitoring. She's likely very dehydrated right now."
-    gfair ""
+    gfair "Sim, aqui. Ela precisa de tratamento e monitoramento. Ela provavelmente está muito desidratada agora."
 
 # game/scripts/ash_events.rpy:4044
 translate pt_br fairies_a09af5d3:
 
     # rfair "We can take her home!"
-    rfair ""
+    rfair "Nós podemos levar ela para casa!"
 
 # game/scripts/ash_events.rpy:4045
 translate pt_br fairies_e7b64069:
 
     # gfair "It would take days to get there... We have to stay, we have no choice."
-    gfair ""
+    gfair "Levaria dias para chegar lá... Nós temos que ficar, não temos escolha."
 
 # game/scripts/ash_events.rpy:4047
 translate pt_br fairies_8b7d2a2b:
 
     # rfair "GRR! Fuck this continent!"
-    rfair ""
+    rfair "GRR! Que se dane este continente!"
 
 # game/scripts/ash_events.rpy:4049
 translate pt_br fairies_92422a5e:
 
     # rfair "Fuck you, too!"
-    rfair ""
+    rfair "E que se danem vocês também!"
 
 # game/scripts/ash_events.rpy:4051
 translate pt_br fairies_23e46082:
 
     # c "Agh!"
-    c ""
+    c "Agh!"
 
 # game/scripts/ash_events.rpy:4052
 translate pt_br fairies_75bfe6b6:
 
     # rfair "Hah, suck my dick!"
-    rfair ""
+    rfair "Hah, chupa!"
 
 # game/scripts/ash_events.rpy:4054
 translate pt_br fairies_e2b832c5:
 
     # gfair "Excuse my sister. She can be quite explosive..."
-    gfair ""
+    gfair "Desculpem a minha irmã. Ela pode ser bem explosiva..."
 
 # game/scripts/ash_events.rpy:4056
 translate pt_br fairies_32325b44:
 
     # gfair "Good morning again, humans. I trust you'll keep everything between us?"
-    gfair ""
+    gfair "Bom dia novamente, humanos. Eu posso confiar que vocês vão manter tudo apenas entre nós?"
 
 # game/scripts/ash_events.rpy:4057
 translate pt_br fairies_b9fec7a0:
 
     # c "Everything?"
-    c ""
+    c "Tudo?"
 
 # game/scripts/ash_events.rpy:4058
 translate pt_br fairies_4d821afd:
 
     # gfair "Everything. All of it. Keep quiet about us."
-    gfair ""
+    gfair "Tudo. Tudo isso. Não diga nada a ninguém sobre nós."
 
 # game/scripts/ash_events.rpy:4059
 translate pt_br fairies_184b3252:
 
     # c "I have so many questions..."
-    c ""
+    c "Eu tenho tantas perguntas..."
 
 # game/scripts/ash_events.rpy:4060
 translate pt_br fairies_d3a1177e:
 
     # gfair "Understandable. Okay, if I answer all of your questions, will you shut up?"
-    gfair ""
+    gfair "É compreensível. Tudo bem, se eu responder todas as suas perguntas, você vai ficar quieto?"
 
 # game/scripts/ash_events.rpy:4061
 translate pt_br fairies_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/ash_events.rpy:4064
 translate pt_br greenlies_9b0eb2b0:
 
     # gfair "Fairy land."
-    gfair ""
+    gfair "Terra das fadas."
 
 # game/scripts/ash_events.rpy:4067
 translate pt_br greenlies_f846fb69:
 
     # gfair "Magic."
-    gfair ""
+    gfair "Magia"
 
 # game/scripts/ash_events.rpy:4070
 translate pt_br greenlies_f846fb69_1:
 
     # gfair "Magic."
-    gfair ""
+    gfair "Magia."
 
 # game/scripts/ash_events.rpy:4073
 translate pt_br greenlies_ca5c21a6:
 
     # gfair "Probably magic."
-    gfair ""
+    gfair "Provavelmente magia."
 
 # game/scripts/ash_events.rpy:4076
 translate pt_br greenlies_4fbd6a42:
 
     # gfair "Yes."
-    gfair ""
+    gfair "Sim"
 
 # game/scripts/ash_events.rpy:4079
 translate pt_br greenlies_186d092e:
 
     # gfair "I'll boil your blood with magic."
-    gfair ""
+    gfair "Eu vou ferver o seu sangue com magia."
 
 # game/scripts/ash_events.rpy:4082
 translate pt_br greenlies_c0436c91:
 
     # gfair "I'm talking to you."
-    gfair ""
+    gfair "Eu estou falando com você."
 
 # game/scripts/ash_events.rpy:4085
 translate pt_br greenlies_b8de9600:
 
     # c "Right, I'm calling the police."
-    c ""
+    c "Beleza, eu vou chamar a polícia."
 
 # game/scripts/ash_events.rpy:4087
 translate pt_br greenlies_890de1e5:
 
     # gfair "No, no! Okay, fine you're not as stupid as you look. I'll answer honestly now... just DON'T TELL ANYONE."
-    gfair ""
+    gfair "Não, não! OK, tudo bem, você não é tão estúpido quanto parece. Eu vou responder honestamente agora... só NÃO CONTE A NINGUÉM."
 
 # game/scripts/ash_events.rpy:4091
 translate pt_br greenf_abacde25:
 
     # gfair "We live at a beach."
-    gfair ""
+    gfair "Nós vivemos em uma praia."
 
 # game/scripts/ash_events.rpy:4095
 translate pt_br greenf_161eb17a:
 
     # gfair "The crystal on my forehead allows me to hide."
-    gfair ""
+    gfair "O cristal na minha testa me permite me esconder."
 
 # game/scripts/ash_events.rpy:4096
 translate pt_br greenf_31a14f30:
 
     # c "So, magic?"
-    c ""
+    c "Então, magia?"
 
 # game/scripts/ash_events.rpy:4097
 translate pt_br greenf_939d93b2:
 
     # gfair "If you'd like to call things you don't understand magic, then sure."
-    gfair ""
+    gfair "Se você quiser chamar as coisas que você não entende de magia, então claro."
 
 # game/scripts/ash_events.rpy:4098
 translate pt_br greenf_6314ec0b:
 
     # c "You tell me, then."
-    c ""
+    c "Me explique então."
 
 # game/scripts/ash_events.rpy:4099
 translate pt_br greenf_2712681b:
 
     # gfair "I think I'll stick to the question at hand..."
-    gfair ""
+    gfair "Eu acho que eu vou me ater à pergunta em questão..."
 
 # game/scripts/ash_events.rpy:4100
 translate pt_br greenf_1d66aab6:
 
     # a "I knew Lin was using elf magic!"
-    a ""
+    a "Eu sei que a Lin estava usando magia élfica!"
 
 # game/scripts/ash_events.rpy:4102
 translate pt_br greenf_dfbb8461:
 
     # gfair "No, I'm sorry. Elves cannot make any use of our crystals, even if they could find one big enough. Nor can any other species on the planet."
-    gfair ""
+    gfair "Não, me desculpe. ELfos não podem fazer qualquer uso dos nossos cristais, mesmo que eles pudessem encontrar um grande o suficiente. Nem qualquer outra espécie no planeta."
 
 # game/scripts/ash_events.rpy:4103
 translate pt_br greenf_21635054:
 
     # a "So... only fairies can use magic?"
-    a ""
+    a "Então... apenas fadas podem usar magia?"
 
 # game/scripts/ash_events.rpy:4104
 translate pt_br greenf_89f0f738:
 
     # gfair "*sigh*... Crystals, not magic.... and if I really must go into a history lesson of our species to keep you all quiet, then I will. I'm a history buff anyway, so I don't mind too much."
-    gfair ""
+    gfair "*ufa*... Cristais, não magia.... e se eu realmente precisar entrar em uma lição de história da nossa espécie para manter todos vocês quietos, então eu vou. Eu sou um entusiasta de história de qualquer forma, então eu não me importo muito."
 
 # game/scripts/ash_events.rpy:4108
 translate pt_br greenf_12fd9b4c:
 
     # gfair "As to why only fairies can use crystals, it's likely because we've been the only ones making use of them, biologically speaking."
-    gfair ""
+    gfair "Assim como o motivo pelo qual apenas fadas podem usar cristais, é provavelmente porque nós temos sido as únicas a fazer uso deles, biologicamente falando."
 
 # game/scripts/ash_events.rpy:4109
 translate pt_br greenf_2227be27:
 
     # gfair "The current theory is that at one point, our common ancestor was able to unlock their full potential. However, since fairies are the only species that continually used crystals, we can assume at some point humans and elves evolved away from being able to use them."
-    gfair ""
+    gfair "A teoria atual é que em um ponto, o nosso ancestral comum foi capaz de desbloquear todo o seu potencial. No entanto, já que as fadas são a única espécie que continuamente usou cristais, nós podemos assumir que em algum ponto humanos e elfos evoluíram ao ponto de não serem mais capazes de usá-los."
 
 # game/scripts/ash_events.rpy:4110
 translate pt_br greenf_6fa9036c:
 
     # gfair "I'm no evolutionary biologist, I just read a lot."
-    gfair ""
+    gfair "Eu não sou nenhuma bióloga evolutiva, eu apenas leio bastante."
 
 # game/scripts/ash_events.rpy:4111
 translate pt_br greenf_fa53bdc9:
 
     # a "We had a common ancestor? What does that mean?"
-    a ""
+    a "Nós tivemos um ancestral comum? O que isso significa?"
 
 # game/scripts/ash_events.rpy:4113
 translate pt_br greenf_fc885f87:
 
     # gfair "It means we're related in a very small way."
-    gfair ""
+    gfair "Significa que temos um parentesco, ainda que muito pequeno."
 
 # game/scripts/ash_events.rpy:4114
 translate pt_br greenf_9ad8090e:
 
     # c "How did fairies get so small?"
-    c ""
+    c "Como as fadas se tornaram tão pequenas?"
 
 # game/scripts/ash_events.rpy:4116
 translate pt_br greenf_4f4e7967:
 
     # gfair "Like I said, I'm no evolutionary biologist, but it likely has something to do with allopatric speciation."
-    gfair ""
+    gfair "Como eu disse, não sou nenhuma bióloga evolutiva, mas isso provavelmente tem alguma coisa a ver com especiação aloprática."
 
 # game/scripts/ash_events.rpy:4119
 translate pt_br greenf_1260f8cc:
 
     # gfair "Good."
-    gfair ""
+    gfair "Bem."
 
 # game/scripts/ash_events.rpy:4122
 translate pt_br greenf_fffdb52a:
 
     # gfair "That would be the result of the crystal on my forehead being used."
-    gfair ""
+    gfair "Isso seria o resultado do cristal na minha testa sendo usado."
 
 # game/scripts/ash_events.rpy:4123
 translate pt_br greenf_9cf5433e:
 
     # a "So... you're not a firefly..."
-    a ""
+    a "Então... você não é um vagalume..."
 
 # game/scripts/ash_events.rpy:4125
 translate pt_br greenf_3268328b:
 
     # gfair "No, I'm not."
-    gfair ""
+    gfair "Não, eu não sou."
 
 # game/scripts/ash_events.rpy:4126
 translate pt_br greenf_fed14a84:
 
     # a "We saw a lot of blue flashes in the forest..."
-    a ""
+    a "Nós vimos vários flashes de luz na floresta..."
 
 # game/scripts/ash_events.rpy:4127
 translate pt_br greenf_5f03dee8:
 
     # gfair "Were those flashes moving in a path? Or were they random?"
-    gfair ""
+    gfair "Aqueles flashes estavam se movendo em um padrão? Ou eles eram aleatórios?"
 
 # game/scripts/ash_events.rpy:4128
 translate pt_br greenf_c1be9f7b:
 
     # c "It was definitely moving in a path."
-    c ""
+    c "Eles definitivamente estavam se movendo em um padrão."
 
 # game/scripts/ash_events.rpy:4130
 translate pt_br greenf_474683d6:
 
     # gfair "That must have been my sister. She's clumsy, you see. That's why she's in the state she is now."
-    gfair ""
+    gfair "Aquilo deve ter sido a minha irmã. Ela é desajeitada, como você pode ver. É por isso que ela está no estado em que está agora."
 
 # game/scripts/ash_events.rpy:4133
 translate pt_br greenf_f3f4e84b:
 
     # gfair "That's the term we use when a crystal implodes on one's head. The immense pressure caused by the implosion shatters our crowns. The result is always a coma, assuming they survive the initial implosion."
-    gfair ""
+    gfair "Esse é o term que nós usamos quando um cristal implode na cabeça de alguém. A pressão imensa causada pela implosão destrói nossas coroas. O resultado disso é sempre um coma, supondo que sobrevivam à implosão inicial."
 
 # game/scripts/ash_events.rpy:4136
 translate pt_br greenf2_238d3bfb:
 
     # gfair "Our crystals only have a finite amount of uses. To hide, we must use them. There is no known way to know exactly when one will implode, but for one our size, it's roughly one hundred uses, then we must find another crystal."
-    gfair ""
+    gfair "Os nossos cristais têm apenas uma quantidade finita de usos. E para nos esconder, nós precisamos usá-las. Não há nenhuma maneira conhecida de saber exatamente quando um deles irá implodir, mas para um do nosso tamanho, são aproximadamente cem utilizações, e então nós precisamos encontrar outro cristal."
 
 # game/scripts/ash_events.rpy:4137
 translate pt_br greenf2_c4d4e1c6:
 
     # gfair "The amount of uses depends completely on the size of the crystal, although you'd never find any bigger than a pin head if you looked all your life."
-    gfair ""
+    gfair "A quantidade de usos depende completamente do tamanho do cristal, embora você nunca encontrasse nenhum maior do que uma cabeça de alfinete, mesmo que procurasse durante toda a sua vida."
 
 # game/scripts/ash_events.rpy:4140
 translate pt_br greenf2_31295ecb:
 
     # gfair "No, of course not. You're far too big for a crystal this size. You'd be lucky to hide your pinky finger."
-    gfair ""
+    gfair "Não, é claro que não. Você é grande demais para um cristal desse tamanho. Você teria sorte se conseguisse enconder o seu dedo mindinho."
 
 # game/scripts/ash_events.rpy:4143
 translate pt_br greenf2_b4c8b984:
 
     # gfair "The implosion is strong enough to tear up our limbs. It could kill us if we used it as a necklace, arm band, etcetera."
-    gfair ""
+    gfair "A implosão é forte o suficiente para rasgar os nossos membros. Isso poderia nos matar se nós usássemos eles como um colar, pulseira, e assim por diante."
 
 # game/scripts/ash_events.rpy:4144
 translate pt_br greenf2_3dd40d16:
 
     # gfair "A crown is the safest option since we will never know for sure exactly when a crystal will implode. It rarely happens and usually depends on the user. I typically stop using a crystal around seventy uses. I've never had a crystal coma to date."
-    gfair ""
+    gfair "Uma coroa é a opção mais segura, uma vez que nós nunca saberemos com certeza quando o cristal vai implodir. Isso acontece e geralmente depende do usuário. Normalmente, paro de usar um cristal por volta da septuagésima utilização. Nunca tive coma de cristal até hoje."
 
 # game/scripts/ash_events.rpy:4145
 translate pt_br greenf2_dde0bc28:
 
     # c "And your sister just used it to blind me..."
-    c ""
+    c "E a sua irmã acabou de usar para me cegar..."
 
 # game/scripts/ash_events.rpy:4147
 translate pt_br greenf2_3ccd6540:
 
     # gfair "Eeeeeyup..."
-    gfair ""
+    gfair "Eeeeeyup..."
 
 # game/scripts/ash_events.rpy:4153
 translate pt_br greenf2_95495cbf:
 
     # gfair "Yes, she's very clumsy and happens to freak out a lot when she sees humans. She probably wasn't thinking, as usual."
-    gfair ""
+    gfair "Sim, ela é muito desajeitada e costuma entrar em pânico com frequência quando vê humanos. Ela provavelmente não estava pensando, como sempre."
 
 # game/scripts/ash_events.rpy:4156
 translate pt_br greenf2_1216b08d:
 
     # gfair "We've seen what you did to Elves..."
-    gfair ""
+    gfair "Nós temos visto o que vocês fizeram com os Elfos..."
 
 # game/scripts/ash_events.rpy:4157
 translate pt_br greenf2_9763b9f2:
 
     # gfair "Point two, we like being left alone in our forest."
-    gfair ""
+    gfair "Ponto dois, nós gostamos de ficar sozinhas em nossa floresta."
 
 # game/scripts/ash_events.rpy:4158
 translate pt_br greenf2_6fc2de53:
 
     # c "So you're just... forest fairies?"
-    c ""
+    c "Então vocês são apenas... fadas da floresta?"
 
 # game/scripts/ash_events.rpy:4159
 translate pt_br greenf2_9ee9d7be:
 
     # gfair "Yup!"
-    gfair ""
+    gfair "Isso mesmo!"
 
 # game/scripts/ash_events.rpy:4160
 translate pt_br greenf2_f06249b6:
 
     # c "What do you do all day?"
-    c ""
+    c "O que vocês fazem o dia todo?"
 
 # game/scripts/ash_events.rpy:4161
 translate pt_br greenf2_24c5eebe:
 
     # gfair "You know, fly around and eat bugs."
-    gfair ""
+    gfair "Você sabe, voar e comer insetos."
 
 # game/scripts/ash_events.rpy:4162
 translate pt_br greenf2_41f6a67d:
 
     # a "Disgusting..."
-    a ""
+    a "Que nojento..."
 
 # game/scripts/ash_events.rpy:4163
 translate pt_br greenf2_e1907666:
 
     # c "You're all wearing the same uniform... Have I seen that before?"
-    c ""
+    c "Vocês todas estão vestindo o mesmo uniforme... Eu já vi isso antes?"
 
 # game/scripts/ash_events.rpy:4164
 translate pt_br greenf2_e9877e46:
 
     # gfair "It's nothing special... we just wear what we can throw together."
-    gfair ""
+    gfair "Não é nada especial... nós só vestimos o que conseguimos encontrar."
 
 # game/scripts/ash_events.rpy:4167
 translate pt_br greenf2_9dea3ed5:
 
     # gfair "We'll be out of your hair as soon as my sister is willing and able. Hopefully you'll just forget about us... Unless we make you."
-    gfair ""
+    gfair "Nós vamos sairemos do seu caminho assim que a minha irmã for capaz e estiver disposta. Nós esperamos que você simplesmente se esqueça de nós... A menos que nós mesmos te obriguemos."
 
 # game/scripts/ash_events.rpy:4168
 translate pt_br greenf2_45295d0f:
 
     # c "Make me forget?"
-    c ""
+    c "Nos obrigar a esquecer?"
 
 # game/scripts/ash_events.rpy:4169
 translate pt_br greenf2_f71970b0:
 
     # gfair "Not only can I hide away from the human eye, I can make everyone around me forget whatever I want."
-    gfair ""
+    gfair "Eu não posso apenas me esconder do olho humano, eu também posso fazer todos ao meu redor se esquecerem do que eu quiser..."
 
 # game/scripts/ash_events.rpy:4170
 translate pt_br greenf2_bb2860fe:
 
     # bot "Why didn't you just do that then? Why not just make us all forget everything in the first place?"
-    bot ""
+    bot "E por que você apenas não fez isso então? Por que não simplesmente fazer com que todos nós esqueçamos tudo desde o início?"
 
 # game/scripts/ash_events.rpy:4172
 translate pt_br greenf2_a3233844:
 
     # gfair "Uh, well... that's because it would probably break my crystal. I'm on use sixty nine, so I don't want to use it anymore."
-    gfair ""
+    gfair "Hum, bem... isso é porque eu provavelmente quebraria o meu cristal. Eu estou no sexagésimo nono uso, então eu não quero usá-lo mais."
 
 # game/scripts/ash_events.rpy:4176
 translate pt_br greenf2_2137cc9a:
 
     # gfair "I'm helping my sister, obviously."
-    gfair ""
+    gfair "Eu estou ajudando a minha irmã, obviamente."
 
 # game/scripts/ash_events.rpy:4179
 translate pt_br greenf2_e954314b:
 
     # gfair "Great, now that I've answered all of your questions, I'm sure you won't mind us staying in here for a few days?"
-    gfair ""
+    gfair "Ótimo, agora que respondi todas as suas perguntas, tenho certeza de que você não se importará que fiquemos aqui por alguns dias, certo?"
 
 # game/scripts/ash_events.rpy:4180
 translate pt_br greenf2_5dfdbcc5:
 
     # c "That's fine."
-    c ""
+    c "Tudo bem."
 
 # game/scripts/ash_events.rpy:4181
 translate pt_br greenf2_99ff1dc1:
 
     # gfair "Wonderful. Again, please don't tell anyone we're here."
-    gfair ""
+    gfair "Maravilha. E novamente, por favor, não diga a ninguém que estamos aqui."
 
 # game/scripts/ash_events.rpy:4183
 translate pt_br greenf2_4aa2ac43:
 
     # a "She's really going to be fine?"
-    a ""
+    a "Ela vai ficar bem mesmo?"
 
 # game/scripts/ash_events.rpy:4184
 translate pt_br greenf2_f06fd434:
 
     # gfair "Hm? Why do you care?"
-    gfair ""
+    gfair "Hm? Por que quer saber?"
 
 # game/scripts/ash_events.rpy:4185
 translate pt_br greenf2_b517592a:
 
     # a "Her life is in danger..."
-    a ""
+    a "A vida dela está em risco..."
 
 # game/scripts/ash_events.rpy:4187
 translate pt_br greenf2_9d8262db:
 
     # gfair "..."
-    gfair ""
+    gfair "..."
 
 # game/scripts/ash_events.rpy:4189
 translate pt_br greenf2_83e04ec2:
 
     # gfair "It was you wasn't it? You saved her life."
-    gfair ""
+    gfair "Foi você, não foi? Você salvou a vida dela."
 
 # game/scripts/ash_events.rpy:4190
 translate pt_br greenf2_28e5f1df:
 
     # a "I saved her life?"
-    a ""
+    a "Eu salvei a vida dela?"
 
 # game/scripts/ash_events.rpy:4192
 translate pt_br greenf2_965c8b2d:
 
     # gfair "There are three main causes to a death caused from a crystal imploding. Two of them relate to the coma, such as dehydration. But the most prevalent these days is blood loss."
-    gfair ""
+    gfair "Existem três causas principais para uma morte causada pela implosão de cristais. Dois deles estão relacionados com o coma, como a desidratação. Mas o mais comum atualmente é a perda de sangue."
 
 # game/scripts/ash_events.rpy:4193
 translate pt_br greenf2_298b991e:
 
     # gfair "Our crowns shatter into a million pieces when our crystals implode... without urgent care, she was likely to die from blood loss."
-    gfair ""
+    gfair "As nossas coroas se estilhaçam em milhões de pedaços quando nossos cristais implodem... sem cuidados urgentes, ela provavelmente morreria por perda de sangue."
 
 # game/scripts/ash_events.rpy:4195
 translate pt_br greenf2_2b2f5499:
 
     # rfair "Do you hear yourself? She wouldn't have been in this position if it wasn't for them in the first place!"
-    rfair ""
+    rfair "Você está se escutando? Ela não estaria nessa situação se não fosse por eles!"
 
 # game/scripts/ash_events.rpy:4196
 translate pt_br greenf2_a20d319f:
 
     # gfair "Oh? So it's their fault then. The humans who had no idea we existed before a couple days ago? How exactly were they suppose to prepare for an invisible fairy who happens to freak out at the sight of humans?"
-    gfair ""
+    gfair "Ah? Então a culpa é deles. Os humanos que não faziam a menor noção da nossa existencia até alguns dias atrás? Como exatamente eles deveriam se preparar para uma fada que entra em pânico ao ver humanos?"
 
 # game/scripts/ash_events.rpy:4198
 translate pt_br greenf2_2f79515a:
 
     # rfair "Everything is their fault! We wouldn't need to hide if it weren't for them!"
-    rfair ""
+    rfair "Isso tudo é culpa deles! Nós não precisaríamos nos esconder se não fosse por eles!"
 
 # game/scripts/ash_events.rpy:4200
 translate pt_br greenf2_11aeb91a:
 
     # gfair "You know that isn't true, we hid from the Elves as well. They hold no responsibility for things they have no knowledge of."
-    gfair ""
+    gfair "Você sabe que isso não é verdade, nós também nos escondemos dos Elfos. Eles não têm nenhuma responsabilidade pelas coisas das quais não entendem."
 
 # game/scripts/ash_events.rpy:4201
 translate pt_br greenf2_791dc747:
 
     # rfair "BUT-"
-    rfair ""
+    rfair "MAS-"
 
 # game/scripts/ash_events.rpy:4202
 translate pt_br greenf2_e493b7b4:
 
     # gfair "But what they do hold responsibility for is saving our sister's life, whom they had no prior knowledge of and were not aware of how dangerous she could be."
-    gfair ""
+    gfair "Mas eles têm responsabilidade por salvar a vida da nossa irmã, a quem eles não tinham nenhum conhecimento prévio e não tinham conhecinmento do perigo que eles representam."
 
 # game/scripts/ash_events.rpy:4204
 translate pt_br greenf2_b46e2e56:
 
     # rfair "Give me a fucking break, what's a fairy going-"
-    rfair ""
+    rfair "Ah, dá um tempo porra! o que uma fada vai-"
 
 # game/scripts/ash_events.rpy:4205
 translate pt_br greenf2_0f06323c:
 
     # gfair "-We can be quite dangerous when we want to be, sis."
-    gfair ""
+    gfair "-Nós podemos ser bem perigosas se nós quisermos, mana."
 
 # game/scripts/ash_events.rpy:4207
 translate pt_br greenf2_62f8a19f:
@@ -15093,127 +15093,127 @@ translate pt_br greenf2_62f8a19f:
 translate pt_br greenf2_1a3a177b:
 
     # gfair "What are your names?"
-    gfair ""
+    gfair "Quais são os seus nomes?"
 
 # game/scripts/ash_events.rpy:4211
 translate pt_br greenf2_c0926393:
 
     # rfair "What are you doing...?"
-    rfair ""
+    rfair "O que você está fazendo...?"
 
 # game/scripts/ash_events.rpy:4212
 translate pt_br greenf2_36e4abd1:
 
     # gfair "Paying back our debt."
-    gfair ""
+    gfair "Pagando a nossa dívida."
 
 # game/scripts/ash_events.rpy:4213
 translate pt_br greenf2_9d7f3316:
 
     # rfair "We don't even know them!"
-    rfair ""
+    rfair "Nós nem mesmo conhecemos eles!"
 
 # game/scripts/ash_events.rpy:4214
 translate pt_br greenf2_22d5271b:
 
     # gfair "We know them enough to know they'd save a fairy's life when they could have killed her, or reported her."
-    gfair ""
+    gfair "Nós conhecemos eles bem o suficiente para saber que eles salvam a vida de uma fada quando podíamos ter matado ela, ou a denunciado."
 
 # game/scripts/ash_events.rpy:4216
 translate pt_br greenf2_62f8a19f_1:
 
     # rfair "..."
-    rfair ""
+    rfair "..."
 
 # game/scripts/ash_events.rpy:4218
 translate pt_br greenf2_6277d4d3:
 
     # gfair "Well?"
-    gfair ""
+    gfair "Então?"
 
 # game/scripts/ash_events.rpy:4219
 translate pt_br greenf2_4d2f9f3c:
 
     # a "Ashley."
-    a ""
+    a "Ashley."
 
 # game/scripts/ash_events.rpy:4220
 translate pt_br greenf2_e691e4b4:
 
     # bot "[botname]."
-    bot ""
+    bot "[botname]."
 
 # game/scripts/ash_events.rpy:4223
 translate pt_br greenf2_c6896ec7:
 
     # rfair "What a terrible name..."
-    rfair ""
+    rfair "Que nome horível..."
 
 # game/scripts/ash_events.rpy:4225
 translate pt_br greenf2_e85f4530:
 
     # gfair "I promise, no harm will come to you or this hotel."
-    gfair ""
+    gfair "Eu prometo, nenhum dano será causado a vocês ou a esse hotel."
 
 # game/scripts/ash_events.rpy:4226
 translate pt_br greenf2_82fb1a47:
 
     # c "You haven't told us your name. How can I trust you?"
-    c ""
+    c "Vocês não nos contaram os seus nomes. Como eu posso confiar em vocês?"
 
 # game/scripts/ash_events.rpy:4227
 translate pt_br greenf2_cd6d3b18:
 
     # gfair "Hmph. Well, I can't really argue against that. Trust me, you'll regret it more if you don't tell me your name."
-    gfair ""
+    gfair "Hmph. Bem, eu posso realmente contestar isso. Acredite, você vai se arrepender mais se não disser o seu nome."
 
 # game/scripts/ash_events.rpy:4228
 translate pt_br greenf2_0b036c12:
 
     # c "...[name]."
-    c ""
+    c "...[name]"
 
 # game/scripts/ash_events.rpy:4229
 translate pt_br greenf2_7cb8e43e:
 
     # rfair "This is ridiculous... I hope you know what you're doing. You could be ruining everything..."
-    rfair ""
+    rfair "Isso é ridículo... Eu espero que você saiba o que está fazendo. você pode estar arruinando tudo..."
 
 # game/scripts/ash_events.rpy:4231
 translate pt_br greenf2_3a45cc12:
 
     # gfair "{i}{size=-10}If anyone is going to ruin anything, it's going to be you with your big fucking mouth, stop questioning me!{/size}{/i}"
-    gfair ""
+    gfair "{i}{size=-10}Se alguém vai arruinar tudo, vai ser você com a porra da sua boca grande, pare de me questionar!{/size}{/i}"
 
 # game/scripts/ash_events.rpy:4233
 translate pt_br greenf2_02146271:
 
     # gfair "Uhh, great! We'll take care of our sister until she's awake. We'll be gone as soon as possible."
-    gfair ""
+    gfair "Humm, ótimo! Nós vamos tomar conta da nossa irmã até ela acordar. Nós vamos embora assim que possível."
 
 # game/scripts/ash_events.rpy:4235
 translate pt_br greenf2_5040ce04:
 
     # a "You... don't need to leave, you know... You can stay here for as long as you want."
-    a ""
+    a "Vocês... não precisam ir embora, sabe... Vocês podem ficar aqui pelo tempo que quiserem."
 
 # game/scripts/ash_events.rpy:4236
 translate pt_br greenf2_da6d71b8:
 
     # gfair "I'm sorry, but we're very busy people."
-    gfair ""
+    gfair "Eu sinto muito, mas somos pessoas muito ocupadas."
 
 # game/scripts/ash_events.rpy:4237
 translate pt_br greenf2_3c685d27:
 
     # a "Oh... okay..."
-    a ""
+    a "Ah... tudo bem..."
 
 # game/scripts/ash_events.rpy:4239
 translate pt_br greenf2_48b3b2a5:
 
     # "You may now visit the fairies in the Laundry Room."
-    ""
+    "Agora você pode visitar as fadas na Lavanderia."
 
 # game/scripts/ash_events.rpy:4248
 translate pt_br ashfairy_522bf703:
