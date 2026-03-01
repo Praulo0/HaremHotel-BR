@@ -15087,7 +15087,7 @@ translate pt_br greenf2_0f06323c:
 translate pt_br greenf2_62f8a19f:
 
     # rfair "..."
-    rfair ""
+    rfair "..."
 
 # game/scripts/ash_events.rpy:4209
 translate pt_br greenf2_1a3a177b:
@@ -15219,43 +15219,43 @@ translate pt_br greenf2_48b3b2a5:
 translate pt_br ashfairy_522bf703:
 
     # "You follow Ashley outside of the hotel. You expect her to turn left to the road, but instead she turns right... into a forest."
-    ""
+    "Você segue Ashley para fora do hotel. Você espera que ela vire à esquerda para a estrada, mas, em vez disso, ela vira à direita... para dentro de uma floresta."
 
 # game/scripts/ash_events.rpy:4249
 translate pt_br ashfairy_453e4c4a:
 
     # c "A forest..."
-    c ""
+    c "Uma floresta..."
 
 # game/scripts/ash_events.rpy:4250
 translate pt_br ashfairy_c5231b19:
 
     # a "Yes, I know... at this time of night. But it's really beautiful!"
-    a ""
+    a "Sim, eu sei... a esta hora da noite. Mas é realmente lindo."
 
 # game/scripts/ash_events.rpy:4251
 translate pt_br ashfairy_2d7368d2:
 
     # c "Beautiful? I can barely see anything. Why didn't we bring a flash light?"
-    c ""
+    c "Lindo? Eu nao consigo ver quase nada. Por que nós não trouxemos uma lanterna?"
 
 # game/scripts/ash_events.rpy:4252
 translate pt_br ashfairy_14f738ff:
 
     # a "Urgh, stop talking so loud... just follow me."
-    a ""
+    a "Utgh, para de falar tão alto... apenas siga-me."
 
 # game/scripts/ash_events.rpy:4254
 translate pt_br ashfairy_87274c3a:
 
     # a "We're getting close, okay? Be quiet."
-    a ""
+    a "Nós estamos chegando perto, tá bom? Fique quieto."
 
 # game/scripts/ash_events.rpy:4256
 translate pt_br ashfairy_55db169f:
 
     # c "Um... what's going on with your eyes? They're kind of pink."
-    c ""
+    c "Hum... o que está acontecendo com os seus olhos? Eles estão meio rosados."
 
 # game/scripts/ash_events.rpy:4257
 translate pt_br ashfairy_e0d11898:
@@ -15267,367 +15267,367 @@ translate pt_br ashfairy_e0d11898:
 translate pt_br ashfairy_9f4a463b:
 
     # a "You know I have dark elf eyes, right? That's what they do."
-    a ""
+    a "Você sabe que eu tenho olhos de elfo negro, certo? É isso que eles fazem."
 
 # game/scripts/ash_events.rpy:4259
 translate pt_br ashfairy_478e7d60:
 
     # c "Are you part dark elf?"
-    c ""
+    c "Você tem sangue de elfo negro?"
 
 # game/scripts/ash_events.rpy:4261
 translate pt_br ashfairy_a807a180:
 
     # c "Close to what?"
-    c ""
+    c "Perto do quê?"
 
 # game/scripts/ash_events.rpy:4262
 translate pt_br ashfairy_4738f52f:
 
     # a "I said we need to be quiet! Shh, come on."
-    a ""
+    a "Eu disse que precisamos ficar quietos! Shh, vamos lá."
 
 # game/scripts/ash_events.rpy:4264
 translate pt_br ashfairy_97bd19ad:
 
     # a "{i}I've been coming out here a couple times a week since I moved here.{/i}"
-    a ""
+    a "{i}Tenho vindo aqui algumas vezes por semana desde que me mudei para cá."
 
 # game/scripts/ash_events.rpy:4265
 translate pt_br ashfairy_fb19a6b2:
 
     # c "{i}By yourself?{/i}"
-    c ""
+    c "{i}Sozinha?{/i}"
 
 # game/scripts/ash_events.rpy:4266
 translate pt_br ashfairy_0288fb44:
 
     # a "{i}Remember, it's not very dark for me.{/i}"
-    a ""
+    a "{i}Lembre-se que não está muito escuro para mim.{/i}"
 
 # game/scripts/ash_events.rpy:4267
 translate pt_br ashfairy_84e08c1b:
 
     # c "{i}You're still going out in a forest at night by yourself...{/i}"
-    c ""
+    c "{i}Você ainda está saindo em uma floresta à noite sozinha...{/i}"
 
 # game/scripts/ash_events.rpy:4268
 translate pt_br ashfairy_58618b28:
 
     # a "{i}I've got a knife.{/i}"
-    a ""
+    a "{i}Eu tenho uma faca.{/i}"
 
 # game/scripts/ash_events.rpy:4270
 translate pt_br ashfairy_c72e617e:
 
     # a "{i}Besides, who'd want to eat me? I'm not a fulfilling snack.{/i}"
-    a ""
+    a "{i}Além disso, quem iria querer me comer? Eu não sou um lanche satisfatório.{/i}"
 
 # game/scripts/ash_events.rpy:4273
 translate pt_br ashfairy_d462c882:
 
     # a "Hehe~ {i}Shut up! We need to be quiet.{/i}"
-    a ""
+    a "Hehe~ {i}Cale a boca! Nós precisamos ficar quietos.{/i}"
 
 # game/scripts/ash_events.rpy:4275
 translate pt_br ashfairy_ae64cc7a:
 
     # a "What do you know..."
-    a ""
+    a "O que você sabe..."
 
 # game/scripts/ash_events.rpy:4276
 translate pt_br ashfairy_96b310e8:
 
     # c "{i}Why do you come out here?{/i}"
-    c ""
+    c "{i}Por que você vem aqui?{/i}"
 
 # game/scripts/ash_events.rpy:4277
 translate pt_br ashfairy_4258b126:
 
     # a "{i}Well, I kind of like being alone sometimes... very alone. It helps me think. Even when I was living with my parents, I would always go outside and walk around.{/i}"
-    a ""
+    a "{i}Bem, eu meio que gosto de ficar sozinha às vezes... muito sozinha. Isso me ajuda a pensar. Mesmo quando eu morava com meus pais, eu sempre saía e caminhava por aí.{/i}"
 
 # game/scripts/ash_events.rpy:4278
 translate pt_br ashfairy_ec9e07cd:
 
     # a "{i}Maybe that sounds a bit creepy... but I wasn't walking around in the neighborhood or anything, just the forest...{/i}"
-    a ""
+    a "{i}Talvez isso soe um pouco assustador... mas eu não estava caminhando pelo bairro ou algo assim, apenas pela floresta...{/i}"
 
 # game/scripts/ash_events.rpy:4280
 translate pt_br ashfairy_593bd20d:
 
     # a "{i}Forests, especially at night, are really calm. The wind barely moves, the trees don't make a sound... It's amazing.{/i}"
-    a ""
+    a "{i}Florestas, especialmente à noite, são realmente calmas. O vento mal se move, as árvores não fazem um som... É incrível.{/i}"
 
 # game/scripts/ash_events.rpy:4281
 translate pt_br ashfairy_29955593:
 
     # a "{i}Even the smallest sounds are kind of scary though...{/i}"
-    a ""
+    a "{i}Mesmo os menores sons são meio assustadores, no entanto...{/i}"
 
 # game/scripts/ash_events.rpy:4282
 translate pt_br ashfairy_454fcc19:
 
     # a "{i}Okay, we should start seeing some any second... Keep an eye out.{/i}"
-    a ""
+    a "{i}Okay, devemos começar a ver alguns a qualquer segundo... Fique de olho.{/i}"
 
 # game/scripts/ash_events.rpy:4283
 translate pt_br ashfairy_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/scripts/ash_events.rpy:4285
 translate pt_br ashfairy_d19f855d_1:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/scripts/ash_events.rpy:4286
 translate pt_br ashfairy_0c4772c0:
 
     # c "What am I supposed to be looking out for?"
-    c ""
+    c "O que eu deveria estar olhando?"
 
 # game/scripts/ash_events.rpy:4287
 translate pt_br ashfairy_498b881e:
 
     # a "I said SHH!"
-    a ""
+    a "Eu disse SHH!"
 
 # game/scripts/ash_events.rpy:4289
 translate pt_br ashfairy_24c08940:
 
     # a "*gasp*!"
-    a ""
+    a "*ah*!"
 
 # game/scripts/ash_events.rpy:4291
 translate pt_br ashfairy_72bf1269:
 
     # a "{i}You missed it!{/i}"
-    a ""
+    a "{i}Você perdeu!{/i}"
 
 # game/scripts/ash_events.rpy:4292
 translate pt_br ashfairy_756bcd55:
 
     # c "{i}What was that blue light?{/i}"
-    c ""
+    c "{i}O que foi aquela luz azul?{/i}"
 
 # game/scripts/ash_events.rpy:4293
 translate pt_br ashfairy_2251ac2b:
 
     # a "{i}Come here!{/i}"
-    a ""
+    a "{i}Venha aqui!{/i}"
 
 # game/scripts/ash_events.rpy:4296
 translate pt_br ashfairy_ba341cae:
 
     # a "{i}Watch...{/i}"
-    a ""
+    a "{i}Olhe...{/i}"
 
 # game/scripts/ash_events.rpy:4297
 translate pt_br ashfairy_d19f855d_2:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/scripts/ash_events.rpy:4298
 translate pt_br ashfairy_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4299
 translate pt_br ashfairy_2b9fe84b:
 
     # c "{i}You know I can't see that well, right?{/i}"
-    c ""
+    c "{i}Você sabe que eu não consigo ver muito bem, certo?{/i}"
 
 # game/scripts/ash_events.rpy:4300
 translate pt_br ashfairy_d4eab6fd:
 
     # a "{i}Yes, I know... Shh..., just watch.{/i}"
-    a ""
+    a "{i}Sim, eu sei... Shh..., apenas observe.{/i}"
 
 # game/scripts/ash_events.rpy:4301
 translate pt_br ashfairy_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4304
 translate pt_br ashfairy_f12a4594:
 
     # a "{i}There!{/i}"
-    a ""
+    a "{i}Ali!{/i}"
 
 # game/scripts/ash_events.rpy:4332
 translate pt_br ashfairy_4ee2804b:
 
     # a "Cool, right? Syl'anar has awesome fireflies!"
-    a ""
+    a "Legal, né? Syl'anar tem vaga-lumes incríveis!"
 
 # game/scripts/ash_events.rpy:4333
 translate pt_br ashfairy_6792acba:
 
     # c "Those were fireflies?"
-    c ""
+    c "Aquelas eram vaga-lumes?"
 
 # game/scripts/ash_events.rpy:4334
 translate pt_br ashfairy_a2524043:
 
     # a "Yeah! When I was young I tried to put one in a bottle, but I could never catch one..."
-    a ""
+    a "Sim! Quando eu era jovem, tentei colocar um dentro de uma garrafa, mas nunca consegui pegar um..."
 
 # game/scripts/ash_events.rpy:4335
 translate pt_br ashfairy_e6611faa:
 
     # c "I've never seen one that bright before..."
-    c ""
+    c "Eu nunca tinha visto um tão brilhante antes..."
 
 # game/scripts/ash_events.rpy:4336
 translate pt_br ashfairy_a0e9b393:
 
     # a "I guess there's all sorts of crazy things over here, huh? Syl'anar is a pretty exotic place compared to the rest of the world, I guess. Since we have Elves and all."
-    a ""
+    a "Eu acho que tem todo tipo de coisa louca por aqui, né? Syl'anar é um lugar bem exótico comparado ao resto do mundo, eu acho. Já que temos Elfos e tudo mais."
 
 # game/scripts/ash_events.rpy:4337
 translate pt_br ashfairy_9625ef68:
 
     # a "We have the same fireflies as the rest of the world, but these are so much cooler, don't you think?"
-    a ""
+    a "Nós temos os mesmos vaga-lumes que o resto do mundo, mas esses são muito mais legais, não acha?"
 
 # game/scripts/ash_events.rpy:4338
 translate pt_br ashfairy_27bc76c1:
 
     # c "Maybe I'll catch one for you some day."
-    c ""
+    c "Talvez eu pegue um para você algum dia."
 
 # game/scripts/ash_events.rpy:4340
 translate pt_br ashfairy_390cf316:
 
     # a "That would be so cool, [name]!"
-    a ""
+    a "Isso seria tão legal, [name]!"
 
 # game/scripts/ash_events.rpy:4342
 translate pt_br ashfairy_a33a82a5:
 
     # a "Come on, follow me. We're not done yet!"
-    a ""
+    a "Vamos lá, me siga. Ainda não terminamos!"
 
 # game/scripts/ash_events.rpy:4343
 translate pt_br ashfairy_bc7dfc89:
 
     # c "There's more?"
-    c ""
+    c "Tem mais?"
 
 # game/scripts/ash_events.rpy:4344
 translate pt_br ashfairy_eec09c20:
 
     # a "Yeah! I didn't actually drag you out of the hotel to spend time in a forest. There's an even better place I'll take you to."
-    a ""
+    a "Tá! Eu na verdade não te arrastei para fora do hotel para passar tempo em uma floresta. Tem um lugar ainda melhor que eu vou te levar."
 
 # game/scripts/ash_events.rpy:4345
 translate pt_br ashfairy_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "Sério?"
 
 # game/scripts/ash_events.rpy:4346
 translate pt_br ashfairy_9d6842a9:
 
     # a "Come on!"
-    a ""
+    a "Vamos lá!"
 
 # game/scripts/ash_events.rpy:4348
 translate pt_br ashfairy_c9e8758e:
 
     # "The two of you walk for some time... You occasionally stumble on a root due to your poor night vision, but Ashley makes sure you're in sight at all times."
-    ""
+    "Vocês dois caminham por um tempo... Você ocasionalmente tropeça em uma raiz devido à sua má visão noturna, mas Ashley garante que você esteja sempre à vista."
 
 # game/scripts/ash_events.rpy:4349
 translate pt_br ashfairy_095b1436:
 
     # "You were about to ask Ashley how much further it will be until you heard something. Waves."
-    ""
+    "Você estava prestes a perguntar a Ashley quanto tempo falta até ouvir algo. Ondas."
 
 # game/scripts/ash_events.rpy:4351
 translate pt_br ashfairy_9879b883:
 
     # a "Feast your eyes on paradise!"
-    a ""
+    a "Aprecie o paraíso!"
 
 # game/scripts/ash_events.rpy:4352
 translate pt_br ashfairy_4a6a3208:
 
     # a "Nobody ever comes here because it's not a public beach! The rest of it kind of sucks, but this place is perfect!"
-    a ""
+    a "Ninguém nunca vem aqui porque não é uma praia pública! O resto meio que é ruim, mas esse lugar é perfeito!"
 
 # game/scripts/ash_events.rpy:4353
 translate pt_br ashfairy_be360f16:
 
     # c "It's beautiful."
-    c ""
+    c "É muito bonito."
 
 # game/scripts/ash_events.rpy:4355
 translate pt_br ashfairy_bf5a75da:
 
     # a "Nobody else in the world knows about this place. Just you and me."
-    a ""
+    a "Ninguém mais no mundo sabe sobre esse lugar. Apenas você e eu."
 
 # game/scripts/ash_events.rpy:4356
 translate pt_br ashfairy_c98a85b2:
 
     # c "Why haven't you mentioned this place before?"
-    c ""
+    c "Por que você nunca mencionou esse lugar antes?"
 
 # game/scripts/ash_events.rpy:4358
 translate pt_br ashfairy_b6988745:
 
     # a "It wouldn't be much of a getaway if I told everyone about it."
-    a ""
+    a "Não seria um bom refúgio se eu contasse para todo mundo sobre ele."
 
 # game/scripts/ash_events.rpy:4360
 translate pt_br ashfairy_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4361
 translate pt_br ashfairy_da2005d6:
 
     # a "Sorry I didn't tell you."
-    a ""
+    a "Desculpe por não ter te contado."
 
 # game/scripts/ash_events.rpy:4366
 translate pt_br ashfairy_b035f21c:
 
     # a "Thank you."
-    a ""
+    a "Obrigada."
 
 # game/scripts/ash_events.rpy:4368
 translate pt_br ashfairy_3dad7718:
 
     # a "Me too."
-    a ""
+    a "Eu também."
 
 # game/scripts/ash_events.rpy:4370
 translate pt_br ashfairy_32df75c9:
 
     # a "But yeah, this is my special getaway place. I thought I would finally show you the place I run away to."
-    a ""
+    a "Mas sim, esse é o meu refúgio especial. Eu pensei que finalmente mostraria para você o lugar para onde eu fujo."
 
 # game/scripts/ash_events.rpy:4371
 translate pt_br ashfairy_b4a86f1d:
 
     # c "Why do you feel the need to run away?"
-    c ""
+    c "Por que você sente a necessidade de fugir?"
 
 # game/scripts/ash_events.rpy:4372
 translate pt_br ashfairy_3aadd897:
 
     # a "...Well... this was sort of the place I could always just... be myself. Nobody could ever find me, not in a million years. It feels like I could think about anything out here."
-    a ""
+    a "...Bem... este era meio que um lugar aonde eu sempre podia apenas... ser eu mesma. Ninguém jamais poderia me encontrar, nem em um milhão de anos."
 
 # game/scripts/ash_events.rpy:4373
 translate pt_br ashfairy_5e7ba265:
