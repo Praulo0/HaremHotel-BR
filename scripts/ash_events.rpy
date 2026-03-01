@@ -15261,7 +15261,7 @@ translate pt_br ashfairy_55db169f:
 translate pt_br ashfairy_e0d11898:
 
     # a "I have scotopic eyes, [name]. I can see in the dark!"
-    a ""
+    a "Eu tenho olhos escotópicos, [name]. Eu consigo enxergar no escuro!"
 
 # game/scripts/ash_events.rpy:4258
 translate pt_br ashfairy_9f4a463b:
@@ -15627,475 +15627,475 @@ translate pt_br ashfairy_b4a86f1d:
 translate pt_br ashfairy_3aadd897:
 
     # a "...Well... this was sort of the place I could always just... be myself. Nobody could ever find me, not in a million years. It feels like I could think about anything out here."
-    a "...Bem... este era meio que um lugar aonde eu sempre podia apenas... ser eu mesma. Ninguém jamais poderia me encontrar, nem em um milhão de anos."
+    a "...Bem... este era meio que um lugar aonde eu sempre podia apenas... ser eu mesma. Ninguém jamais poderia me encontrar, nem em um milhão de anos. Parece que eu poderia pensar sobre qualquer coisa aqui fora."
 
 # game/scripts/ash_events.rpy:4373
 translate pt_br ashfairy_5e7ba265:
 
     # a "I could completely undress and just sleep under a tree without worrying about a thing. Maybe that sounds a little weird, but it feels nice."
-    a ""
+    a "Eu poderia me despir completamente e apenas dormir embaixo de uma árvore sem me preocupar com nada. Talvez isso soe um pouco estranho, mas é uma sensação boa."
 
 # game/scripts/ash_events.rpy:4375
 translate pt_br ashfairy_f2a34693:
 
     # a "Seriously, you should try it. I wouldn't mind watching you sleep naked! But don't be surprised if you find a positive pregnancy test~"
-    a ""
+    a "É sério, você deveria tentar. Eu não me importaria de ver você dormir nu! Mas não se surpreenda se o teste de gravidez der positivo~"
 
 # game/scripts/ash_events.rpy:4377
 translate pt_br ashfairy_8a4f51a0:
 
     # a "But I'm not really trying to run away from you guys, I couldn't live without the hotel. It's just nice to get away from everything."
-    a ""
+    a "Mas não estou realmente tentando fugir de vocês, não conseguiria viver sem o hotel. É apenas bom ficar longe de tudo."
 
 # game/scripts/ash_events.rpy:4381
 translate pt_br ashfairtalk1_de4e09b0:
 
     # a "One of my ancestors fucked a dark elf. So now my family has dark elf eyes since they're a dominant gene and all."
-    a ""
+    a "Uma de minhas ancestrais fodeu um elfo negro. Então a minha família tem olhos de elfo negro, já que são um gene dominante e tal."
 
 # game/scripts/ash_events.rpy:4382
 translate pt_br ashfairtalk1_df23bbb3:
 
     # a "It's pretty rare for humans to get pure dark elf eyes, usually they're pink like Maria's. I guess I lucked out! I can see great in the dark! Not perfectly though."
-    a ""
+    a "É muito raro os humanos terem olhos puramente escuros de elfo, geralmente eles são rosados como os da Maria. Acho que tive sorte! Eu consigo enxergar muito bem no escuro! Mas não perfeitamente."
 
 # game/scripts/ash_events.rpy:4383
 translate pt_br ashfairtalk1_fe9f8433:
 
     # c "So you're part dark elf?"
-    c ""
+    c "Então você é meio elfo negro?"
 
 # game/scripts/ash_events.rpy:4384
 translate pt_br ashfairtalk1_1dd7f553:
 
     # a "Yeah, only like 3 percent though."
-    a ""
+    a "Sim, mas só uns 3 por cento."
 
 # game/scripts/ash_events.rpy:4386
 translate pt_br ashfairtalk1_f9129b94:
 
     # a "Hm."
-    a ""
+    a "Hm."
 
 # game/scripts/ash_events.rpy:4387
 translate pt_br ashfairtalk1_160bf343:
 
     # a "I never really thought of it before, but she could still be alive."
-    a ""
+    a "Eu nunca parei pra pensar nisso antes, mas pode ser que ela ainda esteja viva."
 
 # game/scripts/ash_events.rpy:4388
 translate pt_br ashfairtalk1_e8efcfb5:
 
     # c "Your dark elf ancestor?"
-    c ""
+    c "O seu ancestral elfo negro?"
 
 # game/scripts/ash_events.rpy:4389
 translate pt_br ashfairtalk1_e10b319b:
 
     # a "Yeah, she'd be old, even for an Elf, but it's completely possible."
-    a ""
+    a "Isso, ela seria velha, até mesmo para uma Elfa, mas é completamente possível?"
 
 # game/scripts/ash_events.rpy:4390
 translate pt_br ashfairtalk1_4c78d0e2:
 
     # c "Anything else special about you?"
-    c ""
+    c "E tem mais alguma coisa especial sobre você?"
 
 # game/scripts/ash_events.rpy:4392
 translate pt_br ashfairtalk1_fc5a4c57:
 
     # a "You mean besides my impossibly cute looks? Hehe."
-    a ""
+    a "Quer dizer além da minha aparência impossivelmente fofa? Hehe."
 
 # game/scripts/ash_events.rpy:4394
 translate pt_br ashfairtalk1_acfe108a:
 
     # a "Nah, I only have special eyes. But they're not perfect. I need contacts or it's pretty blurry in the day time. At night I can see very clear though."
-    a ""
+    a "Nah, só os meus olhos que são especiais. Mas eles não são perfeitos. Eu preciso de lentes de contato ou é bem borrado durante o dia. À noite eu consigo enxergar muito bem, no entanto."
 
 # game/scripts/ash_events.rpy:4399
 translate pt_br ashfairtalk1_2c56c6e7:
 
     # a "Pretty good! I'm doing better than Felicity or Emma ever have!"
-    a ""
+    a "Muito bom! Eu estou fazendo melhor do que Felicity ou Emma já fizeram!"
 
 # game/scripts/ash_events.rpy:4400
 translate pt_br ashfairtalk1_f0b69231:
 
     # c "Oh, really?"
-    c ""
+    c "Ah, é mesmo?"
 
 # game/scripts/ash_events.rpy:4401
 translate pt_br ashfairtalk1_2135d5f7:
 
     # a "Yeah! I've been acing everything lately. I still hate it, but it's something I need to do if I want a big happy family. I'm going to need a well paying job or wait for money to fall into my lap."
-    a ""
+    a "É sim! Eu tenho me saído muito bem ultimamente. Eu ainda odeio isso, mas é algo que eu preciso fazer se eu quero uma grande família feliz. Eu vou precisar de um emprego bem remunerado ou esperar que o dinheiro caia no meu colo."
 
 # game/scripts/ash_events.rpy:4402
 translate pt_br ashfairtalk1_aa7982ce:
 
     # c "Have you made any friends?"
-    c ""
+    c "Você fez algum amigo?"
 
 # game/scripts/ash_events.rpy:4404
 translate pt_br ashfairtalk1_4449cdef:
 
     # a "...No."
-    a ""
+    a "...Não."
 
 # game/scripts/ash_events.rpy:4405
 translate pt_br ashfairtalk1_69bd82a8:
 
     # a "The only people I talk to there are Juliet and Kate. Kate's pretty smart so I can ask her for help when I need it."
-    a ""
+    a "As únicas pessoas com quem eu falo lá são a Juliet e a Kate. A Kate é bem inteligente, então eu posso pedir ajuda para ela quando eu precisar."
 
 # game/scripts/ash_events.rpy:4406
 translate pt_br ashfairtalk1_98af01b5:
 
     # a "Kate is really weird sometimes, I don't think she really realizes it. But she's insanely smart, she gets everything done."
-    a ""
+    a "A Kate é realmente estranha às vezes, eu não acho que ela realmente percebe isso. Mas ela é insanamente inteligente, ela consegue fazer tudo."
 
 # game/scripts/ash_events.rpy:4407
 translate pt_br ashfairtalk1_c84ae7d7:
 
     # a "Actually, uh..."
-    a ""
+    a "Na verdade, uh..."
 
 # game/scripts/ash_events.rpy:4408
 translate pt_br ashfairtalk1_de49fb45:
 
     # a "Someone did ask me out to a date a while ago. I told him to fuck off, but it doesn't really happen that often... It kind of felt nice to be able to tell him that."
-    a ""
+    a "Alguém me convidou para um encontro há algum tempo. Eu disse que ele podia cair fora, mas isso não acontece com frequência... Foi bom poder dizer isso."
 
 # game/scripts/ash_events.rpy:4409
 translate pt_br ashfairtalk1_e51540a3:
 
     # c "You're saying you haven't been constantly barraged with love letters?"
-    c ""
+    c "Você está dizendo que não tem sido constantemente envolvida com cartas de amor?"
 
 # game/scripts/ash_events.rpy:4410
 translate pt_br ashfairtalk1_887f7426:
 
     # a "It's pretty rare, actually..."
-    a ""
+    a "Na verdade, é bem raro..."
 
 # game/scripts/ash_events.rpy:4411
 translate pt_br ashfairtalk1_8adf24a5:
 
     # a "I'm not really sure why people are starting to hit on me now..."
-    a ""
+    a "Eu não tenho certeza de por que as pessoas estão começando a me procurar agora..."
 
 # game/scripts/ash_events.rpy:4412
 translate pt_br ashfairtalk1_c782c0e8:
 
     # c "Maybe it's because you're happier."
-    c ""
+    c "Talvez seja porque você está mais feliz."
 
 # game/scripts/ash_events.rpy:4413
 translate pt_br ashfairtalk1_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4415
 translate pt_br ashfairtalk1_95636ff3:
 
     # c "How are you feeling?"
-    c ""
+    c "Como você está se sentindo?"
 
 # game/scripts/ash_events.rpy:4416
 translate pt_br ashfairtalk1_bebb6dfb:
 
     # a "I'm feeling great!"
-    a ""
+    a "Eu estou me sentindo ótima!"
 
 # game/scripts/ash_events.rpy:4417
 translate pt_br ashfairtalk1_6c1eae52:
 
     # c "...Sometimes it can be really hard to reach out when you're feeling down. I know you have depression, and you can talk about it if you want. I'll listen."
-    c ""
+    c "...Às vezes pode ser realmente difícil se abrir quando você está se sentindo mal. Eu sei que você tem depressão, e você pode falar sobre isso se quiser. Eu vou ouvir."
 
 # game/scripts/ash_events.rpy:4418
 translate pt_br ashfairtalk1_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4419
 translate pt_br ashfairtalk1_6d096024:
 
     # a "...Thank you. You have no idea how much it means to hear someone say that..."
-    a ""
+    a "...Obrigada. Você não tem ideia de quanto isso significa ouvir alguém dizer isso..."
 
 # game/scripts/ash_events.rpy:4420
 translate pt_br ashfairtalk1_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4421
 translate pt_br ashfairtalk1_e124fca7:
 
     # a "I feel lonely, I guess..."
-    a ""
+    a "Acho que me sinto sozinha..."
 
 # game/scripts/ash_events.rpy:4422
 translate pt_br ashfairtalk1_df6f9b17:
 
     # a "I have a lot of really nice people around me, but I feel like none of them really get me..."
-    a ""
+    a "Eu tenho muitas pessoas realmente legais ao meu redor, mas eu sinto que nenhuma delas realmente me entende..."
 
 # game/scripts/ash_events.rpy:4423
 translate pt_br ashfairtalk1_615a9dd3:
 
     # a "Everyone sees me as someone who's really happy, or someone who can be a bit crazy sometimes..."
-    a ""
+    a "Todos me veem como alguém que está realmente feliz, ou alguém que pode ser um pouco louca às vezes..."
 
 # game/scripts/ash_events.rpy:4424
 translate pt_br ashfairtalk1_a694d90b:
 
     # a "It's not their fault, though. That's all I show everyone after all."
-    a ""
+    a "Mas não é culpa deles. É tudo o que eu mostro para todo mundo, afinal de contas."
 
 # game/scripts/ash_events.rpy:4425
 translate pt_br ashfairtalk1_f2c03f9e:
 
     # a "...But there's more than what everyone sees... There's a sad girl deep inside who never really had people she could call a family in all of her life."
-    a ""
+    a "...Mas tem mais do que o que todo mundo vê... Tem uma garota triste lá no fundo que nunca teve pessoas que ela pudesse chamar de família em toda a sua vida."
 
 # game/scripts/ash_events.rpy:4426
 translate pt_br ashfairtalk1_042b1dd7:
 
     # a "Nobody sees that part of me."
-    a ""
+    a "Ninguém vê essa parte de mim."
 
 # game/scripts/ash_events.rpy:4427
 translate pt_br ashfairtalk1_bb8e4b4e_3:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4428
 translate pt_br ashfairtalk1_f7553d49:
 
     # a "...I guess I don't want anyone to see that part of me..."
-    a ""
+    a "...Acho que eu não quero que ninguém veja essa parte de mim..."
 
 # game/scripts/ash_events.rpy:4429
 translate pt_br ashfairtalk1_3d8b66f2:
 
     # a "When I'm alone, it feels like none of it matters. Like who cares if I have friends, who cares what happened in the past..."
-    a ""
+    a "Quando estou sozinha, parece que nada disso importa. Como quem se importa se eu tenho amigos, quem se importa com o que aconteceu no passado..."
 
 # game/scripts/ash_events.rpy:4430
 translate pt_br ashfairtalk1_11b32366:
 
     # a "But the loneliness only hides the pain... It's still there deep inside."
-    a ""
+    a "Mas a solidão apenas esconde a dor... Ela ainda está lá no fundo."
 
 # game/scripts/ash_events.rpy:4431
 translate pt_br ashfairtalk1_bb8e4b4e_4:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4432
 translate pt_br ashfairtalk1_e4b98fbe:
 
     # a "Thank you for listening."
-    a ""
+    a "Obrigada por me ouvir."
 
 # game/scripts/ash_events.rpy:4437
 translate pt_br ashfairtalk1_51ce641b:
 
     # a "I usually come out here for an hour at night to just relax and think."
-    a ""
+    a "Eu geralmente venho aqui à noite por uma hora só para relaxar e pensar."
 
 # game/scripts/ash_events.rpy:4439
 translate pt_br ashfairtalk1_0c849d7f:
 
     # a "The ocean is so calming. There's no lights from the city or noise from cars, or even people to bother you."
-    a ""
+    a "O oceano é tão relaxante. Não tem luzes da cidade ou barulho de carros, ou mesmo pessoas para te incomodar."
 
 # game/scripts/ash_events.rpy:4440
 translate pt_br ashfairtalk1_3b6093d2:
 
     # c "You never seemed like the type of person to do this."
-    c ""
+    c "Você nunca pareceu ser o tipo de pessoa que faria isso."
 
 # game/scripts/ash_events.rpy:4442
 translate pt_br ashfairtalk1_935ae9f9:
 
     # a "...Yeah, I know..."
-    a ""
+    a "...Sim, eu sei..."
 
 # game/scripts/ash_events.rpy:4444
 translate pt_br ashfairtalk1_fd81cec2:
 
     # a "Well, I made a promise that I would be more honest with myself so, here's me being honest. I like to hide away from everything once in a while."
-    a ""
+    a "Bem, eu fiz uma promessa de que seria mais honesta comigo mesma, então aqui estou sendo honesta. Eu gosto de me esconder de tudo"
 
 # game/scripts/ash_events.rpy:4447
 translate pt_br ashfairtalk1_4c59832f:
 
     # a "...Maybe we could be alone... together."
-    a ""
+    a "...Talvez pudéssemos ficar sozinhos... juntos."
 
 # game/scripts/ash_events.rpy:4449
 translate pt_br ashfairtalk1_144d8561:
 
     # a "It's nice, but sometimes I just need to cut everything out."
-    a ""
+    a "Isso é bom, mas às vezes eu só preciso tirar tudo."
 
 # game/scripts/ash_events.rpy:4450
 translate pt_br ashfairtalk1_a30a815e:
 
     # a "But sometimes I'll just build a small sand castle, or look for sea shells, or swim around a bit."
-    a ""
+    a "Mas às vezes eu só construo um pequeno castelo de areia, ou procuro conchas, ou nado um pouco."
 
 # game/scripts/ash_events.rpy:4452
 translate pt_br ashfairtalk1_4f586b86:
 
     # a "But... it's also really fun to be completely naked out here. Nobody would ever come this way, so you don't even need to think about it, you know?"
-    a ""
+    a "Mas... também é muito divertido ficar completamente nu aqui. Ninguém jamais viria por aqui, então você nem precisa pensar sobre isso, sabe?"
 
 # game/scripts/ash_events.rpy:4456
 translate pt_br ashfairtalk1_0f577be0:
 
     # a "Not right now, but I'll need to do something when I'm done with college."
-    a ""
+    a "Não agora, mas eu vou precisar fazer algo quando eu terminar a faculdade."
 
 # game/scripts/ash_events.rpy:4458
 translate pt_br ashfairtalk1_d8171426:
 
     # a "Where do you think I should work?"
-    a ""
+    a "Onde você acha que eu deveria trabalhar?"
 
 # game/scripts/ash_events.rpy:4460
 translate pt_br ashfairjob_fca554ea:
 
     # a "Where do you think I should work?" nointeract
-    a "" nointeract
+    a "Onde você acha que eu deveria trabalhar?" nointeract
 
 # game/scripts/ash_events.rpy:4463
 translate pt_br ashfairjob_292a78a4:
 
     # a "Boring..."
-    a ""
+    a "Chato..."
 
 # game/scripts/ash_events.rpy:4467
 translate pt_br ashfairjob_292a78a4_1:
 
     # a "Boring..."
-    a ""
+    a "Chato..."
 
 # game/scripts/ash_events.rpy:4471
 translate pt_br ashfairjob_2d4629f8:
 
     # a "Yeah, totally! I should absolutely be able to pull someone three times my weight out of the water."
-    a ""
+    a "Sim, totalmente! Eu deveria ser absolutamente capaz de puxar alguém que tenha três vezes meu peso para fora da água."
 
 # game/scripts/ash_events.rpy:4473
 translate pt_br ashfairjob_9d4acf08:
 
     # a "Did you put any thought into that?"
-    a ""
+    a "Você pensou um pelo menos um pouco sobre isso?"
 
 # game/scripts/ash_events.rpy:4478
 translate pt_br ashfairjob_401f1077:
 
     # a "A chef? Why a chef?"
-    a ""
+    a "Uma chef? Por que uma chef?"
 
 # game/scripts/ash_events.rpy:4479
 translate pt_br ashfairjob_7e795a41:
 
     # c "You've always got a knife nearby, why not use it for good?"
-    c ""
+    c "Você sempre tem uma faca por perto, por que não usá-la para o bem?"
 
 # game/scripts/ash_events.rpy:4480
 translate pt_br ashfairjob_00a7b5bc:
 
     # a "I never thought of that before..."
-    a ""
+    a "Eu nunca tinha pensado nisso antes..."
 
 # game/scripts/ash_events.rpy:4482
 translate pt_br ashfairjob_e7d98c63:
 
     # a "Maybe."
-    a ""
+    a "Talvez..."
 
 # game/scripts/ash_events.rpy:4486
 translate pt_br ashfairjob_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4487
 translate pt_br ashfairjob_84b64bf3:
 
     # a "I'm not a slut."
-    a ""
+    a "Eu não sou uma vadia."
 
 # game/scripts/ash_events.rpy:4490
 translate pt_br ashfairjob_490fb152:
 
     # a "I'm just {i}your{/i} slut..."
-    a ""
+    a "Eu sou apenas {i}a sua{/i} vadia..."
 
 # game/scripts/ash_events.rpy:4495
 translate pt_br ashfairjob_4a6189ef:
 
     # a "Hm? A nurse?"
-    a ""
+    a "Hm? Uma enfermeira?"
 
 # game/scripts/ash_events.rpy:4496
 translate pt_br ashfairjob_715692cd:
 
     # c "You want a lot of children, right? It makes sense that you should know how to treat them."
-    c ""
+    c "Você quer ter muitas crianças, certo? Faz sentido que você saiba como tratá-las."
 
 # game/scripts/ash_events.rpy:4497
 translate pt_br ashfairjob_d63051f1:
 
     # a "Ooh, that would be really useful! Good idea."
-    a ""
+    a "Uuh, isso seria realmente útil! Boa ideia."
 
 # game/scripts/ash_events.rpy:4499
 translate pt_br ashfairjob_8776d1d9:
 
     # a "Don't I have to go to medical school or something? Ergh... that sounds horrible..."
-    a ""
+    a "Não preciso ir para faculdade médica ou algo assim? Ergh... isso soa horrível..."
 
 # game/scripts/ash_events.rpy:4500
 translate pt_br ashfairjob_90a3cd35:
 
     # a "Maybe I could just learn online..."
-    a ""
+    a "Talvez eu possa aprender online..."
 
 # game/scripts/ash_events.rpy:4504
 translate pt_br ashfairjob_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4505
 translate pt_br ashfairjob_27adb45a:
 
     # a "T-That..."
-    a ""
+    a "I-Isso..."
 
 # game/scripts/ash_events.rpy:4506
 translate pt_br ashfairjob_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:4508
 translate pt_br ashfairjob_03ecaff2:
 
     # a "...I think you just made me wet..."
-    a ""
+    a "...Acho que você acabou de me deixar molhada..."
 
 # game/scripts/ash_events.rpy:4514
 translate pt_br ashfairjob_36cd6222:
