@@ -16221,7 +16221,7 @@ translate pt_br ashfairjob_a851fa03:
 translate pt_br ashfairjob_22086594:
 
     # a "[ash_dump] times at least."
-    a ""
+    a "[ash_dump] vezes, pelo menos."
 
 # game/scripts/ash_events.rpy:4555
 translate pt_br ashfairjob_e75c775f:
@@ -17109,325 +17109,326 @@ translate pt_br ashfairjob_68a6b8e7:
 translate pt_br ashfairjob_81befd69:
 
     # a "She was only bleeding on her head... It's hard to tell, but it looked like she had a cut going across her forehead. I think she's only been scratched. But that doesn't really explain why she's unresponsive..."
-    a ""
+    a "Ela só estava sangrando na cabeça... É difícil dizer, mas parecia que ela tinha um corte na testa. Acho que ela só se arranhou. Mas isso não explica por que ela não está reagindo..."
 
 # game/scripts/ash_events.rpy:4772
 translate pt_br ashfairjob_436ca5f3:
 
     # a "There wasn't anything for her to hit on her way down. I saw the blue light, and I saw her hit the ground. She only hit sand..."
-    a ""
+    a "Não havia nada com que ela pudesse bater durante a queda. Vi a luz azul e vi quando ela bateu no chão. Ela só bateu na areia..."
 
 # game/scripts/ash_events.rpy:4773
 translate pt_br ashfairjob_f24aa580:
 
     # c "Maybe the sand scratched her? Sand could be pretty sharp to someone that small."
-    c ""
+    c "Será que a areia a arranhou? A areia pode ser bem cortante para alguém tão pequeno"
 
 # game/scripts/ash_events.rpy:4774
 translate pt_br ashfairjob_866a05fa:
 
+
     # a "No, that doesn't make sense. She'd be scratched all over her body if that were the case. Her clothes would have been ruined as well."
-    a ""
+    a "Não, isso não faz sentido. Se fosse esse o caso, ela estaria toda arranhada. Suas roupas também estariam destruídas."
 
 # game/scripts/ash_events.rpy:4776
 translate pt_br ashfairjob_88bfb3aa:
 
     # a "I don't think that's why she's unconscious..."
-    a ""
+    a "Eu não acho que ela esteja inconsciente por isso."
 
 # game/scripts/ash_events.rpy:4777
 translate pt_br ashfairjob_3670d1ce:
 
     # a "What we saw in the forest wasn't a firefly, it was a fairy! Maybe this fairy! That means that blue light we saw is connected to them somehow..."
-    a ""
+    a "O que nós vimos na floresta não era um vagalume, era uma fada! Talvez até essa fada! Isso significa que aquela luz azul que nós vimos está conectada a elas de alguma forma..."
 
 # game/scripts/ash_events.rpy:4778
 translate pt_br ashfairjob_5cac54a3:
 
     # a "She must have been conscious before she hit the ground..."
-    a ""
+    a "Ela deve ter estado consciente antes de cair no chão..."
 
 # game/scripts/ash_events.rpy:4780
 translate pt_br ashfairjob_b2119555:
 
     # a "What? I didn't hear anything. I only saw a blue light."
-    a ""
+    a "O quê? Eu não ouvi nada. Só vi uma luz azul."
 
 # game/scripts/ash_events.rpy:4781
 translate pt_br ashfairjob_1c36430c:
 
     # c "It'd be pretty hard to hear a fairy sized gun."
-    c ""
+    c "Seria bem difícil ouvir o barulho de uma arma do tamanho de uma fada."
 
 # game/scripts/ash_events.rpy:4782
 translate pt_br ashfairjob_e27f67b4:
 
     # a "So, what? You think she was involved in a fairy gang war at the beach or something? She wasn't shot..."
-    a ""
+    a "E daí? Você acha que ela se meteu numa briga entre gangues de fadas na praia ou alguma coisa assim? Ela não levou um tiro..."
 
 # game/scripts/ash_events.rpy:4784
 translate pt_br ashfairjob_48d42e3c:
 
     # a "I don't know what to do..."
-    a ""
+    a "Eu não sei o que fazer..."
 
 # game/scripts/ash_events.rpy:4785
 translate pt_br ashfairjob_9cf0ab0b:
 
     # a "Now that the bleeding has stopped, she'll probably live... She may have a concussion though..."
-    a ""
+    a "Agora que o sangramento parou, ela provavelmente vai ficar bem... Mas ela pode ter sofrido uma concussão..."
 
 # game/scripts/ash_events.rpy:4786
 translate pt_br ashfairjob_19fca2da:
 
     # c "What should we do?"
-    c ""
+    c "O que devemos fazer?"
 
 # game/scripts/ash_events.rpy:4788
 translate pt_br ashfairjob_53c975af:
 
     # a "I don't think there's anything else we can we do..."
-    a ""
+    a "Eu acho que não tem mais nada que possamos fazer..."
 
 # game/scripts/ash_events.rpy:4789
 translate pt_br ashfairjob_f9835616:
 
     # a "I guess we can only wait for her to-"
-    a ""
+    a "Acho que agora nós só podemos esperar ela a-"
 
 # game/scripts/ash_events.rpy:4791
 translate pt_br ashfairjob_1c0b4ced:
 
     # bot "-IS SHE DEAD!?" with ssshake
-    bot "" with ssshake
+    bot "-ELA ESTÁ MORTA!?" with ssshake
 
 # game/scripts/ash_events.rpy:4792
 translate pt_br ashfairjob_8b248166:
 
     # a "[botname]!?"
-    a ""
+    a "[botname]!?"
 
 # game/scripts/ash_events.rpy:4794
 translate pt_br ashfairjob_410bbe7e:
 
     # a "Hey! Why are you here? [name] and I are a little busy, you know~"
-    a ""
+    a "Ei! Por que você está aqui? [name] e eu estamos um pouco ocupados, sabe~"
 
 # game/scripts/ash_events.rpy:4795
 translate pt_br ashfairjob_39dc2149:
 
     # bot "Is that so? What are you doing then?"
-    bot ""
+    bot "É mesmo? O que você está fazendo, então?"
 
 # game/scripts/ash_events.rpy:4796
 translate pt_br ashfairjob_daa5d6b3:
 
     # a "Washing each other's clothes."
-    a ""
+    a "Lavando as roupas um do outro."
 
 # game/scripts/ash_events.rpy:4797
 translate pt_br ashfairjob_a2a67fba:
 
     # bot "You're still in them."
-    bot ""
+    bot "Vocês ainda estão nelas."
 
 # game/scripts/ash_events.rpy:4798
 translate pt_br ashfairjob_1bdac4f2:
 
     # a "We just got here."
-    a ""
+    a "Nós acabamos de chegar aqui."
 
 # game/scripts/ash_events.rpy:4799
 translate pt_br ashfairjob_670d7c52:
 
     # bot "It's the middle of the night..."
-    bot ""
+    bot "Nós estamos no meio da noite..."
 
 # game/scripts/ash_events.rpy:4800
 translate pt_br ashfairjob_75d89513:
 
     # a "Don't want anyone spotting us."
-    a ""
+    a "Não quero que ninguém nos veja."
 
 # game/scripts/ash_events.rpy:4801
 translate pt_br ashfairjob_23710fd9:
 
     # bot "Spotting you doing the laundry..."
-    bot ""
+    bot "Que ninguém veja vocês lavando roupas?"
 
 # game/scripts/ash_events.rpy:4802
 translate pt_br ashfairjob_331d858b:
 
     # a "Spotting us while we're naked."
-    a ""
+    a "Nos vendo enquanto estamos nus."
 
 # game/scripts/ash_events.rpy:4803
 translate pt_br ashfairjob_ced331f4:
 
     # bot "Why are you lying? Stop trying to hide her, she's hurt!"
-    bot ""
+    bot "Por que você está mentindo? Pare de tentar escondê-la, ela está ferida!"
 
 # game/scripts/ash_events.rpy:4805
 translate pt_br ashfairjob_25cebd3a:
 
     # a "...You saw her?"
-    a ""
+    a "...Você a viu?"
 
 # game/scripts/ash_events.rpy:4806
 translate pt_br ashfairjob_fe890e7c:
 
     # a "Wait, why are you in here?"
-    a ""
+    a "Espera, por que você está aqui?"
 
 # game/scripts/ash_events.rpy:4807
 translate pt_br ashfairjob_f00a9643:
 
     # bot "I can see through all the cameras in the hotel, I saw her when you came in."
-    bot ""
+    bot "Eu consigo ver tudo através das câmeras do hotel, Eu a vi quando você chegou."
 
 # game/scripts/ash_events.rpy:4809
 translate pt_br ashfairjob_8f84fd76:
 
     # a "...Huh? Wait... what? Y-You can do that...?"
-    a ""
+    a "... Hein? Espera... o quê? V-Você consegue fazer isso...?"
 
 # game/scripts/ash_events.rpy:4811
 translate pt_br ashfairjob_904c0f1d:
 
     # bot "Yes! And I was worried about [botown], too!"
-    bot ""
+    bot "Sim! E eu estava preocupada com o [botown], também!"
 
 # game/scripts/ash_events.rpy:4812
 translate pt_br ashfairjob_18447941:
 
     # a "Wait, where are the cameras?"
-    a ""
+    a "Espera, aonde ficam as câmeras?"
 
 # game/scripts/ash_events.rpy:4814
 translate pt_br ashfairjob_04098b4d:
 
     # bot "Why did you take him outside in the middle of night!?"
-    bot ""
+    bot "Por que você foi levar ele para fora no meio da noite!?"
 
 # game/scripts/ash_events.rpy:4815
 translate pt_br ashfairjob_b0da1562:
 
     # a "No reason."
-    a ""
+    a "Sem motivo."
 
 # game/scripts/ash_events.rpy:4816
 translate pt_br ashfairjob_2fda2751:
 
     # bot "You two were out there for over an hour! You did something!"
-    bot ""
+    bot "Vocês dois ficaram lá fora por mais de uma hora! Vocês fizeram alguma coisa!"
 
 # game/scripts/ash_events.rpy:4818
 translate pt_br ashfairjob_b065486a:
 
     # a "We didn't do anything!"
-    a ""
+    a "Nós não fizemos nada!"
 
 # game/scripts/ash_events.rpy:4819
 translate pt_br ashfairjob_6903e4fc:
 
     # bot "How do you call going out in the middle of the night and bringing back a fairy not doing anything!?"
-    bot ""
+    bot "Como é que você chama sair no meio da noite e trazer de volta uma fada de não fazer nada!?"
 
 # game/scripts/ash_events.rpy:4821
 translate pt_br ashfairjob_c3ed274d:
 
     # a "It just fell in front of us!"
-    a ""
+    a "Ela só caiu na nossa frente!"
 
 # game/scripts/ash_events.rpy:4822
 translate pt_br ashfairjob_a4857f72:
 
     # bot "Are you going to stay in my way, or are you going to let me see if it's still alive?"
-    bot ""
+    bot "Você vai ficar no meu caminho, ou vai me deixar ver se ela ainda está viva?"
 
 # game/scripts/ash_events.rpy:4824
 translate pt_br ashfairjob_014db757:
 
     # a "You can do that?"
-    a ""
+    a "Você consegue fazer isso?"
 
 # game/scripts/ash_events.rpy:4825
 translate pt_br ashfairjob_90d4bd68:
 
     # bot "I can see heat with my eyes, if she's cold she's probably dead."
-    bot ""
+    bot "Eu consigo ver o calor com meus olhos, se ela está fria, então ela provavelmente está morta."
 
 # game/scripts/ash_events.rpy:4826
 translate pt_br ashfairjob_7063e8dd:
 
     # a "Oh... okay, please look at her then."
-    a ""
+    a "Ah... tá bom, então dê uma olhada nela."
 
 # game/scripts/ash_events.rpy:4828
 translate pt_br ashfairjob_c868e390:
 
     # bot "..."
-    bot ""
+    bot "..."
 
 # game/scripts/ash_events.rpy:4829
 translate pt_br ashfairjob_9444262e:
 
     # bot "...Yeah, she's still alive."
-    bot ""
+    bot "...Sim, ela ainda está viva."
 
 # game/scripts/ash_events.rpy:4831
 translate pt_br ashfairjob_910ddd39:
 
     # a "Really!?"
-    a ""
+    a "É mesmo!?"
 
 # game/scripts/ash_events.rpy:4832
 translate pt_br ashfairjob_204264ba:
 
     # bot "I don't know what the normal temperature for fairy is, but she's definitely not dead. How much blood did she lose?"
-    bot ""
+    bot "Eu não sei qual é a temperatura normal para uma fada, mas ela definitivamente não está morta. Qunto sangue ela perdeu?"
 
 # game/scripts/ash_events.rpy:4834
 translate pt_br ashfairjob_f2c3cbf2:
 
     # a "I wasn't really paying attention... It was hard to run with all the roots and stuff."
-    a ""
+    a "Eu não estava prestando muita atenção... É difícil correr com todas aquelas raízes e tal."
 
 # game/scripts/ash_events.rpy:4836
 translate pt_br ashfairjob_576cb256:
 
     # bot "Run!? Roots!? You mean you didn't drive anywhere!? Where did you go?"
-    bot ""
+    bot "Correr!? Raízes!? Você quer dizer que não dirigiram para nenhum lugar? Aonde vocês foram?"
 
 # game/scripts/ash_events.rpy:4838
 translate pt_br ashfairjob_60bb55bf:
 
     # a "Shut up! It's none of your business!"
-    a ""
+    a "Cala a boca! Não é da sua conta!"
 
 # game/scripts/ash_events.rpy:4839
 translate pt_br ashfairjob_3ee3aae0:
 
     # bot "It is my business because I can calculate how much blood she's lost if I know how long she's been bleeding and how much she's been bleeding, so if I you have that information, please tell me!"
-    bot ""
+    bot "É da minha conta porque posso calcular a quantidade de sangue que ela perdeu se souber há quanto tempo está sangrando e qual a quantidade de sangue que já perdeu, então se você tem essa informação, por favor me diga!"
 
 # game/scripts/ash_events.rpy:4841
 translate pt_br ashfairjob_998995e6:
 
     # a "Oh... Uh, well the run back was about 15 minutes or so..."
-    a ""
+    a "Ah... Bem, a volta a pé demorou uns 15 minutos ou mais..."
 
 # game/scripts/ash_events.rpy:4843
 translate pt_br ashfairjob_1fea79f4:
 
     # bot "Your hand must have been bloody, right? How much did it look like?"
-    bot ""
+    bot "Sua mão devia estar ensanguentada, não é? Parecia ter muito sangue?"
 
 # game/scripts/ash_events.rpy:4844
 translate pt_br ashfairjob_adee5952:
 
     # a "Umm... at the beach it looked like she bled up to the size of her head... she didn't bleed as much on my hand though, just a bit compared to the beach."
-    a ""
+    a "Humm... Na praia, parecia que ela tinha sangrado até ficar do tamanho da cabeça dela... Mas ela não sangrou tanto na minha mão, só um pouquinho em comparação com a praia."
 
 # game/scripts/ash_events.rpy:4845
 translate pt_br ashfairjob_75994dcb:
