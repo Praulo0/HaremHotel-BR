@@ -143,8 +143,8 @@ translate pt_br intro_021efa4e:
 translate pt_br intro_08033034:
 
     # yg "...I've done so much... I've worked so hard... is this really all I have to show for it? After all these years..."
-    yg "...Eu fiz tanto... Eu trabalhei tão duro... Isso é  realmente tudo o que eu posso mostrar? Depois de todos esses anos...
-"
+    yg "...Eu fiz tanto... Eu trabalhei tão duro... Isso é  realmente tudo o que eu posso mostrar? Depois de todos esses anos..."
+
 
 # game/script.rpy:462
 translate pt_br intro_617de26f:
@@ -372,7 +372,7 @@ translate pt_br intro_dae0ec55:
 translate pt_br intro_2ad58eb0:
 
     # "You arrive in Syl'anar, a strange and foreign land. But it's not pleasure that calls you here, it's business... {w}Or maybe a bit of both..."
-    "Você chega em Syl'anaar, uma terra estranha e estrangeira. Mas não é o prazer que traz você aqui, é o trabalho... {w}Ou talvez um pouco dos dois...
+    "Você chega em Syl'anaar, uma terra estranha e estrangeira. Mas não é o prazer que traz você aqui, é o trabalho... {w}Ou talvez um pouco dos dois..."
 
 # game/script.rpy:531
 translate pt_br intro_66a69780:
@@ -642,7 +642,7 @@ translate pt_br start2_9f87b393:
 translate pt_br start2_0383b281:
 
     # "TIP: 'Talk' dialogue choices on the doors to character's rooms are story events. Story events appear after a short cooldown, and character stats and traits are not required. Have fun!"
-    "DICA: As opções de diálogo 'Conversa' nas portas para os quartos dos personagens Eventos de história aparecem depois de um curto tempo de espera, e as estatísticas e traços não são um requisito. Divirta-se!
+    "DICA: As opções de diálogo 'Conversa' nas portas para os quartos dos personagens Eventos de história aparecem depois de um curto tempo de espera, e as estatísticas e traços não são um requisito. Divirta-se!"
 
 # game/script.rpy:679
 translate pt_br start2_2fbbce15:
@@ -3942,7 +3942,7 @@ translate pt_br bardrinks_bb22c8cb:
 translate pt_br bardrinks_559cb611:
 
     # "Wines have an average of 12 percent alcohol, and are fairly expensive. Guaranteed to bring more snobby patrons."
-    "Vinhos possuem uma média de 12 por cento de álcool, e é razoavelmente caro. É garantido que trará clientes mais esnobes.
+    "Vinhos possuem uma média de 12 por cento de álcool, e é razoavelmente caro. É garantido que trará clientes mais esnobes."
 
 # game/script.rpy:3693
 translate pt_br bardrinks_54e8cbaf_1:
@@ -7092,7 +7092,7 @@ translate pt_br floor2menu_131c021f:
 translate pt_br floor2menu_bd42e0f6:
 
     # "It reads:\nOrientation today! At the church. Stop by if you'd like."
-    "Está escrito:\Orientação hoje! Na igreja. Passe lá se quiser.
+    "Está escrito:\Orientação hoje! Na igreja. Passe lá se quiser."
 
 # game/script.rpy:5672
 translate pt_br floor2menu_7b1290bf:
@@ -7146,8 +7146,7 @@ translate pt_br floor2menu_48fc288b:
 translate pt_br floor2menu_ca0d6b15:
 
     # au "After everything we've done recently... don't you feel a little dirty?"
-    au "Depois de tudo o que temos feito ultimamente... Você não tem se sentido um pouco sujo?
-    "
+    au "Depois de tudo o que temos feito ultimamente... Você não tem se sentido um pouco sujo?"
 
 # game/script.rpy:5711
 translate pt_br floor2menu_92b4a471:
@@ -9206,8 +9205,7 @@ translate pt_br floor1menu_69210ed4:
 translate pt_br floor1menu_686f75c9:
 
     # l "I didn't know what it meant until I looked it up on the internet, it's a mountain in Syl'tali. That must be where they live! It's not too far from Rockport, I think we could get there by foot!"
-    l "Eu não sabia o que queria dizer até que eu procurei na internet, é uma montanha em Syl´tali. Deve ser onde eles vivrm! Não é muito longe de Rockport, eu acho que nós podemos chegar lá a pé!
-    "
+    l "Eu não sabia o que queria dizer até que eu procurei na internet, é uma montanha em Syl´tali. Deve ser onde eles vivrm! Não é muito longe de Rockport, eu acho que nós podemos chegar lá a pé!"
 
 # game/script.rpy:6732
 translate pt_br floor1menu_59035e74:
@@ -11115,7 +11113,7 @@ translate pt_br kcreep_8fbca4e2_3:
 translate pt_br kcreep_37dd8991_4:
 
     # "Gonna be at school all day... you should come visit!"
-    "Vou ficar na escola o dia todo... você devia vir visitar!
+    "Vou ficar na escola o dia todo... você devia vir visitar!"
 
 # game/script.rpy:7889
 translate pt_br kcreep_ebc9d546_3:
@@ -14415,7 +14413,7 @@ translate pt_br expl_beach2_4c9dab46:
 translate pt_br expl_beach2_2fe3d992:
 
     # rac "It's cute, right?"
-    rac "É bem fofo, né?
+    rac "É bem fofo, né?"
 
 # game/script.rpy:9055
 translate pt_br expl_beach2_cd99d3d8:
@@ -14589,7 +14587,7 @@ translate pt_br expl_beach2_892d926d:
 translate pt_br expl_beach2_da0e28bb:
 
     # c "{i}{size=-5}I should get out of here before they notice me...{/size}{/i}"
-    c "{i}{size=-5}É melhor eu cair fora antes que alguém me veja...{/size}{/i}
+    c "{i}{size=-5}É melhor eu cair fora antes que alguém me veja...{/size}{/i}"
 
 # game/script.rpy:9097
 translate pt_br expl_beach2_d6b48f27:
@@ -14841,7 +14839,7 @@ translate pt_br explore_brothel1_9c9bbb44:
 translate pt_br explore_brothel1_22c42488:
 
     # rbun "Okay, from cheapest to most expensive we have... footjobs, handjobs, cunnilingus, blowjobs, vaginal and anal.\nWe also have threesome and foursome options, both for majority male and female parties."
-    rbun "Certo, do mais barato ao mais caro que nós temos... penheta, punheta, cunilíngua, boquete, vaginal e anal.\nNós também oferecemos opções com trisal e em quatro, tanto para partidos de maioria masculina quanto feminina.
+    rbun "Certo, do mais barato ao mais caro que nós temos... penheta, punheta, cunilíngua, boquete, vaginal e anal.\nNós também oferecemos opções com trisal e em quatro, tanto para partidos de maioria masculina quanto feminina."
 
 # game/script.rpy:9182
 translate pt_br explore_brothel1_e4067c60:
@@ -15393,7 +15391,7 @@ translate pt_br explore_brothel3_c0ab8ed5:
 translate pt_br explore_brothel3_45b1dda0:
 
     # ray "My bunnies and I were talking earlier, and we all agreed that because you've been such a big help, that we would like to offer you one free ride! You can choose whoever you'd like, the choice is yours. They haven't even had their first customer yet so you would get to break them in!"
-    ray "Minhas coelhinhas e eu estávamos conversando mais cedo, e nós todos concordamos porque você foi de muito grande ajuda, e é por isso que nós queremos te oferecer um passe livre! Você pode escolher quem voê quiser, a escolha é sua. Elas não atenderam nem os primeiros clientes dela ainda ()!
+    ray "Minhas coelhinhas e eu estávamos conversando mais cedo, e nós todos concordamos porque você foi de muito grande ajuda, e é por isso que nós queremos te oferecer um passe livre! Você pode escolher quem voê quiser, a escolha é sua. Elas não atenderam nem os primeiros clientes dela ainda ()!"
 
 # game/script.rpy:9361
 translate pt_br explore_brothel3_37eb9853:
@@ -15873,7 +15871,7 @@ translate pt_br purpbun_blowjob_3e6e43b4:
 translate pt_br purpbun_blowjob_449cec51:
 
     # pbun "Mmmmmmmngh!" with ssshake
-    pbun "Mmmmmmmgh! with ssshake
+    pbun "Mmmmmmmgh!" with ssshake
 
 # game/script.rpy:9620
 translate pt_br purpbun_blowjob_656dbe74:
@@ -16065,8 +16063,7 @@ translate pt_br redbun_blowjob_6078b09b:
 translate pt_br redbun_blowjob_82b11e74:
 
     # rbun "Nnnnguh! Haah! Nnnnm, wow...! You came so much, I couldn't take it all..."
-    rbun "Nnnnguh! Haah! Nnnnm, uau...! Você gozou tanto, eu nem consegui beber tudo...
-"
+    rbun "Nnnnguh! Haah! Nnnnm, uau...! Você gozou tanto, eu nem consegui beber tudo..."
 
 # game/script.rpy:9705
 translate pt_br redbun_blowjob_a95dbee6:
@@ -25468,7 +25465,7 @@ translate pt_br botkchoice_b675d1ac:
 translate pt_br botkchoice_b5666a7e:
 
     # bot "I'm ready to serve you any way I can..."
-    bot "Eu estou pronta paraa te servir de qualquer maneira que eu puder...
+    bot "Eu estou pronta paraa te servir de qualquer maneira que eu puder..."
 
 # game/script.rpy:13528
 translate pt_br botkchoice_ea593b04:
@@ -35873,7 +35870,7 @@ translate pt_br bot_con_question_5a343d7f:
 translate pt_br bot_con_question_a59aaf48:
 
     # bot "*sigh*... After reading his note to me, I didn't know what to think... he created me, but he made me so flawed. At first I was upset that he would do that to me, but then I found out he wasn't done working on me at all, and his time was running out..."
-    bot "*ufa*... Depois de ler essa carta para mim, eu não sabia o que pensar... ele me criou, mas ele me fez com tantas falhas. No começo eu fiquei chateada que ele fez isso comigo, mas então eu descobri que ele não estava nem perto de terminar de trabalhar em mim, e o tempo dele estava acabando...
+    bot "*ufa*... Depois de ler essa carta para mim, eu não sabia o que pensar... ele me criou, mas ele me fez com tantas falhas. No começo eu fiquei chateada que ele fez isso comigo, mas então eu descobri que ele não estava nem perto de terminar de trabalhar em mim, e o tempo dele estava acabando..."
 
 # game/script.rpy:18193
 translate pt_br bot_con_question_78419c9c:
@@ -36083,7 +36080,7 @@ translate pt_br bot_con_question_b26c96b6:
 translate pt_br bot_con_question_b398e30c:
 
     # bot "The more of us there are, the bigger it will become. I can only store a small amount of basic informationprocessamento para executar o Ciberespaço" right now, but the idea is to use one percent of each of our processing power to run Cyberspace."
-    bot "Quanto mais de nós existirem, maior ela vai se tornar. Eu posso armazenar apenas uma quantidade pequena de informações básicas no momento, mas a ideia é usar um por cento de cada um de nosso poder de processamento para administrar o Ciberespaço.
+    bot "Quanto mais de nós existirem, maior ela vai se tornar. Eu posso armazenar apenas uma quantidade pequena de informações básicas no momento, mas a ideia é usar um por cento de cada um de nosso poder de processamento para administrar o Ciberespaço."
 
 # game/script.rpy:18247
 translate pt_br bot_con_question_2259a151:
@@ -37259,7 +37256,7 @@ translate pt_br bot_con_question_9dd589ea:
 translate pt_br bot_con_question_3177456e:
 
     # ally "*gasp*! Yes! Then {i}I{/i} would be taller than {i}you!{/i} Heheh!"
-    ally "*Ah! Isso! Então {i}eu{/i} vou ficar mais alto que {i}você{/i} Heheh!
+    ally "*Ah! Isso! Então {i}eu{/i} vou ficar mais alto que {i}você{/i} Heheh!"
 
 # game/script.rpy:18565
 translate pt_br ally_park_play_271bf578:
@@ -40536,7 +40533,6 @@ translate pt_br bot_nightmares_909cea7d:
 
     # "In the earliest hours of the morning, you're awoken by the faint sounds of a piano..."
     "Nas primeiras horas da manhã, você é acordado pelos sons fracos de um piano..."
-"
 
 # game/script.rpy:19434
 translate pt_br bot_nightmares_e62b9f47:
@@ -41533,7 +41529,7 @@ translate pt_br bot_nightmares_31d4e144:
 translate pt_br bot_nightmares_ff35fb05:
 
     # a "She left too soon... but she was just doing her job as caregiver. It's just how things are... I can't blame her for that."
-    a "# a "Ela foi embora cedo demais... mas ela estava apenas fazendo seu trabalho como cuidadora. É assim que as coisas são... Não posso culpá-la por isso."
+    a "Ela foi embora cedo demais... mas ela estava apenas fazendo seu trabalho como cuidadora. É assim que as coisas são... Não posso culpá-la por isso."
 
 # game/script.rpy:19963
 translate pt_br bot_nightmares_f3000c60:
@@ -41935,7 +41931,7 @@ translate pt_br bot_socialize_40e483ea:
 translate pt_br bot_socialize_9ae8ac34:
 
     # bot "W-What...? What do you mean?"
-    bot "O-o quê...? O que você quer dizer?
+    bot "O-o quê...? O que você quer dizer?"
 
 # game/script.rpy:20064
 translate pt_br bot_socialize_56304d16:
@@ -42061,7 +42057,7 @@ translate pt_br bot_socialize_c9c77d85:
 translate pt_br bot_socialize_9c93cd20:
 
     # k "{i}{size=-10}Good.... at least she still has sympathy...{/size}{/i}"
-    k "{i}{size=-10}Ótimo... pelo menos ela ainda tem compaixão..{/size}{/i}.
+    k "{i}{size=-10}Ótimo... pelo menos ela ainda tem compaixão..{/size}{/i}."
 
 # game/script.rpy:20092
 translate pt_br bot_socialize_b3c1d54d:
@@ -42649,7 +42645,7 @@ translate pt_br bot_socialize_a3ad38df:
 translate pt_br bot_socialize_07ba2276:
 
     # pat "That's... actually why I'm here... my wife left me yesterday..."
-    pat "Na verdade... é por  isso que estou aqui... minha esposa me abandonou ontem...
+    pat "Na verdade... é por  isso que estou aqui... minha esposa me abandonou ontem..."
 
 # game/script.rpy:20218
 translate pt_br bot_socialize_84231cb9:
@@ -43495,7 +43491,7 @@ translate pt_br bot_uni_95f8f19e:
 translate pt_br bot_uni_9fa05921:
 
     # q "Excuse me, can I use the restroom?"
-    q "Com licença, posso ir ao banheiro?
+    q "Com licença, posso ir ao banheiro?"
 
 # game/script.rpy:20420
 translate pt_br bot_uni_9e6b4928:
@@ -44611,7 +44607,7 @@ translate pt_br bot_uni_1d9c8ea2:
 translate pt_br bot_uni_693b7117:
 
     # bot "Hmmm... does sex count as a hobby? I'm great at that!"
-    bot "Hmmm... e sexo, conta como hobby? Eu sou ótima nisso!
+    bot "Hmmm... e sexo, conta como hobby? Eu sou ótima nisso!"
 
 # game/script.rpy:20701
 translate pt_br bot_uni_0088319c:
@@ -44731,7 +44727,7 @@ translate pt_br bot_uni_d7e6c3d7:
 translate pt_br bot_uni_8618db67:
 
     # bot "I can also speak common, elvish, and 3 other languages fluently!"
-    bot "Eu também sei falar em élfico comum e mais três línguas fluentemente!
+    bot "Eu também sei falar em élfico comum e mais três línguas fluentemente!"
 
 # game/script.rpy:20727
 translate pt_br bot_uni_70c83b90:
@@ -46272,7 +46268,7 @@ translate pt_br bot_tech_9f3944db:
 translate pt_br bot_tech_9897a706:
 
     # k "See ya."
-    k Até mais."
+    k "Até mais."
 
 # game/script.rpy:21091
 translate pt_br bot_tech_a902a92b:
@@ -46522,7 +46518,7 @@ translate pt_br bot_mardom_963b005c:
 translate pt_br bot_mardom_084a7ea0:
 
     # m "Yes, they are."
-    m "Sim, elas são.
+    m "Sim, elas são."
 
 # game/script.rpy:21175
 translate pt_br bot_mardom_975b99e7:
@@ -46984,7 +46980,7 @@ translate pt_br bot_mardom_382ba959:
 translate pt_br bot_mardom_1420ec64:
 
     # m "Agh! Oh, you bitch...! This was your plan, wasn't it!? Nnnnghh! NNNNGH!"
-    m "Agh! Ah, sua puta...! Era esse o seu plano, não era!? Nnnnghh! NNNNGH!
+    m "Agh! Ah, sua puta...! Era esse o seu plano, não era!? Nnnnghh! NNNNGH!"
 
 # game/script.rpy:21295
 translate pt_br bot_mardom_3bed981b:
@@ -49060,7 +49056,7 @@ translate pt_br botwake_6782cce8:
 translate pt_br botwake_1ed8be5b:
 
     # yg "By the definition of it, programming is telling the computer to do something, then it does it."
-    yg Segundo sua definição, programar é dizer ao computador para fazer algo, e então ele faz."
+    yg "Segundo sua definição, programar é dizer ao computador para fazer algo, e então ele faz."
 
 # game/script.rpy:21869
 translate pt_br botwake_30183f7d:
@@ -49480,7 +49476,7 @@ translate pt_br botwake_6b06a462:
 translate pt_br botwake_c3dabbdb:
 
     # yg "...But I'm nowhere closer to actually achieving sentience. Her default programming attempts to fix any and all foreign programs. There's no way I can turn this off, it's built into the hardware."
-    yg ...Mas não estou nem perto de realmente atingir a consciência. A programação padrão dela tenta consertar todo e qualquer programa estrangeiro. Não tem como eu desligar isso, está embutido no hardware."
+    yg "...Mas não estou nem perto de realmente atingir a consciência. A programação padrão dela tenta consertar todo e qualquer programa estrangeiro. Não tem como eu desligar isso, está embutido no hardware."
 
 # game/script.rpy:21970
 translate pt_br botwake_000b549c:
@@ -53290,7 +53286,7 @@ translate pt_br banalvs_f59479b5:
 translate pt_br banalvs_29c1d9cd:
 
     # bot "[botown]! I want you to cum inside... I want you to cum inside!"
-    bot [botown]! Eu quero que você goze dentro... Eu quero que você goze dentro!"
+    bot "[botown]! Eu quero que você goze dentro... Eu quero que você goze dentro!"
 
 # game/script.rpy:23089
 translate pt_br banalvs_428b93a4:
@@ -55804,7 +55800,7 @@ translate pt_br bot_firstdate_beec89e4:
 translate pt_br bot_firstdate_e72c329d:
 
     # bot "Of course. It's easy to tell when Maria is horny, she has no shame about it at all! But some of the others really try to repress those feelings."
-    bot "Claro. É fácil perceber quando a Maria está com tesão,ela não tem a mínima vergonha disso! Mas algumas das outras realmente tentam reprimir esses sentimentos.
+    bot "Claro. É fácil perceber quando a Maria está com tesão,ela não tem a mínima vergonha disso! Mas algumas das outras realmente tentam reprimir esses sentimentos."
 
 # game/script.rpy:23998
 translate pt_br bot_firstdate_ac37de72:
@@ -58672,7 +58668,7 @@ translate pt_br botvirginkiller_7782f32d_1:
 translate pt_br botvirginkiller_84a5e5c4_1:
 
     # got "Great... That'll be $50."
-    got Tudo bem... Esse vai custar $50."
+    got "Tudo bem... Esse vai custar $50."
 
 # game/script.rpy:24832
 translate pt_br botvirginkiller_37fbc1f4_1:
@@ -59626,7 +59622,7 @@ translate pt_br botspring_7b7bf3d0:
 translate pt_br botspring_268dcd66:
 
     # bot "Yes! Yes! Yes! Good boy! Good boy!"
-    bot "Isso! Isso! Isso! Bom garoto! Bom garoto!
+    bot "Isso! Isso! Isso! Bom garoto! Bom garoto!"
 
 # game/script.rpy:25154
 translate pt_br botspring_865e9337:
@@ -61618,7 +61614,7 @@ translate pt_br bottop2_348124ca_1:
 translate pt_br bottop2_21f1da02_1:
 
     # bot "Ahh!! Aaaaahhhh!!! Cum inside!!!!" with ssshake
-    bot Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
+    bot "Ahh!! Aaaaahhhh!!!  Goza dentro!!!!" with ssshake
 
 # game/script.rpy:25722
 translate pt_br bottop2_a43ee563_1:
@@ -62188,7 +62184,7 @@ translate pt_br bottop1_da2b2fd6_2:
 translate pt_br bottop1_6ade4927:
 
     # bot "S-Sorry [botown]... I hope you can forgive me... my lust took over..."
-    bot D-Desculpa, [botown]... Eu espero que você possa me perdoar... a minha luxúria tomou conta..."
+    bot "D-Desculpa, [botown]... Eu espero que você possa me perdoar... a minha luxúria tomou conta..."
 
 # game/script.rpy:25892
 translate pt_br bottop1_3f83f0ee:
@@ -63262,7 +63258,7 @@ translate pt_br bot_maria_eaac0d6a:
 translate pt_br bot_maria_ffa00f08:
 
     # m "*sigh*... seriously? You're telling me she just... {i}happened{/i} into existence?"
-    m !*ufa*... é sério isso? Você está me dizendo que ela só... {i}surgiu{/i} por acaso?"
+    m "*ufa*... é sério isso? Você está me dizendo que ela só... {i}surgiu{/i} por acaso?"
 
 # game/script.rpy:26151
 translate pt_br bot_maria_d49df949:
@@ -65884,7 +65880,7 @@ translate pt_br botoutfits_c99131e6_1:
 translate pt_br botoutfits_5a2a371c_1:
 
     # bot "[botown]... Mmmn! Mmmgh! I'll suck every last drop out of you! Mmph! I promise, [botown]!"
-    bot [botown]... Mmmn! Mmmgh! Eu vou chupar cada gota que estiver dentro de você! Eu prometo, [botown]!"
+    bot "[botown]... Mmmn! Mmmgh! Eu vou chupar cada gota que estiver dentro de você! Eu prometo, [botown]!"
 
 # game/script.rpy:27231
 translate pt_br botoutfits_98f29364_1:
@@ -68266,7 +68262,7 @@ translate pt_br botallforce_73960f34_2:
 translate pt_br bottopcafe_f428aea7:
 
     # bot "[botown]... Are you sure about this?"
-    bot [Botown]... Você tem certeza disso?"
+    bot "[botown]... Você tem certeza disso?"
 
 # game/script.rpy:28125
 translate pt_br bottopcafe_5ff7c36f:
@@ -70456,7 +70452,7 @@ translate pt_br jinbdsmchoices_1b8473a8:
 translate pt_br jinbdsmchoices_cbb86bea:
 
     # j "OH! Fuck! You're really going hard! NN!"
-    j "AH" Porra! Você está sendo realmente duro! NN!"
+    j "AH Porra! Você está sendo realmente duro! NN!"
 
 # game/script.rpy:29064
 translate pt_br jinbdsmchoices_8389f38c:
@@ -70678,8 +70674,7 @@ translate pt_br botbfingerfuck_1d5aff05:
 translate pt_br botbfingerfuck_09b0cb2c:
 
     # bot "Ahhh! Ohh... You're going too fast! [botown]! Hnng!"
-    bot "Ahhh! Ohh... Você está indo muito rápido! [botown]! Hnng!
-"
+    bot "Ahhh! Ohh... Você está indo muito rápido! [botown]! Hnng!"
 
 # game/script.rpy:29202
 translate pt_br botbfingerfuck_feb5c324:
@@ -71249,7 +71244,7 @@ translate pt_br botcatsf_71a51f15:
 translate pt_br botcatsf_6a9bfbd9:
 
     # bot "PLEASEPLEASEPLEASEPLEASEPLEASEPLEASEPLEASEPLEASEPLEASEPLEASEPLEASEPLEASE!!! PLEASE!!!"
-    bot "PORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVOR!!! POR FAVOR!!!
+    bot "PORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVORPORFAVOR!!! POR FAVOR!!!"
 
 # game/script.rpy:29390
 translate pt_br botcatsf_fb502a1c:
@@ -71998,7 +71993,7 @@ translate pt_br bothang_196f8558:
 translate pt_br bothang_19831162:
 
     # bot "Okay! I can try! Hnng!" with ssshake
-    bot "Tudo bem! Eu posso tentar! Hnng! with ssshake
+    bot "Tudo bem! Eu posso tentar! Hnng!" with ssshake
 
 # game/script.rpy:29746
 translate pt_br bothang_583e0e62:
@@ -73102,7 +73097,7 @@ translate pt_br marbfinger_b5f54fd9:
 translate pt_br marbfinger_58b3ca30:
 
     # m "FUCK! That was sudden! Shit! Fuck!"
-    m "PORRA! Isso foi repentino! Merda! Porra!
+    m "PORRA! Isso foi repentino! Merda! Porra!"
 
 # game/script.rpy:30226
 translate pt_br marbfinger_3ddd3757:
@@ -73114,7 +73109,7 @@ translate pt_br marbfinger_3ddd3757:
 translate pt_br marbfinger_9545db09:
 
     # m "Ngghh! Fuck! You're hitting my g-spot! Holy shit! Fuck!"
-    m "Ngghh! Porra! Você está acertando o meu ponto g! Puta merda! Porra!
+m "Ngghh! Porra! Você está acertando o meu ponto g! Puta merda! Porra!"
 
 # game/script.rpy:30230
 translate pt_br marbfinger_a0a534d0:
@@ -74110,7 +74105,7 @@ translate pt_br linsidefuck_c384ab68:
 translate pt_br linsidefuck_05d035a4:
 
     # l "Nnngh! You don't want me to cum, but, NNN! You're making it feel so, AHH! GOOD!"
-    l "Nnngh! Você não quer que eu goze, mas, NNN! Você está fazendo isso ser tão, AHH! GOSTOSO!
+    l "Nnngh! Você não quer que eu goze, mas, NNN! Você está fazendo isso ser tão, AHH! GOSTOSO!"
 
 # game/script.rpy:30641
 translate pt_br linsidefuck_e1ab5c38:
@@ -75646,7 +75641,7 @@ translate pt_br ashbsquirt_5ba4dee5:
 translate pt_br ashbsquirt_d0f2ef2d:
 
     # a "More! Do it more!"
-    a "Mais! Faz mais!
+    a "Mais! Faz mais!"
 
 # game/script.rpy:31351
 translate pt_br ashbsquirt_2f99dad6:
@@ -77212,7 +77207,7 @@ translate pt_br laundryroom_dfc2b560:
 translate pt_br laundryroom_8fbe9621:
 
     # f "A little crazy? You've seen her right? There's something in her eyes..."
-    f "Um pouco louca? Você já a viu, certo? Tem alguma coisa nos olhos dela...
+    f "Um pouco louca? Você já a viu, certo? Tem alguma coisa nos olhos dela..."
 
 # game/script.rpy:31955
 translate pt_br laundryroom_31e8dda3:
@@ -78376,7 +78371,7 @@ translate pt_br barintro_b32bec67:
 translate pt_br barintro_1aa4837c:
 
     # e "Have fun!"
-    e "Divirta-se!
+    e "Divirta-se!"
 
 # game/script.rpy:33333
 translate pt_br checkdone_c80f520a:
@@ -78994,7 +78989,7 @@ translate pt_br kalidump_811bd88a:
 translate pt_br kalicum_88cbb70f:
 
     # trait "Kali gained the Cum Slut trait!"
-    trait "Kali ganhou o traço Viciada em Gozo!
+    trait "Kali ganhou o traço Viciada em Gozo!"
 
 # game/script.rpy:33718
 translate pt_br ashcum_457d56e9:
@@ -80866,7 +80861,7 @@ translate pt_br linlttt_f5809068:
 translate pt_br linlttt_b234f75e:
 
     # l "Ohhh... Ahhh...! Mmmmn! [linoname], please be rough with me...! I want it! Ahhh! Ahhhh!"
-    l "Ohhh... Ahhh...! Mmmmn! [linoname], por favor, seja duro comigo..! Eu quero isso! Ahhh" Ahhhh!"
+    l "Ohhh... Ahhh...! Mmmmn! [linoname], por favor, seja duro comigo..! Eu quero isso! Ahhh Ahhhh!"
 
 # game/script.rpy:34606
 translate pt_br linlttt_af13649e:
@@ -81988,7 +81983,7 @@ translate pt_br kali_publicwalk_68408412:
 translate pt_br kali_publicwalk_4a848182:
 
     # k "Aaaaahhh...! Hnnnn! That felt... so good..."
-    k "Aaaaahhh...! Hnnnn! Isso foi... tão gostoso...
+    k "Aaaaahhh...! Hnnnn! Isso foi... tão gostoso..."
 
 # game/script.rpy:34979
 translate pt_br kali_publicwalk_442595ec:
@@ -84220,7 +84215,7 @@ translate pt_br mar_insp_a98dba34:
 translate pt_br mar_insp_ac79482f:
 
     # m "Mmmmh! YES!" with ssshake
-    m "Mmmmh! ISSO!" with ssshake" with ssshake
+    m "Mmmmh! ISSO!" with ssshake
 
 # game/script.rpy:36137
 translate pt_br mar_insp_e7fbdb0b:
@@ -85798,7 +85793,7 @@ translate pt_br bot_wordplay_mar_982d6003:
 translate pt_br bot_wordplay_mar_b334ca08:
 
     # bot "Please, please, please! PLEASE!"
-    bot "Por favor, por favor, por favor! POR FAVOR!
+    bot "Por favor, por favor, por favor! POR FAVOR!"
 
 # game/script.rpy:37093
 translate pt_br bot_wordplay_mar_3cc376fa:
@@ -86020,7 +86015,7 @@ translate pt_br bot_wordplay_lin_a2affc8d:
 translate pt_br bot_wordplay_lin_6711b19d:
 
     # l "Hmmm... if you want to cum really hard, there might be something I have in mind."
-    l Hmmm... se você quer gozar tanto assim, acho que tenho alguma ideia."
+    l "Hmmm... se você quer gozar tanto assim, acho que tenho alguma ideia."
 
 # game/script.rpy:37162
 translate pt_br bot_wordplay_lin_ab89720f:
@@ -87106,7 +87101,7 @@ translate pt_br bot_lust_switch_0cf4ee9c:
 translate pt_br bot_lust_switch_d8ea67a1:
 
     # bot "Haahhh~! Ahhngh! Mmn! That feels so good~!" with sshake
-    bot "Haahhh~! Ahhngh! Mmn! Isso foi tão gostoso~! with sshake
+    bot "Haahhh~! Ahhngh! Mmn! Isso foi tão gostoso~!" with sshake
 
 # game/script.rpy:37442
 translate pt_br bot_lust_switch_65bdb1ae:
@@ -90618,7 +90613,7 @@ translate pt_br strings:
 
     # game/script.rpy:27484
     old "Serve the guests food"
-    new "Sirva a comida dos clientes""
+    new "Sirva a comida dos clientes"
 
     # game/script.rpy:27484
     old "{color=#8C8C8C}Completely undress in front of everyone{/color}"
@@ -90862,7 +90857,7 @@ translate pt_br strings:
 
     # game/script.rpy:31053
     old "Cum on the floor"
-    new "Gozar no chão
+    new "Gozar no chão"
 
     # game/script.rpy:31097
     old "Pee on her"
