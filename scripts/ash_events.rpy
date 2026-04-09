@@ -24057,7 +24057,7 @@ translate pt_br ashsclobbysex_35105d84:
 translate pt_br ashsclobbysex_8e5ded71:
 
     # a "[name]!!!" with ssshake
-    a "" with ssshake
+    a "[name]!!!" with ssshake
 
 # game/scripts/ash_events.rpy:6732
 translate pt_br ashsclobbysex_b8bec867:
@@ -24069,7 +24069,7 @@ translate pt_br ashsclobbysex_b8bec867:
 translate pt_br ashlobbysex_073cb58e:
 
     # a "Ahh!"
-    a ""
+    a "Ahh!"
 
 # game/scripts/ash_events.rpy:6742
 translate pt_br ashlobbysex_e4fa1802:
@@ -24357,691 +24357,691 @@ translate pt_br ashlobtv_d27e7b23:
 translate pt_br ashstress_2c4cc1b7:
 
     # a "{size=-10}{i}I can't... I can't anymore...{/i}{/size}"
-    a ""
+    a "{size=-10}{i}Eu não consigo... Eu não aguento mais...{/i}{/size}"
 
 # game/scripts/ash_events.rpy:7043
 translate pt_br ashstress_97753bd6:
 
     # a "{size=-10}{i}It's all too much...! Nnnnnh...! What am I supposed to do, get a job? No one will ever want me...{/i}{/size}"
-    a ""
+    a "{size=-10}{i}É tudo demais...! Nnnnnh...! O que eu devo fazer, arrumar um emprego? Ninguém vai me querer...{/i}{/size}"
 
 # game/scripts/ash_events.rpy:7044
 translate pt_br ashstress_8e64fdc4:
 
     # c "Ashley?"
-    c ""
+    c "Ashley?"
 
 # game/scripts/ash_events.rpy:7046
 translate pt_br ashstress_8222b9cc:
 
     # a "*gasp*! Huh!? [name]?" with ssshake
-    a "" with ssshake
+    a "*ah*! Hein!? [name]?" with ssshake
 
 # game/scripts/ash_events.rpy:7048
 translate pt_br ashstress_777401ab:
 
     # a "W-What are you doing here...?"
-    a ""
+    a "O- O que você está fazendo aqui...?"
 
 # game/scripts/ash_events.rpy:7049
 translate pt_br ashstress_b6b42895:
 
     # c "I just came to check up on you... are you okay?"
-    c ""
+    c "Eu só vim ver como você estava... você está bem?"
 
 # game/scripts/ash_events.rpy:7050
 translate pt_br ashstress_f5a0dd44:
 
     # a "Yeah, it's... it's nothing. Don't worry about me."
-    a ""
+    a "Sim, é que... não é nada. Não se preocupe comigo."
 
 # game/scripts/ash_events.rpy:7051
 translate pt_br ashstress_86063d0d:
 
     # c "Did you dye your hair?"
-    c ""
+    c "Você pintou o cabelo?"
 
 # game/scripts/ash_events.rpy:7053
 translate pt_br ashstress_55af7fa3:
 
     # a "No, I..."
-    a ""
+    a "Não, eu..."
 
 # game/scripts/ash_events.rpy:7054
 translate pt_br ashstress_c91849ee:
 
     # c "Wait, have you been crying?"
-    c ""
+    c "Espera, você estava chorando?"
 
 # game/scripts/ash_events.rpy:7056
 translate pt_br ashstress_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:7057
 translate pt_br ashstress_50c6b301:
 
     # a "...Yeah. A little..."
-    a ""
+    a "...Sim. Um pouco..."
 
 # game/scripts/ash_events.rpy:7058
 translate pt_br ashstress_fccdf4cd:
 
     # c "Ashley, what's wrong?"
-    c ""
+    c "Ashley, o que que aconteceu?"
 
 # game/scripts/ash_events.rpy:7060
 translate pt_br ashstress_b225f166:
 
     # a "*sigh*... It's just... I've been really stressed lately. People, school work, life... it's all been so tough."
-    a ""
+    a "*ufa*... É só que... Eu tenho estado muito estressada ultimamente. Pessoas, trabalhos da escola, a vida... tem sido tudo tão difícil."
 
 # game/scripts/ash_events.rpy:7061
 translate pt_br ashstress_90a3f343:
 
     # a "My hair is... actually naturally brown. I just haven't been in the mood to keep up with it anymore..."
-    a ""
+    a "O meu cabelo é... na verdade, naturalmente castanho. Eu só não tenho estado com vontade de cuidar dele mais..."
 
 # game/scripts/ash_events.rpy:7062
 translate pt_br ashstress_0f60d11c:
 
     # c "Really? I always thought you were naturally blonde."
-    c ""
+    c "É sério? Eu sempre achei que você era naturalmente loira."
 
 # game/scripts/ash_events.rpy:7063
 translate pt_br ashstress_46f64de5:
 
     # a "You've seen my mom, right? She has brown hair too."
-    a ""
+    a "Você já viu minha mãe, né? Ela também tem cabelo castanho."
 
 # game/scripts/ash_events.rpy:7065
 translate pt_br ashstress_30bb99fc:
 
     # a "Can you just... go? I'm not my normal self right now... you shouldn't be around me."
-    a ""
+    a "Você pode simplesmente... sair? Eu não estou no meu estado normal agora... você não deveria estar perto de mim."
 
 # game/scripts/ash_events.rpy:7066
 translate pt_br ashstress_a2655ca1:
 
     # c "Are you sure you don't want any help?"
-    c ""
+    c "Você tem certeza de que não quer ajuda?"
 
 # game/scripts/ash_events.rpy:7068
 translate pt_br ashstress_22868016:
 
     # a "I don't think there's anything you can do, [name]..."
-    a ""
+    a "Eu não acho que tem nada que você possa fazer, [name]..."
 
 # game/scripts/ash_events.rpy:7069
 translate pt_br ashstress_4ea987b9:
 
     # c "I'm pretty smart."
-    c ""
+    c "Eu sou bem inteligente."
 
 # game/scripts/ash_events.rpy:7070
 translate pt_br ashstress_d09ee190:
 
     # a "*sigh*... I wasn't talking about school work. I can handle that..."
-    a ""
+    a "*ufa*... Eu não estava falando sobre trabalhos da escola. Eu posso lidar com isso..."
 
 # game/scripts/ash_events.rpy:7071
 translate pt_br ashstress_fee0e3cf:
 
     # c "Let's get out of here then. You need to clear your mind and relax."
-    c ""
+    c "Vamos sair daqui então. Você precisa limpar sua mente e relaxar."
 
 # game/scripts/ash_events.rpy:7072
 translate pt_br ashstress_4326fb1d:
 
     # a "I don't want anyone to see me like this, [name]..."
-    a ""
+    a "Eu não quero que ninguém me veja assim, [name]..."
 
 # game/scripts/ash_events.rpy:7073
 translate pt_br ashstress_5109930f:
 
     # c "Then let's go somewhere no one can find us. What do you think?"
-    c ""
+    c "Então vamos para algum lugar onde ninguém possa nos encontrar. O que você acha?"
 
 # game/scripts/ash_events.rpy:7074
 translate pt_br ashstress_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:7076
 translate pt_br ashstress_2e793de2:
 
     # a "I might know a place..."
-    a ""
+    a "Acho que eu conheço um lugar..."
 
 # game/scripts/ash_events.rpy:7077
 translate pt_br ashstress_85015eff:
 
     # c "Really? That's great, I'll drive."
-    c ""
+    c "Sério? Isso é ótimo, eu dirijo."
 
 # game/scripts/ash_events.rpy:7078
 translate pt_br ashstress_f35b66c7:
 
     # a "Okay... getting out might actually help..."
-    a ""
+    a "Tá bom... sair pode realmente ajudar..."
 
 # game/scripts/ash_events.rpy:7080
 translate pt_br ashstress_a986b77f:
 
     # a "I'm sorry, [name]... this isn't supposed to be who I am... you don't deserve someone like this. I'll try to be better..."
-    a ""
+    a "Me desculpe, [name]... isso não é para ser quem eu sou... você não merece alguém assim. Eu vou tentar ser melhor..."
 
 # game/scripts/ash_events.rpy:7081
 translate pt_br ashstress_bb00a52c:
 
     # c "What do you mean?"
-    c ""
+    c "O que você quer dizer?"
 
 # game/scripts/ash_events.rpy:7082
 translate pt_br ashstress_2bc81b4d:
 
     # a "Nothing, let's just go..."
-    a ""
+    a "Nada, vamos apenas ir..."
 
 # game/scripts/ash_events.rpy:7085
 translate pt_br ashstress_b4605da1:
 
     # "You leave the room and enter your car where you wait for Ashley, a couple minutes later, she joins you."
-    ""
+    "Você sai do quarto e entra no seu carro onde espera por Ashley, alguns minutos depois, ela se junta a você."
 
 # game/scripts/ash_events.rpy:7086
 translate pt_br ashstress_1428d9f1:
 
     # "With a destination in mind, Ashley directs you towards Caliber city. You expect to go to some park, but instead, Ashley directs you to the slums..."
-    ""
+    "Com um destino em mente, Ashley te direciona para a cidade de Caliber. Você espera ir para algum parque, mas ao invés disso, Ashley te direciona para a favela..."
 
 # game/scripts/ash_events.rpy:7087
 translate pt_br ashstress_bc790da8:
 
     # a "Do you see that tall building with the clock on top? We're going in that."
-    a ""
+    a "Você vê aquele prédio alto com um relógio no topo? Nós vamos entrar nele."
 
 # game/scripts/ash_events.rpy:7088
 translate pt_br ashstress_ffb28929:
 
     # "As you drive up to the old clock tower, you notice how unkempt it is. It's likely been decades since the clock was operational. Regardless, Ashley leads you to a broken window around the back that she hops through, and you soon follow."
-    ""
+    "Enquanto você dirige até a velha torre do relógio, você percebe como ele está mal cuidado. Provavelmente já faz décadas desde que o relógio estava operacional. De qualquer forma, Ashley te leva para uma janela quebrada na parte de trás que ela pula, e logo depois você a segue."
 
 # game/scripts/ash_events.rpy:7089
 translate pt_br ashstress_b53da398:
 
     # a "Watch your step. We're going to the top, and the floor can get soggy."
-    a ""
+    a "Cuidado onde pisa. Nós vamos para o topo, e o chão pode ficar encharcado."
 
 # game/scripts/ash_events.rpy:7090
 translate pt_br ashstress_e2ac0e8e:
 
     # "Avoiding each hole in the ground, and each spider on their web, you follow Ashley up a few stories..."
-    ""
+    "Evitando cada buraco no chão, e cada aranha em sua teia, você segue Ashley por alguns andares..."
 
 # game/scripts/ash_events.rpy:7093
 translate pt_br ashstress_101150f3:
 
     # c "How did you find this place?"
-    c ""
+    c "Como você encontrou esse lugar?"
 
 # game/scripts/ash_events.rpy:7094
 translate pt_br ashstress_a6622933:
 
     # a "I used to come here often as a child... I didn't live too far away from here. This was the only place I could get up high and take in the view. It was also the only place I could be truly alone and no one could find me..."
-    a ""
+    a "Eu costumava vir aqui com frequência quando era criança... Eu não morava muito longe daqui. Este era o único lugar onde eu podia subir alto e apreciar a vista. Também era o único lugar onde eu podia ficar realmente sozinha e ninguém podia me encontrar..."
 
 # game/scripts/ash_events.rpy:7095
 translate pt_br ashstress_008e4f2d:
 
     # a "I thought... maybe it would be nice to come here again. It's been abandoned for as long as I've known it. People don't really think about this side of the city much anymore..."
-    a ""
+    a "Eu pensei... talvez seria bom vir aqui de novo. Ele tem sido abandonado desde que eu me lembro. As pessoas não pensam muito sobre esse lado da cidade mais..."
 
 # game/scripts/ash_events.rpy:7096
 translate pt_br ashstress_4a9b8198:
 
     # a "It's bringing back memories already... *sigh*..."
-    a ""
+    a "E já está trazendo de volta memórias... *ufa*..."
 
 # game/scripts/ash_events.rpy:7098
 translate pt_br ashstress_3c59181f:
 
     # a "Come on, it's right up here. Take my hand."
-    a ""
+    a "Vamos lá, é bem aqui. Pegue minha mão."
 
 # game/scripts/ash_events.rpy:7099
 translate pt_br ashstress_950ef16f:
 
     # c "Oh, thanks."
-    c ""
+    c "Ah, obrigado."
 
 # game/scripts/ash_events.rpy:7101
 translate pt_br ashstress_0f6d9dfe:
 
     # a "Wow...! It looks just like I remember it! The view is amazing from here."
-    a ""
+    a "Uau...! Parece exatamente como eu me lembrava! A vista é incrível daqui."
 
 # game/scripts/ash_events.rpy:7102
 translate pt_br ashstress_6622f92e:
 
     # a "This tower is the tallest in the slums. Sometimes I would just stare out that window for hours watching all of the lights in the skyscrapers flicker on and off."
-    a ""
+    a "Essa torre é a mais alta da favela. Às vezes eu ficava apenas olhando por aquela janela por horas vendo todas as luzes dos arranha-céus piscarem."
 
 # game/scripts/ash_events.rpy:7103
 translate pt_br ashstress_9ee4d8a3:
 
     # a "I wondered what their lives were like... The food they would eat for dinner, the friends they would have over, the full stomach they'd go to sleep on..."
-    a ""
+    a "Eu me perguntava como eram as vidas deles... A comida que eles comiam no jantar, os amigos que eles tinham por perto, a barriga cheia que eles iam dormir..."
 
 # game/scripts/ash_events.rpy:7104
 translate pt_br ashstress_bb8e4b4e_2:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:7106
 translate pt_br ashstress_b811466a:
 
     # a "...Come on, let's get a better view."
-    a ""
+    a "...Vamos lá, vamos ter uma vista melhor."
 
 # game/scripts/ash_events.rpy:7108
 translate pt_br ashstress_cc49c078:
 
     # c "That's a great view."
-    c ""
+    c "Essa é uma ótima vista."
 
 # game/scripts/ash_events.rpy:7109
 translate pt_br ashstress_ddcc064c:
 
     # a "I've never actually been on the other side of that river..."
-    a ""
+    a "Na verdade, eu nunca estive do outro lado daquele rio..."
 
 # game/scripts/ash_events.rpy:7110
 translate pt_br ashstress_4adca787:
 
     # c "Really? It looks like you can just walk over that bridge."
-    c ""
+    c "Sério? Parece que você pode simplesmente atravessar aquela ponte."
 
 # game/scripts/ash_events.rpy:7111
 translate pt_br ashstress_965771a7:
 
     # a "It's never felt like my place... the people over there don't like the people over here, so the people over here hate the people over there... I don't want to get in the middle of that, so I just stayed over here..."
-    a ""
+    a "Nunca me senti como se aquele fosse o meu lugar... as pessoas de lá não gostam das pessoas daqui, então as pessoas daqui odeiam as pessoas de lá... Eu não quero ficar no meio disso, então eu apenas fiquei aqui..."
 
 # game/scripts/ash_events.rpy:7112
 translate pt_br ashstress_3b99b4a3:
 
     # c "Your family was pretty poor, huh?"
-    c ""
+    c "A sua família era bem pobre, né?"
 
 # game/scripts/ash_events.rpy:7114
 translate pt_br ashstress_709232c6:
 
     # a "Yeah, we still are... before I moved into the hotel, I lived in a trailer with my parents. That place always reeked of alcohol and mold, and we didn't always have food in the house..."
-    a ""
+    a "Sim, ainda somos... antes de me mudar para o hotel, eu morava em um trailer com meus pais. Aquele lugar sempre cheirava a álcool"
 
 # game/scripts/ash_events.rpy:7115
 translate pt_br ashstress_22643628:
 
     # a "He's never said it, but I know my dad has never wanted me. I was an accident... I only guaranteed they would stay in the slums for another 19 years, or even forever."
-    a ""
+    a "Ele nunca disse isso, mas eu sei que meu pai nunca me quis. Eu fui um acidente... Eu só garanti que eles ficariam na favela por mais 19 anos, ou até para sempre."
 
 # game/scripts/ash_events.rpy:7116
 translate pt_br ashstress_5595de69:
 
     # c "That's a tough situation... for all of you."
-    c ""
+    c "Essa é uma situação difícil... para todos vocês."
 
 # game/scripts/ash_events.rpy:7117
 translate pt_br ashstress_186fbd30:
 
     # a "He blamed me for everything, even though he spent money on alcohol while I went to bed hungry... and my mother was always away working, she had two jobs."
-    a ""
+    a "Ele me culpava por tudo, mesmo que ele gastasse dinheiro com álcool enquanto eu ia para a cama com fome... e minha mãe estava sempre fora trabalhando, ela tinha dois empregos."
 
 # game/scripts/ash_events.rpy:7118
 translate pt_br ashstress_d9ba11ac:
 
     # a "Guess you know the real reason I've never eaten cake now..."
-    a ""
+    a "Acho que você já sabe a verdadeira razão de eu nunca ter comido bolo agora..."
 
 # game/scripts/ash_events.rpy:7119
 translate pt_br ashstress_bb8e4b4e_3:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:7121
 translate pt_br ashstress_1adc4a6a:
 
     # a "...{w}..."
-    a ""
+    a "...{w}..."
 
 # game/scripts/ash_events.rpy:7123
 translate pt_br ashstress_5e67326b:
 
     # a "...I'm not the girl you think I am... I'm dirty, I'm poor, I lie, and my head doesn't always work the way it should..."
-    a ""
+    a "...Eu não sou a garota que você pensa que eu sou... Eu sou suja, eu sou pobre, eu minto, e minha cabeça nem sempre funciona do jeito que deveria..."
 
 # game/scripts/ash_events.rpy:7124
 translate pt_br ashstress_74c3d824:
 
     # a "But... I really like living in the hotel, and I like you... I don't want to mess anything up..."
-    a ""
+    a "Mas... Eu realmente gosto de morar no hotel, e eu gosto de você... Eu não quero estragar nada..."
 
 # game/scripts/ash_events.rpy:7125
 translate pt_br ashstress_783b4e41:
 
     # a "Now my parents know where I live... I thought I finally got away from them, I thought I finally found my freedom, but... now I'm worried they'll send the police after me..."
-    a ""
+    a "Agora meus pais sabem onde eu moro... Eu pensei que finalmente tinha me afastado deles, eu pensei que finalmente tinha encontrado minha liberdade, mas... agora estou preocupada que eles vão mandar a polícia atrás de mim..."
 
 # game/scripts/ash_events.rpy:7126
 translate pt_br ashstress_e845f0c1:
 
     # c "You can live wherever your want, you're an adult."
-    c ""
+    c "Você pode viver onde quiser, você é uma adulta."
 
 # game/scripts/ash_events.rpy:7127
 translate pt_br ashstress_36bc5cd9:
 
     # a "I've done worse than just run away... I've done illegal things... but they were things I had to do to survive..."
-    a ""
+    a "Eu fiz coisas piores do que apenas fugir... Eu fiz coisas ilegais... mas eram coisas que eu tinha que fazer para sobreviver..."
 
 # game/scripts/ash_events.rpy:7128
 translate pt_br ashstress_eb97efe5:
 
     # c "You're not wrong for that."
-    c ""
+    c "Você não está errada por isso."
 
 # game/scripts/ash_events.rpy:7129
 translate pt_br ashstress_134f6a12:
 
     # a "Not everyone sees it like you do... I'm sure my parents don't."
-    a ""
+    a "Nem todo mundo vê isso do jeito que você vê... Tenho certeza de que meus pais não veem."
 
 # game/scripts/ash_events.rpy:7130
 translate pt_br ashstress_572c8b67:
 
     # a "And now I have all of this school work I need to take seriously, but, does it really even matter...!? People from the slums stay in the slums. That's how it's always been..."
-    a ""
+    a "E agora eu tenho todo esse trabalho escolar que preciso levar a sério, mas, realmente importa...!? Pessoas da favela ficam na favela. É assim que sempre foi..."
 
 # game/scripts/ash_events.rpy:7131
 translate pt_br ashstress_e5896801:
 
     # a "I was lucky to get into college, but I'm starting to feel like that opportunity was wasted on me... I mean, I've never felt welcomed there, either..."
-    a ""
+    a "Fui sortuda em entrar na faculdade, mas comecei a sentir que essa oportunidade foi desperdiçada comigo... Quer dizer, nunca me senti bem-vinda lá, também..."
 
 # game/scripts/ash_events.rpy:7132
 translate pt_br ashstress_7054b5cd:
 
     # a "And if that's not enough, there's no way I can continue to live on my parents money forever...! Even if they never found out, they couldn't afford your hotel for much longer."
-    a ""
+    a "E como se isso não fosse suficiente, não tem como eu continuar vivendo do dinheiro dos meus pais para sempre...! Mesmo que eles nunca descobrissem, eles não poderiam pagar o seu hotel por muito mais tempo."
 
 # game/scripts/ash_events.rpy:7133
 translate pt_br ashstress_83eabbca:
 
     # a "I'm just... *sigh*... I'm just a waste..."
-    a ""
+    a "Eu sou apenas... *ufa*... Eu sou apenas um desperdício..."
 
 # game/scripts/ash_events.rpy:7134
 translate pt_br ashstress_983cf4cb:
 
     # c "Ashley, you're not a waste, you just had an unlucky start."
-    c ""
+    c "Ashley, você não é um desperdício, você apenas teve um começo azarado."
 
 # game/scripts/ash_events.rpy:7135
 translate pt_br ashstress_95e53457:
 
     # a "Either way, I'm not going anywhere in life, and it's giving me a lot of stress right now..."
-    a ""
+    a "Mesmo assim, eu não vou a lugar nenhum na vida, e isso está me dando muito estresse agora..."
 
 # game/scripts/ash_events.rpy:7137
 translate pt_br ashstress_d68aadd8:
 
     # a "Some day, I want to live out there, in one of those tall towers. I want to know what it's like to live without hunger and with friends all around me... I want to go to bed so full I won't even be hungry until the next night."
-    a ""
+    a "Um dia, eu quero morar lá fora, em uma daquelas torres altas. Eu quero saber como é viver sem fome e com amigos ao meu redor... Eu quero ir para a cama tão cheia que nem vou sentir fome até a noite seguinte."
 
 # game/scripts/ash_events.rpy:7138
 translate pt_br ashstress_8d7fde08:
 
     # a "I don't see that ever happening though. Once I'm done with college, I'll probably end up back on these streets..."
-    a ""
+    a "Mas eu não acho que isso vá acontecer. Depois que eu terminar a faculdade, provavelmente vou acabar de volta nessas ruas..."
 
 # game/scripts/ash_events.rpy:7139
 translate pt_br ashstress_d1d79c78:
 
     # c "I won't let that happen, Ash. I'll make sure you can live at the hotel long enough for you to find your place."
-    c ""
+    c "Eu não vou deixar isso acontecer, Ash. Eu vou garantir que você possa morar no hotel tempo suficiente para encontrar o seu lugar."
 
 # game/scripts/ash_events.rpy:7140
 translate pt_br ashstress_e71ddab7:
 
     # a "Look at those buildings, [name]... the ones on that side are fresh, alive and flourishing. The buildings over here are worn, forgotten and decayed... the people are no different, why would I be?"
-    a ""
+    a "Olha aqueles prédios, [name]... os do outro lado são novos, vivos e florescendo. Os prédios daqui estão desgastados, esquecidos e decadentes... as pessoas não são diferentes, por que eu seria?"
 
 # game/scripts/ash_events.rpy:7141
 translate pt_br ashstress_6caa2572:
 
     # c "You're not chained here anymore, you're free to do whatever you want. Even quit college and become a maid at my hotel if that's what you want to do."
-    c ""
+    c "Você não está mais acorrentada aqui, você é livre para fazer o que quiser. Até mesmo abandonar a faculdade e se tornar uma empregada do meu hotel se é isso que você quer fazer."
 
 # game/scripts/ash_events.rpy:7142
 translate pt_br ashstress_0c06ad03:
 
     # a "A slave's job... just like my mother."
-    a ""
+    a "Um trabalho de escrava... igual a minha mãe."
 
 # game/scripts/ash_events.rpy:7143
 translate pt_br ashstress_ed1e847f:
 
     # c "Well..."
-    c ""
+    c "Bem..."
 
 # game/scripts/ash_events.rpy:7144
 translate pt_br ashstress_e4dc15a7:
 
     # a "*sigh*... I don't want to end up like my mother... I want to be better than her. Better than both of them..."
-    a ""
+    a "*ufa*... Eu não quero acabar como minha mãe... Eu quero ser melhor do que ela. Melhor do que os dois..."
 
 # game/scripts/ash_events.rpy:7145
 translate pt_br ashstress_76177782:
 
     # c "Having met your mother, I know you can be."
-    c ""
+    c "Tendo conhecido sua mãe, eu sei que você pode ser."
 
 # game/scripts/ash_events.rpy:7146
 translate pt_br ashstress_352654a8:
 
     # a "You barely even know me..."
-    a ""
+    a "Você mal me conhece..."
 
 # game/scripts/ash_events.rpy:7148
 translate pt_br ashstress_2bdf4ded:
 
     # a "Every morning, I have to convince myself to get up and act a certain way. It's like I'm trying to make the whole world happy for some reason, and I don't even know why..."
-    a ""
+    a "Todo dia, eu tenho que me convencer a levantar e agir de uma certa maneira. É como se eu estivesse tentando deixar o mundo inteiro feliz por algum motivo, e eu nem sei por quê..."
 
 # game/scripts/ash_events.rpy:7149
 translate pt_br ashstress_0411b746:
 
     # a "...Sometimes I feel like I'm putting a mask on so people can't see the real me... do you know what I mean?"
-    a ""
+    a "...Às vezes eu sinto como se estivesse colocando uma máscara para que as pessoas não possam ver o meu verdadeiro eu... você sabe o que eu quero dizer?"
 
 # game/scripts/ash_events.rpy:7152
 translate pt_br ashstress_d59b93e4:
 
     # a "It's hard to put in to words. It's just... a feeling."
-    a ""
+    a "É difícil de colocar em palavras. É apenas... um sentimento."
 
 # game/scripts/ash_events.rpy:7154
 translate pt_br ashstress_1b9fd33e:
 
     # a "I don't really understand either, it's just a feeling I guess..."
-    a ""
+    a "Eu mesma não entendo muito bem, é apenas um sentimento, eu acho..."
 
 # game/scripts/ash_events.rpy:7155
 translate pt_br ashstress_447b415b:
 
     # a "I thought you would want this cheerful, happy, experienced girlfriend, so I tried my best to become that person, but it's so exhausting..."
-    a ""
+    a "Eu pensei que você gostaria dessa namorada alegre, feliz e experiente, então eu tentei me tornar essa pessoa, mas é tão cansativo..."
 
 # game/scripts/ash_events.rpy:7156
 translate pt_br ashstress_31e0dc2c:
 
     # c "You don't have to be anyone but yourself around me."
-    c ""
+    c "Você não precisa ser ninguém além de você mesma perto de mim."
 
 # game/scripts/ash_events.rpy:7157
 translate pt_br ashstress_30ad75f2:
 
     # a "You say that, but would you really have talked to me if I looked like this when we first met? Would you have been as interested in me if I didn't flirt with you all the time, or didn't act like I knew how to suck your cock...?"
-    a ""
+    a "Você diz isso, mas você realmente teria falado comigo se eu parecesse assim quando nos conhecemos pela primeira vez? Você teria se interessado em mim se eu flertasse com você o tempo todo, ou não me comportasse como se já soubesse como chupar o seu pau...?"
 
 # game/scripts/ash_events.rpy:7158
 translate pt_br ashstress_2f516449:
 
     # a "I look like a boy when I don't do my hair or wear a cute skirt... I'm not like those curvy girls in the hotel."
-    a ""
+    a "Eu pareço um garoto quando não faço meu cabelo ou uso uma saia fofa... Não sou como aquelas garotas curvilíneas do hotel."
 
 # game/scripts/ash_events.rpy:7159
 translate pt_br ashstress_d2ed5ec7:
 
     # c "You're beautiful Ashley, just the way you are. I actually like this new look."
-    c ""
+    c "Você é linda, Ashley, exatamente como é. Eu realmente gosto dessa nova aparência."
 
 # game/scripts/ash_events.rpy:7161
 translate pt_br ashstress_fc43e266:
 
     # a "Really? I didn't put any effort into myself..."
-    a ""
+    a "Sério? Eu não me esforcei para ficar assim..."
 
 # game/scripts/ash_events.rpy:7162
 translate pt_br ashstress_fb74dd9a:
 
     # c "Of course, you look adorable. There's nothing to worry about."
-    c ""
+    c "É claro, você está adorável. Não há nada para se preocupar."
 
 # game/scripts/ash_events.rpy:7163
 translate pt_br ashstress_52a7d0d8:
 
     # a "Thank you..."
-    a ""
+    a "Obrigada..."
 
 # game/scripts/ash_events.rpy:7165
 translate pt_br ashstress_bb8e4b4e_4:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:7166
 translate pt_br ashstress_f33626f5:
 
     # a "...Huh."
-    a ""
+    a "...Hein?"
 
 # game/scripts/ash_events.rpy:7167
 translate pt_br ashstress_48fc288b:
 
     # c "What's up?"
-    c ""
+    c "O que foi?"
 
 # game/scripts/ash_events.rpy:7168
 translate pt_br ashstress_209ea8f9:
 
     # a "...This actually kind of feels like a date."
-    a ""
+    a "...Isso na verdade meio que parece um encontro."
 
 # game/scripts/ash_events.rpy:7170
 translate pt_br ashstress_ba5eb945:
 
     # a "Like... a real date... to actually get closer to someone."
-    a ""
+    a "Tipo... um encontro de verdade... para realmente se aproximar de alguém."
 
 # game/scripts/ash_events.rpy:7171
 translate pt_br ashstress_7f9d7d8a:
 
     # a "No distractions, nothing to eat... I'm not even trying to act pretty... It's just you and me..."
-    a ""
+    a "Sem distrações, nada para comer... Eu nem estou tentando parecer bonita... É só você e eu..."
 
 # game/scripts/ash_events.rpy:7173
 translate pt_br ashstress_4db74d0d:
 
     # a "I kind of feel some sort of... connection? Like there's a rope tied to me and on the other end is you."
-    a ""
+    a "Eu meio que estou sentindo algum tipo de... conexão? Como se houvesse uma corda amarrada em mim e na outra ponta estivesse você."
 
 # game/scripts/ash_events.rpy:7174
 translate pt_br ashstress_2bedcaf3:
 
     # a "It's a nice feeling. Like if I were to fall in a forest you would just be waiting behind a tree to catch me."
-    a ""
+    a "É uma sensação boa. Como se eu caísse em uma floresta, você estaria esperando atrás de uma árvore para me pegar."
 
 # game/scripts/ash_events.rpy:7175
 translate pt_br ashstress_9673daa9:
 
     # c "I feel that connection to you, too."
-    c ""
+    c "Eu sinto essa conexão com você, também."
 
 # game/scripts/ash_events.rpy:7176
 translate pt_br ashstress_2f1699f0:
 
     # a "[name]... when I'm with you, I can forget all of my past problems. It's easy to think of a better future with you. Even if it's just a dream, it's such a beautiful one. I never want to let that go."
-    a ""
+    a "[name]... quando estou com você, eu posso esquecer todos os meus problemas do passado. É fácil pensar em um futuro melhor com você. Mesmo que seja apenas um sonho, é um sonho tão bonito. Eu nunca quero deixar isso ir."
 
 # game/scripts/ash_events.rpy:7178
 translate pt_br ashstress_9faaefb3:
 
     # a "I never want to let you go..."
-    a ""
+    a "Eu nunca vou querer te deixar ir..."
 
 # game/scripts/ash_events.rpy:7179
 translate pt_br ashstress_2209322f:
 
     # c "I'm here for you..."
-    c ""
+    c "Eu estou aqui para você..."
 
 # game/scripts/ash_events.rpy:7181
 translate pt_br ashstress_1b87bd96:
 
     # a "I'm sorry for lying to you, [name]... I just wanted you to like me."
-    a ""
+    a "Me desculpa por mentir para você, [name]... Eu só queria que você gostasse de mim."
 
 # game/scripts/ash_events.rpy:7183
 translate pt_br ashstress_948009b0:
 
     # a "I'm usually not like this... I try to avoid this feeling as much as possible, but sometimes it sneaks up on me... I just have so much going on right now."
-    a ""
+    a "Eu normalmente não sou assim... Eu tento evitar esse sentimento o máximo possível, mas às vezes ele aparece de repente... Eu tenho tanta coisa acontecendo agora."
 
 # game/scripts/ash_events.rpy:7184
 translate pt_br ashstress_2981779f:
 
     # c "You're allowed to feel sad sometimes, Ash."
-    c ""
+    c "Você tem permissão para se sentir triste às vezes, Ash."
 
 # game/scripts/ash_events.rpy:7185
 translate pt_br ashstress_9f44620f:
 
     # a "Yeah, I guess it's just a part of life..."
-    a ""
+    a "Sim, acho que é apenas uma parte da vida..."
 
 # game/scripts/ash_events.rpy:7187
 translate pt_br ashstress_b29ca814:
 
     # a "I've never had anyone to talk about this stuff to before. It feels really nice. Will you always be there to talk to?"
-    a ""
+    a "Eu nunca tive ninguém para falar sobre essas coisas antes. É uma sensação muito boa. Você sempre vai estar lá para conversarmos?"
 
 # game/scripts/ash_events.rpy:7188
 translate pt_br ashstress_7d578742:
 
     # c "As much as I can."
-    c ""
+    c "Sempre que eu puder."
 
 # game/scripts/ash_events.rpy:7190
 translate pt_br ashstress_fd775870:
 
     # a "Knowing that is enough, thank you."
-    a ""
+    a "Saber disso é suficiente, obrigada."
 
 # game/scripts/ash_events.rpy:7192
 translate pt_br ashstress_b4f78328:
@@ -25053,703 +25053,703 @@ translate pt_br ashstress_b4f78328:
 translate pt_br ashstress_b95a6d9e:
 
     # a "Thanks for spending time with me today, [name]. I had no idea how much I needed this..."
-    a ""
+    a "Obrigada por passar um tempo comigo hoje, [name]. Eu não fazia ideia de quanto eu precisava disso..."
 
 # game/scripts/ash_events.rpy:7195
 translate pt_br ashstress_98b6be8b:
 
     # c "Feeling a bit better?"
-    c ""
+    c "Está se sentindo um pouco melhor?"
 
 # game/scripts/ash_events.rpy:7197
 translate pt_br ashstress_ac332188:
 
     # a "Yeah, definitely more relaxed now. I might take the rest of the day off and sit in the hot springs for a while too, when we get back."
-    a ""
+    a "Sim, eu definitivamente estou mais relaxada agora. Eu posso tirar o resto do dia de folga e sentar nas fontes termais por um tempo também, quando voltarmos."
 
 # game/scripts/ash_events.rpy:7198
 translate pt_br ashstress_113687a3:
 
     # a "It feels so strange being in my natural hair again. I think the last time I looked like this was in elementary school, heheh..."
-    a ""
+    a "É tão estranho estar com meu cabelo natural de novo. Acho que a última vez que eu me pareci assim foi no ensino fundamental, heheh..."
 
 # game/scripts/ash_events.rpy:7200
 translate pt_br ashstress_40d492e1:
 
     # a "I think I'm going to fix my hair as soon as I get home though, I don't want to force anyone to look at me like this."
-    a ""
+    a "Eu acho que vou arrumar meu cabelo assim que chegar em casa, eu não quero forçar ninguém a me olhar assim."
 
 # game/scripts/ash_events.rpy:7201
 translate pt_br ashstress_64497701:
 
     # c "You really don't look bad, Ash. You look great just like this."
-    c ""
+    c "Você realmente não está feia, Ash. Você está ótima assim."
 
 # game/scripts/ash_events.rpy:7203
 translate pt_br ashstress_4f1c7250:
 
     # a "I know you're just saying that to make me feel better... but thanks..."
-    a ""
+    a "Eu sei que você está apenas dizendo isso para me fazer sentir melhor... mas obrigada..."
 
 # game/scripts/ash_events.rpy:7207
 translate pt_br ash_anal_stress_2be6d62e:
 
     # "If Ashley enjoyed anal more, this could have been a time to ask her. But I'll have to pass for now..."
-    ""
+    "Se Ashley gostasse mais de anal, esse poderia ter sido um momento para perguntar a ela. Mas eu vou ter que passar por agora..."
 
 # game/scripts/ash_events.rpy:7211
 translate pt_br ash_anal_stress_12eb3c34:
 
     # a "What? There's no way you find me attractive like this..."
-    a ""
+    a "O quê? Não tem como você me achar atraente assim..."
 
 # game/scripts/ash_events.rpy:7212
 translate pt_br ash_anal_stress_0481c530:
 
     # c "I could prove it to you. Turn around..."
-    c ""
+    c "Eu poderia provar isso para você. Vire-se..."
 
 # game/scripts/ash_events.rpy:7213
 translate pt_br ash_anal_stress_5a7d01ba:
 
     # a "Huh? Really...?"
-    a ""
+    a "Hein? Sério...?"
 
 # game/scripts/ash_events.rpy:7214
 translate pt_br ash_anal_stress_90fbbe20:
 
     # c "Only if you want."
-    c ""
+    c "Só se você quiser."
 
 # game/scripts/ash_events.rpy:7216
 translate pt_br ash_anal_stress_0731cfc4:
 
     # a "...{w}...{w}Okay."
-    a ""
+    a "...{w}...{w}Tá bom."
 
 # game/scripts/ash_events.rpy:7220
 translate pt_br ash_anal_stress_8ebeb467:
 
     # a "Is this what you wanted to see, [name]?"
-    a ""
+    a "É isso o que você queria ver, [name]?"
 
 # game/scripts/ash_events.rpy:7221
 translate pt_br ash_anal_stress_d0269ec3:
 
     # c "Beautiful."
-    c ""
+    c "Linda."
 
 # game/scripts/ash_events.rpy:7224
 translate pt_br ash_anal_stress_b126327b:
 
     # a "You like my butt? Do you think it's cute?"
-    a ""
+    a "Você gosta da minha bunda? Você acha ela fofa?"
 
 # game/scripts/ash_events.rpy:7226
 translate pt_br ash_anal_stress_690573f2:
 
     # a "*gasp*! Aaaah~!"
-    a ""
+    a "*ah*! Aaaah~!"
 
 # game/scripts/ash_events.rpy:7227
 translate pt_br ash_anal_stress_9dbc424a:
 
     # a "You're licking me...! Haaah...! Your tongue is so wet...! Mmh!"
-    a ""
+    a "Você está me lambendo...! Haaah...! Sua língua é tão molhada...! Mmh!"
 
 # game/scripts/ash_events.rpy:7228
 translate pt_br ash_anal_stress_4bef2a6e:
 
     # a "Mmmm! Ahhh...! You're licking everywhere...! Nnh! Aaah!"
-    a ""
+    a "Mmmm! Ahhh...! Você está lambendo por toda parte...! Nnh! Aaah!"
 
 # game/scripts/ash_events.rpy:7230
 translate pt_br ash_anal_stress_92252cb3:
 
     # a "I've never had my ass licked before, that felt so strange... but I liked it.~"
-    a ""
+    a "Ninguém nunca lambeu a minha bunda antes, isso foi tão estranho... mas eu gostei.~"
 
 # game/scripts/ash_events.rpy:7233
 translate pt_br ash_anal_stress_dac3771c:
 
     # a "Mmmmh, yes... put your cock in my ass~"
-    a ""
+    a "Mmmmh, isso... coloca o seu pau na minha bunda~"
 
 # game/scripts/ash_events.rpy:7235
 translate pt_br ash_anal_stress_9b3af91e:
 
     # a "Nnnh... I'm so horny now, I want you so much...!"
-    a ""
+    a "Nnnh... Estou tão excitada agora, eu quero você tanto...!"
 
 # game/scripts/ash_events.rpy:7236
 translate pt_br ash_anal_stress_d19eb3e0:
 
     # a "Please don't tease me, just fuck me~!"
-    a ""
+    a "Por favor, não me provoque, só me fode~!"
 
 # game/scripts/ash_events.rpy:7238
 translate pt_br ash_anal_stress_294d9583:
 
     # a "Haaah! NNNNM!" with ssshake
-    a "" with ssshake
+    a "Haaah! NNNNM!" with ssshake
 
 # game/scripts/ash_events.rpy:7239
 translate pt_br ash_anal_stress_768b9b09:
 
     # a "Ahhh...! Hahhh...! Mmmmn... keep going...!"
-    a ""
+    a "Ahhh...! Hahhh...! Mmmmn... continua...!"
 
 # game/scripts/ash_events.rpy:7242
 translate pt_br ash_anal_stress_b6601ffe:
 
     # a "Ahhh~! Fuuuuck...! Nnnnm, yes...!"
-    a ""
+    a "Ahhh!~ Porraaaa...! Nnnnm, isso...!"
 
 # game/scripts/ash_events.rpy:7244
 translate pt_br ash_anal_stress_c2148ccb:
 
     # a "Mmmn, mmmm~! Do you really think I look cute, [linoname]...? Hahh...!"
-    a ""
+    a "Mmmn, mmmm~! Você realmente me acha fofa, [linoname]...? Hahh...!"
 
 # game/scripts/ash_events.rpy:7246
 translate pt_br ash_anal_stress_3d72eb09:
 
     # a "Mmmn, mmmm~! Do you really think I look cute...? Hahh...!"
-    a ""
+    a "Mmmn, mmmm~! Você realmente me acha fofa...? Hahh...!"
 
 # game/scripts/ash_events.rpy:7247
 translate pt_br ash_anal_stress_f6de0a07:
 
     # c "Of course I do."
-    c ""
+    c "É claro que sim."
 
 # game/scripts/ash_events.rpy:7249
 translate pt_br ash_anal_stress_0bec81d4:
 
     # a "Then tell me you love me...! Nnnh! Say it..."
-    a ""
+    a "Então me diga que você me ama...! Nnnh! Diga isso..."
 
 # game/scripts/ash_events.rpy:7250
 translate pt_br ash_anal_stress_f134e22c:
 
     # c "I love you."
-    c ""
+    c "Eu te amo."
 
 # game/scripts/ash_events.rpy:7252
 translate pt_br ash_anal_stress_cf78d36e:
 
     # a "Then say it... tell me I'm cute...! Nnnh!"
-    a ""
+    a "Então diga isso... me diga que eu sou fofa...! Nnnh!"
 
 # game/scripts/ash_events.rpy:7253
 translate pt_br ash_anal_stress_35eff89e:
 
     # c "You're very cute."
-    c ""
+    c "Você é muito fofa."
 
 # game/scripts/ash_events.rpy:7255
 translate pt_br ash_anal_stress_b224e7c2:
 
     # a "Mmmmh! Yes [linoname]! I'll let you do anything to me, I love you, I love you~!"
-    a ""
+    a "Mmmmh! Isso, [linoname]! Eu vou deixar você fazer qualquer coisa comigo, eu te amo, eu te amo~!"
 
 # game/scripts/ash_events.rpy:7257
 translate pt_br ash_anal_stress_263b7a52:
 
     # a "Mmmmh! Yes [name]! I'll let you do anything to me, I love you, I love you~!"
-    a ""
+    a "Mmmmh! Isso, [name]! Eu vou deixar você fazer qualquer coisa comigo, eu te amo, eu te amo~!"
 
 # game/scripts/ash_events.rpy:7259
 translate pt_br ash_anal_stress_5f55dfd4:
 
     # a "Mmmmh! Yes [name]! I'll let you do anything to me, you're amazing~!"
-    a ""
+    a "Mmmmh! Yes [name]! I'll let you do anything to me, you're amazing~!"
 
 # game/scripts/ash_events.rpy:7263
 translate pt_br ash_anal_stress_8f8b6298:
 
     # a "Haaah...! You look so cute when you're about to cum...! Mmmh, are you about to cum, [linoname]?"
-    a ""
+    a "Haaah...! Você fica tão fofo quando está prestes a gozar...! Mmmh, você está prestes a gozar, [linoname]?"
 
 # game/scripts/ash_events.rpy:7265
 translate pt_br ash_anal_stress_e9440c2b:
 
     # a "Haaah...! You look so cute when you're about to cum...! Mmmh, are you about to cum?"
-    a ""
+    a "Haaah...! Você fica tão fofo quando está prestes a gozar...! Mmmh, você está prestes a gozar?"
 
 # game/scripts/ash_events.rpy:7267
 translate pt_br ash_anal_stress_23dc0c3a:
 
     # a "Ah, aaah! Nnnh...! You can do it inside, outside, wherever you want. Nnnh! I just want you to be happy..."
-    a ""
+    a "Ah, aaah! Nnnh...! Você pode fazer isso por dentro, por fora, onde quiser. Nnnh! Eu só quero que você esteja feliz..."
 
 # game/scripts/ash_events.rpy:7269
 translate pt_br ash_anal_stress_1e7feef4:
 
     # a "Do it, do it...! Haaah...! Give me all of your love juices! Show me how much you love me~!"
-    a ""
+    a "Faz isso, faz isso...! Haaah...! Me dê todo o seu suco de amor! Me mostre o quanto você me ama~!"
 
 # game/scripts/ash_events.rpy:7271
 translate pt_br ash_anal_stress_b87ba730:
 
     # a "Do it, do it...! Haaah...! Give me all of your cum! Show me how cute you think I am...!"
-    a ""
+    a "Faz isso, faz isso...! Haaah...! Me dê todo o seu gozo! Me mostre o quanto você me acha fofa...!"
 
 # game/scripts/ash_events.rpy:7275
 translate pt_br ash_anal_stress_7bd33711:
 
     # a "Aahhh...!" with ssshake
-    a "" with ssshake
+    a "Aahhh...!" with ssshake
 
 # game/scripts/ash_events.rpy:7276
 translate pt_br ash_anal_stress_410cf2c7:
 
     # a "Mmmmn...!" with ssshake
-    a "" with ssshake
+    a "Mmmmn...!" with ssshake
 
 # game/scripts/ash_events.rpy:7277
 translate pt_br ash_anal_stress_d19e381a:
 
     # a "I can feel it inside... Hahh...! Mmmn~" with ssshake
-    a "" with ssshake
+    a "Eu posso sentir isso por dentro... Hahh...! Mmmn~" with ssshake
 
 # game/scripts/ash_events.rpy:7279
 translate pt_br ash_anal_stress_e98ebe5c:
 
     # a "Hehe~ you came inside my butt. Did that feel good?"
-    a ""
+    a "Hehe~ você gozou dentro da minha bunda. Isso foi bom?"
 
 # game/scripts/ash_events.rpy:7282
 translate pt_br ash_anal_stress_6bad617e:
 
     # a "Ahhh~!" with ssshake
-    a "" with ssshake
+    a "Ahhh~!" with ssshake
 
 # game/scripts/ash_events.rpy:7283
 translate pt_br ash_anal_stress_8aa416be:
 
     # a "Hehe~ cum on me~" with ssshake
-    a "" with ssshake
+    a "Hehe~ goza em mim~" with ssshake
 
 # game/scripts/ash_events.rpy:7285
 translate pt_br ash_anal_stress_c116a06c:
 
     # a "You came all over my butt, heheh, did that feel good?"
-    a ""
+    a "Você gozou por toda a minha bunda, heheh, isso foi bom?"
 
 # game/scripts/ash_events.rpy:7287
 translate pt_br ash_anal_stress_abb2e6b0:
 
     # c "Get on your kness, I'm going to cum on your face."
-    c ""
+    c "Fique de joelhos, eu vou gozar na sua cara."
 
 # game/scripts/ash_events.rpy:7289
 translate pt_br ash_anal_stress_f918a1fb:
 
     # a "Okay! Nnnh! Cum on me, right here...!"
-    a ""
+    a "Tá bom! Nnnh! Goza em mim, bem aqui...!"
 
 # game/scripts/ash_events.rpy:7291
 translate pt_br ash_anal_stress_278329b7:
 
     # a "Haaah~! Aaah...!" with ssshake
-    a "" with ssshake
+    a "Haaah~! Aaah...!" with ssshake
 
 # game/scripts/ash_events.rpy:7293
 translate pt_br ash_anal_stress_739a34c4:
 
     # a "Hehe~ you came all over me. Did that feel good?"
-    a ""
+    a "Hehe~ você gozou em mim toda. Isso foi bom?"
 
 # game/scripts/ash_events.rpy:7294
 translate pt_br ash_anal_stress_9b6f1f78:
 
     # c "It felt great."
-    c ""
+    c "Isso foi ótimo."
 
 # game/scripts/ash_events.rpy:7295
 translate pt_br ash_anal_stress_6518313d:
 
     # a "I'm glad~!"
-    a ""
+    a "Fico contente~!"
 
 # game/scripts/ash_events.rpy:7301
 translate pt_br ash_anal_stress_2a14b037:
 
     # a "Maybe we can finish what we started at the hotel..."
-    a ""
+    a "Talvez possamos terminar o que começamos no hotel..."
 
 # game/scripts/ash_events.rpy:7305
 translate pt_br ash_anal_stress_59ee997a:
 
     # a "Yep. Let's head back."
-    a ""
+    a "Claro. Vamos voltar."
 
 # game/scripts/ash_events.rpy:7309
 translate pt_br ash_anal_stress_c5845cbc:
 
     # a "It's just... hard for me to understand."
-    a ""
+    a "É só que... é difícil para mim entender."
 
 # game/scripts/ash_events.rpy:7310
 translate pt_br ash_anal_stress_2749df59:
 
     # a "Come on, let's head back home before it gets dark."
-    a ""
+    a "Vem, vamos voltar para casa antes que escureça."
 
 # game/scripts/ash_events.rpy:7314
 translate pt_br ash_anal_stress_f205d6a7:
 
     # "With that, you both hop in your car and drive back to the hotel. Ashley becomes tired about half way there and rests her head on your shoulder..."
-    ""
+    "Com isso, vocês dois entram no carro e dirigem de volta para o hotel. Ashley fica cansada na metade do caminho e descansa a cabeça no seu ombro..."
 
 # game/scripts/ash_events.rpy:7495
 translate pt_br ashnurse_5ceff244:
 
     # a "Good morning [name]~"
-    a ""
+    a "Bom dia [name]~"
 
 # game/scripts/ash_events.rpy:7498
 translate pt_br ashnurse_9e90e676:
 
     # c "What are you wearing?"
-    c ""
+    c "O que você está usando?"
 
 # game/scripts/ash_events.rpy:7500
 translate pt_br ashnurse_aa964005:
 
     # a "Hehe, do you like it? I bought it a couple days ago. I wanted to surprise you!"
-    a ""
+    a "Hehe, você gostou? Eu comprei isso alguns dias atrás. Eu queria te surpreender!"
 
 # game/scripts/ash_events.rpy:7501
 translate pt_br ashnurse_1f88c220:
 
     # a "It's cute, right?"
-    a ""
+    a "Não é fofo?"
 
 # game/scripts/ash_events.rpy:7505
 translate pt_br ashnurse_8476bce0:
 
     # a "I knew you'd like it!"
-    a ""
+    a "Eu sabia que você ia gostar!"
 
 # game/scripts/ash_events.rpy:7509
 translate pt_br ashnurse_1a72b4e5:
 
     # a "Hey! I spent a lot of money getting this for you so you damn well better like it!"
-    a ""
+    a "Ei! Eu gastei muito dinheiro para comprar isso para você, então é melhor que você goste!"
 
 # game/scripts/ash_events.rpy:7512
 translate pt_br ashnurse_9fb93d0b:
 
     # a "It's okay, I know you're just joking anyway!"
-    a ""
+    a "Tudo bem, eu sei que você está só brincando!"
 
 # game/scripts/ash_events.rpy:7514
 translate pt_br ashnurse_d6296549:
 
     # a "So, well... You know I didn't just buy this for no reason, right?"
-    a ""
+    a "Então, bem... Você sabe que eu não comprei isso à toa, né?"
 
 # game/scripts/ash_events.rpy:7515
 translate pt_br ashnurse_fd89704e:
 
     # a "I was hoping we could have a lot of sex in it! And I mean A LOT of sex!"
-    a ""
+    a "Eu estava esperando que pudéssemos fazer muito sexo com isso! E eu quero dizer MUITO sexo!"
 
 # game/scripts/ash_events.rpy:7516
 translate pt_br ashnurse_4262549d:
 
     # a "And when I say a lot I REALLY mean A LOT! You don't have any plans for today, right?"
-    a ""
+    a "E quando eu digo muito, eu REALMENTE quero dizer MUITO! Você não tem planos para hoje, né?"
 
 # game/scripts/ash_events.rpy:7517
 translate pt_br ashnurse_0339b906:
 
     # c "All of today...?"
-    c ""
+    c "O dia inteiro...?"
 
 # game/scripts/ash_events.rpy:7518
 translate pt_br ashnurse_5ba93c0d:
 
     # a "Mhm! I already locked the door so no one could bother us... So lets have lots of sex! And you don't even have to worry about cleaning it up because you'll only be cumming inside!"
-    a ""
+    a "Mhm! Eu já tranquei a porta para que ninguém pudesse nos incomodar... Então vamos fazer muito sexo! E você nem precisa se preocupar em limpar porque você só vai gozar dentro!"
 
 # game/scripts/ash_events.rpy:7519
 translate pt_br ashnurse_5e8512b7:
 
     # c "Who said I would be cumming inside you? And when did I ever agree to this?"
-    c ""
+    c "Quem disse que eu ia gozar dentro de você? E quando eu concordei com isso?"
 
 # game/scripts/ash_events.rpy:7521
 translate pt_br ashnurse_1cc7283a:
 
     # a "Hehe~ Just give me a kiss and everything will make sense, okay?"
-    a ""
+    a "Hehe~ Só me dê um beijo e tudo vai fazer sentido, ok?"
 
 # game/scripts/ash_events.rpy:7524
 translate pt_br ashnurse_cccd54e3:
 
     # a "Hehe~ I knew you would understand!"
-    a ""
+    a "Hehe~ Eu sabia que você ia entender!"
 
 # game/scripts/ash_events.rpy:7528
 translate pt_br ashnurse_c780651a:
 
     # a "What do you mean!? Just kiss me!"
-    a ""
+    a "O que você quer dizer!? Só me beija!"
 
 # game/scripts/ash_events.rpy:7529
 translate pt_br ashnurse_e60d4855:
 
     # c "Nah."
-    c ""
+    c "Nah."
 
 # game/scripts/ash_events.rpy:7530
 translate pt_br ashnurse_3c20758b:
 
     # a "KISS ME!"
-    a ""
+    a "ME BEIJA!"
 
 # game/scripts/ash_events.rpy:7531
 translate pt_br ashnurse_9dff8525:
 
     # a "KISS ME KISS ME KISS ME!!!"
-    a ""
+    a "ME BEIJA ME BEIJA ME BEIJA!!!"
 
 # game/scripts/ash_events.rpy:7535
 translate pt_br ashnurse_cccd54e3_1:
 
     # a "Hehe~ I knew you would understand!"
-    a ""
+    a "Hehe~ Eu sabia que você ia entender!"
 
 # game/scripts/ash_events.rpy:7538
 translate pt_br ashnurse_b82ee9cb:
 
     # a "Grrr..."
-    a ""
+    a "Grrr..."
 
 # game/scripts/ash_events.rpy:7540
 translate pt_br ashnurse_182f75bc:
 
     # "Ashley leaves the room and slams the door behind her..."
-    ""
+    "Ashley sai do quarto e bate a porta atrás de si..."
 
 # game/scripts/ash_events.rpy:7546
 translate pt_br ashprefuckathon_973e2da6:
 
     # "{i}Ashley jumps on to you, and you instinctively catch her{/i}"
-    ""
+    "{i}Ashley pula em você, e você instintivamente a segura{/i}"
 
 # game/scripts/ash_events.rpy:7548
 translate pt_br ashprefuckathon_6e8db98d:
 
     # a "Mmm... Mmmphh... Mmmpp..."
-    a ""
+    a "Mmm... Mmmphh... Mmmpp..."
 
 # game/scripts/ash_events.rpy:7549
 translate pt_br ashprefuckathon_dd70b324:
 
     # c "{i}(She's using her tongue a lot...){/i}"
-    c ""
+    c "{i}(Ela está usando bastante a lingua...){/i}"
 
 # game/scripts/ash_events.rpy:7550
 translate pt_br ashprefuckathon_3d52d8ca:
 
     # c "{i}(Hmm? She put something in my mouth... a tooth? No... A pill? Two pills?){/i}"
-    c ""
+    c "{i}(Hmm? Ela colocou algo na minha boca... um dente? Não... Uma pílula? Duas pílulas?){/i}"
 
 # game/scripts/ash_events.rpy:7551
 translate pt_br ashprefuckathon_bf6fec5e:
 
     # c "{i}(She's really trying to get me to swallow it...){/i}"
-    c ""
+    c "{i}(Ela está realmente tentando me fazer engolir isso...){/i}"
 
 # game/scripts/ash_events.rpy:7554
 translate pt_br ashprefuckathon_5bcf3515:
 
     # c "{i}(Here it goes...){/i}"
-    c ""
+    c "{i}(Lá vamos nós...){/i}"
 
 # game/scripts/ash_events.rpy:7555
 translate pt_br ashprefuckathon_e74f31f1:
 
     # c "*gulp*" with ssshake
-    c "" with ssshake
+    c "*gulp*" with ssshake
 
 # game/scripts/ash_events.rpy:7557
 translate pt_br ashprefuckathon_8a1e826d:
 
     # a "Hehe~ Good boy..."
-    a ""
+    a "Hehe~ Bom garoto..."
 
 # game/scripts/ash_events.rpy:7558
 translate pt_br ashprefuckathon_2bf5c383:
 
     # a "It should take effect any moment now..."
-    a ""
+    a "Deve fazer efeito a qualquer momento..."
 
 # game/scripts/ash_events.rpy:7560
 translate pt_br ashprefuckathon_1b51a493:
 
     # a "Mmmph... Mmmnn..."
-    a ""
+    a "Mmmph... Mmmnn..."
 
 # game/scripts/ash_events.rpy:7562
 translate pt_br ashprefuckathon_762c8a3c:
 
     # c "{i}(Hnnn... Something's happening...){/i}" with ssshake
-    c "" with ssshake
+    c "{i}(Hnnn... Tem alguma coisa acontecendo...){/i}" with ssshake
 
 # game/scripts/ash_events.rpy:7564
 translate pt_br ashprefuckathon_ffd09ecf:
 
     # c "Hnn!" with ssshake
-    c "" with ssshake
+    c "Hnn!" with ssshake
 
 # game/scripts/ash_events.rpy:7565
 translate pt_br ashprefuckathon_463525ff:
 
     # a "Go to sleep..." with ssshake
-    a "" with ssshake
+    a "Vá dormir..." with ssshake
 
 # game/scripts/ash_events.rpy:7567
 translate pt_br ashprefuckathon_8e31d464:
 
     # a "Just land on the bed, okay...?" with ssshake
-    a "" with ssshake
+    a "Só deite na cama, tá bom...?" with ssshake
 
 # game/scripts/ash_events.rpy:7573
 translate pt_br ashprefuckathon_d88bf0c0:
 
     # a "Grrr... What are you doing!?"
-    a ""
+    a "Grrr... O que você está fazendo!?"
 
 # game/scripts/ash_events.rpy:7575
 translate pt_br ashprefuckathon_fdd9c50a:
 
     # a "Shwallow thuh pillsh!"
-    a ""
+    a "Engulah ash pílulash!"
 
 # game/scripts/ash_events.rpy:7578
 translate pt_br ashprefuckathon_5bcf3515_1:
 
     # c "{i}(Here it goes...){/i}"
-    c ""
+    c "{i}(Lá vamos nós...){/i}"
 
 # game/scripts/ash_events.rpy:7579
 translate pt_br ashprefuckathon_e74f31f1_1:
 
     # c "*gulp*" with ssshake
-    c "" with ssshake
+    c "*gulp*" with ssshake
 
 # game/scripts/ash_events.rpy:7581
 translate pt_br ashprefuckathon_8a1e826d_1:
 
     # a "Hehe~ Good boy..."
-    a ""
+    a "Hehe~ Bom garoto..."
 
 # game/scripts/ash_events.rpy:7582
 translate pt_br ashprefuckathon_2bf5c383_1:
 
     # a "It should take effect any moment now..."
-    a ""
+    a "Deve fazer efeito a qualquer momento..."
 
 # game/scripts/ash_events.rpy:7584
 translate pt_br ashprefuckathon_1b51a493_1:
 
     # a "Mmmph... Mmmnn..."
-    a ""
+    a "Mmmph... Mmmnn..."
 
 # game/scripts/ash_events.rpy:7586
 translate pt_br ashprefuckathon_762c8a3c_1:
 
     # c "{i}(Hnnn... Something's happening...){/i}" with ssshake
-    c "" with ssshake
+    c "{i}(Hnnn... Tem alguma coisa acontecendo...){/i}" with ssshake
 
 # game/scripts/ash_events.rpy:7588
 translate pt_br ashprefuckathon_ffd09ecf_1:
 
     # c "Hnn!" with ssshake
-    c "" with ssshake
+    c "Hnn!" with ssshake
 
 # game/scripts/ash_events.rpy:7589
 translate pt_br ashprefuckathon_463525ff_1:
 
     # a "Go to sleep..." with ssshake
-    a "" with ssshake
+    a "Vá dormir..." with ssshake
 
 # game/scripts/ash_events.rpy:7591
 translate pt_br ashprefuckathon_8e31d464_1:
 
     # a "Just land on the bed, okay...?" with ssshake
-    a "" with ssshake
+    a "Só deite na cama, tá bom...?" with ssshake
 
 # game/scripts/ash_events.rpy:7594
 translate pt_br ashprefuckathon_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/scripts/ash_events.rpy:7598
 translate pt_br ashprefuckathon_0b63a64f:
 
     # a "What!?"
-    a ""
+    a "O quê!?"
 
 # game/scripts/ash_events.rpy:7600
 translate pt_br ashprefuckathon_4a46e0d4:
 
     # a "What's your problem [name]!? I just wanted to fuck you all day! Urgh!"
-    a ""
+    a "Qual é o seu problema, [name]!? Eu só queria te foder o dia todo! Urgh!"
 
 # game/scripts/ash_events.rpy:7602
 translate pt_br ashprefuckathon_182f75bc:
 
     # "Ashley leaves the room and slams the door behind her..."
-    ""
+    "Ashley deixa o quarto e bate a porta atrás dela..."
 
 # game/scripts/ash_events.rpy:7610
 translate pt_br ashfuckathon_b1569913:
 
     # a "Ahh! Ahh! Ahh!"
-    a ""
+    a "Ahh! Ahh! Ahh!"
 
 # game/scripts/ash_events.rpy:7613
 translate pt_br ashfuckathon_f173103a:
 
     # a "Ahhh! Hnn! Are you waking up? Nnn!"
-    a ""
+    a "Ahhh! Hnn! Você está acordando? Nnn!"
 
 # game/scripts/ash_events.rpy:7614
 translate pt_br ashfuckathon_595a91e7:
 
     # a "Hehe~ It only recommended half a pill, but I did two just to be safe! It worked like perfectly! Ahh!"
-    a ""
+    a "Hehe~ Só era para tomar metade da pílula, mas eu tomei duas só para ter certeza! Funcionou perfeitamente! Ahh!"
 
 # game/scripts/ash_events.rpy:7615
 translate pt_br ashfuckathon_ca561e05:
 
     # a "Yes! Yes! Yes! Fuck my pussy! Yes! Nn!"
-    a ""
+    a "Isso! Isso! Isso! Fode a minha boceta! Isso! Nn!"
 
 # game/scripts/ash_events.rpy:7616
 translate pt_br ashfuckathon_11812b6e:
 
     # a "Oh! I almost forgot! Ahh... Not only do the pills keep you hard for HOURS, but they also make you cum a lot!"
-    a ""
+    a "Ah! Eu quase esqueci! Ahh... As pílulas mantêm você duro por HORAS, e também fazem você gozar muito!"
 
 # game/scripts/ash_events.rpy:7617
 translate pt_br ashfuckathon_db850266:
 
     # a "I thought more sex plus more cum equals more babies! Ahh!"
-    a ""
+    a "Eu imaginei que mais sexo, mais gozo, é igual a mais bebês! Ahh!"
 
 # game/scripts/ash_events.rpy:7621
 translate pt_br ashfuckathon_e54e0bbd:
 
     # a "Ahh!" with ssshake
-    a "" with ssshake
+    a "Ahh!" with ssshake
 
 # game/scripts/ash_events.rpy:7622
 translate pt_br ashfuckathon_d666c898:
@@ -25767,205 +25767,205 @@ translate pt_br ashfuckathon_35105d84:
 translate pt_br ashfuckathon_8a58ecd0:
 
     # a "Hehe~ Oh yeah... It makes you cum fast too!"
-    a ""
+    a "Hehe~ Ah é... Isso também faz você gozar rápido!"
 
 # game/scripts/ash_events.rpy:7627
 translate pt_br ashfuckathon_4d15c81e:
 
     # a "Hnn!"
-    a ""
+    a "Hnn!"
 
 # game/scripts/ash_events.rpy:7628
 translate pt_br ashfuckathon_c2d201ed:
 
     # a "I can't let your cum start leaking out! We need to go again!"
-    a ""
+    a "Eu não posso deixar o seu gozo começar a vazar! Precisamos ir de novo!"
 
 # game/scripts/ash_events.rpy:7630
 translate pt_br ashfuckathon_eb179f97:
 
     # a "And again..."
-    a ""
+    a "E de novo..."
 
 # game/scripts/ash_events.rpy:7631
 translate pt_br ashfuckathon_436cd8ac:
 
     # a "And again...!"
-    a ""
+    a "E de novo...!"
 
 # game/scripts/ash_events.rpy:7632
 translate pt_br ashfuckathon_48cccb88:
 
     # a "And again and again and again and again AND AGAIN!"
-    a ""
+    a "E de novo e de novo e de novo e de novo E DE NOVO!"
 
 # game/scripts/ash_events.rpy:7634
 translate pt_br ashfuckathon_84352f9e:
 
     # "Even through your lust filled coma, you can tell you've cummed at least two more times..."
-    ""
+    "Mesmo através do seu coma cheio de luxúria, você pode dizer que gozou pelo menos duas vezes a mais..."
 
 # game/scripts/ash_events.rpy:7636
 translate pt_br ashfuckathon_260fa363:
 
     # a "Ahh! Hahh! Fuck! [name]!"
-    a ""
+    a "Ahh! Hahh! Porra! [name]!"
 
 # game/scripts/ash_events.rpy:7637
 translate pt_br ashfuckathon_14763091:
 
     # c "Huh? What's going on?"
-    c ""
+    c "Hein? O que está acontecendo?"
 
 # game/scripts/ash_events.rpy:7638
 translate pt_br ashfuckathon_36fd7993:
 
     # a "What? Hnn! Oh... Hehe... You were blacked out this whole time?"
-    a ""
+    a "O que? Hnn! Ah... Hehe... Você estava desmaiado o tempo todo?"
 
 # game/scripts/ash_events.rpy:7639
 translate pt_br ashfuckathon_75d10385:
 
     # a "Ahh! NNN! You pushed me against your wardrobe and started fucking me! Ahh!"
-    a ""
+    a "Ahh! NNN! Você me empurrou contra seu guarda-roupas e começou a me foder! Ahh!"
 
 # game/scripts/ash_events.rpy:7640
 translate pt_br ashfuckathon_162601b5:
 
     # a "But... I don't think you meant to - HN!!! Put it in my ass!"
-    a ""
+    a "Mas... Eu não achei que você iria querer - HN!!! Colocar isso na minha bunda!!"
 
 # game/scripts/ash_events.rpy:7641
 translate pt_br ashfuckathon_6edf61ce:
 
     # a "Ahh! Ahh! You just started fucking! And fucking and fucking and fucking!"
-    a ""
+    a "Ahh! Ahh! Você acabou de começar a me foder! E foder e foder e foder!"
 
 # game/scripts/ash_events.rpy:7642
 translate pt_br ashfuckathon_c8b0ae65:
 
     # a "Hnn! I hear it's hard to stop yourself when you're on those pills! It has to be true!"
-    a ""
+    a "Hnn! Eu ouvi que é difícil parar quando você está tomando essas pílulas! Tem que ser verdade!"
 
 # game/scripts/ash_events.rpy:7643
 translate pt_br ashfuckathon_57cd273c:
 
     # c "{i}(It must be true... I don't remember doing this at all...){/i}"
-    c ""
+    c "{i}(Deve ser verdade... Eu não me lembro de ter feito nada disso...){/i}"
 
 # game/scripts/ash_events.rpy:7644
 translate pt_br ashfuckathon_5b28febf:
 
     # c "{i}(Hgg... I don't think I could even stop if I wanted to... I don't have much control of my body...){/i}"
-    c ""
+    c "{i}(Hgg... Eu acho que eu nem conseguiria parar se eu quisesse... Eu não estou tendo muito controle do meu corpo...){/i}"
 
 # game/scripts/ash_events.rpy:7647
 translate pt_br ashfuckathon_209af830:
 
     # a "Ahh! Hnn! Hnn! I would like it in my pussy... But - Ah! We still have half the day left to fuck!"
-    a ""
+    a "Ahh! Hnn! Hnn! Eu teria gostado disso na minha boceta... Mas - Ah! Ainda temos metade do dia para nos fodermos!"
 
 # game/scripts/ash_events.rpy:7649
 translate pt_br ashfuckathon_de245edb:
 
     # a "AHH!!!" with ssshake
-    a "" with ssshake
+    a "AHH!!!" with ssshake
 
 # game/scripts/ash_events.rpy:7650
 translate pt_br ashfuckathon_0a36f162:
 
     # a "Again... So soon? Hnn!" with ssshake
-    a "" with ssshake
+    a "De novo... Tão rápido? Hnn!" with ssshake
 
 # game/scripts/ash_events.rpy:7651
 translate pt_br ashfuckathon_ef8ad52d:
 
     # a "Hnngg!!!" with ssshake
-    a "" with ssshake
+    a "Hnngg!!" with ssshake
 
 # game/scripts/ash_events.rpy:7653
 translate pt_br ashfuckathon_16e4b0f2:
 
     # a "Hehehe! That's the 5th time!"
-    a ""
+    a "Hehehe! Essa é a 5ª vez!"
 
 # game/scripts/ash_events.rpy:7654
 translate pt_br ashfuckathon_7f5d4775:
 
     # a "In my ass anyway... Hehe~"
-    a ""
+    a "Na minha bunda, de qualquer forma... Hehe~"
 
 # game/scripts/ash_events.rpy:7656
 translate pt_br ashfuckathon_b01dcc29:
 
     # a "Hn!" with ssshake
-    a "" with ssshake
+    a "Hn!" with ssshake
 
 # game/scripts/ash_events.rpy:7657
 translate pt_br ashfuckathon_534efc1a:
 
     # a "You're in so deep! You havent even left my ass for like an hour now! Ahhh!!!{size=-5}{alpha=.9} It's getting a bit sore, but I can take it! Hnn!{/alpha}{/size}{size=-7}{alpha=.8} Just keep cumming! Just keep cumming! Don't stop!{/alpha}{/size}{size=-9}{alpha=.7} You're going to fill me up so much! To the brim!{/alpha}{/size}{size=-11}{alpha=.6} Ahh! Ahhh!!! Hnnn!!!{/alpha}{/size}{size=-13}{alpha=.5} I won't be able to walk for days after this!{/alpha}{/size}{size=-15}{alpha=.4} Fuck fuck fuuuck!!!{/alpha}{/size}"
-    a ""
+    a "Você está indo muito fundo! Você nem saiu da minha bunda já faz uma hora! Ahhh!!!{size=-5}{alpha=.9} Está ficando um pouco dolorida, mas eu consigo aguentar! Hnn!{/alpha}{/size}{size=-7}{alpha=.8} Só continua gozando! Só continua gozando! Não para!{/alpha}{/size}{size=-9}{alpha=.7} Você vai me  encher tanto! Até a borda!{/alpha}{/size}{size=-11}{alpha=.6} Ahh! Ahhh!!! Hnnn!!!{/alpha}{/size}{size=-13}{alpha=.5} Eu não vou conseguir andar por dias depois disso!{/alpha}{/size}{size=-15}{alpha=.4} Porra porra porraaa!!!{/alpha}{/size}"
 
 # game/scripts/ash_events.rpy:7660
 translate pt_br ashfuckathon_531aedc2:
 
     # a "Yes! Yes! FUCK! AHHH!!!"
-    a ""
+    a "Isso! Isso! PORRA! AHHH!!!"
 
 # game/scripts/ash_events.rpy:7661
 translate pt_br ashfuckathon_cd45d576:
 
     # a "I'm so full! I'm so full!"
-    a ""
+    a "Eu estou tão cheia! Tão cheia!"
 
 # game/scripts/ash_events.rpy:7662
 translate pt_br ashfuckathon_37c5bd00:
 
     # a "Hahh! What are we up to now? 11? 12? Hnn!"
-    a ""
+    a "Hahh! Quantas vezes foram até agora? 11? 12? Hnn!"
 
 # game/scripts/ash_events.rpy:7665
 translate pt_br ashfuckathon_719fdc82:
 
     # a "HNGGG!!!" with ssshake
-    a "" with ssshake
+    a "HNGG!!!" with ssshake
 
 # game/scripts/ash_events.rpy:7666
 translate pt_br ashfuckathon_5cadde4a:
 
     # a "Ahh!!!" with ssshake
-    a "" with ssshake
+    a "Ahh!!!" with ssshake
 
 # game/scripts/ash_events.rpy:7670
 translate pt_br ashfuckathon_66d439a7:
 
     # a "Yess! YESSS! AHHH!!! AGAIN! AGAIN!!!"
-    a ""
+    a "Issoo! ISSO! AHHH!!! DE NOVO! DE NOVO!!!"
 
 # game/scripts/ash_events.rpy:7673
 translate pt_br ashfuckathon_e83930ce:
 
     # a "CUM! AGAIN! AGAIN!!!"
-    a ""
+    a "GOZA! DE NOVO! DE NOVO!!!"
 
 # game/scripts/ash_events.rpy:7676
 translate pt_br ashfuckathon_719fdc82_1:
 
     # a "HNGGG!!!" with ssshake
-    a "" with ssshake
+    a "HNGG!!!!" with ssshake
 
 # game/scripts/ash_events.rpy:7678
 translate pt_br ashfuckathon_db4a94ab:
 
     # "Over and over... Over and over... Over and over... Over and over... Over and over... Over and over..."
-    ""
+    "Sem parar... E sem parar... E sem parar... E sem parar... E sem parar... E sem parar..."
 
 # game/scripts/ash_events.rpy:7680
 translate pt_br ashfuckathon_cb3d9c0d:
 
     # a "Hahhh! Hahhh! Hnnggghhh!"
-    a ""
+    a "Hahhh! Hahhh! Hnnggghhh!"
 
 # game/scripts/ash_events.rpy:7683
 translate pt_br ashfuckathon_06d55b9b:
@@ -25977,715 +25977,715 @@ translate pt_br ashfuckathon_06d55b9b:
 translate pt_br ashfuckathon_f6cd5c21:
 
     # a "Ahhh! Ahhhhhh!!!"
-    a ""
+    a "Ahhh! Ahhhhhh!!!"
 
 # game/scripts/ash_events.rpy:7687
 translate pt_br ashfuckathon_1374ffd7:
 
     # a "Fuckmefuckmefuckmefuckmefuckmefuckme!"
-    a ""
+    a "Mefodemefodemefodemefodemefodemefode!"
 
 # game/scripts/ash_events.rpy:7688
 translate pt_br ashfuckathon_ff31af32:
 
     # a "Again!!! Cum again!!!"
-    a ""
+    a "De novo!!! Goza de novo!!!"
 
 # game/scripts/ash_events.rpy:7690
 translate pt_br ashfuckathon_893b3da3:
 
     # a "Ahhhhhh!!!" with ssshake
-    a "" with ssshake
+    a "Ahhhhhh!!!" with ssshake
 
 # game/scripts/ash_events.rpy:7693
 translate pt_br ashfuckathon_468e8376:
 
     # a "Hnng! Hnng! Hnng!"
-    a ""
+    a "Hnng! Hnng! Hnng!"
 
 # game/scripts/ash_events.rpy:7694
 translate pt_br ashfuckathon_d9097273:
 
     # a "[name]! [name]!!!"
-    a ""
+    a "[name]! [name]!!!"
 
 # game/scripts/ash_events.rpy:7695
 translate pt_br ashfuckathon_e1b1c917:
 
     # a "I think... Ahh! I'm starting to... Ahhhh!!! Regret giving you 2 pills!"
-    a ""
+    a "Eu acho que... Ahh! Eu estou começando a... Ahhhh!!! Me arrepender de ter te dado 2 pílulas!"
 
 # game/scripts/ash_events.rpy:7696
 translate pt_br ashfuckathon_73c95056:
 
     # a "Hhhhhhhh! I can't use my brain anymore! I can only think about being filled up!"
-    a ""
+    a "Hhhhhhhh! Eu não consigo usar meu cérebro mais! Eu só consigo pensar em ser preenchida!"
 
 # game/scripts/ash_events.rpy:7698
 translate pt_br ashfuckathon_5721a145:
 
     # a "Yes! Yes! Fill up your cum dumpster!"
-    a ""
+    a "Isso! Isso! Enche o seu depósito de porra!"
 
 # game/scripts/ash_events.rpy:7701
 translate pt_br ashfuckathon_b375e997:
 
     # a "Ahhh!!! The sun is starting to go down!"
-    a ""
+    a "Ahhh!!! O sol está começando a se pôr!"
 
 # game/scripts/ash_events.rpy:7702
 translate pt_br ashfuckathon_8e612c48:
 
     # a "You can keep going right? Right? Don't stop!"
-    a ""
+    a "Você consegue continuar, né? Né? Não para!"
 
 # game/scripts/ash_events.rpy:7703
 translate pt_br ashfuckathon_c86e2ae1:
 
     # a "Just a couple more hours!"
-    a ""
+    a "Só mais algumas horas!"
 
 # game/scripts/ash_events.rpy:7705
 translate pt_br ashfuckathon_33225a0c:
 
     # a "Hahhh!!!" with ssshake
-    a "" with ssshake
+    a "Hahhh!!!" with ssshake
 
 # game/scripts/ash_events.rpy:7706
 translate pt_br ashfuckathon_62b4e2dd:
 
     # a "NNNNNGGGgggghh!" with ssshake
-    a "" with ssshake
+    a "NNNNNGGGgggghh!" with ssshake
 
 # game/scripts/ash_events.rpy:7707
 translate pt_br ashfuckathon_82255122:
 
     # a "Nggghuhhh!" with ssshake
-    a "" with ssshake
+    a "Nggghuhhh!" with ssshake
 
 # game/scripts/ash_events.rpy:7710
 translate pt_br ashfuckathon_9ca56648:
 
     # a "Yesss...! Yesssss...!"
-    a ""
+    a "Issooo...! Issoooo...!"
 
 # game/scripts/ash_events.rpy:7711
 translate pt_br ashfuckathon_bde89c61:
 
     # a "I'm so full! So full!"
-    a ""
+    a "Eu estou tão cheia! Tão cheia!"
 
 # game/scripts/ash_events.rpy:7712
 translate pt_br ashfuckathon_e5cf17a9:
 
     # a "My pussy is flooding with cum! Ahhh!!!"
-    a ""
+    a "A minha boceta está inundada de gozo! Ahhh!!!"
 
 # game/scripts/ash_events.rpy:7713
 translate pt_br ashfuckathon_6318ead2:
 
     # a "My womb...! So full...!"
-    a ""
+    a "O meu útero...! Tão cheio...!"
 
 # game/scripts/ash_events.rpy:7714
 translate pt_br ashfuckathon_cbe34041:
 
     # a "Huhh... Hahhh... Hnnn..."
-    a ""
+    a "Huhh... Hahhh... Hnnn..."
 
 # game/scripts/ash_events.rpy:7715
 translate pt_br ashfuckathon_ecf18235:
 
     # "*knock knock knock*"
-    ""
+    "*toc toc toc*"
 
 # game/scripts/ash_events.rpy:7716
 translate pt_br ashfuckathon_10f3f4e2:
 
     # l "[linoname]? Are you okay? You haven't left your room all day..."
-    l ""
+    l "[linoname]? Você está bem? Você não saiu do seu quarto o dia todo..."
 
 # game/scripts/ash_events.rpy:7717
 translate pt_br ashfuckathon_eac0f932:
 
     # a "Go away slut!"
-    a ""
+    a "Cai fora, puta!"
 
 # game/scripts/ash_events.rpy:7718
 translate pt_br ashfuckathon_92083735:
 
     # l "Hmph!"
-    l ""
+    l "Hmph!"
 
 # game/scripts/ash_events.rpy:7721
 translate pt_br ashfuckathon_98f6326c:
 
     # a "Ahhhh!!! Hahhh!!!"
-    a ""
+    a "Ahhhh!!! Hahhh!!!"
 
 # game/scripts/ash_events.rpy:7723
 translate pt_br ashfuckathon_3bb8e884:
 
     # a "Hnnn!!!" with ssshake
-    a "" with ssshake
+    a "Hnnn!!!" with ssshake
 
 # game/scripts/ash_events.rpy:7725
 translate pt_br ashfuckathon_6353fd5f:
 
     # a "Twenty one!" with ssshake
-    a "" with ssshake
+    a "Vinte e um!" with ssshake
 
 # game/scripts/ash_events.rpy:7726
 translate pt_br ashfuckathon_ecb19112:
 
     # a "Twenty two!" with ssshake
-    a "" with ssshake
+    a "Vinte e dois!" with ssshake
 
 # game/scripts/ash_events.rpy:7727
 translate pt_br ashfuckathon_137aac71:
 
     # a "Twenty three!" with ssshake
-    a "" with ssshake
+    a "Vinte e três!" with ssshake
 
 # game/scripts/ash_events.rpy:7728
 translate pt_br ashfuckathon_ca1dd122:
 
     # a "Twenty four!" with ssshake
-    a "" with ssshake
+    a "Vinte e quatro!" with ssshake
 
 # game/scripts/ash_events.rpy:7729
 translate pt_br ashfuckathon_4bd34cd7:
 
     # a "Twenty five!" with ssshake
-    a "" with ssshake
+    a "Vinte e cinco!" with ssshake
 
 # game/scripts/ash_events.rpy:7730
 translate pt_br ashfuckathon_4baf38be:
 
     # a "Twenty... Six...." with ssshake
-    a "" with ssshake
+    a "Vinte... Seis...." with ssshake
 
 # game/scripts/ash_events.rpy:7731
 translate pt_br ashfuckathon_b93673a3:
 
     # a "Twenty... Twenty..." with ssshake
-    a "" with ssshake
+    a "Vinte... Vinte..." with ssshake
 
 # game/scripts/ash_events.rpy:7732
 translate pt_br ashfuckathon_419220ab:
 
     # a "Hnnnnn............."
-    a ""
+    a "Hnnnnn............."
 
 # game/scripts/ash_events.rpy:7733
 translate pt_br ashfuckathon_11361ae7:
 
     # "She seems to have passed out..."
-    ""
+    "Ela parece ter desmaiado..."
 
 # game/scripts/ash_events.rpy:7734
 translate pt_br ashfuckathon_a1ad9fa4:
 
     # "Soon after, you feel the effects of those pills wearing down..."
-    ""
+    "Logo depois, você sente os efeitos daquelas pílulas passando..."
 
 # game/scripts/ash_events.rpy:7736
 translate pt_br ashfuckathon_1e9a466c:
 
     # a "Hahhh... Ahhh... Hahhh..."
-    a ""
+    a "Hahhh... Ahhh... Hahhh..."
 
 # game/scripts/ash_events.rpy:7738
 translate pt_br ashfuckathon_95a3ff62:
 
     # a "[name]... So full... Thank you..."
-    a ""
+    a "[name]... Tão cheio... Obrigada..."
 
 # game/scripts/ash_events.rpy:7740
 translate pt_br ashfuckathon_cf74a9f4:
 
     # "It seems that burst of energy you got was only temporary. Once you were finally able to relax, you fell asleep in seconds..."
-    ""
+    "Parece que aquele pico de energia que você teve foi apenas temporário. Assim que você finalmente conseguiu relaxar, você adormeceu em segundos..."
 
 # game/scripts/ash_events.rpy:7742
 translate pt_br ashfuckathon_df09ed42:
 
     # a "Urgh... where am I...?"
-    a ""
+    a "Urgh... onde estou...?"
 
 # game/scripts/ash_events.rpy:7743
 translate pt_br ashfuckathon_6d7a26c8:
 
     # a "Huh...? Why am I naked?"
-    a ""
+    a "Hein...? Por que estou nua?"
 
 # game/scripts/ash_events.rpy:7745
 translate pt_br ashfuckathon_5918458b:
 
     # a "Oh yeah! I gave [name] those pills and we fucked ALL DAY!"
-    a ""
+    a "Ah é! Eu dei aquelas pílulas para [name] e nós transamos o DIA TODO!"
 
 # game/scripts/ash_events.rpy:7747
 translate pt_br ashfuckathon_c11ff647:
 
     # a "Hey [name]! Wake up sleepy head!"
-    a ""
+    a "Ei [name]! Acorda, dorminhoco!"
 
 # game/scripts/ash_events.rpy:7749
 translate pt_br ashfuckathon_2a673d61:
 
     # c "Hnn?"
-    c ""
+    c "Hnn?"
 
 # game/scripts/ash_events.rpy:7751
 translate pt_br ashfuckathon_647c870f:
 
     # c "...Ashley?"
-    c ""
+    c "...Ashley?"
 
 # game/scripts/ash_events.rpy:7752
 translate pt_br ashfuckathon_69ca4ae3:
 
     # a "Good morning~~~"
-    a ""
+    a "Bom dia~~~"
 
 # game/scripts/ash_events.rpy:7753
 translate pt_br ashfuckathon_499819e9:
 
     # c "What happened?"
-    c ""
+    c "O que aconteceu?"
 
 # game/scripts/ash_events.rpy:7755
 translate pt_br ashfuckathon_be1aad8b:
 
     # a "We had a lot of sex."
-    a ""
+    a "Nós fizemos muito sexo."
 
 # game/scripts/ash_events.rpy:7769
 translate pt_br ashmom2_e756b95e:
 
     # a "You're not taking me!!!"
-    a ""
+    a "Você não vai me levar!!!"
 
 # game/scripts/ash_events.rpy:7770
 translate pt_br ashmom2_6e20c395:
 
     # am "You got suspended! What happened to you!? You used to be a good girl! You're falling off the deep end over here!"
-    am ""
+    am "Você foi suspensa! O que aconteceu com você!? Você costumava ser uma boa garota!  Você está perdendo completamente a cabeça!"
 
 # game/scripts/ash_events.rpy:7771
 translate pt_br ashmom2_8eb16b88:
 
     # am "Ashley, are you doing drugs!?"
-    am ""
+    am "Ashley, você está usando drogas!?"
 
 # game/scripts/ash_events.rpy:7772
 translate pt_br ashmom2_68faf4aa:
 
     # a "What!? Go away!"
-    a ""
+    a "O quê!? Vai embora!"
 
 # game/scripts/ash_events.rpy:7774
 translate pt_br ashmom2_012d1e66:
 
     # am "Is this him!? The man that's ruining your life?"
-    am ""
+    am "Esse é ele!? O homem que está arruinando a sua vida?"
 
 # game/scripts/ash_events.rpy:7775
 translate pt_br ashmom2_f929c425:
 
     # a "Oh, hi [name]~"
-    a ""
+    a "Ah, oi [name]~"
 
 # game/scripts/ash_events.rpy:7776
 translate pt_br ashmom2_39e0a295:
 
     # am "I should sue this crack den! This place is disgusting, and it's ruining my daughter!"
-    am ""
+    am "Eu devia processar essa boca de fumo! Esse lugar é nojento, e está arruinando minha filha!"
 
 # game/scripts/ash_events.rpy:7778
 translate pt_br ashmom2_b0a82082:
 
     # a "You're not doing shit Mom!"
-    a ""
+    a "Você não vai fazer porra nenhuma, Mãe!"
 
 # game/scripts/ash_events.rpy:7779
 translate pt_br ashmom2_6791d833:
 
     # am "Watch your language!"
-    am ""
+    am "Olha a boca!"
 
 # game/scripts/ash_events.rpy:7780
 translate pt_br ashmom2_bd771d6b:
 
     # a "Fuck you!"
-    a ""
+    a "Vai se foder!"
 
 # game/scripts/ash_events.rpy:7781
 translate pt_br ashmom2_7438fc02:
 
     # am "ASHLEY!"
-    am ""
+    am "ASHLEY!"
 
 # game/scripts/ash_events.rpy:7783
 translate pt_br ashmom2_08a26136:
 
     # m "Hey guys, what's going on?"
-    m ""
+    m "Eai galera, o que está acontecendo?"
 
 # game/scripts/ash_events.rpy:7784
 translate pt_br ashmom2_1ad96464:
 
     # am "Maria, you live here too?"
-    am ""
+    am "Maria, você mora aqui também?"
 
 # game/scripts/ash_events.rpy:7785
 translate pt_br ashmom2_ad5a11ca:
 
     # m "Oh, hey. Yep. Ashley showed me this place."
-    m ""
+    m "Ah, ei. Sim. A Ashley me mostrou esse lugar."
 
 # game/scripts/ash_events.rpy:7786
 translate pt_br ashmom2_0a3cd8f7:
 
     # am "And do you know what's going on in this whore house!? That man took my daughter's virginity!"
-    am ""
+    am "E você sabe o que está acontecendo nesse puteiro? Esse cara tirou a virginade da minha filha!"
 
 # game/scripts/ash_events.rpy:7787
 translate pt_br ashmom2_b36c6b75:
 
     # m "I know. I was there..."
-    m ""
+    m "Eu sei. Eu estava junto..."
 
 # game/scripts/ash_events.rpy:7788
 translate pt_br ashmom2_71799eeb:
 
     # am "WHAT!?"
-    am ""
+    am "O QUÊ!?"
 
 # game/scripts/ash_events.rpy:7789
 translate pt_br ashmom2_9d560c7f:
 
     # m "Yeah... It was pretty hot. He came inside and everything."
-    m ""
+    m " É... Foi bem excitante. Ele gozou dentro dela e tudo o mais."
 
 # game/scripts/ash_events.rpy:7790
 translate pt_br ashmom2_7aaf28f2:
 
     # am "EXCUSE ME!?"
-    am ""
+    am "COMO É!?"
 
 # game/scripts/ash_events.rpy:7792
 translate pt_br ashmom2_bb660e83:
 
     # am "That's it! You're coming with me right now and you're grounded forever!"
-    am ""
+    am "Já chega! Você vem comigo agora mesmo e vai ficar de castigo para sempre!"
 
 # game/scripts/ash_events.rpy:7793
 translate pt_br ashmom2_d190cb6c:
 
     # a "Hmph!"
-    a ""
+    a "Hmph!"
 
 # game/scripts/ash_events.rpy:7795
 translate pt_br ashmom2_88940779:
 
     # a "[name]! Take out your cock right now! Or I will!"
-    a ""
+    a "[name]! Mostra o seu pau agora mesmo! Ou eu faço!"
 
 # game/scripts/ash_events.rpy:7796
 translate pt_br ashmom2_8ce3a1e0:
 
     # m "Oooh, looks like I came at a good time..."
-    m ""
+    m "Uuuh, acho que cheguei em boa hora..."
 
 # game/scripts/ash_events.rpy:7797
 translate pt_br ashmom2_0d612e21:
 
     # am "ASHLEY! What are you doing!?"
-    am ""
+    am "ASHLEY! O que você está fazendo!?"
 
 # game/scripts/ash_events.rpy:7798
 translate pt_br ashmom2_55d1bc95:
 
     # a "I'm going to suck his cock."
-    a ""
+    a "Eu vou chupar o pau dele."
 
 # game/scripts/ash_events.rpy:7799
 translate pt_br ashmom2_59f9036d:
 
     # am "WHAT!? Don't you dare! That's disgusting!"
-    am ""
+    am "O QUÊ!? Não se atreva! Isso é nojento!"
 
 # game/scripts/ash_events.rpy:7800
 translate pt_br ashmom2_4d995c39:
 
     # a "No it's not! [name] is mine and you can fuck off! I'm going to live with him forever!"
-    a ""
+    a "Não, não é! O [name] é meu e você pode ir se lascar! Eu vou viver com ele para sempre!"
 
 # game/scripts/ash_events.rpy:7801
 translate pt_br ashmom2_e6b54847:
 
     # a "We already have plans to get married and everything!"
-    a ""
+    a "Nós já temos planos de nos casar e tudo o mais!"
 
 # game/scripts/ash_events.rpy:7803
 translate pt_br ashmom2_7438fc02_1:
 
     # am "ASHLEY!"
-    am ""
+    am "ASHLEY!"
 
 # game/scripts/ash_events.rpy:7804
 translate pt_br ashmom2_9bf1edd1:
 
     # a "Shut up Mom! Go home!"
-    a ""
+    a " Cala a boca Mãe! Vai pra casa!"
 
 # game/scripts/ash_events.rpy:7806
 translate pt_br ashmom2_fdb9b501:
 
     # a "Mmm! Mmmgh... Nngg."
-    a ""
+    a "Mmm! Mmmgh... Nngg."
 
 # game/scripts/ash_events.rpy:7807
 translate pt_br ashmom2_bd8a9514:
 
     # am "OH MY GOD!"
-    am ""
+    am "AI MEU DEUS!"
 
 # game/scripts/ash_events.rpy:7808
 translate pt_br ashmom2_ee4c639e:
 
     # m "This is pretty hot."
-    m ""
+    m "Isso é bem excitante."
 
 # game/scripts/ash_events.rpy:7809
 translate pt_br ashmom2_f6b44407:
 
     # a "Lmmph! Nnggh! Nnnnllghk!"
-    a ""
+    a "Lmmph! Nnggh! Nnnnllghk!"
 
 # game/scripts/ash_events.rpy:7810
 translate pt_br ashmom2_2a05e7c7:
 
     # am "URGH! Ashley when your father hears about this...!"
-    am ""
+    am "URGH! Ashley, quando o seu pai ouvir sobre isso...!"
 
 # game/scripts/ash_events.rpy:7811
 translate pt_br ashmom2_73b9e65c:
 
     # m "You know she doesn't care, right?"
-    m ""
+    m "Você sabe que ela não liga, né?"
 
 # game/scripts/ash_events.rpy:7812
 translate pt_br ashmom2_7f09716e:
 
     # am "You are such a terrible influence Maria! I can't believe you're encouraging her!"
-    am ""
+    am "Você é uma influência tão ruim, Maria! Eu não consigo acreditar que você está encorajando ela!"
 
 # game/scripts/ash_events.rpy:7814
 translate pt_br ashmom2_c0d26cf1:
 
     # m "Well can you blame her? It's a good cock..."
-    m ""
+    m "Bem, e você consegue culpá-la? É um belo pau..."
 
 # game/scripts/ash_events.rpy:7817
 translate pt_br ashmom2_5f374afd:
 
     # am "God, Ashley! I can't believe you've turned in to such a slut!"
-    am ""
+    am "Deus, Ashley! Eu não consigo acreditar que você se tornaria tão vadia!"
 
 # game/scripts/ash_events.rpy:7818
 translate pt_br ashmom2_37e8f7e8:
 
     # a "Mmmph! Nnngh! I am hish shlut! A dirty shlut!"
-    a ""
+    a "Mmmph! Nnngh! Eu shou a vadia dhele! Uma vadia shuja!"
 
 # game/scripts/ash_events.rpy:7820
 translate pt_br ashmom2_f5840fcb:
 
     # a "Nngh! And he cumsh inshide me all the time too!"
-    a ""
+    a "Nnngh! E ele gozha dentro dhe mim o tempo todo também!"
 
 # game/scripts/ash_events.rpy:7821
 translate pt_br ashmom2_1b8b6062:
 
     # a "I'm hish little cum dump! Sho you can fuck off Mom!"
-    a ""
+    a "Eu shou o pequeno depósito de porra dele! Então vochê pode cair fora, Mãe!"
 
 # game/scripts/ash_events.rpy:7822
 translate pt_br ashmom2_022a2525:
 
     # a "And he'sh going to fuck me pregnant! Ishn't that right [name]!?"
-    a ""
+    a "E ele vai me engravidhar! Não é meshmo, [name]!?"
 
 # game/scripts/ash_events.rpy:7823
 translate pt_br ashmom2_e0a80411:
 
     # am "I can't believe my only child would turn out like this! Where did I go wrong!?"
-    am ""
+    am "Eu não consigo acreditar que a minha única filha iria mudar tanto! Aonde foi que eu errei!?"
 
 # game/scripts/ash_events.rpy:7824
 translate pt_br ashmom2_2bf79c2f:
 
     # a "Maybe you shouldn't have been shuch a bitch!"
-    a ""
+    a "Talvez você não devesse ter sido tão filha da puta!"
 
 # game/scripts/ash_events.rpy:7825
 translate pt_br ashmom2_1c8fc221:
 
     # am "How dare you call your Mother a bitch!"
-    am ""
+    am "Como você ousa chamar a sua Mãe de filha da puta!"
 
 # game/scripts/ash_events.rpy:7827
 translate pt_br ashmom2_bf7c020b:
 
     # am "This is disgusting! I can't believe you're doing this Ashley! You're such a bad girl!"
-    am ""
+    am "Isso é nojento! Eu não consigo acreditar que você está fazendo isso, Ashley! Você é uma garota tão má!"
 
 # game/scripts/ash_events.rpy:7828
 translate pt_br ashmom2_7c0994b6:
 
     # m "She's pretty good though..."
-    m ""
+    m "Mas ela é bem boa..."
 
 # game/scripts/ash_events.rpy:7829
 translate pt_br ashmom2_c4eb8813:
 
     # m "Hey Ash, don't forget to use your tongue!"
-    m ""
+    m "Ei Ash, não esqueça de usar a sua língua!"
 
 # game/scripts/ash_events.rpy:7830
 translate pt_br ashmom2_6c68c9ef:
 
     # a "Mmhmm!"
-    a ""
+    a "Mmhmm!"
 
 # game/scripts/ash_events.rpy:7832
 translate pt_br ashmom2_19b69b0d:
 
     # a "[name]! [name]! I want you to cum on my face! Do it! DO IT!"
-    a ""
+    a "[name]! [name]! Eu quero que você goze na minha cara! Faz isso! FAZ ISSO!"
 
 # game/scripts/ash_events.rpy:7833
 translate pt_br ashmom2_130318c5:
 
     # am "Oh my GOD! DON'T YOU DARE CUM ON MY LITTLE GIRL!"
-    am ""
+    am "Ai meu DEUS! NÃO OUSE GOZAR NA MINHA GAROTINHA!"
 
 # game/scripts/ash_events.rpy:7834
 translate pt_br ashmom2_e1d355ef:
 
     # m "Ah! I love this place!"
-    m ""
+    m "Ah! Eu amo esse lugar!"
 
 # game/scripts/ash_events.rpy:7835
 translate pt_br ashmom2_a44d35e7:
 
     # a "Do it! Do it! Do it!"
-    a ""
+    a "Faz isso! Faz isso! Faz isso!"
 
 # game/scripts/ash_events.rpy:7837
 translate pt_br ashmom2_1def922e:
 
     # a "Ahh! Hehe~"
-    a ""
+    a "Ahh! Hehe~"
 
 # game/scripts/ash_events.rpy:7839
 translate pt_br ashmom2_efc27b04:
 
     # am "OH MY GOD! You have cum all over your face!"
-    am ""
+    am "AI MEU DEUS! Você tem gozo na sua cara inteira!"
 
 # game/scripts/ash_events.rpy:7840
 translate pt_br ashmom2_6ec9511b:
 
     # m "You look so cute Ash!"
-    m ""
+    m "Você está tão fofa, Ash!"
 
 # game/scripts/ash_events.rpy:7841
 translate pt_br ashmom2_33de1149:
 
     # a "That's right MOM! I do have cum all over my face! I ALWAYS do! EVERY! DAY!"
-    a ""
+    a "É isso mesmo, MÃE! Eu estou com gozo na minha cara toda! Eu SEMPRE estou! TODO! DIA!"
 
 # game/scripts/ash_events.rpy:7842
 translate pt_br ashmom2_24b114e7:
 
     # a "AND WE'RE GOING TO HAVE CHILDREN! A LOT!"
-    a ""
+    a "E NÓS VAMOS TER FILHOS! MUITOS!"
 
 # game/scripts/ash_events.rpy:7843
 translate pt_br ashmom2_1520911c:
 
     # am "OH NO YOU'RE NOT! You will NOT be having anymore contact with that man ever again! In fact, you're NEVER having ANY contact with ANYONE ever again!"
-    am ""
+    am "AH NÃO, VOCê NÃO VAI! Você NÃO vai ter nunca mais nenhum contato com esse homem de novo! Na verdade, você NUNCA mais vai ter nenhum contato com NINGUÉM de novo!"
 
 # game/scripts/ash_events.rpy:7844
 translate pt_br ashmom2_d22c6648:
 
     # am "You know what!? I'm done paying for your phone bill, you can pay for it yourself!"
-    am ""
+    am "E sabe o que mais!? Não vou mais pagar a conta do seu celular, você vai pagar por conta própria!"
 
 # game/scripts/ash_events.rpy:7845
 translate pt_br ashmom2_90ae659d:
 
     # m "Oooh, so much drama."
-    m ""
+    m "Uuuh, tanto drama."
 
 # game/scripts/ash_events.rpy:7846
 translate pt_br ashmom2_ca0aff40:
 
     # a "GOOD! I don't need it! [name] is always here anyway, I don't need a phone!"
-    a ""
+    a "BELEZA! Eu não preciso dele! Afinal, [name] vai estar sempre aqui, eu não preciso de um celular!"
 
 # game/scripts/ash_events.rpy:7847
 translate pt_br ashmom2_1ce6c167:
 
     # a "NOW GO AWAY MOM! STAY AWAY FROM ME! FOREVER!!! YOU WERE ALWAYS A TERRIBLE PARENT ANYWAY!"
-    a ""
+    a "AGORA VAI EMBORA, MÃE! FICA LONGE DE MIM! PARA SEMPRE!!! DE QUALQUER JEITO VOCÊ SEMPRE FOI UMA MÃE TERRÍVEL!"
 
 # game/scripts/ash_events.rpy:7848
 translate pt_br ashmom2_2090b614:
 
     # am "URGH!"
-    am ""
+    am "URGH!"
 
 # game/scripts/ash_events.rpy:7850
 translate pt_br ashmom2_dbb750af:
 
     # a "YEAH! GET OUT OF HERE!"
-    a ""
+    a "ISSO! VAI EMBORA DAQUI!"
 
 # game/scripts/ash_events.rpy:7852
 translate pt_br ashmom2_5dbe06bf:
 
     # a "[name]~ She's finally gone. And now she won't bother us anymore! Isn't that great?"
-    a ""
+    a "[name]~ Ela finalmente foi embora. E ela não vai nos incomodar mais! Isso não é ótimo?"
 
 # game/scripts/ash_events.rpy:7853
 translate pt_br ashmom2_c53cc4a7:
 
     # a "And I don't need her money anymore, right? You'll let me live here for free, right?"
-    a ""
+    a "E eu não preciso mais do dinheiro dela, né? Você vai me deixar viver aqui de graça, né?"
 
 # game/scripts/ash_events.rpy:7854
 translate pt_br ashmom2_f101444a:
 
     # a "Because we're going to get married, and I'll own half your stuff anyway, so it's whatever, right?"
-    a ""
+    a "Porqie nós vamos nos casar, e eu vou ser dona de metade das suas coisas de qualquer jeito, então não importa, né?"
 
 # game/scripts/ash_events.rpy:7855
 translate pt_br ashmom2_4e7f03b9:
 
     # a "I just have to graduate college and then we can start our family, right?"
-    a ""
+    a "Eu só preciso me formar da faculade e então vamos começar a nossa família, né?"
 
 # game/scripts/ash_events.rpy:7856
 translate pt_br ashmom2_5d75ce89:
 
     # m "Hah... You're so damn crazy Ash."
-    m ""
+    m "Hah... você é louca demais, Ash."
 
 # game/scripts/ash_events.rpy:7863
 translate pt_br ashgwork_ff363881:
