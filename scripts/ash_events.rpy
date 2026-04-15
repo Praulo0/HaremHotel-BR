@@ -12723,7 +12723,7 @@ translate pt_br ash_makeup_b7d354f0:
 translate pt_br ash_makeup_8f2f8f27:
 
     # a "*sigh*..."
-    a "*ufa*..."
+    a "*uff*..."
 
 # game/scripts/ash_events.rpy:3457
 translate pt_br ash_makeup_3f702390:
@@ -13095,7 +13095,7 @@ translate pt_br ash_makeup_64927c82_1:
 translate pt_br ash_makeup_c5760ab6:
 
     # em "*sigh*..."
-    em "*ufa*..."
+    em "*uff*..."
 
 # game/scripts/ash_events.rpy:3557
 translate pt_br ash_makeup_57d94901:
@@ -13617,7 +13617,7 @@ translate pt_br ash_fairiesjoin_323edad3:
 translate pt_br ash_fairiesjoin_799e81e9:
 
     # runa "*sigh*, are you thirsty, Cia? Hungry maybe?"
-    runa "*ufa*, você está com sede, Cia? Talvez com fome?"
+    runa "*uff*, você está com sede, Cia? Talvez com fome?"
 
 # game/scripts/ash_events.rpy:3780
 translate pt_br ash_fairiesjoin_920d8b98:
@@ -14733,7 +14733,7 @@ translate pt_br greenf_21635054:
 translate pt_br greenf_89f0f738:
 
     # gfair "*sigh*... Crystals, not magic.... and if I really must go into a history lesson of our species to keep you all quiet, then I will. I'm a history buff anyway, so I don't mind too much."
-    gfair "*ufa*... Cristais, não magia.... e se eu realmente precisar entrar em uma lição de história da nossa espécie para manter todos vocês quietos, então eu vou. Eu sou um entusiasta de história de qualquer forma, então eu não me importo muito."
+    gfair "*uff*... Cristais, não magia.... e se eu realmente precisar entrar em uma lição de história da nossa espécie para manter todos vocês quietos, então eu vou. Eu sou um entusiasta de história de qualquer forma, então eu não me importo muito."
 
 # game/scripts/ash_events.rpy:4108
 translate pt_br greenf_12fd9b4c:
@@ -16839,7 +16839,7 @@ translate pt_br ashfairjob_d9ab6bd5:
 translate pt_br ashfairjob_0e0434be:
 
     # a "*sigh*... I'll probably have to take care of all your other kids too. You don't plan to have twelve children with everyone, right?"
-    a "*ufa*... Eu provavelmente vou ter que cuidar de todos os seus outros filhos também. Você não planeja ter doze filhos com todo mundo, vai?"
+    a "*uff*... Eu provavelmente vou ter que cuidar de todos os seus outros filhos também. Você não planeja ter doze filhos com todo mundo, vai?"
 
 # game/scripts/ash_events.rpy:4714
 translate pt_br ashfairjob_32fb53c2:
@@ -19239,7 +19239,7 @@ translate pt_br ashred_cc646cd1:
 translate pt_br ashred_b1fb0059:
 
     # ae "*sigh*..."
-    ae "*ufa*"
+    ae "*uff*"
 
 # game/scripts/ash_events.rpy:5390
 translate pt_br ashred_94ef0383:
@@ -19695,7 +19695,7 @@ translate pt_br ashred_aae0f58a:
 translate pt_br ashred_b1fb0059_1:
 
     # ae "*sigh*..."
-    ae "*ufa*..."
+    ae "*uff*..."
 
 # game/scripts/ash_events.rpy:5495
 translate pt_br ashred_4c5accb2:
@@ -22293,7 +22293,7 @@ translate pt_br apindonebun_c326bc59:
 translate pt_br ashbacksch_8f2f8f27:
 
     # a "*sigh*..."
-    a "*ufa*..."
+    a "*uff*..."
 
 # game/scripts/ash_events.rpy:6285
 translate pt_br ashbacksch_8e64fdc4:
@@ -22581,7 +22581,7 @@ translate pt_br ashbacksch_3b58e197:
 translate pt_br ashbacksch_a442c5ce:
 
     # a "*sigh* Okay..."
-    a "*ufa* Tudo bem..."
+    a "*uff* Tudo bem..."
 
 # game/scripts/ash_events.rpy:6366
 translate pt_br ashbacksch_47b6624a:
@@ -23343,7 +23343,7 @@ translate pt_br ashsorry_bb8e4b4e_4:
 translate pt_br ashsorry_89e4161f:
 
     # a "...*sigh*..."
-    a "...*ufa*..."
+    a "...*uff*..."
 
 # game/scripts/ash_events.rpy:6555
 translate pt_br ashsorry_4dec1446:
@@ -23757,7 +23757,7 @@ translate pt_br ashsorry_bb8e4b4e_8:
 translate pt_br ashsorry_8f2f8f27:
 
     # a "*sigh*..."
-    a "*ufa*..."
+    a "*uff*..."
 
 # game/scripts/ash_events.rpy:6644
 translate pt_br ashsorry_b2b821d1_1:
@@ -23811,7 +23811,7 @@ translate pt_br ashsorry_399db8e5:
 translate pt_br ashsorry_89e4161f_1:
 
     # a "...*sigh*..."
-    a "...*ufa*..."
+    a "...*uff*..."
 
 # game/scripts/ash_events.rpy:6659
 translate pt_br ashsorry_bb8e4b4e_11:
@@ -24435,7 +24435,7 @@ translate pt_br ashstress_fccdf4cd:
 translate pt_br ashstress_b225f166:
 
     # a "*sigh*... It's just... I've been really stressed lately. People, school work, life... it's all been so tough."
-    a "*ufa*... É só que... Eu tenho estado muito estressada ultimamente. Pessoas, trabalhos da escola, a vida... tem sido tudo tão difícil."
+    a "*uff*... É só que... Eu tenho estado muito estressada ultimamente. Pessoas, trabalhos da escola, a vida... tem sido tudo tão difícil."
 
 # game/scripts/ash_events.rpy:7061
 translate pt_br ashstress_90a3f343:
@@ -24483,7 +24483,7 @@ translate pt_br ashstress_4ea987b9:
 translate pt_br ashstress_d09ee190:
 
     # a "*sigh*... I wasn't talking about school work. I can handle that..."
-    a "*ufa*... Eu não estava falando sobre trabalhos da escola. Eu posso lidar com isso..."
+    a "*uff*... Eu não estava falando sobre trabalhos da escola. Eu posso lidar com isso..."
 
 # game/scripts/ash_events.rpy:7071
 translate pt_br ashstress_fee0e3cf:
@@ -24603,7 +24603,7 @@ translate pt_br ashstress_008e4f2d:
 translate pt_br ashstress_4a9b8198:
 
     # a "It's bringing back memories already... *sigh*..."
-    a "E já está trazendo de volta memórias... *ufa*..."
+    a "E já está trazendo de volta memórias... *uff*..."
 
 # game/scripts/ash_events.rpy:7098
 translate pt_br ashstress_3c59181f:
@@ -24783,7 +24783,7 @@ translate pt_br ashstress_7054b5cd:
 translate pt_br ashstress_83eabbca:
 
     # a "I'm just... *sigh*... I'm just a waste..."
-    a "Eu sou apenas... *ufa*... Eu sou apenas um desperdício..."
+    a "Eu sou apenas... *uff*... Eu sou apenas um desperdício..."
 
 # game/scripts/ash_events.rpy:7134
 translate pt_br ashstress_983cf4cb:
@@ -24843,7 +24843,7 @@ translate pt_br ashstress_ed1e847f:
 translate pt_br ashstress_e4dc15a7:
 
     # a "*sigh*... I don't want to end up like my mother... I want to be better than her. Better than both of them..."
-    a "*ufa*... Eu não quero acabar como minha mãe... Eu quero ser melhor do que ela. Melhor do que os dois..."
+    a "*uff*... Eu não quero acabar como minha mãe... Eu quero ser melhor do que ela. Melhor do que os dois..."
 
 # game/scripts/ash_events.rpy:7145
 translate pt_br ashstress_76177782:
@@ -25755,13 +25755,13 @@ translate pt_br ashfuckathon_e54e0bbd:
 translate pt_br ashfuckathon_d666c898:
 
     # a "Yes! Cum inside my pussy! Fill me up!" with ssshake
-    a "" with ssshake
+    a "Isso! Goza dentro da minha boceta! Me preencha!" with ssshake
 
 # game/scripts/ash_events.rpy:7623
 translate pt_br ashfuckathon_35105d84:
 
     # a "Hnnnn!" with ssshake
-    a "" with ssshake
+    a "Hnnnn!" with ssshake
 
 # game/scripts/ash_events.rpy:7625
 translate pt_br ashfuckathon_8a58ecd0:
@@ -25971,7 +25971,7 @@ translate pt_br ashfuckathon_cb3d9c0d:
 translate pt_br ashfuckathon_06d55b9b:
 
     # a "Hnnggh!" with ssshake
-    a "" with ssshake
+    a "Hnnggh!" with ssshake
 
 # game/scripts/ash_events.rpy:7686
 translate pt_br ashfuckathon_f6cd5c21:
@@ -26685,643 +26685,643 @@ translate pt_br ashmom2_4e7f03b9:
 translate pt_br ashmom2_5d75ce89:
 
     # m "Hah... You're so damn crazy Ash."
-    m "Hah... você é louca demais, Ash."
+    m "Hah... você é doida demais, Ash."
 
 # game/scripts/ash_events.rpy:7863
 translate pt_br ashgwork_ff363881:
 
     # a "Ugggh... what language is this in? Am I reading common or elvish!? I fucking hate calculus!"
-    a ""
+    a "Ugggh... Que língua é essa? Eu estou lendo comum ou é élfico!? Eu odeio cálculo!"
 
 # game/scripts/ash_events.rpy:7864
 translate pt_br ashgwork_34103660:
 
     # a "Ellen, help me!"
-    a ""
+    a "Ellen, me ajuda!"
 
 # game/scripts/ash_events.rpy:7865
 translate pt_br ashgwork_baf639c2:
 
     # e "Sorry Ashley, I'm busy."
-    e ""
+    e "Desculpa Ashley, eu estou ocupada."
 
 # game/scripts/ash_events.rpy:7866
 translate pt_br ashgwork_876112b9:
 
     # a "If I fail it's all your fault!"
-    a ""
+    a "Se eu falhar, é tudo sua culpa!"
 
 # game/scripts/ash_events.rpy:7867
 translate pt_br ashgwork_68311f47:
 
     # e "If that's what helps you sleep at night."
-    e ""
+    e "Se é isso que te ajuda a dormir à noite."
 
 # game/scripts/ash_events.rpy:7869
 translate pt_br ashgwork_96f439d1:
 
     # l "Here's your water, Ashley..."
-    l ""
+    l "Aqui está a sua água, Ashley..."
 
 # game/scripts/ash_events.rpy:7870
 translate pt_br ashgwork_c7314d3a:
 
     # a "Put it on the table! I'm busy!"
-    a ""
+    a "Coloca na mesa! Eu estou ocupada!"
 
 # game/scripts/ash_events.rpy:7871
 translate pt_br ashgwork_3f0652fa:
 
     # l "O-Okay...!"
-    l ""
+    l "T-Tudo bem...!"
 
 # game/scripts/ash_events.rpy:7873
 translate pt_br ashgwork_8765594f:
 
     # a "Rrrrgh...! What does- fuck! I've never even seen that symbol before!"
-    a ""
+    a "Rrrrgh...! O que é isso- droga! Eu nunca vi esse símbolo antes!"
 
 # game/scripts/ash_events.rpy:7874
 translate pt_br ashgwork_5eef1868:
 
     # a "How am I supposed to finish college like this!? This is a scam!"
-    a ""
+    a "Como eu vou terminar a faculdade assim!? Isso é um golpe!"
 
 # game/scripts/ash_events.rpy:7876
 translate pt_br ashgwork_028f12f1:
 
     # l "Um... maybe I can help?"
-    l ""
+    l "Hum... talvez eu possa ajudar?"
 
 # game/scripts/ash_events.rpy:7877
 translate pt_br ashgwork_848cdad5:
 
     # a "No..."
-    a ""
+    a "Não..."
 
 # game/scripts/ash_events.rpy:7878
 translate pt_br ashgwork_a0a94323:
 
     # l "Could I look at least?"
-    l ""
+    l "Eu posso pelo menos dar uma olhada?"
 
 # game/scripts/ash_events.rpy:7879
 translate pt_br ashgwork_848cdad5_1:
 
     # a "No..."
-    a ""
+    a "Não..."
 
 # game/scripts/ash_events.rpy:7880
 translate pt_br ashgwork_4a81d532:
 
     # l "Well, I might know the answer if I-"
-    l ""
+    l "Bem, eu talvez saiba a resposta se eu-"
 
 # game/scripts/ash_events.rpy:7882
 translate pt_br ashgwork_b45223a3:
 
     # a "NO! What would an elf know about math anyway!? You didn't even go to school!" with ssshake
-    a "" with ssshake
+    a "NÃO! O que um elfo saberia sobre matemática de qualquer forma!? Você nem sequer foi para a escola!" with ssshake
 
 # game/scripts/ash_events.rpy:7883
 translate pt_br ashgwork_1451d042:
 
     # l "*sigh*, forget it..."
-    l ""
+    l "*uff*, esquece..."
 
 # game/scripts/ash_events.rpy:7885
 translate pt_br ashgwork_454ca659:
 
     # a "Rrrg... stupid numbers... stupid letters... PICK ONE AND STOP CONFUSING ME!"
-    a ""
+    a "Rrrg... números estúpidos... letras estúpidas... ESCOLHE UM E PARA DE ME CONFUNDIR!"
 
 # game/scripts/ash_events.rpy:7886
 translate pt_br ashgwork_56e34c52:
 
     # e "Ashley, getting angry isn't going to help."
-    e ""
+    e "Ashley, ficar com raiva não vai ajudar."
 
 # game/scripts/ash_events.rpy:7887
 translate pt_br ashgwork_b77a1e4c:
 
     # a "Rrrg... fine, I'll shut up..."
-    a ""
+    a "Rrrg... tá, eu vou ficar quieta..."
 
 # game/scripts/ash_events.rpy:7889
 translate pt_br ashgwork_f82c2e6b:
 
     # m "Bye Ash! Bye Ellen! I'm gonna hang out with some old friends."
-    m ""
+    m "Tchau Ash! Tchau Ellen! Vou sair com alguns amigos antigos."
 
 # game/scripts/ash_events.rpy:7890
 translate pt_br ashgwork_c2bd5b6c:
 
     # a "Oooh! Wait, wait!"
-    a ""
+    a "Aaah! Espera, espera!"
 
 # game/scripts/ash_events.rpy:7892
 translate pt_br ashgwork_a1c8b69b:
 
     # m "Hm? What's up?"
-    m ""
+    m "Hm? O que foi?"
 
 # game/scripts/ash_events.rpy:7893
 translate pt_br ashgwork_b24535a4:
 
     # a "I need heeeeelp..."
-    a ""
+    a "Eu preciso de ajuuuda..."
 
 # game/scripts/ash_events.rpy:7894
 translate pt_br ashgwork_c447f191:
 
     # m "I'm kinda in a rush, Ash..."
-    m ""
+    m "Eu estou com um pouco de pressa, Ash..."
 
 # game/scripts/ash_events.rpy:7895
 translate pt_br ashgwork_1da993e8:
 
     # a "Please? Please?"
-    a ""
+    a "Por favor? Por favor?"
 
 # game/scripts/ash_events.rpy:7896
 translate pt_br ashgwork_e4a2963f:
 
     # m "What do you even need help with?"
-    m ""
+    m "Com o que você precisa de ajuda?"
 
 # game/scripts/ash_events.rpy:7897
 translate pt_br ashgwork_20e0927a:
 
     # a "Calculus!"
-    a ""
+    a "Cálculo!"
 
 # game/scripts/ash_events.rpy:7898
 translate pt_br ashgwork_01607a94:
 
     # m "Okay, well then I definitely don't have time for that..."
-    m ""
+    m "Beleza, então definitivamente eu não tenho tempo para isso..."
 
 # game/scripts/ash_events.rpy:7899
 translate pt_br ashgwork_939d2e83:
 
     # a "Pleeeeeeease...?"
-    a ""
+    a "Por favooooooor...?"
 
 # game/scripts/ash_events.rpy:7900
 translate pt_br ashgwork_ef6beda4:
 
     # m "Are you giving me puppy-dog eyes?"
-    m ""
+    m "Você está me dando aqueles olhos de cachorrinho?"
 
 # game/scripts/ash_events.rpy:7902
 translate pt_br ashgwork_c20576a6:
 
     # a "You're the smartest person I know... you've even completed your two years already!"
-    a ""
+    a "Você é a pessoa mais inteligente que eu conheço... e você até já terminou os seus dois anos!"
 
 # game/scripts/ash_events.rpy:7903
 translate pt_br ashgwork_35b80e9e:
 
     # m "I'm sorry, Ash! I can't! I'm already late..."
-    m ""
+    m "Desculpa, Ash! Eu não posso! Já estou atrasada..."
 
 # game/scripts/ash_events.rpy:7905
 translate pt_br ashgwork_2b986e48:
 
     # a "*sigh*... I'm fucked."
-    a ""
+    a "*uff**... Tô fodida."
 
 # game/scripts/ash_events.rpy:7906
 translate pt_br ashgwork_f373b9b4:
 
     # m "Wish you luck though, byeee~"
-    m ""
+    m "Mas te desejo sorte, tchaaau~"
 
 # game/scripts/ash_events.rpy:7907
 translate pt_br ashgwork_b056f506:
 
     # a "Bye..."
-    a ""
+    a "Tchaaau..."
 
 # game/scripts/ash_events.rpy:7909
 translate pt_br ashgwork_3e919c07:
 
     # a "Why do I even try, I'm never going to get a good job anyway... I might as well start flipping burgers at Juicy Burger like a slave..."
-    a ""
+    a "Por que eu sequer tento, eu nunca vou conseguir um bom trabalho de qualquer forma... Eu poderia simplesmente começar a virar hambúrgueres no Juicy Burger como uma escrava..."
 
 # game/scripts/ash_events.rpy:7910
 translate pt_br ashgwork_d38e65b9:
 
     # e "It will all make sense with enough practice, you just need to apply yourself."
-    e ""
+    e "Tudo vai fazer sentido com bastante prática, você só precisa se esforçar."
 
 # game/scripts/ash_events.rpy:7911
 translate pt_br ashgwork_40c50bdd:
 
     # a "Bullshit..."
-    a ""
+    a "Besteira..."
 
 # game/scripts/ash_events.rpy:7913
 translate pt_br ashgwork_2ec38837:
 
     # c "Hey, what's up?"
-    c ""
+    c "Ei, o que tá rolando?"
 
 # game/scripts/ash_events.rpy:7914
 translate pt_br ashgwork_e8a1724b:
 
     # a "*sigh*, hey [name]... nothing. Everything is fine..."
-    a ""
+    a "*uff*, ei [name]... não é nada. Está tudo bem..."
 
 # game/scripts/ash_events.rpy:7915
 translate pt_br ashgwork_92f3e723:
 
     # e "She's been having some trouble with calculus."
-    e ""
+    e "Ela tem tido alguns problemas com cálculo."
 
 # game/scripts/ash_events.rpy:7917
 translate pt_br ashgwork_b7afef02:
 
     # a "NOBODY ASKED YOU!"
-    a ""
+    a "NINGUÉM TE PERGUNTOU!"
 
 # game/scripts/ash_events.rpy:7918
 translate pt_br ashgwork_54a174bd:
 
     # c "Ashley..."
-    c ""
+    c "Ashley..."
 
 # game/scripts/ash_events.rpy:7920
 translate pt_br ashgwork_ad849a1c:
 
     # a "I'm just stressed! Sorry... I don't understand any of this!"
-    a ""
+    a "Eu só estou estressada! Desculpa... Eu não entendo nada disso!"
 
 # game/scripts/ash_events.rpy:7921
 translate pt_br ashgwork_9f69b592:
 
     # c "Is there anyone from your class that can help you?"
-    c ""
+    c "Não tem ninguém da sua turma que possa te ajudar?"
 
 # game/scripts/ash_events.rpy:7922
 translate pt_br ashgwork_cf97c051:
 
     # a "What gave you the idea I have friends? Everyone at school is just jealous..."
-    a ""
+    a "Que ideia te deu de que eu tenho amigos? Todo mundo na escola é só invejoso..."
 
 # game/scripts/ash_events.rpy:7923
 translate pt_br ashgwork_396fdc0c:
 
     # c "{i}Everyone?{/i}"
-    c ""
+    c "{i}Todo mundo?{/i}"
 
 # game/scripts/ash_events.rpy:7925
 translate pt_br ashgwork_4542a120:
 
     # a "Well... I guess there is Kate... She's probably the one that hates me the least, and she's pretty smart too..."
-    a ""
+    a "Bem... Eu acho que tem a Kate... Ela provavelmente é a que menos me odeia, e ela é bem inteligente também..."
 
 # game/scripts/ash_events.rpy:7927
 translate pt_br ashgwork_c621ada5:
 
     # a "Egh, alright... I guess I'll give her a call. It's either that or I fail..."
-    a ""
+    a "Egh, tá... Acho que vou ligar pra ela. É isso ou eu falho..."
 
 # game/scripts/ash_events.rpy:7928
 translate pt_br ashgwork_96397abe:
 
     # c "I'll be over here if you need me."
-    c ""
+    c "Eu vou estar aqui se você precisar de mim."
 
 # game/scripts/ash_events.rpy:7929
 translate pt_br ashgwork_fa79459b:
 
     # a "Okay... thanks..."
-    a ""
+    a "Tá bom... obrigada..."
 
 # game/scripts/ash_events.rpy:7931
 translate pt_br ashgwork_1a17cde2:
 
     # "...{w}\n...{w}\n*knock knock knock*"
-    ""
+    "...{w}\n...{w}\*toc toc toc*"
 
 # game/scripts/ash_events.rpy:7933
 translate pt_br ashgwork_75b00aca:
 
     # got "Hi..."
-    got ""
+    got "Oi..."
 
 # game/scripts/ash_events.rpy:7934
 translate pt_br ashgwork_d6d0d67c:
 
     # a "Hi Kate, you brought June?"
-    a ""
+    a "Oi Kate, você trouxe June?"
 
 # game/scripts/ash_events.rpy:7935
 translate pt_br ashgwork_288cdb2c:
 
     # got "Uh-"
-    got ""
+    got "Uh-"
 
 # game/scripts/ash_events.rpy:7936
 translate pt_br ashgwork_5ab86cba:
 
     # kate "-Ashley... you live in a hotel."
-    kate ""
+    kate "-Ashley... você mora em um hotel."
 
 # game/scripts/ash_events.rpy:7937
 translate pt_br ashgwork_a6c8378b:
 
     # a "Yeah, so..."
-    a ""
+    a "É, e daí..."
 
 # game/scripts/ash_events.rpy:7938
 translate pt_br ashgwork_78126272:
 
     # kate "I hate hotels. They're gross."
-    kate ""
+    kate "Eu odeio hotéis. Eles são nojentos."
 
 # game/scripts/ash_events.rpy:7940
 translate pt_br ashgwork_9f3d4245:
 
     # kate "Why haven't you invited us to your place before? This whole time I thought you were living in some trailer park."
-    kate ""
+    kate "Por que você não nos convidou para sua casa antes? O tempo todo eu pensei que você morava em um trailer park."
 
 # game/scripts/ash_events.rpy:7941
 translate pt_br ashgwork_73281935:
 
     # a "Don't be stupid, my parents run this place."
-    a ""
+    a "Não seja estúpida, meus pais administram este lugar."
 
 # game/scripts/ash_events.rpy:7942
 translate pt_br ashgwork_94cdf8d4:
 
     # kate "Really? I had no idea. Are they here?"
-    kate ""
+    kate "É sério? Eu não fazia ideia. Eles estão aqui?"
 
 # game/scripts/ash_events.rpy:7943
 translate pt_br ashgwork_2a49e9e7:
 
     # a "They're busy. Can we just get to work?"
-    a ""
+    a "Eles estão ocupados. Podemos simplesmente começar a trabalhar?"
 
 # game/scripts/ash_events.rpy:7944
 translate pt_br ashgwork_1688371d:
 
     # kate "Oh right, the calculus. Sure, it shouldn't take too long. Shall we get started?"
-    kate ""
+    kate "Ah certo, o cálculo. Claro, não deve demorar muito. Vamos começar?"
 
 # game/scripts/ash_events.rpy:7945
 translate pt_br ashgwork_c0b9dff1:
 
     # a "Yeah, follow me..."
-    a ""
+    a "Sim, vem comigo..."
 
 # game/scripts/ash_events.rpy:7951
 translate pt_br ashgwork_068cf0c0:
 
     # a "AGH! I JUST WANT TO QUIT!" with ssshake
-    a "" with ssshake
+    a "AGH! EU QUERO SÓ SAIR!   " with ssshake
 
 # game/scripts/ash_events.rpy:7952
 translate pt_br ashgwork_463e43be:
 
     # kate "It's only been five minutes..."
-    kate ""
+    kate "Só se passaram cinco minutos..."
 
 # game/scripts/ash_events.rpy:7953
 translate pt_br ashgwork_9439238e:
 
     # a "I'm not stupid, okay!? I'm not! I'm just not ready for this!"
-    a ""
+    a "Eu não sou estúpida, tá!? Eu não sou! Eu só não estou pronta para isso!"
 
 # game/scripts/ash_events.rpy:7954
 translate pt_br ashgwork_635c72b3:
 
     # kate "Ashley, we all have our shortcomings. Each of us needs help in some area, yours just happens to be calculus. I would consider that lucky, if I were you."
-    kate ""
+    kate "Ashley, todos nós temos nossas limitações. Cada um de nós precisa de ajuda em alguma área, a sua acontece de ser cálculo. Eu consideraria isso sorte, se eu fosse você."
 
 # game/scripts/ash_events.rpy:7955
 translate pt_br ashgwork_f63c56b7:
 
     # a "Lucky...!?"
-    a ""
+    a "Sorte...!?"
 
 # game/scripts/ash_events.rpy:7957
 translate pt_br ashgwork_0b16840e:
 
     # a "How am I lucky? I finally met the man of my dreams but I'm a complete failure! He's gonna dump me if I flunk!"
-    a ""
+    a "Como eu sou sortuda? Eu finalmente conheci o homem dos meus sonhos, mas eu sou um completo fracasso! Ele vai me largar se eu reprovar!"
 
 # game/scripts/ash_events.rpy:7958
 translate pt_br ashgwork_9a505920:
 
     # got "Would he really do that?"
-    got ""
+    got "Ele realmente faria isso?"
 
 # game/scripts/ash_events.rpy:7959
 translate pt_br ashgwork_43b7129e:
 
     # kate "That doesn't sound like a healthy relationship."
-    kate ""
+    kate "Isso não parece um relacionamento saudável."
 
 # game/scripts/ash_events.rpy:7960
 translate pt_br ashgwork_c9f67b25:
 
     # a "He's perfect, I'm the issue..."
-    a ""
+    a "Ele é perfeito, eu sou o problema..."
 
 # game/scripts/ash_events.rpy:7962
 translate pt_br ashgwork_2b2e7107:
 
     # kate "Hmm..."
-    kate ""
+    kate "Hmm..."
 
 # game/scripts/ash_events.rpy:7963
 translate pt_br ashgwork_d5894561:
 
     # got "Hmm."
-    got ""
+    got "Hmm."
 
 # game/scripts/ash_events.rpy:7964
 translate pt_br ashgwork_f1a60fcf:
 
     # a "Hey! What is it?"
-    a ""
+    a "Ei! O que foi?"
 
 # game/scripts/ash_events.rpy:7966
 translate pt_br ashgwork_b735d61f:
 
     # kate "Is something else going on?"
-    kate ""
+    kate "Há algo mais acontecendo?"
 
 # game/scripts/ash_events.rpy:7967
 translate pt_br ashgwork_1b5519bf:
 
     # got "You seem distracted... are you depressed? Or pregnant maybe?"
-    got ""
+    got "Você parece distraída... você está deprimida? Ou talvez grávida?"
 
 # game/scripts/ash_events.rpy:7968
 translate pt_br ashgwork_29e205f0:
 
     # kate "Perhaps your boyfriend is abusing you emotionally or phy-"
-    kate ""
+    kate "Talvez seu namorado esteja abusando de você emocionalmente ou fisicamente-"
 
 # game/scripts/ash_events.rpy:7969
 translate pt_br ashgwork_8427a5b3:
 
     # a "-What!? I'm just having some trouble with calculus, don't read into it!"
-    a ""
+    a "-Que!? Eu só estou tendo um pouco de dificuldade com cálculo, não leia mais do que isso!"
 
 # game/scripts/ash_events.rpy:7970
 translate pt_br ashgwork_119c1c90:
 
     # kate "I'm very observant, Ashley. Nothing gets past me. I know you aren't the smartest person in our class, but I know you're capable of at least this."
-    kate ""
+    kate "Eu sou muito observadora, Ashley. Nada passa despercebido por mim. Eu sei que você não é a pessoa mais inteligente da nossa turma, mas eu sei que você é capaz de pelo menos isso."
 
 # game/scripts/ash_events.rpy:7971
 translate pt_br ashgwork_56c6373a:
 
     # got "You can talk to us if you'd like..."
-    got ""
+    got "Você pode falar com a gente se quiser..."
 
 # game/scripts/ash_events.rpy:7972
 translate pt_br ashgwork_5bdc9368:
 
     # a "What? But- egh..."
-    a ""
+    a "O quê? Mas- egh..."
 
 # game/scripts/ash_events.rpy:7974
 translate pt_br ashgwork_94ea52b8:
 
     # a "I guess it's just me, I'm worried about getting dumped..."
-    a ""
+    a "Acho que sou só eu, estou preocupada em ser largada..."
 
 # game/scripts/ash_events.rpy:7975
 translate pt_br ashgwork_ef2d1287:
 
     # a "My ass isn't fat and my tits won't bounce... apparently I can barely solve a math problem too..."
-    a ""
+    a "Meu rabo não é gordo e meus seios não vão saltar... aparentemente eu só consigo resolver um problema de matemática..."
 
 # game/scripts/ash_events.rpy:7976
 translate pt_br ashgwork_3042ccf9:
 
     # kate "Don't be so hard on yourself, stress is only going to compound the issue."
-    kate ""
+    kate "Não seja tão dura consigo mesma, o estresse só vai agravar a situação."
 
 # game/scripts/ash_events.rpy:7978
 translate pt_br ashgwork_63b35a69:
 
     # got "I would listen to her on this..."
-    got ""
+    got "Eu ouviria ela nisso..."
 
 # game/scripts/ash_events.rpy:7979
 translate pt_br ashgwork_a1b020ac:
 
     # kate "Is there anything else going on in your life that could be making it harder for you to focus?"
-    kate ""
+    kate "Tem algo mais acontecendo na sua vida que possa estar tornando mais difícil para você se concentrar?"
 
 # game/scripts/ash_events.rpy:7981
 translate pt_br ashgwork_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "..."
 
 # game/scripts/ash_events.rpy:7983
 translate pt_br ashgwork_54ebeb27:
 
     # a "I'm doing just fine."
-    a ""
+    a "Eu estou indo muito bem."
 
 # game/scripts/ash_events.rpy:7984
 translate pt_br ashgwork_b08bc278:
 
     # kate "20 minutes in a sauna might help you then. Even hot showers can help with stress."
-    kate ""
+    kate "Uns 20 minutos em uma sauna podem te ajudar então. Até mesmo um banho quente pode ajudar com o estresse."
 
 # game/scripts/ash_events.rpy:7985
 translate pt_br ashgwork_e1d9d102:
 
     # a "I'm not looking for advice, but thanks..."
-    a ""
+    a "Eu não estou procurando conselhos, mas obrigada..."
 
 # game/scripts/ash_events.rpy:7986
 translate pt_br ashgwork_76d30b9e:
 
     # got "I thought that's why we were here?"
-    got ""
+    got "Eu pensei que era por isso que estávamos aqui?"
 
 # game/scripts/ash_events.rpy:7988
 translate pt_br ashgwork_4652d9be:
 
     # a "*sigh*... it's alright guys, I'll just fail. I was just thinking of quitting anyway..."
-    a ""
+    a "*uff*... tudo bem, eu vou apenas falhar. Eu estava pensando em desistir de qualquer forma..."
 
 # game/scripts/ash_events.rpy:7990
 translate pt_br ashgwork_999d13e5:
 
     # got "What!?"
-    got ""
+    got "Que!?"
 
 # game/scripts/ash_events.rpy:7991
 translate pt_br ashgwork_e2a9aa04:
 
     # kate "Over something so trivial? That would be such a waste of time. We only get access to two free years of college once, Ashley. Then it's gone."
-    kate ""
+    kate "Com algo tão trivial? Isso seria um grande desperdício de tempo. Nós só temos acesso a dois anos gratuitos de faculdade uma vez, Ashley. Depois disso, acabou."
 
 # game/scripts/ash_events.rpy:7992
 translate pt_br ashgwork_43c44ad9:
 
     # a "Well it's being wasted on me... no one at school likes me anyway."
-    a ""
+    a "Bem, está sendo desperdiçado comigo... ninguém na escola gosta de mim de qualquer forma."
 
 # game/scripts/ash_events.rpy:7994
 translate pt_br ashgwork_324d4ddc:
 
     # kate "It's hard to like someone you don't know. Just last week I was told your mother cleaned houses, now I'm hearing both of your parents are hotel owners."
-    kate ""
+    kate "É difícil gostar de alguém que você não conhece. Na semana passada me disseram que sua mãe limpava casas, agora estou ouvindo que ambos os seus pais são donos de hotel."
 
 # game/scripts/ash_events.rpy:7995
 translate pt_br ashgwork_32e9f9f9:
 
     # a "Who said that!?"
-    a ""
+    a "Quem disse isso!?"
 
 # game/scripts/ash_events.rpy:7996
 translate pt_br ashgwork_cb4b59c3:
 
     # got "Felicity told us."
-    got ""
+    got "Foi a Felicity que nos contou."
 
 # game/scripts/ash_events.rpy:7997
 translate pt_br ashgwork_c23af279:
 
     # a "That bitch!"
-    a ""
+    a "Aquela vadia!"
 
 # game/scripts/ash_events.rpy:7998
 translate pt_br ashgwork_6db2509b:
 
     # kate "Well, neither of you are known for your honesty."
-    kate ""
+    kate "Bem, nenhuma de vocês duas são conhecidas por sua honestidade."
 
 # game/scripts/ash_events.rpy:7999
 translate pt_br ashgwork_a81ce046:
 
     # a "What? Hey!"
-    a ""
+    a "O que? Ei!"
 
 # game/scripts/ash_events.rpy:8001
 translate pt_br ashgwork_7f0b009a:
 
     # got "Um, I think what Kate is trying to say is that we don't really care one way or the other, we just don't really know you."
-    got ""
+    got "Hum, acho que o que Kate está tentando dizer é que não nos importamos muito com isso, simplesmente não nos conhecemos tão bem."
 
 # game/scripts/ash_events.rpy:8002
 translate pt_br ashgwork_c07474ae:
 
     # kate "Yes, exactly."
-    kate ""
+    kate "Isso, exatamente."
 
 # game/scripts/ash_events.rpy:8004
 translate pt_br ashgwork_66af7bd4:
@@ -27333,97 +27333,97 @@ translate pt_br ashgwork_66af7bd4:
 translate pt_br ashgwork_27dbfffe:
 
     # a "I just want to raise a family..."
-    a ""
+    a "Eu só quero criar uma família..."
 
 # game/scripts/ash_events.rpy:8006
 translate pt_br ashgwork_a84c790f:
 
     # got "A family costs money, and you're not going to get a good job without a degree. So... how bad do you really want it?"
-    got ""
+    got "Uma família custa dinheiro, e você não vai conseguir um bom emprego sem um diploma. Então... o quanto você realmente quer isso?"
 
 # game/scripts/ash_events.rpy:8008
 translate pt_br ashgwork_30846b70:
 
     # a "*sigh*... a lot..."
-    a ""
+    a "*uff*... muito..."
 
 # game/scripts/ash_events.rpy:8009
 translate pt_br ashgwork_d4f87afa:
 
     # kate "Then lets pick up where we left off, shall we?"
-    kate ""
+    kate "Então, vamos continuar de onde paramos, certo?"
 
 # game/scripts/ash_events.rpy:8010
 translate pt_br ashgwork_71955456:
 
     # a "Okay..."
-    a ""
+    a "Beleza..."
 
 # game/scripts/ash_events.rpy:8016
 translate pt_br ashgwork_f2f558ed:
 
     # kate "You learn quick, Ashley, you'll get it in no time."
-    kate ""
+    kate "Você aprende rápido, Ashley, você vai entender isso em pouco tempo."
 
 # game/scripts/ash_events.rpy:8017
 translate pt_br ashgwork_bee140ec:
 
     # a "Thanks... I'll see you next week?"
-    a ""
+    a "Obrigada... Eu vejo vocês na próxima semana?"
 
 # game/scripts/ash_events.rpy:8018
 translate pt_br ashgwork_0ac5991d:
 
     # kate "I think we can do that. See you in class."
-    kate ""
+    kate "Acho que conseguimos fazer isso. Até na aula."
 
 # game/scripts/ash_events.rpy:8019
 translate pt_br ashgwork_2ed6d682:
 
     # got "Bye Ashley, it was nice coming over to your place... see you next time."
-    got ""
+    got "Tchau Ashley, foi bom vir para a sua casa... até a próxima vez."
 
 # game/scripts/ash_events.rpy:8020
 translate pt_br ashgwork_b056f506_1:
 
     # a "Bye..."
-    a ""
+    a "Tchau..."
 
 # game/scripts/ash_events.rpy:8022
 translate pt_br ashgwork_8f2f8f27:
 
     # a "*sigh*..."
-    a ""
+    a "*uff*"
 
 # game/scripts/ash_events.rpy:8023
 translate pt_br ashgwork_8dabe47e:
 
     # c "Hey Ashley, how did it go?"
-    c ""
+    c "Ei Ashley, como foi?"
 
 # game/scripts/ash_events.rpy:8025
 translate pt_br ashgwork_261a2be0:
 
     # a "Oh! Hi [name]! It was actually a piece of cake, I barely even needed the help!"
-    a ""
+    a "Ah! Oi [name]! Na verdade foi moleza, eu mal precisei de ajuda!"
 
 # game/scripts/ash_events.rpy:8026
 translate pt_br ashgwork_f0b69231:
 
     # c "Oh, really?"
-    c ""
+    c "Ah, é mesmo?"
 
 # game/scripts/ash_events.rpy:8027
 translate pt_br ashgwork_eba77cc0:
 
     # a "Yep! See you~!"
-    a ""
+    a "Sim! Até mais~!"
 
 # game/scripts/ash_events.rpy:8029
 translate pt_br ashgwork_1e665559:
 
     # c "Hmm..."
-    c ""
+    c "Hmm..."
 
 # game/scripts/ash_events.rpy:8036
 translate pt_br ashblift_d394bf8d:
