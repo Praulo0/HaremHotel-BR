@@ -1500,7 +1500,7 @@ translate pt_br lobby2_15f66a9b:
 translate pt_br lobby2_5fa99b38:
 
     # l "Can we do it in the butt today [linoname]?"
-    l "Nós podemos fazer na bunda hoje, [linoname]?"
+    l "Nós podemos fazer no cu hoje, [linoname]?"
 
 # game/script.rpy:1889
 translate pt_br lobby2_f8e48d1a:
@@ -5130,7 +5130,7 @@ translate pt_br floor2menu_fdbf00f6:
 translate pt_br floor2menu_45aea3f5:
 
     # bot "You could tell me to get down on all fours to fuck my ass and I would have no choice but to obey!"
-    bot "Você poderia me falar para ficar de quatro para foder minha bunda e eu não teria escolha a não ser obedecer!"
+    bot "Você poderia me falar para ficar de quatro para foder o meu cu e eu não teria escolha a não ser obedecer!"
 
 # game/script.rpy:4689
 translate pt_br floor2menu_58b860f9:
@@ -5256,7 +5256,7 @@ translate pt_br floor2menu_9cc78dcb:
 translate pt_br floor2menu_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode a minha bunda com força!"
+    bot "[botown]! Ahh! [botown], isso! Fode o meu cu com força!"
 
 # game/script.rpy:4729
 translate pt_br floor2menu_29c1d9cd:
@@ -11533,7 +11533,7 @@ translate pt_br kcreep_02843aeb_1:
 translate pt_br kcreep_cf532c07:
 
     # a "A butt plug!? Things are meant to go in and out of my ass... not stay in there... When am I ever going to use this?"
-    a "Um plug anal!? As coisas foram feitas para entrar e sair da minha bunda... não para ficarem lá... Quando é que eu vou usar isso?"
+    a "Um plug anal!? As coisas foram feitas para entrar e sair do meu cu... não para ficarem lá... Quando é que eu vou usar isso?"
 
 # game/script.rpy:8136
 translate pt_br kcreep_aec4c9e8:
@@ -15655,7 +15655,7 @@ translate pt_br red_bunny_talk_f2ed1929:
 translate pt_br purpbun_anal_ea26637e:
 
     # pbun "You wanna fuck my ass? I'm all yours..."
-    pbun "Você quer foder a minha bunda? Eu sou toda sua..."
+    pbun "Você quer foder o meu cu? Eu sou toda sua..."
 
 # game/script.rpy:9526
 translate pt_br purpbun_anal_4abeb21a:
@@ -15679,7 +15679,7 @@ translate pt_br purpbun_anal_2e8d8fa3:
 translate pt_br purpbun_anal_e1f58172:
 
     # pbun "Yeah, just like that! Mmmmn! Oh god, you're stretching my ass so gooood~!"
-    pbun "Isso, assim mesmo! Mmmmn! Ai deus, você está esticando a minha bunda tão beeeem~!"
+    pbun "Isso, assim mesmo! Mmmmn! Ai deus, você está esticando o meu cu tão beeeem~!"
 
 # game/script.rpy:9533
 translate pt_br purpbun_anal_3b298955:
@@ -15901,13 +15901,13 @@ translate pt_br purpbun_blowjob_0f82d165:
 translate pt_br redbun_anal_06ffa5ce:
 
     # rbun "Mmmh, fuck my ass [linoname]~"
-    rbun "Mmmh, fode a minha bunda, [linoname]~"
+    rbun "Mmmh, fode o meu cu, [linoname]~"
 
 # game/script.rpy:9642
 translate pt_br redbun_anal_5ff3d503:
 
     # rbun "Mmmh, fuck my ass baby~"
-    rbun "Mmmh, fode a minha bunda bebÊ~"
+    rbun "Mmmh, fode o meu cu, bebê~"
 
 # game/script.rpy:9646
 translate pt_br redbun_anal_062acfd3:
@@ -15931,13 +15931,13 @@ translate pt_br redbun_anal_1207ca50:
 translate pt_br redbun_anal_1668825b:
 
     # rbun "Oh, fuck! Fuck! MMMN! Haahng! Ohhhh fuck, why did you have to be so big...? Heh, aah, you're stretching my ass baby... Mmmhg!"
-    rbun "Ah, porra! Porra! MMMN! Haahng! Ahhhh porra, porr que você tinha que ser tão grande...? Heh, aah, você está esticando a minha bunda bebê... Mmmhg!"
+    rbun "Ah, porra! Porra! MMMN! Haahng! Ahhhh porra, porr que você tinha que ser tão grande...? Heh, aah, você está esticando o meu cu, bebê... Mmmhg!"
 
 # game/script.rpy:9652
 translate pt_br redbun_anal_72033f7b:
 
     # rbun "Haaagh! God, it's so tight~! Mmmh! Do you like fucking my tight ass? Mmmh...!"
-    rbun "Haaagh! Deus, está muito apertado~! Mmmh! Você gosta de foder minha bunda apertada? Mmmh...!"
+    rbun "Haaagh! Deus, está muito apertado~! Mmmh! Você gosta de foder meu cu apertado? Mmmh...!"
 
 # game/script.rpy:9653
 translate pt_br redbun_anal_cefb2da7:
@@ -15955,13 +15955,13 @@ translate pt_br redbun_anal_ac838d34:
 translate pt_br redbun_anal_bafa9a92:
 
     # rbun "Mmmh! Oh yeah, yeah! Do you like that baby? Mmmh! Aaah! Yeah, fuck my ass until you explode inside me~ Mmmh~!"
-    rbun "Mmmh! Ah isso, isso! Você gosta disso bebê? Mmmh! Aaah! Isso, fode a minha bunda até você explodir dentro de mim~ Mmmh~!"
+    rbun "Mmmh! Ah isso, isso! Você gosta disso bebê? Mmmh! Aaah! Isso, fode o meu cu até você explodir dentro de mim~ Mmmh~!"
 
 # game/script.rpy:9658
 translate pt_br redbun_anal_3b464f02:
 
     # rbun "Haaah, yeah! I want it, I want it! Mmmh! Give it to me inside my ass!"
-    rbun "Haaah, isso! Eu quero isso, eu quero isso! Mmmh! Me dá isso dentro da minha bunda!"
+    rbun "Haaah, isso! Eu quero isso, eu quero isso! Mmmh! Me dá isso dentro do meu cu!"
 
 # game/script.rpy:9663
 translate pt_br redbun_anal_e65b085f:
@@ -16255,7 +16255,7 @@ translate pt_br bluebun_sex_a7e455b2:
 translate pt_br bluebun_anal_4bb4f082:
 
     # bbun "I can take it, don't be shy... fuck my ass~"
-    bbun "Eu consigo fazer isso, não fique tímido... fode a minha bunda~"
+    bbun "Eu consigo fazer isso, não fique tímido... fode o meu cu~"
 
 # game/script.rpy:9797
 translate pt_br bluebun_anal_6457d773:
@@ -16273,7 +16273,7 @@ translate pt_br bluebun_anal_c8334483:
 translate pt_br bluebun_anal_b8cb38d6:
 
     # bbun "Yeah, you like my tight ass, don't you~? Mmmh! Oh fuck, AH!"
-    bbun "Isso, você gosta da minha bunda apertada, não é~? Ah porra, AH!"
+    bbun "Isso, você gosta da meu cu apertado, não é~? Ah porra, AH!"
 
 # game/script.rpy:9802
 translate pt_br bluebun_anal_97be8b37:
@@ -23845,13 +23845,13 @@ translate pt_br shower_6e60566e:
 translate pt_br shower_598f25e3:
 
     # l "Ahhh...! NNNH! Ahhh... How does my ass feel, [linoname]? Mmm...! You feel so good in my butt!"
-    l "Ahhh...! NNNH! Ahhh... O que está achando da minha bunda, [linoname]? Mmm...! Você é tão gostoso na minha bunda!"
+    l "Ahhh...! NNNH! Ahhh... O que está achando do meu cu, [linoname]? Mmm...! Você é tão gostoso no meu cu!"
 
 # game/script.rpy:12660
 translate pt_br shower_78959d6b:
 
     # l "Ahh! Hahh! Nnn! Ohh, [linoname]! Ah! Yes! Fuck my ass, [linoname]! Mmh!"
-    l "Ahh! Hahh! Nnn! Ohh, [linoname]! Ah! Isso! Fode a minha bunda, [linoname]! Mmh!"
+    l "Ahh! Hahh! Nnn! Ohh, [linoname]! Ah! Isso! Fode o meu cu, [linoname]! Mmh!"
 
 # game/script.rpy:12661
 translate pt_br shower_693a9159:
@@ -23869,7 +23869,7 @@ translate pt_br shower_b428a3b9:
 translate pt_br shower_111495a6:
 
     # l "Ah! [linoname]! [linoname]! [linoname]! Cum inside my ass! Ahhh!"
-    l "Ah! [linoname]! [linoname]! [linoname]! Goza dentro da minha bunda! Ahhh!"
+    l "Ah! [linoname]! [linoname]! [linoname]! Goza dentro do meu cu! Ahhh!"
 
 # game/script.rpy:12667
 translate pt_br shower_45c92196:
@@ -27835,7 +27835,7 @@ translate pt_br linkchoice_e74459b7:
 translate pt_br linkchoice_637a8835:
 
     # l "A... A butt plug!? You mean... in my ass?"
-    l "Um... Um plugue anal!? Quer dizer... na minha bunda?"
+    l "Um... Um plugue anal!? Quer dizer... no meu cu?"
 
 # game/script.rpy:14797
 translate pt_br linkchoice_56d0beb3_1:
@@ -52860,7 +52860,7 @@ translate pt_br banalss_9cc78dcb:
 translate pt_br banalss_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode bem a minha bunda!"
+    bot "[botown]! Ahh! [botown], isso! Fode bem o meu cu!"
 
 # game/script.rpy:22931
 translate pt_br banalss_29c1d9cd:
@@ -52944,7 +52944,7 @@ translate pt_br banal_9cc78dcb:
 translate pt_br banal_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode bem a minha bunda!"
+    bot "[botown]! Ahh! [botown], isso! Fode bem o meu cu!"
 
 # game/script.rpy:22963
 translate pt_br banal_29c1d9cd:
@@ -53028,7 +53028,7 @@ translate pt_br banalb_9cc78dcb:
 translate pt_br banalb_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode bem a minha bunda!"
+    bot "[botown]! Ahh! [botown], isso! Fode bem o meu cu!"
 
 # game/script.rpy:22994
 translate pt_br banalb_29c1d9cd:
@@ -53112,7 +53112,7 @@ translate pt_br banals_9cc78dcb:
 translate pt_br banals_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode bem a minha bunda!"
+    bot "[botown]! Ahh! [botown], isso! Fode bem o meu cu!"
 
 # game/script.rpy:23025
 translate pt_br banals_29c1d9cd:
@@ -53196,7 +53196,7 @@ translate pt_br banalvb_9cc78dcb:
 translate pt_br banalvb_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode bem a minha bunda!"
+    bot "[botown]! Ahh! [botown], isso! Fode bem o meu cu!"
 
 # game/script.rpy:23056
 translate pt_br banalvb_29c1d9cd:
@@ -53280,7 +53280,7 @@ translate pt_br banalvs_9cc78dcb:
 translate pt_br banalvs_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode bem a minha bunda!"
+    bot "[botown]! Ahh! [botown], isso! Fode bem o meu cu!"
 
 # game/script.rpy:23087
 translate pt_br banalvs_29c1d9cd:
@@ -53364,7 +53364,7 @@ translate pt_br banalv_9cc78dcb:
 translate pt_br banalv_f59479b5:
 
     # bot "[botown]! Ahh! [botown], yes! Fuck my ass hard!"
-    bot "[botown]! Ahh! [botown], isso! Fode bem a minha bunda!"
+    bot "[botown]! Ahh! [botown], isso! Fode bem o meu cu!"
 
 # game/script.rpy:23118
 translate pt_br banalv_29c1d9cd:
@@ -53862,7 +53862,7 @@ translate pt_br botpinups_3bac7a59:
 translate pt_br botpinups_e7bcbfdb:
 
     # bot "You want to see my ass? No way!"
-    bot "Você quer ver minha bunda? Nem pensar!"
+    bot "Você quer ver meu cu? Nem pensar!"
 
 # game/script.rpy:23422
 translate pt_br botpinups_5fd0a1b1:
@@ -57054,13 +57054,13 @@ translate pt_br botmar2_00f4e157:
 translate pt_br botmar2_645f29e4:
 
     # m "Yup! They go in your butt..."
-    m "Isso! Elas vão na sua bunda..."
+    m "Isso! Elas vão no seu cu..."
 
 # game/script.rpy:24314
 translate pt_br botmar2_41f1c606:
 
     # bot "Why would I want anything in my butt?"
-    bot "Por que eu iria querer qualquer coisa na minha bunda?"
+    bot "Por que eu iria querer qualquer coisa no meu cu bunda?"
 
 # game/script.rpy:24315
 translate pt_br botmar2_1c4f1595:
@@ -57264,7 +57264,7 @@ translate pt_br botmar2_ccdb37fb:
 translate pt_br botmar2_bf36a1e0:
 
     # bot "My butt! Feels so funny!"
-    bot "A minha bunda! Parece tão estranha!"
+    bot "O meu cu! Parece tão estranho!"
 
 # game/script.rpy:24373
 translate pt_br botmar2_9565ae63:
@@ -69312,7 +69312,7 @@ translate pt_br bdsmroom_912f4204:
 translate pt_br bdsmroom_d7319d00:
 
     # l "It feels amazing! My pussy and butt feel amazing!" with ssshake
-    l "A sensação é incrível! A minha boceta e bunda têm uma sensação ótima!" with ssshake
+    l "A sensação é incrível! A minha boceta e o meu cu estão se sentindo ótimos!" with ssshake
 
 # game/script.rpy:28525
 translate pt_br bdsmroom_142a5f6d:
@@ -69336,7 +69336,7 @@ translate pt_br bdsmroom_752341dc:
 translate pt_br bdsmroom_4b5fd5f2:
 
     # l "Ahh! It came out off my butt! Put it back in [linoname]! Please!" with ssshake
-    l "Ahh! Saiu da minha bunda! Coloca de novo, [linoname]! Por favor!" with ssshake
+    l "Ahh! Saiu do meu cu! Coloca de novo, [linoname]! Por favor!" with ssshake
 
 # game/script.rpy:28536
 translate pt_br bdsmroom_c74b0ad5:
@@ -74363,7 +74363,7 @@ translate pt_br lincaptive_d44bf55d:
 translate pt_br lincaptive_0fce4b56:
 
     # l "Ahn! My ass..." with ssshake
-    l "Ahn! A minha bunda..." with ssshake
+    l "Ahn! O meu cu..." with ssshake
 
 # game/script.rpy:30763
 translate pt_br lincaptive_bf51a0a9:
@@ -74417,19 +74417,19 @@ translate pt_br lincaptive_335002b1:
 translate pt_br lincaptive_c5cbac66:
 
     # l "It's messing up my ass! Ah!"
-    l "Isso está bagunçando a minha bunda! Ah!"
+    l "Isso está bagunçando o meu cu! Ah!"
 
 # game/script.rpy:30776
 translate pt_br lincaptive_f027b749:
 
     # l "Nggh! Ahh! My ass! My ass! Ahh! Gh!"
-    l "Nggh! Ahh! A minha bunda! A minha bunda! Ahh! Gh!"
+    l "Nggh! Ahh! O meu cu! O meu cu! Ahh! Gh!"
 
 # game/script.rpy:30777
 translate pt_br lincaptive_1e3c5f82:
 
     # l "Ahhhh!!! My pussy! My ass! Nnnnn, Nnn, Nnn!"
-    l "Ahhhh!!! A minha boceta! A minha bunda! Nnnnn, Nnn, Nnn!"
+    l "Ahhhh!!! A minha boceta! O meu cu! Nnnnn, Nnn, Nnn!"
 
 # game/script.rpy:30778
 translate pt_br lincaptive_4ba4e034:
@@ -75557,7 +75557,7 @@ translate pt_br ashbdsm_836e3302_2:
 translate pt_br ashbdsm_aad89b56:
 
     # c "I'm going to lift you up, and fuck you in the ass."
-    c "Eu vou te levantar, e foder a sua bunda."
+    c "Eu vou te levantar, e foder o seu cu."
 
 # game/script.rpy:31312
 translate pt_br ashbdsm_1ef18081:
@@ -75935,7 +75935,7 @@ translate pt_br ashbdildo_681a568d:
 translate pt_br ashbdildo_8fccf830:
 
     # a "My ass!" with ssshake
-    a "A minha bunda!" with ssshake
+    a "O meu cu!" with ssshake
 
 # game/script.rpy:31449
 translate pt_br ashbdildo_e21111eb:
@@ -76043,7 +76043,7 @@ translate pt_br ashbdildo_16b27fd6:
 translate pt_br ashbdildo_7ff47124:
 
     # a "AHHhhh! My pussy! My ass! My pussy! I need to cum!" with ssshake
-    a "AHHhhh! A minha boceta! A minha bunda! A minha boceta! Eu preciso gozar!" with ssshake
+    a "AHHhhh! A minha boceta! O meu cu! A minha boceta! Eu preciso gozar!" with ssshake
 
 # game/script.rpy:31483
 translate pt_br ashbdildo_b7d84f7a:
@@ -76193,7 +76193,7 @@ translate pt_br ashbdildo_b8b538e3_3:
 translate pt_br ashbdildo_1989ee42_2:
 
     # a "Ahh... Hehe~... I came from my ass... and my pussy... Hehehhh..."
-    a "Ahh... Hehe~... Eu gozei pela minha bunda... e pela boceta... Hehehhh..."
+    a "Ahh... Hehe~... Eu gozei pelo meu cu... e pela boceta... Hehehhh..."
 
 # game/script.rpy:31544
 translate pt_br ashbdildo_7f8986d3:
@@ -76205,7 +76205,7 @@ translate pt_br ashbdildo_7f8986d3:
 translate pt_br ashbdildo_4a756893:
 
     # a "NOO! Put it back in my ass! Please! I want my ass filled please!"
-    a "NÃOO! Coloca de volta na minha bunda! Por favor! Eu quero a minha bunda preenchida, por favor!"
+    a "NÃOO! Coloca de volta no meu cu! Por favor! Eu quero o meu cu preenchido, por favor!"
 
 # game/script.rpy:31546
 translate pt_br ashbdildo_a2ec42c6:
@@ -83021,7 +83021,7 @@ translate pt_br ash_insp_948badb2:
 translate pt_br ash_insp_9f64c186:
 
     # c "Oh, you will get to cum, but not before I tease your ass..."
-    c "Ah, você vai gozar, mas não antes de eu provocar a sua bunda..."
+    c "Ah, você vai gozar, mas não antes de eu provocar o seu cu..."
 
 # game/script.rpy:35555
 translate pt_br ash_insp_80cc2781:
@@ -86273,7 +86273,7 @@ translate pt_br bot_wordplay_lin_85fa9fd8:
 translate pt_br bot_wordplay_lin_ae9e0da5:
 
     # l "Since your pussy has been having all the fun, I thought your ass could use something as well... but that choice is up to [linoname]."
-    l "Já que a sua boceta está se divertindo sozinha, eu achei que a sua bunda poderia querer um pouco também... mas quem decide é o [linoname]."
+    l "Já que a sua boceta está se divertindo sozinha, eu achei que o seu cu poderia querer um pouco também... mas quem decide é o [linoname]."
 
 # game/script.rpy:37222
 translate pt_br bot_wordplay_lin_6f188907:
@@ -88873,7 +88873,7 @@ translate pt_br strings:
 
     # game/script.rpy:4707
     old "Get on your hands and knees. I'm going to fuck your ass."
-    new "Ponha as suas mãos nos jelhos. Eu vou foder a sua bunda."
+    new "Ponha as suas mãos nos jelhos. Eu vou foder o seu cu."
 
     # game/script.rpy:4707
     old "See you later."
