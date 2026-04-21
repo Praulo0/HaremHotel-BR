@@ -5304,7 +5304,7 @@ translate pt_br floor2menu_842c6a7c:
 translate pt_br floor2menu_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahh, [botown]... Seu gozo é tão quentinho..."
+    bot "Ahh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:4749
 translate pt_br floor2menu_96ec7f09:
@@ -14575,7 +14575,7 @@ translate pt_br expl_beach2_26e8ab46:
 translate pt_br expl_beach2_0a639d18:
 
     # rac "You're not the one with elf cum all over you! Nnngh, fuck! Get my damn towel, slave! Now!"
-    rac "Não é você que estão com gozo de elfo espalhado no seu corpo todo, porra! Traz a droga da minha toalha, escravo! Agora!"
+    rac "Não é você que estão com porra de elfo espalhado no seu corpo todo, caralho! Traz a droga da minha toalha, escravo! Agora!"
 
 # game/script.rpy:9093
 translate pt_br expl_beach2_892d926d:
@@ -15775,7 +15775,7 @@ translate pt_br purpbun_sex_d23ead1c:
 translate pt_br purpbun_sex_d4faebe8:
 
     # pbun "Fuck me, fuck me! MMMMH! I want you to paint my ass with your hot cum! Haah! Can you do that? Mmh?"
-    pbun "Me fode, me fode! MMMMH! Eu quero que você pinte a minha bunda com o seu gozo quente! Haah! Você pode fazer isso? Mmh?"
+    pbun "Me fode, me fode! MMMMH! Eu quero que você pinte a minha bunda com a sua porra quente! Haah! Você pode fazer isso? Mmh?"
 
 # game/script.rpy:9577
 translate pt_br purpbun_sex_936c542d:
@@ -16039,7 +16039,7 @@ translate pt_br redbun_blowjob_5e3e3260:
 translate pt_br redbun_blowjob_96d1300f:
 
     # rbun "Come on~ let go in my mouth...! Mmmnl! Give me cum baby~ mmmnh! I want it~"
-    rbun "Pode ir~ deixa sair na minha boca...! Mmmnl! Dá pra mim esse gozo bebê~ mmmnh! Eu quero~"
+    rbun "Pode ir~ deixa sair na minha boca...! Mmmnl! Dá pra mim essa porra bebê~ mmmnh! Eu quero~"
 
 # game/script.rpy:9698
 translate pt_br redbun_blowjob_1b15d955:
@@ -23551,7 +23551,7 @@ translate pt_br shower_6d8fed3b:
 translate pt_br shower_7cb5e8d3:
 
     # f "I want to feel your hot sticky cum deep inside my little pussy [name]~!"
-    f "Eu quero sentir sentir o seu gozo quente e grudento dentro da minha bucetinha, [name]~!"
+    f "Eu quero sentir sentir a sua porra quente e grudenta dentro da minha bucetinha, [name]~!"
 
 # game/script.rpy:12481
 translate pt_br shower_869aa8a5:
@@ -23647,7 +23647,7 @@ translate pt_br shower_8a773880:
 translate pt_br shower_8336337c:
 
     # em "Ah! Ah! Ahhhh! Cum all over me [name]! All over my tits! I don't care if I have to wash again, I want your hot cum all over my tits!!!"
-    em "Ah! Ah! Ahhhh! Goza tudo em cima de mim, [name]! Tudo nas minhas tetas! Eu não ligo se tiver que me lavar de novo, eu quero todo o seu gozo quente nas minhas tetas!!!"
+    em "Ah! Ah! Ahhhh! Goza tudo em cima de mim, [name]! Tudo nas minhas tetas! Eu não ligo se tiver que me lavar de novo, eu quero todo a sua porra quente nas minhas tetas!!!"
 
 # game/script.rpy:12533
 translate pt_br shower_4b1aca32:
@@ -24193,7 +24193,7 @@ translate pt_br shower_0382a370:
 translate pt_br shower_bd3f9ff5:
 
     # bot "[botown]! I want your cum! All over my breasts! [botown]!"
-    bot "[botown]! Eu quero o seu gozo! Tudo nos meus peitos! [botown]!"
+    bot "[botown]! Eu quero a sua porra! Tudo nos meus peitos! [botown]!"
 
 # game/script.rpy:12834
 translate pt_br shower_166e3b9b:
@@ -28069,7 +28069,7 @@ translate pt_br linkchoice_d13a491c:
 translate pt_br linkchoice_7e682128:
 
     # l "Ahnn! [linoname]...! Let me swallow your cum...! Nnnnm! Release it inside me and you'll feel so much better...! Nghk!"
-    l "Ahnn! [linoname]...! Deixa eu engolir o seu gozo...! Nnnnm! É só soltar tudo dentro de mim e você vai se sentir tão melhor...! Nghk!"
+    l "Ahnn! [linoname]...! Deixa eu engolir a sua porra...! Nnnnm! É só soltar tudo dentro de mim e você vai se sentir tão melhor...! Nghk!"
 
 # game/script.rpy:14931
 translate pt_br linkchoice_b503b25c:
@@ -29479,7 +29479,7 @@ translate pt_br yourroom_e43ecc6d:
 translate pt_br yourroom_e6ee3a4c:
 
     # a "Hmmmm... with that much cum, I have to ask... why aren't I pregnant yet? Hmmmmm?"
-    a "Hmmmm... com tanto gozo, eu preciso perguntar... por que eu ainda não estou grávida? Hmmmmm?"
+    a "Hmmmm... com tanta porra, eu preciso perguntar... por que eu ainda não estou grávida? Hmmmmm?"
 
 # game/script.rpy:15506
 translate pt_br yourroom_90f98005:
@@ -51624,7 +51624,7 @@ translate pt_br botmishum_3c224e37:
 translate pt_br botmishum_65d55100:
 
     # bot "Your cum feels so good inside my pussy, [botown]...!"
-    bot "É tão gostoso sentir o seu gozo dentro da minha boceta, [botown]...!"
+    bot "É tão gostoso sentir a sua porra dentro da minha boceta, [botown]...!"
 
 # game/script.rpy:22550
 translate pt_br botmishum_d95bc2f4:
@@ -51720,7 +51720,7 @@ translate pt_br botmisform_3c224e37:
 translate pt_br botmisform_65d55100:
 
     # bot "Your cum feels so good inside my pussy, [botown]...!"
-    bot "É tão gostoso sentir o seu gozo dentro da minha boceta, [botown]...!"
+    bot "É tão gostoso sentir a sua porra dentro da minha boceta, [botown]...!"
 
 # game/script.rpy:22590
 translate pt_br botmisform_ca244931:
@@ -52908,7 +52908,7 @@ translate pt_br banalss_842c6a7c:
 translate pt_br banalss_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahhh, [botown]... O seu gozo é tão quentinho..."
+    bot "Ahhh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:22955
 translate pt_br banal_8a3c4b8a:
@@ -52992,7 +52992,7 @@ translate pt_br banal_842c6a7c:
 translate pt_br banal_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahhh, [botown]... O seu gozo é tão quentinho..."
+    bot "Ahhh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:22986
 translate pt_br banalb_8a3c4b8a:
@@ -53076,7 +53076,7 @@ translate pt_br banalb_842c6a7c:
 translate pt_br banalb_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahhh, [botown]... O seu gozo é tão quentinho..."
+    bot "Ahhh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:23017
 translate pt_br banals_8a3c4b8a:
@@ -53160,7 +53160,7 @@ translate pt_br banals_842c6a7c:
 translate pt_br banals_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahhh, [botown]... O seu gozo é tão quentinho..."
+    bot "Ahhh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:23048
 translate pt_br banalvb_8a3c4b8a:
@@ -53244,7 +53244,7 @@ translate pt_br banalvb_842c6a7c:
 translate pt_br banalvb_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahhh, [botown]... O seu gozo é tão quentinho..."
+    bot "Ahhh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:23079
 translate pt_br banalvs_8a3c4b8a:
@@ -53328,7 +53328,7 @@ translate pt_br banalvs_842c6a7c:
 translate pt_br banalvs_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahhh, [botown]... O seu gozo é tão quentinho..."
+    bot "Ahhh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:23110
 translate pt_br banalv_8a3c4b8a:
@@ -53412,7 +53412,7 @@ translate pt_br banalv_842c6a7c:
 translate pt_br banalv_147a8e34:
 
     # bot "Ahhh, [botown]... Your cum feels so warm..."
-    bot "Ahhh, [botown]... O seu gozo é tão quentinho..."
+    bot "Ahhh, [botown]... A sua porra é tão quentinha..."
 
 # game/script.rpy:23143
 translate pt_br botpinups_8402c25a:
@@ -60606,7 +60606,7 @@ translate pt_br botboobs_1e8d03ed:
 translate pt_br botboobs_7e572637:
 
     # bot "Cum for me, please! Please! I want you cover me in your hot cum, [botown]!"
-    bot "Goza pra mim, por favor! Por favor! Eu quero que você me cubra com o seu gozo quente, [botown]!"
+    bot "Goza pra mim, por favor! Por favor! Eu quero que você me cubra com a sua porra quente, [botown]!"
 
 # game/script.rpy:25410
 translate pt_br botboobs_34bd3c42:
@@ -60768,7 +60768,7 @@ translate pt_br botboobjob1_bd32d0bb:
 translate pt_br botboobjob1_1f2c82c6:
 
     # bot "Cum for me, cum for me~! Mmmh! Please! I want you cover me in your hot cum, [botown]! Now!"
-    bot "Goza pra mim, goza pra mim~! Mmmh! Por favor! Eu quero que você me cubra com o seu gozo quente, [botown]! Agora!"
+    bot "Goza pra mim, goza pra mim~! Mmmh! Por favor! Eu quero que você me cubra com a sua porra quente, [botown]! Agora!"
 
 # game/script.rpy:25457
 translate pt_br botboobjob1_8d86502b:
@@ -62604,7 +62604,7 @@ translate pt_br cookoff_0a32cc2b:
 translate pt_br cookoff_c11a8458:
 
     # l "Heheh! I love seeing your cum drip down her body, [linoname]..."
-    l "Heheh! Eu amei ver o seu gozo pingando pelo corpo dela, [linoname]..."
+    l "Heheh! Eu amei ver a sua porra pingando pelo corpo dela, [linoname]..."
 
 # game/script.rpy:25993
 translate pt_br cookoff_e3469428:
@@ -72971,7 +72971,7 @@ translate pt_br marbhandy_1de4b9f5:
 translate pt_br marbhandy_bb9952f8:
 
     # m "Fantasizing about being coated in your cum makes me so wet..."
-    m "o conjunto de roupas de ser coberta pelo seu gozo me deixa tão molhada..."
+    m "Fantasiar em estar enxarcada pela tua porra me deixa tão molhada..."
 
 # game/script.rpy:30186
 translate pt_br marbhandy_4e571cb4:
@@ -78905,7 +78905,7 @@ translate pt_br mardump_7f119e8c:
 translate pt_br marcum_126e13ea:
 
     # trait "Maria gained the Cum Slut trait!"
-    trait "Maria ganhou o traço Viciada em Gozo!"
+    trait "Maria ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:33657
 translate pt_br lindump_1fd29b0b:
@@ -78917,7 +78917,7 @@ translate pt_br lindump_1fd29b0b:
 translate pt_br lincum_d512ef60:
 
     # trait "Lin gained the Cum Slut trait!"
-    trait "Lin ganhou o traço Viciada em Gozo!"
+    trait "Lin ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:33667
 translate pt_br lincun_6df3fb64:
@@ -78929,7 +78929,7 @@ translate pt_br lincun_6df3fb64:
 translate pt_br botcum_6334bc68:
 
     # trait "[botname] gained the Cum Slut trait!"
-    trait "[botname] ganhou o traço Viciada em Gozo!"
+    trait "[botname] ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:33677
 translate pt_br bothj_1ed069a5:
@@ -78989,19 +78989,19 @@ translate pt_br kalidump_811bd88a:
 translate pt_br kalicum_88cbb70f:
 
     # trait "Kali gained the Cum Slut trait!"
-    trait "Kali ganhou o traço Viciada em Gozo!"
+    trait "Kali ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:33718
 translate pt_br ashcum_457d56e9:
 
     # trait "Ashley gained the Cum Slut trait!"
-    trait "Ashley ganhou o traço Viciada em Gozo!"
+    trait "Ashley ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:33723
 translate pt_br autcum_5d635c9e:
 
     # trait "Autumn gained the Cum Slut trait!"
-    trait "Autumn ganhou o traço Viciada em Gozo!"
+    trait "Autumn ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:33727
 translate pt_br kalislut_85e78716:
@@ -79193,7 +79193,7 @@ translate pt_br emdump_eec2578a:
 translate pt_br felcum_b0b45310:
 
     # trait "Felicity gained the Cum Slut trait!"
-    trait "Felicity ganhou o traço Viciada em Gozo!"
+    trait "Felicity ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:33864
 translate pt_br maraff_d173ecb7:
@@ -79409,7 +79409,7 @@ translate pt_br emboob_22329dce:
 translate pt_br emcum_500144f6:
 
     # trait "Emma gained the Cum Slut trait!"
-    trait "Emma ganhou o traço Viciada em Gozo!"
+    trait "Emma ganhou o traço Viciada em Porra!"
 
 # game/script.rpy:34036
 translate pt_br linsub_227c2169:
@@ -82595,7 +82595,7 @@ translate pt_br klq_315d5cca:
 translate pt_br klq_e9a74637:
 
     # a "[name]! Hahhh! Mmmmmh...! My pussy is so thirsty...! Gimme your cum! Ahhh!"
-    a "[name]! Hahhh! Mmmmmh...! A minha boceta está tão sedenta...! Me dá o seu gozo! Ahhh!"
+    a "[name]! Hahhh! Mmmmmh...! A minha boceta está tão sedenta...! Me dá a sua porra! Ahhh!"
 
 # game/script.rpy:35351
 translate pt_br klq_78b4a319:
@@ -82901,7 +82901,7 @@ translate pt_br ash_insp_315d5cca:
 translate pt_br ash_insp_e9a74637:
 
     # a "[name]! Hahhh! Mmmmmh...! My pussy is so thirsty...! Gimme your cum! Ahhh!"
-    a "[name]! Hahhh! Mmmmmh...! A minha boceta está tão sedenta...! Me dá o seu gozo! Ahhh!"
+    a "[name]! Hahhh! Mmmmmh...! A minha boceta está tão sedenta...! Me dá a sua porra! Ahhh!"
 
 # game/script.rpy:35505
 translate pt_br ash_insp_78b4a319:

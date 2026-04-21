@@ -298,7 +298,7 @@ translate pt_br ash_fe_foursome_eec9c0d6:
 translate pt_br ash_fe_foursome_b95ef2c2:
 
     # f "Ashley might have dibs on your cum, but don't forget us..."
-    f "Ashley pode ter tomado posse do seu gozo, mas não se esqueça de nós..."
+    f "Ashley pode ter tomado posse da sua porra, mas não se esqueça de nós..."
 
 # game/scripts/ash_events.rpy:109
 translate pt_br ash_fe_foursome_6125d69d:
@@ -448,7 +448,7 @@ translate pt_br ash_fe_foursome_1bd14f0c:
 translate pt_br ash_fe_foursome_02ac0384:
 
     # a "Hehe~ so much cum!"
-    a "Hehe~ tanto gozo!"
+    a "Hehe~ tanta porra!"
 
 # game/scripts/ash_events.rpy:141
 translate pt_br ash_fe_foursome_b22ad62d:
@@ -460,7 +460,7 @@ translate pt_br ash_fe_foursome_b22ad62d:
 translate pt_br ash_fe_foursome_58b954d7:
 
     # a "Sorry~ but doesn't that look like so much cum? I'm so happy!"
-    a "Desculpa~ mas não parece muito gozo? Eu estou tão feliz!"
+    a "Desculpa~ mas não parece muita porra? Eu estou tão feliz!"
 
 # game/scripts/ash_events.rpy:144
 translate pt_br ash_fe_foursome_795b86c0:
@@ -550,7 +550,7 @@ translate pt_br ash_fe_foursome_4ea8c4b9:
 translate pt_br ash_fe_foursome_df992812:
 
     # a "Haah... ahhh... your cum won't stay in, [name]... mmmh..."
-    a "Haah... ahhh... seu gozo não vai ficar dentro, [name]... mmmh..."
+    a "Haah... ahhh... sua porra não vai ficar dentro, [name]... mmmh..."
 
 # game/scripts/ash_events.rpy:165
 translate pt_br ash_fe_foursome_905581a0:
@@ -2398,7 +2398,7 @@ translate pt_br ash_hangout_06_e95ec2cd:
 translate pt_br ash_hangout_06_fa19ecf2:
 
     # a "But only I get your cum, okay? It's for our first baby~"
-    a "Mas só eu ia receber o seu gozo, tá? É para o nosso primeiro bebê~"
+    a "Mas só eu ia receber a sua porra, tá? É para o nosso primeiro bebê~"
 
 # game/scripts/ash_events.rpy:864
 translate pt_br ash_hangout_06_786168bb:
@@ -11295,7 +11295,7 @@ translate pt_br ash_lustfinal_39522c3b:
 translate pt_br ash_lustfinal_a23d89dd:
 
     # a "Don't stop! Fill my womb up with your delicious cum!!" with ssshake
-    a "Não para! Preencha o meu ventre com  seu gozo delicioso!!" with ssshake
+    a "Não para! Preencha o meu ventre com sua porra deliciosa!!" with ssshake
 
 # game/scripts/ash_events.rpy:2963
 translate pt_br ash_lustfinal_8d63b829:
@@ -12609,7 +12609,7 @@ translate pt_br ash_lockerfuck_ab895fec:
 translate pt_br ash_lockerfuck_2707735a:
 
     # a "Fuck, fuck fuck! HAHH! NNGH! Yes!! Fuck your slutty schoolgirl! Knock her up at school! AAAH! HAHHH! AAAAAAAAAHHH!!!"
-    a "Porra, porra porra! HAHH! NNGH! Isso!! Fode a sua estudante safada! Fode ela na escola! AAAH! HAHHH! AAAAAAAAAHHH!!!"
+    a "Porra, porra porra! HAHH! NNGH! Isso!! Fode a sua universitária safada! Fode ela na escola! AAAH! HAHHH! AAAAAAAAAHHH!!!"
 
 # game/scripts/ash_events.rpy:3406
 translate pt_br ash_lockerfuck_c508662b:
@@ -17710,7 +17710,7 @@ translate pt_br ashdown2_3c0fbc59:
 translate pt_br ashdown2_d16690da:
 
     # a "[name], will you cum inside me? I love the feeling of my belly getting full of your cum...!"
-    a "[name], você vai gozar dentro de mim? Eu amo a sensação da minha barriga ficando cheia do seu gozo...!"
+    a "[name], você vai gozar dentro de mim? Eu amo a sensação da minha barriga ficando cheia da sua porra...!"
 
 # game/scripts/ash_events.rpy:4942
 translate pt_br ashdown2_7845124e:
@@ -24015,7 +24015,7 @@ translate pt_br ashsclobbysex_e4fa1802:
 translate pt_br ashsclobbysex_29d7a5a7:
 
     # a "Ahh! Yes! Fuck my schoolgirl pussy! Hn!"
-    a "Ahh! Isso! Fode a minha boceta de colegial! Hn!"
+    a "Ahh! Isso! Fode a minha boceta de universitária! Hn!"
 
 # game/scripts/ash_events.rpy:6721
 translate pt_br ashsclobbysex_0a161c6a:
@@ -24033,7 +24033,7 @@ translate pt_br ashsclobbysex_e125e165:
 translate pt_br ashsclobbysex_502f83b8:
 
     # a "Ahh!!! [name]! Get my schoolgirl pussy pregnant! Ahh!"
-    a "Ahh!!! [name]! Deixe a minha boceta de colegial grávida! Ahh!"
+    a "Ahh!!! [name]! Deixe a minha boceta de universitária grávida! Ahh!"
 
 # game/scripts/ash_events.rpy:6726
 translate pt_br ashsclobbysex_6faf31ef:
@@ -24063,7 +24063,7 @@ translate pt_br ashsclobbysex_8e5ded71:
 translate pt_br ashsclobbysex_b8bec867:
 
     # a "Ahhh~ You came in my little schoolgirl pussy [name]~"
-    a "Ahhh~ Você gozou na minha bocetinha de colegial [name]~"
+    a "Ahhh~ Você gozou na minha bocetinha de universitária [name]~"
 
 # game/scripts/ash_events.rpy:6740
 translate pt_br ashlobbysex_073cb58e:
@@ -24177,7 +24177,7 @@ translate pt_br ashsublobbysex_3b21d8c6:
 translate pt_br ashsublobbysex_31bc40b6:
 
     # a "MMH! AH! Hmmn! You didn't tie my legs up, so I still lock you in! MMH! Don't question my strength when I want your cum!"
-    a "MMH! AH! Hmmn! Você não amarrou minhas pernas, então ainda te tranco! MMH! Não questione minha força quando eu quero seu gozo!"
+    a "MMH! AH! Hmmn! Você não amarrou minhas pernas, então ainda te tranco! MMH! Não questione minha força quando eu quero a sua porra!"
 
 # game/scripts/ash_events.rpy:6778
 translate pt_br ashsublobbysex_fa896d13:
@@ -25293,7 +25293,7 @@ translate pt_br ash_anal_stress_1e7feef4:
 translate pt_br ash_anal_stress_b87ba730:
 
     # a "Do it, do it...! Haaah...! Give me all of your cum! Show me how cute you think I am...!"
-    a "Faz isso, faz isso...! Haaah...! Me dê todo o seu gozo! Me mostre o quanto você me acha fofa...!"
+    a "Faz isso, faz isso...! Haaah...! Me dê toda a sua porra! Me mostre o quanto você me acha fofa...!"
 
 # game/scripts/ash_events.rpy:7275
 translate pt_br ash_anal_stress_7bd33711:
@@ -25743,7 +25743,7 @@ translate pt_br ashfuckathon_11812b6e:
 translate pt_br ashfuckathon_db850266:
 
     # a "I thought more sex plus more cum equals more babies! Ahh!"
-    a "Eu imaginei que mais sexo, mais gozo, é igual a mais bebês! Ahh!"
+    a "Eu imaginei que mais sexo, mais porra, é igual a mais bebês! Ahh!"
 
 # game/scripts/ash_events.rpy:7621
 translate pt_br ashfuckathon_e54e0bbd:
@@ -25779,7 +25779,7 @@ translate pt_br ashfuckathon_4d15c81e:
 translate pt_br ashfuckathon_c2d201ed:
 
     # a "I can't let your cum start leaking out! We need to go again!"
-    a "Eu não posso deixar o seu gozo começar a vazar! Precisamos ir de novo!"
+    a "Eu não posso deixar a sua porra começar a vazar! Precisamos ir de novo!"
 
 # game/scripts/ash_events.rpy:7630
 translate pt_br ashfuckathon_eb179f97:
@@ -26079,7 +26079,7 @@ translate pt_br ashfuckathon_bde89c61:
 translate pt_br ashfuckathon_e5cf17a9:
 
     # a "My pussy is flooding with cum! Ahhh!!!"
-    a "A minha boceta está inundada de gozo! Ahhh!!!"
+    a "A minha boceta está inundada de porra! Ahhh!!!"
 
 # game/scripts/ash_events.rpy:7713
 translate pt_br ashfuckathon_6318ead2:
@@ -26595,7 +26595,7 @@ translate pt_br ashmom2_1def922e:
 translate pt_br ashmom2_efc27b04:
 
     # am "OH MY GOD! You have cum all over your face!"
-    am "AI MEU DEUS! Você tem gozo na sua cara inteira!"
+    am "AI MEU DEUS! Você tem porra na sua cara inteira!"
 
 # game/scripts/ash_events.rpy:7840
 translate pt_br ashmom2_6ec9511b:
@@ -26607,7 +26607,7 @@ translate pt_br ashmom2_6ec9511b:
 translate pt_br ashmom2_33de1149:
 
     # a "That's right MOM! I do have cum all over my face! I ALWAYS do! EVERY! DAY!"
-    a "É isso mesmo, MÃE! Eu estou com gozo na minha cara toda! Eu SEMPRE estou! TODO! DIA!"
+    a "É isso mesmo, MÃE! Eu estou com porra na minha cara toda! Eu SEMPRE estou! TODO! DIA!"
 
 # game/scripts/ash_events.rpy:7842
 translate pt_br ashmom2_24b114e7:
@@ -28767,7 +28767,7 @@ translate pt_br ashcafefirstsex_b3d861ba:
 translate pt_br ashcafefirstsex_7f0cf0fa:
 
     # a "Hehe~ Well... as long as you promise to cum inside... I guess it wouldn't be too bad, right?"
-    a ""
+    a "Hehe~ Bem... desde que você prometa gozar dentro... Acho que isso não seria tão ruim assim, né?"
 
 # game/scripts/ash_events.rpy:8733
 translate pt_br ashcafefirstsex_bfde69af:
@@ -29103,13 +29103,13 @@ translate pt_br ashcafeall_ddf3e0df:
 translate pt_br ashcafeall_11b0a39b:
 
     # by "She looks like a school girl!"
-    by "Ela parece uma colegial!"
+    by "Ela parece uma universitária!"
 
 # game/scripts/ash_events.rpy:8848
 translate pt_br ashcafeall_7997bc35:
 
     # by "School girls these days are so slutty!"
-    by "Colegiais desses dias são tão vadias!"
+    by "As universitárias desses dias são tão vadias!"
 
 # game/scripts/ash_events.rpy:8855
 translate pt_br ashcafeall_7dd1adf5:
@@ -29445,7 +29445,7 @@ translate pt_br ashcafefap_95cecedc:
 translate pt_br ashcafefap_86a4ee29:
 
     # a "Nnnm, I'm getting wet, [name]... my pussy can't think of anything except your cum... I want it so bad..."
-    a "{i}Nnnm, eu estou ficando molhada, [name]... minha vagina não consegue pensar em nada além do seu gozo... Eu quero isso tanto...{/i}"
+    a "{i}Nnnm, eu estou ficando molhada, [name]... minha vagina não consegue pensar em nada além da sua porra... Eu quero isso tanto...{/i}"
 
 # game/scripts/ash_events.rpy:8987
 translate pt_br ashcafefap_09e57c03:
@@ -29523,7 +29523,7 @@ translate pt_br ashcafefap_002cdfc6:
 translate pt_br ashcafefap_baec2458:
 
     # a "Mmmmh... fuck, [name]... my little pussy is so wet... she's so thirsty for your cum...!"
-    a "{i}Mmmmh... droga, [name]... minha vagininha está tão molhada... ela está tão sedenta por seu gozo...!{/i}"
+    a "{i}Mmmmh... droga, [name]... minha vagininha está tão molhada... ela está tão sedenta pela sua porra...!{/i}"
 
 # game/scripts/ash_events.rpy:9010
 translate pt_br ashcafefap_991d5324:
@@ -29553,241 +29553,241 @@ translate pt_br ashcafefap_9f7595df:
 translate pt_br ashcafefap_31672441:
 
     # a "Hnnn! Hhhng! Aaaah! Are you hard, [name]? How hard are you...? Hnn! I wanna see it...! Nnnh!"
-    a ""
+    a "Hnnn! Hhhng! Aaaah! O seu pau está duro, [name]? Quão duro ele está...? Hnn! Eu quero ver ele...! Nnnh!"
 
 # game/scripts/ash_events.rpy:9019
 translate pt_br ashcafefap_1263db19:
 
     # a "Hnnn! Ah! Look, [name]! Look at my soaking wet pussy! Haahh! Look! Aaah, hnngh...!"
-    a ""
+    a "Hnnn! Ah! Olha, [name]! Olha minha boceta toda molhada! Haahh! Olha! Aaah, hnngh...!"
 
 # game/scripts/ash_events.rpy:9020
 translate pt_br ashcafefap_ebd3adc4:
 
     # a "Aaaah! Haaah! [name]! Mmmmmn! I need your cum! Right here, right in my tight little pussy! Hnnnn!"
-    a ""
+    a "Aaaah! Haaah! [name]! Mmmmmn! Eu preciso da sua porra! Bem aqui, bem na minha boceta apertadinha! Hnnnn!"
 
 # game/scripts/ash_events.rpy:9021
 translate pt_br ashcafefap_5f6a09bc:
 
     # a "Hmmm! Mmmmn! I want it so bad, I want to feel your throbbing cock pump me full of cum! Mmmmmmmn~!"
-    a ""
+    a "Hmmm! Mmmmn! Eu quero tanto, eu quero sentir seu pau latejante Quero sentir seu pau latejante me enchendo de porra! Mmmmmmmn~!"
 
 # game/scripts/ash_events.rpy:9022
 translate pt_br ashcafefap_5ffa99c3:
 
     # a "Aah! Ah, haaahh! Yes, mmn! Fuck, [name]...! I'm getting close! Aaah! Hhhhhnghh! I'm gonna cum!"
-    a ""
+    a "Aah! Ah, haaahh! Isso, mmn! Porra, [name]. Eu estou chegando perto! Aaah! Hhhhhnghh! Eu vou gozar!"
 
 # game/scripts/ash_events.rpy:9023
 translate pt_br ashcafefap_c7c78fd4:
 
     # a "Haahhh! Watch me, [name]! Haaaahhh! Watch my little pussy cum for your cock!"
-    a ""
+    a "Haahhh! Fica vendo, [name]! Haaaahhh! Fica vendo a minha bocetinha gozar pro seu pau!"
 
 # game/scripts/ash_events.rpy:9027
 translate pt_br ashcafefap_bee76144:
 
     # a "HAAAAAAAH!" with ssshake
-    a "" with ssshake
+    a "HAAAAAAAH!" with ssshake
 
 # game/scripts/ash_events.rpy:9028
 translate pt_br ashcafefap_80f73659:
 
     # a "Hnnngh! Nnnnh!" with ssshake
-    a "" with ssshake
+    a "Hnnngh! Nnnnh!" with ssshake
 
 # game/scripts/ash_events.rpy:9029
 translate pt_br ashcafefap_372ec310:
 
     # ha "What's going on over there!?"
-    ha ""
+    ha "O que está acontecendo aí!?"
 
 # game/scripts/ash_events.rpy:9031
 translate pt_br ashcafefap_838088f0:
 
     # a "Aaah...! Hnnn... Ooops, I think I made a mess, Hehe~"
-    a ""
+    a "Aaah...! Hnnn... Ooops, eu acho que fiz uma bagunça, Hehe~"
 
 # game/scripts/ash_events.rpy:9044
 translate pt_br ashcafetop_8a55a069:
 
     # c "I'll keep your top."
-    c ""
+    c "Eu seguro a sua blusa."
 
 # game/scripts/ash_events.rpy:9045
 translate pt_br ashcafetop_1f551f3a:
 
     # a "O-Okay..."
-    a ""
+    a "B-Beleza..."
 
 # game/scripts/ash_events.rpy:9046
 translate pt_br ashcafetop_6f8c2a54:
 
     # a "Nnn... I guess I'll... go now..."
-    a ""
+    a "Nnn... Eu acho que estou... indo agora..."
 
 # game/scripts/ash_events.rpy:9047
 translate pt_br ashcafetop_db6d8d58:
 
     # c "Have fun..."
-    c ""
+    c "Divirta-se..."
 
 # game/scripts/ash_events.rpy:9049
 translate pt_br ashcafetop_b4a697e8:
 
     # a "{i}(Nnnn... everybody is staring at my titties... I hope they don't make fun of them...){/i}"
-    a ""
+    a "{i}(Nnnn... todo mundo está encarando os meus peitos... Tomara que não estejam tirando sarro deles...){/i}"
 
 # game/scripts/ash_events.rpy:9050
 translate pt_br ashcafetop_0ae26e85:
 
     # a "H-Hi... excuse me... don't mind me..."
-    a ""
+    a "O-Oi... com licença... não ligue para mim..."
 
 # game/scripts/ash_events.rpy:9051
 translate pt_br ashcafetop_09954309:
 
     # by "She's kinda cute..."
-    by ""
+    by "Ela até que é fofa..."
 
 # game/scripts/ash_events.rpy:9052
 translate pt_br ashcafetop_bebacfaf:
 
     # a "{i}(*gasp*! Someone thinks I'm cute!){/i}"
-    a ""
+    a "{i}(*ah*! Alguém acha que eu sou fofa!){/i}"
 
 # game/scripts/ash_events.rpy:9054
 translate pt_br ashcafetop_28f140f9:
 
     # a "H-Hello, ummm..."
-    a ""
+    a "O-Olá, hummm..."
 
 # game/scripts/ash_events.rpy:9055
 translate pt_br ashcafetop_c0ae940c:
 
     # ha "Hello..."
-    ha ""
+    ha "Olá..."
 
 # game/scripts/ash_events.rpy:9056
 translate pt_br ashcafetop_acb4aeb7:
 
     # a "Can I have... two cappuccinos... please?"
-    a ""
+    a "Eu vou querer... dois cappuccinos... por favor?"
 
 # game/scripts/ash_events.rpy:9057
 translate pt_br ashcafetop_69fd997b:
 
     # ha "*sigh*... one moment please..."
-    ha ""
+    ha "*uff*... um momento por favor..."
 
 # game/scripts/ash_events.rpy:9058
 translate pt_br ashcafetop_52a7d0d8:
 
     # a "Thank you..."
-    a ""
+    a "Obrigada.."
 
 # game/scripts/ash_events.rpy:9060
 translate pt_br ashcafetop_53b79c8e:
 
     # a "{i}(This is so embarrassing... I hope no one from school notices me... they'll never stop laughing...){/i}"
-    a ""
+    a "{I}(Isso é tão constrangedor... Eu espero que ninguém da escola me veja... eles nunca parariam de rir disso...){/i}"
 
 # game/scripts/ash_events.rpy:9061
 translate pt_br ashcafetop_d49784a7:
 
     # a "Nnngh... come on, hurry up...!"
-    a ""
+    a "Nnngh... vamos lá, vai logo...!"
 
 # game/scripts/ash_events.rpy:9063
 translate pt_br ashcafetop_8fcbe0fc:
 
     # c "She's handling it well..."
-    c ""
+    c "Ela está lidando bem com a situação..."
 
 # game/scripts/ash_events.rpy:9065
 translate pt_br ashcafetop_4c5254bf:
 
     # a "{i}H-Hey [name]...!{/i}"
-    a ""
+    a "{i}E-Ei [name]...!{/i}"
 
 # game/scripts/ash_events.rpy:9067
 translate pt_br ashcafetop_c86e8e9a:
 
     # ha "Here's your drink... {size=-10}{i}slut...{/i}{/size}"
-    ha ""
+    ha "Aqui está a sua bebida... {size=-10}{i}vadia...{/i}{/size}"
 
 # game/scripts/ash_events.rpy:9068
 translate pt_br ashcafetop_4833674e:
 
     # a "T-Thank you..."
-    a ""
+    a "O-Obrigada..."
 
 # game/scripts/ash_events.rpy:9070
 translate pt_br ashcafetop_9630c2b6:
 
     # a "Here you go, [name]..."
-    a ""
+    a "Aqui está, [name]..."
 
 # game/scripts/ash_events.rpy:9071
 translate pt_br ashcafetop_825edbc3:
 
     # c "Good job, I'm impressed."
-    c ""
+    c "Bom trabalho, fiquei impressionado."
 
 # game/scripts/ash_events.rpy:9072
 translate pt_br ashcafetop_9d117ea2:
 
     # a "Hehe~ heh... my heart is pounding...!"
-    a ""
+    a "Hehe~ heh... meu coração está batendo forte...!"
 
 # game/scripts/ash_events.rpy:9152
 translate pt_br ash_footjob_repeatable_dea098d4:
 
     # a "Hehe~ you like my feet, don't you~?"
-    a ""
+    a "Hehe~ você gosta dos meus pés, não gosta~?"
 
 # game/scripts/ash_events.rpy:9153
 translate pt_br ash_footjob_repeatable_7572146a:
 
     # a "Mmmh, your cock is so big... ah, it's making me wet...!"
-    a ""
+    a "Mmmh, o seu pau é tão grande... ah, está me deixando toda molhada...!"
 
 # game/scripts/ash_events.rpy:9154
 translate pt_br ash_footjob_repeatable_c104dba9:
 
     # a "Nnnh, I won't stop, just sit back and enjoy~"
-    a ""
+    a "Nnnnh, eu não vou parar, só sente e desfrute~"
 
 # game/scripts/ash_events.rpy:9157
 translate pt_br ash_footjob_repeatable_082a8a06:
 
     # a "Your cock is throbbing so much, mmmh~! You're just making my pussy wetter..."
-    a ""
+    a "O seu pau está latejando tanto, mmmh~! Você está apenas deixando a minha boceta mais molhada..."
 
 # game/scripts/ash_events.rpy:9158
 translate pt_br ash_footjob_repeatable_6fe8ea35:
 
     # a "Nnnh, I want you to cum for me, [name]! Mmmmh~ I want to see your love!"
-    a ""
+    a "Nnnh, eu quero que você goze por mim, [name]! Mmmmh~ eu quero ver o seu amor!"
 
 # game/scripts/ash_events.rpy:9159
 translate pt_br ash_footjob_repeatable_ba772414:
 
     # a "Yes, yes...! Mmmh...! Do it...!"
-    a ""
+    a "Isso, isso...! Mmmh...! Faça isso...!"
 
 # game/scripts/ash_events.rpy:9161
 translate pt_br ash_footjob_repeatable_addf6644:
 
     # a "Aaah~! Yes!" with ssshake
-    a "" with ssshake
+    a "Aaah~! Isso!" with ssshake
 
 # game/scripts/ash_events.rpy:9164
 translate pt_br ash_footjob_repeatable_479ff1d0:
 
     # a "Hehe~ you came all over yourself... I hope you enjoyed~"
-    a ""
+    a "Hehe~ você gozou em si mesmo... Espero que tenha gostado~"
 
 # game/scripts/ash_events.rpy:9180
 translate pt_br ash_prefj_cce2e6ad:
