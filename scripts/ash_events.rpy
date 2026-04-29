@@ -29793,265 +29793,265 @@ translate pt_br ash_footjob_repeatable_479ff1d0:
 translate pt_br ash_prefj_cce2e6ad:
 
     # c "Hey Ash.\n...Is everything okay?"
-    c ""
+    c "Ei Ash.\n...Está tudo bem?"
 
 # game/scripts/ash_events.rpy:9181
 translate pt_br ash_prefj_afe809af:
 
     # a "*sigh*... it's nothing."
-    a ""
+    a "*uff*... não é nada."
 
 # game/scripts/ash_events.rpy:9182
 translate pt_br ash_prefj_21e70409:
 
     # c "It doesn't sound like nothing."
-    c ""
+    c "Não parece ser nada."
 
 # game/scripts/ash_events.rpy:9184
 translate pt_br ash_prefj_ff5d783e:
 
     # a "...I didn't think I would care so much about being suspended..."
-    a ""
+    a "...Eu não pensei que me importaria tanto por estar suspensa..."
 
 # game/scripts/ash_events.rpy:9185
 translate pt_br ash_prefj_b755118a:
 
     # a "I've always hated school, no matter what grade I was in. At first I was excited to make friends, but..."
-    a ""
+    a "Eu sempre odiei a escola, não importa em que série eu estivesse. No começo eu estava animada para fazer amigos, mas..."
 
 # game/scripts/ash_events.rpy:9187
 translate pt_br ash_prefj_854e807b:
 
     # a "*sigh*... it's those two... it's always been those two..."
-    a ""
+    a "*uff*... são aquelas duas... sempre foram aquelas duas..."
 
 # game/scripts/ash_events.rpy:9188
 translate pt_br ash_prefj_feb66b00:
 
     # c "Felicity and Emma? The cheerleaders?"
-    c ""
+    c "A Felicity e a Emma? As líderes de torcida?"
 
 # game/scripts/ash_events.rpy:9189
 translate pt_br ash_prefj_f8037107:
 
     # a "Yep... there was a point in time I wanted to be their friend, but that was a long time ago... I don't know why they hate me so much..."
-    a ""
+    a "Isso... houve um tempo em que eu queria ser amiga delas, mas isso foi há muito tempo... Eu não sei por que elas me odeiam tanto..."
 
 # game/scripts/ash_events.rpy:9190
 translate pt_br ash_prefj_a5d45d77:
 
     # c "It wouldn't surprise me if they were having troubles at home."
-    c ""
+    c "Eu não ficaria surpresa se elas estivessem tendo problemas em casa."
 
 # game/scripts/ash_events.rpy:9191
 translate pt_br ash_prefj_75baad87:
 
     # a "What troubles could they possibly have? They're the richest girls at my school, and I'm probably the poorest..."
-    a ""
+    a "Quais problemas elas poderiam ter? Elas são as garotas mais ricas da minha escola, e eu provavelmente sou a mais pobre..."
 
 # game/scripts/ash_events.rpy:9192
 translate pt_br ash_prefj_977f5f3f:
 
     # a "*sigh*... and now I'm going to fall behind on school work... I'll probably fail at my only chance at catching up in life..."
-    a ""
+    a "*uff*... e agora eu vou ficar para trás no trabalho escolar... Eu provavelmente vou falhar na minha única chance de me recuperar na vida..."
 
 # game/scripts/ash_events.rpy:9193
 translate pt_br ash_prefj_6fb954a2:
 
     # c "You can always catch up. Do you have any friends that can help you?"
-    c ""
+    c "Você sempre pode se recuperar. Você tem algum amigo que possa te ajudar?"
 
 # game/scripts/ash_events.rpy:9194
 translate pt_br ash_prefj_c5a01e01:
 
     # a "No... not really."
-    a ""
+    a "Não... na verdade não."
 
 # game/scripts/ash_events.rpy:9195
 translate pt_br ash_prefj_cf7e8969:
 
     # a "I already can't afford to live here, so I'll probably be homeless for the rest of my life once you decide you're tired of me..."
-    a ""
+    a "Eu já não posso pagar para viver aqui, então provavelmente vou ser sem-teto pelo resto da minha vida quando você decidir que está cansado de mim..."
 
 # game/scripts/ash_events.rpy:9197
 translate pt_br ash_prefj_ab3fe857:
 
     # c "I won't get tired of you, Ashley, I'm here for you."
-    c ""
+    c "Eu não vou me cansar de você, Ashley, eu estou aqui para você."
 
 # game/scripts/ash_events.rpy:9198
 translate pt_br ash_prefj_751b60e2:
 
     # a "That's what they all say. I already know you're seeing other girls..."
-    a ""
+    a "É isso o que todo mundo diz. Eu já sei que você está vendo outras garotas..."
 
 # game/scripts/ash_events.rpy:9199
 translate pt_br ash_prefj_e48f148f:
 
     # c "Then you know how much I still care about you. Nothing has changed, I'll always want you to be happy."
-    c ""
+    c "Então você sabe o quanto eu ainda me importo com você. Nada mudou, eu sempre quero que você seja feliz."
 
 # game/scripts/ash_events.rpy:9201
 translate pt_br ash_prefj_9b84f070:
 
     # a "Yeah, you're right... you've done more for me than my parents ever have..."
-    a ""
+    a "É, você está certo... você fez mais por mim do que meus pais jamais fizeram..."
 
 # game/scripts/ash_events.rpy:9202
 translate pt_br ash_prefj_ba2cf743:
 
     # a "I just feel so useless sometimes. Even when I try to look at my future, it doesn't look like I'll be anything but a dead-beat like my father... I might as well get a head start on alcoholism..."
-    a ""
+    a "É que eu me sinto tão inútil às vezes. Mesmo quando tento olhar para o meu futuro, não parece que vou ser nada além de um vagabundo como meu pai... Eu poderia muito bem começar a beber desde já..."
 
 # game/scripts/ash_events.rpy:9203
 translate pt_br ash_prefj_2bfcf3eb:
 
     # c "You don't have to follow the same path your parents have, we all get to carve out our destiny."
-    c ""
+    c "Você não precisa seguir o mesmo caminho que seus pais, todos nós podemos esculpir nosso destino."
 
 # game/scripts/ash_events.rpy:9204
 translate pt_br ash_prefj_26db6447:
 
     # a "Unless you're a Gaianist... those people think your destiny is carved out for you."
-    a ""
+    a "A menos que você seja um Gaianista... essas pessoas acham que seu destino é esculpido para você."
 
 # game/scripts/ash_events.rpy:9205
 translate pt_br ash_prefj_4ce77e5e:
 
     # c "Hm?"
-    c ""
+    c "Hein?"
 
 # game/scripts/ash_events.rpy:9206
 translate pt_br ash_prefj_3badcaaa:
 
     # a "Forget it, I just don't know where my life is going... all I know is, it's not going where I want it to..."
-    a ""
+    a "Esquece, eu só não sei para onde minha vida está indo... tudo o que eu sei é que não está indo para onde eu quero que vá..."
 
 # game/scripts/ash_events.rpy:9207
 translate pt_br ash_prefj_6babe384:
 
     # c "Maybe you should pick up a hobby. Like painting, or music?"
-    c ""
+    c "Talvez você devesse arrumar um hobby. Tipo pintura, ou música?"
 
 # game/scripts/ash_events.rpy:9209
 translate pt_br ash_prefj_24c08940:
 
     # a "*gasp*!"
-    a ""
+    a "*ah*!"
 
 # game/scripts/ash_events.rpy:9211
 translate pt_br ash_prefj_2a151f63:
 
     # a "Let me give you a footjob!" with ssshake
-    a "" with ssshake
+    a "Me deixa te dar uma penheta!" with ssshake
 
 # game/scripts/ash_events.rpy:9212
 translate pt_br ash_prefj_b4365b53:
 
     # c "I'm sorry, what?"
-    c ""
+    c "Desculpa, o que?"
 
 # game/scripts/ash_events.rpy:9213
 translate pt_br ash_prefj_9206e7b5:
 
     # a "A footjob! I've always wanted to give someone a footjob!"
-    a ""
+    a "Uma penheta! Eu sempre quis dar uma penheta em alguém!"
 
 # game/scripts/ash_events.rpy:9214
 translate pt_br ash_prefj_57056456:
 
     # c "That wasn't the kind of hobby I was talking about..."
-    c ""
+    c "Isso não era o tipo de hobby que eu estava falando..."
 
 # game/scripts/ash_events.rpy:9215
 translate pt_br ash_prefj_14a78762:
 
     # a "But it's something I can get better at, and something that will make you happy! Right? Come on, let's do it! Sex is a great hobby! It keeps you physically fit, too!"
-    a ""
+    a "Mas é algo que eu posso melhorar, e algo que vai te deixar feliz! Certo? Vamos lá, vamos fazer isso! Sexo é um ótimo hobby! Ele também te mantém em forma fisicamente!"
 
 # game/scripts/ash_events.rpy:9216
 translate pt_br ash_prefj_3717aeef:
 
     # a "I don't want you to feel like I'm just taking and taking, either! I want to make you happy!"
-    a ""
+    a "Eu não quero que você sinta que eu estou apenas pegando e pegando, também! Eu quero te fazer feliz!"
 
 # game/scripts/ash_events.rpy:9217
 translate pt_br ash_prefj_8e9b1461:
 
     # c "Ashley, that's..."
-    c ""
+    c "Ashley, isso é..."
 
 # game/scripts/ash_events.rpy:9219
 translate pt_br ash_prefj_c672c25e:
 
     # a "I thought you cared about me..."
-    a ""
+    a "Eu pensei que você se importasse comigo..."
 
 # game/scripts/ash_events.rpy:9220
 translate pt_br ash_prefj_25c9a0c5:
 
     # c "I do, but..."
-    c ""
+    c "Eu me importo, mas..."
 
 # game/scripts/ash_events.rpy:9222
 translate pt_br ash_prefj_ad46f433:
 
     # a "I've got to do {i}something{/i} with all this time on my hands, and I really want to see if I can make you cum! Hehe~"
-    a ""
+    a "Eu tenho que fazer {i}algo{/i} com todo esse tempo livre, e eu realmente quero ver se consigo te fazer gozar! Hehe~"
 
 # game/scripts/ash_events.rpy:9223
 translate pt_br ash_prefj_0a869f2a:
 
     # a "Come on, let me make you happy! Please? Pleeeease?"
-    a ""
+    a "Vamos lá, me deixa te fazer feliz! Por favor? Por favooor?"
 
 # game/scripts/ash_events.rpy:9226
 translate pt_br ash_prefj_3fd74bcd:
 
     # a "Good! Okay, I'll get ready, you just lay on the floor!"
-    a ""
+    a "Boa! Beleza, eu vou me preparar, você só deita no chão!"
 
 # game/scripts/ash_events.rpy:9230
 translate pt_br ash_prefj_ab6d4f0d:
 
     # a "Hehe~ how is that? Not bad, right? I've watched a few videos, so I think I know what I'm doing..."
-    a ""
+    a "Hehe~ como está? Nada mal, né? Eu assisti alguns vídeos, então acho que sei o que estou fazendo..."
 
 # game/scripts/ash_events.rpy:9231
 translate pt_br ash_prefj_75d33626:
 
     # a "You know... you don't really need to play around with those other girls so much. I'm all yours! And I want you to be all mine..."
-    a ""
+    a "Sabe... você não precisa brincar tanto com aquelas outras garotas. Eu sou toda sua! E eu quero que você seja todo meu..."
 
 # game/scripts/ash_events.rpy:9233
 translate pt_br ash_prefj_e21ee922:
 
     # a "Like Kali... she told me all about how you made her cum."
-    a ""
+    a "Tipo a Kali... ela me contou tudo sobre como você a fez gozar."
 
 # game/scripts/ash_events.rpy:9234
 translate pt_br ash_prefj_95adefe1:
 
     # a "Who wants to be with someone who doesn't even understand their own body? She can't even get herself off... boring!"
-    a ""
+    a "Quem quer estar com alguém que nem entende o próprio corpo? Ela nem consegue se masturbar... chata!"
 
 # game/scripts/ash_events.rpy:9236
 translate pt_br ash_prefj_1fc0ef01:
 
     # a "I heard you fucked Lin in the ass too... apparently that's her kink."
-    a ""
+    a "Eu ouvi falar que você fodeu o cú da Lin também... aparentemente essa é a tara dela."
 
 # game/scripts/ash_events.rpy:9237
 translate pt_br ash_prefj_f5a00973:
 
     # a "Her ass is gross though! My pussy is always clean, and wet too! So you can fuck me whenever you want!"
-    a ""
+    a "Mas a bunda dela é nojenta! A minha boceta está sempre limpa, e molhada também! Então você pode foder ela sempre que você quiser!"
 
 # game/scripts/ash_events.rpy:9239
 translate pt_br ash_prefj_0ce856dd:
 
     # a "I heard Maria gave you a blowjob as well... she really likes sucking cock. So much so that she might just bite yours off to keep it!"
-    a ""
+    a "Eu também soube que a Maria te deu um boqueta... ela realmente gosta de chupar paus. Tanto que ela poderia morder o seu e arrancar fora para guardar para ela!"
 
 # game/scripts/ash_events.rpy:9240
 translate pt_br ash_prefj_afaa20c9:

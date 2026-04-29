@@ -15769,7 +15769,7 @@ translate pt_br purpbun_sex_f44f538b:
 translate pt_br purpbun_sex_d23ead1c:
 
     # pbun "Fuck, fuck!! Ah, you like that pussy, don't you? Mmmmh~ Yeah, it's all yours baby~"
-    pbun "Porra, porra!! Ah, você gosta dessa boceta, não gosta? Mmmmh~ela é toda sua bebê~"
+    pbun "Porra, porra!! Ah, você gosta dessa boceta, não gosta? Mmmmh~ Sim, ela é toda sua, bebê~"
 
 # game/script.rpy:9576
 translate pt_br purpbun_sex_d4faebe8:
