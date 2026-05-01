@@ -30051,637 +30051,637 @@ translate pt_br ash_prefj_f5a00973:
 translate pt_br ash_prefj_0ce856dd:
 
     # a "I heard Maria gave you a blowjob as well... she really likes sucking cock. So much so that she might just bite yours off to keep it!"
-    a "Eu também soube que a Maria te deu um boqueta... ela realmente gosta de chupar paus. Tanto que ela poderia morder o seu e arrancar fora para guardar para ela!"
+    a "Eu também soube que a Maria te deu um boquete... ela realmente gosta de chupar paus. Tanto que ela poderia morder o seu e arrancar fora para guardar para ela!"
 
 # game/scripts/ash_events.rpy:9240
 translate pt_br ash_prefj_afaa20c9:
 
     # a "That's right... I would never do that! I might not be able to go as deep as her, but I'm probably better, right?"
-    a ""
+    a "Foi mesmo... Eu nunca faria isso! Eu talvez não consiga ir tão fundo quanto ela, mas provavelmente sou melhor, não?"
 
 # game/scripts/ash_events.rpy:9241
 translate pt_br ash_prefj_54a174bd:
 
     # c "Ashley..."
-    c ""
+    c "Ashley..."
 
 # game/scripts/ash_events.rpy:9242
 translate pt_br ash_prefj_ca5bfc09:
 
     # a "What? Hehe~ are you getting close?"
-    a ""
+    a "O que? Hehe~ você está quase lá?"
 
 # game/scripts/ash_events.rpy:9245
 translate pt_br ash_prefj_57c790cb:
 
     # a "I bet you really want to fuck my tight pussy now, don't you? I bet it's the tightest in the whole hotel!"
-    a ""
+    a "Eu aposto que você quer muito foder a minha boceta apertada agora, não quer? Eu aposto que é a mais apertada de todo o hotel!"
 
 # game/scripts/ash_events.rpy:9247
 translate pt_br ash_prefj_e13f1197:
 
     # a "Lin's pussy must be getting old and saggy by now... how is she? 300-something, right? Pfft..."
-    a ""
+    a "A bunda da Lin deve estar ficando velha e caída agora... quantos anos ela tem? 300- e alguma coisa, né? Pfft..."
 
 # game/scripts/ash_events.rpy:9248
 translate pt_br ash_prefj_a2833a8a:
 
     # a "We might be the same size, but she's no competition, I'm sure."
-    a ""
+    a "Nós podemos ter o mesmo tamanho, mas ela não é competição, tenho certeza."
 
 # game/scripts/ash_events.rpy:9249
 translate pt_br ash_prefj_96690ea3:
 
     # a "How am I doing? Heheh, I'm pretty good, right?"
-    a ""
+    a "Como eu estou indo? Heheh, eu sou muito boa nisso, né?"
 
 # game/scripts/ash_events.rpy:9250
 translate pt_br ash_prefj_6925c5ab:
 
     # a "Nnnh, cum for me, cum for me~! Mmmmh~ show me how good I am, I want to see your love!"
-    a ""
+    a "Nnnh, goza pra mim, goza pra mim~! Mmmmh~ me mostra como eu sou boa, eu quero ver o seu amor!"
 
 # game/scripts/ash_events.rpy:9251
 translate pt_br ash_prefj_550a3d68:
 
     # a "Haaah! [name], [name]~! Nnnnmh! That's it! I can feel you throbbing so much! Cum! Cum, cum, cum!"
-    a ""
+    a "Haaah! [name], [name]~! Nnnnmh! Isso, eu posso sentir você latejando tanto! Goza! Goza, goza, goza!"
 
 # game/scripts/ash_events.rpy:9253
 translate pt_br ash_prefj_bfa82db7:
 
     # a "Aaah~! Wow!" with ssshake
-    a "" with ssshake
+    a "Aaah~! Uau!" with ssshake
 
 # game/scripts/ash_events.rpy:9255
 translate pt_br ash_prefj_465d282f:
 
     # a "Hehe~ you came all over yourself... go clean yourself off!"
-    a ""
+    a "Hehe~ você gozou em si mesmo... vá se limpar!    "
 
 # game/scripts/ash_events.rpy:9256
 translate pt_br ash_prefj_5a7fa249:
 
     # c "Sounds like someone is feeling better..."
-    c ""
+    c "Parece que alguém está se sentindo melhor..."
 
 # game/scripts/ash_events.rpy:9257
 translate pt_br ash_prefj_ba05dd4d:
 
     # a "When you're happy, I'm happy~"
-    a ""
+    a "Quando você está feliz, eu também estou feliz~   "
 
 # game/scripts/ash_events.rpy:9262
 translate pt_br ash_prefj_c8dc97b1:
 
     # "You've unlocked footjobs in Ashley's room!"
-    ""
+    "Você desbloqueou penhetas no quarto da Ashley!"
 
 # game/scripts/ash_events.rpy:9265
 translate pt_br ash_prefj_a8060142:
 
     # a "Seriously? *sigh*..."
-    a ""
+    a "Sério? *uff*..."
 
 # game/scripts/ash_events.rpy:9268
 translate pt_br ash_prefj_1f8fc9d1:
 
     # a "Then fuck me! Come on, you know I'm better at it than everyone else here..."
-    a ""
+    a "Então me fode! Vem cá, você sabe que sou melhor nisso que todas as outras aqui..."
 
 # game/scripts/ash_events.rpy:9271
 translate pt_br ash_prefj_e4edc38c:
 
     # a "Hehe~ yes! We'll practice sex every day until I'm unsuspended!"
-    a ""
+    a "Hehe~ sim! Vamos praticar sexo todos os dias até eu ser liberada da suspensão!"
 
 # game/scripts/ash_events.rpy:9276
 translate pt_br ash_prefj_87ea5f72:
 
     # a "What...? *sigh*, whatever..."
-    a ""
+    a "O que...? *uff*, whatever..."
 
 # game/scripts/ash_events.rpy:9284
 translate pt_br ashleyschool_dae52952:
 
     # c "I should head back to the hotel..."
-    c ""
+    c "Eu deveria voltar para o hotel..."
 
 # game/scripts/ash_events.rpy:9287
 translate pt_br ashleyschool_6926bdab:
 
     # "You look into Ashley's classroom, and notice no one is there... You hear the showers running at the end of the hallway. You must have come a little earlier than you expected."
-    ""
+    "Você olha para a sala de aula da Ashley, e percebe que não tem ninguém lá... Você ouve os chuveiros correndo no final do corredor. Você deve ter chegado um pouco mais cedo do que esperava."
 
 # game/scripts/ash_events.rpy:9291
 translate pt_br ashleyschool_a3f51afb:
 
     # "As you're heading into Ashley's classroom, you see a girl undressing in a room at the end of the hallway. Moments later, the door closes..."
-    ""
+    "Enquanto você está indo para a sala de aula da Ashley, você vê uma garota se despindo em um quarto no final do corredor. Momentos depois, a porta se fecha..."
 
 # game/scripts/ash_events.rpy:9293
 translate pt_br ashleyschool_72b929c7:
 
     # "As you're heading into Ashley's classroom, you see Kate undressing in a room at the end of the hallway. Moments later, the door closes..."
-    ""
+    "Enquanto você está indo para a sala de aula da Ashley, você vê Kate se despindo em um quarto no final do corredor. Momentos depois, a porta se fecha..."
 
 # game/scripts/ash_events.rpy:9324
 translate pt_br ashleyschool_b49061a0:
 
     # q "Um, hello..."
-    q ""
+    q "Hum, olá..."
 
 # game/scripts/ash_events.rpy:9327
 translate pt_br ashleyschool_9d8baff7:
 
     # got "Oh, hey [name]..."
-    got ""
+    got "Ah, ei [name]..."
 
 # game/scripts/ash_events.rpy:9347
 translate pt_br ashleyschool_e920eefa:
 
     # a "Back at school!"
-    a ""
+    a "De volta à escola!"
 
 # game/scripts/ash_events.rpy:9348
 translate pt_br ashleyschool_c5115597:
 
     # c "You doing alright?"
-    c ""
+    c "Você está bem?"
 
 # game/scripts/ash_events.rpy:9349
 translate pt_br ashleyschool_a6be5e3c:
 
     # a "Of course!"
-    a ""
+    a "Claro!"
 
 # game/scripts/ash_events.rpy:9351
 translate pt_br ashleyschool_ab6d79f7:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Eiii [name]! O que tá rolando?"
 
 # game/scripts/ash_events.rpy:9352
 translate pt_br ashleyschool_a0d84e93:
 
     # c "I just came to see how you were."
-    c ""
+    c "Eu só vim ver como você estava."
 
 # game/scripts/ash_events.rpy:9353
 translate pt_br ashleyschool_45f11932:
 
     # a "Aww, you're such a good boyfriend!"
-    a ""
+    a "Ownt, você é um namorado tão bom!"
 
 # game/scripts/ash_events.rpy:9355
 translate pt_br ashleyschool_7995cc5e:
 
     # a "Don't worry about me, [name]. All of this is easy now!"
-    a ""
+    a "Não se preocupe comigo, [name]. Tudo isso é fácil agora!"
 
 # game/scripts/ash_events.rpy:9357
 translate pt_br ashleyschool_cc9c3060:
 
     # a "Hey [name]! What's up?"
-    a ""
+    a "Eiii [name]! O que tá rolando?"
 
 # game/scripts/ash_events.rpy:9358
 translate pt_br ashleyschool_ed47313e:
 
     # c "I just came to check on you."
-    c ""
+    c "Eu só vim ver como você estava."
 
 # game/scripts/ash_events.rpy:9359
 translate pt_br ashleyschool_325f53d0:
 
     # a "Aww, you're so sweet!"
-    a ""
+    a "Ownt, você é tão doce!"
 
 # game/scripts/ash_events.rpy:9368
 translate pt_br ashleyschool_77d311c2:
 
     # f "Hey~ thanks for checking up [name]!"
-    f ""
+    f "Ei~ obrigado por se preocupar [name]!"
 
 # game/scripts/ash_events.rpy:9370
 translate pt_br ashleyschool_862f8102:
 
     # em "Hey! We're not causing any trouble, promise."
-    em ""
+    em "Ei! Não estamos causando nenhum problema, prometo."
 
 # game/scripts/ash_events.rpy:9389
 translate pt_br ashleyschool_b49061a0_1:
 
     # q "Um, hello..."
-    q ""
+    q "Hum, olá..."
 
 # game/scripts/ash_events.rpy:9392
 translate pt_br ashleyschool_9d8baff7_1:
 
     # got "Oh, hey [name]..."
-    got ""
+    got "Ah, ei [name]..."
 
 # game/scripts/ash_events.rpy:9413
 translate pt_br ashleyschool_e920eefa_1:
 
     # a "Back at school!"
-    a ""
+    a "De volta à escola!"
 
 # game/scripts/ash_events.rpy:9414
 translate pt_br ashleyschool_c5115597_1:
 
     # c "You doing alright?"
-    c ""
+    c "Você está bem?"
 
 # game/scripts/ash_events.rpy:9415
 translate pt_br ashleyschool_a6be5e3c_1:
 
     # a "Of course!"
-    a ""
+    a "Claro!"
 
 # game/scripts/ash_events.rpy:9417
 translate pt_br ashleyschool_ab6d79f7_1:
 
     # a "Heeey [name]! What's up?"
-    a ""
+    a "Eiii [name]! O que tá rolando?"
 
 # game/scripts/ash_events.rpy:9418
 translate pt_br ashleyschool_a0d84e93_1:
 
     # c "I just came to see how you were."
-    c ""
+    c "Eu só vim ver como você estava."
 
 # game/scripts/ash_events.rpy:9419
 translate pt_br ashleyschool_45f11932_1:
 
     # a "Aww, you're such a good boyfriend!"
-    a ""
+    a "Aww, você é um namorado tão bom!"
 
 # game/scripts/ash_events.rpy:9421
 translate pt_br ashleyschool_7995cc5e_1:
 
     # a "Don't worry about me, [name]. All of this is easy now!"
-    a ""
+    a "Não se preocupe comigo, [name]. Tudo isso é fácil agora!"
 
 # game/scripts/ash_events.rpy:9423
 translate pt_br ashleyschool_cc9c3060_1:
 
     # a "Hey [name]! What's up?"
-    a ""
+    a "Eiii [name]! O que tá rolando?"
 
 # game/scripts/ash_events.rpy:9424
 translate pt_br ashleyschool_ed47313e_1:
 
     # c "I just came to check on you."
-    c ""
+    c "Eu só vim ver como você estava."
 
 # game/scripts/ash_events.rpy:9425
 translate pt_br ashleyschool_325f53d0_1:
 
     # a "Aww, you're so sweet!"
-    a ""
+    a "Ownt, você é tão doce!"
 
 # game/scripts/ash_events.rpy:9433
 translate pt_br katetalking_f9ab28dc:
 
     # kate "Good evening, [name]."
-    kate ""
+    kate "Boa noite, [name]."
 
 # game/scripts/ash_events.rpy:9438
 translate pt_br katetalk_2b408b2a:
 
     # kate "I'm fine... at the moment I'm attempting to enjoy the free time I have."
-    kate ""
+    kate "Estou bem... no momento estou tentando aproveitar o tempo livre que tenho."
 
 # game/scripts/ash_events.rpy:9441
 translate pt_br katetalk_ce59d923:
 
     # kate "Why do you ask? Is there something wrong with you?"
-    kate ""
+    kate "Por que você pergunta? Tem algo errado com você?"
 
 # game/scripts/ash_events.rpy:9442
 translate pt_br katetalk_92b0bfad:
 
     # c "Just trying to make small talk."
-    c ""
+    c "Só tentando conversar um pouco."
 
 # game/scripts/ash_events.rpy:9443
 translate pt_br katetalk_a5d456a7:
 
     # kate "Oh, um... I'm fine."
-    kate ""
+    kate "Ah, hum... Estou bem."
 
 # game/scripts/ash_events.rpy:9446
 translate pt_br katetalk_58e4c647:
 
     # kate "Ashley could be... less annoying. But who isn't annoying these days..."
-    kate ""
+    kate "A Ashley poderia ser... menos irritante. Mas quem não é irritante hoje em dia..."
 
 # game/scripts/ash_events.rpy:9450
 translate pt_br katetalk_7aca335d:
 
     # kate "Fun? Oh, you're requesting another footjob..."
-    kate ""
+    kate "Diversão? Oh, você está pedindo outra penheta..."
 
 # game/scripts/ash_events.rpy:9451
 translate pt_br katetalk_2857c467:
 
     # kate "Well, I suppose repetition is a whetstone for the mind. Very well, let's begin. You again only have two minutes... starting now."
-    kate ""
+    kate "Bem, eu suponho que a repetição é uma pedra de amolar para a mente. Muito bem, vamos começar. Você novamente só tem dois minutos... começando agora."
 
 # game/scripts/ash_events.rpy:9462
 translate pt_br katetalk_8959a1ce:
 
     # c "Who are you?"
-    c ""
+    c "Quem é você?"
 
 # game/scripts/ash_events.rpy:9463
 translate pt_br katetalk_adc9425b:
 
     # kate "Hm? I'm Kate."
-    kate ""
+    kate "Hm? Eu sou a Kate."
 
 # game/scripts/ash_events.rpy:9464
 translate pt_br katetalk_860cf38c:
 
     # kate "Who are you?"
-    kate ""
+    kate "Quem é você?"
 
 # game/scripts/ash_events.rpy:9465
 translate pt_br katetalk_0e5b3a10:
 
     # c "[name]."
-    c ""
+    c "[name]."
 
 # game/scripts/ash_events.rpy:9467
 translate pt_br katetalk_c23d78f4:
 
     # c "Hey Kate."
-    c ""
+    c "Ei, Kate."
 
 # game/scripts/ash_events.rpy:9468
 translate pt_br katetalk_5077cbb6:
 
     # kate "Do you have any reason for being at this college? You look a bit too old. Or did you just put college off until now?"
-    kate ""
+    kate "Você tem algum motivo para estar nesta faculdade? Você parece um pouco velho demais. Ou você apenas adiou a faculdade até agora?"
 
 # game/scripts/ash_events.rpy:9469
 translate pt_br katetalk_9065175e:
 
     # kate "It's best you learn while you're still young. Don't you agree?"
-    kate ""
+    kate "É melhor você aprender enquanto ainda é jovem. Você não acha?"
 
 # game/scripts/ash_events.rpy:9470
 translate pt_br katetalk_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Claro."
 
 # game/scripts/ash_events.rpy:9471
 translate pt_br katetalk_d3d9b247:
 
     # kate "That's good."
-    kate ""
+    kate "Isso é bom."
 
 # game/scripts/ash_events.rpy:9472
 translate pt_br katetalk_6e4800b6:
 
     # kate "Hmm... I'm curious, do you enjoy riddles? I enjoy testing people."
-    kate ""
+    kate "Hmm... Estou curiosa, você gosta de charadas? Eu gosto de testar as pessoas."
 
 # game/scripts/ash_events.rpy:9474
 translate pt_br katetalk_5e56488c:
 
     # kate "If at any point in time you become interested in having some fun, just let me know."
-    kate ""
+    kate "Se em algum momento você se interessar em ter um pouco de diversão, é só me avisar."
 
 # game/scripts/ash_events.rpy:9479
 translate pt_br katetalk_574fcb85:
 
     # kate "Riddle me this, [name]. What am I referring to?"
-    kate ""
+    kate "Me responda essa charada, [name]. Do que eu estou falando?"
 
 # game/scripts/ash_events.rpy:9480
 translate pt_br katetalk_5d0708b7:
 
     # kate "What is both massive, and small, at the same time?"
-    kate ""
+    kate "O que é tanto massivo quanto pequeno, ao mesmo tempo?"
 
 # game/scripts/ash_events.rpy:9482
 translate pt_br katetalk_a0adc54f:
 
     # kate "What is both massive, and small, at the same time?" nointeract
-    kate "" nointeract
+    kate "O que é tanto massivo quanto pequeno, ao mesmo tempo?" nointeract
 
 # game/scripts/ash_events.rpy:9486
 translate pt_br katetalk_39dc760a:
 
     # kate "Correct."
-    kate ""
+    kate "Correto."
 
 # game/scripts/ash_events.rpy:9487
 translate pt_br katetalk_1335b56f:
 
     # kate "A Black Hole's singularity is incredibly small, yet its mass is large."
-    kate ""
+    kate "A singularidade de um buraco negro é incrivelmente pequena, ainda assim sua massa é grande."
 
 # game/scripts/ash_events.rpy:9488
 translate pt_br katetalk_68b9f12f:
 
     # kate "So massive, that not even light can escape."
-    kate ""
+    kate "Tão massiva, que nem mesmo a luz consegue escapar."
 
 # game/scripts/ash_events.rpy:9490
 translate pt_br katetalk_4fa71bcb:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9493
 translate pt_br katetalk_906388b8:
 
     # kate "Love?"
-    kate ""
+    kate "Amor?"
 
 # game/scripts/ash_events.rpy:9494
 translate pt_br katetalk_0d206d31:
 
     # kate "Oh, You're joking. Nevermind then."
-    kate ""
+    kate "Oh, você está brincando. Tudo bem então."
 
 # game/scripts/ash_events.rpy:9498
 translate pt_br katetalk_0463d838:
 
     # kate "Riddle me this, [name]."
-    kate ""
+    kate "Me responda essa charada, [name]."
 
 # game/scripts/ash_events.rpy:9499
 translate pt_br katetalk_988ef550:
 
     # kate "I have a tail, and I have a head. But I have no body. What am I?"
-    kate ""
+    kate "Eu tenho uma cauda, e eu tenho uma cabeça. Mas eu não tenho um corpo. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9501
 translate pt_br katetalk_64cbe714:
 
     # kate "I have a tail, and I have a head. But I have no body. What am I?" nointeract
-    kate "" nointeract
+    kate "Eu tenho uma cauda, e eu tenho uma cabeça. Mas eu não tenho um corpo. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9503
 translate pt_br katetalk_3dd89a77:
 
     # kate "Not what I was looking for..."
-    kate ""
+    kate "Não é o que eu estava procurando..."
 
 # game/scripts/ash_events.rpy:9508
 translate pt_br katetalk_39dc760a_1:
 
     # kate "Correct."
-    kate ""
+    kate "Correto."
 
 # game/scripts/ash_events.rpy:9509
 translate pt_br katetalk_936e4eb3:
 
     # kate "With a head on one side, and a tail on the other, a coin is made."
-    kate ""
+    kate "Com uma cabeça em um lado e uma cauda no outro, uma moeda é feita."
 
 # game/scripts/ash_events.rpy:9511
 translate pt_br katetalk_f37a8442:
 
     # kate "Please take me seriously, [name]."
-    kate ""
+    kate "Por favor, leve-me a sério, [name]."
 
 # game/scripts/ash_events.rpy:9516
 translate pt_br katetalk_0463d838_1:
 
     # kate "Riddle me this, [name]."
-    kate ""
+    kate "Me responda essa charada, [name]."
 
 # game/scripts/ash_events.rpy:9517
 translate pt_br katetalk_1f1b0c8e:
 
     # kate "What knows every language, every tone, every song, and every meaning?"
-    kate ""
+    kate "O que conhece cada idioma, cada tom, cada música e cada significado?"
 
 # game/scripts/ash_events.rpy:9519
 translate pt_br katetalk_2c3cabb1:
 
     # kate "What knows every language, every tone, every song, and every meaning?" nointeract
-    kate "" nointeract
+    kate "O que conhece cada idioma, cada tom, cada música e cada significado?" nointeract
 
 # game/scripts/ash_events.rpy:9521
 translate pt_br katetalk_de1f0dd8:
 
     # kate "Not what I was looking for, [name]."
-    kate ""
+    kate "Não é o que eu estava procurando, [name]."
 
 # game/scripts/ash_events.rpy:9526
 translate pt_br katetalk_39dc760a_2:
 
     # kate "Correct."
-    kate ""
+    kate "Correto."
 
 # game/scripts/ash_events.rpy:9527
 translate pt_br katetalk_7ad2d85c:
 
     # kate "I don't think I need to explain my riddle here."
-    kate ""
+    kate "Não acho que precise explicar minha charada aqui."
 
 # game/scripts/ash_events.rpy:9529
 translate pt_br katetalk_2af97a9d:
 
     # kate "Wrong, [name]."
-    kate ""
+    kate "Errado, [name]."
 
 # game/scripts/ash_events.rpy:9532
 translate pt_br katetalk_31e5f3e8:
 
     # kate "Urgh, please."
-    kate ""
+    kate "Urgh, por favor."
 
 # game/scripts/ash_events.rpy:9537
 translate pt_br katetalk_0463d838_2:
 
     # kate "Riddle me this, [name]."
-    kate ""
+    kate "Me responda essa charada, [name]."
 
 # game/scripts/ash_events.rpy:9538
 translate pt_br katetalk_ff8357db:
 
     # kate "What room can never be entered?"
-    kate ""
+    kate "Qual cômodo nunca pode ser entrado?"
 
 # game/scripts/ash_events.rpy:9540
 translate pt_br katetalk_bf22e889:
 
     # kate "What room can never be entered?" nointeract
-    kate "" nointeract
+    kate "Qual cômodo nunca pode ser entrado?" nointeract
 
 # game/scripts/ash_events.rpy:9542
 translate pt_br katetalk_733f00b9:
 
     # kate "I'm not interested in talking about our feelings."
-    kate ""
+    kate "Eu não estou interessada em falar sobre nossos sentimentos."
 
 # game/scripts/ash_events.rpy:9545
 translate pt_br katetalk_4fa71bcb_1:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9548
 translate pt_br katetalk_633e298e:
 
     # kate "Was this a riddle, or a question, [name]? Wrong."
-    kate ""
+    kate "Isso era uma charada, ou uma pergunta, [name]? Errado."
 
 # game/scripts/ash_events.rpy:9553
 translate pt_br katetalk_39dc760a_3:
 
     # kate "Correct."
-    kate ""
+    kate "Correto."
 
 # game/scripts/ash_events.rpy:9554
 translate pt_br katetalk_a1ca0f2c:
 
     # c "...Was that a joke?"
-    c ""
+    c "...Isso era uma piada?"
 
 # game/scripts/ash_events.rpy:9555
 translate pt_br katetalk_3ee7233a:
 
     # kate "No, it was a riddle."
-    kate ""
+    kate "Não, era uma charada."
 
 # game/scripts/ash_events.rpy:9559
 translate pt_br katetalk_0463d838_3:
 
     # kate "Riddle me this, [name]."
-    kate ""
+    kate "Me responda essa charada, [name]."
 
 # game/scripts/ash_events.rpy:9560
 translate pt_br katetalk_101dc273:
 
     # kate "I can cross a river, but I cannot swim. I can cross a ravine, but I cannot fly. I can cross a road, but I cannot walk. What am I?"
-    kate ""
+    kate "Eu posso atravessar um rio, mas não posso nadar. Eu posso atravessar um desfiladeiro, mas não posso voar. Eu posso atravessar uma estrada, mas não posso andar. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9562
 translate pt_br katetalk_246e8569:
 
     # kate "I can cross a river, but I cannot swim. I can cross a ravine, but I cannot fly. I can cross a road, but I cannot walk. What am I?" nointeract
-    kate "" nointeract
+    kate "Eu posso atravessar um rio, mas não posso nadar. Eu posso atravessar um desfiladeiro, mas não posso voar. Eu posso atravessar uma estrada, mas não posso andar. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9566
 translate pt_br katetalk_8e770938:
 
     # kate "Correct. That one was pretty hard, I'm surprised you got it."
-    kate ""
+    kate "Correto. Essa foi bem difícil, fiquei surpresa que você acertou."
 
 # game/scripts/ash_events.rpy:9568
 translate pt_br katetalk_8e8b1a1d:
 
     # kate "Nope."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9571
 translate pt_br katetalk_4fa71bcb_2:
@@ -30693,1063 +30693,1063 @@ translate pt_br katetalk_4fa71bcb_2:
 translate pt_br katetalk_0463d838_4:
 
     # kate "Riddle me this, [name]."
-    kate ""
+    kate "Me responda essa charada, [name]."
 
 # game/scripts/ash_events.rpy:9577
 translate pt_br katetalk_079fba34:
 
     # kate "What moves everything around, but does not move?"
-    kate ""
+    kate "O que move tudo ao redor, mas não se move?"
 
 # game/scripts/ash_events.rpy:9579
 translate pt_br katetalk_b33bda12:
 
     # kate "What moves everything around, but does not move?" nointeract
-    kate "" nointeract
+    kate "O que move tudo ao redor, mas não se move?" nointeract
 
 # game/scripts/ash_events.rpy:9583
 translate pt_br katetalk_c0a96e27:
 
     # kate "Correct. If you walk next to a mirror, your perspective changes and you see different things. But the mirror itself does not move."
-    kate ""
+    kate "Correto. Se você andar ao lado de um espelho, sua perspectiva muda e você vê coisas diferentes. Mas o próprio espelho não se move."
 
 # game/scripts/ash_events.rpy:9585
 translate pt_br katetalk_60896b40:
 
     # kate "God is the easiest answer, but it's almost always the wrong one, [name]..."
-    kate ""
+    kate "Deus é a resposta mais fácil, mas quase sempre está errada, [name]..."
 
 # game/scripts/ash_events.rpy:9588
 translate pt_br katetalk_3e5822ef:
 
     # kate "A cogwheel moves... Wrong."
-    kate ""
+    kate "Uma engrenagem se move... Errado."
 
 # game/scripts/ash_events.rpy:9591
 translate pt_br katetalk_4fd329af:
 
     # kate "A wheel moves... Wrong."
-    kate ""
+    kate "Uma roda se move... Errado."
 
 # game/scripts/ash_events.rpy:9594
 translate pt_br katetalk_0bc5fb1c:
 
     # kate "Urgh, the sun rotates at 1.241 miles per second, and it moves 43,000 miles per hour."
-    kate ""
+    kate "Urgh, o sol gira a 1.241 milhas por segundo, e se move a 43.000 milhas por hora."
 
 # game/scripts/ash_events.rpy:9595
 translate pt_br katetalk_a0bbd60b:
 
     # kate "Does that sound stationary to you?"
-    kate ""
+    kate "Isso não soa estacionário para você?"
 
 # game/scripts/ash_events.rpy:9600
 translate pt_br katetalk_0463d838_5:
 
     # kate "Riddle me this, [name]."
-    kate ""
+    kate "Me responda essa charada, [name]."
 
 # game/scripts/ash_events.rpy:9601
 translate pt_br katetalk_71988fa1:
 
     # kate "What is something that fades over time but will always remain?"
-    kate ""
+    kate "O que é algo que desvanece com o tempo mas sempre permanece?"
 
 # game/scripts/ash_events.rpy:9603
 translate pt_br katetalk_ee556224:
 
     # kate "What is something that fades over time but will always remain?" nointeract
-    kate "" nointeract
+    kate "O que é algo que desvanece com o tempo mas sempre permanece?" nointeract
 
 # game/scripts/ash_events.rpy:9605
 translate pt_br katetalk_9b8c95e1:
 
     # kate "Not the answer I was looking for."
-    kate ""
+    kate "Não é a resposta que eu estava procurando."
 
 # game/scripts/ash_events.rpy:9608
 translate pt_br katetalk_8e8b1a1d_1:
 
     # kate "Nope."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9611
 translate pt_br katetalk_faa1d097:
 
     # kate "Stop playing games, [name]."
-    kate ""
+    kate "Pare de brincar, [name]."
 
 # game/scripts/ash_events.rpy:9612
 translate pt_br katetalk_998e3cc7:
 
     # c "Isn't this a game?"
-    c ""
+    c "Isso não é um jogo?"
 
 # game/scripts/ash_events.rpy:9613
 translate pt_br katetalk_bda95352:
 
     # kate "Which one?"
-    kate ""
+    kate "Qual jogo?"
 
 # game/scripts/ash_events.rpy:9616
 translate pt_br katetalk_9b8c95e1_1:
 
     # kate "Not the answer I was looking for."
-    kate ""
+    kate "Não é a resposta que eu estava procurando."
 
 # game/scripts/ash_events.rpy:9621
 translate pt_br katetalk_39dc760a_4:
 
     # kate "Correct."
-    kate ""
+    kate "Correto."
 
 # game/scripts/ash_events.rpy:9625
 translate pt_br katetalk_aafebf84:
 
     # kate "Next. This is one of my hardest ones. No cheating."
-    kate ""
+    kate "Próxima charada. Esta é uma das mais difíceis. Não trapaceie."
 
 # game/scripts/ash_events.rpy:9626
 translate pt_br katetalk_4d4e9dfa:
 
     # kate "What can be found at the beginning of eternity, the end of time and space, the beginning of every end, and the end of every place?"
-    kate ""
+    kate "O que pode ser encontrado no começo da eternidade, no fim do tempo e do espaço, no começo de cada fim, e no fim de cada lugar?"
 
 # game/scripts/ash_events.rpy:9633
 translate pt_br katetalk_d87ab811:
 
     # kate "Correct! I'm impressed."
-    kate ""
+    kate "Correto! Estou impressionada."
 
 # game/scripts/ash_events.rpy:9636
 translate pt_br katetalk_9982491b:
 
     # kate "Wrong. Come back to me when you think you have the answer."
-    kate ""
+    kate "Errado. Volte quando você achar a resposta."
 
 # game/scripts/ash_events.rpy:9640
 translate pt_br katetalk_6d9201ab:
 
     # kate "Next riddle... I come from a mine and am surrounded by wood. The people here use me often. What am I?"
-    kate ""
+    kate "Próxima charada... Eu venho de uma mina e sou cercado por madeira. As pessoas aqui me usam com frequência. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9642
 translate pt_br katetalk_b84c6d4f:
 
     # kate "I come from a mine and am surrounded by wood. The people here use me often. What am I?" nointeract
-    kate "" nointeract
+    kate "Eu venho de uma mina e sou cercado por madeira. As pessoas aqui me usam com frequência. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9644
 translate pt_br katetalk_f4a135e2:
 
     # kate "Wrong..."
-    kate ""
+    kate "Errado..."
 
 # game/scripts/ash_events.rpy:9647
 translate pt_br katetalk_315413b4:
 
     # kate "Were you listening?"
-    kate ""
+    kate "Você estava ouvindo?"
 
 # game/scripts/ash_events.rpy:9650
 translate pt_br katetalk_7cd99d48:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9655
 translate pt_br katetalk_40e2ed66:
 
     # kate "Correct! I am pencil lead."
-    kate ""
+    kate "Correto! Eu sou o grafite."
 
 # game/scripts/ash_events.rpy:9657
 translate pt_br katetalk_520e4816:
 
     # kate "That is not correct."
-    kate ""
+    kate "Isso não está correto."
 
 # game/scripts/ash_events.rpy:9662
 translate pt_br katetalk_49fd1395:
 
     # kate "Next riddle... You measure my life in hours and I serve you by expiring. I’m quick when I’m thin and slow when fat. What am I?"
-    kate ""
+    kate "Próxima charada... Você mede minha vida em horas e eu te sirvo expirando. Sou rápido quando sou fino e lento quando gordo. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9664
 translate pt_br katetalk_25c9e260:
 
     # kate "You measure my life in hours and I serve you by expiring. I’m quick when I’m thin and slow when fat. What am I?" nointeract
-    kate "" nointeract
+    kate "Você mede minha vida em horas e eu te sirvo expirando. Sou rápido quando sou fino e lento quando gordo. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9668
 translate pt_br katetalk_693bdbec:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9670
 translate pt_br katetalk_297a7e54:
 
     # kate "Sorry, no."
-    kate ""
+    kate "Desculpe, não."
 
 # game/scripts/ash_events.rpy:9673
 translate pt_br katetalk_4fa71bcb_3:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9676
 translate pt_br katetalk_a0ff079b:
 
     # kate "Nope..."
-    kate ""
+    kate "Não..."
 
 # game/scripts/ash_events.rpy:9681
 translate pt_br katetalk_6a9eed46:
 
     # kate "Next riddle... I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?"
-    kate ""
+    kate "Próxima charada... Eu tenho cidades, mas não tenho casas. Eu tenho montanhas, mas não tenho árvores. Eu tenho água, mas não tenho peixes. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9683
 translate pt_br katetalk_69294ffd:
 
     # kate "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?" nointeract
-    kate "" nointeract
+    kate "Eu tenho cidades, mas não tenho casas. Eu tenho montanhas, mas não tenho árvores. Eu tenho água, mas não tenho peixes. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9685
 translate pt_br katetalk_3ff312e5:
 
     # kate "Close, but no."
-    kate ""
+    kate "Quase, mas não."
 
 # game/scripts/ash_events.rpy:9688
 translate pt_br katetalk_b04db051:
 
     # kate "No."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9693
 translate pt_br katetalk_3ca98aa3:
 
     # kate "Correct! That one was tough, I hope you didn't cheat."
-    kate ""
+    kate "Correto! Aquela foi difícil, espero que você não tenha trapaceado."
 
 # game/scripts/ash_events.rpy:9695
 translate pt_br katetalk_297a7e54_1:
 
     # kate "Sorry, no."
-    kate ""
+    kate "Desculpe, não."
 
 # game/scripts/ash_events.rpy:9698
 translate pt_br katetalk_8e8b1a1d_2:
 
     # kate "Nope."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9701
 translate pt_br katetalk_b04db051_1:
 
     # kate "No."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9706
 translate pt_br katetalk_41b41fe6:
 
     # kate "Imagine the following..."
-    kate ""
+    kate "Imagine o seguinte..."
 
 # game/scripts/ash_events.rpy:9707
 translate pt_br katetalk_bf45a852:
 
     # kate "You have decided to go on a romantic ferry ride with your new wife. {w}Including the captain, there are six others on the boat. {w}After some lovely personal time between the two of you in your room, your wife gets up to use the public restroom. She comes back 10 minutes later yelling 'There's not a single person on the boat!'"
-    kate ""
+    kate "Você decidiu ir em uma viagem romântica de balsa com sua nova esposa. {w}Incluindo o capitão, há seis outros na embarcação. {w}Após algum tempo agradável sozinho com ela em seu quarto, sua esposa se levanta para usar o banheiro público. Ela volta 10 minutos depois gritando 'Não há nem uma pessoa na embarcação!'"
 
 # game/scripts/ash_events.rpy:9708
 translate pt_br katetalk_db49619d:
 
     # kate "What happened?"
-    kate ""
+    kate "O que aconteceu?"
 
 # game/scripts/ash_events.rpy:9710
 translate pt_br katetalk_42e4d6dd:
 
     # kate "You have decided to go on a romantic ferry ride with your new wife. Including the captain, there are six others on the boat. After some lovely personal time between the two of you in your room, your wife gets up to use the public restroom. She comes back 10 minutes later yelling 'There's not a single person on the boat!'" nointeract
-    kate "" nointeract
+    kate "Você decidiu ir em uma viagem romântica de balsa com sua nova esposa. {w}Incluindo o capitão, há seis outros na embarcação. {w}Após algum tempo agradável sozinho com ela em seu quarto, sua esposa se levanta para usar o banheiro público. Ela volta 10 minutos depois gritando 'Não há nem uma pessoa na embarcação!'" nointeract
 
 # game/scripts/ash_events.rpy:9712
 translate pt_br katetalk_ada89ede:
 
     # kate "Why would they have done that? No."
-    kate ""
+    kate "Por que eles teriam feito isso? Não."
 
 # game/scripts/ash_events.rpy:9715
 translate pt_br katetalk_06ab069d:
 
     # kate "Strange that they would have fallen off, you didn't notice any sounds and you didn't feel the boat crash into anything."
-    kate ""
+    kate "É estranho que eles tenham caído, você não notou nenhum som e não sentiu a embarcação bater em nada."
 
 # game/scripts/ash_events.rpy:9716
 translate pt_br katetalk_7cd99d48_1:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9721
 translate pt_br katetalk_7e0722ba:
 
     # kate "Correct! It was such a romantic boat ride. Three people proposed at once, and they all said yes!"
-    kate ""
+    kate "Correto! Foi uma viagem romântica tão especial. Três pessoas propuseram ao mesmo tempo, e todas disseram sim!"
 
 # game/scripts/ash_events.rpy:9723
 translate pt_br katetalk_ab180f92:
 
     # kate "Really...?"
-    kate ""
+    kate "É sério...?"
 
 # game/scripts/ash_events.rpy:9726
 translate pt_br katetalk_86797b6e:
 
     # kate "You notice after 30 minutes on the boat that you left without them? No, of course not. That's silly."
-    kate ""
+    kate "Você nota depois de 30 minutos na embarcação que você deixou sem eles? Não, claro que não. Isso é bobo."
 
 # game/scripts/ash_events.rpy:9729
 translate pt_br katetalk_e1daea26:
 
     # kate "Good guess, but no."
-    kate ""
+    kate "Boa tentativa, mas não."
 
 # game/scripts/ash_events.rpy:9732
 translate pt_br katetalk_af03cad0:
 
     # kate "Good guess, but that's not correct."
-    kate ""
+    kate "Boa tentativa, mas não."
 
 # game/scripts/ash_events.rpy:9737
 translate pt_br katetalk_e6d647d6:
 
     # kate "Next riddle... I hug you, I protect you, I keep your body warm. But all you do is get me dirty and throw water on me, and I don't even have any arms... What am I?"
-    kate ""
+    kate "Próxima charada... Eu te abraço, eu te protejo, eu mantenho seu corpo quente. Mas tudo o que você faz é me sujar e jogar água em mim, e eu nem tenho braços... O que sou eu?"
 
 # game/scripts/ash_events.rpy:9739
 translate pt_br katetalk_bcfce2f3:
 
     # kate "I hug you, I protect you, I keep your body warm. But all you do is get me dirty and throw water on me, and I don't even have any arms... What am I?" nointeract
-    kate "" nointeract
+    kate "Eu te abraço, eu te protejo, eu mantenho seu corpo quente. Mas tudo o que você faz é me sujar e jogar água em mim, e eu nem tenho braços... O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9743
 translate pt_br katetalk_693bdbec_1:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9745
 translate pt_br katetalk_f16ece6d:
 
     # kate "Jesus, no..."
-    kate ""
+    kate "Jesus, não..."
 
 # game/scripts/ash_events.rpy:9748
 translate pt_br katetalk_4fa71bcb_4:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9751
 translate pt_br katetalk_a0ff079b_1:
 
     # kate "Nope..."
-    kate ""
+    kate "Não..."
 
 # game/scripts/ash_events.rpy:9756
 translate pt_br katetalk_324a6d91:
 
     # kate "Next riddle... My tongue is long, my breath is strong, and yet I breed no strife. My voice you hear both far and near, and yet I have no life. What am I?"
-    kate ""
+    kate "Próxima charada... Minha língua é longa, meu fôlego é forte, e ainda assim eu não crio conflitos. Minha voz você ouve tanto de perto quanto de longe, e ainda assim eu não tenho vida. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9758
 translate pt_br katetalk_43f44d1a:
 
     # kate "My tongue is long, my breath is strong, and yet I breed no strife. My voice you hear both far and near, and yet I have no life. What am I?" nointeract
-    kate "" nointeract
+    kate "A minha língua é longa, o meu fôlego é forte, e ainda assim eu não tenho vida. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9760
 translate pt_br katetalk_b04db051_2:
 
     # kate "No."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9763
 translate pt_br katetalk_b04db051_3:
 
     # kate "No."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9766
 translate pt_br katetalk_8e8b1a1d_3:
 
     # kate "Nope."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9771
 translate pt_br katetalk_693bdbec_2:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9774
 translate pt_br katetalk_7cd99d48_2:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9777
 translate pt_br katetalk_8e8b1a1d_4:
 
     # kate "Nope."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9780
 translate pt_br katetalk_b04db051_4:
 
     # kate "No."
-    kate ""
+    kate "Não."
 
 # game/scripts/ash_events.rpy:9785
 translate pt_br katetalk_37595ce9:
 
     # kate "Another one of the hardest I have, good luck..."
-    kate ""
+    kate "Outra das mais difíceis que tenho, boa sorte..."
 
 # game/scripts/ash_events.rpy:9786
 translate pt_br katetalk_2f65eacb:
 
     # kate "What is seen directly before the end of January and February that can’t be seen at the beginning of either month?"
-    kate ""
+    kate "O que é visto diretamente antes do final de janeiro e fevereiro que não pode ser visto no início de nenhum dos meses?"
 
 # game/scripts/ash_events.rpy:9793
 translate pt_br katetalk_80e74db5:
 
     # kate "Correct! I'm impressed. R can also be seen in the middle of March and April."
-    kate ""
+    kate "Correto! Estou impressionada. R também pode ser visto no meio de março e abril."
 
 # game/scripts/ash_events.rpy:9796
 translate pt_br katetalk_9982491b_1:
 
     # kate "Wrong. Come back to me when you think you have the answer."
-    kate ""
+    kate "Errado. Volte quando você achar a resposta."
 
 # game/scripts/ash_events.rpy:9801
 translate pt_br katetalk_e52d0d62:
 
     # kate "Riddle me this..."
-    kate ""
+    kate "Me responda esta..."
 
 # game/scripts/ash_events.rpy:9802
 translate pt_br katetalk_995fa949:
 
     # kate "Every night I'm told what to do, every morning I do what I'm told, yet I cannot escape your scold. What am I?"
-    kate ""
+    kate "Toda noite me dizem o que fazer, toda manhã eu faço o que me mandam, mas eu não posso escapar da sua bronca. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9804
 translate pt_br katetalk_fe896e70:
 
     # kate "Every night I'm told what to do, every morning I do what I'm told, yet I cannot escape your scold. What am I?" nointeract
-    kate "" nointeract
+    kate "Toda noite me dizem o que fazer, toda manhã eu faço o que me mandam, mas eu não posso escapar da sua bronca. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9806
 translate pt_br katetalk_8df8eddb:
 
     # kate "What? Oh... no."
-    kate ""
+    kate "O que? Ah... não."
 
 # game/scripts/ash_events.rpy:9809
 translate pt_br katetalk_4fa71bcb_5:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9813
 translate pt_br katetalk_693bdbec_3:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9816
 translate pt_br katetalk_5a0945b7:
 
     # kate "Um... no..."
-    kate ""
+    kate "Hum... não..."
 
 # game/scripts/ash_events.rpy:9819
 translate pt_br katetalk_7cd99d48_3:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9823
 translate pt_br katetalk_d8f6443c:
 
     # kate "Next riddle... With pointed fangs, I sit and wait. {w}With piercing force, I crunch out fate \n{w}Grabbing victims, proclaiming might. {w}Physically joining with a single bite. \n{w}What am I?"
-    kate ""
+    kate "Próxima charada... Com presas pontiagudas, eu me sento e espero. {w}Com força penetrante, eu trituro o destino \n{w}Agarrando vítimas, proclamando poder. {w}Fisicamente me juntando com uma única mordida. \n{w}O que sou eu?"
 
 # game/scripts/ash_events.rpy:9825
 translate pt_br katetalk_fe65aab1:
 
     # kate "With pointed fangs, I sit and wait. With piercing force, I crunch out fate \nGrabbing victims, proclaiming might. Physically joining with a single bite. \nWhat am I?" nointeract
-    kate "" nointeract
+    kate "Com presas pontiagudas, eu me sento e espero. {w}Com força penetrante, eu trituro o destino \n{w}Agarrando vítimas, proclamando poder. {w}Fisicamente me juntando com uma única mordida. \n{w}O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9827
 translate pt_br katetalk_28bc697f:
 
     # kate "I knew you would say that..."
-    kate ""
+    kate "Eu sabia que você diria isso..."
 
 # game/scripts/ash_events.rpy:9828
 translate pt_br katetalk_785610f5:
 
     # kate "Wrong!"
-    kate ""
+    kate "Errado!"
 
 # game/scripts/ash_events.rpy:9831
 translate pt_br katetalk_4fa71bcb_6:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9834
 translate pt_br katetalk_7cd99d48_4:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9837
 translate pt_br katetalk_16e615b4:
 
     # kate "Incorrect"
-    kate ""
+    kate "Incorreto"
 
 # game/scripts/ash_events.rpy:9841
 translate pt_br katetalk_678cff83:
 
     # kate "Correct! Good job, [name]. Don't stop now. Keep it going. You're doing amazing."
-    kate ""
+    kate "Correto! Bom trabalho, [name]. Não pare agora. Continue assim. Você está sendo incrível."
 
 # game/scripts/ash_events.rpy:9843
 translate pt_br katetalk_a2577d09:
 
     # kate "Am I doing this encouraging thing correctly?"
-    kate ""
+    kate "Estou fazendo isso de forma encorajadora?"
 
 # game/scripts/ash_events.rpy:9847
 translate pt_br katetalk_bf348de6:
 
     # kate "Next riddle... I can fill a house or fill your mouth, but you can never catch me in your hands. What am I?"
-    kate ""
+    kate "Próxima charada... Eu posso encher uma casa ou encher sua boca, mas você nunca pode me pegar em suas mãos. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9849
 translate pt_br katetalk_eada5d91:
 
     # kate "I can fill a house or fill your mouth, but you can never catch me in your hands. What am I?" nointeract
-    kate "" nointeract
+    kate "Eu posso encher uma casa ou encher sua boca, mas você nunca pode me pegar em suas mãos. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9851
 translate pt_br katetalk_e414f8db:
 
     # kate "I suppose you've never cupped your hands before...? Wrong..."
-    kate ""
+    kate "Eu suponho que você nunca tenha colocado suas mãos em forma de copo antes...? Errado..."
 
 # game/scripts/ash_events.rpy:9854
 translate pt_br katetalk_4fa71bcb_7:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9857
 translate pt_br katetalk_7cd99d48_5:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9860
 translate pt_br katetalk_5015dd0d:
 
     # kate "Not the answer I'm looking for."
-    kate ""
+    kate "Não é a resposta que estou procurando."
 
 # game/scripts/ash_events.rpy:9864
 translate pt_br katetalk_693bdbec_4:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9867
 translate pt_br katetalk_7cd99d48_6:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9871
 translate pt_br katetalk_cf0d4b9f:
 
     # kate "Next riddle... I drive men mad for the love of me. Easily beaten, never free. What am I?"
-    kate ""
+    kate "Próxima charada... Eu faço os homens enlouquecerem pelo meu amor. Fácil de ser derrotado, nunca livre. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9873
 translate pt_br katetalk_b6dbbb30:
 
     # kate "I drive men mad for the love of me. Easily beaten, never free. What am I?" nointeract
-    kate "" nointeract
+    kate "Eu faço os homens enlouquecerem pelo meu amor. Fácil de ser derrotado, nunca livre. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9875
 translate pt_br katetalk_9bdc4f51:
 
     # kate "Urgh, no..."
-    kate ""
+    kate "Urgh, não..."
 
 # game/scripts/ash_events.rpy:9879
 translate pt_br katetalk_693bdbec_5:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9882
 translate pt_br katetalk_7cd99d48_7:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9885
 translate pt_br katetalk_4fa71bcb_8:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9888
 translate pt_br katetalk_16e615b4_1:
 
     # kate "Incorrect"
-    kate ""
+    kate "Incorreto"
 
 # game/scripts/ash_events.rpy:9892
 translate pt_br katetalk_0d5b60aa:
 
     # kate "Next riddle... On Earth I am dead, though I live on the moon. {w}I am in no crater, but I'm in every bloom. {w}I cannot move on my own, but I'm in each room."
-    kate ""
+    kate "Próxima charada... Na Terra eu estou morto, embora eu viva na lua. {w}Eu não estou em nenhuma cratera, mas estou em cada flor. {w}Eu não posso me mover por conta própria, mas estou em cada cômodo."
 
 # game/scripts/ash_events.rpy:9893
 translate pt_br katetalk_1260eae6:
 
     # kate "What am I?"
-    kate ""
+    kate "O que sou eu?"
 
 # game/scripts/ash_events.rpy:9900
 translate pt_br katetalk_4f17c1ac:
 
     # kate "Correct! Was that too easy? Hm, I think you're catching on..."
-    kate ""
+    kate "Correto! Isso foi fácil demais? Hm, acho que você está pegando o jeito..."
 
 # game/scripts/ash_events.rpy:9903
 translate pt_br katetalk_9982491b_2:
 
     # kate "Wrong. Come back to me when you think you have the answer."
-    kate ""
+    kate "Errado. Volte quando você achar a resposta."
 
 # game/scripts/ash_events.rpy:9907
 translate pt_br katetalk_27bec5c8:
 
     # kate "On to the next... I have no locks, keys, or lids, yet inside a golden treasure is hid. What am I?"
-    kate ""
+    kate "Próxima charada... Eu não tenho fechaduras, chaves ou tampa, mas dentro de um tesouro dourado está escondido. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9909
 translate pt_br katetalk_a5344bf8:
 
     # kate "I have no locks, keys, or lids, yet inside a golden treasure is hid. What am I?" nointeract
-    kate "" nointeract
+    kate "I have no locks, keys, or lids, yet inside a golden treasure is hid. What am I?" nointeract
 
 # game/scripts/ash_events.rpy:9911
 translate pt_br katetalk_422f8fdf:
 
     # kate "Sorry, not the answer I was looking for."
-    kate ""
+    kate "Desculpe, não é a resposta que eu estava procurando."
 
 # game/scripts/ash_events.rpy:9915
 translate pt_br katetalk_693bdbec_6:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9918
 translate pt_br katetalk_ecab1346:
 
     # kate "Not the answer I was looking for..."
-    kate ""
+    kate "Não é a resposta que eu estava procurando..."
 
 # game/scripts/ash_events.rpy:9921
 translate pt_br katetalk_83a4dcab:
 
     # kate "A banana may be yellow on the {i}outside{/i}... try harder next time."
-    kate ""
+    kate "A banana pode ser amarela por {i}fora{/i}... tente mais da próxima vez."
 
 # game/scripts/ash_events.rpy:9924
 translate pt_br katetalk_7cd99d48_8:
 
     # kate "Incorrect."
-    kate ""
+    kate "Incorreto."
 
 # game/scripts/ash_events.rpy:9928
 translate pt_br katetalk_febcca75:
 
     # kate "This one should be easy... What breathes, consumes, and grows, but was never alive?"
-    kate ""
+    kate "Esta deve ser fácil... O que respira, consome e cresce, mas nunca esteve vivo?"
 
 # game/scripts/ash_events.rpy:9930
 translate pt_br katetalk_f0fae304:
 
     # kate "What breathes, consumes, and grows, but was never alive?" nointeract
-    kate "" nointeract
+    kate "O que respira, consome e cresce, mas nunca esteve vivo?" nointeract
 
 # game/scripts/ash_events.rpy:9932
 translate pt_br katetalk_f4a135e2_1:
 
     # kate "Wrong..."
-    kate ""
+    kate "Errado..."
 
 # game/scripts/ash_events.rpy:9935
 translate pt_br katetalk_c872ee5e:
 
     # kate "A city does not breathe..."
-    kate ""
+    kate "Uma cidade não respira..."
 
 # game/scripts/ash_events.rpy:9938
 translate pt_br katetalk_b7ceb691:
 
     # kate "You realize there is no oxygen in space...?"
-    kate ""
+    kate "Você percebe que não há oxigênio no espaço...?"
 
 # game/scripts/ash_events.rpy:9941
 translate pt_br katetalk_52313ddc:
 
     # kate "Sorry, no..."
-    kate ""
+    kate "Desculpe, não..."
 
 # game/scripts/ash_events.rpy:9945
 translate pt_br katetalk_693bdbec_7:
 
     # kate "Correct!"
-    kate ""
+    kate "Correto!"
 
 # game/scripts/ash_events.rpy:9949
 translate pt_br katetalk_1c256d91:
 
     # kate "Good luck... The poor have it, and the rich want it, yet both will die when they see it. What am I?"
-    kate ""
+    kate "Boa sorte... Os pobres têm, os ricos querem, mas ambos morrerão quando o virem. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9951
 translate pt_br katetalk_26149a63:
 
     # kate "The poor have it, and the rich want it, yet both will die when they see it. What am I?" nointeract
-    kate "" nointeract
+    kate "Os pobres têm, e os ricos querem, mas ambos morrerão quando o virem. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9953
 translate pt_br katetalk_fa9de764:
 
     # kate "Hah, not the answer I was looking for though..."
-    kate ""
+    kate "Hah, não é a resposta que eu estava procurando..."
 
 # game/scripts/ash_events.rpy:9956
 translate pt_br katetalk_5a9fc89a:
 
     # kate "Funny, but no... both have hearts otherwise they would not be alive..."
-    kate ""
+    kate "Engraçado, mas não... ambos têm corações, caso contrário não seriam vivos..."
 
 # game/scripts/ash_events.rpy:9959
 translate pt_br katetalk_fb7851c9:
 
     # kate "All types of people have compassion, though you may see it less in the ultra wealthy... Wrong."
-    kate ""
+    kate "Todos os tipos de pessoas têm compaixão, embora você possa vê-la menos nos ultra ricos... Errado."
 
 # game/scripts/ash_events.rpy:9962
 translate pt_br katetalk_4fa71bcb_9:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9967
 translate pt_br katetalk_e9290bd6:
 
     # kate "Correct, I was talking about nothing... I thought I might pull a double reversal. Was it entertaining?"
-    kate ""
+    kate "Correto, eu estava falando sobre nada... Eu pensei que poderia fazer uma reviravolta dupla. Foi divertido?"
 
 # game/scripts/ash_events.rpy:9970
 translate pt_br katetalk_9816afcc:
 
     # kate "Good luck... Passed from father to son and shared between the family, it is important beyond question, yet they use it the least. What am I?"
-    kate ""
+    kate "Boa sorte... Passado do pai para o filho e compartilhado entre a família, é importante além de qualquer dúvida, ainda assim o utilizam menos. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9972
 translate pt_br katetalk_874bc0e6:
 
     # kate "Passed from father to son and shared between the family, it is important beyond question, yet they use it the least. What am I?" nointeract
-    kate "" nointeract
+    kate "Passado do pai para o filho e compartilhado entre a família, é importante além de qualquer dúvida, ainda assim o utilizam menos. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9974
 translate pt_br katetalk_9881f42f:
 
     # kate "What? No..."
-    kate ""
+    kate "O que? Não..."
 
 # game/scripts/ash_events.rpy:9979
 translate pt_br katetalk_d2752506:
 
     # kate "Correct. A family name is very important, yet the family uses that name the least, prefering to call each other titles such as 'Dad' or by their first name."
-    kate ""
+    kate "Correto. Um sobrenome é muito importante, mas a família o utiliza menos, preferindo se chamar por títulos como 'Pai' ou pelo primeiro nome."
 
 # game/scripts/ash_events.rpy:9981
 translate pt_br katetalk_52313ddc_1:
 
     # kate "Sorry, no..."
-    kate ""
+    kate "Desculpe, não..."
 
 # game/scripts/ash_events.rpy:9984
 translate pt_br katetalk_4fa71bcb_10:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:9987
 translate pt_br katetalk_35deade0:
 
     # kate "I'm afraid not..."
-    kate ""
+    kate "Acredito que não..."
 
 # game/scripts/ash_events.rpy:9991
 translate pt_br katetalk_ac73b242:
 
     # kate "Next riddle... Never resting, never still. Moving silently from hill to hill. In the reflection at a lake, around the corner when you wake. What am I?"
-    kate ""
+    kate "Próximo charada... Nunca descansando, nunca parando. Movendo-se em silêncio de colina em colina. Na reflexão de um lago, ao redor da esquina quando você acorda. O que sou eu?"
 
 # game/scripts/ash_events.rpy:9993
 translate pt_br katetalk_bf39e47b:
 
     # kate "Never resting, never still. Moving silently from hill to hill. In the reflection at a lake, around the corner when you wake. What am I?" nointeract
-    kate "" nointeract
+    kate "Nunca descansando, nunca parando. Movendo-se em silêncio de colina em colina. Na reflexão de um lago, ao redor da esquina quando você acorda. O que sou eu?" nointeract
 
 # game/scripts/ash_events.rpy:9995
 translate pt_br katetalk_660541dd:
 
     # kate "Ha. Ha. Come back when you're serious..."
-    kate ""
+    kate "Hah. Hah. Volte quando você estiver levando a sério..."
 
 # game/scripts/ash_events.rpy:9996
 translate pt_br katetalk_8ad300ad:
 
     # c "It's just a game..."
-    c ""
+    c "É só um jogo..."
 
 # game/scripts/ash_events.rpy:9997
 translate pt_br katetalk_c5b7dc86:
 
     # kate "A game? Or a test?"
-    kate ""
+    kate "É um jogo? Ou um teste?"
 
 # game/scripts/ash_events.rpy:10000
 translate pt_br katetalk_52313ddc_2:
 
     # kate "Sorry, no..."
-    kate ""
+    kate "Desculpe, não..."
 
 # game/scripts/ash_events.rpy:10003
 translate pt_br katetalk_35deade0_1:
 
     # kate "I'm afraid not..."
-    kate ""
+    kate "Acredito que não..."
 
 # game/scripts/ash_events.rpy:10006
 translate pt_br katetalk_4fa71bcb_11:
 
     # kate "Wrong."
-    kate ""
+    kate "Errado."
 
 # game/scripts/ash_events.rpy:10011
 translate pt_br katetalk_66fd9ada:
 
     # kate "That's right. You're doing good, [name]."
-    kate ""
+    kate "Isso mesmo. Você está indo bem, [name]."
 
 # game/scripts/ash_events.rpy:10013
 translate pt_br katetalk_acc1115f:
 
     # kate "Oh, I hope you're okay..."
-    kate ""
+    kate "Ah, espero que você esteja bem..."
 
 # game/scripts/ash_events.rpy:10014
 translate pt_br katetalk_95dcb21d:
 
     # kate "Wrong, though..."
-    kate ""
+    kate "Errado, ainda assim..."
 
 # game/scripts/ash_events.rpy:10019
 translate pt_br katetalk_40476927:
 
     # kate "Good luck... another one of my hardest."
-    kate ""
+    kate "Boa sorte... outra das minhas mais difíceis."
 
 # game/scripts/ash_events.rpy:10020
 translate pt_br katetalk_d8b381aa:
 
     # kate "With thieves, I consort... the vilest, in short. {w}I'm quite at ease in depravity, yet all divines need me. {w}Savants couldn't lose me... for I am the center of gravity. What am I?"
-    kate ""
+    kate "Com ladrões, eu convivo... os piores, em resumo. {w}Estou bastante à vontade na depravação, ainda assim todos os divinos precisam de mim. {w}Os eruditos não conseguiriam me perder... pois sou o centro da gravidade. O que sou eu?"
 
 # game/scripts/ash_events.rpy:10027
 translate pt_br katetalk_6bb1fc9f:
 
     # kate "Congratulations! You've finished all my riddles."
-    kate ""
+    kate "Parabéns! Você terminou todas as minhas charadas."
 
 # game/scripts/ash_events.rpy:10028
 translate pt_br katetalk_8e29a56d:
 
     # c "Really? What do I win?"
-    c ""
+    c "Sério? O que eu ganho?"
 
 # game/scripts/ash_events.rpy:10029
 translate pt_br katetalk_1d93a601:
 
     # kate "Knowledge."
-    kate ""
+    kate "Conhecimento."
 
 # game/scripts/ash_events.rpy:10030
 translate pt_br katetalk_f8c34c2f:
 
     # c "Knowledge? Are you kidding?"
-    c ""
+    c "Conhecimento? Você está brincando?"
 
 # game/scripts/ash_events.rpy:10031
 translate pt_br katetalk_0c8b2af6:
 
     # kate "Use it wisely, and when the time comes..."
-    kate ""
+    kate "Use-o sabiamente, e quando chegar a hora..."
 
 # game/scripts/ash_events.rpy:10036
 translate pt_br katetalk_9982491b_3:
 
     # kate "Wrong. Come back to me when you think you have the answer."
-    kate ""
+    kate "Errado. Volte para mim quando você achar a resposta."
 
 # game/scripts/ash_events.rpy:10040
 translate pt_br katetalk_d8203c67:
 
     # kate "[name], hello. Can I help you with anything?"
-    kate ""
+    kate "[name], olá. Posso te ajudar com alguma coisa?"
 
 # game/scripts/ash_events.rpy:10047
 translate pt_br katetalk_f353bd10:
 
     # kate "Well, well, well... you figured it out! The biggest riddle of them all. One I didn't even tell you existed..."
-    kate ""
+    kate "Ora, ora, ora... você descobriu! A maior charada de todas. Uma que eu nem te disse que existia..."
 
 # game/scripts/ash_events.rpy:10048
 translate pt_br katetalk_c3b5d7e3:
 
     # c "Why 'vore'?"
-    c ""
+    c "Por que 'vore'?"
 
 # game/scripts/ash_events.rpy:10049
 translate pt_br katetalk_a5ef55b7:
 
     # kate "I needed a word that was completely unguessable, and one that was short enough to be dispersed within all my riddles."
-    kate ""
+    kate "Eu precisava de uma palavra que fosse completamente imprevisível, e que fosse curta o suficiente para ser dispersa em todas as minhas charadas."
 
 # game/scripts/ash_events.rpy:10050
 translate pt_br katetalk_f94a0d25:
 
     # kate "What can I say? I'm very impressed with your intuition. Riddles have always been a bit hard for me, and I like to do research for my work, which takes time, and... well I usually lose at these sort of games. I prefer algorithm to nuanced riddles..."
-    kate ""
+    kate "O que posso dizer? Estou muito impressionada com sua intuição. Charadas sempre foram um pouco difíceis para mim, e eu gosto de fazer pesquisas para meu trabalho, o que leva tempo, e... bem, geralmente perco nesses tipos de jogos. Prefiro algoritmos a charadas sutis..."
 
 # game/scripts/ash_events.rpy:10052
 translate pt_br katetalk_b11e4d3b:
 
     # kate "You've asked about a reward multiple times. I must admit, a reward was not something I had in mind. But... perhaps we can do something that benefits us both?"
-    kate ""
+    kate "Você perguntou sobre uma recompensa várias vezes. Devo admitir, uma recompensa não era algo que eu tinha em mente. Mas... talvez possamos fazer algo que beneficie a ambos?"
 
 # game/scripts/ash_events.rpy:10054
 translate pt_br katetalk_5197a743:
 
     # kate "I can reward you with... a footjob, right here. If you want..."
-    kate ""
+    kate "Eu posso recompensar você com... uma penheta, aqui mesmo. Se você quiser..."
 
 # game/scripts/ash_events.rpy:10055
 translate pt_br katetalk_d8a44682:
 
     # kate "That's not something I've actually done before, and I'm very curious how it feels, both for me and for you. I mean... that is if you want to take your cock out in the middle of our class. It might be embarrassing for you, but not for me."
-    kate ""
+    kate "Isso não é algo que eu tenha feito antes, e estou muito curiosa para saber como é. Tanto para mim quanto para você. Quero dizer... isso é se você quiser tirar seu pênis no meio da nossa aula. Pode ser embaraçoso para você, mas não para mim."
 
 # game/scripts/ash_events.rpy:10056
 translate pt_br katetalk_bd3e8098:
 
     # c "Are you saying this is purely for research?"
-    c ""
+    c "Você está dizendo que isso é puramente para pesquisa?"
 
 # game/scripts/ash_events.rpy:10057
 translate pt_br katetalk_cf61af7d:
 
     # kate "Until I'm interested in finding a partner for life, everything is research. And of course, this is your reward."
-    kate ""
+    kate "Até que eu esteja interessada em encontrar um parceiro para a vida, tudo é pesquisa. E, é claro, essa é a sua recompensa."
 
 # game/scripts/ash_events.rpy:10060
 translate pt_br katetalk_eb384891:
 
     # kate "Great, you have two minutes. Then I stop."
-    kate ""
+    kate "Ótimo, você tem dois minutos. Então eu paro."
 
 # game/scripts/ash_events.rpy:10061
 translate pt_br katetalk_4e331599:
 
     # c "What? Why do I have a time limit?"
-    c ""
+    c "O que? Por que eu tenho um limite de tempo?"
 
 # game/scripts/ash_events.rpy:10062
 translate pt_br katetalk_b485f6ab:
 
     # kate "I will not risk my entire future by getting suspended over some boy... our teacher is on break right now, but that is only temporary."
-    kate ""
+    kate "Eu não vou arriscar todo o meu futuro sendo suspensa por causa de um garoto... nosso professor está de folga agora, mas isso é apenas temporário."
 
 # game/scripts/ash_events.rpy:10063
 translate pt_br katetalk_0ff56e9f:
 
     # kate "Plus, if you don't want Ashley to find out, you had better be quick and quiet... I certainly wouldn't want to awaken the beast."
-    kate ""
+    kate "Além disso, se você não quiser que Ashley descubra, melhor ser rápido e silencioso... Certamente não quero acordar a besta."
 
 # game/scripts/ash_events.rpy:10064
 translate pt_br katetalk_5e80b5ce:
 
     # kate "Now, let us begin. I look forward to the result..."
-    kate ""
+    kate "Agora, vamos começar. Estou ansiosa pelo resultado..."
 
 # game/scripts/ash_events.rpy:10068
 translate pt_br katetalk_72843db1:
 
     # kate "I suppose I miscalculated... I thought that was something you would be interest in, sorry. Now I know."
-    kate ""
+    kate "Acho que me enganei... achei que isso seria algo que você estaria interessado em, sinto muito. Agora eu sei."
 
 # game/scripts/ash_events.rpy:10073
 translate pt_br katetalk_78327efb:
 
     # kate "Come on, you already know the answer. Just don't look at things backwards..."
-    kate ""
+    kate "Vamos lá, você já sabe a resposta. Apenas não olhe as coisas de trás para frente..."
 
 # game/scripts/ash_events.rpy:10113
 translate pt_br katetalk_02ad1dff:
 
     # kate "Hm? Oh, Hello [name]."
-    kate ""
+    kate "Hm? Oh, Olá [name]."
 
 # game/scripts/ash_events.rpy:10114
 translate pt_br katetalk_b167577b:
 
     # kate "If you don't mind, I'm trying to enjoy what little free time I have."
-    kate ""
+    kate "Se você não se importa, estou tentando aproveitar o pouco tempo livre que tenho."
 
 # game/scripts/ash_events.rpy:10122
 translate pt_br ashschool4_842fd0f9:
