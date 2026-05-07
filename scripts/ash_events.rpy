@@ -7264,7 +7264,7 @@ translate pt_br ash_birthday_62b7acc2:
 translate pt_br ash_birthday_04b0d132:
 
     # k "Ergh, shut up... you're not helping."
-    k "Erch, cala a boca... você não está ajudando."
+    k "Ergh, cala a boca... você não está ajudando."
 
 # game/scripts/ash_events.rpy:1993
 translate pt_br ash_birthday_b067bd85:
@@ -11038,7 +11038,7 @@ translate pt_br ash_twincol_deb694fb:
 translate pt_br ash_twincol_bfe9443f:
 
     # zoia "What!? Fuck off, sis! Did you steal Runa's crown? Ashley is mine!"
-    zoia "O quê!? Vai se forder, mana! Você roubou a coroa da Runa? A Ashley é minha!"
+    zoia "O quê!? Vai se foder, mana! Você roubou a coroa da Runa? A Ashley é minha!"
 
 # game/scripts/ash_events.rpy:2892
 translate pt_br ash_twincol_4c2603c9:
@@ -19503,7 +19503,7 @@ translate pt_br ashred_c0725ddf:
 translate pt_br ashred_65f512ba:
 
     # q "What do you think, sis? Does she look ugly?"
-    q "O que você acha, irmã? Ela é feia?"
+    q "O que você acha, mana? Ela não é feia?"
 
 # game/scripts/ash_events.rpy:5451
 translate pt_br ashred_ae8836c9:
@@ -31815,7 +31815,7 @@ translate pt_br ashschool4_c6e519d4:
 translate pt_br ashschool4_e532c3b9:
 
     # f "Hey sis, I've got an idea..."
-    f "Ei irmã, eu tenho uma ideia..."
+    f "Ei mana, eu tenho uma ideia..."
 
 # game/scripts/ash_events.rpy:10139
 translate pt_br ashschool4_20c62bb7:
@@ -32445,631 +32445,631 @@ translate pt_br ashschool4_d4c029fd:
 translate pt_br ashschool3_a9682487:
 
     # f "Hey buddy, where do you think you're going?"
-    f ""
+    f "Ei amigo, para onde você acha que está indo?"
 
 # game/scripts/ash_events.rpy:10296
 translate pt_br ashschool3_1f6f1320:
 
     # c "I'm looking for Ashley."
-    c ""
+    c "Eu estou procurando a Ashley."
 
 # game/scripts/ash_events.rpy:10298
 translate pt_br ashschool3_fe903d6d:
 
     # em "Oh really? We've got some information on that. Show him sis..."
-    em ""
+    em "Ah, é mesmo? Temos algumas informações sobre isso. Mostre para ele, mana..."
 
 # game/scripts/ash_events.rpy:10300
 translate pt_br ashschool3_ef287d66:
 
     # f "I think you'll enjoy this... Take a look!"
-    f ""
+    f "Eu acho que você vai gostar disso... Dê uma olhada!"
 
 # game/scripts/ash_events.rpy:10302
 translate pt_br ashschool3_9ae63077:
 
     # f "Looks like she wasn't wearing panties to school today, so I snapped this amazing pic!"
-    f ""
+    f "Parece que ela não estava usando sutiã na escola hoje, então eu tirei essa foto incrível!"
 
 # game/scripts/ash_events.rpy:10306
 translate pt_br ashschool3_47094c79:
 
     # em "Oh really? We've got some information on that. Show him..."
-    em ""
+    em "Ah, é mesmo? Temos algumas informações sobre isso. Mostre para ele..."
 
 # game/scripts/ash_events.rpy:10308
 translate pt_br ashschool3_ef287d66_1:
 
     # f "I think you'll enjoy this... Take a look!"
-    f ""
+    f "Eu acho que você vai gostar disso... Dê uma olhada!"
 
 # game/scripts/ash_events.rpy:10310
 translate pt_br ashschool3_9ae63077_1:
 
     # f "Looks like she wasn't wearing panties to school today, so I snapped this amazing pic!"
-    f ""
+    f "Parece que ela não estava usando calcinha na escola hoje, então eu tirei essa foto incrível!"
 
 # game/scripts/ash_events.rpy:10314
 translate pt_br ashschool3_d3f1918e:
 
     # f "It would absolutely devastate Ashley if this got out..."
-    f ""
+    f "Isso destruiria completamente a Ashley se isso vazasse..."
 
 # game/scripts/ash_events.rpy:10315
 translate pt_br ashschool3_f9e72f3f:
 
     # c "*sigh* what do you want?"
-    c ""
+    c "*uff* O que vocês querem?"
 
 # game/scripts/ash_events.rpy:10317
 translate pt_br ashschool3_2bd0e800:
 
     # f "We know it was you who came on my twin's chair the other day..."
-    f ""
+    f "Nós sabemos que foi você quem gozou na cadeira da minha gêmea ontem..."
 
 # game/scripts/ash_events.rpy:10319
 translate pt_br ashschool3_065ef89f:
 
     # f "We know it was you who came on my clone's chair the other day..."
-    f ""
+    f "Nós sabemos que foi você quem gozou na cadeira da minha clone ontem..."
 
 # game/scripts/ash_events.rpy:10320
 translate pt_br ashschool3_86d31938:
 
     # c "Clone?"
-    c ""
+    c "Clone?"
 
 # game/scripts/ash_events.rpy:10321
 translate pt_br ashschool3_787a7a1f:
 
     # em "Don't question it."
-    em ""
+    em "Não questione."
 
 # game/scripts/ash_events.rpy:10322
 translate pt_br ashschool3_648fbf8a:
 
     # f "Ashley probably made you, so we don't really blame you for it... But we want to get back at her!"
-    f ""
+    f "Provavelmente foi a Ashley quem te fez fazer isso, então não te culpamos por isso... Mas queremos nos vingar dela!"
 
 # game/scripts/ash_events.rpy:10324
 translate pt_br ashschool3_6dfd549d:
 
     # em "My twin came up with the idea, we're going to make you cum in her water!"
-    em ""
+    em "Minha gêmea veio com a ideia, vamos fazer você gozar na água dela!"
 
 # game/scripts/ash_events.rpy:10326
 translate pt_br ashschool3_084af4ca:
 
     # em "My clone came up with the idea, we're going to make you cum in her water!"
-    em ""
+    em "Minha clone veio com a ideia, vamos fazer você gozar na água dela!"
 
 # game/scripts/ash_events.rpy:10327
 translate pt_br ashschool3_a03c5bb1:
 
     # f "She has to eat here because she's always busy catching up... And she's using the restroom right now, so we gotta hurry!"
-    f ""
+    f "Ela precisa comer aqui porque está sempre ocupada tentando colocar tudo em dia... E ela está no banheiro agora, então temos que nos apressar!"
 
 # game/scripts/ash_events.rpy:10328
 translate pt_br ashschool3_0dc81d3e:
 
     # c "I'm not doing that."
-    c ""
+    c "Eu não vou fazer isso."
 
 # game/scripts/ash_events.rpy:10329
 translate pt_br ashschool3_c8ebfa7f:
 
     # em "Fine. Then her pussy will be posted everywhere. Every student will see your little girlfriend's pussy!"
-    em ""
+    em "Tá bom. Então a boceta dela vai ser postada em todos os lugares. Todo mundo vai ver a vagina da sua pequena namorada!"
 
 # game/scripts/ash_events.rpy:10330
 translate pt_br ashschool3_dee4c791:
 
     # em "Take your top off, he won't refuse once he's hard."
-    em ""
+    em "Tire a sua blusa, ele não vai recusar assim que estiver duro."
 
 # game/scripts/ash_events.rpy:10332
 translate pt_br ashschool3_460548d6:
 
     # f "What? Why do I have to do it? You've got the big tits!"
-    f ""
+    f "O que? Por que eu tenho que fazer isso? Você tem os grandes seios!"
 
 # game/scripts/ash_events.rpy:10333
 translate pt_br ashschool3_2835c22e:
 
     # em "So? You came up with the idea! You do it!"
-    em ""
+    em "E daí? A ideia foi sua! Você faz!"
 
 # game/scripts/ash_events.rpy:10334
 translate pt_br ashschool3_3ee35e7c:
 
     # f "I'm not doing it..."
-    f ""
+    f "Eu não vou fazer isso..."
 
 # game/scripts/ash_events.rpy:10335
 translate pt_br ashschool3_cf107d19:
 
     # em "You're such a bitch! Fine!"
-    em ""
+    em "Você é uma vadia! Tá bom!"
 
 # game/scripts/ash_events.rpy:10339
 translate pt_br ashschool3_ff023922:
 
     # em "There! They're out! Are you hard yet pervert?"
-    em ""
+    em "Pronto! Elas estão para fora! Você já está duro, seu pervertido?"
 
 # game/scripts/ash_events.rpy:10340
 translate pt_br ashschool3_8b77d33d:
 
     # c "How am I the pervert?"
-    c ""
+    c "Como eu sou o pervertido?"
 
 # game/scripts/ash_events.rpy:10341
 translate pt_br ashschool3_25b0a5e0:
 
     # em "Shut up! Do you want everyone to see Ashley's pussy or not!?"
-    em ""
+    em "Cala a boca! você quer que todo mundo veja a boceta da Ashley ou não!?"
 
 # game/scripts/ash_events.rpy:10342
 translate pt_br ashschool3_733431c1:
 
     # c "No..."
-    c ""
+    c "Não quero.."
 
 # game/scripts/ash_events.rpy:10343
 translate pt_br ashschool3_a4e4055b:
 
     # em "Good! Then get your cock out!"
-    em ""
+    em "Ótimo! Então põe o pau pra fora!"
 
 # game/scripts/ash_events.rpy:10345
 translate pt_br ashschool3_455f77cf:
 
     # f "I'll give him the handjob, you get on the ground and let him stare at your tits."
-    f ""
+    f "Eu vou fazer uma punheta nele, você se deita no chão e deixa ele olhar para os seus seios."
 
 # game/scripts/ash_events.rpy:10346
 translate pt_br ashschool3_ae3bdc1a:
 
     # em "I don't want him looking at me! It's suppose to be a reach around!"
-    em ""
+    em "Eu não quero que ele olhe para mim! É pra ser só um toque íntimo!"
 
 # game/scripts/ash_events.rpy:10347
 translate pt_br ashschool3_f52815f2:
 
     # f "And it is! For me... Someone has to hold her cup."
-    f ""
+    f "E é! Pra mim... Alguém tem que segurar o copo dela."
 
 # game/scripts/ash_events.rpy:10348
 translate pt_br ashschool3_3508794e:
 
     # em "You're such a bitch! Why do I always ending up doing whatever you want?"
-    em ""
+    em "Você é uma vadia! Por que eu sempre termino fazendo o que você quer?"
 
 # game/scripts/ash_events.rpy:10349
 translate pt_br ashschool3_46e32708:
 
     # f "Because you love me."
-    f ""
+    f "Porque você me ama."
 
 # game/scripts/ash_events.rpy:10350
 translate pt_br ashschool3_5e666e3a:
 
     # em "Urgh! Fine!"
-    em ""
+    em "Urgh! Tá bom!"
 
 # game/scripts/ash_events.rpy:10351
 translate pt_br ashschool3_fd2b3511:
 
     # "You three walk in to the classroom. It's empty except for you three."
-    ""
+    "Vocês três caminham até a sala de aula. Ela está vazia, exceto vocês três."
 
 # game/scripts/ash_events.rpy:10353
 translate pt_br ashschool3_81ff6390:
 
     # em "Holy shit... it's massive..."
-    em ""
+    em "Puta merda... é enorme..."
 
 # game/scripts/ash_events.rpy:10355
 translate pt_br ashschool3_87ede96c:
 
     # f "What the fuck? You actually fuck Ashley with that thing?"
-    f ""
+    f "Mas que porra? Você realmente fode a Ashley com isso?"
 
 # game/scripts/ash_events.rpy:10356
 translate pt_br ashschool3_63088852:
 
     # em "There's no way they've fucked yet. Ashley couldn't take that thing inside her."
-    em ""
+    em "Sem chance de eles já terem fodido antes. Ashley não conseguiria receber essa coisa dentro dela."
 
 # game/scripts/ash_events.rpy:10357
 translate pt_br ashschool3_c66aeb32:
 
     # f "Just hurry up and make him cum!"
-    f ""
+    f "Só acelera e faz ele gozar!"
 
 # game/scripts/ash_events.rpy:10358
 translate pt_br ashschool3_b1821e6a:
 
     # em "Okay, get the cup ready..."
-    em ""
+    em "Tá bom, prepare o copo..."
 
 # game/scripts/ash_events.rpy:10360
 translate pt_br ashschool3_273bf995:
 
     # f "Yeah, yeah, hurry up! We only have like 5 minutes!"
-    f ""
+    f "Sim, sim, vai logo! Só temos uns 5 minutos!"
 
 # game/scripts/ash_events.rpy:10362
 translate pt_br ashschool3_7b169c5a:
 
     # f "Eww, it feels weird..."
-    f ""
+    f "Eca, que sensação estranha..."
 
 # game/scripts/ash_events.rpy:10363
 translate pt_br ashschool3_d8263e9f:
 
     # em "You've given handjobs before, don't act like it's your first time!"
-    em ""
+    em "Você já fez punhetas antes, não aja como se fosse a sua primeira vez!"
 
 # game/scripts/ash_events.rpy:10364
 translate pt_br ashschool3_6fb33791:
 
     # f "None this big though!"
-    f ""
+    f "Mas em nenhuma desse tamanho!"
 
 # game/scripts/ash_events.rpy:10367
 translate pt_br ashschool3_2515c537:
 
     # em "What are you doing? You're supposed to cum! Stop enjoying it!"
-    em ""
+    em "O que você está fazendo? Você era para vocÊ gozar! Pára de aproveitar!"
 
 # game/scripts/ash_events.rpy:10369
 translate pt_br ashschool3_5046b75c:
 
     # f "Are you saying I'm giving him a good handjob sis?"
-    f ""
+    f "Você está dizendo que eu estou dando a ele uma boa punheta, mana?"
 
 # game/scripts/ash_events.rpy:10371
 translate pt_br ashschool3_9a0a627d:
 
     # f "Are you saying I'm giving him a good handjob?"
-    f ""
+    f "Você está dizendo que eu estou dando a ele uma boa punheta?"
 
 # game/scripts/ash_events.rpy:10372
 translate pt_br ashschool3_37659eb9:
 
     # em "Whatever! You know I've gotten more boys to cum than you."
-    em ""
+    em "Que seja! Você sabe que eu já fiz mais garotos gozarem do que você."
 
 # game/scripts/ash_events.rpy:10373
 translate pt_br ashschool3_4852acbf:
 
     # f "That's not true! I've gotten lik-"
-    f ""
+    f "Isso não é verdade! Eu já fiz mais garotos gozarem do que você."
 
 # game/scripts/ash_events.rpy:10375
 translate pt_br ashschool3_2722964d:
 
     # em "AH! What the fuck! You got some on me asshole!"
-    em ""
+    em "AH! Mas que porra! Você derramou um pouco em mim, droga!"
 
 # game/scripts/ash_events.rpy:10376
 translate pt_br ashschool3_e584901f:
 
     # f "Hahahahaha!"
-    f ""
+    f "Hahahahaha!"
 
 # game/scripts/ash_events.rpy:10377
 translate pt_br ashschool3_4b4ebf09:
 
     # em "Stop fucking laughing!"
-    em ""
+    em "Pare de rir, caralho!"
 
 # game/scripts/ash_events.rpy:10378
 translate pt_br ashschool3_3fadad59:
 
     # f "Did he get any in the cup at least?"
-    f ""
+    f "Ele acertou alguma coisa no copo, pelo menos?"
 
 # game/scripts/ash_events.rpy:10379
 translate pt_br ashschool3_df3354f1:
 
     # em "Yeah, plenty..."
-    em ""
+    em "Sim, bastante..."
 
 # game/scripts/ash_events.rpy:10380
 translate pt_br ashschool3_cf2781e5:
 
     # f "Good, then mission successful!"
-    f ""
+    f "Boa. Então, missão concluída!"
 
 # game/scripts/ash_events.rpy:10381
 translate pt_br ashschool3_3352080e:
 
     # em "Ergh..."
-    em ""
+    em "Ergh..."
 
 # game/scripts/ash_events.rpy:10385
 translate pt_br ashschool3_fe61720a:
 
     # em "Urgh, look! You can see it through my top..."
-    em ""
+    em "Urgh, olha! Você pode ver através da minha blusa..."
 
 # game/scripts/ash_events.rpy:10386
 translate pt_br ashschool3_7c8e2384:
 
     # f "We'll keep up our part of the bargain. Nobody will see Ashley's pussy."
-    f ""
+    f "Nós vamos cumprir nossa parte do acordo. Ninguém vai ver a boceta da Ashley."
 
 # game/scripts/ash_events.rpy:10387
 translate pt_br ashschool3_67120f0c:
 
     # f "Unless she does something else to piss us off. So make sure she stays nice, okay?"
-    f ""
+    f "A menos que ela faça alguma coisa mais para nos irritar. Então certifique-se de que ela se comporte, tudo bem?"
 
 # game/scripts/ash_events.rpy:10388
 translate pt_br ashschool3_432ec249:
 
     # em "I regret this..."
-    em ""
+    em "Eu me arrependo disso..."
 
 # game/scripts/ash_events.rpy:10390
 translate pt_br ashschool3_174f186a:
 
     # f "At least she'll stay out of our way now..."
-    f ""
+    f "Pelo menos ela vai ficar fora do nosso caminho agora..."
 
 # game/scripts/ash_events.rpy:10391
 translate pt_br ashschool3_c79c543c:
 
     # em "Whatever... I'm going to clean this off..."
-    em ""
+    em "Que seja... Eu vou limpar isso..."
 
 # game/scripts/ash_events.rpy:10392
 translate pt_br ashschool3_54c22f98:
 
     # f "Okay! I'll stick around and watch everything go down."
-    f ""
+    f "Tá bom! Eu vou ficar por aqui e assistir tudo acontecer."
 
 # game/scripts/ash_events.rpy:10394
 translate pt_br ashschool3_18edcc82:
 
     # "You decide to stick around. After a couple minutes, Ashley shows up."
-    ""
+    "Você decide ficar por perto. Depois de alguns minutos, Ashley aparece."
 
 # game/scripts/ash_events.rpy:10396
 translate pt_br ashschool3_306827e5:
 
     # f "Heyyy Ashley!"
-    f ""
+    f "Ei, Ashley!"
 
 # game/scripts/ash_events.rpy:10397
 translate pt_br ashschool3_d8f97a36:
 
     # a "What do you want bitch..."
-    a ""
+    a "O que você quer, vadia..."
 
 # game/scripts/ash_events.rpy:10398
 translate pt_br ashschool3_920a5533:
 
     # f "Oh nothing... just wondering how that water tastes."
-    f ""
+    f "Ah, nada... eu só estava me perguntando como está o sabor dessa água."
 
 # game/scripts/ash_events.rpy:10399
 translate pt_br ashschool3_febefcd9:
 
     # a "Just fine. Go away."
-    a ""
+    a "Está bom. Cai fora."
 
 # game/scripts/ash_events.rpy:10400
 translate pt_br ashschool3_e956e03d:
 
     # f "What?"
-    f ""
+    f "O que?"
 
 # game/scripts/ash_events.rpy:10401
 translate pt_br ashschool3_9516c202:
 
     # a "Go away."
-    a ""
+    a "Cai fora."
 
 # game/scripts/ash_events.rpy:10402
 translate pt_br ashschool3_d292b516:
 
     # f "You don't think it tastes a little odd?"
-    f ""
+    f "Você não acha que o sabor está um pouco estranho?"
 
 # game/scripts/ash_events.rpy:10403
 translate pt_br ashschool3_1ed627fa:
 
     # a "I guess a little..."
-    a ""
+    a "Acho que um pouco..."
 
 # game/scripts/ash_events.rpy:10404
 translate pt_br ashschool3_be5f2490:
 
     # f "Like semen maybe...?"
-    f ""
+    f "Talvez um pouco parecida com sêmen...?"
 
 # game/scripts/ash_events.rpy:10406
 translate pt_br ashschool3_5939aebf:
 
     # a "WHAT DID YOU DO TO MY DRINK!?"
-    a ""
+    a "O QUE VOCÊ FEZ COM MINHA BEBIDA!?"
 
 # game/scripts/ash_events.rpy:10407
 translate pt_br ashschool3_6d51144e:
 
     # f "Oh nothing..."
-    f ""
+    f "Ah, nada..."
 
 # game/scripts/ash_events.rpy:10408
 translate pt_br ashschool3_f38c75b3:
 
     # a "TELL ME!"
-    a ""
+    a "ME FALA!"
 
 # game/scripts/ash_events.rpy:10410
 translate pt_br ashschool3_0742be61:
 
     # f "I helped [name] cum in your drink."
-    f ""
+    f "Eu ajudei [name] a gozar na sua bebida."
 
 # game/scripts/ash_events.rpy:10411
 translate pt_br ashschool3_7455430c:
 
     # a "What? [name]! When did you get here?"
-    a ""
+    a "O que? [name]! Quando você chegou aqui?"
 
 # game/scripts/ash_events.rpy:10412
 translate pt_br ashschool3_cb857782:
 
     # f "Huh? Do you not care that you're drinking his cum?"
-    f ""
+    f "Huh? Você não se importa de estar bebendo o sêmen dele?"
 
 # game/scripts/ash_events.rpy:10414
 translate pt_br ashschool3_a9db5d42:
 
     # a "Nope don't care. Go away."
-    a ""
+    a "Não, não ligo. Cai fora."
 
 # game/scripts/ash_events.rpy:10416
 translate pt_br ashschool3_9bca2183:
 
     # f "Not even that my twin showed him her tits and I jacked him off?"
-    f ""
+    f "Não, nem que minha gêmea mostrou ele os seios e eu o masturbei?"
 
 # game/scripts/ash_events.rpy:10418
 translate pt_br ashschool3_705e844d:
 
     # f "Not even that my clone showed him her tits and I jacked him off?"
-    f ""
+    f "Não, nem que minha clone mostrou ele os seios e eu o masturbei?"
 
 # game/scripts/ash_events.rpy:10420
 translate pt_br ashschool3_3a505665:
 
     # a "WHAT!?"
-    a ""
+    a "O QUE!?"
 
 # game/scripts/ash_events.rpy:10421
 translate pt_br ashschool3_b8efc44b:
 
     # f "Well, that's just what happens when you don't respect us."
-    f ""
+    f "Bem, é o que acontece quando você não nos respeita."
 
 # game/scripts/ash_events.rpy:10422
 translate pt_br ashschool3_1d0fe24f:
 
     # a "YOU TOUCHED HIS COCK?"
-    a ""
+    a "VOCÊ TOCOU NO PENIS DELE?"
 
 # game/scripts/ash_events.rpy:10423
 translate pt_br ashschool3_732c1dcf:
 
     # f "Yeah, he liked it too. Right?"
-    f ""
+    f "Sim, e ele gostou também. Não é?"
 
 # game/scripts/ash_events.rpy:10426
 translate pt_br ashschool3_84e93561:
 
     # a "See? He knows what a good handjob feels like!"
-    a ""
+    a "Viu? Ele sabe como é uma boa punheta!"
 
 # game/scripts/ash_events.rpy:10429
 translate pt_br ashschool3_a5ba7f13:
 
     # a "Stay out of it [name]!"
-    a ""
+    a "Fica fora disso [name]!"
 
 # game/scripts/ash_events.rpy:10431
 translate pt_br ashschool3_e5c294b9:
 
     # a "[name]... Get my knife..."
-    a ""
+    a "[name]... Pegaa minha faca..."
 
 # game/scripts/ash_events.rpy:10432
 translate pt_br ashschool3_2ba9ecd4:
 
     # f "Wait, what?"
-    f ""
+    f "Espera"
 
 # game/scripts/ash_events.rpy:10433
 translate pt_br ashschool3_a5c13f03:
 
     # a "GET MY FUCKING KNIFE [name]!"
-    a ""
+    a "Pega a minha faca [name]!"
 
 # game/scripts/ash_events.rpy:10434
 translate pt_br ashschool3_c76b914d:
 
     # f "Calm down! It was just a prank!"
-    f ""
+    f "Calma aí! Foi só uma brincadeira!"
 
 # game/scripts/ash_events.rpy:10436
 translate pt_br ashschool3_067d6e5a:
 
     # ms "What exactly is going on here?"
-    ms ""
+    ms "O que exatamente está acontecendo aqui?"
 
 # game/scripts/ash_events.rpy:10437
 translate pt_br ashschool3_f1ed5299:
 
     # a "Felicity gave my boyfriend a handjob!"
-    a ""
+    a "Felicity fez uma punheta no meu namorado!"
 
 # game/scripts/ash_events.rpy:10438
 translate pt_br ashschool3_31321f60:
 
     # f "M-Ms. Burchette!"
-    f ""
+    f "S-Sra. Burchette!"
 
 # game/scripts/ash_events.rpy:10440
 translate pt_br ashschool3_11a78e6a:
 
     # ms "Is this true Mr. [name]?"
-    ms ""
+    ms "É verdade, Sr. [name]?"
 
 # game/scripts/ash_events.rpy:10441
 translate pt_br ashschool3_5d5583ab:
 
     # c "It is."
-    c ""
+    c "É sim."
 
 # game/scripts/ash_events.rpy:10443
 translate pt_br ashschool3_58f61a7e:
 
     # ms "I've had it up to here with you, Felicity. You're coming with me."
-    ms ""
+    ms "Eu já estou de saco cheio de você, Felicity. Você vem comigo."
 
 # game/scripts/ash_events.rpy:10444
 translate pt_br ashschool3_c12c9f10:
 
     # f "What!? No!"
-    f ""
+    f "O que!? Não!"
 
 # game/scripts/ash_events.rpy:10446
 translate pt_br ashschool3_504b6c00:
 
     # a "Fuck you bitch!"
-    a ""
+    a "Vai se foder, vadia!"
 
 # game/scripts/ash_events.rpy:10447
 translate pt_br ashschool3_227a563f:
 
     # f "You'll regret this Ashley!"
-    f ""
+    f "Você vai se arrepender disso, Ashley!"
 
 # game/scripts/ash_events.rpy:10449
 translate pt_br ashschool3_de3aab98:
 
     # a "[name], she didn't hurt you did she?"
-    a ""
+    a "[name], ela não te machucou, né?"
 
 # game/scripts/ash_events.rpy:10450
 translate pt_br ashschool3_35d96baa:
 
     # a "I'm sorry she made you let her jack you off... I'll make sure she doesn't hurt you again..."
-    a ""
+    a "Sinto muito por ela ter feito você deixar ela te dar uma punheta... Vou me certificar de que ela não te machuque de novo..."
 
 # game/scripts/ash_events.rpy:10458
 translate pt_br ashschool2_7f64ba1f:
