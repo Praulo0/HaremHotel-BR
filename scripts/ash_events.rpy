@@ -9778,7 +9778,7 @@ translate pt_br ash_twinbackcol_bfa39404:
 translate pt_br ash_twinbackcol_1b41b278:
 
     # a "I found pictures of him having sex with a student, so unless he wants to be removed as Dean... I think you're back!"
-    a "Eu encontrei fotos dele fazendo sexo com uma estudante, Portanto, a menos que ele queira ser demitido do cargo de de diretor,... Eu acho que vocês estão de volta!"
+    a "Eu encontrei fotos dele fazendo sexo com uma estudante, Portanto, a menos que ele queira ser demitido do cargo de de Diretor,... Eu acho que vocês estão de volta!"
 
 # game/scripts/ash_events.rpy:2598
 translate pt_br ash_twinbackcol_0b4bf84a:
@@ -22761,7 +22761,7 @@ translate pt_br ashbacksch_2afaa769:
 translate pt_br ashbacksch_958b9629:
 
     # ms "Since both of you are here because your father, the Dean, you're allowed to be here free of charge, he can do whatever he wants."
-    ms "Como ambas estão aqui por causa do seu pai, o Reitor, vocês podem ficar aqui de graça, ele pode fazer o que quiser."
+    ms "Como ambas estão aqui por causa do seu pai, o Diretor, vocês podem ficar aqui de graça, ele pode fazer o que quiser."
 
 # game/scripts/ash_events.rpy:6403
 translate pt_br ashbacksch_4486e154:
@@ -33075,301 +33075,301 @@ translate pt_br ashschool3_35d96baa:
 translate pt_br ashschool2_7f64ba1f:
 
     # em "Hey Ashley! Stuck on some math? I could teach you how to subtract if you can't figure it out..."
-    em ""
+    em "Ei, Ashley! Está com dificuldade em matemática? Posso te ensinar a subtrair, se você não estiver conseguindo..."
 
 # game/scripts/ash_events.rpy:10459
 translate pt_br ashschool2_9568ecf9:
 
     # a "Shut up!"
-    a ""
+    a "Cala a boca!"
 
 # game/scripts/ash_events.rpy:10461
 translate pt_br ashschool2_39bc6984:
 
     # em "Aww, what's wrong? Did you use your brain too much today? Hahaha!"
-    em ""
+    em "Aah, o que foi? Já usou o seu cérebro demais hoje? Hahaha!"
 
 # game/scripts/ash_events.rpy:10462
 translate pt_br ashschool2_c618c804:
 
     # a "Fuck off bitch!"
-    a ""
+    a "Vai se foder, vadia!"
 
 # game/scripts/ash_events.rpy:10464
 translate pt_br ashschool2_f6bd55d1:
 
     # em "You better be careful Ashley, you wouldn't want to make the Dean's daughter angry with you..."
-    em ""
+    em "É melhor você tomar cuidado, Ashley; você não vai querer deixar a filha do Diretor zangada com você..."
 
 # game/scripts/ash_events.rpy:10465
 translate pt_br ashschool2_aafaaaae:
 
     # a "I don't care about the Dean or a bitch like you!"
-    a ""
+    a "Não dou a mínima para o Diretor e nem para uma vadia como você!"
 
 # game/scripts/ash_events.rpy:10466
 translate pt_br ashschool2_b131cf20:
 
     # em "You better say sorry, bitch. I'll fuck your life up..."
-    em ""
+    em "E melhor você se desculpar, vadia. Ou eu vou arruinar a sua vida..."
 
 # game/scripts/ash_events.rpy:10470
 translate pt_br ashschool2_73f9b1f5:
 
     # em "W-What!?"
-    em ""
+    em "O-O que!?"
 
 # game/scripts/ash_events.rpy:10471
 translate pt_br ashschool2_367cb7cb:
 
     # a "[name]! You came!"
-    a ""
+    a "[name]! Você veio!"
 
 # game/scripts/ash_events.rpy:10473
 translate pt_br ashschool2_3f7c9d72:
 
     # a "Hehehe~ click~" with flash
-    a "" with flash
+    a "Hehehe~ click~" with flash
 
 # game/scripts/ash_events.rpy:10476
 translate pt_br ashschool2_f3f3f896:
 
     # em "Who the fuck are you!? Why did you lift my top up asshole!?"
-    em ""
+    em "Quem caralhos é você!? Por que você levantou a minha blusa, seu cuzão!?"
 
 # game/scripts/ash_events.rpy:10477
 translate pt_br ashschool2_3ac0f82e:
 
     # a "He's my boyfriend~~~!"
-    a ""
+    a "Ele é o meu namorado~~~!"
 
 # game/scripts/ash_events.rpy:10478
 translate pt_br ashschool2_d7e06e34:
 
     # em "When did you get a boyfriend!? You better delete that picture bitch!!! URGH!"
-    em ""
+    em "Quando foi que você arranjou um namorado!? É melhor você apagar essa foto, vadia!!! URGH!"
 
 # game/scripts/ash_events.rpy:10480
 translate pt_br ashschool2_e4f57cac:
 
     # c "Who was that?"
-    c ""
+    c "Quem era aquela?"
 
 # game/scripts/ash_events.rpy:10481
 translate pt_br ashschool2_885697c5:
 
     # a "Oh her? Just some bitch who keeps making fun of me."
-    a ""
+    a "Ah, ela? É só uma vadia que fica zombando de mim."
 
 # game/scripts/ash_events.rpy:10484
 translate pt_br ashschool2_5356b833:
 
     # em "What!? Why did you lift my top up asshole!?"
-    em ""
+    em "Por que você levantou a minha blusa, seu cuzão!?"
 
 # game/scripts/ash_events.rpy:10485
 translate pt_br ashschool2_fa90095a:
 
     # a "Hahaha!"
-    a ""
+    a "Hahaha!"
 
 # game/scripts/ash_events.rpy:10486
 translate pt_br ashschool2_0ea35a85:
 
     # em "You better delete that picture bitch!!! URGH!"
-    em ""
+    em "É melhor você apagar essa foto, vadia!!! URGH!"
 
 # game/scripts/ash_events.rpy:10488
 translate pt_br ashschool2_7140931b:
 
     # a "I can't believe you lifted her top! That was so funny!"
-    a ""
+    a "Eu não acredito que você levantou a blusa dela! Isso foi tão engraçado!"
 
 # game/scripts/ash_events.rpy:10489
 translate pt_br ashschool2_edacf770:
 
     # a "And now I have something to blackmail her with hehe~"
-    a ""
+    a "“E agora tenho algo para chantagear ela, hehe~”"
 
 # game/scripts/ash_events.rpy:10492
 translate pt_br ashschool2_23c932b0:
 
     # em "Oh, who are you? A teacher?"
-    em ""
+    em "Ah, quem é você? UM professor?"
 
 # game/scripts/ash_events.rpy:10493
 translate pt_br ashschool2_f2390b49:
 
     # a "[name] you came! That's my boyfriend!"
-    a ""
+    a "[name], você veio! Esse é o meu namorado!"
 
 # game/scripts/ash_events.rpy:10495
 translate pt_br ashschool2_3536f11c:
 
     # em "You're going out with that dumb bitch? Seriously? You could do much better than her."
-    em ""
+    em "Você está mesmo saindo com essa vadia estúpida? É sério isso?  Você poderia arranjar alguém muito melhor do que ela"
 
 # game/scripts/ash_events.rpy:10496
 translate pt_br ashschool2_cd63bfc5:
 
     # em "There's plenty of girls here you know..."
-    em ""
+    em "Tem um monte de garotas por aqui, sabe..."
 
 # game/scripts/ash_events.rpy:10497
 translate pt_br ashschool2_b5a16f97:
 
     # a "Shut up! Stay away from him!"
-    a ""
+    a "Cala a boca! Fique longe dele!"
 
 # game/scripts/ash_events.rpy:10499
 translate pt_br ashschool2_8465ab3a:
 
     # em "Whatever, I don't have time to deal you Ashley, I gotta get back to practice."
-    em ""
+    em "Deixa pra lá, não tenho tempo pra lidar com você, Ashley. Tenho que voltar pro treino."
 
 # game/scripts/ash_events.rpy:10501
 translate pt_br ashschool2_e4f57cac_1:
 
     # c "Who was that?"
-    c ""
+    c "Quem era aquela?"
 
 # game/scripts/ash_events.rpy:10502
 translate pt_br ashschool2_885697c5_1:
 
     # a "Oh her? Just some bitch who keeps making fun of me."
-    a ""
+    a "Ah, ela? É só uma vadia que fica zombando de mim."
 
 # game/scripts/ash_events.rpy:10504
 translate pt_br ashschool2_15f087ee:
 
     # q "That was really cool Ashley, not many people stand up to her like that..."
-    q ""
+    q "Aquilo foi bem legal, Ashley. Não é todo mundo que consegue enfrentar ela daquele jeito..."
 
 # game/scripts/ash_events.rpy:10506
 translate pt_br ashschool2_51badbab:
 
     # a "W-Who are you? Where did you come from?"
-    a ""
+    a "Q-Quem é você? De onde você veio?"
 
 # game/scripts/ash_events.rpy:10507
 translate pt_br ashschool2_8dd4d37c:
 
     # q "What do you mean? I've been in your class all semester..."
-    q ""
+    q "Como assim? Eu estive na sua turma o semestre inteiro..."
 
 # game/scripts/ash_events.rpy:10508
 translate pt_br ashschool2_4387666a:
 
     # a "Really? I never noticed you before."
-    a ""
+    a "É sério? Eu nunca reparei em você antes."
 
 # game/scripts/ash_events.rpy:10509
 translate pt_br ashschool2_04630130:
 
     # q "Ashley..."
-    q ""
+    q "Ashley..."
 
 # game/scripts/ash_events.rpy:10510
 translate pt_br ashschool2_874248b9:
 
     # a "You can go away now."
-    a ""
+    a "Você já pode ir embora."
 
 # game/scripts/ash_events.rpy:10511
 translate pt_br ashschool2_816a6128:
 
     # q "Okay..."
-    q ""
+    q "Tudo bem..."
 
 # game/scripts/ash_events.rpy:10513
 translate pt_br ashschool2_16ecd102:
 
     # a "[name]~ I've got an idea! I want to get back at that bitch! Come here!"
-    a ""
+    a "[name]~ Eu tive uma ideia! Eu quero me vingar daquela vadia! Vem aqui!"
 
 # game/scripts/ash_events.rpy:10515
 translate pt_br ashschool2_e7204790:
 
     # a "Okay, this is her desk, I want you to cum on her chair!"
-    a ""
+    a "Beleza, essa é a mesa dela, eu quero que você goze na cadeira dela!"
 
 # game/scripts/ash_events.rpy:10516
 translate pt_br ashschool2_b7611eac:
 
     # c "What...?"
-    c ""
+    c "O que...?"
 
 # game/scripts/ash_events.rpy:10517
 translate pt_br ashschool2_ff38a0ee:
 
     # a "When she sits down she'll get all sticky and have to change her clothes! She'll be so pissed! Come on!"
-    a ""
+    a "Quando ela se sentar, vai ficar toda grudenta e vai ter que trocar de roupa! Ela vai ficar tão brava! Vamos lá!"
 
 # game/scripts/ash_events.rpy:10518
 translate pt_br ashschool2_4b489c83:
 
     # c "Okay..."
-    c ""
+    c "Tá bom..."
 
 # game/scripts/ash_events.rpy:10521
 translate pt_br ashschool2_80d43b52:
 
     # a "I know it's not my pussy... but it should get the job done, right?"
-    a ""
+    a "Eu sei que não é a minha boceta...  mas deve dar conta do recado, certo?"
 
 # game/scripts/ash_events.rpy:10524
 translate pt_br ashschool2_c9575c8c:
 
     # a "Come on~ we don't have all day! Cum!"
-    a ""
+    a "Vamos lá~ nós não temos o dia todo! Goza!"
 
 # game/scripts/ash_events.rpy:10528
 translate pt_br ashschool2_276ec89d:
 
     # a "Ahh~ You came!!!"
-    a ""
+    a "Ahh~Você gozou!!!"
 
 # game/scripts/ash_events.rpy:10530
 translate pt_br ashschool2_ae29961e:
 
     # a "Ahh... look at how much you came [name]!"
-    a ""
+    a "Ahh... olha só o quanto você gozou, [name]!"
 
 # game/scripts/ash_events.rpy:10532
 translate pt_br ashschool2_38615065:
 
     # a "She's going to be so pissed! Hehe~"
-    a ""
+    a "Ela vai ficar tão brava! Hehe~"
 
 # game/scripts/ash_events.rpy:10533
 translate pt_br ashschool2_16be04ee:
 
     # a "All right, now get out of here! Class is about to start!"
-    a ""
+    a "Tá certo, agora cai fora daqui! A aula já vai começar!"
 
 # game/scripts/ash_events.rpy:10535
 translate pt_br ashschool2_c1b5b8dc:
 
     # "You exit the classroom just as the students walk in..."
-    ""
+    "Você sai da sala de aula bem na hora em que os alunos estão entrando..."
 
 # game/scripts/ash_events.rpy:10536
 translate pt_br ashschool2_1688b88e:
 
     # ms "All right class, be seated."
-    ms ""
+    ms "Muito bem, classe. Fiquem sentados."
 
 # game/scripts/ash_events.rpy:10537
 translate pt_br ashschool2_d2d90827:
 
     # em "AHH! What the fuck is this!?"
-    em ""
+    em "AHH! Mas que porra é essa!?"
 
 # game/scripts/ash_events.rpy:10538
 translate pt_br ashschool2_41bcaf10:
 
     # "The whole class erupts into laughter."
-    ""
+    "A turma inteira explode em gargalhadas. "
 
 # game/scripts/ash_events.rpy:10545
 translate pt_br ashschool_e5f77b69:
