@@ -27777,7 +27777,7 @@ translate pt_br ashleydate_700be75a:
 translate pt_br ashleydate_bfad96ce:
 
     # a "Hehe~ I guess I don't mind taking my top off."
-    a "Hehe~ Acho que não me importo em tirar a blusa."
+    a "Hehe~ Acho que não me importo em tirar a camisa."
 
 # game/scripts/ash_events.rpy:8203
 translate pt_br ashleydate_2f92505e:
@@ -28473,7 +28473,7 @@ translate pt_br ashcafelewd_84b64bf3:
 translate pt_br ashcafelewd_c8d17e4d:
 
     # c "I want you to order for us... topless."
-    c "Eu quero que você faça o pedido para nós... sem roupa."
+    c "Eu quero que você faça o pedido para nós... sem camisa."
 
 # game/scripts/ash_events.rpy:8594
 translate pt_br ashcafelewd_5a077bc0:
@@ -29463,7 +29463,7 @@ translate pt_br ashcafefap_aae73e55:
 translate pt_br ashcafefap_f63412b2:
 
     # c "Take your top off."
-    c "Tire sua blusa."
+    c "Tire sua camisa."
 
 # game/scripts/ash_events.rpy:8993
 translate pt_br ashcafefap_71955456:
@@ -30039,7 +30039,7 @@ translate pt_br ash_prefj_95adefe1:
 translate pt_br ash_prefj_1fc0ef01:
 
     # a "I heard you fucked Lin in the ass too... apparently that's her kink."
-    a "Eu ouvi falar que você fodeu o cú da Lin também... aparentemente essa é a tara dela."
+    a "Eu ouvi falar que você fodeu o cu da Lin também... aparentemente essa é a tara dela."
 
 # game/scripts/ash_events.rpy:9237
 translate pt_br ash_prefj_f5a00973:
@@ -32565,7 +32565,7 @@ translate pt_br ashschool3_c8ebfa7f:
 translate pt_br ashschool3_dee4c791:
 
     # em "Take your top off, he won't refuse once he's hard."
-    em "Tire a sua blusa, ele não vai recusar assim que estiver duro."
+    em "Tire a sua camisa, ele não vai recusar assim que estiver duro."
 
 # game/scripts/ash_events.rpy:10332
 translate pt_br ashschool3_460548d6:
@@ -33135,7 +33135,7 @@ translate pt_br ashschool2_3f7c9d72:
 translate pt_br ashschool2_f3f3f896:
 
     # em "Who the fuck are you!? Why did you lift my top up asshole!?"
-    em "Quem caralhos é você!? Por que você levantou a minha blusa, seu cuzão!?"
+    em "Quem caralhos é você!? Por que você levantou a minha camisa, seu cuzão!?"
 
 # game/scripts/ash_events.rpy:10477
 translate pt_br ashschool2_3ac0f82e:
@@ -33165,7 +33165,7 @@ translate pt_br ashschool2_885697c5:
 translate pt_br ashschool2_5356b833:
 
     # em "What!? Why did you lift my top up asshole!?"
-    em "Por que você levantou a minha blusa, seu cuzão!?"
+    em "Por que você levantou a minha camisa, seu cuzão!?"
 
 # game/scripts/ash_events.rpy:10485
 translate pt_br ashschool2_fa90095a:
@@ -35181,7 +35181,7 @@ translate pt_br ashley_freestyle_anal_cbbb8109:
 translate pt_br ashley_freestyle_anal_6eefc033:
 
     # a "Hahh, nnnm! Do you like fucking my tight ass, [name]? Nnnngh! Give me more~!"
-    a "Hahh, nnnm! Você gosta de foder meu cú apertado, [name]? Nnnngh! Me dá mais~!"
+    a "Hahh, nnnm! Você gosta de foder meu cu apertado, [name]? Nnnngh! Me dá mais~!"
 
 # game/scripts/ash_events.rpy:11639
 translate pt_br ashley_freestyle_anal_f05e8cfa:
@@ -36620,7 +36620,7 @@ translate pt_br ash_anal_go_bed3eead:
 translate pt_br ash_anal_go_522ca2ab:
 
     # a "Hahh, nnnm! Do you like fucking my tight ass, [name]? Nnnngh! This is so much better than a toy, I love when you grab my ass!"
-    a "Hahh, nnnm! Você gosta de foder o meu cú apertado, [name]? Nnnngh! Isso é muito melhor que um brinquedo, eu amo quando você segura a minha bunda!"
+    a "Hahh, nnnm! Você gosta de foder o meu cu apertado, [name]? Nnnngh! Isso é muito melhor que um brinquedo, eu amo quando você segura a minha bunda!"
 
 # game/scripts/ash_events.rpy:12594
 translate pt_br ash_anal_go_a97d2f79:
@@ -37586,7 +37586,7 @@ translate pt_br ashtv_12ec4ef3:
 translate pt_br ashtv_400ad412:
 
     # a "Oh, it's starting! Shhh!"
-    a ""
+    a "Ah, está começando! Shhh!"
 
 # game/scripts/ash_events.rpy:13114
 translate pt_br ashtv_7d04f923:
@@ -37874,1221 +37874,1221 @@ translate pt_br strings:
 
     # game/scripts/ash_events.rpy:423
     old "I feel the same way."
-    new ""
+    new "Eu me sinto da mesma forma."
 
     # game/scripts/ash_events.rpy:423
     old "You didn't have any friends?"
-    new ""
+    new "Você não tinha nenhum amigo?"
 
     # game/scripts/ash_events.rpy:423
     old "Who's Ren?"
-    new ""
+    new "Quem é Ren?"
 
     # game/scripts/ash_events.rpy:472
     old "What's your favorite food?"
-    new ""
+    new "Qual é a sua comida favorita?"
 
     # game/scripts/ash_events.rpy:534
     old "Huge fan."
-    new ""
+    new "Fã incondicional."
 
     # game/scripts/ash_events.rpy:534
     old "Not my drink of choice."
-    new ""
+    new "Não é a minha bebida preferida."
 
     # game/scripts/ash_events.rpy:623
     old "Sex until I die."
-    new ""
+    new "Sexo até morrer."
 
     # game/scripts/ash_events.rpy:623
     old "Get you pregnant."
-    new ""
+    new "Te engravidar."
 
     # game/scripts/ash_events.rpy:623
     old "Save the world."
-    new ""
+    new "Salvar o mundo."
 
     # game/scripts/ash_events.rpy:623
     old "Increase profits by Q4."
-    new ""
+    new "Aumentar lucros até o Q4."
 
     # game/scripts/ash_events.rpy:908
     old "I won't let anyone bother us, we'll find Ren."
-    new ""
+    new "Eu não vou deixar ninguém nos incomodar, nós vamos encontrar Ren."
 
     # game/scripts/ash_events.rpy:908
     old "Yes, I'm sure my stick figure of a girlfriend will protect me..."
-    new ""
+    new "Sim, tenho certeza de que minha figura de amiga vai me proteger..."
 
     # game/scripts/ash_events.rpy:908
     old "...I should have brought a gun."
-    new ""
+    new "...Eu deveria ter trazido uma arma."
 
     # game/scripts/ash_events.rpy:908
     old "Can I hold on to your knife?"
-    new ""
+    new "Eu posso segurar a sua faca?"
 
     # game/scripts/ash_events.rpy:950
     old "Let's eat."
-    new ""
+    new "Vamos comer"
 
     # game/scripts/ash_events.rpy:950
     old "Is it safe?"
-    new ""
+    new "Isso é seguro?"
 
     # game/scripts/ash_events.rpy:950
     old "I don't want to stay here longer than I need to."
-    new ""
+    new "Eu não quero ficar aqui mais tempo do que preciso."
 
     # game/scripts/ash_events.rpy:998
     old "Of course."
-    new ""
+    new "Claro."
 
     # game/scripts/ash_events.rpy:998
     old "Not really..."
-    new ""
+    new "Na verdade, não..."
 
     # game/scripts/ash_events.rpy:1009
     old "Love it, I'm excited."
-    new ""
+    new "Adoro isso, estou animado."
 
     # game/scripts/ash_events.rpy:1009
     old "It's not my favorite, but I can enjoy it."
-    new ""
+    new "Não é a minha favorita, mas consigo aproveitar."
 
     # game/scripts/ash_events.rpy:1009
     old "I've never had this kind."
-    new ""
+    new "Nunca tive esse tipo."
 
     # game/scripts/ash_events.rpy:1083
     old "Pay $5 (Small Tip)"
-    new ""
+    new "Pagar $5 (Gorjeta Pequena)"
 
     # game/scripts/ash_events.rpy:1083
     old "Pay $25 (Big Tip)"
-    new ""
+    new "Pagar $25 (Gorjeta Grande)"
 
     # game/scripts/ash_events.rpy:1083
     old "Pay $100 (Huge Tip)"
-    new ""
+    new "Pagar $100 (Gorjeta Enorme)"
 
     # game/scripts/ash_events.rpy:1083
     old "Pay $1,000 (Massive Tip)"
-    new ""
+    new "Pagar $1,000 (Gorjeta Massiva)"
 
     # game/scripts/ash_events.rpy:1198
     old "Shake his hand"
-    new ""
+    new "Apertar a mão dele"
 
     # game/scripts/ash_events.rpy:1198
     old "Don't shake his hand"
-    new ""
+    new "Não apertar a mão dele"
 
     # game/scripts/ash_events.rpy:1259
     old "Give nothing"
-    new ""
+    new "Não dar nada"
 
     # game/scripts/ash_events.rpy:1259
     old "Give $10"
-    new ""
+    new "Dar $10"
 
     # game/scripts/ash_events.rpy:1259
     old "Give $100"
-    new ""
+    new "Dar $100"
 
     # game/scripts/ash_events.rpy:1291
     old "Bribe ($100)"
-    new ""
+    new "Subornar ($100)"
 
     # game/scripts/ash_events.rpy:1291
     old "Reason"
-    new ""
+    new "Incentivar"
 
     # game/scripts/ash_events.rpy:1291
     old "Threaten"
-    new ""
+    new "Ameaçar"
 
     # game/scripts/ash_events.rpy:1492
     old "That sounds like a great plan, but how?"
-    new ""
+    new "Parece um ótimo plano, mas como?"
 
     # game/scripts/ash_events.rpy:1492
     old "Send her a thank you letter and move on."
-    new ""
+    new "Envie uma carta de agradecimento e seguir em frente."
 
     # game/scripts/ash_events.rpy:2726
     old "Of course, I've known for a long time."
-    new ""
+    new "É claro, eu já sabia disso há muito tempo."
 
     # game/scripts/ash_events.rpy:2726
     old "This is news to me..."
-    new ""
+    new "Isso é novidade para mim..."
 
     # game/scripts/ash_events.rpy:3058
     old "Finish Her"
-    new ""
+    new "Acabar com ela"
 
     # game/scripts/ash_events.rpy:3157
     old "Ass to Mouth"
-    new ""
+    new "Da Bunda para a Boca"
 
     # game/scripts/ash_events.rpy:3216
     old "Spanking (Very Risky)"
-    new ""
+    new "Dar palmadas (Muito Arriscado)"
 
     # game/scripts/ash_events.rpy:3216
     old "Cunnilingus (Risky)"
-    new ""
+    new "Cunnilingus (Arriscado)"
 
     # game/scripts/ash_events.rpy:3216
     old "Skip Ahead to Locker Room (No Risk)"
-    new ""
+    new "Pular para o Vestuário (Sem Risco)"
 
     # game/scripts/ash_events.rpy:4062
     old "Where did you come from?"
-    new ""
+    new "De onde você veio?"
 
     # game/scripts/ash_events.rpy:4062
     old "How are you going invisible?"
-    new ""
+    new "Como você está ficando invisível?"
 
     # game/scripts/ash_events.rpy:4062
     old "What is that blue flash?"
-    new ""
+    new "O que é aquela luz azul?"
 
     # game/scripts/ash_events.rpy:4062
     old "Crystal coma?"
-    new ""
+    new "Coma de cristal?"
 
     # game/scripts/ash_events.rpy:4062
     old "This has happened to your sister before?"
-    new ""
+    new "Isso já aconteceu com sua irmã antes?"
 
     # game/scripts/ash_events.rpy:4062
     old "Why shouldn't I tell anyone about fairies?"
-    new ""
+    new "Por que eu não deveria contar a ninguém sobre fadas?"
 
     # game/scripts/ash_events.rpy:4062
     old "What are you doing here?"
-    new ""
+    new "O que você está fazendo aqui?"
 
     # game/scripts/ash_events.rpy:4089
     old "If you want to live here, you owe me $5 a day."
-    new ""
+    new "Se você quer viver aqui, me deve $5 por dia."
 
     # game/scripts/ash_events.rpy:4105
     old "Tell us."
-    new ""
+    new "Conte para nós."
 
     # game/scripts/ash_events.rpy:4105
     old "I don't care."
-    new ""
+    new "Não me importo."
 
     # game/scripts/ash_events.rpy:4134
     old "Why do they implode?"
-    new ""
+    new "Por que eles implodem?"
 
     # game/scripts/ash_events.rpy:4134
     old "Can I use it?"
-    new ""
+    new "Posso usar isso?"
 
     # game/scripts/ash_events.rpy:4134
     old "Why don't you wear the crystal on another part of your body?"
-    new ""
+    new "Por que você não usa o cristal em outra parte do seu corpo?"
 
     # game/scripts/ash_events.rpy:4221
     old "[name]"
-    new ""
+    new "[name]"
 
     # game/scripts/ash_events.rpy:4271
     old "I'd eat you."
-    new ""
+    new "Eu comeria você"
 
     # game/scripts/ash_events.rpy:4271
     old "You could use some meat."
-    new ""
+    new "Um pouco de carne te cairia bem."
 
     # game/scripts/ash_events.rpy:4364
     old "You deserve somewhere to relax alone."
-    new ""
+    new "Você merece um lugar para relaxar sozinha."
 
     # game/scripts/ash_events.rpy:4364
     old "I would love to relax here with you."
-    new ""
+    new "Eu adoraria relaxar aqui com você."
 
     # game/scripts/ash_events.rpy:4378
     old "Uh... your eyes?"
-    new ""
+    new "Hum... seus olhos?"
 
     # game/scripts/ash_events.rpy:4378
     old "How is college going?"
-    new ""
+    new "Como está indo a faculdade?"
 
     # game/scripts/ash_events.rpy:4378
     old "What do you do out here?"
-    new ""
+    new "O que você faz aqui fora?"
 
     # game/scripts/ash_events.rpy:4378
     old "Are you looking for a job?"
-    new ""
+    new "Você está procurando um emprego?"
 
     # game/scripts/ash_events.rpy:4378
     old "How did you find this place?"
-    new ""
+    new "Como você achou este lugar?"
 
     # game/scripts/ash_events.rpy:4378
     old "Have you looked for Ms. Ren?"
-    new ""
+    new "Você procurou pela Sra. Ren?"
 
     # game/scripts/ash_events.rpy:4378
     old "Why do you want so many children?"
-    new ""
+    new "Por que você quer tantos filhos?"
 
     # game/scripts/ash_events.rpy:4378
     old "Where do you want to go on vacation?"
-    new ""
+    new "Onde você quer ir de férias?"
 
     # game/scripts/ash_events.rpy:4378
     old "Would you like to move out of the hotel?"
-    new ""
+    new "Você gostaria de sair do hotel?"
 
     # game/scripts/ash_events.rpy:4378
     old "Who are your favorite people at the hotel?"
-    new ""
+    new "Quem são as pessoas que você mais gosta no hotel?"
 
     # game/scripts/ash_events.rpy:4378
     old "If we had children, what would you name them?"
-    new ""
+    new "Se tivéssemos crianças, como você as chamaria?"
 
     # game/scripts/ash_events.rpy:4445
     old "It's nice to be alone sometimes."
-    new ""
+    new "É bom estar sozinho às vezes."
 
     # game/scripts/ash_events.rpy:4445
     old "You'd be happier if you spent more time with your friends."
-    new ""
+    new "Você seria mais feliz se passasse mais tempo com seus amigos."
 
     # game/scripts/ash_events.rpy:4459
     old "Papa Rons"
-    new ""
+    new "Papa Rons"
 
     # game/scripts/ash_events.rpy:4459
     old "The cafe"
-    new ""
+    new "A cafeteria"
 
     # game/scripts/ash_events.rpy:4459
     old "Be a lifeguard"
-    new ""
+    new "Ser uma salva-vidas"
 
     # game/scripts/ash_events.rpy:4459
     old "Be a chef"
-    new ""
+    new "Ser uma chef"
 
     # game/scripts/ash_events.rpy:4459
     old "Be a stripper"
-    new ""
+    new "Ser uma stripper"
 
     # game/scripts/ash_events.rpy:4459
     old "Be a nurse"
-    new ""
+    new "Ser uma enfermeira"
 
     # game/scripts/ash_events.rpy:4459
     old "Just be my personal baby maker."
-    new ""
+    new "Apenas seja a minha fábrica pessoal de bebês."
 
     # game/scripts/ash_events.rpy:4544
     old "Call me Daddy."
-    new ""
+    new "Me chame de papai."
 
     # game/scripts/ash_events.rpy:4544
     old "I don't want children."
-    new ""
+    new "Eu não quero filhos."
 
     # game/scripts/ash_events.rpy:4703
     old "Don't beat yourself up."
-    new ""
+    new "Não se culpe."
 
     # game/scripts/ash_events.rpy:4703
     old "You're very useful as a cock sleeve."
-    new ""
+    new "Você é muito útil como uma cocksleeve."
 
     # game/scripts/ash_events.rpy:4770
     old "She must have hit her head."
-    new ""
+    new "Ela deve ter batido a cabeça."
 
     # game/scripts/ash_events.rpy:4770
     old "She's lost too much blood."
-    new ""
+    new "Ela perdeu muito sangue."
 
     # game/scripts/ash_events.rpy:4770
     old "She's been shot."
-    new ""
+    new "Ela foi baleada."
 
     # game/scripts/ash_events.rpy:4920
     old "Absolutely."
-    new ""
+    new "Absolutamente."
 
     # game/scripts/ash_events.rpy:4920
     old "Have you checked the couch?"
-    new ""
+    new "Você verificou o sofá?"
 
     # game/scripts/ash_events.rpy:4927
     old "Fuck her pussy on the bed"
-    new ""
+    new "Foder o cu dela na cama"
 
     # game/scripts/ash_events.rpy:4927
     old "Pin her down and fuck her ass"
-    new ""
+    new "Prender ela e foder seu cu"
 
     # game/scripts/ash_events.rpy:5983
     old "{color=#8C8C8C}Sexy School Uniform{/color}"
-    new ""
+    new "{color=#8C8C8C}Uniforme Escolar Sexy{/color}"
 
     # game/scripts/ash_events.rpy:5983
     old "Sexy School Uniform"
-    new ""
+    new "Uniforme Escolar Sexy"
 
     # game/scripts/ash_events.rpy:5983
     old "{color=#8C8C8C}Nurse Outfit{/color}"
-    new ""
+    new "{color=#8C8C8C}Uniforme de Enfermeira{/color}"
 
     # game/scripts/ash_events.rpy:5983
     old "Nurse Outfit"
-    new ""
+    new "Uniforme de Enfermeira"
 
     # game/scripts/ash_events.rpy:5983
     old "{color=#8C8C8C}Nothing{/color}"
-    new ""
+    new "{color=#8C8C8C}Nada{/color}"
 
     # game/scripts/ash_events.rpy:5983
     old "Nothing"
-    new ""
+    new "Nada"
 
     # game/scripts/ash_events.rpy:6963
     old "I think I'll pass."
-    new ""
+    new "Acho que vou passar."
 
     # game/scripts/ash_events.rpy:7150
     old "I do."
-    new ""
+    new "Eu faço."
 
     # game/scripts/ash_events.rpy:7205
     old "{color=#8C8C8C}I mean it, I could fuck you right here.{/color}"
-    new ""
+    new "{color=#8C8C8C}Eu estou falando sério, eu poderia te foder aqui mesmo.{/color}"
 
     # game/scripts/ash_events.rpy:7205
     old "{color=#f0f020}I mean it, I could fuck you right here.{/color}"
-    new ""
+    new "{color=#f0f020}Eu estou falando sério, eu poderia te foder aqui mesmo.{/color}"
 
     # game/scripts/ash_events.rpy:7205
     old "Ready to go home?"
-    new ""
+    new "Já está pronta para ir para casa?"
 
     # game/scripts/ash_events.rpy:7231
     old "Ready for my cock in your ass?"
-    new ""
+    new "Já está pronta para meu pau dentro do seu cu?"
 
     # game/scripts/ash_events.rpy:7231
     old "I hope you enjoyed that."
-    new ""
+    new "Eu espero que você tenha gostado."
 
     # game/scripts/ash_events.rpy:7272
     old "Cum on her Face"
-    new ""
+    new "Gozar no Rosto dela"
 
     # game/scripts/ash_events.rpy:7502
     old "I love it!"
-    new ""
+    new "Eu adoro!"
 
     # game/scripts/ash_events.rpy:7502
     old "Meh..."
-    new ""
+    new "Meh..."
 
     # game/scripts/ash_events.rpy:7522
     old "Yeah, sure. Why not."
-    new ""
+    new "Sim, claro. Por que não."
 
     # game/scripts/ash_events.rpy:7522
     old "I don't know about this..."
-    new ""
+    new "Eu não sei sobre isso..."
 
     # game/scripts/ash_events.rpy:7532
     old "Alright... Fine."
-    new ""
+    new "Tudo bem... Certo."
 
     # game/scripts/ash_events.rpy:7532
     old "I think you should leave."
-    new ""
+    new "Eu acho que você deveria sair."
 
     # game/scripts/ash_events.rpy:7552
     old "Swallow the pills"
-    new ""
+    new "Engolir as pílulas"
 
     # game/scripts/ash_events.rpy:7552
     old "Return the pills"
-    new ""
+    new "Devolver as pílulas"
 
     # game/scripts/ash_events.rpy:7947
     old "{size=+50}Five minutes later...{/size}"
-    new ""
+    new "{size=+50}Cinco minutos depois...{/size}"
 
     # game/scripts/ash_events.rpy:8012
     old "{size=+50}One hour later...{/size}"
-    new ""
+    new "{size=+50}Uma hora depois...{/size}"
 
     # game/scripts/ash_events.rpy:8185
     old "Fair enough"
-    new ""
+    new "É justo"
 
     # game/scripts/ash_events.rpy:8185
     old "{color=#8C8C8C}Why not go nude then?{/color}"
-    new ""
+    new "{color=#8C8C8C}Por que não ficar nua então?{/color}"
 
     # game/scripts/ash_events.rpy:8185
     old "{color=#f0f020}Why not go nude then?{/color}"
-    new ""
+    new "{color=#f0f020}Por que não ficar nua então?{/color}"
 
     # game/scripts/ash_events.rpy:8209
     old "Ellen"
-    new ""
+    new "Ellen"
 
     # game/scripts/ash_events.rpy:8209
     old "[botname]"
-    new ""
+    new "[botname]"
 
     # game/scripts/ash_events.rpy:8209
     old "Felicity"
-    new ""
+    new "Felicity"
 
     # game/scripts/ash_events.rpy:8209
     old "Emma"
-    new ""
+    new "Emma"
 
     # game/scripts/ash_events.rpy:8270
     old "Attractiveness"
-    new ""
+    new "Atratividade"
 
     # game/scripts/ash_events.rpy:8270
     old "Sexyness"
-    new ""
+    new "Sexualidade"
 
     # game/scripts/ash_events.rpy:8270
     old "Cuteness"
-    new ""
+    new "Fofura"
 
     # game/scripts/ash_events.rpy:8270
     old "Hotness"
-    new ""
+    new "Sensualidade"
 
     # game/scripts/ash_events.rpy:8302
     old "None"
-    new ""
+    new "Nenhuma"
 
     # game/scripts/ash_events.rpy:8302
     old "One"
-    new ""
+    new "Um"
 
     # game/scripts/ash_events.rpy:8302
     old "Two"
-    new ""
+    new "Dois"
 
     # game/scripts/ash_events.rpy:8302
     old "Six"
-    new ""
+    new "Seis"
 
     # game/scripts/ash_events.rpy:8302
     old "Twelve"
-    new ""
+    new "Doze"
 
     # game/scripts/ash_events.rpy:8302
     old "Twenty"
-    new ""
+    new "Vinte"
 
     # game/scripts/ash_events.rpy:8302
     old "As many as you want"
-    new ""
+    new "Quantas você quiser"
 
     # game/scripts/ash_events.rpy:8412
     old "Son"
-    new ""
+    new "Filho"
 
     # game/scripts/ash_events.rpy:8412
     old "Daughter"
-    new ""
+    new "Filha"
 
     # game/scripts/ash_events.rpy:8438
     old "Of course!"
-    new ""
+    new "É claro!"
 
     # game/scripts/ash_events.rpy:8438
     old "Maybe?"
-    new ""
+    new "Talvez?"
 
     # game/scripts/ash_events.rpy:8503
     old "Never"
-    new ""
+    new "Nunca"
 
     # game/scripts/ash_events.rpy:8503
     old "Maybe"
-    new ""
+    new "Talvez"
 
     # game/scripts/ash_events.rpy:8503
     old "I would marry Maria"
-    new ""
+    new "Eu me casaria com a Maria"
 
     # game/scripts/ash_events.rpy:8584
     old "{color=#8C8C8C}Order Topless{/color}"
-    new ""
+    new "{color=#8C8C8C}Fazer um pedido sem camisa{/color}"
 
     # game/scripts/ash_events.rpy:8584
     old "Order Topless"
-    new ""
+    new "Fazer um pedido sem camisa"
 
     # game/scripts/ash_events.rpy:8584
     old "{color=#8C8C8C}Table Masturbation{/color}"
-    new ""
+    new "{color=#8C8C8C}Masturbação na Mesa{/color}"
 
     # game/scripts/ash_events.rpy:8584
     old "Table Masturbation"
-    new ""
+    new "Masturbação na Mesa"
 
     # game/scripts/ash_events.rpy:8584
     old "Give me a blowjob"
-    new ""
+    new "Me dê um boquete"
 
     # game/scripts/ash_events.rpy:8584
     old "{color=#8C8C8C}Let's have sex{/color}"
-    new ""
+    new "{color=#8C8C8C}Vamos fazer sexo{/color}"
 
     # game/scripts/ash_events.rpy:8584
     old "Let's have sex"
-    new ""
+    new "Vamos fazer sexo"
 
     # game/scripts/ash_events.rpy:9224
     old "Alright, let's do it."
-    new ""
+    new "Muito bem, vamos fazer isso."
 
     # game/scripts/ash_events.rpy:9224
     old "I'm not into that..."
-    new ""
+    new "Eu não estou afim disso..."
 
     # game/scripts/ash_events.rpy:9269
     old "Alright, fine."
-    new ""
+    new "Tudo bem, então."
 
     # game/scripts/ash_events.rpy:9269
     old "I've got somewhere to be..."
-    new ""
+    new "Eu tenho lugar para ir..."
 
     # game/scripts/ash_events.rpy:9294
     old "Peek Inside"
-    new ""
+    new "Espiar
 
     # game/scripts/ash_events.rpy:9294
     old "Ignore Her"
-    new ""
+    new "Ignorar Ela"
 
     # game/scripts/ash_events.rpy:9434
     old "Let's have some fun!"
-    new ""
+    new "Vamos nos divertir!"
 
     # game/scripts/ash_events.rpy:9481
     old "A Black Hole"
-    new ""
+    new "Um Buraco Negro"
 
     # game/scripts/ash_events.rpy:9481
     old "Humans"
-    new ""
+    new "Humanos"
 
     # game/scripts/ash_events.rpy:9481
     old "Love"
-    new ""
+    new "Amor"
 
     # game/scripts/ash_events.rpy:9500
     old "A snake"
-    new ""
+    new "Uma cobra"
 
     # game/scripts/ash_events.rpy:9500
     old "A coin"
-    new ""
+    new "Uma moeda"
 
     # game/scripts/ash_events.rpy:9500
     old "A painting"
-    new ""
+    new "Uma pintura"
 
     # game/scripts/ash_events.rpy:9518
     old "God"
-    new ""
+    new "Deus"
 
     # game/scripts/ash_events.rpy:9518
     old "An echo"
-    new ""
+    new "Um eco"
 
     # game/scripts/ash_events.rpy:9518
     old "The soul"
-    new ""
+    new "A alma"
 
     # game/scripts/ash_events.rpy:9539
     old "The heart"
-    new ""
+    new "O coração"
 
     # game/scripts/ash_events.rpy:9539
     old "A chatroom"
-    new ""
+    new "Uma sala de bate-papo"
 
     # game/scripts/ash_events.rpy:9539
     old "A locked room"
-    new ""
+    new "Um quarto trancado"
 
     # game/scripts/ash_events.rpy:9539
     old "A mushroom"
-    new ""
+    new "Um cogumelo"
 
     # game/scripts/ash_events.rpy:9561
     old "A bridge"
-    new ""
+    new "Uma ponte"
 
     # game/scripts/ash_events.rpy:9561
     old "A missile"
-    new ""
+    new "Um míssil"
 
     # game/scripts/ash_events.rpy:9561
     old "A rock"
-    new ""
+    new "Uma pedra"
 
     # game/scripts/ash_events.rpy:9578
     old "A mirror"
-    new ""
+    new "Um espelho"
 
     # game/scripts/ash_events.rpy:9578
     old "A cogwheel"
-    new ""
+    new "Um engrenagem"
 
     # game/scripts/ash_events.rpy:9578
     old "A wheel"
-    new ""
+    new "Uma roda"
 
     # game/scripts/ash_events.rpy:9578
     old "The sun"
-    new ""
+    new "O sol"
 
     # game/scripts/ash_events.rpy:9602
     old "The Earth"
-    new ""
+    new "A Terra"
 
     # game/scripts/ash_events.rpy:9602
     old "Belief"
-    new ""
+    new "Acreditar"
 
     # game/scripts/ash_events.rpy:9602
     old "Living Things"
-    new ""
+    new "Coisas Viventes"
 
     # game/scripts/ash_events.rpy:9602
     old "Memories"
-    new ""
+    new "Memórias"
 
     # game/scripts/ash_events.rpy:9628
     old "What's the Answer?"
-    new ""
+    new "Qual é a Resposta?"
 
     # game/scripts/ash_events.rpy:9641
     old "Nickel"
-    new ""
+    new "Níquel"
 
     # game/scripts/ash_events.rpy:9641
     old "Zinc"
-    new ""
+    new "Zinco"
 
     # game/scripts/ash_events.rpy:9641
     old "Iron"
-    new ""
+    new "Ferro"
 
     # game/scripts/ash_events.rpy:9641
     old "Lead"
-    new ""
+    new "Chumbo"
 
     # game/scripts/ash_events.rpy:9641
     old "Steel"
-    new ""
+    new "Aço"
 
     # game/scripts/ash_events.rpy:9663
     old "A candle"
-    new ""
+    new "Uma vela"
 
     # game/scripts/ash_events.rpy:9663
     old "Ice cream"
-    new ""
+    new "Sorvete"
 
     # game/scripts/ash_events.rpy:9663
     old "A cheetah"
-    new ""
+    new "Uma chita"
 
     # game/scripts/ash_events.rpy:9663
     old "A clock"
-    new ""
+    new "Um relógio"
 
     # game/scripts/ash_events.rpy:9682
     old "A child's drawing"
-    new ""
+    new "O desenho de uma criança"
 
     # game/scripts/ash_events.rpy:9682
     old "A park"
-    new ""
+    new "Um parque"
 
     # game/scripts/ash_events.rpy:9682
     old "A map"
-    new ""
+    new "Um mapa"
 
     # game/scripts/ash_events.rpy:9682
     old "Abstract art"
-    new ""
+    new "Arte abstrata"
 
     # game/scripts/ash_events.rpy:9682
     old "A postcard"
-    new ""
+    new "Um cartão postal"
 
     # game/scripts/ash_events.rpy:9682
     old "A hologram"
-    new ""
+    new "Um holograma"
 
     # game/scripts/ash_events.rpy:9709
     old "Everyone got off."
-    new ""
+    new "Todo mundo saiu."
 
     # game/scripts/ash_events.rpy:9709
     old "Everyone fell off."
-    new ""
+    new "Todo mundo caiu."
 
     # game/scripts/ash_events.rpy:9709
     old "Everyone is married."
-    new ""
+    new "Todo mundo é casado."
 
     # game/scripts/ash_events.rpy:9709
     old "Pirate attack."
-    new ""
+    new "Ataque de piratas."
 
     # game/scripts/ash_events.rpy:9709
     old "We left without the others."
-    new ""
+    new "Nós saímos sem os outros."
 
     # game/scripts/ash_events.rpy:9709
     old "There's a murderer."
-    new ""
+    new "Há um assassino."
 
     # game/scripts/ash_events.rpy:9709
     old "Everyone is holding hands."
-    new ""
+    new "Todo mundo está segurando as mãos."
 
     # game/scripts/ash_events.rpy:9738
     old "A shirt"
-    new ""
+    new "Uma camisa"
 
     # game/scripts/ash_events.rpy:9738
     old "My crippled daughter"
-    new ""
+    new "Minha filha deficiente"
 
     # game/scripts/ash_events.rpy:9738
     old "A tarp"
-    new ""
+    new "Uma lona"
 
     # game/scripts/ash_events.rpy:9738
     old "An electric blanket"
-    new ""
+    new "Uma coberta elétrica"
 
     # game/scripts/ash_events.rpy:9757
     old "A car"
-    new ""
+    new "Um carro"
 
     # game/scripts/ash_events.rpy:9757
     old "A megaphone"
-    new ""
+    new "Um megafone"
 
     # game/scripts/ash_events.rpy:9757
     old "Shoes"
-    new ""
+    new "Sapatos"
 
     # game/scripts/ash_events.rpy:9757
     old "A bell"
-    new ""
+    new "Um sino"
 
     # game/scripts/ash_events.rpy:9757
     old "A whistle"
-    new ""
+    new "Um apito"
 
     # game/scripts/ash_events.rpy:9757
     old "A phone"
-    new ""
+    new "Um telefone"
 
     # game/scripts/ash_events.rpy:9757
     old "An alarm"
-    new ""
+    new "Um alarme"
 
     # game/scripts/ash_events.rpy:9803
     old "My sex bot"
-    new ""
+    new "O meu robô sexual"
 
     # game/scripts/ash_events.rpy:9803
     old "My dog"
-    new ""
+    new "O meu cachorro"
 
     # game/scripts/ash_events.rpy:9803
     old "My clock"
-    new ""
+    new "O meu relógio"
 
     # game/scripts/ash_events.rpy:9803
     old "My wife"
-    new ""
+    new "Minha esposa"
 
     # game/scripts/ash_events.rpy:9803
     old "My disobedient child"
-    new ""
+    new "Minha criança desobediente"
 
     # game/scripts/ash_events.rpy:9824
     old "A werewolf"
-    new ""
+    new "Um lobisomem"
 
     # game/scripts/ash_events.rpy:9824
     old "Scissors"
-    new ""
+    new "Tesouras"
 
     # game/scripts/ash_events.rpy:9824
     old "A lion"
-    new ""
+    new "Um leão"
 
     # game/scripts/ash_events.rpy:9824
     old "A Venus flytrap"
-    new ""
+    new "Uma planta carnívora"
 
     # game/scripts/ash_events.rpy:9824
     old "A stapler"
-    new ""
+    new "Um grampeador"
 
     # game/scripts/ash_events.rpy:9848
     old "Water"
-    new ""
+    new "Água"
 
     # game/scripts/ash_events.rpy:9848
     old "A shadow"
-    new ""
+    new "Uma sombra"
 
     # game/scripts/ash_events.rpy:9848
     old "Sound"
-    new ""
+    new "Som"
 
     # game/scripts/ash_events.rpy:9848
     old "Air"
-    new ""
+    new "Ar"
 
     # game/scripts/ash_events.rpy:9848
     old "Smoke"
-    new ""
+    new "Fumaça"
 
     # game/scripts/ash_events.rpy:9848
     old "Light"
-    new ""
+    new "Luz"
 
     # game/scripts/ash_events.rpy:9872
     old "Gold"
-    new ""
+    new "Ouro"
 
     # game/scripts/ash_events.rpy:9872
     old "My slave"
-    new ""
+    new "Meu escravo"
 
     # game/scripts/ash_events.rpy:9872
     old "Kingdoms"
-    new ""
+    new "Reinos"
 
     # game/scripts/ash_events.rpy:9872
     old "A mermaid"
-    new ""
+    new "Uma sereia"
 
     # game/scripts/ash_events.rpy:9908
     old "A pineapple"
-    new ""
+    new "Um abacaxi"
 
     # game/scripts/ash_events.rpy:9908
     old "An egg"
-    new ""
+    new "Um ovo"
 
     # game/scripts/ash_events.rpy:9908
     old "Treasure chest"
-    new ""
+    new "Um baú de tesouro"
 
     # game/scripts/ash_events.rpy:9908
     old "A banana"
-    new ""
+    new "Uma banana"
 
     # game/scripts/ash_events.rpy:9908
     old "A bee's nest"
-    new ""
+    new "Um ninho de abelhas"
 
     # game/scripts/ash_events.rpy:9929
     old "An apple"
-    new ""
+    new "Um maçã"
 
     # game/scripts/ash_events.rpy:9929
     old "A city"
-    new ""
+    new "Uma cidade"
 
     # game/scripts/ash_events.rpy:9929
     old "Space"
-    new ""
+    new "O Espaço"
 
     # game/scripts/ash_events.rpy:9929
     old "Tornado"
-    new ""
+    new "Um tornado"
 
     # game/scripts/ash_events.rpy:9929
     old "Fire"
-    new ""
+    new "Fogo"
 
     # game/scripts/ash_events.rpy:9950
     old "A soul"
-    new ""
+    new "Uma alma"
 
     # game/scripts/ash_events.rpy:9950
     old "A heart"
-    new ""
+    new "Um coração"
 
     # game/scripts/ash_events.rpy:9950
     old "Compassion"
-    new ""
+    new "Compaixão"
 
     # game/scripts/ash_events.rpy:9950
     old "Free time"
-    new ""
+    new "Tempo livre"
 
     # game/scripts/ash_events.rpy:9971
     old "DNA"
-    new ""
+    new "DNA"
 
     # game/scripts/ash_events.rpy:9971
     old "Family Name"
-    new ""
+    new "Nome da Família"
 
     # game/scripts/ash_events.rpy:9971
     old "Hairline"
-    new ""
+    new "Linha do Cabelo"
 
     # game/scripts/ash_events.rpy:9971
     old "An Heirloom"
-    new ""
+    new "Uma Herança"
 
     # game/scripts/ash_events.rpy:9971
     old "Money"
-    new ""
+    new "Dinheiro"
 
     # game/scripts/ash_events.rpy:9992
     old "Uh, creepy?"
-    new ""
+    new "Hum, assustador?"
 
     # game/scripts/ash_events.rpy:9992
     old "A Stalker"
-    new ""
+    new "Um Perseguidor"
 
     # game/scripts/ash_events.rpy:9992
     old "A Psychopathic Android"
-    new ""
+    new "Um Androide Psicopata"
 
     # game/scripts/ash_events.rpy:9992
     old "The Wind"
-    new ""
+    new "O Vento"
 
     # game/scripts/ash_events.rpy:9992
     old "The Sun"
-    new ""
+    new "O Sol"
 
     # game/scripts/ash_events.rpy:9992
     old "The being in my nightmares"
-    new ""
+    new "O ser em meus pesadelos"
 
     # game/scripts/ash_events.rpy:10058
     old "Let's do this."
-    new ""
+    new "Vamos fazer isso."
 
     # game/scripts/ash_events.rpy:10228
     old "Cum on Felicity"
-    new ""
+    new "Gozar em Felicity"
 
     # game/scripts/ash_events.rpy:10228
     old "Cum on Emma"
-    new ""
+    new "Gozar em Emma"
 
     # game/scripts/ash_events.rpy:10424
     old "It was terrible"
-    new ""
+    new "Isso foi terrível"
 
     # game/scripts/ash_events.rpy:10424
     old "It was great!"
-    new ""
+    new "Isso foi ótimo!"
 
     # game/scripts/ash_events.rpy:10467
     old "Lift her top"
-    new ""
+    new "Levantar a camisa dela"
 
     # game/scripts/ash_events.rpy:10467
     old "Don't interfere"
-    new ""
+    new "Não interferir"
 
     # game/scripts/ash_events.rpy:10676
     old "Yep, that's me. Your boyfriend."
-    new ""
+    new "Sim, esse sou eu. Seu namorado."
 
     # game/scripts/ash_events.rpy:10676
     old "Don't jump to conclusions"
-    new ""
+    new "Não tire conclusões precipitadas"
 
     # game/scripts/ash_events.rpy:10762
     old "{color=#8C8C8C}Your pet name will be...{/color}"
-    new ""
+    new "{color=#8C8C8C}O seu nome de pet será...{/color}"
 
     # game/scripts/ash_events.rpy:10762
     old "Your pet name will be..."
-    new ""
+    new "O seu nome de pet será..."
 
     # game/scripts/ash_events.rpy:10762
     old "{color=#8C8C8C}Let's go on a date.{/color}"
-    new ""
+    new "{color=#8C8C8C}Vamos sair para um encontro.{/color}"
 
     # game/scripts/ash_events.rpy:10762
     old "Let's go on a date. {color=#FF0000}(+Affection){/color}"
-    new ""
+    new "Vamos sair para um encontro. {color=#FF0000}(+Afeição){/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Default <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Padrão <{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Sexy School Uniform <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Uniforme Escolar Sexy <{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Goth Outfit <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Roupa Gótica <{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Goth Outfit{/color}"
-    new ""
+    new "{color=#8C8C8C}Roupa Gótica{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "Goth Outfit"
-    new ""
+    new "Roupa Gótica"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Harem Set <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Conjunto de Harem <{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Harem Set{/color}"
-    new ""
+    new "{color=#8C8C8C}Conjunto de Harem{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "Harem Set"
-    new ""
+    new "Conjunto de Harem"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Natural <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Natural <{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Natural{/color}"
-    new ""
+    new "{color=#8C8C8C}Natural{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "Natural"
-    new ""
+    new "Natural"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Lingerie <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Lingerie <{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}Lingerie{/color}"
-    new ""
+    new "{color=#8C8C8C}Lingerie{/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "Lingerie"
-    new ""
+    new "Lingerie"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Slut Outfit <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Conjunto de Vadia {/color}"
 
     # game/scripts/ash_events.rpy:10916
     old "{color=#8C8C8C}> Ropes <{/color}"
-    new ""
+    new "{color=#8C8C8C}> Cordas <{/color}"
 
     # game/scripts/ash_events.rpy:11093
     old "What will her name be?"
-    new ""
+    new "Qual será o nome dela?"
 
     # game/scripts/ash_events.rpy:11141
     old "Freestyle"
-    new ""
+    new "Freestyle"
 
     # game/scripts/ash_events.rpy:11141
     old "Cowgirl"
-    new ""
+    new "Vaqueira"
 
     # game/scripts/ash_events.rpy:11141
     old "Foursome"
-    new ""
+    new "Quarteto"
 
     # game/scripts/ash_events.rpy:11470
     old "Cum"
-    new ""
+    new "Gozar"
 
     # game/scripts/ash_events.rpy:11729
     old "Talk to Runa"
-    new ""
+    new "Falar com Runa"
 
     # game/scripts/ash_events.rpy:11729
     old "Talk to Cia"
-    new ""
+    new "Falar com Cia"
 
     # game/scripts/ash_events.rpy:11729
     old "Talk to Zoia"
-    new ""
+    new "Falar com Zoia"
 
     # game/scripts/ash_events.rpy:12056
     old "You aren't wearing panties?"
-    new ""
+    new "Você não está usando calcinha?"
 
     # game/scripts/ash_events.rpy:12056
     old "Nothing, just checking up on you."
-    new ""
+    new "Nada, só estou verificando se você está bem."
 
     # game/scripts/ash_events.rpy:12066
     old "Very"
-    new ""
-
-    # game/scripts/ash_events.rpy:12066
+    new "Muito"
+    
+        # game/scripts/ash_events.rpy:12066
     old "It's alright"
-    new ""
+    new "Está tudo bem"
 
     # game/scripts/ash_events.rpy:12184
     old "They're great."
-    new ""
+    new "São ótimas."
 
     # game/scripts/ash_events.rpy:12184
     old "Well..."
-    new ""
+    new "Bem..."
 
     # game/scripts/ash_events.rpy:12539
     old "Sure, but not as payment."
-    new ""
+    new "Claro, mas não como pagamento."
 
     # game/scripts/ash_events.rpy:12539
     old "I don't like anal..."
-    new ""
+    new "Não gosto de anal..."
 
     # game/scripts/ash_events.rpy:13092
     old "Sure (But I don't want to sit through a boring movie...)"
-    new ""
+    new "Claro (Mas eu não quero assistir a um filme chato...)"
 
     # game/scripts/ash_events.rpy:13092
     old "I can't right now"
-    new ""
+    new "Não posso agora"
 
